@@ -1382,8 +1382,22 @@
     let currentModalRecipeId = null;
     let onlyFavorites = false;
     let favorites = JSON.parse(localStorage.getItem('umamicraft_favs') || '[]');
-    let heroIndex = 0;
-    const HERO_IDS = [30, 17, 26, 13, 143, 210, 223, 248, 32, 175];
+    let currentHeroId = null;
+    let recentHeroIds = [];
+
+    function pickRandomRecipe() {
+      if (!recipes || !recipes.length) return null;
+      // Exclude recent recipes to avoid repetition in succession
+      let pool = recipes.filter(r => !recentHeroIds.includes(r.id));
+      if (pool.length === 0) {
+        recentHeroIds = [];
+        pool = recipes;
+      }
+      const chosen = pool[Math.floor(Math.random() * pool.length)];
+      recentHeroIds.push(chosen.id);
+      if (recentHeroIds.length > 30) recentHeroIds.shift();
+      return chosen;
+    }
 
     async function init() {
       // Load saved theme
@@ -1512,11 +1526,25 @@
       return m ? parseInt(m[0], 10) : 9999;
     }
 
-    function renderHero() {
+    function renderHero(targetRecipe = null) {
       if (!recipes.length) return;
-      const targetId = HERO_IDS[heroIndex % HERO_IDS.length];
-      const r = recipes.find(x => x.id === targetId) || recipes[0];
+      let r = targetRecipe;
+      if (!r) {
+        if (currentHeroId) {
+          r = recipes.find(x => x.id === currentHeroId);
+        }
+        if (!r) {
+          r = pickRandomRecipe();
+        }
+      }
+      if (!r) r = recipes[0];
+      currentHeroId = r.id;
+
       const heroCard = document.getElementById('heroCard');
+      if (!heroCard) return;
+
+      heroCard.style.transition = 'opacity 0.25s ease';
+      heroCard.style.opacity = '1';
 
       heroCard.innerHTML = `
         <div class="hero-content-col">
@@ -1531,7 +1559,7 @@
           </div>
           <div class="hero-btns">
             <button class="btn-hero-main" onclick="openModal(${r.id})">Ver Receta Paso a Paso →</button>
-            <button class="btn-hero-sec" onclick="nextHeroRecipe()">🔄 Otra Sugerencia</button>
+            <button class="btn-hero-sec" onclick="nextHeroRecipe()" title="Elegir otra receta al azar de las 257">🎲 Otra Sugerencia</button>
           </div>
         </div>
         <div class="hero-img-col">
@@ -1541,8 +1569,15 @@
     }
 
     function nextHeroRecipe() {
-      heroIndex = (heroIndex + 1) % HERO_IDS.length;
-      renderHero();
+      const heroCard = document.getElementById('heroCard');
+      if (heroCard) heroCard.style.opacity = '0.3';
+      setTimeout(() => {
+        const nextR = pickRandomRecipe();
+        if (nextR) {
+          currentHeroId = nextR.id;
+          renderHero(nextR);
+        }
+      }, 150);
     }
 
     function openRandomRecipe() {
