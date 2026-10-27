@@ -18078,5 +18078,975 @@
     "image": "pollo_al_disco.jpg",
     "url": "https://recarg.blogspot.com/2024/11/pollo-al-disco-con-verdeo.html",
     "original_title": "Pollo al Disco con Verdeo"
+  },
+  {
+    "id": 269,
+    "title": "Pamplona de Pollo a las Brasas (Uruguay)",
+    "country": "Uruguay",
+    "category": "Pollo / Aves",
+    "tags": [
+      "pollo",
+      "uruguay",
+      "parrilla",
+      "brasas",
+      "pamplona",
+      "panceta",
+      "queso",
+      "morron"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "35 min",
+    "rest_time": "15 min (en heladera antes de asar)",
+    "temperature": "Brasas moderadas / Horno a 200 °C",
+    "servings": "4 porciones (2 pamplonas grandes)",
+    "calories": "560 kcal aprox. por porción",
+    "diet_badges": [
+      "Sin Gluten",
+      "Alto en Proteína"
+    ],
+    "published": "2024-03-04T13:20:00.000-03:00",
+    "story": "Nacida en la ciudad uruguaya de Florida en la década de 1960 en el frigorífico Schuepbach, la pamplona es un emblema de la parrilla oriental: una pechuga de pollo abierta en mariposa y rellena con queso muzzarella o provolone, morrón asado al fuego, jamón cocido natural y aceitunas, envuelta de forma hermética en panceta ahumada y atada con hilo parrillero para dorarse lentamente sobre las brasas hasta quedar crocante por fuera y ultra jugosa por dentro.",
+    "ingredient_groups": [
+      {
+        "name": "Para el arrollado de pollo",
+        "items": [
+          "2 pechugas de pollo grandes y enteras, desgrasadas y abiertas en mariposa (formato bife grande)",
+          "12 fetas de panceta ahumada frotada con pimienta (para envolver)",
+          "Sal fina, pimienta negra molida y ají molido a gusto",
+          "Hilo de carnicero para bridar"
+        ]
+      },
+      {
+        "name": "Para el relleno parrillero tradicional",
+        "items": [
+          "200 g de queso muzzarella firme o queso provolone en bastones gruesos",
+          "1 morrón rojo asado al fuego pelado y cortado en tiras anchas",
+          "100 g de jamón cocido natural en fetas",
+          "10 aceitunas verdes sin carozo descarozadas y picadas gruesas",
+          "1 cucharada de orégano seco y chimichurri seco"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Apertura y condimentado del pollo",
+        "steps": [
+          "Abrir cada pechuga al medio tipo libro o mariposa con un cuchillo bien afilado, cuidando de no perforar la carne.",
+          "Colocar entre dos hojas de papel film y aplanar suavemente con un mazo para emparejar el grosor en unos 1,5 cm parejos.",
+          "Salpimentar la carne de ambos lados y espolvorear con orégano y una pizca de ají molido."
+        ]
+      },
+      {
+        "name": "Relleno y enrollado con panceta",
+        "steps": [
+          "Sobre la mesada, disponer una capa continua de fetas de panceta ahumada ligeramente superpuestas entre sí.",
+          "Apoyar la pechuga estirada sobre la panceta.",
+          "En el tercio inferior de la carne, acomodar las fetas de jamón, los bastones de queso, las tiras de morrón asado y las aceitunas picadas.",
+          "Enrollar con firmeza y cuidado desde abajo hacia arriba, logrando un cilindro compacto donde la panceta cubra todo el exterior.",
+          "Atar la pamplona con hilo de carnicero a intervalos de 2 cm y cerrar bien las dos puntas para que el queso no se escape durante la cocción.",
+          "Llevar a la heladera durante 15 a 20 minutos para que tome cuerpo y mantenga la forma."
+        ]
+      },
+      {
+        "name": "Cocción a las brasas o al horno",
+        "steps": [
+          "En la parrilla: Colocar sobre una parrilla a fuego moderado (la mano debe aguantar 7 a 8 segundos a la altura de la carne). Girar un cuarto de vuelta cada 8 a 10 minutos para dorar los 4 lados parejos durante unos 35 minutos hasta que la panceta esté crocante y el pollo cocido pero jugoso.",
+          "Al horno: Hornear en placa precalentada a 200 °C durante 30 a 35 minutos, rotando a mitad de cocción.",
+          "Dejar reposar 5 minutos antes de cortar el hilo, rebanar al sesgo en rodajas gruesas y servir con gajos de limón fresco y ensalada rusa o papas fritas."
+        ]
+      }
+    ],
+    "notes": "El secreto de una gran pamplona es no sobrecargar de queso las puntas y atar con firmeza: la panceta debe derretir su grasa dorándose lentamente y sellando la humedad interna del pollo.",
+    "image": "pamplona_pollo.jpg",
+    "url": "https://recarg.blogspot.com/2024/03/pamplona-pollo-uruguay.html",
+    "original_title": "Pamplona de Pollo a las Brasas"
+  },
+  {
+    "id": 270,
+    "title": "Revuelto Gramajo Tradicional (Uruguay)",
+    "country": "Uruguay",
+    "category": "Huevos / Desayunos",
+    "tags": [
+      "huevos",
+      "uruguay",
+      "bodegon",
+      "papas pay",
+      "jamon",
+      "arvejas",
+      "revuelto gramajo",
+      "clasico"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "12 min",
+    "rest_time": "0 min",
+    "temperature": "Sartén a fuego medio-bajo",
+    "servings": "4 porciones",
+    "calories": "480 kcal aprox. por porción",
+    "diet_badges": [
+      "Sin Gluten",
+      "Alto en Proteína"
+    ],
+    "published": "2024-03-22T20:10:00.000-03:00",
+    "story": "Nacido en las tertulias nocturnas rioplatenses de finales del siglo XIX e inmortalizado en los cafés y bodegones de Montevideo, el Revuelto Gramajo es una obra de arte del confort: papas pay caseras cortadas finísimas como hilos y fritas hasta quedar secas y crujientes, mezcladas en sartén con manteca, jamón cocido en juliana y huevos de campo batidos apenas cuajados para conservar una textura sedosa y húmeda, coronadas con arvejas frescas salteadas.",
+    "ingredient_groups": [
+      {
+        "name": "Para las papas pay caseras",
+        "items": [
+          "4 papas medianas de pulpa firme (tipo Spunta o Kennebec), peladas",
+          "Abundante aceite de girasol para freír",
+          "Sal fina a gusto"
+        ]
+      },
+      {
+        "name": "Para el revuelto y terminación",
+        "items": [
+          "6 huevos frescos de campo",
+          "200 g de jamón cocido natural de primera calidad, cortado en juliana fina",
+          "1 taza de arvejas frescas cocidas al vapor o en lata escurridas",
+          "40 g de manteca",
+          "1 cucharada de aceite de oliva",
+          "Pimienta negra recién molida y perejil fresco picado para terminar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Elaboración de las papas pay perfectas",
+        "steps": [
+          "Cortar las papas con mandolina o a cuchillo en bastones ultrafinos de 1 a 2 mm de espesor (hilo/pay).",
+          "Lavarlas en un bol con agua helada tres veces para retirar todo el almidón superficial, luego secarlas minuciosamente entre dos paños de cocina limpios (deben quedar completamente secas para no pegarse).",
+          "Calentar abundante aceite a 180 °C y freír las papas en tandas pequeñas durante 2 a 3 minutos hasta que estén doradas y crocantes como paja seca. Escurrir sobre papel absorbente y salar de inmediato."
+        ]
+      },
+      {
+        "name": "Cocción del revuelto cremoso",
+        "steps": [
+          "En un bol grande cascar los 6 huevos, añadir sal y pimienta negra molida, y batir ligeramente con tenedor solo para romper las yemas (sin espumar).",
+          "En una sartén grande y antiadherente a fuego medio, derretir la manteca junto al hilo de aceite de oliva.",
+          "Agregar el jamón cocido en juliana y las arvejas; saltear durante 1 minuto para que tomen temperatura y el jamón desprenda su perfume.",
+          "Bajar el fuego al mínimo. Verter los huevos batidos y comenzar a revolver con espátula de silicona con movimientos suaves desde los bordes hacia el centro.",
+          "Cuando el huevo esté a medio cuajar (aún cremoso, jugoso y húmedo, no seco), incorporar de golpe tres cuartas partes de las papas pay crocantes.",
+          "Mezclar con suavidad durante 15 segundos para que las papas se integren al huevo sin perder su crujido característico y apagar el fuego de inmediato."
+        ]
+      },
+      {
+        "name": "Servicio de bodegón",
+        "steps": [
+          "Servir de inmediato en fuente caliente, coronar por encima con el resto de las papas pay bien crocantes reservadas y una lluvia de perejil fresco picado.",
+          "Llevar a la mesa humeante: el contraste entre la cremosidad del huevo y el crocante de las papas pay es celestial."
+        ]
+      }
+    ],
+    "notes": "El error capital en un Gramajo es cocinar el huevo hasta secarlo: debe quedar como una crema untuosa (babé). Retirar de la sartén con el fuego apagado y el calor residual termina el punto perfecto.",
+    "image": "revuelto_gramajo.jpg",
+    "url": "https://recarg.blogspot.com/2024/03/revuelto-gramajo-uruguay.html",
+    "original_title": "Revuelto Gramajo Tradicional"
+  },
+  {
+    "id": 271,
+    "title": "Moqueca Baiana de Pescado y Camarones (Brasil)",
+    "country": "Brasil",
+    "category": "Pescados y Mariscos",
+    "tags": [
+      "pescado",
+      "camarones",
+      "brasil",
+      "moqueca",
+      "leche de coco",
+      "aceite de dende",
+      "bahia",
+      "cazuela"
+    ],
+    "prep_time": "25 min",
+    "cook_time": "20 min",
+    "rest_time": "20 min (marinado del pescado)",
+    "temperature": "Cazuela tapada a fuego medio",
+    "servings": "4 porciones",
+    "calories": "510 kcal aprox. por porción",
+    "diet_badges": [
+      "Sin Gluten",
+      "Sin Lácteos",
+      "Alto en Proteína"
+    ],
+    "published": "2024-04-09T14:40:00.000-03:00",
+    "story": "Nacida del encuentro mágico entre las tradiciones culinarias indígenas y africanas en Salvador de Bahía, la Moqueca Baiana se cocina tradicionalmente en cazuelas de barro negro (panela de barro). Se construye por capas de postas de pescado firme y camarones frescos marinados en lima y ajo, intercalados con pimientos morrones y cebollas, cocidos lentamente en una reducción aterciopelada de leche de coco cremosa y perfumados con el inconfundible aceite de dendê dorado y cilantro fresco.",
+    "ingredient_groups": [
+      {
+        "name": "Para el marinado de los mariscos",
+        "items": [
+          "600 g de postas de pescado blanco firme (abadejo, mero, corvina o salmón blanco) cortado en trozos de 4 cm",
+          "300 g de camarones limpios y desvenados",
+          "Jugo de 2 limas frescas (o limones)",
+          "3 dientes de ajo picados fino",
+          "Sal marina y pimienta blanca molida a gusto"
+        ]
+      },
+      {
+        "name": "Para el armado de la moqueca",
+        "items": [
+          "2 cebollas blancas medianas cortadas en aros",
+          "1 pimiento morrón rojo y 1 pimiento amarillo en aros",
+          "1 pimiento verde en aros",
+          "3 tomates perita maduros cortados en rodajas",
+          "400 ml de leche de coco entera cremosa",
+          "3 cucharadas de auténtico aceite de dendê (aceite de palma rojo)",
+          "1 taza de cilantro fresco finamente picado",
+          "2 tallos de cebolla de verdeo picados",
+          "1 chile dedo de moça (o ají picante fresco) finamente picado a gusto"
+        ]
+      },
+      {
+        "name": "Guarnición tradicional",
+        "items": [
+          "Arroz blanco suelto al vapor",
+          "Farofa de mandioca tostada en manteca o aceite de dendê"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Marinado del pescado",
+        "steps": [
+          "Disponer las postas de pescado y los camarones en una fuente.",
+          "Condimentar con el jugo de lima, ajo picado, sal marina y pimienta. Dejar marinar 20 minutos en heladera mientras se cortan los vegetales."
+        ]
+      },
+      {
+        "name": "Construcción en capas en la cazuela",
+        "steps": [
+          "En una cazuela de barro (o sartén de fondo grueso con tapa), colocar en la base una capa de aros de cebolla, pimientos y rodajas de tomate.",
+          "Acomodar por encima las postas de pescado en una sola capa pareja y distribuir los camarones por los huecos.",
+          "Cubrir con otra capa del resto de las cebollas, pimientos y tomates en rodajas.",
+          "Espolvorear con la mitad del cilantro picado, el verdeo y el chile picante."
+        ]
+      },
+      {
+        "name": "Cocción al vapor de coco y dendê",
+        "steps": [
+          "Verter toda la leche de coco cubriendo los ingredientes y rociar por encima con las 3 cucharadas de aceite de dendê (que teñirá la salsa de un color naranja dorado brillante y aportará su sabor terroso característico).",
+          "Tapar la cazuela y llevar a fuego medio. Cuando rompa en hervor suave, cocinar durante 15 minutos sin revolver para que las postas de pescado no se desarmen (solo sacudir suavemente la cazuela por las asas).",
+          "Destapar, rectificar de sal y dejar hervir 3 minutos más para que la salsa ligue y espese ligeramente.",
+          "Apagar el fuego, espolvorear con el resto del cilantro fresco picado y servir hirviendo directamente en la cazuela, acompañado de arroz blanco y farofa."
+        ]
+      }
+    ],
+    "notes": "El aceite de dendê es insustituible para lograr el auténtico aroma de Bahía. No agregues agua ni caldo: los vegetales y el pescado desprenden sus propios jugos naturales que se emulsionan con la leche de coco.",
+    "image": "moqueca_baiana.jpg",
+    "url": "https://recarg.blogspot.com/2024/04/moqueca-baiana-brasil.html",
+    "original_title": "Moqueca Baiana de Pescado y Camarones"
+  },
+  {
+    "id": 272,
+    "title": "Pão de Queijo Tradicional (Brasil)",
+    "country": "Brasil",
+    "category": "Panadería",
+    "tags": [
+      "panaderia",
+      "brasil",
+      "queso",
+      "mandioca",
+      "pao de queijo",
+      "sin gluten",
+      "snack",
+      "desayuno"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "25 min",
+    "rest_time": "15 min (enfriado de masa)",
+    "temperature": "Horno precalentado a 190 °C",
+    "servings": "6 porciones (unas 25 a 30 bolitas)",
+    "calories": "210 kcal aprox. por porción (4 unidades)",
+    "diet_badges": [
+      "Sin Gluten",
+      "Vegetariano"
+    ],
+    "published": "2024-04-28T16:00:00.000-03:00",
+    "story": "Originario del estado de Minas Gerais en el siglo XVIII, cuando la harina de trigo escaseaba y las cocineras locales empleaban el polvillo de mandioca derivado de las raíces autóctonas mezclado con los quesos curados de granja. El Pão de Queijo es un milagro culinario naturalmente libre de gluten: esferas doradas y crujientes por fuera, con un interior elástico, aireado y suave que rebosa de sabor a queso fundido y se come recién salido del horno con un buen café.",
+    "ingredient_groups": [
+      {
+        "name": "Para la masa escaldada",
+        "items": [
+          "500 g de polvillo de mandioca (idealmente mitad polvillo dulce y mitad polvillo agrio, o fécula de mandioca pura)",
+          "1 taza (240 ml) de leche entera",
+          "1/2 taza (120 ml) de aceite vegetal o manteca",
+          "1 cucharadita de sal fina"
+        ]
+      },
+      {
+        "name": "Para el ligado y sabor",
+        "items": [
+          "2 huevos frescos de campo",
+          "250 g de queso Meia Cura, queso Mar del Plata o queso Parmesano curado rallado medio",
+          "100 g de queso muzzarella rallado grueso (para elasticidad interna)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Escaldado del polvillo de mandioca",
+        "steps": [
+          "Colocar el polvillo de mandioca con la sal en un bol grande resistente al calor.",
+          "En una cacerolita, llevar a hervor la leche con el aceite (o manteca). Justo cuando rompa a hervir y suba la espuma, retirar del fuego.",
+          "Volcar el líquido hirviendo de golpe sobre el polvillo de mandioca. Revolver enérgicamente con cuchara de madera: se formará una masa rústica, arenosa y con grumos.",
+          "Dejar entibiar la masa durante 10 a 15 minutos (es clave para que los huevos no se cocinen al incorporarlos)."
+        ]
+      },
+      {
+        "name": "Incorporación de huevos y queso",
+        "steps": [
+          "Agregar los huevos de a uno a la masa tibia, amasando con las manos hasta que se absorban por completo. La masa se volverá suave, pegajosa y homogénea.",
+          "Incorporar los quesos rallados y amasar un par de minutos para distribuirlos parejo en toda la preparación."
+        ]
+      },
+      {
+        "name": "Boleado y horneado",
+        "steps": [
+          "Untarse las palmas de las manos con unas gotas de aceite.",
+          "Tomar porciones de masa del tamaño de una nuez (unos 30 g) y formar bolitas parejas.",
+          "Disponer las bolitas sobre una placa para horno engrasada o con papel manteca, dejando 3 cm de separación entre cada una ya que crecen e inflan durante el horneado.",
+          "Hornear a 190 °C durante 20 a 25 minutos hasta que se inflen y la superficie se vuelva dorada con manchitas de queso tostado.",
+          "Retirar y comer tibios inmediatamente para disfrutar de su interior chicloso y elástico."
+        ]
+      }
+    ],
+    "notes": "Podés freezar las bolitas crudas en una bandeja y luego guardarlas en bolsa zíploc. Se hornean directamente congeladas a 190 °C agregando solo 5 minutos más de tiempo.",
+    "image": "pao_de_queijo.jpg",
+    "url": "https://recarg.blogspot.com/2024/04/pao-de-queijo-brasil.html",
+    "original_title": "Pão de Queijo Tradicional"
+  },
+  {
+    "id": 273,
+    "title": "Empanadas Chilenas de Pino al Horno (Chile)",
+    "country": "Chile",
+    "category": "Pizzas / Tartas / Masas",
+    "tags": [
+      "empanadas",
+      "chile",
+      "pino",
+      "carne a cuchillo",
+      "horno",
+      "criollo",
+      "tradicion"
+    ],
+    "prep_time": "40 min",
+    "cook_time": "25 min",
+    "rest_time": "1 noche (reposo del pino de carne)",
+    "temperature": "Horno a 200 °C",
+    "servings": "6 porciones (12 empanadas grandes)",
+    "calories": "460 kcal aprox. por empanada",
+    "diet_badges": [
+      "Alto en Proteína"
+    ],
+    "published": "2024-05-14T19:30:00.000-03:00",
+    "story": "Reina de las Fiestas Patrias chilenas y monumento culinario nacional. La empanada de pino se distingue por dos secretos ancestrales: la masa con salmuera tibia y grasa de pella que logra una textura hojaldrada y quebradiza, y el 'pino' (guiso de carne vacuna picada a cuchillo con igual proporción de cebolla pochada a fuego lento, comino y ají de color), que tradicionalmente se cocina el día anterior para que se concentre y espese, armado con su cuarto de huevo duro, aceituna negra y pasas de uva.",
+    "ingredient_groups": [
+      {
+        "name": "Para el pino tradicional de carne",
+        "items": [
+          "600 g de carne vacuna magra (posta negra, lomo o sobrecostilla) cortada en cubitos de 5 mm",
+          "600 g de cebolla picada en cubitos finos",
+          "3 cucharadas de manteca o grasa vacuna",
+          "1 cucharada colmada de ají de color (pimentón dulce chileno)",
+          "1 cucharadita de comino molido",
+          "1 cucharada de harina de trigo (para espesar el jugo)",
+          "1/2 taza de caldo de carne caliente",
+          "Sal y pimienta negra molida a gusto"
+        ]
+      },
+      {
+        "name": "Para el relleno de ensamble",
+        "items": [
+          "12 aceitunas negras del valle de Azapa con carozo",
+          "3 huevos duros cortados en cuartos",
+          "1/4 taza de pasas de uva rubias o negras (remojadas en agua tibia)"
+        ]
+      },
+      {
+        "name": "Para la masa de empanada chilena",
+        "items": [
+          "500 g de harina de trigo 000",
+          "80 g de grasa vacuna de pella (o manteca) derretida tibia",
+          "1 taza de salmuera tibia (240 ml de agua con 1 cucharada de sal disuelta)",
+          "1 yema batida con 1 cucharada de leche (para pintar)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Cocción del pino (idealmente el día anterior)",
+        "steps": [
+          "En una olla amplia con la grasa derretida, rehogar la cebolla a fuego muy bajo durante 20 minutos hasta que esté transparente, dulce y sin dorar.",
+          "Agregar la carne picada a cuchillo, el ají de color, comino, sal y pimienta. Saltear a fuego medio 5 minutos hasta que la carne cambie de color.",
+          "Espolvorear con la cucharada de harina, mezclar bien y verter el caldo caliente. Cocinar a fuego bajo 10 minutos hasta que el jugo espese.",
+          "Apagar el fuego y dejar enfriar por completo en la heladera (el pino frío no humedece la masa al armar y se vuelve súper jugoso al hornear)."
+        ]
+      },
+      {
+        "name": "Preparación de la masa elástica",
+        "steps": [
+          "Disponer la harina en corona sobre la mesada. Verter en el hueco la grasa tibia derretida y comenzar a incorporar la salmuera tibia de a poco.",
+          "Amasar durante 8 a 10 minutos hasta lograr una masa elástica, suave y tibia que no se pegue en las manos.",
+          "Dividir en 12 bollitos iguales y estirar cada uno con palo de amasar formando círculos de unos 20 cm de diámetro y 2 mm de grosor."
+        ]
+      },
+      {
+        "name": "Armado y horneado en tres puntas",
+        "steps": [
+          "Colocar en el centro de cada disco 2 cucharadas colmadas de pino frío, 1 aceituna negra, 1 cuarto de huevo duro y 3 pasas de uva.",
+          "Pintar los bordes con agua tibia. Doblar la masa tapando el relleno, presionar los bordes y hacer los tres pliegues tradicionales chilenos: doblar los dos costados hacia adentro y luego doblar la solapa superior hacia el centro formando un rectángulo/trapecio sellado.",
+          "Acomodar en placas para horno, pinchar la superficie dos veces con un escarbadientes para que salga el vapor y pintar con la yema batida con leche.",
+          "Hornear a 200 °C durante 20 a 25 minutos hasta que estén infladas y con un dorado brillante parejo.",
+          "Dejar reposar 5 minutos antes de morder: ¡cuidado con el jugo caliente del pino!"
+        ]
+      }
+    ],
+    "notes": "Preparar el pino la noche anterior es el secreto de las abuelas chilenas: la cebolla pierde acidez, la carne absorbe las especias y al armar en frío la masa no se humedece ni se rompe.",
+    "image": "empanadas_pino.jpg",
+    "url": "https://recarg.blogspot.com/2024/05/empanadas-chilenas-pino.html",
+    "original_title": "Empanadas Chilenas de Pino al Horno"
+  },
+  {
+    "id": 274,
+    "title": "Charquicán con Huevo a Caballo (Chile)",
+    "country": "Chile",
+    "category": "Carnes",
+    "tags": [
+      "carnes",
+      "chile",
+      "guiso",
+      "zapallo",
+      "charquican",
+      "huevo a caballo",
+      "confort",
+      "campesino"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "35 min",
+    "rest_time": "0 min",
+    "temperature": "Cacerola a fuego medio-bajo",
+    "servings": "4 porciones generosas",
+    "calories": "490 kcal aprox. por porción",
+    "diet_badges": [
+      "Sin Gluten",
+      "Alto en Proteína"
+    ],
+    "published": "2024-05-30T13:40:00.000-03:00",
+    "story": "De raíz quechua y mapuche (*charquikanka*, asado de charqui), el charquicán evolucionó a través de los siglos como el guiso campesino más querido de los inviernos chilenos. Se trata de un estofado noble donde el zapallo camote dulce y las papas rústicas se cocinan hasta deshacerse para luego pisarse groseramente con tenedor junto a choclo tierno desgranado, porotitos verdes y carne jugosa, coronado indispensablemente con un huevo frito montado a caballo.",
+    "ingredient_groups": [
+      {
+        "name": "Para el sofrito y carne",
+        "items": [
+          "400 g de carne vacuna tierna (asiento, posta o lomo) cortada en cubos pequeños (o carne picada gruesa)",
+          "1 cebolla grande picada fina en cubos",
+          "2 dientes de ajo picados",
+          "1 cucharada de ají de color (pimentón dulce)",
+          "1/2 cucharadita de comino molido",
+          "1 cucharadita de orégano seco",
+          "2 cucharadas de aceite o manteca",
+          "Sal y pimienta a gusto"
+        ]
+      },
+      {
+        "name": "Para los vegetales de olla",
+        "items": [
+          "400 g de zapallo camote pelado y cortado en cubos medianos",
+          "4 papas medianas peladas y en cubos parejos",
+          "1 taza de choclo desgranado (fresco o congelado)",
+          "1 taza de porotos verdes (chauchas) cortados en tiritas",
+          "500 ml de caldo de carne caliente"
+        ]
+      },
+      {
+        "name": "Para montar a caballo",
+        "items": [
+          "4 huevos frescos de campo fritos en aceite con yema líquida",
+          "Cilantro o perejil fresco picado para decorar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Sofrito campesino",
+        "steps": [
+          "En una olla amplia a fuego medio, calentar el aceite y dorar la cebolla con los ajos durante 5 minutos hasta que esté transparente.",
+          "Agregar la carne en cubitos, el ají de color, comino, orégano, sal y pimienta. Dorar durante 4 minutos para sellar los jugos."
+        ]
+      },
+      {
+        "name": "Cocción y machacado de vegetales",
+        "steps": [
+          "Incorporar los cubos de papa y zapallo a la olla. Verter el caldo caliente apenas cubriendo los vegetales.",
+          "Tapar y cocinar a fuego medio durante 20 minutos hasta que las papas y el zapallo estén completamente tiernos.",
+          "Agregar el choclo desgranado y los porotos verdes; cocinar 5 minutos más.",
+          "Con un pisa-papas o cuchara de madera, machacar groseramente las papas y el zapallo dentro de la olla, dejando trozos enteros visibles. El zapallo fundido creará un puré espeso, jugoso y dorado que une todo el guiso."
+        ]
+      },
+      {
+        "name": "Servicio a caballo",
+        "steps": [
+          "Servir el charquicán bien caliente en platos hondos o cazuelas de greda.",
+          "Freír los huevos en sartén dejando las yemas tiernas y fluidas.",
+          "Coronar cada porción con un huevo frito montado a caballo y espolvorear con cilantro fresco.",
+          "Al comer, romper la yema para que se funde con el puré de zapallo y carne."
+        ]
+      }
+    ],
+    "notes": "El charquicán nunca debe quedar seco ni líquido como una sopa: el punto ideal es un puré rústico y jugoso donde la dulzura del zapallo camote equilibra perfectamente el sabor de la carne y las especias.",
+    "image": "charquican.jpg",
+    "url": "https://recarg.blogspot.com/2024/05/charquican-chileno.html",
+    "original_title": "Charquicán con Huevo a Caballo"
+  },
+  {
+    "id": 275,
+    "title": "Silpancho Tradicional Cochabambino (Bolivia)",
+    "country": "Bolivia",
+    "category": "Carnes",
+    "tags": [
+      "carnes",
+      "bolivia",
+      "silpancho",
+      "cochabamba",
+      "milanesa",
+      "arroz",
+      "huevos fritos",
+      "locoto"
+    ],
+    "prep_time": "25 min",
+    "cook_time": "20 min",
+    "rest_time": "0 min",
+    "temperature": "Sartén a fuego medio-alto",
+    "servings": "4 porciones muy generosas",
+    "calories": "680 kcal aprox. por porción",
+    "diet_badges": [
+      "Sin Lácteos",
+      "Alto en Proteína"
+    ],
+    "published": "2024-06-08T14:15:00.000-03:00",
+    "story": "Orgullo indiscutido de Cochabamba, la capital gastronómica de Bolivia (*silpancho* deriva del quechua *silp'anchu*, aplanado y delgado). Es una composición monumental que se sirve en plato playo gigante: una base de arroz blanco brillante y papas hervidas que luego se doran en sartén, sobre la cual se coloca una milanesa fina y gigante que cubre toda la superficie, coronada por dos huevos fritos y una sarsa fresca y crocante de tomate, cebolla y locoto picado.",
+    "ingredient_groups": [
+      {
+        "name": "Para el bife aplanado (Silpancho)",
+        "items": [
+          "4 filetes de carne vacuna magra (cadera, nalga o lomo) de unos 160 g cada uno",
+          "1 taza de pan rallado fino",
+          "2 dientes de ajo rallados a pasta",
+          "1/2 cucharadita de comino molido",
+          "Sal y pimienta negra molida a gusto",
+          "Abundante aceite para freír"
+        ]
+      },
+      {
+        "name": "Para la base de arroz y papas doradas",
+        "items": [
+          "3 tazas de arroz blanco recién cocido y suelto",
+          "4 papas medianas cocidas con piel, peladas y cortadas en rodajas gruesas",
+          "2 cucharadas de aceite o manteca para dorar las papas"
+        ]
+      },
+      {
+        "name": "Para la cubierta y sarsa fresca",
+        "items": [
+          "8 huevos frescos de campo (2 por plato)",
+          "2 tomates maduros cortados en cubitos pequeños",
+          "1 cebolla morada o blanca cortada en brunoise fina",
+          "1 locoto verde o rojo picado fino (sin semillas para controlar el picante)",
+          "1 chorrito de aceite de oliva, sal y vinagre a gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Técnica de aplanado de la carne",
+        "steps": [
+          "Condimentar los filetes con el ajo, comino, sal y pimienta.",
+          "Espolvorear la tabla de madera con abundante pan rallado. Colocar el filete encima y cubrir con más pan rallado.",
+          "Con un mazo de cocina o piedra pesada, golpear enérgicamente la carne mientras se estira hacia los costados, añadiendo más pan rallado a medida que se afina, hasta que el filete quede delgadísimo (de 2 a 3 mm) y aumente su tamaño hasta cubrir casi un plato entero."
+        ]
+      },
+      {
+        "name": "Papas doradas y sarsa",
+        "steps": [
+          "En una sartén con dos cucharadas de aceite, dorar las rodajas de papa cocida de ambos lados hasta que formen una costra dorada crocante. Reservar calientes.",
+          "En un cuenco, mezclar el tomate en cubitos, la cebolla picada y el locoto con sal, vinagre y aceite de oliva para crear la sarsa fresca."
+        ]
+      },
+      {
+        "name": "Fritura y montaje del monumento",
+        "steps": [
+          "En una sartén grande con aceite caliente, freír los filetes aplanados durante solo 1 a 2 minutos por lado: al ser tan finos se cocinan casi al instante con una corteza dorada y crocante. Escurrir sobre papel.",
+          "Freír los huevos en sartén cuidando que la yema quede líquida.",
+          "Montaje en el plato: Servir una cama de arroz blanco y acomodar a un costado las papas doradas.",
+          "Colocar encima el bife gigante cubriendo la base, montar los dos huevos fritos sobre la carne y coronar con una generosa porción de sarsa fresca de locoto por encima."
+        ]
+      }
+    ],
+    "notes": "El secreto del silpancho está en golpear la carne con pan rallado continuo: el pan penetra las fibras musculares de la carne, permitiendo estirarla a dimensiones gigantescas sin romperse y logrando una crocancia única al freír.",
+    "image": "silpancho.jpg",
+    "url": "https://recarg.blogspot.com/2024/06/silpancho-boliviano.html",
+    "original_title": "Silpancho Tradicional Cochabambino"
+  },
+  {
+    "id": 276,
+    "title": "Pique Macho Tradicional (Bolivia)",
+    "country": "Bolivia",
+    "category": "Carnes",
+    "tags": [
+      "carnes",
+      "bolivia",
+      "pique macho",
+      "papas fritas",
+      "salchichas",
+      "cerveza",
+      "locoto",
+      "picante"
+    ],
+    "prep_time": "25 min",
+    "cook_time": "20 min",
+    "rest_time": "0 min",
+    "temperature": "Sartén amplia a fuego vivo",
+    "servings": "4 a 6 porciones (plato para compartir)",
+    "calories": "640 kcal aprox. por porción",
+    "diet_badges": [
+      "Sin Gluten",
+      "Alto en Proteína"
+    ],
+    "published": "2024-07-02T20:45:00.000-03:00",
+    "story": "Creado en la década de 1970 por Honorato Quiñones y Evangelina Gómez en el restaurante 'El Prado' de Cochabamba para un grupo de comensales que pedían a altas horas un plato contundente que los 'picara' y desafiara su resistencia al picante ('pique para machos'). Es una espectacular fuente compartida con base de papas fritas caseras cubiertas por lomo vacuno y salchichas salteadas a fuego vivo con cebollas, pimientos y locoto, desglasadas en reducción de cerveza, coronadas con huevos duros y queso.",
+    "ingredient_groups": [
+      {
+        "name": "Para el salteado de carnes",
+        "items": [
+          "600 g de lomo vacuno (o cuadril tierno) cortado en bocados medianos de 3 cm",
+          "4 salchichas tipo viena o chorizos parrilleros cortados en rodajas al sesgo",
+          "3 dientes de ajo picados fino",
+          "1 cucharadita de comino molido",
+          "1 cucharada de salsa de soja",
+          "150 ml de cerveza rubia o negra",
+          "2 cucharadas de aceite para saltear",
+          "Sal y pimienta a gusto"
+        ]
+      },
+      {
+        "name": "Para los vegetales de sartén y picante",
+        "items": [
+          "2 cebollas medianas cortadas en pluma gruesa",
+          "2 pimientos morrones (rojo y verde) cortados en tiras anchas",
+          "2 a 3 locotos frescos (verde y rojo) cortados en rodajitas finas",
+          "2 tomates maduros cortados en gajos medianos"
+        ]
+      },
+      {
+        "name": "Para la base y coronación",
+        "items": [
+          "4 papas grandes cortadas en bastones y fritas bien crocantes",
+          "3 huevos duros cortados en cuartos",
+          "100 g de queso fresco o criollo cortado en cubitos (opcional tradicional)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación de la base de papas",
+        "steps": [
+          "Freír los bastones de papa en abundante aceite caliente hasta que estén bien dorados y crocantes. Salar y disponer como colchón en una fuente grande ovalada para compartir."
+        ]
+      },
+      {
+        "name": "Salteado a fuego fuerte con cerveza",
+        "steps": [
+          "En una sartén muy grande o wok a fuego máximo con aceite, dorar los trozos de lomo salpimentados con el ajo picado y el comino durante 3 a 4 minutos hasta sellar bien.",
+          "Agregar las rodajas de salchicha y saltear 2 minutos más.",
+          "Incorporar las cebollas, los pimientos morrones y las tiras de locoto. Saltear a fuego vivo 3 minutos: las verduras deben ablandarse apenas pero mantener una textura crujiente y viva.",
+          "Verter la cerveza y la salsa de soja a la sartén humeante. Dejar hervir a borbotones 2 minutos para evaporar el alcohol y crear un jugo concentrado y picante con los fondos de carne.",
+          "Añadir los gajos de tomate en el último minuto para que tomen temperatura sin deshacerse."
+        ]
+      },
+      {
+        "name": "Montaje tradicional en la fuente",
+        "steps": [
+          "Volcar de inmediato todo el salteado con sus jugos calientes sobre el colchón de papas fritas para que estas absorban el caldo especiado en la base.",
+          "Decorar por encima acomodando los cuartos de huevo duro y los cubitos de queso fresco intercalados entre las rodajas coloridas de locoto.",
+          "Llevar al centro de la mesa para compartir entre amigos con tenedores listos."
+        ]
+      }
+    ],
+    "notes": "El locoto es el corazón del pique macho: si se prefiere un picor suave, retirar las venas y semillas antes de saltear. El jugo con cerveza que moja las papas del fondo es la parte más codiciada del plato.",
+    "image": "pique_macho.jpg",
+    "url": "https://recarg.blogspot.com/2024/07/pique-macho-boliviano.html",
+    "original_title": "Pique Macho Tradicional"
+  },
+  {
+    "id": 277,
+    "title": "Vori Vori de Pollo Tradicional (Paraguay)",
+    "country": "Paraguay",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "sopas",
+      "paraguay",
+      "vori vori",
+      "pollo de campo",
+      "harina de maiz",
+      "queso paraguay",
+      "premiada",
+      "caldo"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "45 min",
+    "rest_time": "0 min",
+    "temperature": "Cacerola a suave hervor",
+    "servings": "6 porciones generosas",
+    "calories": "460 kcal aprox. por porción",
+    "diet_badges": [
+      "Sin Gluten",
+      "Alto en Proteína"
+    ],
+    "published": "2024-07-26T13:30:00.000-03:00",
+    "story": "Elegida por prestigiosas guías internacionales (TasteAtlas) como la mejor sopa del mundo. El Vori Vori (del guaraní *vorí*, bolita) es la máxima expresión de la cocina tradicional paraguaya: un caldo denso, dorado y profundamente aromático elaborado con pollo de campo dorado con cebollas, morrones, tomate y zapallo, en el que se cocinan al momento pequeñas bolitas artesanales elaboradas con harina de maíz criolla y queso Paraguay fresco que absorben el sabor del caldo como esponjas de oro.",
+    "ingredient_groups": [
+      {
+        "name": "Para el caldo sustancioso de pollo",
+        "items": [
+          "1 pollo de campo (unos 1,8 kg) cortado en presas medianas con hueso y piel",
+          "2 cebollas medianas picadas fino",
+          "1 pimiento morrón rojo picado",
+          "2 tomates maduros picados",
+          "2 zanahorias cortadas en rodajas",
+          "1 trozo de zapallo calabaza (200 g) en cubos",
+          "2 hojas de laurel seco",
+          "2 cucharadas de aceite o grasa vacuna",
+          "2 litros de agua caliente o caldo de verduras",
+          "Sal gruesa y pimienta a gusto",
+          "Orégano seco y cebollita de verdeo fresca picada para terminar"
+        ]
+      },
+      {
+        "name": "Para las bolitas artesanales (Vori Vori)",
+        "items": [
+          "300 g de harina de maíz paraguaya (harina de maíz tostada fina, no polenta instantánea)",
+          "200 g de auténtico queso Paraguay fresco (o queso criollo / cuartirolo firme) desmenuzado fino",
+          "1 cucharadita de sal fina",
+          "Caldo caliente de la misma cocción del pollo (la cantidad necesaria para ligar la masa)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Dorado del pollo y cocción del caldo",
+        "steps": [
+          "En una olla grande y pesada, calentar el aceite y dorar las presas de pollo salpimentadas durante 8 a 10 minutos hasta que estén bien doradas por ambos lados.",
+          "Agregar la cebolla, el pimiento, los tomates, la zanahoria y las hojas de laurel. Sofreír durante 5 minutos para que los vegetales levanten el fondo de cocción del pollo.",
+          "Añadir los cubos de zapallo y verter los 2 litros de agua caliente. Salpimentar y cocinar a fuego medio durante 30 minutos hasta que el pollo esté tierno y el caldo tome un color dorado profundo."
+        ]
+      },
+      {
+        "name": "Elaboración de las bolitas de vori vori",
+        "steps": [
+          "En un bol amplio, mezclar la harina de maíz paraguaya con el queso desmenuzado y la cucharadita de sal.",
+          "Tomar cucharones del caldo caliente de la olla y verter de a poco sobre la mezcla de maíz y queso, integrando con cuchara y luego con las manos hasta formar una masa maleable, suave y húmeda que no se pegue.",
+          "Tomar pequeñas porciones con las palmas de las manos y hacer bolitas del tamaño de una nuez chica (unos 2 cm de diámetro)."
+        ]
+      },
+      {
+        "name": "Cocción final de los vori",
+        "steps": [
+          "Comprobar que el caldo en la olla esté hirviendo a fuego medio continuo.",
+          "Echar las bolitas de vori vori de a una suavemente en el caldo hirviendo. Revolver una sola vez con cuidado con cuchara de madera para que no se peguen en el fondo.",
+          "Cocinar durante 8 a 10 minutos: las bolitas flotarán hacia la superficie cuando estén perfectamente cocidas, espesando sutilmente el caldo gracias al maíz y al queso derretido.",
+          "Apagar el fuego, espolvorear con orégano seco y cebollita de verdeo fresca recién picada.",
+          "Servir de inmediato en platos hondos con una presa de pollo y abundantes bolitas doradas humeantes."
+        ]
+      }
+    ],
+    "notes": "Es fundamental utilizar harina de maíz paraguaya o harina de maíz blanco tostado: la polenta precocida común no logra la textura suave y maleable de las auténticas bolitas de vori vori.",
+    "image": "vori_vori.jpg",
+    "url": "https://recarg.blogspot.com/2024/07/vori-vori-pollo-paraguay.html",
+    "original_title": "Vori Vori de Pollo Tradicional"
+  },
+  {
+    "id": 278,
+    "title": "Sopa Paraguaya Tradicional al Horno (Paraguay)",
+    "country": "Paraguay",
+    "category": "Panadería",
+    "tags": [
+      "panaderia",
+      "paraguay",
+      "sopa paraguaya",
+      "harina de maiz",
+      "queso paraguay",
+      "cebolla",
+      "tradicion",
+      "sin gluten"
+    ],
+    "prep_time": "25 min",
+    "cook_time": "40 min",
+    "rest_time": "10 min (reposo antes de cortar)",
+    "temperature": "Horno a 200 °C / Horno de barro",
+    "servings": "8 porciones (fuente grande)",
+    "calories": "380 kcal aprox. por porción",
+    "diet_badges": [
+      "Sin Gluten",
+      "Vegetariano"
+    ],
+    "published": "2024-08-18T12:00:00.000-03:00",
+    "story": "La legendaria 'única sopa sólida del mundo', nacida a mediados del siglo XIX cuando la cocinera del presidente Carlos Antonio López agregó por error demasiada harina de maíz al caldo blanco favorito del mandatario; para salvarlo, decidió hornearlo en asadera de barro, creando un pastel salado dorado que fascinó al presidente. Elaborada con cebollas confitadas en grasa o manteca, abundante queso Paraguay, leche fresca, huevos y harina de maíz, es el acompañamiento obligatorio de todo asado paraguayo.",
+    "ingredient_groups": [
+      {
+        "name": "Para el sofrito de cebollas",
+        "items": [
+          "500 g de cebolla blanca cortada en pluma fina",
+          "80 g de grasa vacuna de pella o manteca de buena calidad",
+          "1 cucharada colmada de sal gruesa"
+        ]
+      },
+      {
+        "name": "Para la masa de maíz y queso",
+        "items": [
+          "500 g de harina de maíz paraguaya (harina de maíz tostada de molienda fina)",
+          "400 g de queso Paraguay artesanal (o queso criollo/cuartirolo firme) desmenuzado en trozos irregulares",
+          "6 huevos frescos de campo (separadas claras de yemas)",
+          "500 ml de leche entera tibia"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Confitado de las cebollas",
+        "steps": [
+          "En una sartén grande, derretir la grasa o manteca a fuego medio.",
+          "Agregar toda la cebolla en pluma con la sal gruesa y cocinar a fuego suave durante 12 a 15 minutos hasta que esté tierna, transparente y dulce, sin dorar.",
+          "Retirar del fuego y dejar enfriar por completo."
+        ]
+      },
+      {
+        "name": "Elaboración de la mezcla esponjosa",
+        "steps": [
+          "En un bol grande, batir las 6 claras a punto nieve y reservar.",
+          "En otro recipiente amplio, batir las 6 yemas con la cebolla confitada fría y su grasa hasta integrar.",
+          "Incorporar el queso Paraguay desmenuzado rústicamente con las manos.",
+          "Alternar la harina de maíz y la leche tibia de a poco, mezclando con cuchara de madera hasta obtener una crema espesa y homogénea (textura similar a una mezcla para bizcochuelo denso).",
+          "Incorporar las claras a punto nieve en dos tandas con movimientos envolventes suaves para aportar aire a la masa."
+        ]
+      },
+      {
+        "name": "Horneado y corte",
+        "steps": [
+          "Engrasar generosamente una asadera rectangular de horno (de unos 30x20 cm).",
+          "Volcar la preparación alisando la superficie y coronar con algunos cubitos extras de queso por encima para que gratinen.",
+          "Hornear a 200 °C durante 35 a 40 minutos hasta que la superficie esté dorada, crocante y al pinchar el centro con un cuchillo salga limpio y seco.",
+          "Dejar reposar 10 minutos fuera del horno para que asiente la textura, cortar en cuadrados limpios y servir tibia o fría."
+        ]
+      }
+    ],
+    "notes": "Batir las claras a punto nieve e incorporarlas al final con movimientos envolventes es el secreto para lograr una sopa paraguaya alta, aireada y esponjosa que no quede apelmazada.",
+    "image": "sopa_paraguaya.jpg",
+    "url": "https://recarg.blogspot.com/2024/08/sopa-paraguaya-tradicional.html",
+    "original_title": "Sopa Paraguaya Tradicional al Horno"
+  },
+  {
+    "id": 279,
+    "title": "Çılbır — Huevos Turcos con Yogur al Ajo y Manteca de Alepo (Turquía)",
+    "country": "Turquía",
+    "category": "Huevos / Desayunos",
+    "tags": [
+      "huevos",
+      "turquia",
+      "desayuno",
+      "brunch",
+      "cilbir",
+      "huevos poché",
+      "yogur griego",
+      "manteca",
+      "pul biber",
+      "eneldo"
+    ],
+    "prep_time": "10 min",
+    "cook_time": "10 min",
+    "rest_time": "0 min",
+    "temperature": "Agua a suave hervor / Fuego medio-bajo para la manteca",
+    "servings": "2 porciones (4 huevos)",
+    "calories": "380 kcal aprox. por porción",
+    "diet_badges": [
+      "Vegetariano",
+      "Sin Gluten",
+      "Keto / Low-Carb",
+      "Alto en Proteína"
+    ],
+    "published": "2024-09-15T09:30:00.000-03:00",
+    "story": "Documentado desde el siglo XV en las cocinas del Palacio de Topkapı para los sultanes del Imperio Otomano, el Çılbır (pronunciado chulburr) es una de las obras maestras del desayuno mundial. Consiste en huevos poché de clara tierna y yema líquida servidos sobre una base sedosa de yogur colado atemperado, emulsionado con ajo rallado y eneldo fresco, bañado con manteca avellanada fundida al pimentón dulce, comino y hojuelas de chile de Alepo (pul biber), para comer sumergiendo pan de masa madre tostado.",
+    "ingredient_groups": [
+      {
+        "name": "Base de yogur al ajo y hierbas",
+        "items": [
+          "300 g de auténtico yogur griego espeso (o yogur natural colado) a temperatura ambiente",
+          "1 diente de ajo pequeño rallado finísimo a pasta",
+          "2 cucharadas de eneldo fresco finamente picado",
+          "1 cucharada de aceite de oliva virgen extra",
+          "Sal marina a gusto"
+        ]
+      },
+      {
+        "name": "Huevos poché",
+        "items": [
+          "4 huevos frescos de campo extra frescos",
+          "1 cucharada de vinagre blanco (para el agua de cocción)",
+          "1 pizca de sal"
+        ]
+      },
+      {
+        "name": "Manteca especiada de Alepo (Pul Biber Yağı)",
+        "items": [
+          "50 g de manteca de buena calidad",
+          "1 cucharada de aceite de oliva virgen extra",
+          "1 cucharadita colmada de hojuelas de chile de Alepo (pul biber) o chile rojo suave",
+          "1/2 cucharadita de pimentón dulce ahumado",
+          "1/4 cucharadita de comino molido"
+        ]
+      },
+      {
+        "name": "Para servir",
+        "items": [
+          "Rebanadas gruesas de pan de masa madre o pan pita bien tostado en manteca",
+          "Hojas extras de eneldo fresco para decorar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación de la crema de yogur atemperada",
+        "steps": [
+          "En un bol, mezclar el yogur griego a temperatura ambiente con el ajo rallado, el eneldo fresco picado, el aceite de oliva y una pizca de sal. Es fundamental que el yogur no esté helado de la heladera para no enfriar los huevos poché.",
+          "Dividir la crema de yogur entre dos platos hondos o cuencos amplios, extendiéndola con el dorso de una cuchara formando un hueco en el centro."
+        ]
+      },
+      {
+        "name": "Escalfado de los huevos poché",
+        "steps": [
+          "Llevar a hervor suave una cacerola con abundante agua y la cucharada de vinagre blanco. Bajar el fuego para que el agua apenas tiemble sin borbotones fuertes.",
+          "Cascar un huevo en un cuenco pequeño. Con una cuchara hacer un remolino en el centro del agua y deslizar el huevo suavemente en el ojo del remolino.",
+          "Cocinar durante exactamente 3 minutos hasta que la clara esté firme y blanca y la yema permanezca totalmente líquida y blanda al tacto.",
+          "Retirar con espumadera y escurrir sobre papel absorbente. Repetir con los 4 huevos."
+        ]
+      },
+      {
+        "name": "Elaboración de la manteca de Alepo",
+        "steps": [
+          "En una sartén pequeña a fuego medio-bajo, derretir la manteca con la cucharada de aceite de oliva.",
+          "Cuando la manteca empiece a espumar y tomar un tono ligeramente dorado, agregar las hojuelas de chile de Alepo, el pimentón dulce y el comino.",
+          "Revolver durante 30 a 45 segundos hasta que el pimentón libere sus aceites aromáticos y la manteca adquiera un color rojo anaranjado vibrante y un perfume tostado irresistible. Retirar del fuego inmediatamente para que el pimentón no se queme."
+        ]
+      },
+      {
+        "name": "Armado y servicio",
+        "steps": [
+          "Acomodar con delicadeza dos huevos poché calientes sobre la cama de yogur en cada plato.",
+          "Bañar generosamente los huevos y el yogur con la manteca especiada caliente de Alepo, creando remolinos anaranjados sobre el blanco del yogur.",
+          "Espolvorear con eneldo fresco y servir de inmediato con rebanadas de pan de masa madre tostado y crujiente para sumergir en la yema y la salsa."
+        ]
+      }
+    ],
+    "notes": "El secreto del Çılbır radica en el contraste de temperaturas y texturas: el yogur suave a temperatura ambiente, los huevos poché calientes con yema explosiva y la manteca especiada chisporroteante con el crujido del pan tostado.",
+    "image": "cilbir_huevos_turcos.jpg",
+    "url": "https://recarg.blogspot.com/2024/09/cilbir-huevos-turcos.html",
+    "original_title": "Çılbır Huevos Turcos"
   }
 ]

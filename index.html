@@ -3,14 +3,18 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>UmamiCraft — Alta Cocina, Recetario del Mundo & Cocktails de Autor</title>
-  <meta name="description" content="UmamiCraft — Archivo gastronómico de autor con recetas del mundo y cocktails curados 1 a 1 con técnicas, tiempos, calorías y fotografías en alta definición.">
+  <title>Recetas del Mundo y Cocktails de Autor Paso a Paso | UmamiCraft</title>
+  <meta name="description" content="Descubre 279 recetas internacionales tradicionales y cocktails de autor explicados paso a paso con ingredientes exactos, fotos en alta definición, tiempos, porciones y calorías.">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="UmamiCraft — Alta Cocina, Recetario del Mundo & Cocktails de Autor">
-  <meta property="og:description" content="Recetas del mundo curadas 1 a 1 con técnicas, ingredientes, pasos e historia.">
+  <meta property="og:title" content="Recetas del Mundo y Cocktails de Autor Paso a Paso | UmamiCraft">
+  <meta property="og:description" content="Descubre 279 recetas internacionales tradicionales y cocktails de autor explicados paso a paso con ingredientes exactos, fotos en alta definición, tiempos, porciones y calorías.">
   <meta name="twitter:card" content="summary_large_image">
+  <link rel="canonical" href="https://umamicraft.vercel.app/">
+  <meta name="theme-color" content="#c2410c">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://flagcdn.com">
+  <link rel="preconnect" href="https://images.unsplash.com">
   <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,600;0,700;0,800;1,600&display=swap" rel="stylesheet">
   <style>
     :root {
@@ -498,6 +502,8 @@
       transition: transform 0.24s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.24s ease, border-color 0.2s ease;
       box-shadow: var(--shadow-sm);
       position: relative;
+      content-visibility: auto;
+      contain-intrinsic-size: 380px;
     }
 
     .recipe-card:hover {
@@ -1443,8 +1449,10 @@
   <div class="toast-banner" id="toastBanner"></div>
 
   <footer>
-    <p><strong>UmamiCraft</strong> &copy; 2026 • Colección Gastronómica & Cocktails de Autor • 256 Recetas Curadas</p>
-    <p style="margin-top:10px; font-size:0.75rem;">
+    <p><strong>UmamiCraft</strong> &copy; 2026 • Colección Gastronómica & Cocktails de Autor</p>
+    <p style="margin-top:10px; font-size:0.75rem; display:flex; justify-content:center; gap:16px;">
+      <a href="sitemap.xml" style="color:var(--text-muted); text-decoration:none;">🗺️ Mapa del Sitio (Sitemap)</a>
+      <a href="robots.txt" style="color:var(--text-muted); text-decoration:none;">🤖 Robots.txt</a>
       <a href="/admin" style="color:var(--text-muted); text-decoration:none; opacity:0.5;">🔒 Acceso Administrador</a>
     </p>
   </footer>
@@ -1457,6 +1465,35 @@
     let favorites = JSON.parse(localStorage.getItem('umamicraft_favs') || '[]');
     let currentHeroId = null;
     let recentHeroIds = [];
+
+    // Diccionario dinámico de slugs para SEO y enlaces amigables sin páginas estáticas
+    let slugToRecipeMap = {};
+    let idToSlugMap = {};
+
+    function makeSlug(title) {
+      const charmap = {'ı':'i','İ':'i','ø':'o','Ø':'o','æ':'ae','Æ':'ae','œ':'oe','Œ':'oe','ß':'ss','ð':'d','þ':'th'};
+      let t = String(title || '');
+      for (const [k, v] of Object.entries(charmap)) t = t.replaceAll(k, v);
+      return t.normalize('NFKD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+    }
+
+    function buildSlugDictionary(list) {
+      slugToRecipeMap = {};
+      idToSlugMap = {};
+      const seen = {};
+      for (const r of list) {
+        const base = makeSlug(r.title);
+        let slug = base;
+        if (seen[base]) {
+          seen[base]++;
+          slug = `${base}-${seen[base]}`;
+        } else {
+          seen[base] = 1;
+        }
+        slugToRecipeMap[slug] = r;
+        idToSlugMap[r.id] = slug;
+      }
+    }
 
     function pickRandomRecipe() {
       if (!recipes || !recipes.length) return null;
@@ -1502,15 +1539,22 @@
         if (sortDescOpt) sortDescOpt.textContent = `✨ Más recientes primero (#${recipes.length}–#1)`;
         const sortAscOpt = document.querySelector('#sortSelect option[value="id_asc"]');
         if (sortAscOpt) sortAscOpt.textContent = `📑 Orden original (#1–#${recipes.length})`;
+        buildSlugDictionary(recipes);
         populateFilters();
         renderHero();
         renderRecipes();
 
-        // Check deep link hash #receta-ID
-        const hash = window.location.hash;
-        if (hash && hash.startsWith('#receta-')) {
-          const targetId = parseInt(hash.replace('#receta-', ''), 10);
-          if (targetId) setTimeout(() => openModal(targetId), 200);
+        // Check deep link: primero por parámetro ?receta=slug (100% dinámico SEO) y fallback a #receta-ID
+        const urlParams = new URLSearchParams(window.location.search);
+        const querySlug = urlParams.get('receta') || urlParams.get('r');
+        if (querySlug && slugToRecipeMap[querySlug]) {
+          setTimeout(() => openModal(slugToRecipeMap[querySlug].id, false), 150);
+        } else {
+          const hash = window.location.hash;
+          if (hash && hash.startsWith('#receta-')) {
+            const targetId = parseInt(hash.replace('#receta-', ''), 10);
+            if (targetId) setTimeout(() => openModal(targetId, true), 150);
+          }
         }
       } catch (err) {
         console.error("Error cargando recetas:", err);
@@ -2166,10 +2210,15 @@
       if (s) s.remove();
     }
 
-    function openModal(id) {
+    const defaultDocTitle = document.title;
+
+    function openModal(id, updateHistory = true) {
       const r = recipes.find(x => x.id === id);
       if (!r) return;
       currentModalRecipeId = id;
+
+      // Actualizar dinámicamente el título del navegador para SEO y pestaña
+      document.title = `Receta de ${r.title} | UmamiCraft`;
 
       const country = getCountry(r);
       const category = getCategory(r);
@@ -2250,14 +2299,24 @@
 
       document.getElementById('recipeModal').classList.add('open');
       document.body.style.overflow = 'hidden';
-      window.location.hash = 'receta-' + id;
+
+      const slug = idToSlugMap[id];
+      if (updateHistory) {
+        let queryUrl = slug ? `?receta=${slug}` : `?receta=${id}`;
+        if (currentLang && currentLang !== 'es') queryUrl += `&lang=${currentLang}`;
+        history.pushState({ modalRecipeId: id }, '', queryUrl);
+      }
     }
 
-    function closeModal() {
+    function closeModal(updateHistory = true) {
       document.getElementById('recipeModal').classList.remove('open');
       document.body.style.overflow = 'auto';
-      if (window.location.hash.startsWith('#receta-')) {
-        history.replaceState(null, null, window.location.pathname);
+      document.title = defaultDocTitle;
+      currentModalRecipeId = null;
+
+      if (updateHistory) {
+        const backUrl = (currentLang && currentLang !== 'es') ? `${window.location.pathname}?lang=${currentLang}` : window.location.pathname;
+        history.pushState(null, '', backUrl);
       }
       removeRecipeSchema();
       if (kitchenModeActive) {
@@ -2266,6 +2325,17 @@
         updateKitchenModeUI(false);
       }
     }
+
+    // Navegación nativa con historial del navegador (Atrás / Adelante)
+    window.addEventListener('popstate', (e) => {
+      const urlParams = new URLSearchParams(window.location.search);
+      const querySlug = urlParams.get('receta') || urlParams.get('r');
+      if (querySlug && slugToRecipeMap[querySlug]) {
+        openModal(slugToRecipeMap[querySlug].id, false);
+      } else if (document.getElementById('recipeModal').classList.contains('open')) {
+        closeModal(false);
+      }
+    });
 
     /* =========================================================================
        SISTEMA DE DIFUSIÓN Y COMPARTIR (WHATSAPP, TELEGRAM, X, COPIAR LINK)
@@ -2290,8 +2360,9 @@
       if (currentModalRecipeId == null) return;
       const r = recipes.find(x => x.id === currentModalRecipeId);
       if (!r) return;
-      const url = `${window.location.origin}${window.location.pathname}#receta-${r.id}`;
-      const title = `Receta: ${r.title}`;
+      const slug = idToSlugMap[r.id] || r.id;
+      const url = `${window.location.origin}${window.location.pathname}?receta=${slug}`;
+      const title = `Receta de ${r.title}`;
       const text = `¡Mira esta increíble receta de ${r.title} (${getCountry(r)}) en UmamiCraft!`;
 
       if (navigator.share && /mobile|android|iphone|ipad/i.test(navigator.userAgent)) {
@@ -2299,6 +2370,7 @@
       } else {
         openShareModal(`Compartir: ${r.title}`, `Envía esta receta por WhatsApp, redes o copia el link:`, url);
       }
+    }
     }
 
     function shareSiteModal() {
@@ -2617,6 +2689,15 @@
         btn.classList.toggle('active', btn.id === 'btnLang' + lang.charAt(0).toUpperCase() + lang.slice(1));
       });
 
+      // Actualizar URL sin recargar para mantener el idioma en la barra de direcciones y compartir
+      const url = new URL(window.location.href);
+      if (lang === 'es') {
+        url.searchParams.delete('lang');
+      } else {
+        url.searchParams.set('lang', lang);
+      }
+      history.replaceState(null, '', url.pathname + url.search);
+
       const domain = location.hostname;
       document.cookie = `googtrans=/es/${lang}; path=/; domain=${domain};`;
       document.cookie = `googtrans=/es/${lang}; path=/;`;
@@ -2640,11 +2721,27 @@
 
     init();
     initGoogleTranslate();
-    const savedLang = localStorage.getItem('umamicraft_lang') || 'es';
-    if (savedLang && savedLang !== 'es') {
+
+    // Sincronización automática de idioma desde URL (?lang=en) o guardado en el navegador
+    const urlLang = new URLSearchParams(window.location.search).get('lang');
+    const effectiveLang = (urlLang && ['es', 'en', 'pt'].includes(urlLang)) ? urlLang : (localStorage.getItem('umamicraft_lang') || 'es');
+    if (effectiveLang && effectiveLang !== 'es') {
+      currentLang = effectiveLang;
       document.querySelectorAll('.lang-btn').forEach(btn => {
-        btn.classList.toggle('active', btn.id === 'btnLang' + savedLang.charAt(0).toUpperCase() + savedLang.slice(1));
+        btn.classList.toggle('active', btn.id === 'btnLang' + effectiveLang.charAt(0).toUpperCase() + effectiveLang.slice(1));
       });
+      document.cookie = `googtrans=/es/${effectiveLang}; path=/;`;
+
+      let attempts = 0;
+      const langInterval = setInterval(() => {
+        const select = document.querySelector('.goog-te-combo');
+        if (select) {
+          select.value = effectiveLang;
+          select.dispatchEvent(new Event('change'));
+          clearInterval(langInterval);
+        }
+        if (++attempts > 20) clearInterval(langInterval);
+      }, 250);
     }
   </script>
 </body>
