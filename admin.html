@@ -686,6 +686,15 @@
       return `🌍 ${country}`;
     }
 
+    const ADMIN_SALT = '9c95224ab0c1d474';
+    const ADMIN_HASH = '554bbe5955439c47eab5c1854eb90d39743f9e2e92a60ed20ab9abcd73060308';
+
+    async function sha256Hex(str) {
+      const buffer = new TextEncoder().encode(str);
+      const hashBuffer = await crypto.subtle.digest('SHA-256', buffer);
+      return Array.from(new Uint8Array(hashBuffer)).map(b => b.toString(16).padStart(2, '0')).join('');
+    }
+
     let token = sessionStorage.getItem('umami_admin_token') || '';
     let recipes = [];
 
@@ -714,23 +723,38 @@
       const errBox = document.getElementById('loginError');
       errBox.style.display = 'none';
 
-      try {
-        const res = await fetch('/api/login', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ password: pw })
-        });
-        const data = await res.json();
-        if (data.ok) {
-          token = data.token;
-          sessionStorage.setItem('umami_admin_token', token);
-          showApp();
-        } else {
-          errBox.textContent = data.error || 'Contraseña incorrecta';
-          errBox.style.display = 'block';
+      // 1. Si estamos en local (localhost), intentar backend Python
+      if (location.hostname === 'localhost' || location.hostname === '127.0.0.1') {
+        try {
+          const res = await fetch('/api/login', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ password: pw })
+          });
+          const data = await res.json();
+          if (data.ok) {
+            token = data.token;
+            sessionStorage.setItem('umami_admin_token', token);
+            showApp();
+            return;
+          } else {
+            errBox.textContent = data.error || 'Contraseña incorrecta';
+            errBox.style.display = 'block';
+            return;
+          }
+        } catch (err) {
+          console.warn('Backend local no disponible, verificando hash en navegador...');
         }
-      } catch (err) {
-        errBox.textContent = 'Error conectando al servidor';
+      }
+
+      // 2. Si estamos en GitHub Pages (servidor estático sin Python), verificar hash SHA-256 en el navegador
+      const inputHash = await sha256Hex(ADMIN_SALT + pw);
+      if (inputHash === ADMIN_HASH) {
+        token = 'cloud_admin_session_' + Date.now();
+        sessionStorage.setItem('umami_admin_token', token);
+        showApp();
+      } else {
+        errBox.textContent = 'Contraseña incorrecta. Por favor intenta de nuevo.';
         errBox.style.display = 'block';
       }
     }
@@ -743,13 +767,18 @@
 
     async function loadRecipes() {
       try {
-        const res = await fetch('/recetas_pro.json?v=' + Date.now());
-        recipes = await res.json();
+        const localSaved = localStorage.getItem('umami_cloud_recipes');
+        if (localSaved) {
+          recipes = JSON.parse(localSaved);
+        } else {
+          const res = await fetch('recetas_pro.json?v=' + Date.now());
+          recipes = await res.json();
+        }
         updateMetrics();
         populateCategoryFilter();
         renderTable();
       } catch (err) {
-        showToast('Error cargando recetas_pro.json');
+        showToast('Error cargando recetas_pro.json: ' + err.message);
       }
     }
 
@@ -954,27 +983,37 @@
         newRecipes.unshift(item);
       }
 
-      try {
-        const res = await fetch('/api/save', {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json',
-            'Authorization': `Bearer ${token}`
-          },
-          body: JSON.stringify(newRecipes)
-        });
-        const data = await res.json();
-        if (data.ok) {
-          recipes = newRecipes;
-          updateMetrics();
-          renderTable();
-          showToast(`✅ Receta #${id} guardada exitosamente.`);
-          switchTab('recipes');
-        } else {
-          showToast('❌ Error: ' + (data.error || 'No se pudo guardar'));
+      if (location.hostname === 'localhost' || location.hostname === '127.0.0.1') {
+        try {
+          const res = await fetch('/api/save', {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+              'Authorization': `Bearer ${token}`
+            },
+            body: JSON.stringify(newRecipes)
+          });
+          const data = await res.json();
+          if (data.ok) {
+            recipes = newRecipes;
+            updateMetrics();
+            renderTable();
+            showToast(`✅ Receta #${id} guardada en disco.`);
+            switchTab('recipes');
+          } else {
+            showToast('❌ Error: ' + (data.error || 'No se pudo guardar'));
+          }
+        } catch (err) {
+          showToast('Error de conexión con el servidor local');
         }
-      } catch (err) {
-        showToast('Error de conexión con el servidor');
+      } else {
+        // En GitHub Pages / Web online: guardar en el navegador y ofrecer descarga de JSON
+        recipes = newRecipes;
+        localStorage.setItem('umami_cloud_recipes', JSON.stringify(recipes));
+        updateMetrics();
+        renderTable();
+        showToast(`✅ Receta #${id} guardada. Descarga el JSON en "Copias de Seguridad" para actualizar GitHub.`);
+        switchTab('recipes');
       }
     }
 
@@ -993,26 +1032,34 @@
       const ok = confirm(`¿Estás seguro de que deseas ELIMINAR la receta #${id} "${r.title}"?\n\nSe creará un backup automático antes de borrarla.`);
       if (!ok) return;
 
-      try {
-        const res = await fetch('/api/delete', {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json',
-            'Authorization': `Bearer ${token}`
-          },
-          body: JSON.stringify({ id })
-        });
-        const data = await res.json();
-        if (data.ok) {
-          recipes = recipes.filter(x => x.id !== id);
-          updateMetrics();
-          renderTable();
-          showToast(`🗑️ Receta #${id} eliminada correctamente.`);
-        } else {
-          showToast('❌ Error: ' + (data.error || 'No se pudo eliminar'));
+      if (location.hostname === 'localhost' || location.hostname === '127.0.0.1') {
+        try {
+          const res = await fetch('/api/delete', {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+              'Authorization': `Bearer ${token}`
+            },
+            body: JSON.stringify({ id })
+          });
+          const data = await res.json();
+          if (data.ok) {
+            recipes = recipes.filter(x => x.id !== id);
+            updateMetrics();
+            renderTable();
+            showToast(`🗑️ Receta #${id} eliminada correctamente.`);
+          } else {
+            showToast('❌ Error: ' + (data.error || 'No se pudo eliminar'));
+          }
+        } catch (err) {
+          showToast('Error al conectar con el servidor local');
         }
-      } catch (err) {
-        showToast('Error al conectar con el servidor');
+      } else {
+        recipes = recipes.filter(x => x.id !== id);
+        localStorage.setItem('umami_cloud_recipes', JSON.stringify(recipes));
+        updateMetrics();
+        renderTable();
+        showToast(`🗑️ Receta #${id} eliminada.`);
       }
     }
 
