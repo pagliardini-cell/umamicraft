@@ -1367,11 +1367,10 @@
             <button class="modal-action-btn" onclick="pinCurrentRecipe()" style="background:rgba(230,0,35,0.85); border-color:#e60023;" title="Guardar Pin de esta receta en Pinterest"><span style="font-size:15px;">📌</span> Pin</button>
             <button class="modal-action-btn" onclick="shareCurrentRecipe()"><span style="color:#22c55e;">📲</span> Compartir</button>
             <button class="modal-action-btn" onclick="window.print()">🖨️ Imprimir / PDF</button>
-            <button class="modal-action-btn" onclick="promptEditRecipe()" title="Editar esta receta o imagen (Admin)" style="color:var(--primary); font-weight:700;"><span style="font-family:'Times New Roman',serif; font-size:1.15rem; font-weight:700;">&pi;</span> Editar</button>
           </div>
           <button class="modal-close" onclick="closeModal()">✕</button>
         </div>
-        <img id="modalImg" class="modal-hero-img" src="" alt="Foto del plato" onclick="promptEditRecipe()" title="Haga clic para editar la receta o cambiar la imagen" style="cursor:pointer;">
+        <img id="modalImg" class="modal-hero-img" src="" alt="Foto del plato">
         <div class="modal-hero-OverlayText">
           <div class="modal-badges-row" id="modalBadges"></div>
           <h2 class="modal-title" id="modalTitle"></h2>
@@ -1420,9 +1419,9 @@
           <div class="related-grid" id="modalRelatedGrid"></div>
         </div>
 
-        <!-- Footer discreto del modal con botón secreto π para editar -->
+        <!-- Pie discreto con pi minúsculo para editar -->
         <div style="margin-top:28px; padding-top:14px; border-top:1px solid var(--border); display:flex; justify-content:space-between; align-items:center;">
-          <button type="button" onclick="promptEditRecipe()" title="Editar esta receta (Admin)" style="background:rgba(234,88,12,0.1); border:1px solid rgba(234,88,12,0.25); color:var(--primary); font-family:'Times New Roman', serif; font-size:1.2rem; font-weight:700; cursor:pointer; padding:3px 12px; border-radius:6px; transition:all 0.2s;" onmouseover="this.style.background='var(--primary)'; this.style.color='#fff';" onmouseout="this.style.background='rgba(234,88,12,0.1)'; this.style.color='var(--primary)';">&pi; Editar</button>
+          <span onclick="promptEditRecipe()" title="Editar" style="cursor:pointer; opacity:0.35; font-family:'Times New Roman',serif; font-size:1.05rem; color:var(--text-muted); padding:2px 4px; user-select:none;" onmouseover="this.style.opacity='1'; this.style.color='var(--primary)';" onmouseout="this.style.opacity='0.35'; this.style.color='var(--text-muted)';">&pi;</span>
           <span style="font-size:0.75rem; color:var(--text-muted);">UmamiCraft • Recetario de Autor</span>
         </div>
       </div>
@@ -2559,7 +2558,7 @@
         return;
       }
 
-      const input = prompt(`🔐 Ingrese la contraseña de Administrador para editar #${r.id} "${r.title}":\n(Contraseña predeterminada: admin o WalterAdmin2026!)`, 'admin');
+      const input = prompt('Contraseña de Administrador:', 'admin');
       if (input === null) return;
       const pw = input.trim() || 'admin';
 
@@ -2567,18 +2566,17 @@
       if (isValid) {
         sessionStorage.setItem('umami_admin_authenticated', 'true');
         sessionStorage.setItem('umami_admin_token', 'admin_session_' + Date.now());
-        showToast('🔓 Acceso concedido como Administrador');
         editCurrentRecipe();
       } else {
-        alert('❌ Contraseña incorrecta. Puede ingresar: admin');
+        alert('Contraseña incorrecta.');
       }
     }
 
     function editCurrentRecipe() {
       if (currentModalRecipeId == null) return;
       const r = recipes.find(x => x.id === currentModalRecipeId);
-      closeModal();
-      openEditorModal(r);
+      if (!r) return;
+      window.location.href = 'admin.html?edit=' + r.id;
     }
 
     function openEditorModal(recipeObj) {

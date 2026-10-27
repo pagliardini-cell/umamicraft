@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="es" data-theme="dark">
 <head>
+  <base href="/">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>UmamiCraft — Centro de Administración y Seguridad</title>
@@ -794,12 +795,18 @@
         if (localSaved) {
           recipes = JSON.parse(localSaved);
         } else {
-          const res = await fetch('recetas_pro.json?v=' + Date.now());
+          const res = await fetch('/recetas_pro.json?v=' + Date.now());
           recipes = await res.json();
         }
         updateMetrics();
         populateCategoryFilter();
         renderTable();
+
+        const urlParams = new URLSearchParams(window.location.search);
+        const editId = urlParams.get('edit') || (window.location.hash.startsWith('#edit-') ? window.location.hash.replace('#edit-', '') : null);
+        if (editId) {
+          openEditRecipe(parseInt(editId, 10));
+        }
       } catch (err) {
         showToast('Error cargando recetas_pro.json: ' + err.message);
       }
@@ -924,7 +931,6 @@
         searchInput.value = country;
         renderTable();
       }
-    }
     }
 
     function populateCategoryFilter() {
