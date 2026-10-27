@@ -972,8 +972,72 @@
     }
 
     .step-item:hover { border-color: var(--primary); }
-    .step-item.done { opacity: 0.55; }
-    .step-item.done .step-num { background: #16a34a; color: white; border-color: #16a34a; }
+    .step-item.done { opacity: 0.45; }
+    .step-item.done > div:last-child { text-decoration: line-through; color: var(--text-muted); }
+    .step-item.done .step-num { background: #16a34a !important; color: white !important; border-color: #16a34a !important; }
+
+    /* Modo Cocina (Wake Lock) */
+    .modal-action-btn.kitchen-active {
+      background: var(--primary) !important;
+      color: #ffffff !important;
+      border-color: var(--primary) !important;
+      box-shadow: 0 0 12px rgba(234, 88, 12, 0.45);
+    }
+
+    /* Escalador de Raciones */
+    .servings-control {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 3px 8px;
+    }
+    .servings-btn {
+      background: var(--bg);
+      border: 1px solid var(--border);
+      color: var(--text);
+      width: 22px;
+      height: 22px;
+      border-radius: 50%;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.95rem;
+      font-weight: 700;
+      line-height: 1;
+      transition: all 0.15s;
+    }
+    .servings-btn:hover {
+      background: var(--primary);
+      color: white;
+      border-color: var(--primary);
+      transform: scale(1.1);
+    }
+    .servings-val {
+      font-size: 0.8rem;
+      font-weight: 700;
+      color: var(--primary);
+      min-width: 78px;
+      text-align: center;
+    }
+    .btn-subtle-reset {
+      background: transparent;
+      border: 1px dashed var(--border);
+      color: var(--text-muted);
+      font-size: 0.72rem;
+      font-weight: 600;
+      padding: 3px 8px;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+    .btn-subtle-reset:hover {
+      border-color: var(--primary);
+      color: var(--primary);
+    }
 
     .step-num {
       width: 30px;
@@ -1287,6 +1351,7 @@
         <div class="modal-top-bar">
           <div class="modal-actions-left">
             <button class="modal-action-btn" id="modalFavBtn" onclick="toggleFavoriteFromModal()">🤍 Guardar</button>
+            <button class="modal-action-btn" id="kitchenModeBtn" onclick="toggleKitchenMode()" title="Modo Cocina (Mantener pantalla activa)"><span id="kitchenModeIcon">🍳</span> <span id="kitchenModeLabel">Modo Cocina</span></button>
             <button class="modal-action-btn" onclick="shareCurrentRecipe()"><span style="color:#22c55e;">📲</span> Compartir</button>
             <button class="modal-action-btn" onclick="window.print()">🖨️ Imprimir / PDF</button>
           </div>
@@ -1308,17 +1373,24 @@
 
         <div class="recipe-columns">
           <div>
-            <div class="section-title">
+            <div class="section-title" style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
               <span>🛒 Ingredientes</span>
-              <span style="font-size:0.74rem; font-family:'Plus Jakarta Sans',sans-serif; color:var(--text-muted); font-weight:600;">Toca para tildar</span>
+              <div style="display:inline-flex; align-items:center; gap:8px;">
+                <div class="servings-control" id="servingsControl" title="Escalador dinámico de raciones">
+                  <button type="button" class="servings-btn" onclick="adjustServings(-1)" title="Reducir raciones">−</button>
+                  <span id="servingsDisplay" class="servings-val">4 porciones</span>
+                  <button type="button" class="servings-btn" onclick="adjustServings(1)" title="Aumentar raciones">+</button>
+                </div>
+                <button type="button" class="btn-subtle-reset" onclick="resetChecksForCurrentRecipe('ings')" title="Desmarcar todos los ingredientes">↺ Limpiar</button>
+              </div>
             </div>
             <div id="modalIngredients"></div>
           </div>
 
           <div>
-            <div class="section-title">
+            <div class="section-title" style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
               <span>👨‍🍳 Preparación Paso a Paso</span>
-              <span style="font-size:0.74rem; font-family:'Plus Jakarta Sans',sans-serif; color:var(--text-muted); font-weight:600;">Toca el paso al completarlo</span>
+              <button type="button" class="btn-subtle-reset" onclick="resetChecksForCurrentRecipe('steps')" title="Desmarcar pasos completados">↺ Limpiar</button>
             </div>
             <div id="modalInstructions"></div>
           </div>
@@ -1773,6 +1845,327 @@
       }).join('');
     }
 
+    /* =========================================================================
+       MODO COCINA (SCREEN WAKE LOCK API)
+       ========================================================================= */
+    let wakeLockSentinel = null;
+    let kitchenModeActive = false;
+
+    async function activateWakeLock() {
+      if ('wakeLock' in navigator) {
+        try {
+          wakeLockSentinel = await navigator.wakeLock.request('screen');
+          wakeLockSentinel.addEventListener('release', () => {
+            if (!kitchenModeActive) updateKitchenModeUI(false);
+          });
+          return true;
+        } catch (err) {
+          console.warn('Wake Lock no disponible o denegado:', err);
+          return false;
+        }
+      }
+      return false;
+    }
+
+    async function releaseWakeLock() {
+      if (wakeLockSentinel) {
+        try {
+          await wakeLockSentinel.release();
+        } catch (e) {}
+        wakeLockSentinel = null;
+      }
+    }
+
+    async function toggleKitchenMode() {
+      kitchenModeActive = !kitchenModeActive;
+      if (kitchenModeActive) {
+        const ok = await activateWakeLock();
+        updateKitchenModeUI(true);
+        showToast(ok ? '🍳 Modo Cocina activo: pantalla siempre encendida' : '🍳 Modo Cocina activo');
+      } else {
+        await releaseWakeLock();
+        updateKitchenModeUI(false);
+        showToast('Modo Cocina desactivado');
+      }
+    }
+
+    function updateKitchenModeUI(active) {
+      const btn = document.getElementById('kitchenModeBtn');
+      if (!btn) return;
+      btn.classList.toggle('kitchen-active', active);
+      const icon = document.getElementById('kitchenModeIcon');
+      const label = document.getElementById('kitchenModeLabel');
+      if (icon) icon.textContent = active ? '🔥' : '🍳';
+      if (label) label.textContent = active ? 'Pantalla Activa' : 'Modo Cocina';
+    }
+
+    document.addEventListener('visibilitychange', async () => {
+      if (kitchenModeActive && document.visibilityState === 'visible' && !wakeLockSentinel) {
+        await activateWakeLock();
+      }
+    });
+
+    /* =========================================================================
+       ESCALADOR DINÁMICO DE RACIONES (DYNAMIC SERVINGS SCALER)
+       ========================================================================= */
+    let baseServings = 4;
+    let currentServings = 4;
+
+    function scaleIngredientText(itemText, multiplier) {
+      if (multiplier === 1 || !itemText) return itemText;
+
+      const mixedRegex = /^(\d+)\s+(\d+)\/(\d+)(\s+.*)$/i;
+      const rangeRegex = /^(\d+(?:[\.,]\d+)?)\s*(?:a|-)\s*(\d+(?:[\.,]\d+)?)(\s+.*)$/i;
+      const fractionRegex = /^(\d+)\/(\d+)(\s+.*)$/i;
+      const numRegex = /^(\d+(?:[\.,]\d+)?)(\s+.*)$/i;
+
+      let m;
+      if ((m = itemText.match(mixedRegex))) {
+        const val = (parseFloat(m[1]) + (parseFloat(m[2]) / parseFloat(m[3]))) * multiplier;
+        return formatScaledNumber(val) + m[4];
+      }
+      if ((m = itemText.match(fractionRegex))) {
+        const val = (parseFloat(m[1]) / parseFloat(m[2])) * multiplier;
+        return formatScaledNumber(val) + m[3];
+      }
+      if ((m = itemText.match(rangeRegex))) {
+        const n1 = parseFloat(m[1].replace(',', '.')) * multiplier;
+        const n2 = parseFloat(m[2].replace(',', '.')) * multiplier;
+        return `${formatScaledNumber(n1)} a ${formatScaledNumber(n2)}${m[3]}`;
+      }
+      if ((m = itemText.match(numRegex))) {
+        const val = parseFloat(m[1].replace(',', '.')) * multiplier;
+        return formatScaledNumber(val) + m[2];
+      }
+      return itemText;
+    }
+
+    function formatScaledNumber(val) {
+      if (Math.abs(val - Math.round(val)) < 0.05) {
+        return String(Math.round(val));
+      }
+      const whole = Math.floor(val);
+      const frac = val - whole;
+      const fracs = [
+        { v: 0.25, s: '1/4' },
+        { v: 0.33, s: '1/3' },
+        { v: 0.5, s: '1/2' },
+        { v: 0.66, s: '2/3' },
+        { v: 0.75, s: '3/4' }
+      ];
+      for (const f of fracs) {
+        if (Math.abs(frac - f.v) < 0.06) {
+          return whole > 0 ? `${whole} ${f.s}` : f.s;
+        }
+      }
+      return (Math.round(val * 10) / 10).toString().replace('.', ',');
+    }
+
+    function adjustServings(delta) {
+      const next = currentServings + delta;
+      if (next < 1 || next > 40) return;
+      currentServings = next;
+      updateServingsDisplay();
+      renderScaledIngredients();
+    }
+
+    function updateServingsDisplay() {
+      const disp = document.getElementById('servingsDisplay');
+      if (disp) {
+        disp.textContent = `${currentServings} ${currentServings === 1 ? 'porción' : 'porciones'}`;
+      }
+    }
+
+    function renderScaledIngredients() {
+      const r = recipes.find(x => x.id === currentModalRecipeId);
+      if (!r) return;
+      const multiplier = baseServings > 0 ? currentServings / baseServings : 1;
+      const ingContainer = document.getElementById('modalIngredients');
+      const groups = Array.isArray(r.ingredient_groups) && r.ingredient_groups.length > 0
+        ? r.ingredient_groups
+        : [{ name: 'Ingredientes', items: r.ingredients || [] }];
+
+      const savedKey = `receta_${r.id}_checks`;
+      const saved = JSON.parse(localStorage.getItem(savedKey) || '{"ings":[],"steps":[]}');
+      const checkedIngs = Array.isArray(saved.ings) ? saved.ings : [];
+
+      let globalIdx = 0;
+      ingContainer.innerHTML = groups.map(g => `
+        ${(groups.length > 1 || (g.name && g.name.toLowerCase() !== 'ingredientes'))
+          ? `<div class="group-subtitle">${g.name}</div>`
+          : ''}
+        <ul class="ingredient-list">
+          ${(g.items || []).map(item => {
+            const idx = globalIdx++;
+            const isChecked = checkedIngs.includes(idx);
+            const scaledText = scaleIngredientText(item, multiplier);
+            return `
+              <li class="ingredient-item ${isChecked ? 'checked' : ''}" id="ing-item-${idx}" onclick="toggleIngCheck(${idx})">
+                <div class="ing-check">✓</div>
+                <span>${scaledText}</span>
+              </li>
+            `;
+          }).join('')}
+        </ul>
+      `).join('');
+    }
+
+    /* =========================================================================
+       CHECKLISTS DE COCINA PERSISTENTES (LOCALSTORAGE)
+       ========================================================================= */
+    function toggleIngCheck(idx) {
+      if (!currentModalRecipeId) return;
+      const key = `receta_${currentModalRecipeId}_checks`;
+      const saved = JSON.parse(localStorage.getItem(key) || '{"ings":[],"steps":[]}');
+      if (!Array.isArray(saved.ings)) saved.ings = [];
+      const pos = saved.ings.indexOf(idx);
+      if (pos >= 0) saved.ings.splice(pos, 1);
+      else saved.ings.push(idx);
+      localStorage.setItem(key, JSON.stringify(saved));
+
+      const el = document.getElementById(`ing-item-${idx}`);
+      if (el) el.classList.toggle('checked', saved.ings.includes(idx));
+    }
+
+    function toggleStepCheck(idx) {
+      if (!currentModalRecipeId) return;
+      const key = `receta_${currentModalRecipeId}_checks`;
+      const saved = JSON.parse(localStorage.getItem(key) || '{"ings":[],"steps":[]}');
+      if (!Array.isArray(saved.steps)) saved.steps = [];
+      const pos = saved.steps.indexOf(idx);
+      if (pos >= 0) saved.steps.splice(pos, 1);
+      else saved.steps.push(idx);
+      localStorage.setItem(key, JSON.stringify(saved));
+
+      const el = document.getElementById(`step-item-${idx}`);
+      if (el) el.classList.toggle('done', saved.steps.includes(idx));
+    }
+
+    function resetChecksForCurrentRecipe(type = 'all') {
+      if (!currentModalRecipeId) return;
+      const key = `receta_${currentModalRecipeId}_checks`;
+      const saved = JSON.parse(localStorage.getItem(key) || '{"ings":[],"steps":[]}');
+      if (type === 'all' || type === 'ings') {
+        saved.ings = [];
+        document.querySelectorAll('#modalIngredients .ingredient-item').forEach(el => el.classList.remove('checked'));
+      }
+      if (type === 'all' || type === 'steps') {
+        saved.steps = [];
+        document.querySelectorAll('#modalInstructions .step-item').forEach(el => el.classList.remove('done'));
+      }
+      localStorage.setItem(key, JSON.stringify(saved));
+      showToast(type === 'ings' ? 'Ingredientes desmarcados' : type === 'steps' ? 'Pasos desmarcados' : 'Lista reiniciada');
+    }
+
+    function renderStepList(r) {
+      const stepContainer = document.getElementById('modalInstructions');
+      const sGroups = Array.isArray(r.step_groups) && r.step_groups.length > 0
+        ? r.step_groups
+        : [{ name: 'Preparación', steps: r.steps || [] }];
+
+      const savedKey = `receta_${r.id}_checks`;
+      const saved = JSON.parse(localStorage.getItem(savedKey) || '{"ings":[],"steps":[]}');
+      const checkedSteps = Array.isArray(saved.steps) ? saved.steps : [];
+
+      let globalStepIdx = 0;
+      stepContainer.innerHTML = sGroups.map(sg => `
+        ${(sGroups.length > 1 || (sg.name && sg.name.toLowerCase() !== 'preparación'))
+          ? `<div class="group-subtitle">${sg.name}</div>`
+          : ''}
+        <div class="steps-list">
+          ${(sg.steps || sg.items || []).map((st) => {
+            const sIdx = globalStepIdx++;
+            const isDone = checkedSteps.includes(sIdx);
+            return `
+              <div class="step-item ${isDone ? 'done' : ''}" id="step-item-${sIdx}" onclick="toggleStepCheck(${sIdx})">
+                <div class="step-num">${sIdx + 1}</div>
+                <div>${st}</div>
+              </div>
+            `;
+          }).join('')}
+        </div>
+      `).join('');
+    }
+
+    /* =========================================================================
+       INYECCIÓN DE SEO SEMÁNTICO (SCHEMA.ORG / RECIPE JSON-LD)
+       ========================================================================= */
+    function parseDurationISO(str) {
+      if (!str) return null;
+      let totalMinutes = 0;
+      const hMatch = str.match(/(\d+)\s*(?:hora|hr|h)/i);
+      const mMatch = str.match(/(\d+)\s*(?:min|m)/i);
+      if (hMatch) totalMinutes += parseInt(hMatch[1], 10) * 60;
+      if (mMatch) totalMinutes += parseInt(mMatch[1], 10);
+      if (!hMatch && !mMatch) {
+        const num = str.match(/\d+/);
+        if (num) totalMinutes = parseInt(num[0], 10);
+      }
+      if (totalMinutes <= 0) return null;
+      const hours = Math.floor(totalMinutes / 60);
+      const mins = totalMinutes % 60;
+      let iso = 'PT';
+      if (hours > 0) iso += hours + 'H';
+      if (mins > 0) iso += mins + 'M';
+      return iso === 'PT' ? null : iso;
+    }
+
+    function injectRecipeSchema(r) {
+      const old = document.getElementById('schema-recipe-ld');
+      if (old) old.remove();
+
+      const country = getCountry(r);
+      const category = getCategory(r);
+      const imgUrl = (r.image || '').startsWith('http') ? r.image : new URL(r.image || '', window.location.href).href;
+      const ingredients = (r.ingredient_groups || []).flatMap(g => g.items || []);
+      const steps = (r.step_groups || []).flatMap(g => g.steps || g.items || []);
+
+      const schema = {
+        "@context": "https://schema.org",
+        "@type": "Recipe",
+        "name": r.title,
+        "description": r.story || `${r.title} — Receta de autor en UmamiCraft`,
+        "image": [imgUrl],
+        "recipeYield": r.servings || "4 porciones",
+        "recipeCategory": category,
+        "recipeCuisine": country,
+        "keywords": (r.tags || []).join(', '),
+        "recipeIngredient": ingredients.length > 0 ? ingredients : (r.ingredients || []),
+        "recipeInstructions": steps.map((st, idx) => ({
+          "@type": "HowToStep",
+          "position": idx + 1,
+          "text": st
+        }))
+      };
+
+      const prepISO = parseDurationISO(r.prep_time);
+      if (prepISO) schema.prepTime = prepISO;
+
+      const cookISO = parseDurationISO(r.cook_time);
+      if (cookISO) schema.cookTime = cookISO;
+
+      if (r.calories) {
+        const calNum = parseNum(r.calories);
+        if (calNum > 0 && calNum < 9000) {
+          schema.nutrition = {
+            "@type": "NutritionInformation",
+            "calories": `${calNum} calories`
+          };
+        }
+      }
+
+      const script = document.createElement('script');
+      script.type = 'application/ld+json';
+      script.id = 'schema-recipe-ld';
+      script.textContent = JSON.stringify(schema, null, 2);
+      document.head.appendChild(script);
+    }
+
+    function removeRecipeSchema() {
+      const s = document.getElementById('schema-recipe-ld');
+      if (s) s.remove();
+    }
+
     function openModal(id) {
       const r = recipes.find(x => x.id === id);
       if (!r) return;
@@ -1815,45 +2208,20 @@
         </div>
       `).join('');
 
-      // Ingredient Groups
-      const ingContainer = document.getElementById('modalIngredients');
-      const groups = Array.isArray(r.ingredient_groups) && r.ingredient_groups.length > 0
-        ? r.ingredient_groups
-        : [{ name: 'Ingredientes', items: r.ingredients || [] }];
+      // Inicializar escalador de porciones
+      const mServ = String(r.servings || '').match(/\d+/);
+      baseServings = mServ ? parseInt(mServ[0], 10) : 4;
+      currentServings = baseServings;
+      updateServingsDisplay();
 
-      ingContainer.innerHTML = groups.map(g => `
-        ${(groups.length > 1 || (g.name && g.name.toLowerCase() !== 'ingredientes'))
-          ? `<div class="group-subtitle">${g.name}</div>`
-          : ''}
-        <ul class="ingredient-list">
-          ${(g.items || []).map(item => `
-            <li class="ingredient-item" onclick="this.classList.toggle('checked')">
-              <div class="ing-check">✓</div>
-              <span>${item}</span>
-            </li>
-          `).join('')}
-        </ul>
-      `).join('');
+      // Renderizar ingredientes escalados y con estado de checklist
+      renderScaledIngredients();
 
-      // Step Groups
-      const stepContainer = document.getElementById('modalInstructions');
-      const sGroups = Array.isArray(r.step_groups) && r.step_groups.length > 0
-        ? r.step_groups
-        : [{ name: 'Preparación', steps: r.steps || [] }];
+      // Renderizar pasos con estado de checklist
+      renderStepList(r);
 
-      stepContainer.innerHTML = sGroups.map(sg => `
-        ${(sGroups.length > 1 || (sg.name && sg.name.toLowerCase() !== 'preparación'))
-          ? `<div class="group-subtitle">${sg.name}</div>`
-          : ''}
-        <div class="steps-list">
-          ${(sg.steps || []).map((st, idx) => `
-            <div class="step-item" onclick="this.classList.toggle('done')">
-              <div class="step-num">${idx + 1}</div>
-              <div>${st}</div>
-            </div>
-          `).join('')}
-        </div>
-      `).join('');
+      // Inyectar esquema semántico Recipe de Schema.org
+      injectRecipeSchema(r);
 
       // Notes
       const notesText = r.notes || r.chef_tips || '';
@@ -1890,6 +2258,12 @@
       document.body.style.overflow = 'auto';
       if (window.location.hash.startsWith('#receta-')) {
         history.replaceState(null, null, window.location.pathname);
+      }
+      removeRecipeSchema();
+      if (kitchenModeActive) {
+        releaseWakeLock();
+        kitchenModeActive = false;
+        updateKitchenModeUI(false);
       }
     }
 

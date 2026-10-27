@@ -11341,7 +11341,7 @@
   },
   {
     "id": 174,
-    "title": "Bollito di Manzo con Salsa Verde (Italia — Toscana)",
+    "title": "Bollito di Manzo con Salsa Verde (Italia)",
     "country": "Italia",
     "category": "Carnes",
     "tags": [
@@ -17032,7 +17032,7 @@
   },
   {
     "id": 257,
-    "title": "Spaghetti all'Assassina (Italia — Bari, Puglia)",
+    "title": "Spaghetti all'Assassina (Italia)",
     "country": "Italia",
     "category": "Pastas",
     "tags": [
@@ -17115,7 +17115,7 @@
   },
   {
     "id": 258,
-    "title": "Uovo in Raviolo \"San Domenico\" con Burro Nocciola e Parmigiano (Italia — Imola)",
+    "title": "Uovo in Raviolo \"San Domenico\" con Burro Nocciola e Parmigiano (Italia)",
     "country": "Italia",
     "category": "Pastas",
     "tags": [
@@ -17178,7 +17178,7 @@
     "step_groups": [
       {
         "name": "Preparación de la masa y el relleno",
-        "items": [
+        "steps": [
           "Amasar la harina con los dos huevos hasta obtener un bollo elástico, suave y homogéneo. Envolver en film y dejar reposar 30 minutos a temperatura ambiente.",
           "En un bol, mezclar la ricotta bien seca con las espinacas picadísimas, los 50 g de Parmigiano, el huevo entero, nuez moscada, sal y pimienta. Trabajar con cuchara hasta homogeneizar y colocar en una manga pastelera con boquilla ancha y lisa.",
           "Estirar la masa con máquina o palo de amasar hasta lograr un espesor muy delgado (casi traslúcido, número 7 u 8 de la pastalinda). Cortar 8 discos de unos 12 a 14 cm de diámetro."
@@ -17186,7 +17186,7 @@
       },
       {
         "name": "Armado del raviolo (Fase crítica)",
-        "items": [
+        "steps": [
           "Colocar 4 discos de masa sobre sendos cuadrados de papel manteca (el papel permitirá trasladarlos y sumergirlos sin que se deformen ni se rompan).",
           "Con la manga pastelera, formar un cordón circular continuo (un 'nido' o pocillo) de relleno de ricotta y espinacas en el centro de cada disco de masa, dejando un hueco generoso en el medio.",
           "Con cuidado extremo, separar la yema de la clara y depositar una yema entera cruda en el centro de cada nido. Añadir un grano diminuto de sal sobre la yema.",
@@ -17195,7 +17195,7 @@
       },
       {
         "name": "Cocción y manteca avellanada",
-        "items": [
+        "steps": [
           "Llevar a hervor abundante agua con sal en una olla ancha y baja. Tomar el raviolo por las puntas del papel manteca y sumergirlo en el agua hirviendo con el papel incluido. A los pocos segundos el papel se desprende solo y se retira con pinzas.",
           "Cocinar durante exactamente 2 minutos y 15 segundos a fuego medio. La masa debe quedar al dente y la yema adentro permanecer totalmente líquida y cremosa.",
           "En paralelo, en una sartén derretir la manteca a fuego medio-fuerte hasta que deje de espumar y tome un color dorado avellanado con aroma tostado irresistible (burro nocciola)."
@@ -17203,7 +17203,7 @@
       },
       {
         "name": "Servicio de alta cocina",
-        "items": [
+        "steps": [
           "Retirar cada raviolo con espumadera con suma delicadeza, escurrir una fracción de segundo sobre un paño limpio y apoyar en el centro de un plato hondo precalentado.",
           "Espolvorear inmediatamente con abundante Parmigiano Reggiano rallado, bañar con la manteca avellanada hirviendo para que funda el queso y terminar con láminas finas de trufa negra.",
           "Comer con cuchara y tenedor: al cortar el raviolo en el centro, la yema dorada fluye creando una salsa sublime con la manteca y el queso."
@@ -17217,7 +17217,7 @@
   },
   {
     "id": 259,
-    "title": "Tacos al Pastor Tradicionales con Piña Asada (México — CDMX)",
+    "title": "Tacos al Pastor Tradicionales con Piña Asada (México)",
     "country": "México",
     "category": "Carnes",
     "tags": [
@@ -17281,14 +17281,14 @@
     "step_groups": [
       {
         "name": "Marinado de la carne",
-        "items": [
+        "steps": [
           "Licuar todos los ingredientes del adobo (achiote, chiles hidratados, jugo de naranja, vinagre, ajo y especias) hasta obtener una pasta lisa, sedosa y de color rojo intenso.",
           "Untar cada filete de cerdo con abundante adobo cubriendo toda la superficie. Colocar en un recipiente, tapar y refrigerar como mínimo 4 horas (idealmente toda la noche)."
         ]
       },
       {
         "name": "Cocción al fuego y caramelizado",
-        "items": [
+        "steps": [
           "Calentar una plancha de hierro fundido o sartén pesada a fuego medio-alto con una cucharada de manteca de cerdo.",
           "Dorar primero las rodajas de piña de ambos lados hasta que tomen marcas bien tostadas y caramelizadas. Retirar y cortar en cubos pequeños.",
           "En la misma plancha bien caliente, cocinar los filetes de cerdo en tandas durante 2 a 3 minutos por lado, permitiendo que el adobo se dore y la carne adquiera partes crujientes y ahumadas.",
@@ -17297,7 +17297,7 @@
       },
       {
         "name": "Armado del taco",
-        "items": [
+        "steps": [
           "Pasar las tortillas de maíz por la plancha caliente durante unos segundos para que absorban el jugo de la carne y queden flexibles y aromáticas.",
           "Servir doble tortilla, rellenar generosamente con la carne al pastor picada bien caliente, coronar con cubitos de piña asada, cebolla blanca picada, cilantro fresco y unas gotas de jugo de lima."
         ]
@@ -17310,7 +17310,7 @@
   },
   {
     "id": 260,
-    "title": "Pad Krapow Gai / Salteado Tailandés con Albahaca y Huevo Frito (Tailandia — Bangkok)",
+    "title": "Pad Krapow Gai / Salteado Tailandés con Albahaca y Huevo Frito (Tailandia)",
     "country": "Tailandia",
     "category": "Pollo / Aves",
     "tags": [
@@ -17370,20 +17370,20 @@
     "step_groups": [
       {
         "name": "Mortero y preparación",
-        "items": [
+        "steps": [
           "En un mortero de piedra, machacar los dientes de ajo con los chiles y una pizca de sal hasta formar una pasta rústica con trozos visibles.",
           "En un cuenco pequeño, mezclar la salsa de ostras, las dos salsas de soja, la salsa de pescado, el azúcar y el agua hasta disolver."
         ]
       },
       {
         "name": "Fritura del huevo crujiente (Kai Dao)",
-        "items": [
+        "steps": [
           "Calentar abundante aceite en una sartén pequeña o wok a fuego medio-alto. Cascar un huevo en el aceite muy caliente: la clara debe burbujear, inflarse y volverse dorada y súper crujiente en los bordes, manteniendo la yema tierna y líquida. Retirar y reservar caliente."
         ]
       },
       {
         "name": "Salteado rápido al wok",
-        "items": [
+        "steps": [
           "En el wok a fuego máximo con dos cucharadas de aceite, saltear la pasta de ajo y chile durante 30 segundos hasta que desprenda un aroma penetrante e intenso (cuidado que hace estornudar).",
           "Agregar el pollo picado y saltear enérgicamente rompiendo los trozos con la espátula durante 3 a 4 minutos hasta que cambie de color y empiece a dorarse.",
           "Verter la mezcla de salsas y cocinar a fuego vivo 1 minuto más hasta que el líquido glasee la carne por completo.",
@@ -17392,7 +17392,7 @@
       },
       {
         "name": "Emplatado",
-        "items": [
+        "steps": [
           "Servir el pollo inmediatamente junto al arroz jazmín humeante y coronar con el huevo frito crocante por encima."
         ]
       }
@@ -17404,7 +17404,7 @@
   },
   {
     "id": 261,
-    "title": "Cacio e Pepe Auténtico Romano (Italia — Roma)",
+    "title": "Cacio e Pepe Auténtico Romano (Italia)",
     "country": "Italia",
     "category": "Pastas",
     "tags": [
@@ -17442,7 +17442,7 @@
     "step_groups": [
       {
         "name": "Tostado de la pimienta y cocción de la pasta",
-        "items": [
+        "steps": [
           "Tostar los granos enteros de pimienta negra en una sartén amplia a fuego medio durante 2 minutos hasta que desprendan su perfume ahumado. Machacarlos rústicamente en mortero o con el canto de un cuchillo pesado.",
           "Cocinar la pasta en una olla con abundante agua salada, usando la mitad de sal de lo habitual. Cocinarla hasta que le falten 2 minutos para estar al dente.",
           "En la sartén donde tostamos la pimienta, agregar dos cucharones del agua hirviendo de cocción de la pasta. El almidón del agua formará una base blanquecina perfumada."
@@ -17450,13 +17450,13 @@
       },
       {
         "name": "Preparación de la crema de Pecorino",
-        "items": [
+        "steps": [
           "En un bol grande resistente al calor, colocar el Pecorino Romano rallado finísimo. Ir añadiendo de a cucharadas agua caliente de la pasta mientras se bate enérgicamente con batidor de alambre hasta formar una crema densa y homogénea, sin grumos."
         ]
       },
       {
         "name": "Mantecatura y servicio",
-        "items": [
+        "steps": [
           "Transferir la pasta directamente a la sartén con la pimienta y el fondo de agua, revolviendo a fuego medio para que termine su cocción absorbiendo el sabor.",
           "Retirar la sartén COMPLETAMENTE DEL FUEGO (fundamental: a más de 65 °C el queso se separa en hilos gomosos). Dejar atemperar 30 segundos.",
           "Verter la crema de Pecorino sobre la pasta y saltear con movimientos enérgicos de muñeca mientras se incorpora aire, logrando una emulsión cremosa, sedosa y aterciopelada que cubre cada fideo.",
@@ -17523,27 +17523,27 @@
     "step_groups": [
       {
         "name": "Marinado",
-        "items": [
+        "steps": [
           "En un bol, combinar la salsa de soja, sake, mirin, jengibre, ajo, aceite de sésamo y pimienta.",
           "Agregar los trozos de pollo asegurándose de que la marinada penetre bien. Masajear con las manos durante 1 minuto y dejar reposar en heladera durante 30 minutos (no más de 1 hora para no ablandar la piel en exceso)."
         ]
       },
       {
         "name": "Rebozado ligero",
-        "items": [
+        "steps": [
           "Escurrir ligeramente el pollo de los excesos de líquido. Pasar cada trozo por la fécula de papa presionando suavemente para que quede cubierto por una capa uniforme y fina. Sacudir el exceso de fécula."
         ]
       },
       {
         "name": "Doble fritura magistral",
-        "items": [
+        "steps": [
           "Primera fritura: Calentar el aceite a 160 °C (fuego medio). Freír el pollo en tandas durante 3 a 4 minutos hasta que esté cocido por dentro y de color rubio pálido. Retirar y dejar reposar sobre rejilla metálica durante 4 minutos (el calor residual terminará la cocción interior sin resecar la carne).",
           "Segunda fritura: Subir la temperatura del aceite a 180-185 °C (fuego fuerte). Volver a sumergir el pollo durante solo 45 a 60 segundos hasta que la corteza se vuelva dorada profunda, acústicamente crocante y sin retener grasa."
         ]
       },
       {
         "name": "Servicio",
-        "items": [
+        "steps": [
           "Escurrir sobre papel absorbente y servir inmediatamente bien caliente, acompañado de gajos de limón fresco para exprimir por encima y un copete de mayonesa japonesa Kewpie."
         ]
       }
@@ -17605,14 +17605,14 @@
     "step_groups": [
       {
         "name": "Limpieza y sofrito",
-        "items": [
+        "steps": [
           "Lavar los mejillones bajo agua fría, raspar las conchas para quitar impurezas y retirar la 'barba' tirando firmemente hacia el lado biselado. Descartar los mejillones que estén rotos o que permanezcan abiertos tras golpearlos suavemente sobre la mesada.",
           "En una olla grande y profunda con tapa, derretir la manteca a fuego medio. Agregar las chalotas, el apio y el ajo; rehogar durante 3 minutos sin que tomen color hasta que estén tiernos y fragantes."
         ]
       },
       {
         "name": "Cocción al vapor con vino blanco",
-        "items": [
+        "steps": [
           "Subir el fuego al máximo. Echar todos los mejillones limpios de golpe en la olla y verter inmediatamente el vino blanco seco.",
           "Tapar la olla con firmeza. Cocinar a fuego vivo durante 4 a 5 minutos, agitando la olla con ambas manos un par de veces para que los mejillones roten y se abran uniformemente con el vapor aromático.",
           "Destapar: los mejillones deben estar todos abiertos. Descartar los que hayan quedado cerrados."
@@ -17620,7 +17620,7 @@
       },
       {
         "name": "Toque final de crema y servicio",
-        "items": [
+        "steps": [
           "Bajar el fuego al mínimo, verter la crema de leche y espolvorear con el perejil fresco picado y abundante pimienta negra molida. Revolver suavemente durante 1 minuto para ligar la crema con los jugos marinos sin que rompa en hervor fuerte.",
           "Servir de inmediato en tazones hondos o en la misma olla tradicional esmaltada con tapa invertida (para ir depositando las conchas vacías), acompañado de papas fritas bien calientes."
         ]
@@ -17633,7 +17633,7 @@
   },
   {
     "id": 264,
-    "title": "Souvlaki Griego de Cerdo con Pan Pita Casero y Tzatziki (Grecia — Atenas)",
+    "title": "Souvlaki Griego de Cerdo con Pan Pita Casero y Tzatziki (Grecia)",
     "country": "Grecia",
     "category": "Cerdo",
     "tags": [
@@ -17696,7 +17696,7 @@
     "step_groups": [
       {
         "name": "Marinado y armado de brochetas",
-        "items": [
+        "steps": [
           "En un cuenco, mezclar el aceite de oliva, jugo y ralladura de limón, ajo, orégano, tomillo, pimentón, sal y pimienta.",
           "Masajear los cubos de cerdo con la marinada, tapar y refrigerar al menos 2 horas para que la carne se ablande e impregne de aromas.",
           "Ensartar la carne en los pinchos de madera apretando ligeramente los trozos para conservar los jugos internos."
@@ -17704,14 +17704,14 @@
       },
       {
         "name": "Preparación del Tzatziki",
-        "items": [
+        "steps": [
           "El secreto del tzatziki es que el pepino no aporte agua: apretarlo fuertemente envuelto en un paño limpio hasta que quede completamente seco.",
           "Mezclar el pepino con el yogur griego, ajo en pasta, aceite de oliva, vinagre, eneldo y sal. Guardar en frío hasta servir."
         ]
       },
       {
         "name": "Cocción y armado",
-        "items": [
+        "steps": [
           "Calentar una plancha de hierro o parrilla a fuego fuerte. Cocinar los souvlakis durante 10 a 12 minutos, girándolos cada 3 minutos para que se doren parejos por los cuatro lados y la carne quede tierna y jugosa.",
           "Calentar los panes pita en la misma plancha un minuto por lado para que se entibien y se vuelvan flexibles.",
           "Untar cada pan pita con abundante tzatziki frío, colocar la brocheta encima, deslizar el pincho para dejar la carne adentro y sumar rodajas de tomate, cebolla morada y unas papitas fritas. Envolver como un cono y disfrutar."
@@ -17791,7 +17791,7 @@
     "step_groups": [
       {
         "name": "Marinado e inserción en pinchos",
-        "items": [
+        "steps": [
           "Mezclar en un bol la cúrcuma, jengibre, ajo, lemongrass, salsa de soja, azúcar y aceite.",
           "Agregar las tiras de pollo y masajear para impregnar bien el color y aroma. Dejar marinar 1 hora en heladera.",
           "Ensartar las tiras de pollo en zigzag a lo largo de cada palito de bambú."
@@ -17799,7 +17799,7 @@
       },
       {
         "name": "Elaboración de la salsa de maní",
-        "items": [
+        "steps": [
           "En una sartén pequeña con un hilo de aceite, sofreír el ajo y la chalota durante 1 minuto.",
           "Agregar el maní tostado molido, la leche de coco, la salsa kecap manis y la pasta de chile.",
           "Cocinar a fuego bajo revolviendo constantemente durante 5 minutos hasta que la salsa espese, tome un brillo aceitoso apetitoso y perfume toda la cocina. Terminar con el jugo de lima y reservar tibia."
@@ -17807,7 +17807,7 @@
       },
       {
         "name": "Cocción y presentación",
-        "items": [
+        "steps": [
           "Cocinar los pinchos en plancha caliente o parrilla durante 3 a 4 minutos por lado hasta que estén dorados, cocidos y con los bordes ligeramente quemaditos por el azúcar del marinado.",
           "Disponer los pinchos en una bandeja, bañar generosamente con la salsa tibia de maní y acompañar con pepino fresco, cebolla morada y rodajas de lima."
         ]
@@ -17820,7 +17820,7 @@
   },
   {
     "id": 266,
-    "title": "Feijoada Completa Tradicional (Brasil — Río de Janeiro)",
+    "title": "Feijoada Completa Tradicional (Brasil)",
     "country": "Brasil",
     "category": "Carnes",
     "tags": [
@@ -17875,7 +17875,7 @@
     "step_groups": [
       {
         "name": "Cocción de los porotos y carnes",
-        "items": [
+        "steps": [
           "En una olla grande y pesada con abundante agua limpia, colocar los porotos negros escurridos con las hojas de laurel. Llevar a hervor suave.",
           "En una sartén aparte, dorar la panceta y las costillitas para que desprendan sus jugos y tomen color. Transferir a la olla de los porotos junto con los cubos de cerdo.",
           "Cocinar a fuego lento semi tapado durante 1 hora y media, espumando la superficie de vez en cuando.",
@@ -17884,7 +17884,7 @@
       },
       {
         "name": "El 'refogado' que espesa el caldo",
-        "items": [
+        "steps": [
           "En la sartén con dos cucharadas de aceite, dorar la cebolla picada y el ajo hasta que estén caramelizados.",
           "Tomar 2 cucharones de porotos enteros de la olla, colocarlos en la sartén y aplastarlos con tenedor formando un puré espeso.",
           "Volcar este sofrito de nuevo en la gran olla de la feijoada. Revolver y dejar hervir a fuego mínimo 15 minutos más: esto emulsiona el guiso y logra esa textura untuosa y aterciopelada inolvidable."
@@ -17892,7 +17892,7 @@
       },
       {
         "name": "Servicio tradicional",
-        "items": [
+        "steps": [
           "Servir la feijoada bien humeante en cazuelas de barro, acompañada de fuentes con el arroz blanco, la farofa crocante, la col salteada brillante y las rodajas de naranja fresca."
         ]
       }
@@ -17961,7 +17961,7 @@
     "step_groups": [
       {
         "name": "Apanado y reposo",
-        "items": [
+        "steps": [
           "En una fuente honda batir los huevos con el ajo picado, el perejil fresco, la mostaza, sal y pimienta.",
           "Pasar los bifes por la mezcla de huevo, dejándolos reposar 10 minutos para que absorban sabor.",
           "Pasar la carne por el pan rallado presionando con fuerza con las palmas de las manos para sellar bien los bordes y evitar que el pan se desprenda al freír. Llevar a la heladera 15 minutos."
@@ -17969,14 +17969,14 @@
       },
       {
         "name": "Fritura dorada",
-        "items": [
+        "steps": [
           "Calentar abundante aceite limpio en una sartén grande a 175 °C (el aceite debe cubrir la milanesa).",
           "Freír las milanesas durante 2 a 3 minutos por lado hasta que estén doradas y crocantes por fuera y jugosas por dentro. Escurrir sobre papel absorbente."
         ]
       },
       {
         "name": "Gratinado bodegonero",
-        "items": [
+        "steps": [
           "Acomodar las milanesas fritas en una placa para horno.",
           "Cubrir cada una con dos cucharadas de salsa de tomate espesa, una feta generosa de jamón cocido y abundante muzzarella por encima.",
           "Llevar a horno precalentado a 220 °C con grill durante 4 a 5 minutos hasta que el queso esté completamente derretido, burbujeante y apenas tostado en los bordes.",
@@ -18052,14 +18052,14 @@
     "step_groups": [
       {
         "name": "Sellado a fuego vivo",
-        "items": [
+        "steps": [
           "Calentar el disco de arado o sartén de hierro bien curada a fuego fuerte con el aceite.",
           "Salar las presas de pollo y dorarlas con la piel hacia abajo durante 8 a 10 minutos hasta que estén bien crocantes y doradas. Dar vuelta y sellar el otro lado. Retirar las presas hacia los bordes del disco donde hay menor calor (o reservar en fuente aparte)."
         ]
       },
       {
         "name": "Sofrito de verduras y reducción al vino",
-        "items": [
+        "steps": [
           "En el centro del disco, aprovechar el fondo de cocción del pollo para rehogar las cebollas, los tres morrones, el puerro, la parte blanca del verdeo y los ajos aplastados con las hojas de laurel.",
           "Condimentar con sal, pimienta, pimentón y ají molido hasta que las verduras comiencen a ablandarse (unos 6 minutos).",
           "Reintegrar el pollo al centro, subir el fuego y verter todo el vino blanco. Dejar hervir a borbotones durante 3 minutos para que se evapore el alcohol y levante todos los fondos caramelizados del hierro.",
@@ -18068,7 +18068,7 @@
       },
       {
         "name": "Final cremosa con verdeo",
-        "items": [
+        "steps": [
           "Destapar, verter la crema de leche y mezclar con suavidad moviendo la salsa para que se emulsione con los jugos de cocción. Dejar reducir a fuego suave 5 minutos.",
           "Apagar el fuego, espolvorear con la parte verde fresca de la cebolla de verdeo y servir directamente del disco con papas en rodajas y abundante pan de campo."
         ]
