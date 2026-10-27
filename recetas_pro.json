@@ -20057,105 +20057,42 @@
       {
         "name": "Para los Kebabs de Carne Especiada (8 cilindros / 2 por sándwich)",
         "items": [
-          {
-            "name": "Carne picada vacuna (corte con 20% de grasa, ej. roast beef o tapa de asado)",
-            "amount": "500 g"
-          },
-          {
-            "name": "Carne picada de cordero o grasa de pella/falda para máxima jugosidad",
-            "amount": "200 g"
-          },
-          {
-            "name": "Cebolla rallada (bien escurrida de su jugo)",
-            "amount": "1 unidad mediana"
-          },
-          {
-            "name": "Dientes de ajo finamente rallados",
-            "amount": "3 unidades"
-          },
-          {
-            "name": "Perejil fresco finamente picado",
-            "amount": "1/2 taza"
-          },
-          {
-            "name": "Comino molido y pimentón dulce / ahumado",
-            "amount": "1 cda de c/u"
-          },
-          {
-            "name": "Coriandro (semillas de cilantro molidas) y pimienta negra",
-            "amount": "1 cdita de c/u"
-          },
-          {
-            "name": "Sal fina marina",
-            "amount": "1 y 1/2 cditas"
-          }
+          "500 g de Carne picada vacuna (corte con 20% de grasa, ej. roast beef o tapa de asado)",
+          "200 g de Carne picada de cordero o grasa de pella/falda para máxima jugosidad",
+          "1 unidad mediana Cebolla rallada (bien escurrida de su jugo)",
+          "3 unidades de Dientes de ajo finamente rallados",
+          "1/2 taza de Perejil fresco finamente picado",
+          "1 cda de c/u Comino molido y pimentón dulce / ahumado",
+          "1 cdita de c/u Coriandro (semillas de cilantro molidas) y pimienta negra",
+          "1 y 1/2 cditas de Sal fina marina"
         ]
       },
       {
         "name": "Para las Cebollas al Sumac y Relleno Fresco",
         "items": [
-          {
-            "name": "Cebollas moradas cortadas en juliana muy fina (corte pluma)",
-            "amount": "2 unidades"
-          },
-          {
-            "name": "Zumaque / Sumac molido (aporta la acidez cítrica y color rubí)",
-            "amount": "1 y 1/2 cdas"
-          },
-          {
-            "name": "Jugo de limón fresco y aceite de oliva virgen extra",
-            "amount": "1 cda de c/u"
-          },
-          {
-            "name": "Pepinillos agridulces o en vinagre cortados en láminas finas a lo largo",
-            "amount": "4 unidades"
-          },
-          {
-            "name": "Tomates maduros firmes cortados en cubitos o gajos finos",
-            "amount": "2 unidades"
-          },
-          {
-            "name": "Lechuga crujiente cortada en tiras finas",
-            "amount": "1 taza"
-          }
+          "2 unidades de Cebollas moradas cortadas en juliana muy fina (corte pluma)",
+          "1 y 1/2 cdas de Zumaque / Sumac molido (aporta la acidez cítrica y color rubí)",
+          "1 cda de c/u Jugo de limón fresco y aceite de oliva virgen extra",
+          "4 unidades de Pepinillos agridulces o en vinagre cortados en láminas finas a lo largo",
+          "2 unidades de Tomates maduros firmes cortados en cubitos o gajos finos",
+          "1 taza de Lechuga crujiente cortada en tiras finas"
         ]
       },
       {
         "name": "Para la Salsa Blanca de Ajo y Yogur (Garlic Sauce / Tarator)",
         "items": [
-          {
-            "name": "Yogur griego natural espeso sin azúcar",
-            "amount": "1 taza (200 g)"
-          },
-          {
-            "name": "Pasta de sésamo puro (Tahini)",
-            "amount": "2 cdas"
-          },
-          {
-            "name": "Diente de ajo machacado en pasta fina con sal",
-            "amount": "1 unidad"
-          },
-          {
-            "name": "Jugo de limón fresco",
-            "amount": "1 y 1/2 cdas"
-          },
-          {
-            "name": "Sal fina marina y toque de perejil fresco picado",
-            "amount": "A gusto"
-          }
+          "1 taza (200 g) Yogur griego natural espeso sin azúcar",
+          "2 cdas de Pasta de sésamo puro (Tahini)",
+          "1 unidad de Diente de ajo machacado en pasta fina con sal",
+          "1 y 1/2 cdas de Jugo de limón fresco",
+          "A gusto Sal fina marina y toque de perejil fresco picado"
         ]
       },
       {
         "name": "Para el Pan y Armado",
         "items": [
-          {
-            "name": "Panes tipo baguette individuales rústicos con semillas de sésamo y amapola",
-            "amount": "4 unidades"
-          },
-          {
-            "name": "Manteca pomada o aceite de oliva (para tostar las caras internas del pan)",
-            "amount": "2 cdas"
-          }
+          "4 unidades de Panes tipo baguette individuales rústicos con semillas de sésamo y amapola",
+          "2 cdas de Manteca pomada o aceite de oliva (para tostar las caras internas del pan)"
         ]
       }
     ],
@@ -20691,84 +20628,33 @@
       {
         "name": "Mezcla Secreta de 11 Hierbas y Especias",
         "items": [
-          {
-            "name": "Pimentón dulce (Paprika)",
-            "amount": "4 cdas"
-          },
-          {
-            "name": "Pimienta blanca molida (el secreto umami de KFC)",
-            "amount": "3 cdas"
-          },
-          {
-            "name": "Sal fina",
-            "amount": "2 cdas"
-          },
-          {
-            "name": "Sal de ajo",
-            "amount": "2 cdas"
-          },
-          {
-            "name": "Sal de apio (Celery salt)",
-            "amount": "1 cda"
-          },
-          {
-            "name": "Pimienta negra recién molida",
-            "amount": "1 cda"
-          },
-          {
-            "name": "Mostaza seca en polvo",
-            "amount": "1 cda"
-          },
-          {
-            "name": "Jengibre seco molido",
-            "amount": "1 cda"
-          },
-          {
-            "name": "Tomillo seco",
-            "amount": "1/2 cda"
-          },
-          {
-            "name": "Albahaca seca",
-            "amount": "1/2 cda"
-          },
-          {
-            "name": "Orégano seco",
-            "amount": "1/3 cda"
-          }
+          "4 cdas de Pimentón dulce (Paprika)",
+          "3 cdas de Pimienta blanca molida (el secreto umami de KFC)",
+          "2 cdas de Sal fina",
+          "2 cdas de Sal de ajo",
+          "1 cda de Sal de apio (Celery salt)",
+          "1 cda de Pimienta negra recién molida",
+          "1 cda de Mostaza seca en polvo",
+          "1 cda de Jengibre seco molido",
+          "1/2 cda de Tomillo seco",
+          "1/2 cda de Albahaca seca",
+          "1/3 cda de Orégano seco"
         ]
       },
       {
         "name": "Pollo y Marinado (Salmuera Jugosa)",
         "items": [
-          {
-            "name": "Piezas de pollo variadas (muslos, contramuslos y alitas)",
-            "amount": "1.2 kg"
-          },
-          {
-            "name": "Buttermilk o suero de leche (o leche con 1 cda de jugo de limón)",
-            "amount": "500 ml"
-          },
-          {
-            "name": "Huevo grande batido",
-            "amount": "1 unidad"
-          }
+          "1.2 kg de Piezas de pollo variadas (muslos, contramuslos y alitas)",
+          "500 ml de Buttermilk o suero de leche (o leche con 1 cda de jugo de limón)",
+          "1 unidad de Huevo grande batido"
         ]
       },
       {
         "name": "Rebozado Crujiente y Fritura",
         "items": [
-          {
-            "name": "Harina de trigo 0000 / todo uso",
-            "amount": "2 tazas (250 g)"
-          },
-          {
-            "name": "Almidón de maíz (Maicena) para potenciar el crujiente",
-            "amount": "2 cdas"
-          },
-          {
-            "name": "Aceite vegetal neutro (girasol o maíz) para freír",
-            "amount": "1 litro"
-          }
+          "2 tazas (250 g) Harina de trigo 0000 / todo uso",
+          "2 cdas de Almidón de maíz (Maicena) para potenciar el crujiente",
+          "1 litro de Aceite vegetal neutro (girasol o maíz) para freír"
         ]
       }
     ],
