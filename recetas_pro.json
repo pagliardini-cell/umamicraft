@@ -2062,7 +2062,7 @@
   },
   {
     "id": 32,
-    "title": "Cocktail de Pomelo y Romero",
+    "title": "Cocktail de Pomelo y Romero (Estados Unidos)",
     "country": "Estados Unidos",
     "category": "Cocktails & Tragos",
     "tags": [
@@ -2500,7 +2500,7 @@
   },
   {
     "id": 39,
-    "title": "Ensalada de Radicchio con Vinagreta Infundida y Queso",
+    "title": "Ensalada de Radicchio con Vinagreta Infundida y Queso (Italia)",
     "country": "Italia",
     "category": "Ensaladas",
     "tags": [
@@ -10959,8 +10959,8 @@
   },
   {
     "id": 168,
-    "title": "Ensalada de Zanahoria con Pasas, Piñones y Queso",
-    "country": "Receta de Autor (Argentina)",
+    "title": "Ensalada de Zanahoria con Pasas, Piñones y Queso (Argentina)",
+    "country": "Argentina",
     "category": "Ensaladas",
     "tags": [
       "Ensalada",
@@ -13252,8 +13252,8 @@
   },
   {
     "id": 200,
-    "title": "Arroz Gratinado con Panceta, Crema y Albahaca",
-    "country": "Fusión",
+    "title": "Arroz Gratinado con Panceta, Crema y Albahaca (Fusión Internacional)",
+    "country": "Fusión Internacional",
     "category": "Arroces y Risottos",
     "tags": [
       "Arroz",
@@ -15939,7 +15939,7 @@
   },
   {
     "id": 241,
-    "title": "Solomillo de Cerdo Relleno en Masa Filo",
+    "title": "Solomillo de Cerdo Relleno en Masa Filo (Marruecos)",
     "country": "Marruecos",
     "category": "Cerdo",
     "tags": [
@@ -16571,7 +16571,7 @@
   },
   {
     "id": 250,
-    "title": "Alambre Mexicano con Queso Fundido",
+    "title": "Alambre Mexicano con Queso Fundido (México)",
     "country": "México",
     "category": "Carnes",
     "tags": [
@@ -20693,5 +20693,258 @@
     "notes": "Para versión en Air Fryer: Precalienta a 190°C, rocía generosamente las piezas rebozadas con aceite en spray y cocina durante 22-25 minutos volteando a mitad de tiempo. En horno convencional: Hornea sobre rejilla a 200°C por 35-40 minutos.",
     "image": "pollo_frito_kfc_11_especias.jpg",
     "url": "https://umamicraft.vercel.app/receta/pollo-frito-estilo-kentucky-kfc-con-11-hierbas-y-especias-estados-unidos"
+  },
+  {
+    "id": 301,
+    "title": "Pasta con Salsa Cremosa de Queso Cottage y Albahaca (Italia)",
+    "original_title": "PASTA CON SALSA CREMOSA DE COTTAGE (OPCIÓN SALUDABLE)",
+    "country": "Italia",
+    "category": "Pastas",
+    "tags": [
+      "Pasta",
+      "Queso Cottage",
+      "Saludable",
+      "Proteico",
+      "Fit",
+      "Vegetariano",
+      "Fácil",
+      "Rápido"
+    ],
+    "prep_time": "10 min",
+    "cook_time": "12 min",
+    "rest_time": "",
+    "temperature": "Fuego medio-bajo",
+    "servings": "2 porciones",
+    "calories": "420 kcal aprox. por porción",
+    "diet_badges": [
+      "Vegetariano",
+      "Alto en Proteínas",
+      "Bajo en Grasas"
+    ],
+    "story": "Una alternativa revolucionaria que reemplaza la pesada crema de leche tradicional por queso cottage procesado hasta lograr una emulsión untuosa, aterciopelada y ligera. Al ligarse con el almidón del agua de cocción y el queso parmesano, envuelve la pasta en una textura de salsa alfredo gourmet con el triple de proteínas y una fracción de calorías.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Pasta",
+        "items": [
+          "200 g de Pasta seca corta de grano duro (penne rigate, fusilli o rigatoni)",
+          "2 litros de Agua hirviendo con 1 cda de sal gruesa (para cocción)",
+          "1/2 taza de Agua de cocción de la pasta (reservar antes de colar)"
+        ]
+      },
+      {
+        "name": "Salsa Cremosa Proteica de Cottage",
+        "items": [
+          "1 taza de Queso cottage entero o descremado (220 g)",
+          "1 diente de Ajo fresco pelado",
+          "1 cda de Aceite de oliva virgen extra",
+          "1/2 taza de Queso parmesano reggiano o sardo recién rallado",
+          "1/2 cdita de Sal fina",
+          "1/4 cdita de Pimienta negra molida",
+          "Hojas frescas de Albahaca a gusto"
+        ]
+      },
+      {
+        "name": "Toppings y Opcionales",
+        "items": [
+          "1 puñado de Hojas tiernas de espinaca baby (opcional)",
+          "6 unidades de Tomates cherry salteados (opcional)",
+          "Queso parmesano rallado extra para servir"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Cocción de la Pasta y Reserva del Agua",
+        "steps": [
+          "Hervir abundante agua con sal y cocinar la pasta siguiendo el tiempo indicado en el paquete hasta que quede exactamente al dente.",
+          "¡Paso fundamental! Antes de escurrir la pasta, retirar y reservar 1/2 taza del agua caliente de cocción (el almidón presente es la clave para emulsionar la salsa sin que se corte)."
+        ]
+      },
+      {
+        "name": "Emulsión Cremosa de Cottage",
+        "steps": [
+          "En el vaso de la licuadora o procesadora de alimentos, colocar el queso cottage, el diente de ajo, el aceite de oliva, el queso parmesano rallado, sal y pimienta negra.",
+          "Procesar a máxima potencia durante 45 a 60 segundos hasta que la textura granular del cottage desaparezca por completo, obteniendo una crema blanca, sedosa, brillante y libre de grumos."
+        ]
+      },
+      {
+        "name": "Mantecatura y Emplatado",
+        "steps": [
+          "Volcar la pasta escurrida en una sartén grande a fuego muy bajo. Verter inmediatamente la crema de cottage batida y un chorrito del agua de cocción reservada.",
+          "Revolver de manera continua y envolvente durante 1 a 2 minutos hasta que la salsa tome temperatura, se integre con la pasta y cree una película cremosa adherida a cada pieza (si notas que espesa demasiado, sumar otro chorrito de agua de cocción).",
+          "Retirar del fuego de inmediato (evitar que hierva con fuerza para preservar la textura sedosa). Servir de inmediato con albahaca fresca picada o en hojas enteras, parmesano extra y un toque final de pimienta recién molida."
+        ]
+      }
+    ],
+    "notes": "No dejes hervir la salsa a fuego alto porque el cottage puede desuerarse; caliéntala suavemente al mínimo aprovechando el calor residual de la pasta recién cocida.",
+    "image": "pasta_salsa_cremosa_cottage.jpg",
+    "url": "https://umamicraft.vercel.app/receta/pasta-con-salsa-cremosa-de-queso-cottage-y-albahaca-italia"
+  },
+  {
+    "id": 302,
+    "title": "Tostada de Masa Madre con Queso Cottage, Palta y Huevo (Australia)",
+    "original_title": "TOSTADA CON COTTAGE, PALTA Y HUEVO (DESAYUNO O CENA IDEAL)",
+    "country": "Australia",
+    "category": "Huevos / Desayunos",
+    "tags": [
+      "Tostada",
+      "Queso Cottage",
+      "Palta",
+      "Aguacate",
+      "Huevo",
+      "Desayuno",
+      "Brunch",
+      "Fitness",
+      "Saludable"
+    ],
+    "prep_time": "5 min",
+    "cook_time": "5 min",
+    "rest_time": "",
+    "temperature": "Tostado medio-alto / Fuego medio",
+    "servings": "1 porción (1-2 tostadas)",
+    "calories": "380 kcal aprox. por porción",
+    "diet_badges": [
+      "Vegetariano",
+      "Rico en Fibras",
+      "Grasas Saludables",
+      "Alto en Proteínas"
+    ],
+    "story": "Nacida en la vibrante cultura del café y brunch australiano, esta versión gourmet de la clásica avocado toast eleva la experiencia sumando una base generosa de queso cottage fresco y grumoso. El contraste entre el pan crujiente de masa madre, la frescura láctea del cottage, la untuosidad vegetal de la palta y la yema líquida del huevo genera una armonía de texturas insuperable.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Pan y Lácteo",
+        "items": [
+          "1 o 2 rebanadas gruesas de Pan de masa madre campesino o pan integral con semillas",
+          "4 cdas colmadas de Queso cottage fresco de buena calidad"
+        ]
+      },
+      {
+        "name": "Vegetales y Huevo",
+        "items": [
+          "1/2 unidad de Palta Hass en su punto justo de madurez, en láminas finas o suavemente pisada",
+          "1 o 2 unidades de Huevos de campo (a la plancha con yema tierna, poché o revueltos cremosos)"
+        ]
+      },
+      {
+        "name": "Acabado y Especias Crunch",
+        "items": [
+          "1 cdita de Semillas mixtas tostadas (sésamo blanco y negro, lino y chía)",
+          "1 pizca de Sal en escamas o sal marina fina",
+          "1 pizca de Pimienta negra recién molida",
+          "1 chorrito de Aceite de oliva virgen extra",
+          "1 pizca de Copos de chile seco o ají molido (opcional para un toque picante)",
+          "Brotes verdes tiernos o microgreens para decorar (opcional)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Tostado del Pan",
+        "steps": [
+          "Cortar rebanadas generosas de pan de masa madre y tostarlas en sartén caliente con unas gotas de aceite de oliva o en tostadora hasta lograr una corteza bien dorada, crujiente y firme que soporte el peso de los ingredientes."
+        ]
+      },
+      {
+        "name": "Cocción del Huevo",
+        "steps": [
+          "Cocinar los huevos según tu preferencia: para un resultado óptimo, preparar un huevo a la plancha a fuego medio con tapa durante 2-3 minutos hasta que la clara cuaje pero la yema quede completamente líquida y cremosa."
+        ]
+      },
+      {
+        "name": "Montaje en Capas y Condimento",
+        "steps": [
+          "Untar sobre la tostada tibia una capa abundante y uniforme de queso cottage fresco.",
+          "Disponer por encima la palta en abanico de láminas prolijas (o pisada con tenedor con unas gotas de limón).",
+          "Coronar con el huevo tibio en el centro de la tostada.",
+          "Finalizar con sal en escamas, pimienta recién molida, lluvia de semillas de sésamo y chía, copos de chile y un hilo dorado de aceite de oliva virgen extra. Servir de inmediato mientras el pan y el huevo estén calientes."
+        ]
+      }
+    ],
+    "notes": "El secreto está en el pan: un pan de miga aireada y corteza dura de masa madre evita que la humedad del cottage ablande la base antes de disfrutarlo.",
+    "image": "tostada_cottage_palta_huevo.jpg",
+    "url": "https://umamicraft.vercel.app/receta/tostada-de-masa-madre-con-queso-cottage-palta-y-huevo-australia"
+  },
+  {
+    "id": 303,
+    "title": "Panqueques Esponjosos de Cottage y Avena (Estados Unidos)",
+    "original_title": "PANQUEQUES DE COTTAGE Y AVENA (DULCES, ESPONJOSOS Y PROTEICOS)",
+    "country": "Estados Unidos",
+    "category": "Huevos / Desayunos",
+    "tags": [
+      "Panqueques",
+      "Pancakes",
+      "Queso Cottage",
+      "Avena",
+      "Desayuno",
+      "Proteico",
+      "Sin Harina Refinada",
+      "Fitness",
+      "Dulce"
+    ],
+    "prep_time": "5 min",
+    "cook_time": "10 min",
+    "rest_time": "3 min",
+    "temperature": "Fuego medio-bajo en sartén antiadherente",
+    "servings": "2 porciones (6 panqueques medianos)",
+    "calories": "310 kcal aprox. por porción",
+    "diet_badges": [
+      "Vegetariano",
+      "Alto en Proteínas",
+      "Sin Harinas Refinadas",
+      "Rico en Fibras"
+    ],
+    "story": "El queso cottage es el ingrediente secreto que ha revolucionado la repostería fitness y los desayunos modernos en Norteamérica: al licuarse junto a la avena y los huevos, aporta una humedad y esponjosidad que supera a los pancakes tradicionales sin necesidad de manteca ni harinas refinadas. El resultado es un panqueque dorado, alto, suave como una nube y cargado de proteínas naturales.",
+    "ingredient_groups": [
+      {
+        "name": "Masa de Panqueques Proteica",
+        "items": [
+          "1/2 taza de Queso cottage entero o descremado (115 g)",
+          "1/2 taza de Avena arrollada en hojuelas o harina de avena (50 g)",
+          "2 unidades de Huevos grandes a temperatura ambiente",
+          "1 cdita colmada de Polvo para hornear (polvo de leudar)",
+          "1 cdita de Esencia de vainilla de buena calidad",
+          "1 cda de Miel pura, jarabe de arce, azúcar mascabo o edulcorante a gusto",
+          "1 a 2 cdas de Leche descremada o vegetal (solo si la mezcla queda excesivamente espesa)",
+          "1 pizca de Sal fina (para realzar el dulzor)"
+        ]
+      },
+      {
+        "name": "Para la Cocción y Servicio",
+        "items": [
+          "1 cdita de Manteca o aceite de coco para pincelar la sartén",
+          "1 taza de Frutas frescas (frutillas fileteadas, arándanos o rodajas de banana)",
+          "2 cdas de Miel pura o maple syrup para el bañado final",
+          "1 pizca de Canela molida"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Licuado de la Masa",
+        "steps": [
+          "Colocar en la licuadora o procesadora el queso cottage, la avena, los 2 huevos, el polvo para hornear, la esencia de vainilla, el endulzante elegido y la pizca de sal.",
+          "Procesar durante 1 minuto a potencia media-alta hasta lograr una mezcla homogénea, espesa y aireada. Dejar reposar la masa durante 2 a 3 minutos para que la avena se hidrate y adquiera cuerpo."
+        ]
+      },
+      {
+        "name": "Cocción Perfecta a la Sartén",
+        "steps": [
+          "Calentar una sartén antiadherente a fuego medio y pincelar apenas con manteca o aceite de coco.",
+          "Verter porciones de masa (aproximadamente 2 a 3 cucharadas por panqueque) dejando espacio entre ellas.",
+          "Cocinar a fuego medio-bajo durante 2 a 3 minutos: cuando aparezcan pequeñas burbujas en la superficie y los bordes se noten ligeramente firmes, dar vuelta con una espátula con un movimiento rápido y suave.",
+          "Cocinar por el otro lado durante 1 a 2 minutos más hasta que adquieran un color dorado parejo y hayan inflado notablemente."
+        ]
+      },
+      {
+        "name": "Presentación y Degustación",
+        "steps": [
+          "Apilar los panqueques calientes en un plato hondo o plano formando una torre tentadora.",
+          "Decorar por encima con frutillas frescas fileteadas, arándanos frescos, una lluvia sutil de canela molida y un generoso chorro de miel tibia o jarabe de arce. ¡Servir inmediatamente!"
+        ]
+      }
+    ],
+    "notes": "Cocínalos a fuego medio-bajo; al tener proteínas de huevo y cottage, necesitan cocinarse con suavidad para que el centro quede cocido y esponjoso sin quemar la superficie dorada.",
+    "image": "panqueques_cottage_avena.jpg",
+    "url": "https://umamicraft.vercel.app/receta/panqueques-esponjosos-de-cottage-y-avena-estados-unidos"
   }
 ]

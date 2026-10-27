@@ -193,7 +193,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://umamicraft.vercel.app/receta/cocktail-de-pomelo-y-romero?lang=pt</loc>
+    <loc>https://umamicraft.vercel.app/receta/cocktail-de-pomelo-y-romero-estados-unidos?lang=pt</loc>
     <lastmod>2017-08-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -235,7 +235,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://umamicraft.vercel.app/receta/ensalada-de-radicchio-con-vinagreta-infundida-y-queso?lang=pt</loc>
+    <loc>https://umamicraft.vercel.app/receta/ensalada-de-radicchio-con-vinagreta-infundida-y-queso-italia?lang=pt</loc>
     <lastmod>2015-05-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1009,7 +1009,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://umamicraft.vercel.app/receta/ensalada-de-zanahoria-con-pasas-pinones-y-queso?lang=pt</loc>
+    <loc>https://umamicraft.vercel.app/receta/ensalada-de-zanahoria-con-pasas-pinones-y-queso-argentina?lang=pt</loc>
     <lastmod>2010-02-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1201,7 +1201,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://umamicraft.vercel.app/receta/arroz-gratinado-con-panceta-crema-y-albahaca?lang=pt</loc>
+    <loc>https://umamicraft.vercel.app/receta/arroz-gratinado-con-panceta-crema-y-albahaca-fusion-internacional?lang=pt</loc>
     <lastmod>2010-02-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1447,7 +1447,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://umamicraft.vercel.app/receta/solomillo-de-cerdo-relleno-en-masa-filo?lang=pt</loc>
+    <loc>https://umamicraft.vercel.app/receta/solomillo-de-cerdo-relleno-en-masa-filo-marruecos?lang=pt</loc>
     <lastmod>2010-02-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1501,7 +1501,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://umamicraft.vercel.app/receta/alambre-mexicano-con-queso-fundido?lang=pt</loc>
+    <loc>https://umamicraft.vercel.app/receta/alambre-mexicano-con-queso-fundido-mexico?lang=pt</loc>
     <lastmod>2010-02-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -1802,6 +1802,24 @@
   </url>
   <url>
     <loc>https://umamicraft.vercel.app/receta/pollo-frito-estilo-kentucky-kfc-con-11-hierbas-y-especias-estados-unidos?lang=pt</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://umamicraft.vercel.app/receta/pasta-con-salsa-cremosa-de-queso-cottage-y-albahaca-italia?lang=pt</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://umamicraft.vercel.app/receta/tostada-de-masa-madre-con-queso-cottage-palta-y-huevo-australia?lang=pt</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://umamicraft.vercel.app/receta/panqueques-esponjosos-de-cottage-y-avena-estados-unidos?lang=pt</loc>
     <lastmod>2026-10-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
