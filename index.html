@@ -1242,7 +1242,8 @@
       </select>
 
       <select id="sortSelect" class="filter-select" onchange="renderRecipes()">
-        <option value="id_asc">📑 Orden original</option>
+        <option value="id_desc" selected>✨ Más recientes primero</option>
+        <option value="id_asc">📑 Orden original (#1 en adelante)</option>
         <option value="title_asc">🔤 Nombre (A – Z)</option>
         <option value="cal_asc">⚡ Menos calorías</option>
         <option value="time_asc">⏱️ Más rápidas</option>
@@ -1425,8 +1426,10 @@
         }
 
         document.getElementById('totalCountChip').textContent = `(${recipes.length})`;
-        const sortOrigOpt = document.querySelector('#sortSelect option[value="id_asc"]');
-        if (sortOrigOpt) sortOrigOpt.textContent = `📑 Orden original (#1–${recipes.length})`;
+        const sortDescOpt = document.querySelector('#sortSelect option[value="id_desc"]');
+        if (sortDescOpt) sortDescOpt.textContent = `✨ Más recientes primero (#${recipes.length}–#1)`;
+        const sortAscOpt = document.querySelector('#sortSelect option[value="id_asc"]');
+        if (sortAscOpt) sortAscOpt.textContent = `📑 Orden original (#1–#${recipes.length})`;
         populateFilters();
         renderHero();
         renderRecipes();
@@ -1722,14 +1725,17 @@
         return true;
       });
 
-      if (sortBy === 'title_asc') {
+      if (sortBy === 'id_asc') {
+        filtered.sort((a, b) => a.id - b.id);
+      } else if (sortBy === 'title_asc') {
         filtered.sort((a, b) => (a.title || '').localeCompare(b.title || ''));
       } else if (sortBy === 'cal_asc') {
         filtered.sort((a, b) => parseNum(a.calories) - parseNum(b.calories));
       } else if (sortBy === 'time_asc') {
         filtered.sort((a, b) => parseNum(a.prep_time) - parseNum(b.prep_time));
       } else {
-        filtered.sort((a, b) => a.id - b.id);
+        // id_desc (por defecto): más recientes primero al revés
+        filtered.sort((a, b) => b.id - a.id);
       }
 
       document.getElementById('resultsCount').textContent = `Mostrando ${filtered.length} de ${recipes.length} recetas`;
