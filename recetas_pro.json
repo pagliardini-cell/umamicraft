@@ -20577,5 +20577,152 @@
     "notes": "Cocinarlo a fuego medio-bajo es fundamental: permite que el pan de centeno se tueste despacio en la manteca sin quemarse mientras los tres pisos de queso se funden por completo.",
     "image": "patty_melt.jpg",
     "url": "https://umamicraft.vercel.app/?receta=patty-melt-tradicional-en-pan-de-centeno-y-queso-suizo-estados-unidos"
+  },
+  {
+    "id": 300,
+    "title": "Pollo Frito Estilo Kentucky KFC con 11 Hierbas y Especias (Estados Unidos)",
+    "original_title": "Kentucky Fried Chicken 11 Herbs & Spices Secret Blend",
+    "country": "Estados Unidos",
+    "category": "Pollo / Aves",
+    "tags": [
+      "Pollo",
+      "Frito",
+      "KFC",
+      "Crujiente",
+      "Comida Rápida",
+      "Clásico Americano",
+      "11 Especias",
+      "Estados Unidos"
+    ],
+    "prep_time": "25 min",
+    "cook_time": "20 min",
+    "rest_time": "1 hora (marinado)",
+    "temperature": "Fritura profunda a 175°C (350°F)",
+    "servings": "4-6 porciones",
+    "calories": 580,
+    "diet_badges": [
+      "Alto en Proteína"
+    ],
+    "story": "La legendaria fórmula secreta creada por el Coronel Harland Sanders en Corbin, Kentucky, guardada bajo llave durante décadas. El auténtico secreto de este pollo frito no radica únicamente en su combinación de 11 hierbas aromáticas y especias —donde la pimienta blanca y la sal de apio aportan ese inconfundible perfil umami profundo—, sino en la técnica de doble rebozado (double dredge) tras un reposo en buttermilk que tierniza la carne desde el interior, logrando una costra súper escamada, dorada y crocante que preserva todo el jugo natural del pollo.",
+    "ingredient_groups": [
+      {
+        "name": "Mezcla Secreta de 11 Hierbas y Especias",
+        "items": [
+          {
+            "name": "Pimentón dulce (Paprika)",
+            "amount": "4 cdas"
+          },
+          {
+            "name": "Pimienta blanca molida (el secreto umami de KFC)",
+            "amount": "3 cdas"
+          },
+          {
+            "name": "Sal fina",
+            "amount": "2 cdas"
+          },
+          {
+            "name": "Sal de ajo",
+            "amount": "2 cdas"
+          },
+          {
+            "name": "Sal de apio (Celery salt)",
+            "amount": "1 cda"
+          },
+          {
+            "name": "Pimienta negra recién molida",
+            "amount": "1 cda"
+          },
+          {
+            "name": "Mostaza seca en polvo",
+            "amount": "1 cda"
+          },
+          {
+            "name": "Jengibre seco molido",
+            "amount": "1 cda"
+          },
+          {
+            "name": "Tomillo seco",
+            "amount": "1/2 cda"
+          },
+          {
+            "name": "Albahaca seca",
+            "amount": "1/2 cda"
+          },
+          {
+            "name": "Orégano seco",
+            "amount": "1/3 cda"
+          }
+        ]
+      },
+      {
+        "name": "Pollo y Marinado (Salmuera Jugosa)",
+        "items": [
+          {
+            "name": "Piezas de pollo variadas (muslos, contramuslos y alitas)",
+            "amount": "1.2 kg"
+          },
+          {
+            "name": "Buttermilk o suero de leche (o leche con 1 cda de jugo de limón)",
+            "amount": "500 ml"
+          },
+          {
+            "name": "Huevo grande batido",
+            "amount": "1 unidad"
+          }
+        ]
+      },
+      {
+        "name": "Rebozado Crujiente y Fritura",
+        "items": [
+          {
+            "name": "Harina de trigo 0000 / todo uso",
+            "amount": "2 tazas (250 g)"
+          },
+          {
+            "name": "Almidón de maíz (Maicena) para potenciar el crujiente",
+            "amount": "2 cdas"
+          },
+          {
+            "name": "Aceite vegetal neutro (girasol o maíz) para freír",
+            "amount": "1 litro"
+          }
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Mezcla de las 11 Especias",
+        "steps": [
+          "En un bol o mortero combina las 4 cdas de pimentón, 3 cdas de pimienta blanca, 2 cdas de sal, 2 cdas de sal de ajo, 1 cda de sal de apio, 1 cda de pimienta negra, 1 cda de mostaza en polvo, 1 cda de jengibre molido, 1/2 cda de tomillo, 1/2 cda de albahaca y 1/3 cda de orégano.",
+          "Mezcla enérgicamente con batidor de alambre hasta lograr una coloración rojizo-especiada totalmente uniforme. Reserva 1 cucharada para la salmuera y el resto para el rebozado."
+        ]
+      },
+      {
+        "name": "2. Marinado y Salmuera del Pollo",
+        "steps": [
+          "En un recipiente amplio bate el buttermilk (o leche acidificada) con el huevo y 1 cucharada sopera de la mezcla de 11 especias.",
+          "Sumerge las presas de pollo asegurando que queden completamente cubiertas. Tapa con film y refrigera durante al menos 1 hora (ideal de 4 a 8 horas para máxima jugosidad y ternura de la fibra muscular)."
+        ]
+      },
+      {
+        "name": "3. Doble Rebozado Escamado (Double Dredge)",
+        "steps": [
+          "En una bandeja amplia combina las 2 tazas de harina con las 2 cdas de maicena y todo el resto de la mezcla de especias secreta.",
+          "Escurre una pieza de pollo del marinado, pásala por la harina especiada presionando para que se adhiera.",
+          "Sumerge rápidamente la pieza nuevamente en el buttermilk (solo 1 segundo) y pásala por segunda vez por la harina, estrujándola suavemente con la mano para generar esas escamas y bordes crujientes característicos. Repite con todas las piezas y déjalas reposar 10 minutos sobre una rejilla."
+        ]
+      },
+      {
+        "name": "4. Fritura Dorada y Crujiente",
+        "steps": [
+          "Calienta abundante aceite en una olla de fondo grueso o freidora a 175°C (350°F).",
+          "Fríe las presas en tandas de 3 o 4 piezas por vez para no enfriar el aceite. Cocina durante 12 a 15 minutos (girando a mitad de cocción) hasta que luzcan un dorado caoba profundo y la temperatura interna alcance 74°C (165°F).",
+          "Retira con pinzas y apóyalas sobre una rejilla metálica (nunca sobre papel directamente, para no ablandar la costra con el vapor). Deja reposar 5 minutos antes de disfrutar."
+        ]
+      }
+    ],
+    "notes": "Para versión en Air Fryer: Precalienta a 190°C, rocía generosamente las piezas rebozadas con aceite en spray y cocina durante 22-25 minutos volteando a mitad de tiempo. En horno convencional: Hornea sobre rejilla a 200°C por 35-40 minutos.",
+    "image": "pollo_frito_kfc_11_especias.jpg",
+    "url": "https://umamicraft.vercel.app/receta/pollo-frito-estilo-kentucky-kfc-con-11-hierbas-y-especias-estados-unidos"
   }
 ]
