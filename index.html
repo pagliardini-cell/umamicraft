@@ -4,10 +4,10 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>UmamiCraft — Alta Cocina, Recetario del Mundo & Cocktails de Autor</title>
-  <meta name="description" content="UmamiCraft — Archivo gastronómico de autor con 256 recetas del mundo y cocktails curados 1 a 1 con técnicas, tiempos, calorías y fotografías en alta definición.">
+  <meta name="description" content="UmamiCraft — Archivo gastronómico de autor con recetas del mundo y cocktails curados 1 a 1 con técnicas, tiempos, calorías y fotografías en alta definición.">
   <meta property="og:type" content="website">
   <meta property="og:title" content="UmamiCraft — Alta Cocina, Recetario del Mundo & Cocktails de Autor">
-  <meta property="og:description" content="256 recetas del mundo curadas 1 a 1 con técnicas, ingredientes, pasos e historia.">
+  <meta property="og:description" content="Recetas del mundo curadas 1 a 1 con técnicas, ingredientes, pasos e historia.">
   <meta name="twitter:card" content="summary_large_image">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -1242,7 +1242,7 @@
       </select>
 
       <select id="sortSelect" class="filter-select" onchange="renderRecipes()">
-        <option value="id_asc">📑 Orden original (#1–256)</option>
+        <option value="id_asc">📑 Orden original</option>
         <option value="title_asc">🔤 Nombre (A – Z)</option>
         <option value="cal_asc">⚡ Menos calorías</option>
         <option value="time_asc">⏱️ Más rápidas</option>
@@ -1253,7 +1253,7 @@
       <div class="quick-chips-row" id="quickChipsBar">
         <span class="chip-label">Colecciones:</span>
         <button class="chip active" onclick="setQuickTag('all')">✨ Todas <span class="chip-count" id="totalCountChip"></span></button>
-        <button class="chip" onclick="setQuickTag('Cocktails & Tragos')">🍸 Cocktails (12)</button>
+        <button class="chip" onclick="setQuickTag('Cocktails & Tragos')">🍸 Cocktails</button>
         <button class="chip" onclick="setQuickTag('Pastas')">🍝 Pastas</button>
         <button class="chip" onclick="setQuickTag('Sopas y Potajes')">🍜 Sopas & Ramen</button>
         <button class="chip" onclick="setQuickTag('Carnes')">🥩 Carnes</button>
@@ -1425,6 +1425,8 @@
         }
 
         document.getElementById('totalCountChip').textContent = `(${recipes.length})`;
+        const sortOrigOpt = document.querySelector('#sortSelect option[value="id_asc"]');
+        if (sortOrigOpt) sortOrigOpt.textContent = `📑 Orden original (#1–${recipes.length})`;
         populateFilters();
         renderHero();
         renderRecipes();
@@ -1792,6 +1794,13 @@
       if (r.temperature) specs.push({ label: '🌡️ Temperatura', val: r.temperature });
       if (r.servings) specs.push({ label: '🍽️ Porciones / Rinde', val: r.servings });
       if (r.calories) specs.push({ label: '⚡ Calorías', val: r.calories });
+      if (r.published) {
+        const d = new Date(r.published);
+        if (!isNaN(d.getTime())) {
+          const dateStr = d.toLocaleDateString('es-ES', { year: 'numeric', month: 'short', day: 'numeric' });
+          specs.push({ label: '📅 Publicado', val: dateStr });
+        }
+      }
 
       document.getElementById('modalSpecs').innerHTML = specs.map(s => `
         <div class="spec-box">
