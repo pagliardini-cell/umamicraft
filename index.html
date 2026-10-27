@@ -1362,6 +1362,7 @@
           <div class="modal-actions-left">
             <button class="modal-action-btn" id="modalFavBtn" onclick="toggleFavoriteFromModal()">🤍 Guardar</button>
             <button class="modal-action-btn" id="kitchenModeBtn" onclick="toggleKitchenMode()" title="Modo Cocina (Mantener pantalla activa)"><span id="kitchenModeIcon">🍳</span> <span id="kitchenModeLabel">Modo Cocina</span></button>
+            <button class="modal-action-btn" onclick="pinCurrentRecipe()" style="background:rgba(230,0,35,0.85); border-color:#e60023;" title="Guardar Pin de esta receta en Pinterest"><span style="font-size:15px;">📌</span> Pin</button>
             <button class="modal-action-btn" onclick="shareCurrentRecipe()"><span style="color:#22c55e;">📲</span> Compartir</button>
             <button class="modal-action-btn" onclick="window.print()">🖨️ Imprimir / PDF</button>
           </div>
@@ -1432,13 +1433,16 @@
         <button class="btn-nav" id="shareBtnWa" onclick="shareVia('whatsapp')" style="justify-content:center; padding:12px; font-size:0.92rem; background:#25d366; color:white; border-color:#25d366;">
           <span style="font-size:18px;">🟢</span> WhatsApp
         </button>
+        <button class="btn-nav" id="shareBtnPi" onclick="shareVia('pinterest')" style="justify-content:center; padding:12px; font-size:0.92rem; background:#e60023; color:white; border-color:#e60023;">
+          <span style="font-size:18px;">📌</span> Pinterest
+        </button>
         <button class="btn-nav" id="shareBtnTg" onclick="shareVia('telegram')" style="justify-content:center; padding:12px; font-size:0.92rem; background:#0088cc; color:white; border-color:#0088cc;">
           <span style="font-size:18px;">✈️</span> Telegram
         </button>
         <button class="btn-nav" id="shareBtnX" onclick="shareVia('twitter')" style="justify-content:center; padding:12px; font-size:0.92rem; background:#000000; color:white; border-color:#333;">
           <span style="font-size:16px;">𝕏</span> X (Twitter)
         </button>
-        <button class="btn-nav" id="shareBtnFb" onclick="shareVia('facebook')" style="justify-content:center; padding:12px; font-size:0.92rem; background:#1877f2; color:white; border-color:#1877f2;">
+        <button class="btn-nav" id="shareBtnFb" onclick="shareVia('facebook')" style="justify-content:center; padding:12px; font-size:0.92rem; background:#1877f2; color:white; border-color:#1877f2; grid-column:span 2;">
           <span style="font-size:18px;">📘</span> Facebook
         </button>
       </div>
@@ -2364,8 +2368,8 @@
        ========================================================================= */
     let currentShareData = { title: '', text: '', url: '' };
 
-    function openShareModal(title, text, url) {
-      currentShareData = { title, text, url };
+    function openShareModal(title, text, url, media = '') {
+      currentShareData = { title, text, url, media };
       document.getElementById('shareModalTitle').textContent = title;
       document.getElementById('shareModalDesc').textContent = text;
       document.getElementById('shareUrlInput').value = url;
@@ -2378,6 +2382,19 @@
       document.body.style.overflow = 'auto';
     }
 
+    function pinCurrentRecipe() {
+      if (currentModalRecipeId == null) return;
+      const r = recipes.find(x => x.id === currentModalRecipeId);
+      if (!r) return;
+      const slug = idToSlugMap[r.id] || r.id;
+      const langParam = (currentLang && currentLang !== 'es') ? `?lang=${currentLang}` : '';
+      const url = `${window.location.origin}/receta/${slug}${langParam}`;
+      const media = r.image ? (r.image.startsWith('http') ? r.image : `${window.location.origin}/${r.image}`) : '';
+      const desc = `Receta de ${r.title} (${getCountry(r)}) en UmamiCraft: ${r.story ? r.story.slice(0, 160) : 'Ingredientes exactos, paso a paso y tips gastronómicos.'}`;
+      const pinUrl = `https://www.pinterest.com/pin/create/button/?url=${encodeURIComponent(url)}&media=${encodeURIComponent(media)}&description=${encodeURIComponent(desc)}`;
+      window.open(pinUrl, 'pinterest_pin', 'width=750,height=600,toolbar=no,menubar=no,scrollbars=yes,resizable=yes');
+    }
+
     function shareCurrentRecipe() {
       if (currentModalRecipeId == null) return;
       const r = recipes.find(x => x.id === currentModalRecipeId);
@@ -2385,33 +2402,37 @@
       const slug = idToSlugMap[r.id] || r.id;
       const langParam = (currentLang && currentLang !== 'es') ? `?lang=${currentLang}` : '';
       const url = `${window.location.origin}/receta/${slug}${langParam}`;
+      const media = r.image ? (r.image.startsWith('http') ? r.image : `${window.location.origin}/${r.image}`) : '';
       const title = `Receta de ${r.title}`;
       const text = `¡Mira esta increíble receta de ${r.title} (${getCountry(r)}) en UmamiCraft!`;
 
       if (navigator.share && /mobile|android|iphone|ipad/i.test(navigator.userAgent)) {
         navigator.share({ title, text, url }).catch(() => {});
       } else {
-        openShareModal(`Compartir: ${r.title}`, `Envía esta receta por WhatsApp, redes o copia el link:`, url);
+        openShareModal(`Compartir: ${r.title}`, `Envía esta receta por WhatsApp, redes o copia el link:`, url, media);
       }
     }
 
     function shareSiteModal() {
       const url = `${window.location.origin}${window.location.pathname}`;
       const title = 'UmamiCraft — Recetario de Autor';
-      const text = `Te comparto UmamiCraft: colección de ${recipes.length || 279} recetas del mundo y cocktails de autor curados con técnicas, tiempos y calorías.`;
+      const text = `Te comparto UmamiCraft: colección de ${recipes.length || 299} recetas del mundo y cocktails de autor curados con técnicas, tiempos y calorías.`;
 
       if (navigator.share && /mobile|android|iphone|ipad/i.test(navigator.userAgent)) {
         navigator.share({ title, text, url }).catch(() => {});
       } else {
-        openShareModal('Difundir UmamiCraft', 'Comparte el recetario completo con amigos o en grupos:', url);
+        openShareModal('Difundir UmamiCraft', 'Comparte el recetario completo con amigos o en grupos:', url, '');
       }
     }
 
     function shareVia(platform) {
-      const { text, url } = currentShareData;
+      const { text, url, media } = currentShareData;
       let shareHref = '';
       if (platform === 'whatsapp') {
         shareHref = `https://api.whatsapp.com/send?text=${encodeURIComponent(text + '\n\n' + url)}`;
+      } else if (platform === 'pinterest') {
+        const pinMedia = media || '';
+        shareHref = `https://www.pinterest.com/pin/create/button/?url=${encodeURIComponent(url)}&media=${encodeURIComponent(pinMedia)}&description=${encodeURIComponent(text)}`;
       } else if (platform === 'telegram') {
         shareHref = `https://t.me/share/url?url=${encodeURIComponent(url)}&text=${encodeURIComponent(text)}`;
       } else if (platform === 'twitter') {
