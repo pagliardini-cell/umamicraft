@@ -6443,7 +6443,7 @@
       }
     ],
     "notes": "Conservar en un frasco limpio y tapado en la heladera y consumir dentro de los 3 a 4 días. No congelar, ya que el frío extremo rompe la emulsión y separa el aceite.",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU7BBdEq3TvuZdVJOcrKqh6W5Hh8F2iBEySFecn1kyUEnkptz9nvVtnnu1BOBivgigKR-WVuehdbD_b96mjQ85xSlqIcjUV8v_HUG1Kw_rliH1ibzQKze8exC5rwqUyIvs1RrFVO7WE5PN/s1600/Mayonesa+Japonesa.jpg",
+    "image": "mayonesa_japonesa.jpg",
     "url": "https://recarg.blogspot.com/2010/08/mayonesa-japonesa-japon.html",
     "original_title": "Mayonesa Japonesa (Japon)"
   },
@@ -16773,5 +16773,87 @@
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit_yBesf0y-o2GP0kdj9UsGWa7ggp0oMgmm6qwuZhSdGKi2kIRKZ7xjeCMvipfbRzDT5-AS-LwxOn1b9P-GCq3bpJvroVUhWuYUEVNPg_gaSnmirwi0dFPgOS2X1EpiiJ0RK9AsqDoRapc/s1600/productos3_30.jpg",
     "url": "https://recarg.blogspot.com/2009/03/sorrentinos.html",
     "original_title": "Sorrentinos (Argentina)"
+  },
+  {
+    "id": 257,
+    "title": "Spaghetti all'Assassina (Italia — Bari, Puglia)",
+    "country": "Italia",
+    "category": "Pastas",
+    "tags": [
+      "pastas",
+      "italia",
+      "bari",
+      "puglia",
+      "spaghetti all'assassina",
+      "picante",
+      "al dente",
+      "hierro fundido"
+    ],
+    "prep_time": "10 min",
+    "cook_time": "25 min",
+    "rest_time": "0 min",
+    "temperature": "Fuego medio a fuerte",
+    "servings": "4 porciones",
+    "calories": "480 kcal aprox. por porción",
+    "diet_badges": [
+      "Vegetariano"
+    ],
+    "story": "Nacida en la ciudad portuaria de Bari (Puglia) en la década de 1960 en el restaurante Al Sorso Preferito, esta preparación desafía las reglas tradicionales italianas: la pasta seca se cocina cruda directamente en una sartén de hierro fundido, tostándose y caramelizándose en aceite, ajo y chile picante, para luego hidratarse gradualmente con caldo de tomate caliente al estilo de un risotto, logrando hebras ahumadas, crujientes e irresistibles.",
+    "ingredient_groups": [
+      {
+        "name": "Para el caldo de tomate (Brodo di pomodoro)",
+        "items": [
+          "100 g de extracto o pasta concentrada de tomate",
+          "750 ml de agua caliente",
+          "1 cucharadita de sal fina",
+          "1/4 cucharadita de hojuelas de chile seco (peperoncino)"
+        ]
+      },
+      {
+        "name": "Para la pasta y el salteado",
+        "items": [
+          "320 g de spaghetti secos de trigo duro de buena calidad",
+          "300 g de passata (puré fino de tomates italianos)",
+          "60 ml de aceite de oliva virgen extra",
+          "4 dientes de ajo, machacados o finamente picados",
+          "1 cucharadita colmada de hojuelas de chile seco (peperoncino) al gusto",
+          "1 cucharada adicional de aceite de oliva virgen extra para el toque final",
+          "Sal marina y pimienta negra recién molida a gusto",
+          "Hojas de albahaca fresca (opcional, para servir)",
+          "1 esfera de queso burrata fresco (opcional, para servir)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación del caldo de tomate",
+        "steps": [
+          "En una cacerola mediana a fuego medio, disolver el extracto de tomate en el agua con la sal y el cuarto de cucharadita de chile seco.",
+          "Llevar a suave hervor, bajar el fuego al mínimo y mantener el caldo bien caliente durante toda la preparación de la pasta."
+        ]
+      },
+      {
+        "name": "Tostado de la pasta y cocción al estilo Assassina",
+        "steps": [
+          "En una sartén grande de hierro fundido o de fondo grueso, calentar los 60 ml de aceite de oliva virgen extra a fuego medio. Agregar los ajos machacados y las hojuelas de chile seco; sofreír durante 1 a 2 minutos hasta que desprendan su perfume, cuidando de no quemar el ajo.",
+          "Incorporar la passata de tomate con cuidado (puede salpicar), mezclar bien con el aceite aromatizado y cocinar durante 2 minutos hasta que comience a reducir y burbujear intensamente.",
+          "Distribuir los spaghetti secos crudos directamente en la sartén sobre la salsa en una sola capa pareja. Dejar cocinar sin mover durante 2 a 3 minutos para que absorban la salsa y la base empiece a tostarse y caramelizarse.",
+          "Con pinzas o una espátula de metal, dar vuelta cuidadosamente la pasta para exponer el otro lado al fondo caliente de la sartén. Dejar que se formen esas partes crocantes y ligeramente chamuscadas (bruciacchiatura) tan características de este plato.",
+          "Comenzar el método risottata: verter un cucharón del caldo de tomate caliente sobre los fideos. Dejar que hierva y chisporrotee intensamente mientras el líquido se absorbe por completo y la pasta vuelve a freírse contra el metal caliente.",
+          "Repetir añadiendo caldo cucharón a cucharón conforme se va secando, moviendo con cuidado para no quebrar los fideos, durante aproximadamente 10 a 12 minutos hasta que la pasta esté al dente por dentro y con deliciosas hebras crujientes por fuera."
+        ]
+      },
+      {
+        "name": "Presentación y servicio",
+        "steps": [
+          "Rociar con una cucharada final de aceite de oliva virgen extra crudo y sazonar con un toque de sal marina y pimienta negra molida.",
+          "Servir de inmediato en platos calientes, decorando con albahaca fresca y, si se desea un contraste sublime de temperaturas y texturas, coronar con un trozo de burrata fresca y cremosa."
+        ]
+      }
+    ],
+    "notes": "El secreto de los auténticos Spaghetti all'Assassina radica en el calor del hierro fundido y en perderle el miedo al quemado controlado: la pasta debe chisporrotear y desarrollar partes crujientes de color rojo oscuro profundo, donde se concentra todo el sabor umami ahumado y picante.",
+    "image": "spaghetti_assassina.jpg",
+    "url": "https://taste.co.za/recipes/spaghetti-assassina/",
+    "original_title": "Spaghetti all'Assassina"
   }
 ]
