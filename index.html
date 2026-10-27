@@ -1137,6 +1137,50 @@
         max-width: 100% !important;
       }
     }
+    /* Language Switcher */
+    .lang-switcher {
+      display: inline-flex;
+      background: var(--bg-subtle);
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 3px;
+      gap: 2px;
+    }
+
+    .lang-btn {
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      padding: 5px 9px;
+      border-radius: 999px;
+      font-size: 0.76rem;
+      font-weight: 700;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      transition: all 0.16s ease;
+      font-family: inherit;
+    }
+
+    .lang-btn:hover { color: var(--text); }
+    .lang-btn.active {
+      background: var(--bg-elevated);
+      color: var(--primary);
+      box-shadow: 0 2px 6px rgba(0,0,0,0.12);
+    }
+
+    .flag-img-sm {
+      width: 14px;
+      height: 10px;
+      border-radius: 2px;
+      object-fit: cover;
+    }
+
+    .goog-te-banner-frame, .goog-te-gadget, #goog-gt-tt, .goog-tooltip { display: none !important; }
+    body { top: 0px !important; }
+    .goog-text-highlight { background-color: transparent !important; border: none !important; box-shadow: none !important; }
+    .skiptranslate:not(.allowed-translate) { display: none !important; }
   </style>
 </head>
 <body>
@@ -1151,6 +1195,11 @@
       </div>
 
       <div class="nav-actions">
+        <div class="lang-switcher">
+          <button class="lang-btn active" id="btnLangEs" onclick="changeLanguage('es')" title="Español"><img src="https://flagcdn.com/w40/es.png" class="flag-img-sm" alt="ES"> ES</button>
+          <button class="lang-btn" id="btnLangEn" onclick="changeLanguage('en')" title="English"><img src="https://flagcdn.com/w40/us.png" class="flag-img-sm" alt="EN"> EN</button>
+          <button class="lang-btn" id="btnLangPt" onclick="changeLanguage('pt')" title="Português"><img src="https://flagcdn.com/w40/br.png" class="flag-img-sm" alt="PT"> PT</button>
+        </div>
         <button class="btn-nav" onclick="openRandomRecipe()" title="Abrir una receta al azar">🎲 Sorpréndeme</button>
         <button class="btn-nav" onclick="shareSiteModal()" title="Difundir en WhatsApp y redes"><span style="color:#22c55e;">📢</span> Difundir</button>
         <button class="btn-nav" id="favFilterBtn" onclick="toggleFavoritesFilter()">❤️ Favoritas <span id="favCountBadge">(0)</span></button>
@@ -2107,15 +2156,72 @@
       }
     }
 
+    /* =========================================================================
+       MOTOR DE TRADUCCIÓN INSTANTÁNEA (ESPAÑOL / ENGLISH / PORTUGUÊS)
+       ========================================================================= */
+    let currentLang = localStorage.getItem('umamicraft_lang') || 'es';
+
+    function initGoogleTranslate() {
+      if (!document.getElementById('google_translate_element')) {
+        const div = document.createElement('div');
+        div.id = 'google_translate_element';
+        div.style.display = 'none';
+        document.body.appendChild(div);
+      }
+
+      window.googleTranslateElementInit = function() {
+        new google.translate.TranslateElement({
+          pageLanguage: 'es',
+          includedLanguages: 'es,en,pt',
+          autoDisplay: false
+        }, 'google_translate_element');
+      };
+
+      if (!document.getElementById('gt_script')) {
+        const s = document.createElement('script');
+        s.id = 'gt_script';
+        s.src = '//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';
+        document.body.appendChild(s);
+      }
+    }
+
+    function changeLanguage(lang) {
+      currentLang = lang;
+      localStorage.setItem('umamicraft_lang', lang);
+
+      document.querySelectorAll('.lang-btn').forEach(btn => {
+        btn.classList.toggle('active', btn.id === 'btnLang' + lang.charAt(0).toUpperCase() + lang.slice(1));
+      });
+
+      const domain = location.hostname;
+      document.cookie = `googtrans=/es/${lang}; path=/; domain=${domain};`;
+      document.cookie = `googtrans=/es/${lang}; path=/;`;
+
+      const select = document.querySelector('.goog-te-combo');
+      if (select) {
+        select.value = lang;
+        select.dispatchEvent(new Event('change'));
+      } else {
+        location.reload();
+      }
+    }
+
     document.getElementById('searchInput').addEventListener('input', renderRecipes);
     document.addEventListener('keydown', e => {
       if (e.key === 'Escape') {
         closeModal();
-        closeEditorModal();
+        closeShareModal();
       }
     });
 
     init();
+    initGoogleTranslate();
+    const savedLang = localStorage.getItem('umamicraft_lang') || 'es';
+    if (savedLang && savedLang !== 'es') {
+      document.querySelectorAll('.lang-btn').forEach(btn => {
+        btn.classList.toggle('active', btn.id === 'btnLang' + savedLang.charAt(0).toUpperCase() + savedLang.slice(1));
+      });
+    }
   </script>
 </body>
 </html>
