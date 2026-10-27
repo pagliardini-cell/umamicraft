@@ -1543,13 +1543,19 @@
         const res = await fetch('/recetas_pro.json?v=' + Date.now());
         const serverRecipes = await res.json();
 
-        // Check if user has local edits saved in browser storage
+        // Priorizar siempre la base del servidor si es más completa
         const localEdits = localStorage.getItem('umamicraft_custom_recipes');
         if (localEdits) {
           try {
-            recipes = JSON.parse(localEdits);
-            const notice = document.getElementById('localChangesNotice');
-            if (notice) notice.style.display = 'inline';
+            const parsed = JSON.parse(localEdits);
+            if (Array.isArray(parsed) && parsed.length >= serverRecipes.length) {
+              recipes = parsed;
+              const notice = document.getElementById('localChangesNotice');
+              if (notice) notice.style.display = 'inline';
+            } else {
+              localStorage.removeItem('umamicraft_custom_recipes');
+              recipes = serverRecipes;
+            }
           } catch(e) {
             recipes = serverRecipes;
           }
