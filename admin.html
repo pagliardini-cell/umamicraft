@@ -1,0 +1,1110 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UmamiCraft — Centro de Administración y Seguridad</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,600;0,700;0,800;1,600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #0c0a09;
+      --bg-card: #1c1917;
+      --bg-subtle: #292524;
+      --text: #f5f5f4;
+      --text-muted: #a8a29e;
+      --primary: #ea580c;
+      --primary-hover: #f97316;
+      --danger: #ef4444;
+      --danger-hover: #dc2626;
+      --success: #16a34a;
+      --border: #38332e;
+      --radius: 14px;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.55;
+      min-height: 100vh;
+    }
+
+    /* Login Screen */
+    .login-container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      padding: 24px;
+    }
+
+    .login-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 40px;
+      max-width: 440px;
+      width: 100%;
+      box-shadow: 0 20px 50px rgba(0,0,0,0.6);
+      text-align: center;
+    }
+
+    .login-icon {
+      width: 60px;
+      height: 60px;
+      border-radius: 50%;
+      background: rgba(234, 88, 12, 0.15);
+      color: var(--primary);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 28px;
+      margin: 0 auto 18px;
+      border: 1px solid rgba(234, 88, 12, 0.3);
+    }
+
+    .login-title {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.7rem;
+      margin-bottom: 8px;
+    }
+
+    .login-subtitle {
+      color: var(--text-muted);
+      font-size: 0.88rem;
+      margin-bottom: 26px;
+    }
+
+    .flag-img {
+      width: 18px;
+      height: 13px;
+      object-fit: cover;
+      border-radius: 2px;
+      display: inline-block;
+      vertical-align: -1px;
+      margin-right: 5px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.3);
+    }
+
+    .form-group {
+      text-align: left;
+      margin-bottom: 18px;
+    }
+
+    .form-group label {
+      display: block;
+      font-size: 0.78rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      color: var(--text-muted);
+      margin-bottom: 6px;
+    }
+
+    .form-input, .form-textarea, .form-select {
+      width: 100%;
+      padding: 12px 14px;
+      border-radius: 10px;
+      border: 1px solid var(--border);
+      background: var(--bg-subtle);
+      color: var(--text);
+      font-family: inherit;
+      font-size: 0.94rem;
+      outline: none;
+      transition: border-color 0.2s;
+    }
+
+    .form-input:focus, .form-textarea:focus, .form-select:focus {
+      border-color: var(--primary);
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      padding: 12px 20px;
+      border-radius: 10px;
+      border: none;
+      font-family: inherit;
+      font-size: 0.92rem;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 0.16s ease;
+      width: 100%;
+    }
+
+    .btn-primary { background: var(--primary); color: white; }
+    .btn-primary:hover { background: var(--primary-hover); transform: translateY(-1px); }
+    .btn-danger { background: var(--danger); color: white; }
+    .btn-danger:hover { background: var(--danger-hover); }
+    .btn-sec { background: var(--bg-subtle); color: var(--text); border: 1px solid var(--border); width: auto; }
+    .btn-sec:hover { border-color: var(--primary); color: var(--primary); }
+
+    .alert-box {
+      background: rgba(239, 68, 68, 0.12);
+      border: 1px solid rgba(239, 68, 68, 0.3);
+      color: #fca5a5;
+      padding: 12px;
+      border-radius: 8px;
+      font-size: 0.85rem;
+      margin-bottom: 18px;
+      display: none;
+    }
+
+    /* Admin Dashboard */
+    .admin-app { display: none; }
+    header {
+      background: var(--bg-card);
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
+    .header-inner {
+      max-width: 1380px;
+      margin: 0 auto;
+      padding: 14px 28px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+
+    .admin-brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      text-decoration: none;
+      color: var(--text);
+    }
+
+    .admin-brand h1 {
+      font-family: 'Playfair Display', serif;
+      font-size: 1.35rem;
+      font-weight: 800;
+    }
+
+    .admin-brand span { color: var(--primary); font-size: 0.82rem; font-family: sans-serif; font-weight: 700; margin-left: 6px; background: rgba(234, 88, 12, 0.2); padding: 2px 8px; border-radius: 6px; }
+
+    .header-actions {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    /* Tabs */
+    .tabs-bar {
+      max-width: 1380px;
+      margin: 20px auto 0;
+      padding: 0 28px;
+      display: flex;
+      gap: 8px;
+      border-bottom: 1px solid var(--border);
+      overflow-x: auto;
+    }
+
+    .tab-btn {
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      padding: 12px 18px;
+      font-family: inherit;
+      font-size: 0.92rem;
+      font-weight: 700;
+      cursor: pointer;
+      position: relative;
+      white-space: nowrap;
+      transition: color 0.15s;
+    }
+
+    .tab-btn:hover { color: var(--text); }
+    .tab-btn.active { color: var(--primary); }
+    .tab-btn.active::after {
+      content: '';
+      position: absolute;
+      bottom: -1px;
+      left: 0;
+      right: 0;
+      height: 3px;
+      background: var(--primary);
+      border-radius: 3px 3px 0 0;
+    }
+
+    main {
+      max-width: 1380px;
+      margin: 24px auto 60px;
+      padding: 0 28px;
+    }
+
+    .tab-pane { display: none; }
+    .tab-pane.active { display: block; }
+
+    /* Dashboard Metrics Cards */
+    .metrics-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 18px;
+      margin-bottom: 28px;
+    }
+
+    .metric-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 22px;
+    }
+
+    .metric-num {
+      font-size: 2.3rem;
+      font-weight: 800;
+      color: var(--primary);
+      line-height: 1.1;
+      margin-bottom: 4px;
+    }
+
+    .metric-label {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+
+    /* Recipes Table */
+    .table-container {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      overflow: hidden;
+    }
+
+    .table-toolbar {
+      padding: 16px 20px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      justify-content: space-between;
+      gap: 14px;
+      flex-wrap: wrap;
+    }
+
+    .search-box {
+      flex: 1;
+      min-width: 260px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.9rem;
+    }
+
+    th {
+      text-align: left;
+      padding: 12px 18px;
+      background: var(--bg-subtle);
+      color: var(--text-muted);
+      font-weight: 700;
+      font-size: 0.78rem;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    td {
+      padding: 14px 18px;
+      border-bottom: 1px solid var(--border);
+      vertical-align: middle;
+    }
+
+    tr:hover td { background: rgba(255, 255, 255, 0.02); }
+
+    .tbl-img {
+      width: 46px;
+      height: 46px;
+      border-radius: 8px;
+      object-fit: cover;
+      margin-right: 12px;
+      vertical-align: middle;
+    }
+
+    .action-icons {
+      display: flex;
+      gap: 6px;
+    }
+
+    .icon-btn {
+      background: var(--bg-subtle);
+      border: 1px solid var(--border);
+      color: var(--text);
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      font-size: 14px;
+      transition: all 0.15s;
+    }
+
+    .icon-btn:hover { border-color: var(--primary); color: var(--primary); }
+    .icon-btn.delete:hover { border-color: var(--danger); color: var(--danger); }
+
+    /* Recipe Editor in Tab 3 */
+    .editor-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 16px;
+    }
+
+    @media (max-width: 800px) {
+      .editor-grid { grid-template-columns: 1fr; }
+    }
+
+    .editor-full { grid-column: 1 / -1; }
+
+    .subblock {
+      background: var(--bg-subtle);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 14px;
+      margin-bottom: 12px;
+    }
+
+    .toast {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      background: var(--success);
+      color: white;
+      padding: 14px 22px;
+      border-radius: 10px;
+      font-weight: 700;
+      font-size: 0.9rem;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+      z-index: 9999;
+      display: none;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- PANTALLA 1: ACCESO SEGURO (LOGIN) -->
+  <div class="login-container" id="loginScreen">
+    <div class="login-card">
+      <div class="login-icon">🔐</div>
+      <h2 class="login-title">UmamiCraft Admin</h2>
+      <p class="login-subtitle">Panel de Control & Gestión Gastronómica</p>
+
+      <div class="alert-box" id="loginError"></div>
+
+      <form onsubmit="handleLogin(event)">
+        <div class="form-group">
+          <label>Contraseña de Acceso</label>
+          <div style="position: relative;">
+            <input type="password" id="loginPassword" class="form-input" style="padding-right: 44px;" required placeholder="Ingresa tu contraseña" autofocus>
+            <button type="button" onclick="const p=document.getElementById('loginPassword'); p.type = p.type==='password'?'text':'password'; this.textContent = p.type==='password'?'👁️':'🔒';" style="position: absolute; right: 10px; top: 50%; transform: translateY(-50%); background: none; border: none; font-size: 17px; cursor: pointer; color: var(--text-muted);" title="Ver / Ocultar">👁️</button>
+          </div>
+        </div>
+        <button type="submit" class="btn btn-primary">Iniciar Sesión Segura →</button>
+      </form>
+
+      <div style="margin-top: 24px; font-size: 0.8rem; color: var(--text-muted);">
+        <p>🔒 Acceso protegido con SHA-256 y bloqueo de fuerza bruta.</p>
+        <p style="margin-top: 6px;"><a href="/" style="color: var(--primary); text-decoration: none;">← Volver al sitio público</a></p>
+      </div>
+    </div>
+  </div>
+
+  <!-- PANTALLA 2: DASHBOARD DE ADMINISTRACIÓN COMPLETO -->
+  <div class="admin-app" id="adminApp">
+    <header>
+      <div class="header-inner">
+        <a href="/" class="admin-brand" style="text-decoration:none;">
+          <div style="font-family:'Playfair Display',serif; font-size:1.55rem; font-weight:700; color:var(--text);">Umami<span style="color:var(--primary);">Craft</span> <span style="font-size:0.72rem; background:rgba(234,88,12,0.2); color:var(--primary); padding:3px 8px; border-radius:6px; font-family:'Plus Jakarta Sans',sans-serif; font-weight:800; text-transform:uppercase; letter-spacing:1px; vertical-align:middle; margin-left:6px;">ADMIN</span></div>
+        </a>
+        <div class="header-actions">
+          <a href="/" target="_blank" class="btn btn-sec" style="font-size:0.84rem;">🌐 Ver Sitio Web</a>
+          <button class="btn btn-sec" onclick="openNewRecipeTab()" style="background:var(--primary); color:white; border-color:var(--primary);">➕ Nueva Receta</button>
+          <button class="btn btn-sec" onclick="handleLogout()" style="font-size:0.84rem;">🚪 Cerrar Sesión</button>
+        </div>
+      </div>
+    </header>
+
+    <div class="tabs-bar">
+      <button class="tab-btn active" onclick="switchTab('metrics')">📊 Métricas</button>
+      <button class="tab-btn" onclick="switchTab('recipes')">📖 Gestor de Recetas (<span id="tabCount">256</span>)</button>
+      <button class="tab-btn" id="editorTabBtn" onclick="switchTab('editor')">✏️ Formulario de Receta</button>
+      <button class="tab-btn" onclick="switchTab('backups')">💾 Copias de Seguridad</button>
+      <button class="tab-btn" onclick="switchTab('security')">🔐 Seguridad & Ajustes</button>
+    </div>
+
+    <main>
+      <!-- PESTAÑA 1: MÉTRICAS -->
+      <section id="tab-metrics" class="tab-pane active">
+        <div class="metrics-grid">
+          <div class="metric-card">
+            <div class="metric-num" id="mTotal">256</div>
+            <div class="metric-label">Recetas Activas</div>
+          </div>
+          <div class="metric-card">
+            <div class="metric-num" id="mCocktails">12</div>
+            <div class="metric-label">Cocktails Reales</div>
+          </div>
+          <div class="metric-card">
+            <div class="metric-num" id="mCountries">0</div>
+            <div class="metric-label">Países y Orígenes</div>
+          </div>
+          <div class="metric-card">
+            <div class="metric-num" id="mCategories">18</div>
+            <div class="metric-label">Categorías Culinarias</div>
+          </div>
+        </div>
+
+        <div style="background:var(--bg-card); border:1px solid var(--border); border-radius:var(--radius); padding:24px;">
+          <h3 style="font-family:'Playfair Display',serif; font-size:1.2rem; margin-bottom:14px;">Distribución por Categorías</h3>
+          <div id="categoryBreakdown" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(200px, 1fr)); gap:10px;"></div>
+        </div>
+      </section>
+
+      <!-- PESTAÑA 2: GESTOR DE RECETAS (TABLA) -->
+      <section id="tab-recipes" class="tab-pane">
+        <div class="table-container">
+          <div class="table-toolbar">
+            <div class="search-box">
+              <input type="text" id="tableSearch" class="form-input" placeholder="🔍 Buscar por título, ingrediente o país..." oninput="renderTable()">
+            </div>
+            <select id="tableCategoryFilter" class="form-select" style="width:auto;" onchange="renderTable()">
+              <option value="all">Todas las categorías</option>
+            </select>
+          </div>
+
+          <div style="overflow-x:auto;">
+            <table>
+              <thead>
+                <tr>
+                  <th style="width:60px;">ID</th>
+                  <th>Plato / Receta</th>
+                  <th>Origen</th>
+                  <th>Categoría</th>
+                  <th>Tiempos</th>
+                  <th>Calorías</th>
+                  <th style="width:110px; text-align:center;">Acciones</th>
+                </tr>
+              </thead>
+              <tbody id="recipesTableBody"></tbody>
+            </table>
+          </div>
+        </div>
+      </section>
+
+      <!-- PESTAÑA 3: FORMULARIO DE ALTA / EDICIÓN -->
+      <section id="tab-editor" class="tab-pane">
+        <div style="background:var(--bg-card); border:1px solid var(--border); border-radius:var(--radius); padding:32px; max-width:960px; margin:0 auto;">
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:24px; border-bottom:1px solid var(--border); padding-bottom:16px;">
+            <h2 id="editorHeading" style="font-family:'Playfair Display',serif; font-size:1.6rem;">Nueva Receta</h2>
+            <button class="btn btn-sec" onclick="switchTab('recipes')">← Volver al Listado</button>
+          </div>
+
+          <form onsubmit="handleSaveRecipe(event)">
+            <input type="hidden" id="recipeId">
+
+            <div class="editor-grid">
+              <div class="form-group editor-full">
+                <label>Título del Plato *</label>
+                <input type="text" id="formTitle" class="form-input" required placeholder="Ej: Lasaña Clásica a la Boloñesa (Italia)">
+              </div>
+
+              <div class="form-group">
+                <label>País / Origen *</label>
+                <input type="text" id="formCountry" class="form-input" required placeholder="Ej: Italia, Japón, Argentina, Fusión">
+              </div>
+
+              <div class="form-group">
+                <label>Categoría Culinaria *</label>
+                <select id="formCategory" class="form-select" required>
+                  <option value="Sopas y Potajes">Sopas y Potajes</option>
+                  <option value="Pollo / Aves">Pollo / Aves</option>
+                  <option value="Pastas">Pastas</option>
+                  <option value="Carnes">Carnes</option>
+                  <option value="Cerdo">Cerdo</option>
+                  <option value="Arroces y Risottos">Arroces y Risottos</option>
+                  <option value="Salsas y Aderezos">Salsas y Aderezos</option>
+                  <option value="Postres y Dulces">Postres y Dulces</option>
+                  <option value="Cocktails & Tragos">Cocktails & Tragos</option>
+                  <option value="Guarniciones">Guarniciones</option>
+                  <option value="Panadería">Panadería</option>
+                  <option value="Ensaladas">Ensaladas</option>
+                  <option value="Tapas / Picoteo">Tapas / Picoteo</option>
+                  <option value="Pizzas / Tartas / Masas">Pizzas / Tartas / Masas</option>
+                  <option value="Pescados y Mariscos">Pescados y Mariscos</option>
+                  <option value="Huevos / Desayunos">Huevos / Desayunos</option>
+                  <option value="Conservas / Embutidos">Conservas / Embutidos</option>
+                  <option value="Sándwiches / Burgers">Sándwiches / Burgers</option>
+                </select>
+              </div>
+
+              <div class="form-group editor-full">
+                <label>URL de la Imagen (Resolución HD) *</label>
+                <input type="url" id="formImage" class="form-input" required placeholder="https://...">
+              </div>
+
+              <div class="form-group">
+                <label>Tiempo de Preparación</label>
+                <input type="text" id="formPrep" class="form-input" placeholder="Ej: 20 min">
+              </div>
+
+              <div class="form-group">
+                <label>Tiempo de Cocción</label>
+                <input type="text" id="formCook" class="form-input" placeholder="Ej: 45 min">
+              </div>
+
+              <div class="form-group">
+                <label>Tiempo de Reposo / Leudado (opcional)</label>
+                <input type="text" id="formRest" class="form-input" placeholder="Ej: 30 min en heladera">
+              </div>
+
+              <div class="form-group">
+                <label>Porciones / Rendimiento</label>
+                <input type="text" id="formServings" class="form-input" placeholder="Ej: 4 porciones">
+              </div>
+
+              <div class="form-group">
+                <label>Calorías</label>
+                <input type="text" id="formCalories" class="form-input" placeholder="Ej: 480 kcal aprox. por porción">
+              </div>
+
+              <div class="form-group">
+                <label>Etiquetas Dietarias (separadas por coma)</label>
+                <input type="text" id="formDiets" class="form-input" placeholder="Vegetariano, Sin Gluten, Alto en Proteína">
+              </div>
+
+              <div class="form-group editor-full">
+                <label>Historia, Origen o Dedicatoria del Plato *</label>
+                <textarea id="formStory" class="form-textarea" rows="3" required placeholder="Relato sobre el plato, anécdota o contexto cultural..."></textarea>
+              </div>
+            </div>
+
+            <!-- Grupos de Ingredientes -->
+            <div style="margin-top:20px;">
+              <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px;">
+                <label style="font-weight:800; font-size:0.88rem; text-transform:uppercase; color:var(--primary);">🛒 Subgrupos de Ingredientes (Masa, Relleno, Salsa, etc.)</label>
+                <button type="button" class="btn btn-sec" onclick="addIngGroupInput('Ingredientes', '')">+ Agregar Grupo</button>
+              </div>
+              <div id="ingGroupsWrapper"></div>
+            </div>
+
+            <!-- Grupos de Pasos -->
+            <div style="margin-top:20px;">
+              <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:12px;">
+                <label style="font-weight:800; font-size:0.88rem; text-transform:uppercase; color:var(--primary);">👨‍🍳 Subgrupos de Preparación Paso a Paso</label>
+                <button type="button" class="btn btn-sec" onclick="addStepGroupInput('Preparación', '')">+ Agregar Grupo</button>
+              </div>
+              <div id="stepGroupsWrapper"></div>
+            </div>
+
+            <div class="form-group" style="margin-top:20px;">
+              <label>💡 Notas y Secretos del Chef (opcional)</label>
+              <textarea id="formNotes" class="form-textarea" rows="2" placeholder="Secretos culinarios, recomendaciones o alternativas..."></textarea>
+            </div>
+
+            <div style="display:flex; justify-content:flex-end; gap:12px; margin-top:24px; border-top:1px solid var(--border); padding-top:18px;">
+              <button type="button" class="btn btn-sec" onclick="switchTab('recipes')">Cancelar</button>
+              <button type="submit" class="btn btn-primary" style="width:auto; padding:12px 28px;">💾 Guardar Receta</button>
+            </div>
+          </form>
+        </div>
+      </section>
+
+      <!-- PESTAÑA 4: COPIAS DE SEGURIDAD (BACKUPS) -->
+      <section id="tab-backups" class="tab-pane">
+        <div style="background:var(--bg-card); border:1px solid var(--border); border-radius:var(--radius); padding:32px; max-width:800px; margin:0 auto;">
+          <h3 style="font-family:'Playfair Display',serif; font-size:1.4rem; margin-bottom:10px;">Copias de Seguridad & Respaldo</h3>
+          <p style="color:var(--text-muted); font-size:0.9rem; margin-bottom:24px;">
+            El servidor genera automáticamente una copia de seguridad antes de cada edición o eliminación en la carpeta <code>backups/</code>. También podés descargar una copia manual en cualquier momento.
+          </p>
+
+          <div style="display:flex; gap:14px; flex-wrap:wrap; margin-bottom:30px;">
+            <button class="btn btn-primary" style="width:auto;" onclick="downloadBackup()">📥 Descargar Backup Completo (JSON)</button>
+          </div>
+
+          <div style="border-top:1px solid var(--border); padding-top:24px;">
+            <h4 style="font-size:1rem; margin-bottom:8px;">Restaurar Copia de Seguridad</h4>
+            <p style="color:var(--text-muted); font-size:0.86rem; margin-bottom:14px;">Si querés volver a un estado anterior, subí un archivo <code>recetas_pro.json</code> o de backup.</p>
+            <input type="file" id="backupFileInput" accept=".json" class="form-input" style="margin-bottom:12px;" onchange="handleRestoreBackup(event)">
+          </div>
+        </div>
+      </section>
+
+      <!-- PESTAÑA 5: SEGURIDAD & AJUSTES -->
+      <section id="tab-security" class="tab-pane">
+        <div style="background:var(--bg-card); border:1px solid var(--border); border-radius:var(--radius); padding:32px; max-width:680px; margin:0 auto;">
+          <h3 style="font-family:'Playfair Display',serif; font-size:1.4rem; margin-bottom:10px;">Ajustes de Seguridad</h3>
+          <p style="color:var(--text-muted); font-size:0.9rem; margin-bottom:24px;">Cambia tu contraseña maestra de administración.</p>
+
+          <form onsubmit="handleChangePassword(event)">
+            <div class="form-group">
+              <label>Nueva Contraseña (mínimo 6 caracteres)</label>
+              <input type="password" id="newPassword" class="form-input" required minlength="6" placeholder="Ingresa nueva contraseña segura">
+            </div>
+            <div class="form-group">
+              <label>Confirmar Nueva Contraseña</label>
+              <input type="password" id="confirmPassword" class="form-input" required minlength="6" placeholder="Repite la contraseña">
+            </div>
+            <button type="submit" class="btn btn-primary" style="width:auto; padding:12px 24px;">Actualizar Contraseña</button>
+          </form>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <div class="toast" id="toastBox"></div>
+
+  <script>
+    const COUNTRY_FLAGS = {
+      'Italia': 'it', 'Japón': 'jp', 'China': 'cn', 'Argentina': 'ar', 'Receta de Autor (Argentina)': 'ar',
+      'España': 'es', 'Francia': 'fr', 'Estados Unidos': 'us', 'Tailandia': 'th', 'Reino Unido': 'gb',
+      'Inglaterra': 'gb', 'México': 'mx', 'Vietnam': 'vn', 'Rusia': 'ru', 'Corea del Sur': 'kr',
+      'India': 'in', 'Grecia': 'gr', 'Turquía': 'tr', 'Perú': 'pe', 'Alemania': 'de', 'Irlanda': 'ie',
+      'Suecia': 'se', 'Egipto': 'eg', 'Paraguay': 'py', 'Mongolia': 'mn', 'Armenia': 'am', 'Venezuela': 've',
+      'Sudáfrica': 'za', 'Marruecos': 'ma', 'Bélgica': 'be', 'Cuba': 'cu', 'Líbano / Siria': 'lb',
+      'Medio Oriente': 'lb', 'Palestina': 'ps', 'Escocia': 'gb-sct', 'Singapur': 'sg', 'Taiwán': 'tw',
+      'Afganistán': 'af', 'Caribe': 'cu'
+    };
+
+    function getCountryBadgeHtml(country) {
+      const code = COUNTRY_FLAGS[country];
+      if (code) {
+        return `<img src="https://flagcdn.com/w40/${code}.png" srcset="https://flagcdn.com/w80/${code}.png 2x" width="18" height="13" alt="${country}" class="flag-img"> ${country}`;
+      }
+      return `🌍 ${country}`;
+    }
+
+    let token = sessionStorage.getItem('umami_admin_token') || '';
+    let recipes = [];
+
+    async function init() {
+      if (token) {
+        showApp();
+      } else {
+        showLogin();
+      }
+    }
+
+    function showLogin() {
+      document.getElementById('loginScreen').style.display = 'flex';
+      document.getElementById('adminApp').style.display = 'none';
+    }
+
+    async function showApp() {
+      document.getElementById('loginScreen').style.display = 'none';
+      document.getElementById('adminApp').style.display = 'block';
+      await loadRecipes();
+    }
+
+    async function handleLogin(e) {
+      e.preventDefault();
+      const pw = document.getElementById('loginPassword').value;
+      const errBox = document.getElementById('loginError');
+      errBox.style.display = 'none';
+
+      try {
+        const res = await fetch('/api/login', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ password: pw })
+        });
+        const data = await res.json();
+        if (data.ok) {
+          token = data.token;
+          sessionStorage.setItem('umami_admin_token', token);
+          showApp();
+        } else {
+          errBox.textContent = data.error || 'Contraseña incorrecta';
+          errBox.style.display = 'block';
+        }
+      } catch (err) {
+        errBox.textContent = 'Error conectando al servidor';
+        errBox.style.display = 'block';
+      }
+    }
+
+    function handleLogout() {
+      sessionStorage.removeItem('umami_admin_token');
+      token = '';
+      showLogin();
+    }
+
+    async function loadRecipes() {
+      try {
+        const res = await fetch('/recetas_pro.json?v=' + Date.now());
+        recipes = await res.json();
+        updateMetrics();
+        populateCategoryFilter();
+        renderTable();
+      } catch (err) {
+        showToast('Error cargando recetas_pro.json');
+      }
+    }
+
+    function updateMetrics() {
+      document.getElementById('mTotal').textContent = recipes.length;
+      document.getElementById('tabCount').textContent = recipes.length;
+      document.getElementById('mCocktails').textContent = recipes.filter(r => r.category === 'Cocktails & Tragos').length;
+      const countries = new Set(recipes.map(r => r.country).filter(Boolean));
+      document.getElementById('mCountries').textContent = countries.size;
+      const cats = new Set(recipes.map(r => r.category).filter(Boolean));
+      document.getElementById('mCategories').textContent = cats.size;
+
+      // Breakdown
+      const counts = {};
+      recipes.forEach(r => { counts[r.category] = (counts[r.category] || 0) + 1; });
+      const breakdown = document.getElementById('categoryBreakdown');
+      breakdown.innerHTML = Object.entries(counts).sort((a,b) => b[1] - a[1]).map(([cat, cnt]) => `
+        <div style="background:var(--bg-subtle); padding:10px 14px; border-radius:8px; display:flex; justify-content:space-between; font-size:0.86rem;">
+          <span>${cat}</span>
+          <strong style="color:var(--primary);">${cnt}</strong>
+        </div>
+      `).join('');
+    }
+
+    function populateCategoryFilter() {
+      const sel = document.getElementById('tableCategoryFilter');
+      const cats = [...new Set(recipes.map(r => r.category).filter(Boolean))].sort();
+      sel.innerHTML = '<option value="all">Todas las categorías</option>' + cats.map(c => `<option value="${c}">${c}</option>`).join('');
+    }
+
+    function renderTable() {
+      const q = document.getElementById('tableSearch').value.toLowerCase().trim();
+      const cat = document.getElementById('tableCategoryFilter').value;
+      const tbody = document.getElementById('recipesTableBody');
+
+      const filtered = recipes.filter(r => {
+        if (cat !== 'all' && r.category !== cat) return false;
+        if (q) {
+          const matchTitle = (r.title || '').toLowerCase().includes(q);
+          const matchCountry = (r.country || '').toLowerCase().includes(q);
+          const matchId = String(r.id) === q;
+          if (!matchTitle && !matchCountry && !matchId) return false;
+        }
+        return true;
+      });
+
+      tbody.innerHTML = filtered.map(r => `
+        <tr>
+          <td><strong style="color:var(--text-muted);">#${r.id}</strong></td>
+          <td>
+            <img class="tbl-img" src="${r.image}" onerror="this.style.display='none'">
+            <strong>${r.title}</strong>
+          </td>
+          <td><span style="color:var(--primary); font-weight:700;">${getCountryBadgeHtml(r.country)}</span></td>
+          <td><span style="background:var(--bg-subtle); padding:4px 8px; border-radius:6px; font-size:0.8rem;">${r.category}</span></td>
+          <td style="color:var(--text-muted); font-size:0.82rem;">${r.prep_time || '-'} / ${r.cook_time || '-'}</td>
+          <td style="color:var(--text-muted); font-size:0.82rem;">${r.calories ? r.calories.replace(' aprox. por porción', '') : '-'}</td>
+          <td>
+            <div class="action-icons">
+              <button class="icon-btn" onclick="openEditRecipe(${r.id})" title="Editar">✏️</button>
+              <button class="icon-btn" onclick="duplicateRecipe(${r.id})" title="Duplicar">📋</button>
+              <button class="icon-btn delete" onclick="deleteRecipe(${r.id})" title="Eliminar">🗑️</button>
+            </div>
+          </td>
+        </tr>
+      `).join('');
+    }
+
+    function switchTab(name) {
+      document.querySelectorAll('.tab-btn').forEach(b => b.classList.toggle('active', b.textContent.toLowerCase().includes(name.slice(0,4))));
+      document.querySelectorAll('.tab-pane').forEach(p => p.classList.remove('active'));
+      const target = document.getElementById(`tab-${name}`);
+      if (target) target.classList.add('active');
+    }
+
+    function openNewRecipeTab() {
+      document.getElementById('editorHeading').textContent = 'Alta de Nueva Receta';
+      document.getElementById('recipeId').value = '';
+      document.getElementById('formTitle').value = '';
+      document.getElementById('formCountry').value = '';
+      document.getElementById('formCategory').value = 'Pastas';
+      document.getElementById('formImage').value = '';
+      document.getElementById('formPrep').value = '20 min';
+      document.getElementById('formCook').value = '30 min';
+      document.getElementById('formRest').value = '';
+      document.getElementById('formServings').value = '4 porciones';
+      document.getElementById('formCalories').value = '400 kcal aprox. por porción';
+      document.getElementById('formDiets').value = '';
+      document.getElementById('formStory').value = '';
+      document.getElementById('formNotes').value = '';
+      document.getElementById('ingGroupsWrapper').innerHTML = '';
+      document.getElementById('stepGroupsWrapper').innerHTML = '';
+      addIngGroupInput('Ingredientes', '');
+      addStepGroupInput('Preparación', '');
+      switchTab('editor');
+    }
+
+    function openEditRecipe(id) {
+      const r = recipes.find(x => x.id === id);
+      if (!r) return;
+      document.getElementById('editorHeading').textContent = `Modificar Receta #${r.id}: ${r.title}`;
+      document.getElementById('recipeId').value = r.id;
+      document.getElementById('formTitle').value = r.title || '';
+      document.getElementById('formCountry').value = r.country || '';
+      document.getElementById('formCategory').value = r.category || 'Pastas';
+      document.getElementById('formImage').value = r.image || '';
+      document.getElementById('formPrep').value = r.prep_time || '';
+      document.getElementById('formCook').value = r.cook_time || '';
+      document.getElementById('formRest').value = r.rest_time || '';
+      document.getElementById('formServings').value = r.servings || '';
+      document.getElementById('formCalories').value = r.calories || '';
+      document.getElementById('formDiets').value = (r.diet_badges || []).join(', ');
+      document.getElementById('formStory').value = r.story || '';
+      document.getElementById('formNotes').value = r.notes || '';
+
+      const iWrap = document.getElementById('ingGroupsWrapper');
+      iWrap.innerHTML = '';
+      const iGroups = r.ingredient_groups && r.ingredient_groups.length ? r.ingredient_groups : [{ name: 'Ingredientes', items: [] }];
+      iGroups.forEach(g => addIngGroupInput(g.name, (g.items || []).join('\n')));
+
+      const sWrap = document.getElementById('stepGroupsWrapper');
+      sWrap.innerHTML = '';
+      const sGroups = r.step_groups && r.step_groups.length ? r.step_groups : [{ name: 'Preparación', steps: [] }];
+      sGroups.forEach(sg => addStepGroupInput(sg.name, (sg.steps || []).join('\n')));
+
+      switchTab('editor');
+    }
+
+    function addIngGroupInput(name = 'Ingredientes', items = '') {
+      const wrap = document.getElementById('ingGroupsWrapper');
+      const div = document.createElement('div');
+      div.className = 'subblock ing-subblock';
+      div.innerHTML = `
+        <div style="display:flex; justify-content:space-between; gap:10px; margin-bottom:8px;">
+          <input type="text" class="form-input ing-group-name" value="${name}" placeholder="Subgrupo (ej: Para la masa, Para la salsa)">
+          <button type="button" class="btn btn-sec" style="color:var(--danger); border-color:var(--danger);" onclick="this.closest('.subblock').remove()">🗑️</button>
+        </div>
+        <textarea class="form-textarea ing-group-text" rows="3" placeholder="Un ingrediente por línea">${items}</textarea>
+      `;
+      wrap.appendChild(div);
+    }
+
+    function addStepGroupInput(name = 'Preparación', steps = '') {
+      const wrap = document.getElementById('stepGroupsWrapper');
+      const div = document.createElement('div');
+      div.className = 'subblock step-subblock';
+      div.innerHTML = `
+        <div style="display:flex; justify-content:space-between; gap:10px; margin-bottom:8px;">
+          <input type="text" class="form-input step-group-name" value="${name}" placeholder="Etapa (ej: Para el caldo, Armado final)">
+          <button type="button" class="btn btn-sec" style="color:var(--danger); border-color:var(--danger);" onclick="this.closest('.subblock').remove()">🗑️</button>
+        </div>
+        <textarea class="form-textarea step-group-text" rows="3" placeholder="Un paso por línea">${steps}</textarea>
+      `;
+      wrap.appendChild(div);
+    }
+
+    async function handleSaveRecipe(e) {
+      e.preventDefault();
+      const rawId = document.getElementById('recipeId').value;
+      const isEdit = Boolean(rawId);
+      const nextId = recipes.length ? Math.max(...recipes.map(r => r.id)) + 1 : 1;
+      const id = isEdit ? parseInt(rawId, 10) : nextId;
+
+      const ingGroups = [...document.querySelectorAll('.ing-subblock')].map(b => ({
+        name: b.querySelector('.ing-group-name').value.trim() || 'Ingredientes',
+        items: b.querySelector('.ing-group-text').value.split('\n').map(s => s.trim()).filter(Boolean)
+      })).filter(g => g.items.length > 0);
+
+      const stepGroups = [...document.querySelectorAll('.step-subblock')].map(b => ({
+        name: b.querySelector('.step-group-name').value.trim() || 'Preparación',
+        steps: b.querySelector('.step-group-text').value.split('\n').map(s => s.trim()).filter(Boolean)
+      })).filter(g => g.steps.length > 0);
+
+      const diets = document.getElementById('formDiets').value.split(',').map(s => s.trim()).filter(Boolean);
+
+      const item = {
+        id,
+        title: document.getElementById('formTitle').value.trim(),
+        original_title: document.getElementById('formTitle').value.trim(),
+        country: document.getElementById('formCountry').value.trim(),
+        category: document.getElementById('formCategory').value,
+        image: document.getElementById('formImage').value.trim(),
+        prep_time: document.getElementById('formPrep').value.trim(),
+        cook_time: document.getElementById('formCook').value.trim(),
+        rest_time: document.getElementById('formRest').value.trim(),
+        servings: document.getElementById('formServings').value.trim(),
+        calories: document.getElementById('formCalories').value.trim(),
+        diet_badges: diets,
+        story: document.getElementById('formStory').value.trim(),
+        ingredient_groups: ingGroups,
+        step_groups: stepGroups,
+        notes: document.getElementById('formNotes').value.trim(),
+        tags: [document.getElementById('formCountry').value.trim(), document.getElementById('formCategory').value],
+        url: ''
+      };
+
+      let newRecipes = [...recipes];
+      if (isEdit) {
+        const idx = newRecipes.findIndex(r => r.id === id);
+        if (idx > -1) newRecipes[idx] = item;
+      } else {
+        newRecipes.unshift(item);
+      }
+
+      try {
+        const res = await fetch('/api/save', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+            'Authorization': `Bearer ${token}`
+          },
+          body: JSON.stringify(newRecipes)
+        });
+        const data = await res.json();
+        if (data.ok) {
+          recipes = newRecipes;
+          updateMetrics();
+          renderTable();
+          showToast(`✅ Receta #${id} guardada exitosamente.`);
+          switchTab('recipes');
+        } else {
+          showToast('❌ Error: ' + (data.error || 'No se pudo guardar'));
+        }
+      } catch (err) {
+        showToast('Error de conexión con el servidor');
+      }
+    }
+
+    async function duplicateRecipe(id) {
+      const r = recipes.find(x => x.id === id);
+      if (!r) return;
+      openEditRecipe(id);
+      document.getElementById('recipeId').value = '';
+      document.getElementById('formTitle').value = r.title + ' (Copia)';
+      document.getElementById('editorHeading').textContent = `Duplicar Receta: ${r.title}`;
+    }
+
+    async function deleteRecipe(id) {
+      const r = recipes.find(x => x.id === id);
+      if (!r) return;
+      const ok = confirm(`¿Estás seguro de que deseas ELIMINAR la receta #${id} "${r.title}"?\n\nSe creará un backup automático antes de borrarla.`);
+      if (!ok) return;
+
+      try {
+        const res = await fetch('/api/delete', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+            'Authorization': `Bearer ${token}`
+          },
+          body: JSON.stringify({ id })
+        });
+        const data = await res.json();
+        if (data.ok) {
+          recipes = recipes.filter(x => x.id !== id);
+          updateMetrics();
+          renderTable();
+          showToast(`🗑️ Receta #${id} eliminada correctamente.`);
+        } else {
+          showToast('❌ Error: ' + (data.error || 'No se pudo eliminar'));
+        }
+      } catch (err) {
+        showToast('Error al conectar con el servidor');
+      }
+    }
+
+    function downloadBackup() {
+      const str = JSON.stringify(recipes, null, 2);
+      const blob = new Blob([str], { type: 'application/json' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = `umamicraft_backup_${new Date().toISOString().slice(0,10)}.json`;
+      a.click();
+      URL.revokeObjectURL(url);
+      showToast('📥 Backup descargado correctamente.');
+    }
+
+    async function handleRestoreBackup(e) {
+      const file = e.target.files[0];
+      if (!file) return;
+      const reader = new FileReader();
+      reader.onload = async (evt) => {
+        try {
+          const parsed = JSON.parse(evt.target.result);
+          if (!Array.isArray(parsed)) throw new Error('El archivo no contiene una lista de recetas');
+          const ok = confirm(`El archivo contiene ${parsed.length} recetas. ¿Deseas reemplazar el catálogo actual por este respaldo?`);
+          if (!ok) return;
+
+          const res = await fetch('/api/save', {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+              'Authorization': `Bearer ${token}`
+            },
+            body: JSON.stringify(parsed)
+          });
+          const data = await res.json();
+          if (data.ok) {
+            recipes = parsed;
+            updateMetrics();
+            renderTable();
+            showToast('✅ Catálogo restaurado con éxito.');
+          } else {
+            showToast('Error: ' + data.error);
+          }
+        } catch (err) {
+          alert('Archivo de backup inválido: ' + err.message);
+        }
+      };
+      reader.readAsText(file);
+    }
+
+    async function handleChangePassword(e) {
+      e.preventDefault();
+      const p1 = document.getElementById('newPassword').value;
+      const p2 = document.getElementById('confirmPassword').value;
+
+      if (p1 !== p2) {
+        alert('Las contraseñas no coinciden.');
+        return;
+      }
+
+      try {
+        const res = await fetch('/api/change-password', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+            'Authorization': `Bearer ${token}`
+          },
+          body: JSON.stringify({ new_password: p1 })
+        });
+        const data = await res.json();
+        if (data.ok) {
+          token = data.token;
+          sessionStorage.setItem('umami_admin_token', token);
+          document.getElementById('newPassword').value = '';
+          document.getElementById('confirmPassword').value = '';
+          showToast('🔑 Contraseña actualizada correctamente.');
+        } else {
+          alert('Error: ' + data.error);
+        }
+      } catch (err) {
+        alert('Error conectando con el servidor');
+      }
+    }
+
+    function showToast(msg) {
+      const t = document.getElementById('toastBox');
+      t.textContent = msg;
+      t.style.display = 'block';
+      setTimeout(() => { t.style.display = 'none'; }, 3500);
+    }
+
+    init();
+  </script>
+</body>
+</html>
