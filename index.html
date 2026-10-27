@@ -2,9 +2,10 @@
 <html lang="es" data-theme="light">
 <head>
   <meta charset="UTF-8">
+  <base href="/">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Recetas del Mundo y Cocktails de Autor Paso a Paso | UmamiCraft</title>
-  <meta name="description" content="Descubre 299 recetas internacionales tradicionales y cocktails de autor explicados paso a paso con ingredientes exactos, fotos en alta definición, tiempos, porciones y calorías.">
+  <meta name="description" content="Descubre 300 recetas internacionales tradicionales y cocktails de autor explicados paso a paso con ingredientes exactos, fotos en alta definición, tiempos, porciones y calorías.">
   <meta property="og:type" content="website">
   <meta property="og:title" content="Recetas del Mundo y Cocktails de Autor Paso a Paso | UmamiCraft">
   <meta property="og:description" content="Descubre 299 recetas internacionales tradicionales y cocktails de autor explicados paso a paso con ingredientes exactos, fotos en alta definición, tiempos, porciones y calorías.">
@@ -1262,7 +1263,7 @@
 
   <header>
     <div class="nav-container">
-      <div class="brand" onclick="resetAll()">
+      <div class="brand" onclick="goHome()" style="cursor:pointer;" title="Volver al inicio">
         <div class="brand-text">
           <h1>Umami<span>Craft</span></h1>
           <div class="brand-subtitle">COLECCIÓN GASTRONÓMICA & COCKTAILS DE AUTOR</div>
@@ -1533,7 +1534,7 @@
       updateFavBadge();
 
       try {
-        const res = await fetch('recetas_pro.json?v=' + Date.now());
+        const res = await fetch('/recetas_pro.json?v=' + Date.now());
         const serverRecipes = await res.json();
 
         // Check if user has local edits saved in browser storage
@@ -1565,17 +1566,26 @@
         const urlParams = new URLSearchParams(window.location.search);
         let querySlug = urlParams.get('receta') || urlParams.get('r');
         if (!querySlug && window.location.pathname.includes('/receta/')) {
-          querySlug = window.location.pathname.split('/receta/')[1].replace(/\/$/, '');
+          querySlug = window.location.pathname.split('/receta/')[1];
+        } else if (!querySlug && window.location.pathname.includes('/recetas/')) {
+          querySlug = window.location.pathname.split('/recetas/')[1];
         } else if (!querySlug && window.location.pathname.includes('/r/')) {
-          querySlug = window.location.pathname.split('/r/')[1].replace(/\/$/, '');
+          querySlug = window.location.pathname.split('/r/')[1];
         }
-        if (querySlug && slugToRecipeMap[querySlug]) {
-          setTimeout(() => openModal(slugToRecipeMap[querySlug].id, false), 150);
+        if (querySlug) {
+          querySlug = querySlug.split('#')[0].split('?')[0].replace(/\/$/, '');
+          try { querySlug = decodeURIComponent(querySlug).trim(); } catch(e) {}
+          const targetRecipe = slugToRecipeMap[querySlug] ||
+                               recipes.find(x => String(x.id) === querySlug) ||
+                               recipes.find(x => makeSlug(x.title) === querySlug);
+          if (targetRecipe) {
+            openModal(targetRecipe.id, false);
+          }
         } else {
           const hash = window.location.hash;
           if (hash && hash.startsWith('#receta-')) {
             const targetId = parseInt(hash.replace('#receta-', ''), 10);
-            if (targetId) setTimeout(() => openModal(targetId, true), 150);
+            if (targetId) openModal(targetId, true);
           }
         }
       } catch (err) {
@@ -1813,21 +1823,35 @@
       });
     }
 
+    function goHome() {
+      if (currentModalRecipeId) closeModal(false);
+      resetAll();
+      const homePath = (currentLang && currentLang !== 'es') ? `/?lang=${currentLang}` : '/';
+      history.pushState(null, '', homePath);
+      document.title = defaultDocTitle;
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+
     function resetAll() {
       document.getElementById('searchInput').value = '';
       document.getElementById('categorySelect').value = 'all';
       document.getElementById('countrySelect').value = 'all';
       document.getElementById('dietSelect').value = 'all';
-      document.getElementById('sortSelect').value = 'id_asc';
+      document.getElementById('sortSelect').value = 'id_desc';
       onlyFavorites = false;
       currentQuickTag = 'all';
+      visibleCount = RECIPES_PER_PAGE;
       updateFavBadge();
       updateChips();
-      renderRecipes();
+      renderRecipes(true);
       window.scrollTo({ top: 0, behavior: 'smooth' });
     }
 
-    function renderRecipes() {
+    const RECIPES_PER_PAGE = 24;
+    let visibleCount = 24;
+
+    function renderRecipes(resetPagination = true) {
+      if (resetPagination) visibleCount = RECIPES_PER_PAGE;
       const query = document.getElementById('searchInput').value.toLowerCase().trim();
       const selectedCat = document.getElementById('categorySelect').value;
       const selectedCountry = document.getElementById('countrySelect').value;
@@ -1877,9 +1901,10 @@
         filtered.sort((a, b) => b.id - a.id);
       }
 
-      document.getElementById('resultsCount').textContent = `Mostrando ${filtered.length} de ${recipes.length} recetas`;
+      const toRender = filtered.slice(0, visibleCount);
+      document.getElementById('resultsCount').textContent = `Mostrando ${toRender.length} de ${filtered.length} recetas${filtered.length < recipes.length ? ` (filtradas de ${recipes.length})` : ''}`;
 
-      grid.innerHTML = filtered.map(r => {
+      grid.innerHTML = toRender.map(r => {
         const country = getCountry(r);
         const category = getCategory(r);
         const isFav = favorites.includes(r.id);
@@ -1910,6 +1935,34 @@
           </article>
         `;
       }).join('');
+
+      let loadMoreBox = document.getElementById('loadMoreContainer');
+      if (!loadMoreBox) {
+        loadMoreBox = document.createElement('div');
+        loadMoreBox.id = 'loadMoreContainer';
+        loadMoreBox.style.cssText = 'text-align:center; margin: 36px 0 24px; width: 100%;';
+        grid.parentNode.insertBefore(loadMoreBox, grid.nextSibling);
+      }
+
+      if (visibleCount < filtered.length) {
+        const remaining = filtered.length - visibleCount;
+        const nextBatch = Math.min(RECIPES_PER_PAGE, remaining);
+        loadMoreBox.innerHTML = `
+          <button type="button" class="btn-hero-main" onclick="loadMoreRecipes()" style="display:inline-flex; align-items:center; gap:10px; margin:0 auto; padding: 13px 32px; font-size: 0.95rem; font-weight: 700; border-radius: 99px; box-shadow: var(--shadow-sm); cursor: pointer;">
+            <span>🍽️ Mostrar más recetas</span>
+            <span style="background:rgba(255,255,255,0.25); padding:2px 8px; border-radius:12px; font-size:0.8rem;">+${nextBatch}</span>
+          </button>
+        `;
+        loadMoreBox.style.display = 'block';
+      } else {
+        loadMoreBox.innerHTML = '';
+        loadMoreBox.style.display = 'none';
+      }
+    }
+
+    function loadMoreRecipes() {
+      visibleCount += RECIPES_PER_PAGE;
+      renderRecipes(false);
     }
 
     /* =========================================================================
