@@ -1513,11 +1513,13 @@
       // Load saved theme
       const savedTheme = localStorage.getItem('umamicraft_theme') || 'light';
       document.documentElement.setAttribute('data-theme', savedTheme);
-      document.getElementById('themeToggleBtn').textContent = savedTheme === 'dark' ? '☀️' : '🌙';
+      const themeBtn = document.getElementById('themeToggleBtn');
+      if (themeBtn) themeBtn.textContent = savedTheme === 'dark' ? '☀️' : '🌙';
 
-      // Load saved GitHub token if any
+      // Load saved GitHub token if any (solo si el input existe en pantalla)
       const savedToken = localStorage.getItem('umamicraft_gh_token') || '';
-      if (savedToken) document.getElementById('githubTokenInput').value = savedToken;
+      const ghInput = document.getElementById('githubTokenInput');
+      if (savedToken && ghInput) ghInput.value = savedToken;
 
       updateFavBadge();
 
@@ -1528,13 +1530,19 @@
         // Check if user has local edits saved in browser storage
         const localEdits = localStorage.getItem('umamicraft_custom_recipes');
         if (localEdits) {
-          recipes = JSON.parse(localEdits);
-          document.getElementById('localChangesNotice').style.display = 'inline';
+          try {
+            recipes = JSON.parse(localEdits);
+            const notice = document.getElementById('localChangesNotice');
+            if (notice) notice.style.display = 'inline';
+          } catch(e) {
+            recipes = serverRecipes;
+          }
         } else {
           recipes = serverRecipes;
         }
 
-        document.getElementById('totalCountChip').textContent = `(${recipes.length})`;
+        const totalChip = document.getElementById('totalCountChip');
+        if (totalChip) totalChip.textContent = `(${recipes.length})`;
         const sortDescOpt = document.querySelector('#sortSelect option[value="id_desc"]');
         if (sortDescOpt) sortDescOpt.textContent = `✨ Más recientes primero (#${recipes.length}–#1)`;
         const sortAscOpt = document.querySelector('#sortSelect option[value="id_asc"]');
@@ -2371,12 +2379,11 @@
         openShareModal(`Compartir: ${r.title}`, `Envía esta receta por WhatsApp, redes o copia el link:`, url);
       }
     }
-    }
 
     function shareSiteModal() {
       const url = `${window.location.origin}${window.location.pathname}`;
       const title = 'UmamiCraft — Recetario de Autor';
-      const text = 'Te comparto UmamiCraft: colección de 256 recetas del mundo y cocktails de autor curados con técnicas, tiempos y calorías.';
+      const text = `Te comparto UmamiCraft: colección de ${recipes.length || 279} recetas del mundo y cocktails de autor curados con técnicas, tiempos y calorías.`;
 
       if (navigator.share && /mobile|android|iphone|ipad/i.test(navigator.userAgent)) {
         navigator.share({ title, text, url }).catch(() => {});
