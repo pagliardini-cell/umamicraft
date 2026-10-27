@@ -68,7 +68,7 @@ module.exports = (req, res) => {
       const title = `Receta de ${recipe.title} | UmamiCraft`;
       const desc = recipe.story ? recipe.story.slice(0, 155).trim() + '...' : 'Receta tradicional curada paso a paso en UmamiCraft.';
       const imgUrl = recipe.image.startsWith('http') ? recipe.image : `https://umamicraft.vercel.app/${recipe.image}`;
-      const pageUrl = `https://umamicraft.vercel.app/?receta=${foundSlug}`;
+      const pageUrl = `https://umamicraft.vercel.app/receta/${foundSlug}`;
 
       const ingredients = [];
       if (recipe.ingredient_groups) {
