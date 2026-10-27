@@ -2,24 +2,16 @@
   "cleanUrls": true,
   "rewrites": [
     {
-      "source": "/",
-      "has": [
-        {
-          "type": "query",
-          "key": "receta"
-        }
-      ],
-      "destination": "/api/index"
+      "source": "/receta/:slug",
+      "destination": "/api/index?receta=:slug"
     },
     {
-      "source": "/",
-      "has": [
-        {
-          "type": "query",
-          "key": "r"
-        }
-      ],
-      "destination": "/api/index"
+      "source": "/recetas/:slug",
+      "destination": "/api/index?receta=:slug"
+    },
+    {
+      "source": "/r/:slug",
+      "destination": "/api/index?receta=:slug"
     }
   ]
 }

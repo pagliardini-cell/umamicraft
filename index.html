@@ -1556,9 +1556,14 @@
         renderHero();
         renderRecipes();
 
-        // Check deep link: primero por parámetro ?receta=slug (100% dinámico SEO) y fallback a #receta-ID
+        // Check deep link: por ruta limpia /receta/slug, por parámetro ?receta=slug o fallback a #receta-ID
         const urlParams = new URLSearchParams(window.location.search);
-        const querySlug = urlParams.get('receta') || urlParams.get('r');
+        let querySlug = urlParams.get('receta') || urlParams.get('r');
+        if (!querySlug && window.location.pathname.includes('/receta/')) {
+          querySlug = window.location.pathname.split('/receta/')[1].replace(/\/$/, '');
+        } else if (!querySlug && window.location.pathname.includes('/r/')) {
+          querySlug = window.location.pathname.split('/r/')[1].replace(/\/$/, '');
+        }
         if (querySlug && slugToRecipeMap[querySlug]) {
           setTimeout(() => openModal(slugToRecipeMap[querySlug].id, false), 150);
         } else {
@@ -2314,9 +2319,9 @@
 
       const slug = idToSlugMap[id];
       if (updateHistory) {
-        let queryUrl = slug ? `?receta=${slug}` : `?receta=${id}`;
-        if (currentLang && currentLang !== 'es') queryUrl += `&lang=${currentLang}`;
-        history.pushState({ modalRecipeId: id }, '', queryUrl);
+        let cleanPath = slug ? `/receta/${slug}` : `/?receta=${id}`;
+        if (currentLang && currentLang !== 'es') cleanPath += `?lang=${currentLang}`;
+        history.pushState({ modalRecipeId: id }, '', cleanPath);
       }
     }
 
@@ -2327,7 +2332,7 @@
       currentModalRecipeId = null;
 
       if (updateHistory) {
-        const backUrl = (currentLang && currentLang !== 'es') ? `${window.location.pathname}?lang=${currentLang}` : window.location.pathname;
+        const backUrl = (currentLang && currentLang !== 'es') ? `/?lang=${currentLang}` : '/';
         history.pushState(null, '', backUrl);
       }
       removeRecipeSchema();
@@ -2341,7 +2346,12 @@
     // Navegación nativa con historial del navegador (Atrás / Adelante)
     window.addEventListener('popstate', (e) => {
       const urlParams = new URLSearchParams(window.location.search);
-      const querySlug = urlParams.get('receta') || urlParams.get('r');
+      let querySlug = urlParams.get('receta') || urlParams.get('r');
+      if (!querySlug && window.location.pathname.includes('/receta/')) {
+        querySlug = window.location.pathname.split('/receta/')[1].replace(/\/$/, '');
+      } else if (!querySlug && window.location.pathname.includes('/r/')) {
+        querySlug = window.location.pathname.split('/r/')[1].replace(/\/$/, '');
+      }
       if (querySlug && slugToRecipeMap[querySlug]) {
         openModal(slugToRecipeMap[querySlug].id, false);
       } else if (document.getElementById('recipeModal').classList.contains('open')) {
@@ -2373,7 +2383,8 @@
       const r = recipes.find(x => x.id === currentModalRecipeId);
       if (!r) return;
       const slug = idToSlugMap[r.id] || r.id;
-      const url = `${window.location.origin}${window.location.pathname}?receta=${slug}`;
+      const langParam = (currentLang && currentLang !== 'es') ? `?lang=${currentLang}` : '';
+      const url = `${window.location.origin}/receta/${slug}${langParam}`;
       const title = `Receta de ${r.title}`;
       const text = `¡Mira esta increíble receta de ${r.title} (${getCountry(r)}) en UmamiCraft!`;
 
