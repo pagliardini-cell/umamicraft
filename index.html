@@ -1,48 +1,87 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="es" data-theme="light">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>UmamiCraft - Recetario Gastronómico & Cocktails de Autor</title>
+  <title>UmamiCraft — Alta Cocina, Recetario del Mundo & Cocktails de Autor</title>
+  <meta name="description" content="UmamiCraft — Archivo gastronómico de autor con 256 recetas del mundo y cocktails curados 1 a 1 con técnicas, tiempos, calorías y fotografías en alta definición.">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="UmamiCraft — Alta Cocina, Recetario del Mundo & Cocktails de Autor">
+  <meta property="og:description" content="256 recetas del mundo curadas 1 a 1 con técnicas, ingredientes, pasos e historia.">
+  <meta name="twitter:card" content="summary_large_image">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,600;0,800;1,600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,600;0,700;0,800;1,600&display=swap" rel="stylesheet">
   <style>
     :root {
-      --primary: #ea580c;
-      --primary-light: #fff7ed;
-      --primary-border: #fed7aa;
-      --accent: #0f172a;
-      --bg: #f8fafc;
-      --card-bg: #ffffff;
-      --text: #1e293b;
-      --text-muted: #64748b;
-      --border: #e2e8f0;
-      --radius: 16px;
+      --bg: #faf7f2;
+      --bg-elevated: #ffffff;
+      --bg-subtle: #f3ede2;
+      --surface-glass: rgba(250, 247, 242, 0.88);
+      --text: #1c1917;
+      --text-secondary: #57534e;
+      --text-muted: #78716c;
+      --primary: #c2410c;
+      --primary-hover: #9a3412;
+      --primary-soft: #ffedd5;
+      --gold: #d97706;
+      --accent-dark: #1c1917;
+      --border: #e7e0d3;
+      --border-strong: #d6cbb9;
+      --shadow-sm: 0 2px 10px rgba(28, 25, 23, 0.05);
+      --shadow-md: 0 12px 32px rgba(28, 25, 23, 0.08);
+      --shadow-lg: 0 24px 60px rgba(28, 25, 23, 0.18);
+      --radius-sm: 10px;
+      --radius-md: 16px;
+      --radius-lg: 24px;
+    }
+
+    [data-theme="dark"] {
+      --bg: #0f0e0d;
+      --bg-elevated: #1c1917;
+      --bg-subtle: #26221f;
+      --surface-glass: rgba(28, 25, 23, 0.88);
+      --text: #f5f5f4;
+      --text-secondary: #d6d3d1;
+      --text-muted: #a8a29e;
+      --primary: #f97316;
+      --primary-hover: #fb923c;
+      --primary-soft: rgba(249, 115, 22, 0.16);
+      --gold: #f59e0b;
+      --accent-dark: #fafaf9;
+      --border: #292524;
+      --border-strong: #44403c;
+      --shadow-sm: 0 2px 10px rgba(0, 0, 0, 0.3);
+      --shadow-md: 0 12px 32px rgba(0, 0, 0, 0.45);
+      --shadow-lg: 0 24px 60px rgba(0, 0, 0, 0.7);
     }
 
     * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
     body {
       font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
       background-color: var(--bg);
       color: var(--text);
       line-height: 1.6;
       overflow-x: hidden;
+      transition: background-color 0.25s ease, color 0.25s ease;
     }
 
+    /* Top Navigation */
     header {
-      background: rgba(255, 255, 255, 0.95);
-      backdrop-filter: blur(8px);
+      background: var(--surface-glass);
+      backdrop-filter: blur(14px);
+      -webkit-backdrop-filter: blur(14px);
       border-bottom: 1px solid var(--border);
       position: sticky;
       top: 0;
-      z-index: 100;
+      z-index: 200;
     }
 
     .nav-container {
-      max-width: 1240px;
+      max-width: 1340px;
       margin: 0 auto;
-      padding: 14px 24px;
+      padding: 14px 28px;
       display: flex;
       justify-content: space-between;
       align-items: center;
@@ -53,147 +92,381 @@
     .brand {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 14px;
       text-decoration: none;
-      color: var(--accent);
+      color: var(--text);
       cursor: pointer;
     }
 
-    .brand-icon { font-size: 28px; }
     .brand-text h1 {
-      font-size: 1.4rem;
-      font-weight: 800;
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 1.95rem;
+      font-weight: 700;
       letter-spacing: -0.5px;
+      line-height: 1.05;
     }
-    .brand-text span { color: var(--primary); }
+
+    .brand-text h1 span {
+      color: var(--primary);
+      font-family: 'Playfair Display', Georgia, serif;
+      font-weight: 700;
+    }
+
     .brand-subtitle {
-      font-size: 0.78rem;
+      font-size: 0.65rem;
       color: var(--text-muted);
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      margin-top: 3px;
+    }
+
+    .nav-actions {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    .btn-nav {
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      padding: 9px 15px;
+      border-radius: 999px;
+      border: 1px solid var(--border-strong);
+      background: var(--bg-elevated);
+      color: var(--text);
+      font-family: inherit;
+      font-size: 0.84rem;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 0.18s ease;
+    }
+
+    .btn-nav:hover {
+      border-color: var(--primary);
+      color: var(--primary);
+      transform: translateY(-1px);
+    }
+
+    .btn-nav.active {
+      background: var(--primary);
+      color: white;
+      border-color: var(--primary);
+    }
+
+    .btn-primary {
+      background: linear-gradient(135deg, #ea580c, #c2410c);
+      color: white !important;
+      border: none !important;
+      box-shadow: 0 4px 14px rgba(194, 65, 12, 0.28);
+    }
+
+    .btn-primary:hover {
+      filter: brightness(1.08);
+      transform: translateY(-1px);
+    }
+
+    /* Editorial Hero Banner */
+    .hero-section {
+      max-width: 1340px;
+      margin: 26px auto 12px;
+      padding: 0 28px;
+    }
+
+    .hero-card {
+      position: relative;
+      border-radius: var(--radius-lg);
+      overflow: hidden;
+      min-height: 410px;
+      display: grid;
+      grid-template-columns: 1.15fr 0.85fr;
+      background: #141210;
+      color: #fafaf9;
+      box-shadow: var(--shadow-md);
+      border: 1px solid var(--border);
+    }
+
+    @media (max-width: 920px) {
+      .hero-card {
+        grid-template-columns: 1fr;
+        min-height: auto;
+      }
+      .hero-img-col {
+        height: 260px;
+        order: -1;
+      }
+    }
+
+    .hero-content-col {
+      padding: 42px 44px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      z-index: 2;
+      background: radial-gradient(circle at top left, rgba(234, 88, 12, 0.15), transparent 60%);
+    }
+
+    @media (max-width: 600px) {
+      .hero-content-col { padding: 26px 22px; }
+    }
+
+    .hero-kicker {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      font-size: 0.76rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      color: #fb923c;
+      margin-bottom: 12px;
+    }
+
+    .hero-title {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(1.85rem, 3.2vw, 2.75rem);
+      font-weight: 800;
+      line-height: 1.15;
+      margin-bottom: 14px;
+      color: #ffffff;
+    }
+
+    .hero-story {
+      color: #d6d3d1;
+      font-size: 0.96rem;
+      line-height: 1.65;
+      margin-bottom: 22px;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .hero-specs {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 14px;
+      margin-bottom: 26px;
+      font-size: 0.84rem;
+      color: #e7e5e4;
       font-weight: 600;
     }
 
-    /* Controls & Filters */
-    .controls-wrapper {
-      max-width: 1240px;
-      margin: 24px auto 0;
-      padding: 0 24px;
-      display: flex;
-      flex-direction: column;
-      gap: 14px;
+    .hero-specs span {
+      background: rgba(255, 255, 255, 0.09);
+      padding: 5px 12px;
+      border-radius: 8px;
+      border: 1px solid rgba(255, 255, 255, 0.12);
     }
 
-    .search-row {
-      display: grid;
-      grid-template-columns: 1fr auto auto auto;
+    .hero-btns {
+      display: flex;
+      flex-wrap: wrap;
       gap: 12px;
     }
 
-    @media (max-width: 900px) {
-      .search-row {
+    .btn-hero-main {
+      background: #ea580c;
+      color: white;
+      border: none;
+      padding: 12px 22px;
+      border-radius: 12px;
+      font-weight: 700;
+      font-size: 0.92rem;
+      cursor: pointer;
+      transition: all 0.2s;
+      font-family: inherit;
+    }
+
+    .btn-hero-main:hover { background: #f97316; transform: translateY(-2px); }
+
+    .btn-hero-sec {
+      background: rgba(255, 255, 255, 0.1);
+      color: white;
+      border: 1px solid rgba(255, 255, 255, 0.22);
+      padding: 12px 18px;
+      border-radius: 12px;
+      font-weight: 600;
+      font-size: 0.9rem;
+      cursor: pointer;
+      transition: all 0.2s;
+      font-family: inherit;
+    }
+
+    .btn-hero-sec:hover { background: rgba(255, 255, 255, 0.18); }
+
+    .hero-img-col {
+      position: relative;
+      overflow: hidden;
+      min-height: 320px;
+    }
+
+    .hero-img-col img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.6s ease;
+    }
+
+    .hero-card:hover .hero-img-col img {
+      transform: scale(1.04);
+    }
+
+    .hero-img-col::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(90deg, #141210 0%, rgba(20, 18, 16, 0.2) 40%, transparent 100%);
+    }
+
+    @media (max-width: 920px) {
+      .hero-img-col::after {
+        background: linear-gradient(0deg, #141210 0%, transparent 60%);
+      }
+    }
+
+    /* Search & Filter Command Bar */
+    .controls-wrapper {
+      max-width: 1340px;
+      margin: 22px auto 0;
+      padding: 0 28px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    .command-bar {
+      background: var(--bg-elevated);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      padding: 14px;
+      box-shadow: var(--shadow-sm);
+      display: grid;
+      grid-template-columns: 1.5fr repeat(4, auto);
+      gap: 10px;
+      align-items: center;
+    }
+
+    @media (max-width: 1080px) {
+      .command-bar {
         grid-template-columns: 1fr 1fr;
       }
-      .search-input-box {
-        grid-column: 1 / -1;
-      }
+      .search-input-box { grid-column: 1 / -1; }
     }
 
-    @media (max-width: 560px) {
-      .search-row {
-        grid-template-columns: 1fr;
-      }
+    @media (max-width: 580px) {
+      .command-bar { grid-template-columns: 1fr; }
     }
 
-    .search-input-box {
-      position: relative;
-    }
+    .search-input-box { position: relative; }
 
     .search-input {
       width: 100%;
-      padding: 13px 18px 13px 44px;
-      border-radius: 12px;
-      border: 1.5px solid var(--border);
-      font-size: 0.95rem;
+      padding: 12px 16px 12px 42px;
+      border-radius: 10px;
+      border: 1px solid var(--border);
+      font-size: 0.94rem;
       font-family: inherit;
+      color: var(--text);
+      background: var(--bg);
       outline: none;
       transition: border-color 0.2s, box-shadow 0.2s;
-      background: white;
     }
 
     .search-input:focus {
       border-color: var(--primary);
-      box-shadow: 0 0 0 3px rgba(234, 88, 12, 0.1);
+      box-shadow: 0 0 0 3px var(--primary-soft);
     }
 
     .search-icon {
       position: absolute;
-      left: 15px;
+      left: 14px;
       top: 50%;
       transform: translateY(-50%);
       color: var(--text-muted);
-      font-size: 17px;
+      font-size: 16px;
     }
 
     .filter-select {
-      padding: 13px 16px;
-      border-radius: 12px;
-      border: 1.5px solid var(--border);
-      font-size: 0.92rem;
+      padding: 12px 14px;
+      border-radius: 10px;
+      border: 1px solid var(--border);
+      font-size: 0.88rem;
       font-family: inherit;
       font-weight: 600;
-      color: var(--accent);
-      background: white;
+      color: var(--text);
+      background: var(--bg);
       cursor: pointer;
       outline: none;
       transition: border-color 0.2s;
     }
 
-    .filter-select:focus {
-      border-color: var(--primary);
+    .filter-select:focus { border-color: var(--primary); }
+
+    /* Category Pills & Country Flags */
+    .chips-section {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
     }
 
     .quick-chips-row {
       display: flex;
       flex-wrap: wrap;
-      gap: 8px;
+      gap: 7px;
       align-items: center;
     }
 
     .chip-label {
-      font-size: 0.78rem;
-      font-weight: 700;
+      font-size: 0.74rem;
+      font-weight: 800;
       color: var(--text-muted);
       text-transform: uppercase;
-      letter-spacing: 0.5px;
+      letter-spacing: 0.8px;
       margin-right: 4px;
     }
 
     .chip {
-      background: white;
+      background: var(--bg-elevated);
       border: 1px solid var(--border);
       padding: 6px 13px;
-      border-radius: 9999px;
-      font-size: 0.83rem;
+      border-radius: 999px;
+      font-size: 0.81rem;
       font-weight: 600;
-      color: var(--text);
+      color: var(--text-secondary);
       cursor: pointer;
-      transition: all 0.15s;
+      transition: all 0.16s ease;
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
     }
 
     .chip:hover {
       border-color: var(--primary);
       color: var(--primary);
+      transform: translateY(-1px);
     }
 
     .chip.active {
       background: var(--primary);
       color: white;
       border-color: var(--primary);
+      box-shadow: 0 3px 10px rgba(194, 65, 12, 0.25);
     }
 
+    .chip-count {
+      font-size: 0.7rem;
+      opacity: 0.8;
+      font-weight: 700;
+    }
+
+    /* Main Content & Grid */
     main {
-      max-width: 1240px;
-      margin: 22px auto 60px;
-      padding: 0 24px;
+      max-width: 1340px;
+      margin: 22px auto 80px;
+      padding: 0 28px;
     }
 
     .stats-bar {
@@ -204,38 +477,40 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
+      flex-wrap: wrap;
+      gap: 10px;
     }
 
-    /* Recipe Grid */
     .recipe-grid {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
-      gap: 24px;
+      gap: 26px;
     }
 
     .recipe-card {
-      background: var(--card-bg);
-      border-radius: var(--radius);
+      background: var(--bg-elevated);
+      border-radius: var(--radius-md);
       overflow: hidden;
       border: 1px solid var(--border);
       display: flex;
       flex-direction: column;
       cursor: pointer;
-      transition: transform 0.2s, box-shadow 0.2s;
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03);
+      transition: transform 0.24s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.24s ease, border-color 0.2s ease;
+      box-shadow: var(--shadow-sm);
+      position: relative;
     }
 
     .recipe-card:hover {
-      transform: translateY(-4px);
-      box-shadow: 0 14px 28px rgba(15, 23, 42, 0.09);
-      border-color: #cbd5e1;
+      transform: translateY(-6px);
+      box-shadow: var(--shadow-md);
+      border-color: var(--border-strong);
     }
 
     .card-img-wrapper {
       position: relative;
       width: 100%;
-      height: 215px;
-      background: #e2e8f0;
+      height: 225px;
+      background: #26221f;
       overflow: hidden;
     }
 
@@ -243,41 +518,89 @@
       width: 100%;
       height: 100%;
       object-fit: cover;
-      transition: transform 0.35s ease;
+      transition: transform 0.5s ease;
     }
 
     .recipe-card:hover .card-img {
-      transform: scale(1.04);
+      transform: scale(1.06);
+    }
+
+    .card-img-wrapper::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(180deg, rgba(0,0,0,0.28) 0%, transparent 40%, rgba(0,0,0,0.55) 100%);
+      pointer-events: none;
+    }
+
+    .flag-img {
+      width: 18px;
+      height: 13px;
+      object-fit: cover;
+      border-radius: 2px;
+      display: inline-block;
+      vertical-align: -1px;
+      margin-right: 5px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.3);
     }
 
     .card-badge-country {
       position: absolute;
       top: 12px;
       left: 12px;
-      background: rgba(15, 23, 42, 0.86);
-      color: white;
-      padding: 4px 10px;
-      border-radius: 8px;
-      font-size: 0.75rem;
+      z-index: 2;
+      background: rgba(20, 18, 16, 0.85);
+      color: #fff;
+      padding: 5px 11px;
+      border-radius: 999px;
+      font-size: 0.74rem;
       font-weight: 700;
-      backdrop-filter: blur(4px);
+      backdrop-filter: blur(6px);
+      border: 1px solid rgba(255,255,255,0.14);
+      display: inline-flex;
+      align-items: center;
     }
+
+    .card-fav-btn {
+      position: absolute;
+      top: 12px;
+      right: 12px;
+      z-index: 3;
+      width: 34px;
+      height: 34px;
+      border-radius: 50%;
+      background: rgba(20, 18, 16, 0.75);
+      border: 1px solid rgba(255,255,255,0.18);
+      color: white;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 15px;
+      cursor: pointer;
+      backdrop-filter: blur(4px);
+      transition: transform 0.15s, background 0.15s;
+    }
+
+    .card-fav-btn:hover { transform: scale(1.12); }
+    .card-fav-btn.fav-active { background: #e11d48; border-color: #fda4af; }
 
     .card-badge-cat {
       position: absolute;
-      bottom: 10px;
-      right: 10px;
-      background: rgba(255, 255, 255, 0.94);
-      color: var(--primary);
+      bottom: 12px;
+      left: 12px;
+      z-index: 2;
+      background: var(--primary);
+      color: #fff;
       padding: 3px 10px;
       border-radius: 6px;
-      font-size: 0.74rem;
+      font-size: 0.71rem;
       font-weight: 800;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.12);
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
     }
 
     .card-body {
-      padding: 18px 20px;
+      padding: 20px 22px;
       display: flex;
       flex-direction: column;
       flex-grow: 1;
@@ -285,18 +608,18 @@
 
     .card-title {
       font-family: 'Playfair Display', serif;
-      font-size: 1.22rem;
+      font-size: 1.26rem;
       font-weight: 700;
-      color: var(--accent);
+      color: var(--text);
       margin-bottom: 8px;
-      line-height: 1.32;
+      line-height: 1.3;
     }
 
     .card-story {
-      color: var(--text-muted);
+      color: var(--text-secondary);
       font-size: 0.87rem;
-      line-height: 1.5;
-      margin-bottom: 14px;
+      line-height: 1.55;
+      margin-bottom: 16px;
       display: -webkit-box;
       -webkit-line-clamp: 2;
       -webkit-box-orient: vertical;
@@ -307,43 +630,40 @@
       display: flex;
       flex-wrap: wrap;
       gap: 6px;
-      margin-bottom: 12px;
+      margin-bottom: 14px;
     }
 
     .mini-pill {
-      font-size: 0.73rem;
+      font-size: 0.72rem;
       font-weight: 600;
-      background: #f1f5f9;
-      color: #475569;
-      padding: 2px 8px;
+      background: var(--bg-subtle);
+      color: var(--text-secondary);
+      padding: 3px 9px;
       border-radius: 6px;
     }
 
     .card-footer {
       margin-top: auto;
       padding-top: 12px;
-      border-top: 1px solid #f1f5f9;
+      border-top: 1px solid var(--border);
       display: flex;
       justify-content: space-between;
       align-items: center;
-      font-size: 0.82rem;
+      font-size: 0.81rem;
       font-weight: 700;
       color: var(--primary);
     }
 
-    /* Modal */
+    /* Recipe Detail Modal */
     .modal-backdrop {
       display: none;
       position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      background: rgba(15, 23, 42, 0.72);
-      backdrop-filter: blur(4px);
+      inset: 0;
+      background: rgba(12, 10, 9, 0.78);
+      backdrop-filter: blur(6px);
       z-index: 1000;
       overflow-y: auto;
-      padding: 24px 16px;
+      padding: 28px 16px;
       align-items: flex-start;
       justify-content: center;
     }
@@ -351,24 +671,89 @@
     .modal-backdrop.open { display: flex; }
 
     .modal-card {
-      background: white;
-      max-width: 880px;
+      background: var(--bg-elevated);
+      color: var(--text);
+      max-width: 940px;
       width: 100%;
-      border-radius: 20px;
+      border-radius: var(--radius-lg);
       overflow: hidden;
-      box-shadow: 0 25px 50px rgba(0, 0, 0, 0.28);
+      box-shadow: var(--shadow-lg);
+      border: 1px solid var(--border);
       position: relative;
-      margin: 20px auto;
+      margin: 12px auto 40px;
+    }
+
+    .modal-hero-wrap {
+      position: relative;
+      width: 100%;
+      height: 420px;
+      background: #1c1917;
+    }
+
+    @media (max-width: 600px) {
+      .modal-hero-wrap { height: 280px; }
+    }
+
+    .modal-hero-img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+
+    .modal-hero-wrap::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(180deg, rgba(0,0,0,0.45) 0%, transparent 35%, rgba(15,14,13,0.88) 100%);
+    }
+
+    .modal-top-bar {
+      position: absolute;
+      top: 18px;
+      left: 18px;
+      right: 18px;
+      z-index: 10;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .modal-actions-left {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .modal-action-btn {
+      background: rgba(20, 18, 16, 0.78);
+      color: white;
+      border: 1px solid rgba(255,255,255,0.2);
+      padding: 8px 14px;
+      border-radius: 999px;
+      font-size: 0.8rem;
+      font-weight: 700;
+      cursor: pointer;
+      backdrop-filter: blur(6px);
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      font-family: inherit;
+      transition: all 0.15s;
+    }
+
+    .modal-action-btn:hover {
+      background: var(--primary);
+      border-color: var(--primary);
     }
 
     .modal-close {
-      position: absolute;
-      top: 16px;
-      right: 16px;
-      background: white;
-      border: 1px solid var(--border);
-      width: 40px;
-      height: 40px;
+      background: rgba(20, 18, 16, 0.82);
+      color: white;
+      border: 1px solid rgba(255,255,255,0.22);
+      width: 42px;
+      height: 42px;
       border-radius: 50%;
       display: flex;
       align-items: center;
@@ -376,25 +761,22 @@
       font-size: 18px;
       font-weight: bold;
       cursor: pointer;
-      z-index: 10;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.18);
-      transition: transform 0.15s;
+      transition: transform 0.15s, background 0.15s;
     }
 
-    .modal-close:hover { transform: scale(1.06); }
+    .modal-close:hover { transform: scale(1.08); background: #dc2626; }
 
-    .modal-hero-img {
-      width: 100%;
-      max-height: 430px;
-      object-fit: cover;
-      background: #1e293b;
-      display: block;
+    .modal-hero-OverlayText {
+      position: absolute;
+      bottom: 24px;
+      left: 34px;
+      right: 34px;
+      z-index: 5;
+      color: white;
     }
-
-    .modal-content-inner { padding: 32px; }
 
     @media (max-width: 600px) {
-      .modal-content-inner { padding: 20px; }
+      .modal-hero-OverlayText { left: 20px; right: 20px; bottom: 18px; }
     }
 
     .modal-badges-row {
@@ -405,143 +787,161 @@
     }
 
     .modal-meta-pill {
-      display: inline-block;
-      font-size: 0.82rem;
+      font-size: 0.78rem;
       font-weight: 800;
-      color: var(--primary);
-      background: var(--primary-light);
-      border: 1px solid var(--primary-border);
+      color: #fff;
+      background: var(--primary);
       padding: 4px 12px;
-      border-radius: 8px;
+      border-radius: 999px;
     }
 
     .diet-pill {
-      display: inline-block;
-      font-size: 0.78rem;
+      font-size: 0.75rem;
       font-weight: 700;
-      color: #065f46;
-      background: #ecfdf5;
-      border: 1px solid #a7f3d0;
+      color: #d1fae5;
+      background: rgba(6, 95, 70, 0.85);
+      border: 1px solid rgba(167, 243, 208, 0.4);
       padding: 4px 10px;
-      border-radius: 8px;
+      border-radius: 999px;
     }
 
     .modal-title {
       font-family: 'Playfair Display', serif;
-      font-size: 2.05rem;
+      font-size: clamp(1.65rem, 3vw, 2.35rem);
       font-weight: 800;
-      color: var(--accent);
-      line-height: 1.24;
-      margin-bottom: 18px;
+      color: #ffffff;
+      line-height: 1.2;
+      text-shadow: 0 2px 12px rgba(0,0,0,0.5);
+    }
+
+    .modal-content-inner { padding: 32px 36px 40px; }
+
+    @media (max-width: 600px) {
+      .modal-content-inner { padding: 22px 18px 28px; }
     }
 
     /* Technical Specs Bar */
     .specs-grid {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(135px, 1fr));
-      gap: 10px;
-      background: #f8fafc;
+      gap: 12px;
+      background: var(--bg);
       border: 1px solid var(--border);
-      border-radius: 14px;
-      padding: 14px 16px;
-      margin-bottom: 22px;
+      border-radius: var(--radius-md);
+      padding: 16px 18px;
+      margin-bottom: 24px;
     }
 
     .spec-box {
       display: flex;
       flex-direction: column;
-      gap: 2px;
+      gap: 3px;
     }
 
     .spec-label {
-      font-size: 0.72rem;
-      font-weight: 700;
+      font-size: 0.71rem;
+      font-weight: 800;
       text-transform: uppercase;
-      letter-spacing: 0.4px;
+      letter-spacing: 0.5px;
       color: var(--text-muted);
     }
 
     .spec-value {
-      font-size: 0.9rem;
+      font-size: 0.92rem;
       font-weight: 700;
-      color: var(--accent);
+      color: var(--text);
     }
 
     .story-box {
-      background: #fdfbf7;
+      background: var(--bg);
       border-left: 4px solid var(--primary);
-      padding: 16px 20px;
-      border-radius: 0 10px 10px 0;
-      margin-bottom: 26px;
-      font-size: 0.97rem;
-      color: #334155;
-      line-height: 1.65;
+      padding: 18px 22px;
+      border-radius: 0 12px 12px 0;
+      margin-bottom: 28px;
+      font-size: 0.98rem;
+      color: var(--text-secondary);
+      line-height: 1.7;
+      font-style: italic;
+    }
+
+    /* Two-column layout inside Modal on Desktop */
+    .recipe-columns {
+      display: grid;
+      grid-template-columns: 0.9fr 1.1fr;
+      gap: 32px;
+      align-items: start;
+    }
+
+    @media (max-width: 820px) {
+      .recipe-columns { grid-template-columns: 1fr; gap: 20px; }
     }
 
     .section-title {
-      font-size: 1.2rem;
+      font-family: 'Playfair Display', serif;
+      font-size: 1.35rem;
       font-weight: 800;
-      color: var(--accent);
-      margin: 28px 0 14px;
-      border-bottom: 2px solid #f1f5f9;
+      color: var(--text);
+      margin: 8px 0 14px;
+      border-bottom: 2px solid var(--border);
       padding-bottom: 8px;
       display: flex;
       align-items: center;
+      justify-content: space-between;
       gap: 8px;
     }
 
     .group-subtitle {
-      font-size: 0.96rem;
+      font-size: 0.85rem;
       font-weight: 800;
       color: var(--primary);
       margin: 16px 0 8px;
       text-transform: uppercase;
-      letter-spacing: 0.4px;
+      letter-spacing: 0.7px;
     }
 
     .ingredient-list {
       list-style: none;
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-      gap: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 7px;
       margin-bottom: 12px;
     }
 
     .ingredient-item {
-      background: #f8fafc;
+      background: var(--bg);
       border: 1px solid var(--border);
-      padding: 10px 14px;
+      padding: 10px 13px;
       border-radius: 10px;
-      font-size: 0.93rem;
+      font-size: 0.92rem;
       display: flex;
       align-items: flex-start;
       gap: 10px;
       cursor: pointer;
-      transition: background 0.15s, border-color 0.15s;
+      transition: all 0.15s;
     }
 
     .ingredient-item:hover {
-      border-color: #cbd5e1;
-      background: #f1f5f9;
+      border-color: var(--primary);
     }
 
     .ing-check {
       width: 18px;
       height: 18px;
-      border: 2px solid #94a3b8;
+      border: 2px solid var(--text-muted);
       border-radius: 5px;
       flex-shrink: 0;
       margin-top: 3px;
       display: flex;
       align-items: center;
       justify-content: center;
-      font-size: 12px;
-      color: white;
+      font-size: 11px;
+      color: transparent;
     }
 
     .ingredient-item.checked .ing-check {
       background: var(--primary);
       border-color: var(--primary);
+      color: white;
     }
 
     .ingredient-item.checked span {
@@ -561,47 +961,181 @@
     .step-item {
       display: flex;
       gap: 14px;
-      background: white;
-      padding: 15px 16px;
+      background: var(--bg);
+      padding: 16px;
       border-radius: 12px;
       border: 1px solid var(--border);
-      font-size: 0.96rem;
+      font-size: 0.95rem;
       line-height: 1.65;
+      cursor: pointer;
+      transition: border-color 0.15s, opacity 0.15s;
     }
+
+    .step-item:hover { border-color: var(--primary); }
+    .step-item.done { opacity: 0.55; }
+    .step-item.done .step-num { background: #16a34a; color: white; border-color: #16a34a; }
 
     .step-num {
       width: 30px;
       height: 30px;
       flex-shrink: 0;
-      background: var(--primary-light);
+      background: var(--primary-soft);
       color: var(--primary);
-      border: 1px solid var(--primary-border);
+      border: 1px solid var(--primary);
       border-radius: 50%;
       display: flex;
       align-items: center;
       justify-content: center;
       font-weight: 800;
-      font-size: 0.88rem;
+      font-size: 0.86rem;
     }
 
     .notes-box {
-      background: #fffbeb;
-      border: 1px solid #fde68a;
+      background: rgba(217, 119, 6, 0.1);
+      border: 1px solid rgba(217, 119, 6, 0.35);
+      border-radius: 14px;
+      padding: 18px 22px;
+      color: var(--text);
+      font-size: 0.94rem;
+      margin-top: 26px;
+      line-height: 1.65;
+    }
+
+    .related-section {
+      margin-top: 34px;
+      padding-top: 24px;
+      border-top: 1px solid var(--border);
+    }
+
+    .related-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 14px;
+      margin-top: 12px;
+    }
+
+    .related-mini-card {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      padding: 10px;
       border-radius: 12px;
-      padding: 16px 20px;
-      color: #92400e;
-      font-size: 0.95rem;
-      margin-top: 24px;
-      line-height: 1.6;
+      cursor: pointer;
+      transition: transform 0.15s, border-color 0.15s;
+    }
+
+    .related-mini-card:hover {
+      transform: translateY(-2px);
+      border-color: var(--primary);
+    }
+
+    .related-mini-card img {
+      width: 62px;
+      height: 62px;
+      border-radius: 8px;
+      object-fit: cover;
+      flex-shrink: 0;
+    }
+
+    /* Admin / Editor Modal (Alta y Modificación) */
+    .editor-form-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 14px;
+      margin-bottom: 18px;
+    }
+
+    @media (max-width: 680px) {
+      .editor-form-grid { grid-template-columns: 1fr; }
+    }
+
+    .form-group {
+      display: flex;
+      flex-direction: column;
+      gap: 5px;
+    }
+
+    .form-group.full { grid-column: 1 / -1; }
+
+    .form-group label {
+      font-size: 0.78rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      color: var(--text-muted);
+      letter-spacing: 0.5px;
+    }
+
+    .form-input, .form-textarea {
+      width: 100%;
+      padding: 10px 13px;
+      border-radius: 10px;
+      border: 1px solid var(--border-strong);
+      background: var(--bg);
+      color: var(--text);
+      font-family: inherit;
+      font-size: 0.92rem;
+      outline: none;
+    }
+
+    .form-input:focus, .form-textarea:focus {
+      border-color: var(--primary);
+    }
+
+    .editor-subblock {
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 14px;
+      margin-bottom: 12px;
+    }
+
+    .editor-subblock-header {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 8px;
+      align-items: center;
+    }
+
+    .toast-banner {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      background: #16a34a;
+      color: white;
+      padding: 14px 22px;
+      border-radius: 12px;
+      font-weight: 700;
+      font-size: 0.9rem;
+      box-shadow: var(--shadow-md);
+      z-index: 3000;
+      display: none;
     }
 
     footer {
-      background: white;
+      background: var(--bg-elevated);
       border-top: 1px solid var(--border);
-      padding: 30px;
+      padding: 40px 24px;
       text-align: center;
       color: var(--text-muted);
       font-size: 0.88rem;
+    }
+
+    @media print {
+      header, .hero-section, .controls-wrapper, main, footer, .modal-top-bar, .related-section {
+        display: none !important;
+      }
+      .modal-backdrop {
+        position: static !important;
+        background: white !important;
+        padding: 0 !important;
+      }
+      .modal-card {
+        box-shadow: none !important;
+        border: none !important;
+        max-width: 100% !important;
+      }
     }
   </style>
 </head>
@@ -610,20 +1144,34 @@
   <header>
     <div class="nav-container">
       <div class="brand" onclick="resetAll()">
-        <span class="brand-icon">🍳</span>
         <div class="brand-text">
           <h1>Umami<span>Craft</span></h1>
-          <div class="brand-subtitle">Archivo Gastronómico Curado • 256 Recetas del Mundo</div>
+          <div class="brand-subtitle">COLECCIÓN GASTRONÓMICA & COCKTAILS DE AUTOR</div>
         </div>
+      </div>
+
+      <div class="nav-actions">
+        <button class="btn-nav" onclick="openRandomRecipe()" title="Abrir una receta al azar">🎲 Sorpréndeme</button>
+        <button class="btn-nav" onclick="shareSiteModal()" title="Difundir en WhatsApp y redes"><span style="color:#22c55e;">📢</span> Difundir</button>
+        <button class="btn-nav" id="favFilterBtn" onclick="toggleFavoritesFilter()">❤️ Favoritas <span id="favCountBadge">(0)</span></button>
+        <button class="btn-nav" id="themeToggleBtn" onclick="toggleTheme()" title="Cambiar modo claro/oscuro">🌙</button>
       </div>
     </div>
   </header>
 
+  <!-- Hero Destacado -->
+  <section class="hero-section" id="heroSection">
+    <div class="hero-card" id="heroCard">
+      <!-- Poblado dinámicamente -->
+    </div>
+  </section>
+
+  <!-- Barra de Búsqueda y Filtros -->
   <div class="controls-wrapper">
-    <div class="search-row">
+    <div class="command-bar">
       <div class="search-input-box">
         <span class="search-icon">🔍</span>
-        <input type="text" id="searchInput" class="search-input" placeholder="Buscar por plato, ingrediente, país o técnica...">
+        <input type="text" id="searchInput" class="search-input" placeholder="Buscar por plato, ingrediente (ej. salmón, miso, cordero), país o historia...">
       </div>
 
       <select id="categorySelect" class="filter-select" onchange="onFilterChange()">
@@ -643,85 +1191,264 @@
         <option value="Keto / Low-Carb">🥑 Keto / Low-Carb</option>
         <option value="Alto en Proteína">💪 Alto en Proteína</option>
       </select>
+
+      <select id="sortSelect" class="filter-select" onchange="renderRecipes()">
+        <option value="id_asc">📑 Orden original (#1–256)</option>
+        <option value="title_asc">🔤 Nombre (A – Z)</option>
+        <option value="cal_asc">⚡ Menos calorías</option>
+        <option value="time_asc">⏱️ Más rápidas</option>
+      </select>
     </div>
 
-    <div class="quick-chips-row" id="quickChipsBar">
-      <span class="chip-label">Explorar:</span>
-      <button class="chip active" onclick="setQuickTag('all')">Todas</button>
-      <button class="chip" onclick="setQuickTag('Cocktails & Tragos')">🍸 Cocktails (12)</button>
-      <button class="chip" onclick="setQuickTag('Italia')">🇮🇹 Italia</button>
-      <button class="chip" onclick="setQuickTag('Argentina')">🇦🇷 Argentina / Autor</button>
-      <button class="chip" onclick="setQuickTag('Francia')">🇫🇷 Francia</button>
-      <button class="chip" onclick="setQuickTag('España')">🇪🇸 España</button>
-      <button class="chip" onclick="setQuickTag('Japón')">🇯🇵 Japón</button>
-      <button class="chip" onclick="setQuickTag('China')">🇨🇳 China</button>
-      <button class="chip" onclick="setQuickTag('Estados Unidos')">🇺🇸 EE. UU.</button>
+    <div class="chips-section">
+      <div class="quick-chips-row" id="quickChipsBar">
+        <span class="chip-label">Colecciones:</span>
+        <button class="chip active" onclick="setQuickTag('all')">✨ Todas <span class="chip-count" id="totalCountChip"></span></button>
+        <button class="chip" onclick="setQuickTag('Cocktails & Tragos')">🍸 Cocktails (12)</button>
+        <button class="chip" onclick="setQuickTag('Pastas')">🍝 Pastas</button>
+        <button class="chip" onclick="setQuickTag('Sopas y Potajes')">🍜 Sopas & Ramen</button>
+        <button class="chip" onclick="setQuickTag('Carnes')">🥩 Carnes</button>
+        <button class="chip" onclick="setQuickTag('Pollo / Aves')">🍗 Aves</button>
+        <button class="chip" onclick="setQuickTag('Postres y Dulces')">🍰 Postres</button>
+        <button class="chip" onclick="setQuickTag('Japón')"><img src="https://flagcdn.com/w40/jp.png" class="flag-img" alt="JP"> Japón</button>
+        <button class="chip" onclick="setQuickTag('Italia')"><img src="https://flagcdn.com/w40/it.png" class="flag-img" alt="IT"> Italia</button>
+        <button class="chip" onclick="setQuickTag('Argentina')"><img src="https://flagcdn.com/w40/ar.png" class="flag-img" alt="AR"> Argentina</button>
+        <button class="chip" onclick="setQuickTag('Francia')"><img src="https://flagcdn.com/w40/fr.png" class="flag-img" alt="FR"> Francia</button>
+        <button class="chip" onclick="setQuickTag('China')"><img src="https://flagcdn.com/w40/cn.png" class="flag-img" alt="CN"> China</button>
+        <button class="chip" onclick="setQuickTag('España')"><img src="https://flagcdn.com/w40/es.png" class="flag-img" alt="ES"> España</button>
+        <button class="chip" onclick="setQuickTag('Reino Unido')"><img src="https://flagcdn.com/w40/gb.png" class="flag-img" alt="GB"> Reino Unido</button>
+        <button class="chip" onclick="setQuickTag('Estados Unidos')"><img src="https://flagcdn.com/w40/us.png" class="flag-img" alt="US"> EE. UU.</button>
+      </div>
     </div>
   </div>
 
   <main>
     <div class="stats-bar">
-      <span id="resultsCount">Cargando recetario...</span>
+      <span id="resultsCount">Cargando colección gastronómica...</span>
     </div>
 
     <div class="recipe-grid" id="recipeGrid"></div>
   </main>
 
-  <!-- Recipe Detail Modal -->
+  <!-- Modal de Detalle de Receta -->
   <div class="modal-backdrop" id="recipeModal" onclick="if(event.target.id==='recipeModal') closeModal()">
     <div class="modal-card">
-      <button class="modal-close" onclick="closeModal()">✕</button>
-      <img id="modalImg" class="modal-hero-img" src="" alt="Foto del plato">
-      <div class="modal-content-inner">
-        <div class="modal-badges-row" id="modalBadges"></div>
-        <h2 class="modal-title" id="modalTitle"></h2>
+      <div class="modal-hero-wrap">
+        <div class="modal-top-bar">
+          <div class="modal-actions-left">
+            <button class="modal-action-btn" id="modalFavBtn" onclick="toggleFavoriteFromModal()">🤍 Guardar</button>
+            <button class="modal-action-btn" onclick="shareCurrentRecipe()"><span style="color:#22c55e;">📲</span> Compartir</button>
+            <button class="modal-action-btn" onclick="window.print()">🖨️ Imprimir / PDF</button>
+          </div>
+          <button class="modal-close" onclick="closeModal()">✕</button>
+        </div>
+        <img id="modalImg" class="modal-hero-img" src="" alt="Foto del plato">
+        <div class="modal-hero-OverlayText">
+          <div class="modal-badges-row" id="modalBadges"></div>
+          <h2 class="modal-title" id="modalTitle"></h2>
+        </div>
+      </div>
 
+      <div class="modal-content-inner">
         <div class="specs-grid" id="modalSpecs"></div>
 
         <div class="story-box" id="modalStoryBox">
           <div id="modalStory"></div>
         </div>
 
-        <div class="section-title">🛒 Ingredientes</div>
-        <div id="modalIngredients"></div>
+        <div class="recipe-columns">
+          <div>
+            <div class="section-title">
+              <span>🛒 Ingredientes</span>
+              <span style="font-size:0.74rem; font-family:'Plus Jakarta Sans',sans-serif; color:var(--text-muted); font-weight:600;">Toca para tildar</span>
+            </div>
+            <div id="modalIngredients"></div>
+          </div>
 
-        <div class="section-title">👨‍🍳 Preparación Paso a Paso</div>
-        <div id="modalInstructions"></div>
+          <div>
+            <div class="section-title">
+              <span>👨‍🍳 Preparación Paso a Paso</span>
+              <span style="font-size:0.74rem; font-family:'Plus Jakarta Sans',sans-serif; color:var(--text-muted); font-weight:600;">Toca el paso al completarlo</span>
+            </div>
+            <div id="modalInstructions"></div>
+          </div>
+        </div>
 
         <div class="notes-box" id="modalNotesBox" style="display:none;">
           <strong>💡 Notas y Secretos del Chef:</strong>
           <div id="modalNotes" style="margin-top:6px;"></div>
         </div>
+
+        <div class="related-section" id="modalRelatedSection">
+          <div class="section-title" style="font-size:1.15rem;">🍽️ También te puede tentar</div>
+          <div class="related-grid" id="modalRelatedGrid"></div>
+        </div>
       </div>
     </div>
   </div>
 
+  <!-- Modal para Compartir en Redes / WhatsApp -->
+  <div class="modal-backdrop" id="shareModal" onclick="if(event.target.id==='shareModal') closeShareModal()">
+    <div class="modal-card" style="max-width: 480px; padding: 28px; text-align: center;">
+      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:14px;">
+        <h3 id="shareModalTitle" style="font-family:'Playfair Display',serif; font-size:1.45rem;">Difundir en Redes</h3>
+        <button class="modal-close" style="position:static;" onclick="closeShareModal()">✕</button>
+      </div>
+      <p id="shareModalDesc" style="color:var(--text-muted); font-size:0.88rem; margin-bottom:22px;">Elige cómo deseas compartir:</p>
+
+      <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px; margin-bottom:20px;">
+        <button class="btn-nav" id="shareBtnWa" onclick="shareVia('whatsapp')" style="justify-content:center; padding:12px; font-size:0.92rem; background:#25d366; color:white; border-color:#25d366;">
+          <span style="font-size:18px;">🟢</span> WhatsApp
+        </button>
+        <button class="btn-nav" id="shareBtnTg" onclick="shareVia('telegram')" style="justify-content:center; padding:12px; font-size:0.92rem; background:#0088cc; color:white; border-color:#0088cc;">
+          <span style="font-size:18px;">✈️</span> Telegram
+        </button>
+        <button class="btn-nav" id="shareBtnX" onclick="shareVia('twitter')" style="justify-content:center; padding:12px; font-size:0.92rem; background:#000000; color:white; border-color:#333;">
+          <span style="font-size:16px;">𝕏</span> X (Twitter)
+        </button>
+        <button class="btn-nav" id="shareBtnFb" onclick="shareVia('facebook')" style="justify-content:center; padding:12px; font-size:0.92rem; background:#1877f2; color:white; border-color:#1877f2;">
+          <span style="font-size:18px;">📘</span> Facebook
+        </button>
+      </div>
+
+      <div style="position:relative;">
+        <input type="text" id="shareUrlInput" class="form-input" readonly style="padding-right:90px; font-size:0.86rem; background:var(--bg-subtle);">
+        <button type="button" class="btn-nav btn-primary" onclick="copyShareUrl()" style="position:absolute; right:4px; top:4px; bottom:4px; padding:0 14px; border-radius:8px;">Copiar</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="toast-banner" id="toastBanner"></div>
+
   <footer>
-    <p><strong>UmamiCraft</strong> &copy; 2026 • Recetario curado 1 a 1 con ingredientes, técnicas, tiempos y calorías verificadas.</p>
+    <p><strong>UmamiCraft</strong> &copy; 2026 • Colección Gastronómica & Cocktails de Autor • 256 Recetas Curadas</p>
+    <p style="margin-top:10px; font-size:0.75rem;">
+      <a href="/admin" style="color:var(--text-muted); text-decoration:none; opacity:0.5;">🔒 Acceso Administrador</a>
+    </p>
   </footer>
 
   <script>
     let recipes = [];
     let currentQuickTag = 'all';
+    let currentModalRecipeId = null;
+    let onlyFavorites = false;
+    let favorites = JSON.parse(localStorage.getItem('umamicraft_favs') || '[]');
+    let heroIndex = 0;
+    const HERO_IDS = [30, 17, 26, 13, 143, 210, 223, 248, 32, 175];
 
     async function init() {
+      // Load saved theme
+      const savedTheme = localStorage.getItem('umamicraft_theme') || 'light';
+      document.documentElement.setAttribute('data-theme', savedTheme);
+      document.getElementById('themeToggleBtn').textContent = savedTheme === 'dark' ? '☀️' : '🌙';
+
+      // Load saved GitHub token if any
+      const savedToken = localStorage.getItem('umamicraft_gh_token') || '';
+      if (savedToken) document.getElementById('githubTokenInput').value = savedToken;
+
+      updateFavBadge();
+
       try {
         const res = await fetch('recetas_pro.json?v=' + Date.now());
-        recipes = await res.json();
+        const serverRecipes = await res.json();
+
+        // Check if user has local edits saved in browser storage
+        const localEdits = localStorage.getItem('umamicraft_custom_recipes');
+        if (localEdits) {
+          recipes = JSON.parse(localEdits);
+          document.getElementById('localChangesNotice').style.display = 'inline';
+        } else {
+          recipes = serverRecipes;
+        }
+
+        document.getElementById('totalCountChip').textContent = `(${recipes.length})`;
         populateFilters();
+        renderHero();
         renderRecipes();
+
+        // Check deep link hash #receta-ID
+        const hash = window.location.hash;
+        if (hash && hash.startsWith('#receta-')) {
+          const targetId = parseInt(hash.replace('#receta-', ''), 10);
+          if (targetId) setTimeout(() => openModal(targetId), 200);
+        }
       } catch (err) {
         console.error("Error cargando recetas:", err);
       }
     }
 
-    function getCountry(r) {
-      return r.country || r.region || 'Internacional';
+    function toggleTheme() {
+      const curr = document.documentElement.getAttribute('data-theme');
+      const next = curr === 'dark' ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', next);
+      localStorage.setItem('umamicraft_theme', next);
+      document.getElementById('themeToggleBtn').textContent = next === 'dark' ? '☀️' : '🌙';
     }
 
-    function getCategory(r) {
-      return r.category || r.super_category || 'Plato Principal';
+    function showToast(msg) {
+      const t = document.getElementById('toastBanner');
+      t.textContent = msg;
+      t.style.display = 'block';
+      setTimeout(() => { t.style.display = 'none'; }, 3800);
     }
+
+    const COUNTRY_FLAGS = {
+      'Italia': 'it',
+      'Japón': 'jp',
+      'China': 'cn',
+      'Argentina': 'ar',
+      'Receta de Autor (Argentina)': 'ar',
+      'España': 'es',
+      'Francia': 'fr',
+      'Estados Unidos': 'us',
+      'Tailandia': 'th',
+      'Reino Unido': 'gb',
+      'Inglaterra': 'gb',
+      'México': 'mx',
+      'Vietnam': 'vn',
+      'Rusia': 'ru',
+      'Corea del Sur': 'kr',
+      'Corea': 'kr',
+      'India': 'in',
+      'Grecia': 'gr',
+      'Turquía': 'tr',
+      'Perú': 'pe',
+      'Alemania': 'de',
+      'Irlanda': 'ie',
+      'Suecia': 'se',
+      'Egipto': 'eg',
+      'Paraguay': 'py',
+      'Mongolia': 'mn',
+      'Armenia': 'am',
+      'Venezuela': 've',
+      'Sudáfrica': 'za',
+      'Marruecos': 'ma',
+      'Bélgica': 'be',
+      'Cuba': 'cu',
+      'Líbano / Siria': 'lb',
+      'Medio Oriente': 'lb',
+      'Palestina': 'ps',
+      'Escocia': 'gb-sct',
+      'Singapur': 'sg',
+      'Taiwán': 'tw',
+      'Afganistán': 'af',
+      'Caribe': 'cu'
+    };
+
+    function getCountryFlagImg(country) {
+      const code = COUNTRY_FLAGS[country];
+      if (code) {
+        return `<img src="https://flagcdn.com/w40/${code}.png" srcset="https://flagcdn.com/w80/${code}.png 2x" width="18" height="13" alt="${country}" class="flag-img">`;
+      }
+      return '🌍';
+    }
+
+    function getCountryBadgeHtml(country) {
+      return `${getCountryFlagImg(country)} ${country}`;
+    }
+
+    function getCountry(r) { return r.country || r.region || 'Internacional'; }
+    function getCategory(r) { return r.category || r.super_category || 'Plato Principal'; }
 
     function getAllIngredientsFlat(r) {
       if (Array.isArray(r.ingredient_groups)) {
@@ -730,22 +1457,103 @@
       return r.ingredients || [];
     }
 
+    function parseNum(str) {
+      if (!str) return 9999;
+      const m = String(str).match(/\d+/);
+      return m ? parseInt(m[0], 10) : 9999;
+    }
+
+    function renderHero() {
+      if (!recipes.length) return;
+      const targetId = HERO_IDS[heroIndex % HERO_IDS.length];
+      const r = recipes.find(x => x.id === targetId) || recipes[0];
+      const heroCard = document.getElementById('heroCard');
+
+      heroCard.innerHTML = `
+        <div class="hero-content-col">
+          <div class="hero-kicker">✨ Selección del Chef • ${getCountryBadgeHtml(getCountry(r))}</div>
+          <h2 class="hero-title">${r.title}</h2>
+          <p class="hero-story">${r.story || ''}</p>
+          <div class="hero-specs">
+            ${r.prep_time ? `<span>⏱️ Prep: ${r.prep_time.replace(' (estimado)', '')}</span>` : ''}
+            ${r.cook_time && !r.cook_time.startsWith('0') ? `<span>🔥 Cocción: ${r.cook_time.replace(' (estimado)', '')}</span>` : ''}
+            ${r.calories ? `<span>⚡ ${r.calories.replace(' aprox. por porción', '')}</span>` : ''}
+            ${r.servings ? `<span>🍽️ ${r.servings.replace(' (estimado)', '')}</span>` : ''}
+          </div>
+          <div class="hero-btns">
+            <button class="btn-hero-main" onclick="openModal(${r.id})">Ver Receta Paso a Paso →</button>
+            <button class="btn-hero-sec" onclick="nextHeroRecipe()">🔄 Otra Sugerencia</button>
+          </div>
+        </div>
+        <div class="hero-img-col">
+          <img src="${r.image}" alt="${r.title}">
+        </div>
+      `;
+    }
+
+    function nextHeroRecipe() {
+      heroIndex = (heroIndex + 1) % HERO_IDS.length;
+      renderHero();
+    }
+
+    function openRandomRecipe() {
+      if (!recipes.length) return;
+      const rand = recipes[Math.floor(Math.random() * recipes.length)];
+      openModal(rand.id);
+    }
+
+    function updateFavBadge() {
+      document.getElementById('favCountBadge').textContent = `(${favorites.length})`;
+      document.getElementById('favFilterBtn').classList.toggle('active', onlyFavorites);
+    }
+
+    function toggleFavorite(id, ev) {
+      if (ev) ev.stopPropagation();
+      const idx = favorites.indexOf(id);
+      if (idx > -1) favorites.splice(idx, 1);
+      else favorites.push(id);
+      localStorage.setItem('umamicraft_favs', JSON.stringify(favorites));
+      updateFavBadge();
+      renderRecipes();
+      if (currentModalRecipeId === id) updateModalFavButton(id);
+    }
+
+    function toggleFavoriteFromModal() {
+      if (currentModalRecipeId != null) toggleFavorite(currentModalRecipeId, null);
+    }
+
+    function updateModalFavButton(id) {
+      const btn = document.getElementById('modalFavBtn');
+      const isFav = favorites.includes(id);
+      btn.innerHTML = isFav ? '❤️ En Favoritas' : '🤍 Guardar';
+    }
+
+    function toggleFavoritesFilter() {
+      onlyFavorites = !onlyFavorites;
+      updateFavBadge();
+      renderRecipes();
+    }
+
     function populateFilters() {
       const catSelect = document.getElementById('categorySelect');
+      catSelect.innerHTML = '<option value="all">🍽️ Todas las categorías</option>';
       const categories = [...new Set(recipes.map(getCategory).filter(Boolean))].sort();
       categories.forEach(cat => {
+        const count = recipes.filter(r => getCategory(r) === cat).length;
         const opt = document.createElement('option');
         opt.value = cat;
-        opt.textContent = `🍽️ ${cat}`;
+        opt.textContent = `🍽️ ${cat} (${count})`;
         catSelect.appendChild(opt);
       });
 
       const countrySelect = document.getElementById('countrySelect');
+      countrySelect.innerHTML = '<option value="all">🌍 Todos los orígenes</option>';
       const countries = [...new Set(recipes.map(getCountry).filter(Boolean))].sort();
       countries.forEach(c => {
+        const count = recipes.filter(r => getCountry(r) === c).length;
         const opt = document.createElement('option');
         opt.value = c;
-        opt.textContent = `📍 ${c}`;
+        opt.textContent = `📍 ${c} (${count})`;
         countrySelect.appendChild(opt);
       });
     }
@@ -769,8 +1577,11 @@
       document.querySelectorAll('.chip').forEach(c => {
         const isAll = currentQuickTag === 'all' && c.textContent.includes('Todas');
         const isCocktail = currentQuickTag === 'Cocktails & Tragos' && c.textContent.includes('Cocktails');
+        const isSopa = currentQuickTag === 'Sopas y Potajes' && c.textContent.includes('Sopas');
+        const isPollo = currentQuickTag === 'Pollo / Aves' && c.textContent.includes('Aves');
+        const isPostre = currentQuickTag === 'Postres y Dulces' && c.textContent.includes('Postres');
         const isMatch = c.textContent.includes(currentQuickTag);
-        c.classList.toggle('active', isAll || isCocktail || (currentQuickTag !== 'all' && isMatch));
+        c.classList.toggle('active', isAll || isCocktail || isSopa || isPollo || isPostre || (currentQuickTag !== 'all' && isMatch));
       });
     }
 
@@ -779,7 +1590,10 @@
       document.getElementById('categorySelect').value = 'all';
       document.getElementById('countrySelect').value = 'all';
       document.getElementById('dietSelect').value = 'all';
+      document.getElementById('sortSelect').value = 'id_asc';
+      onlyFavorites = false;
       currentQuickTag = 'all';
+      updateFavBadge();
       updateChips();
       renderRecipes();
       window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -790,25 +1604,24 @@
       const selectedCat = document.getElementById('categorySelect').value;
       const selectedCountry = document.getElementById('countrySelect').value;
       const selectedDiet = document.getElementById('dietSelect').value;
+      const sortBy = document.getElementById('sortSelect').value;
       const grid = document.getElementById('recipeGrid');
 
-      const filtered = recipes.filter(r => {
+      let filtered = recipes.filter(r => {
         const country = getCountry(r);
         const category = getCategory(r);
         const diets = r.diet_badges || [];
         const flatIngs = getAllIngredientsFlat(r);
 
+        if (onlyFavorites && !favorites.includes(r.id)) return false;
         if (selectedCat !== 'all' && category !== selectedCat) return false;
         if (selectedCountry !== 'all' && country !== selectedCountry) return false;
         if (selectedDiet !== 'all' && !diets.includes(selectedDiet)) return false;
 
         if (currentQuickTag !== 'all') {
-          if (currentQuickTag === 'Cocktails & Tragos') {
-            if (category !== 'Cocktails & Tragos') return false;
-          } else {
-            const matchCountry = country.toLowerCase().includes(currentQuickTag.toLowerCase());
-            if (!matchCountry) return false;
-          }
+          const matchCat = category === currentQuickTag;
+          const matchCountry = country.toLowerCase().includes(currentQuickTag.toLowerCase());
+          if (!matchCat && !matchCountry) return false;
         }
 
         if (query) {
@@ -823,25 +1636,39 @@
         return true;
       });
 
+      if (sortBy === 'title_asc') {
+        filtered.sort((a, b) => (a.title || '').localeCompare(b.title || ''));
+      } else if (sortBy === 'cal_asc') {
+        filtered.sort((a, b) => parseNum(a.calories) - parseNum(b.calories));
+      } else if (sortBy === 'time_asc') {
+        filtered.sort((a, b) => parseNum(a.prep_time) - parseNum(b.prep_time));
+      } else {
+        filtered.sort((a, b) => a.id - b.id);
+      }
+
       document.getElementById('resultsCount').textContent = `Mostrando ${filtered.length} de ${recipes.length} recetas`;
 
       grid.innerHTML = filtered.map(r => {
         const country = getCountry(r);
         const category = getCategory(r);
+        const isFav = favorites.includes(r.id);
         const calText = r.calories ? r.calories.replace(' aprox. por porción', '').replace(' aprox.', '') : '';
         return `
           <article class="recipe-card" onclick="openModal(${r.id})">
             <div class="card-img-wrapper">
               <img class="card-img" src="${r.image}" alt="${r.title}" loading="lazy">
-              <span class="card-badge-country">📍 ${country}</span>
+              <span class="card-badge-country">${getCountryBadgeHtml(country)}</span>
+              <button class="card-fav-btn ${isFav ? 'fav-active' : ''}" onclick="toggleFavorite(${r.id}, event)" title="Guardar en favoritas">
+                ${isFav ? '♥' : '♡'}
+              </button>
               <span class="card-badge-cat">${category}</span>
             </div>
             <div class="card-body">
               <h3 class="card-title">${r.title}</h3>
               <p class="card-story">${r.story || ''}</p>
               <div class="card-meta-row">
-                ${r.prep_time ? `<span class="mini-pill">⏱️ Prep: ${r.prep_time.replace(' (estimado)', '')}</span>` : ''}
-                ${r.cook_time && !r.cook_time.startsWith('0') ? `<span class="mini-pill">🔥 Cocción: ${r.cook_time.replace(' (estimado)', '')}</span>` : ''}
+                ${r.prep_time ? `<span class="mini-pill">⏱️ ${r.prep_time.replace(' (estimado)', '')}</span>` : ''}
+                ${r.cook_time && !r.cook_time.startsWith('0') ? `<span class="mini-pill">🔥 ${r.cook_time.replace(' (estimado)', '')}</span>` : ''}
                 ${calText ? `<span class="mini-pill">⚡ ${calText}</span>` : ''}
               </div>
               <div class="card-footer">
@@ -857,6 +1684,7 @@
     function openModal(id) {
       const r = recipes.find(x => x.id === id);
       if (!r) return;
+      currentModalRecipeId = id;
 
       const country = getCountry(r);
       const category = getCategory(r);
@@ -864,16 +1692,15 @@
       document.getElementById('modalImg').src = r.image;
       document.getElementById('modalTitle').textContent = r.title;
       document.getElementById('modalStory').textContent = r.story || '';
+      updateModalFavButton(id);
 
-      // Badges
       const badgesHtml = [
-        `<span class="modal-meta-pill">📍 ${country}</span>`,
-        `<span class="modal-meta-pill">🍽️ ${category}</span>`,
+        `<span class="modal-meta-pill">${getCountryBadgeHtml(country)}</span>`,
+        `<span class="modal-meta-pill" style="background:#334155;">🍽️ ${category}</span>`,
         ...(r.diet_badges || []).map(d => `<span class="diet-pill">✓ ${d}</span>`)
       ].join('');
       document.getElementById('modalBadges').innerHTML = badgesHtml;
 
-      // Specs Grid
       const specs = [];
       if (r.prep_time) specs.push({ label: '⏱️ Preparación', val: r.prep_time });
       if (r.cook_time) specs.push({ label: '🔥 Cocción', val: r.cook_time });
@@ -921,7 +1748,7 @@
           : ''}
         <div class="steps-list">
           ${(sg.steps || []).map((st, idx) => `
-            <div class="step-item">
+            <div class="step-item" onclick="this.classList.toggle('done')">
               <div class="step-num">${idx + 1}</div>
               <div>${st}</div>
             </div>
@@ -939,17 +1766,354 @@
         notesBox.style.display = 'none';
       }
 
+      // Related Recipes
+      const related = recipes
+        .filter(x => x.id !== r.id && (getCategory(x) === category || getCountry(x) === country))
+        .slice(0, 3);
+      const relGrid = document.getElementById('modalRelatedGrid');
+      relGrid.innerHTML = related.map(rel => `
+        <div class="related-mini-card" onclick="openModal(${rel.id})">
+          <img src="${rel.image}" alt="${rel.title}">
+          <div>
+            <div style="font-size:0.72rem; color:var(--primary); font-weight:700;">${getCountryBadgeHtml(getCountry(rel))}</div>
+            <div style="font-size:0.88rem; font-weight:700; line-height:1.25;">${rel.title}</div>
+          </div>
+        </div>
+      `).join('');
+
       document.getElementById('recipeModal').classList.add('open');
       document.body.style.overflow = 'hidden';
+      window.location.hash = 'receta-' + id;
     }
 
     function closeModal() {
       document.getElementById('recipeModal').classList.remove('open');
       document.body.style.overflow = 'auto';
+      if (window.location.hash.startsWith('#receta-')) {
+        history.replaceState(null, null, window.location.pathname);
+      }
+    }
+
+    /* =========================================================================
+       SISTEMA DE DIFUSIÓN Y COMPARTIR (WHATSAPP, TELEGRAM, X, COPIAR LINK)
+       ========================================================================= */
+    let currentShareData = { title: '', text: '', url: '' };
+
+    function openShareModal(title, text, url) {
+      currentShareData = { title, text, url };
+      document.getElementById('shareModalTitle').textContent = title;
+      document.getElementById('shareModalDesc').textContent = text;
+      document.getElementById('shareUrlInput').value = url;
+      document.getElementById('shareModal').classList.add('open');
+      document.body.style.overflow = 'hidden';
+    }
+
+    function closeShareModal() {
+      document.getElementById('shareModal').classList.remove('open');
+      document.body.style.overflow = 'auto';
+    }
+
+    function shareCurrentRecipe() {
+      if (currentModalRecipeId == null) return;
+      const r = recipes.find(x => x.id === currentModalRecipeId);
+      if (!r) return;
+      const url = `${window.location.origin}${window.location.pathname}#receta-${r.id}`;
+      const title = `Receta: ${r.title}`;
+      const text = `¡Mira esta increíble receta de ${r.title} (${getCountry(r)}) en UmamiCraft!`;
+
+      if (navigator.share && /mobile|android|iphone|ipad/i.test(navigator.userAgent)) {
+        navigator.share({ title, text, url }).catch(() => {});
+      } else {
+        openShareModal(`Compartir: ${r.title}`, `Envía esta receta por WhatsApp, redes o copia el link:`, url);
+      }
+    }
+
+    function shareSiteModal() {
+      const url = `${window.location.origin}${window.location.pathname}`;
+      const title = 'UmamiCraft — Recetario de Autor';
+      const text = 'Te comparto UmamiCraft: colección de 256 recetas del mundo y cocktails de autor curados con técnicas, tiempos y calorías.';
+
+      if (navigator.share && /mobile|android|iphone|ipad/i.test(navigator.userAgent)) {
+        navigator.share({ title, text, url }).catch(() => {});
+      } else {
+        openShareModal('Difundir UmamiCraft', 'Comparte el recetario completo con amigos o en grupos:', url);
+      }
+    }
+
+    function shareVia(platform) {
+      const { text, url } = currentShareData;
+      let shareHref = '';
+      if (platform === 'whatsapp') {
+        shareHref = `https://api.whatsapp.com/send?text=${encodeURIComponent(text + '\n\n' + url)}`;
+      } else if (platform === 'telegram') {
+        shareHref = `https://t.me/share/url?url=${encodeURIComponent(url)}&text=${encodeURIComponent(text)}`;
+      } else if (platform === 'twitter') {
+        shareHref = `https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}&url=${encodeURIComponent(url)}`;
+      } else if (platform === 'facebook') {
+        shareHref = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}`;
+      }
+      if (shareHref) window.open(shareHref, '_blank', 'noopener,noreferrer');
+    }
+
+    function copyShareUrl() {
+      const input = document.getElementById('shareUrlInput');
+      input.select();
+      navigator.clipboard.writeText(input.value);
+      showToast('📋 ¡Enlace copiado al portapapeles!');
+      closeShareModal();
+    }
+
+    /* =========================================================================
+       SISTEMA DE ALTA Y MODIFICACIÓN DE RECETAS (ADMIN / CMS VISUAL)
+       ========================================================================= */
+    function editCurrentRecipe() {
+      if (currentModalRecipeId == null) return;
+      const r = recipes.find(x => x.id === currentModalRecipeId);
+      closeModal();
+      openEditorModal(r);
+    }
+
+    function openEditorModal(recipeObj) {
+      const ingContainer = document.getElementById('editorIngGroupsContainer');
+      const stepContainer = document.getElementById('editorStepGroupsContainer');
+      ingContainer.innerHTML = '';
+      stepContainer.innerHTML = '';
+
+      if (recipeObj) {
+        document.getElementById('editorModalHeading').textContent = `Modificar Receta #${recipeObj.id}`;
+        document.getElementById('editId').value = recipeObj.id;
+        document.getElementById('editTitle').value = recipeObj.title || '';
+        document.getElementById('editCountry').value = getCountry(recipeObj);
+        document.getElementById('editCategory').value = getCategory(recipeObj);
+        document.getElementById('editImage').value = recipeObj.image || '';
+        document.getElementById('editPrepTime').value = recipeObj.prep_time || '';
+        document.getElementById('editCookTime').value = recipeObj.cook_time || '';
+        document.getElementById('editRestTime').value = recipeObj.rest_time || '';
+        document.getElementById('editTemp').value = recipeObj.temperature || '';
+        document.getElementById('editServings').value = recipeObj.servings || '';
+        document.getElementById('editCalories').value = recipeObj.calories || '';
+        document.getElementById('editDiets').value = (recipeObj.diet_badges || []).join(', ');
+        document.getElementById('editStory').value = recipeObj.story || '';
+        document.getElementById('editNotes').value = recipeObj.notes || '';
+
+        const iGroups = Array.isArray(recipeObj.ingredient_groups) && recipeObj.ingredient_groups.length
+          ? recipeObj.ingredient_groups
+          : [{ name: 'Ingredientes', items: [] }];
+        iGroups.forEach(g => addIngredientGroupField(g.name, (g.items || []).join('\n')));
+
+        const sGroups = Array.isArray(recipeObj.step_groups) && recipeObj.step_groups.length
+          ? recipeObj.step_groups
+          : [{ name: 'Preparación', steps: [] }];
+        sGroups.forEach(sg => addStepGroupField(sg.name, (sg.steps || []).join('\n')));
+      } else {
+        const nextId = recipes.length ? Math.max(...recipes.map(r => r.id)) + 1 : 257;
+        document.getElementById('editorModalHeading').textContent = `Alta de Nueva Receta (#${nextId})`;
+        document.getElementById('recipeEditorForm').reset();
+        document.getElementById('editId').value = '';
+        addIngredientGroupField('Ingredientes', '');
+        addStepGroupField('Preparación', '');
+      }
+
+      document.getElementById('editorModal').classList.add('open');
+      document.body.style.overflow = 'hidden';
+    }
+
+    function closeEditorModal() {
+      document.getElementById('editorModal').classList.remove('open');
+      document.body.style.overflow = 'auto';
+    }
+
+    function addIngredientGroupField(name = 'Para la masa / salsa...', itemsText = '') {
+      const container = document.getElementById('editorIngGroupsContainer');
+      const div = document.createElement('div');
+      div.className = 'editor-subblock ing-group-block';
+      div.innerHTML = `
+        <div class="editor-subblock-header">
+          <input type="text" class="form-input ing-group-name" value="${name}" placeholder="Nombre del subgrupo (ej. Para la masa, Para el relleno)">
+          <button type="button" class="btn-nav" onclick="this.closest('.editor-subblock').remove()">🗑️</button>
+        </div>
+        <textarea class="form-textarea ing-group-items" rows="4" placeholder="Escribe un ingrediente por línea (ej: 500 g de harina 0000)">${itemsText}</textarea>
+      `;
+      container.appendChild(div);
+    }
+
+    function addStepGroupField(name = 'Preparación', stepsText = '') {
+      const container = document.getElementById('editorStepGroupsContainer');
+      const div = document.createElement('div');
+      div.className = 'editor-subblock step-group-block';
+      div.innerHTML = `
+        <div class="editor-subblock-header">
+          <input type="text" class="form-input step-group-name" value="${name}" placeholder="Nombre de la etapa (ej. Para la masa, Armado y cocción)">
+          <button type="button" class="btn-nav" onclick="this.closest('.editor-subblock').remove()">🗑️</button>
+        </div>
+        <textarea class="form-textarea step-group-items" rows="4" placeholder="Escribe un paso por línea...">${stepsText}</textarea>
+      `;
+      container.appendChild(div);
+    }
+
+    function saveGithubToken(val) {
+      localStorage.setItem('umamicraft_gh_token', val.trim());
+    }
+
+    async function saveRecipeFromEditor(e) {
+      e.preventDefault();
+      const rawId = document.getElementById('editId').value;
+      const isEdit = Boolean(rawId);
+      const id = isEdit ? parseInt(rawId, 10) : (recipes.length ? Math.max(...recipes.map(r => r.id)) + 1 : 257);
+
+      const ingBlocks = [...document.querySelectorAll('.ing-group-block')];
+      const ingredient_groups = ingBlocks.map(b => ({
+        name: b.querySelector('.ing-group-name').value.trim() || 'Ingredientes',
+        items: b.querySelector('.ing-group-items').value.split('\n').map(s => s.trim()).filter(Boolean)
+      })).filter(g => g.items.length > 0);
+
+      const stepBlocks = [...document.querySelectorAll('.step-group-block')];
+      const step_groups = stepBlocks.map(b => ({
+        name: b.querySelector('.step-group-name').value.trim() || 'Preparación',
+        steps: b.querySelector('.step-group-items').value.split('\n').map(s => s.trim()).filter(Boolean)
+      })).filter(g => g.steps.length > 0);
+
+      const diets = document.getElementById('editDiets').value
+        .split(',')
+        .map(s => s.trim())
+        .filter(Boolean);
+
+      const newObj = {
+        id,
+        title: document.getElementById('editTitle').value.trim(),
+        original_title: document.getElementById('editTitle').value.trim(),
+        country: document.getElementById('editCountry').value.trim(),
+        category: document.getElementById('editCategory').value,
+        image: document.getElementById('editImage').value.trim(),
+        prep_time: document.getElementById('editPrepTime').value.trim() || '20 min',
+        cook_time: document.getElementById('editCookTime').value.trim() || '20 min',
+        rest_time: document.getElementById('editRestTime').value.trim(),
+        temperature: document.getElementById('editTemp').value.trim(),
+        servings: document.getElementById('editServings').value.trim() || '4 porciones',
+        calories: document.getElementById('editCalories').value.trim() || '350 kcal aprox. por porción',
+        diet_badges: diets,
+        story: document.getElementById('editStory').value.trim(),
+        ingredient_groups,
+        step_groups,
+        notes: document.getElementById('editNotes').value.trim(),
+        tags: [document.getElementById('editCountry').value.trim(), document.getElementById('editCategory').value],
+        url: ''
+      };
+
+      if (isEdit) {
+        const idx = recipes.findIndex(r => r.id === id);
+        if (idx > -1) recipes[idx] = { ...recipes[idx], ...newObj };
+      } else {
+        recipes.unshift(newObj);
+      }
+
+      // Intentar guardado directo en disco si estamos en el servidor local (localhost:8000)
+      let savedOnDisk = false;
+      if (location.hostname === 'localhost' || location.hostname === '127.0.0.1') {
+        try {
+          const diskRes = await fetch('/api/save', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify(recipes)
+          });
+          if (diskRes.ok) {
+            savedOnDisk = true;
+            localStorage.removeItem('umamicraft_custom_recipes');
+            document.getElementById('localChangesNotice').style.display = 'none';
+          }
+        } catch (err) {
+          console.warn('Guardado en navegador (servidor estático):', err);
+        }
+      }
+
+      if (!savedOnDisk) {
+        localStorage.setItem('umamicraft_custom_recipes', JSON.stringify(recipes));
+        document.getElementById('localChangesNotice').style.display = 'inline';
+      }
+
+      document.getElementById('totalCountChip').textContent = `(${recipes.length})`;
+
+      populateFilters();
+      renderHero();
+      renderRecipes();
+      closeEditorModal();
+
+      // If GitHub Token is configured, push automatically to GitHub repo
+      const ghToken = localStorage.getItem('umamicraft_gh_token');
+      if (ghToken) {
+        await pushRecipesToGithub(ghToken, `Actualización de receta #${id}: ${newObj.title}`);
+      } else {
+        showToast(savedOnDisk
+          ? `✅ Receta "${newObj.title}" guardada directo en disco (recetas_pro.json).`
+          : `✅ Receta "${newObj.title}" guardada correctamente.`);
+        openModal(id);
+      }
+    }
+
+    function exportUpdatedJson() {
+      const dataStr = JSON.stringify(recipes, null, 2);
+      const blob = new Blob([dataStr], { type: 'application/json;charset=utf-8' });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = 'recetas_pro.json';
+      a.click();
+      URL.revokeObjectURL(url);
+      showToast('📥 Archivo recetas_pro.json descargado listo para subir a GitHub.');
+    }
+
+    async function pushRecipesToGithub(token, commitMsg) {
+      try {
+        showToast('⏳ Sincronizando cambios directamente con GitHub...');
+        const repoUrl = 'https://api.github.com/repos/pagliardini-cell/umamicraft/contents/recetas_pro.json';
+        const getRes = await fetch(repoUrl, {
+          headers: { 'Authorization': `Bearer ${token}`, 'Accept': 'application/vnd.github+json' }
+        });
+        if (!getRes.ok) throw new Error('Token inválido o sin permisos en el repositorio');
+        const fileData = await getRes.json();
+
+        const jsonContent = JSON.stringify(recipes, null, 2);
+        const base64Content = btoa(unescape(encodeURIComponent(jsonContent)));
+
+        const putRes = await fetch(repoUrl, {
+          method: 'PUT',
+          headers: {
+            'Authorization': `Bearer ${token}`,
+            'Accept': 'application/vnd.github+json',
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({
+            message: commitMsg || 'Actualización desde panel Admin UmamiCraft',
+            content: base64Content,
+            sha: fileData.sha
+          })
+        });
+
+        if (!putRes.ok) throw new Error('Error al guardar en GitHub');
+        localStorage.removeItem('umamicraft_custom_recipes');
+        document.getElementById('localChangesNotice').style.display = 'none';
+        showToast('🚀 ¡Publicado en vivo en GitHub Pages exitosamente!');
+      } catch (err) {
+        console.error(err);
+        showToast('⚠️ Guardado localmente. Revisa tu Token de GitHub o descarga el JSON.');
+      }
+    }
+
+    function openGithubSyncModal() {
+      const token = prompt('Ingresa tu GitHub Personal Access Token (ghp_...) para publicar los cambios directo en pagliardini-cell/umamicraft:');
+      if (token && token.trim()) {
+        saveGithubToken(token.trim());
+        pushRecipesToGithub(token.trim(), 'Sincronización de recetario UmamiCraft');
+      }
     }
 
     document.getElementById('searchInput').addEventListener('input', renderRecipes);
-    document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+    document.addEventListener('keydown', e => {
+      if (e.key === 'Escape') {
+        closeModal();
+        closeEditorModal();
+      }
+    });
 
     init();
   </script>
