@@ -1270,7 +1270,7 @@
       </div>
 
       <div class="nav-actions">
-        <div class="lang-switcher">
+        <div class="lang-switcher notranslate" translate="no">
           <button class="lang-btn active" id="btnLangEs" onclick="changeLanguage('es')" title="Español"><img src="https://flagcdn.com/w40/es.png" class="flag-img-sm" alt="ES"> ES</button>
           <button class="lang-btn" id="btnLangEn" onclick="changeLanguage('en')" title="English"><img src="https://flagcdn.com/w40/us.png" class="flag-img-sm" alt="EN"> EN</button>
           <button class="lang-btn" id="btnLangPt" onclick="changeLanguage('pt')" title="Português"><img src="https://flagcdn.com/w40/br.png" class="flag-img-sm" alt="PT"> PT</button>
@@ -1333,7 +1333,7 @@
         <button class="chip" onclick="setQuickTag('Pastas')">🍝 Pastas</button>
         <button class="chip" onclick="setQuickTag('Sopas y Potajes')">🍜 Sopas & Ramen</button>
         <button class="chip" onclick="setQuickTag('Carnes')">🥩 Carnes</button>
-        <button class="chip" onclick="setQuickTag('Pollo / Aves')">🍗 Aves</button>
+        <button class="chip" onclick="setQuickTag('Pollo / Aves')">🍗 Pollo y Aves</button>
         <button class="chip" onclick="setQuickTag('Postres y Dulces')">🍰 Postres</button>
         <button class="chip" onclick="setQuickTag('Japón')"><img src="https://flagcdn.com/w40/jp.png" class="flag-img" alt="JP"> Japón</button>
         <button class="chip" onclick="setQuickTag('Italia')"><img src="https://flagcdn.com/w40/it.png" class="flag-img" alt="IT"> Italia</button>
@@ -1657,10 +1657,11 @@
     function getCategory(r) { return r.category || r.super_category || 'Plato Principal'; }
 
     function getAllIngredientsFlat(r) {
+      const extractName = i => (typeof i === 'object' && i !== null) ? (i.name || '') : String(i || '');
       if (Array.isArray(r.ingredient_groups)) {
-        return r.ingredient_groups.flatMap(g => g.items || []);
+        return r.ingredient_groups.flatMap(g => (g.items || []).map(extractName));
       }
-      return r.ingredients || [];
+      return (r.ingredients || []).map(extractName);
     }
 
     function parseNum(str) {
@@ -1697,7 +1698,7 @@
           <div class="hero-specs">
             ${r.prep_time ? `<span>⏱️ Prep: ${r.prep_time.replace(' (estimado)', '')}</span>` : ''}
             ${r.cook_time && !r.cook_time.startsWith('0') ? `<span>🔥 Cocción: ${r.cook_time.replace(' (estimado)', '')}</span>` : ''}
-            ${r.calories ? `<span>⚡ ${r.calories.replace(' aprox. por porción', '')}</span>` : ''}
+            ${r.calories ? `<span>⚡ ${String(r.calories).replace(' aprox. por porción', '').replace(' aprox.', '')}</span>` : ''}
             ${r.servings ? `<span>🍽️ ${r.servings.replace(' (estimado)', '')}</span>` : ''}
           </div>
           <div class="hero-btns">
@@ -1882,7 +1883,7 @@
         const country = getCountry(r);
         const category = getCategory(r);
         const isFav = favorites.includes(r.id);
-        const calText = r.calories ? r.calories.replace(' aprox. por porción', '').replace(' aprox.', '') : '';
+        const calText = r.calories ? String(r.calories).replace(' aprox. por porción', '').replace(' aprox.', '') : '';
         return `
           <article class="recipe-card" onclick="openModal(${r.id})">
             <div class="card-img-wrapper">
