@@ -19048,5 +19048,1534 @@
     "image": "cilbir_huevos_turcos.jpg",
     "url": "https://recarg.blogspot.com/2024/09/cilbir-huevos-turcos.html",
     "original_title": "Çılbır Huevos Turcos"
+  },
+  {
+    "id": 280,
+    "title": "Tamago Sando — Sándwich Japonés de Huevo (Japón)",
+    "original_title": "Japanese Egg Salad Sandwich (Tamago Sando)",
+    "country": "Japón",
+    "category": "Sándwiches / Burgers",
+    "tags": [
+      "Sándwich",
+      "Huevo",
+      "Japón",
+      "Street Food",
+      "Desayuno",
+      "Comfort Food"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "10 min",
+    "rest_time": "5 min",
+    "temperature": "Frío / Temperatura ambiente",
+    "servings": "2 porciones",
+    "calories": "380 kcal aprox. por porción",
+    "diet_badges": [
+      "Vegetariano"
+    ],
+    "story": "El Tamago Sando es una institución gastronómica en los konbini (tiendas de conveniencia) japonesas. Creado a base del esponjoso pan de leche shokupan y un relleno ultra cremoso de huevos cocidos, mayonesa Kewpie japonesa y una pizca de mostaza karashi, este sándwich representa la máxima expresión de simpleza, suavidad y perfección culinaria nipona.",
+    "ingredient_groups": [
+      {
+        "name": "Para el pan",
+        "items": [
+          "4 rebanadas gruesas de pan de leche japonés (Shokupan) o pan brioche blanco tierno",
+          "20 g de manteca a temperatura ambiente (para untar el pan)"
+        ]
+      },
+      {
+        "name": "Para el relleno de huevo",
+        "items": [
+          "5 huevos grandes frescos de campo",
+          "3 a 4 cucharadas de mayonesa japonesa Kewpie (hecha exclusivamente con yemas y vinagre de arroz)",
+          "1 cucharadita de leche entera o crema",
+          "1/2 cucharadita de azúcar fina (para realzar el umami)",
+          "1/4 cucharadita de mostaza japonesa (karashi) o mostaza dijon suave",
+          "Sal marina fina y pimienta blanca recién molida a gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Cocción perfecta de los huevos",
+        "steps": [
+          "Llevar una cacerola con abundante agua a ebullición suave. Bajar con cuidado 4 huevos para el relleno picado y cocinarlos durante 9 a 10 minutos (yema cocida pero húmeda y cremosa).",
+          "Opcional para el corte visual: Cocinar 1 huevo durante 7 minutos exactos para dejar la yema semilíquida en el centro del sándwich.",
+          "Retirar inmediatamente los huevos y sumergirlos en un bol con agua helada y cubos de hielo durante 5 minutos para frenar la cocción y facilitar el pelado."
+        ]
+      },
+      {
+        "name": "Preparación de la emulsión cremosa",
+        "steps": [
+          "Pelar los 4 huevos duros. En un bol, pisar con un tenedor dejando trocitos visibles de clara para aportar textura.",
+          "Incorporar la mayonesa Kewpie, la leche, el azúcar, la mostaza karashi, una pizca generosa de sal fina y pimienta blanca.",
+          "Mezclar con una espátula de silicona con movimientos suaves hasta lograr una pasta densa, untuosa y brillante. Probar y rectificar sazón."
+        ]
+      },
+      {
+        "name": "Armado y corte milimétrico",
+        "steps": [
+          "Untar una capa finísima de manteca blanda sobre una cara de cada rebanada de Shokupan (esto actúa como barrera para que el pan no se humedezca).",
+          "Si se utiliza el huevo con yema tierna, colocarlo entero en el centro del pan. Distribuir la mezcla de ensalada de huevo generosamente sobre las rebanadas.",
+          "Cerrar con la otra rebanada de pan y presionar delicadamente.",
+          "Envolver el sándwich en papel manteca o film transparente y dejar reposar 5 minutos para que se asiente.",
+          "Con un cuchillo de pan muy afilado, retirar las cortezas laterales y cortar en mitades o rectángulos perfectos. Servir de inmediato."
+        ]
+      }
+    ],
+    "notes": "El secreto de la textura reside en la mayonesa Kewpie (que usa solo yemas de huevo y glutamato natural) y el pan Shokupan cortado sin corteza.",
+    "image": "tamago_sando.jpg",
+    "url": "https://umamicraft.vercel.app/?receta=tamago-sando-sandwich-japones-de-huevo-japon"
+  },
+  {
+    "id": 281,
+    "title": "Croque Monsieur Tradicional Gratinado (Francia)",
+    "original_title": "Traditional French Croque Monsieur",
+    "country": "Francia",
+    "category": "Sándwiches / Burgers",
+    "tags": [
+      "Sándwich",
+      "Francia",
+      "Bistró",
+      "Queso",
+      "Gratinado",
+      "Clásico"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "15 min",
+    "rest_time": "3 min",
+    "temperature": "200°C (Horno con grill)",
+    "servings": "2 porciones",
+    "calories": "580 kcal aprox. por porción",
+    "diet_badges": [
+      "Alto en Proteína"
+    ],
+    "story": "Aparecido por primera vez en 1910 en un café parisino del Boulevard des Capucines, el Croque Monsieur es el rey de los bistrós franceses. Su nombre proviene del verbo 'croquer' (crujir) y 'monsieur' (señor). Consiste en un sándwich tostado de jamón natural y queso de montaña, bañado con una sedosa salsa bechamel o Mornay y gratinado al horno hasta formar una costra dorada burbujeante.",
+    "ingredient_groups": [
+      {
+        "name": "Para los sándwiches",
+        "items": [
+          "4 rebanadas de pan de campo o brioche artesanal",
+          "4 fetas gruesas de jamón cocido natural de calidad (París o pierna)",
+          "150 g de queso Gruyère o Emmental suizo rallado grueso",
+          "20 g de manteca derretida"
+        ]
+      },
+      {
+        "name": "Para la bechamel / salsa Mornay",
+        "items": [
+          "25 g de manteca",
+          "25 g de harina de trigo 0000",
+          "250 ml de leche entera tibia",
+          "1 pizca de nuez moscada recién rallada",
+          "1 cucharadita de mostaza Dijon",
+          "Sal fina y pimienta blanca recién molida a gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Elaboración de la bechamel",
+        "steps": [
+          "Derretir la manteca en una cacerola a fuego medio. Agregar la harina y cocinar durante 2 minutos batiendo con batidor de alambre para formar un roux rubio.",
+          "Verter la leche tibia en hilo continuo sin dejar de batir enérgicamente para evitar grumos.",
+          "Cocinar a fuego bajo hasta que espese y rompa hervor. Retirar del fuego y condimentar con sal, pimienta blanca, nuez moscada, la mostaza Dijon y un puñado del queso Gruyère rallado."
+        ]
+      },
+      {
+        "name": "Armado y gratinado perfecto",
+        "steps": [
+          "Pintar las rebanadas de pan con manteca derretida y tostarlas ligeramente de un lado sobre una sartén caliente.",
+          "Sobre la cara dorada de dos panes, untar una capa de bechamel. Disponer las fetas de jamón dobladas y una generosa capa de queso Gruyère.",
+          "Tapar con las rebanadas restantes. Untar la parte superior de cada sándwich con abundante bechamel cubriendo toda la superficie.",
+          "Espolvorear con el resto del queso Gruyère rallado hasta formar una capa compacta.",
+          "Llevar a horno precalentado a 200°C con función grill durante 8 a 10 minutos, hasta que la superficie esté dorada, burbujeante y crocante. Servir caliente."
+        ]
+      }
+    ],
+    "notes": "Si se le agrega un huevo frito a caballo encima del gratinado, se convierte automáticamente en el célebre 'Croque Madame'.",
+    "image": "croque_monsieur.jpg",
+    "url": "https://umamicraft.vercel.app/?receta=croque-monsieur-tradicional-gratinado-francia"
+  },
+  {
+    "id": 282,
+    "title": "Panino con Porchetta y Salsa Verde (Italia)",
+    "original_title": "Panino con la Porchetta di Ariccia",
+    "country": "Italia",
+    "category": "Sándwiches / Burgers",
+    "tags": [
+      "Sándwich",
+      "Italia",
+      "Cerdo",
+      "Street Food",
+      "Parrilla / Asado"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "10 min",
+    "rest_time": "5 min",
+    "temperature": "Caliente",
+    "servings": "2 porciones",
+    "calories": "620 kcal aprox. por porción",
+    "diet_badges": [
+      "Alto en Proteína"
+    ],
+    "story": "Símbolo supremo de la gastronomía callejera del Lazio y la campiña romana, el Panino con la Porchetta celebra el cerdo asado entero a las brasas aromatizado con romero silvestre, hinojo marino, ajo y pimienta negra. Servido en pan ciabatta o ciriola de masa madre crujiente, el contraste entre la carne tiernísima, la grasa derretida, la costra de piel ultra crocante (crosta) y la salsa verde fresca es una maravilla sensorial.",
+    "ingredient_groups": [
+      {
+        "name": "Para el panino",
+        "items": [
+          "2 panes ciabatta individuales o pan rosetta artesanal crujiente",
+          "350 g de Porchetta artesanal cortada en fetas gruesas (con sus trozos de cuero crocante)",
+          "1 chorrito de aceite de oliva virgen extra"
+        ]
+      },
+      {
+        "name": "Para la salsa verde rústica",
+        "items": [
+          "1 taza de hojas de perejil fresco de hoja plana bien picado",
+          "1 diente de ajo pequeño rallado finamente",
+          "1 cucharada de alcaparras desaladas y picadas",
+          "2 filetes de anchoa en aceite picados (opcional para umami)",
+          "60 ml de aceite de oliva virgen extra italiano",
+          "1 cucharadita de vinagre de vino tinto o jugo de limón",
+          "Sal marina y pimienta negra recién molida"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación de la salsa verde",
+        "steps": [
+          "Picar finamente el perejil a cuchillo junto con las alcaparras y las anchoas sobre una tabla.",
+          "Colocar en un bol pequeño junto con el ajo rallado, el vinagre de vino y el aceite de oliva virgen extra.",
+          "Emulsionar suavemente con tenedor y sazonar con sal y pimienta negra. Dejar reposar 15 minutos para amalgamar aromas."
+        ]
+      },
+      {
+        "name": "Calentado y armado",
+        "steps": [
+          "Abrir las ciabattas al medio. Tostar las caras internas sobre una plancha o sartén caliente hasta que estén crujientes y apenas doradas.",
+          "Pasar la porchetta unos segundos por la plancha caliente únicamente para entibiar la grasa y potenciar los aromas a hierbas sin resecar la carne.",
+          "Untar la base y la tapa del pan con la salsa verde rústica.",
+          "Rellenar generosamente con la porchetta tibia intercalando trocitos crujientes de piel crocante. Cerrar, presionar ligeramente y comer de inmediato con ambas manos."
+        ]
+      }
+    ],
+    "notes": "El cuero del cerdo ('crosta' o chicharrón crocante) es imprescindible: aporta el quiebre sonoro y textura inconfundible del auténtico panino romano.",
+    "image": "panino_porchetta.jpg",
+    "url": "https://umamicraft.vercel.app/?receta=panino-con-porchetta-y-salsa-verde-italia"
+  },
+  {
+    "id": 283,
+    "title": "Reuben Sandwich con Pastrami y Chucrut (Estados Unidos)",
+    "original_title": "Classic New York Deli Reuben Sandwich",
+    "country": "Estados Unidos",
+    "category": "Sándwiches / Burgers",
+    "tags": [
+      "Sándwich",
+      "Estados Unidos",
+      "Deli",
+      "Pastrami",
+      "Queso Fundido"
+    ],
+    "prep_time": "10 min",
+    "cook_time": "12 min",
+    "rest_time": "2 min",
+    "temperature": "Plancha caliente",
+    "servings": "2 porciones",
+    "calories": "680 kcal aprox. por porción",
+    "diet_badges": [
+      "Alto en Proteína"
+    ],
+    "story": "Nacido en los legendarios delis judíos de Nueva York a principios del siglo XX (con disputa de origen en Omaha, Nebraska), el Reuben es el pináculo de la sanguchería norteamericana. La combinación de pastrami o corned beef caliente, chucrut ácido bien escurrido, queso suizo fundido y la inconfundible salsa rusa sobre pan de centeno dorado en manteca crea un equilibrio perfecto entre acidez, salinidad y cremosidad.",
+    "ingredient_groups": [
+      {
+        "name": "Para el sándwich",
+        "items": [
+          "4 rebanadas de pan de centeno con semillas de alcaravea (Rye bread)",
+          "350 g de pastrami o corned beef en fetas finas",
+          "150 g de queso suizo Emmental o Gruyère en fetas",
+          "150 g de chucrut natural (sauerkraut), muy bien escurrido y seco",
+          "40 g de manteca pomada para dorar en plancha"
+        ]
+      },
+      {
+        "name": "Para la salsa rusa casera (Russian Dressing)",
+        "items": [
+          "4 cucharadas de mayonesa",
+          "2 cucharadas de ketchup artesanal",
+          "1 cucharada de pepinillos agridulces finamente picados (relish)",
+          "1 cucharadita de rábano picante rallado (horseradish)",
+          "1/2 cucharadita de salsa Worcestershire (salsa inglesa)",
+          "Unas gotas de tabasco o pimentón picante"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación de la salsa y escurrido",
+        "steps": [
+          "En un bol, integrar la mayonesa, el ketchup, el relish picado, el rábano picante y la salsa Worcestershire. Reservar en frío.",
+          "Colocar el chucrut en un colador y presionar firmemente con papel de cocina para extraer todo el exceso de líquido (fundamental para no ablandar el pan tostado)."
+        ]
+      },
+      {
+        "name": "Ensamblado y tostado en sartén",
+        "steps": [
+          "Untar la cara exterior de cada rebanada de pan de centeno con abundante manteca blanda.",
+          "Del lado interior no enmantecado, untar una generosa cucharada de salsa rusa en ambas tapas.",
+          "Disponer una capa de queso suizo en cada rebanada (esto sella el pan y ayuda a fundir).",
+          "En una sartén a fuego medio, calentar el pastrami unos segundos para que suelte sus jugos.",
+          "Montar sobre una rebanada una montaña alta de pastrami caliente, cubrir con el chucrut seco y tapar con la otra rebanada de pan con queso.",
+          "Cocinar el sándwich en sartén de hierro a fuego medio-bajo durante 4 a 5 minutos por lado, presionando suavemente con espátula, hasta que el pan adquiera un dorado caoba crujiente y el queso esté completamente derretido.",
+          "Cortar al sesgo en dos mitades y servir acompañado de pepinillos en vinagre."
+        ]
+      }
+    ],
+    "notes": "El secreto del Reuben es secar exhaustivamente el chucrut: cualquier exceso de humedad arruina el tostado crocante de la manteca sobre el centeno.",
+    "image": "reuben_sandwich.jpg",
+    "url": "https://umamicraft.vercel.app/?receta=reuben-sandwich-con-pastrami-y-chucrut-estados-unidos"
+  },
+  {
+    "id": 284,
+    "title": "Coronation Chicken Sandwich Tradicional (Reino Unido)",
+    "original_title": "Classic British Coronation Chicken Sandwich",
+    "country": "Reino Unido",
+    "category": "Sándwiches / Burgers",
+    "tags": [
+      "Sándwich",
+      "Reino Unido",
+      "Pollo",
+      "Curry",
+      "Clásico",
+      "Té de la Tarde"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "15 min",
+    "rest_time": "10 min",
+    "temperature": "Frío",
+    "servings": "4 porciones",
+    "calories": "450 kcal aprox. por porción",
+    "diet_badges": [
+      "Alto en Proteína"
+    ],
+    "story": "Creado en 1953 por Constance Spry y Rosemary Hume de la escuela Le Cordon Bleu de Londres para el banquete de coronación de la Reina Isabel II, el 'Poulet Reine Elizabeth' (Coronation Chicken) combinó la tradición británica con las especias del Imperio. Transformado en el sándwich más elegante del Reino Unido, une pechuga de pollo desmenuzada en una salsa sedosa de curry suave, mango chutney, pasas y almendras tostadas.",
+    "ingredient_groups": [
+      {
+        "name": "Para el pollo y la base",
+        "items": [
+          "500 g de pechuga de pollo cocida y desmenuzada en trozos medianos",
+          "8 rebanadas de pan de molde artesanal blanco o de semillas",
+          "Hojas de rúcula fresca o berros tiernos",
+          "30 g de manteca blanda (para untar el pan)"
+        ]
+      },
+      {
+        "name": "Para el aderezo Coronation",
+        "items": [
+          "150 g de mayonesa de buena calidad",
+          "3 cucharadas de yogur griego natural o crema espesa",
+          "1 cucharada y media de polvo de curry Madrás suave",
+          "2 cucharadas colmadas de chutney de mango dulce bien picado",
+          "1 cucharadita de puré de tomate concentrado",
+          "1 cucharadita de jugo de limón fresco",
+          "40 g de pasas de uva rubias (sultanas)",
+          "30 g de almendras fileteadas tostadas",
+          "Sal marina y pimienta negra recién molida"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación de la salsa Coronation",
+        "steps": [
+          "En una sartén pequeña sin aceite, tostar suavemente el polvo de curry durante 30 segundos para despertar sus aceites esenciales aromáticos.",
+          "En un bol grande, mezclar la mayonesa con el yogur griego, el curry tostado, el chutney de mango, el puré de tomate y el jugo de limón.",
+          "Condimentar con sal y pimienta negra recién molida. Integrar con batidor de mano hasta lograr un color dorado suave y homogéneo."
+        ]
+      },
+      {
+        "name": "Integración y armado",
+        "steps": [
+          "Incorporar el pollo desmenuzado, las pasas de uva rubias y la mitad de las almendras tostadas al bol de la salsa. Mezclar bien asegurando que cada hebra de pollo quede envuelta.",
+          "Untar las rebanadas de pan con una capa fina de manteca.",
+          "Disponer sobre 4 rebanadas una cama de hojas frescas de rúcula o berros.",
+          "Distribuir generosamente el relleno de Coronation Chicken por encima y espolvorear con el resto de almendras fileteadas crocantes.",
+          "Cerrar con las rebanadas restantes, cortar en triángulos o rectángulos de finger-sandwich y servir."
+        ]
+      }
+    ],
+    "notes": "Tostar suavemente el polvo de curry antes de mezclarlo con la mayonesa elimina el sabor a especia cruda y aporta una profundidad aromática exquisita.",
+    "image": "coronation_chicken.jpg",
+    "url": "https://umamicraft.vercel.app/?receta=coronation-chicken-sandwich-tradicional-reino-unido"
+  },
+  {
+    "id": 285,
+    "title": "Bocadillo de Calamares con Alioli Casero (España)",
+    "original_title": "Bocadillo de Calamares a la Madrileña",
+    "country": "España",
+    "category": "Sándwiches / Burgers",
+    "tags": [
+      "Sándwich",
+      "España",
+      "Mariscos",
+      "Tapas",
+      "Street Food",
+      "Frito"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "10 min",
+    "rest_time": "2 min",
+    "temperature": "Caliente / Recién frito",
+    "servings": "2 porciones",
+    "calories": "520 kcal aprox. por porción",
+    "diet_badges": [
+      "Alto en Proteína"
+    ],
+    "story": "El bocadillo de calamares es el bocado identitario indiscutido de las tabernas de la Plaza Mayor y las calles madrileñas. Nacido de la llegada del pescado fresco de las costas gallegas y andaluzas por ferrocarril en el siglo XIX, este sándwich combina una barra de pan crujiente recién horneada con aros de calamar tiernos rebozados a la andaluza, fritos en aceite bien caliente y coronados con un toque de limón o alioli casero emulsionado a mano.",
+    "ingredient_groups": [
+      {
+        "name": "Para los calamares",
+        "items": [
+          "400 g de anillas de calamar fresco limpias y secas",
+          "100 g de harina especial para fritura a la andaluza o harina de trigo común",
+          "1 cucharadita de levadura química (polvo de hornear, opcional para inflar el rebozado)",
+          "Abundante aceite de oliva suave o girasol para freír",
+          "Sal marina fina",
+          "Gajos de limón para acompañar"
+        ]
+      },
+      {
+        "name": "Para el pan y el alioli",
+        "items": [
+          "2 barras de pan rústico crujiente (pan de leña, pistola o baguette artesanal)",
+          "1 huevo entero fresco a temperatura ambiente",
+          "1 diente de ajo pelado (sin el germen central)",
+          "150 ml de aceite de oliva virgen extra suave",
+          "1 cucharadita de jugo de limón y una pizca de sal"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Emulsión del alioli",
+        "steps": [
+          "En el vaso del mixer colocar el huevo, el diente de ajo picado, una pizca de sal y el jugo de limón.",
+          "Verter el aceite de oliva. Apoyar el mixer en el fondo y batir a potencia media sin moverlo durante 10 segundos hasta que emulsione.",
+          "Una vez que comience a montar, realizar movimientos ascendentes y descendentes lentos hasta lograr una textura firme y cremosa. Reservar en frío."
+        ]
+      },
+      {
+        "name": "Fritura crocante de calamares",
+        "steps": [
+          "Secar exhaustivamente los aros de calamar con abundante papel absorbente (el secreto de un rebozado que no salpique ni se despegue).",
+          "Pasar los aros por la harina sacudiendo bien el exceso con un colador para que solo quede una película delgada.",
+          "Calentar abundante aceite en una sartén profunda o freidora a 180°C - 190°C.",
+          "Freír las anillas en tandas pequeñas durante exactamente 90 a 120 segundos, hasta que adquieran un color dorado pálido y textura crujiente por fuera y tierna por dentro.",
+          "Retirar con espumadera, escurrir sobre papel absorbente y salar de inmediato mientras estén calientes."
+        ]
+      },
+      {
+        "name": "Armado del bocadillo",
+        "steps": [
+          "Abrir el pan longitudinalmente. Untar una capa generosa de alioli casero sobre la base y la tapa.",
+          "Rellenar a rebosar con los aros de calamar recién fritos y humeantes.",
+          "Cerrar la barra, presionar ligeramente para que cruja y comer al instante bien caliente."
+        ]
+      }
+    ],
+    "notes": "Secar los calamares antes de enharinarlos y no pasarse de los 2 minutos de fritura garantiza que queden mantequilla por dentro y no gomosos.",
+    "image": "bocadillo_calamares.jpg",
+    "url": "https://umamicraft.vercel.app/?receta=bocadillo-de-calamares-con-alioli-casero-espana"
+  },
+  {
+    "id": 286,
+    "title": "Torta Ahogada con Carnitas de Cerdo (México)",
+    "original_title": "Torta Ahogada Tradicional Tapatía",
+    "country": "México",
+    "category": "Sándwiches / Burgers",
+    "tags": [
+      "Sándwich",
+      "México",
+      "Cerdo",
+      "Picante",
+      "Street Food",
+      "Clásico"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "25 min",
+    "rest_time": "5 min",
+    "temperature": "Salsa hirviendo / Servido en plato hondo",
+    "servings": "2 porciones",
+    "calories": "610 kcal aprox. por porción",
+    "diet_badges": [
+      "Alto en Proteína"
+    ],
+    "story": "Orgullo gastronómico de Guadalajara (Jalisco), la Torta Ahogada nació a principios del siglo XX cuando por accidente un comensal dejó caer su torta en una cazuela de salsa hirviendo. Se elabora exclusivamente en pan 'birote salado' (de corteza gruesa y crujiente que resiste ser empapada sin desintegrarse), rellena de carnitas de cerdo confitadas, frijoles refritos y sumergida en una salsa caliente de jitomate con chile de árbol tapatío.",
+    "ingredient_groups": [
+      {
+        "name": "Para la torta",
+        "items": [
+          "2 panes birote salado artesanal o baguette rústica de corteza muy dura y miga densa",
+          "350 g de carnitas de cerdo confitadas (maciza y costilla picadas jugosas)",
+          "1/2 taza de frijoles negros o bayos refritos",
+          "Cebolla morada fileteada desflemada en vinagre y orégano",
+          "Gajos de lima o limón fresco"
+        ]
+      },
+      {
+        "name": "Para la salsa dulce de jitomate (base de baño)",
+        "items": [
+          "4 jitomates maduros cocidos",
+          "1 diente de ajo",
+          "1/4 cebolla blanca",
+          "1 pizca de comino molido, orégano seco y clavo de olor",
+          "Sal marina a gusto"
+        ]
+      },
+      {
+        "name": "Para la salsa picante de chile de árbol (ahogadora)",
+        "items": [
+          "15 chiles de árbol secos tostados",
+          "1/4 taza de vinagre blanco",
+          "1 diente de ajo",
+          "Sal a gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación de las dos salsas",
+        "steps": [
+          "Para la salsa base: Licuar los jitomates cocidos con el ajo, cebolla, comino, orégano, clavo y sal con una taza de agua de cocción. Hervir en cacerola 10 minutos a fuego suave. Debe quedar ligera y muy aromática.",
+          "Para la salsa picante: Licuar los chiles de árbol tostados con el vinagre, ajo, sal y un poco de agua hasta obtener una salsa roja viva, líquida y muy picante."
+        ]
+      },
+      {
+        "name": "Armado y 'ahogado' tradicional",
+        "steps": [
+          "Abrir los panes birote al medio sin separarlos por completo.",
+          "Untar la base interna con frijoles refritos calientes.",
+          "Rellenar abundantemente con las carnitas de cerdo calientes y picadas en trozos irregulares.",
+          "Colocar cada torta en un plato hondo o cazuela de barro.",
+          "Bañar generosamente la torta con la salsa de jitomate caliente hasta que quede sumergida por completo.",
+          "Añadir salsa de chile de árbol a gusto (de 'media ahogada' a 'bien ahogada'). Coronar con cebolla morada encurtida y chorrito de limón. Comer con cuchara o guantes."
+        ]
+      }
+    ],
+    "notes": "El birote salado de Jalisco tiene fermentación de masa madre especial que soporta el caldo hirviendo sin ablandarse en exceso.",
+    "image": "torta_ahogada.jpg",
+    "url": "https://umamicraft.vercel.app/?receta=torta-ahogada-con-carnitas-de-cerdo-mexico"
+  },
+  {
+    "id": 287,
+    "title": "Balık Ekmek — Sándwich Turco de Pescado a la Plancha (Turquía)",
+    "original_title": "Balık Ekmek (Turkish Fish Sandwich)",
+    "country": "Turquía",
+    "category": "Sándwiches / Burgers",
+    "tags": [
+      "Sándwich",
+      "Turquía",
+      "Pescado",
+      "Street Food",
+      "Mediterráneo",
+      "Saludable"
+    ],
+    "prep_time": "10 min",
+    "cook_time": "8 min",
+    "rest_time": "2 min",
+    "temperature": "Plancha muy caliente",
+    "servings": "2 porciones",
+    "calories": "420 kcal aprox. por porción",
+    "diet_badges": [
+      "Alto en Proteína",
+      "Bajo en Calorías"
+    ],
+    "story": "A orillas del Cuerno de Oro y junto al Puente de Gálata en Estambul, los barcos mecidos por las olas cocinan desde hace más de un siglo el Balık Ekmek ('pescado en pan'). Filetes frescos de caballa a la plancha, rociados con abundante limón y servidos dentro de medio pan turco crocante con cebolla morada macerada en zumaque y lechuga fresca, este sándwich es el alma marina de la gastronomía turca.",
+    "ingredient_groups": [
+      {
+        "name": "Para el pescado y el pan",
+        "items": [
+          "2 filetes frescos de caballa (o trucha de mar / jurel), limpios y sin espinas",
+          "1 barra de pan turco crujiente (Ekmek) o media baguette artesanal",
+          "2 cucharadas de aceite de oliva",
+          "Sal marina y pimienta negra molida"
+        ]
+      },
+      {
+        "name": "Para los vegetales frescos",
+        "items": [
+          "1 cebolla morada cortada en juliana fina",
+          "1 cucharada colmada de zumaque molido (sumac, especia cítrica turca)",
+          "Hojas de lechuga crujiente bien lavadas y secas",
+          "1 tomate maduro cortado en rodajas finas",
+          "Rúcula fresca (opcional)",
+          "Jugo de limón fresco exprimido al momento"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Macerado de la cebolla con sumac",
+        "steps": [
+          "Colocar la cebolla morada en juliana en un bol pequeño.",
+          "Espolvorear con el sumac y una pizca de sal. Masajear con las manos durante 1 minuto para que la cebolla suelte su jugo picante y adquiera un color rubí brillante y sabor cítrico."
+        ]
+      },
+      {
+        "name": "Cocción de la caballa a la plancha",
+        "steps": [
+          "Pincelar los filetes de caballa con aceite de oliva y sazonar con sal y pimienta negra.",
+          "Calentar una plancha de hierro a fuego vivo. Cocinar los filetes comenzando por el lado de la piel durante 3 a 4 minutos hasta que esté dorada y crocante.",
+          "Dar vuelta y cocinar 2 minutos más por el lado de la carne hasta que esté tierna y jugosa.",
+          "Abrir los panes al medio y apoyar la miga directamente sobre los filetes en la plancha durante 30 segundos para que absorba los jugos y el calor aromático del pescado."
+        ]
+      },
+      {
+        "name": "Montaje callejero de Estambul",
+        "steps": [
+          "Colocar una base de lechuga y rodajas de tomate dentro del pan caliente.",
+          "Disponer el filete de caballa entero recién salido de la plancha.",
+          "Cubrir con abundante cebolla macerada al zumaque.",
+          "Rociar generosamente con jugo de limón fresco y una pizca extra de sumac. Cerrar y disfrutar caliente junto al mar."
+        ]
+      }
+    ],
+    "notes": "El zumaque (sumac) aporta una acidez afrutada sin humedecer la cebolla, cortando a la perfección la riqueza grasa natural de la caballa.",
+    "image": "balik_ekmek.jpg",
+    "url": "https://umamicraft.vercel.app/?receta=balik-ekmek-sandwich-turco-de-pescado-a-la-plancha-turquia"
+  },
+  {
+    "id": 288,
+    "title": "Francesinha Tradicional con Salsa de Cerveza (Portugal)",
+    "original_title": "Francesinha Tradicional à Moda do Porto",
+    "country": "Portugal",
+    "category": "Sándwiches / Burgers",
+    "tags": [
+      "Sándwich",
+      "Portugal",
+      "Carnes",
+      "Queso Fundido",
+      "Cerveza",
+      "Contundente"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "30 min",
+    "rest_time": "5 min",
+    "temperature": "Gratinado / Salsa hirviendo",
+    "servings": "2 porciones",
+    "calories": "890 kcal aprox. por porción",
+    "diet_badges": [
+      "Alto en Proteína"
+    ],
+    "story": "Creada en la década de 1950 en la ciudad de Oporto por Daniel David de Silva tras regresar de Francia, la Francesinha es una reinterpretación monumental del croque-monsieur adaptada al apetito portugués. Compuesta por capas de carnes (bife de ternera, jamón cocido, linguiça y salchicha fresca), envuelta por completo en queso fundido y bañada en una salsa hirviendo y picante a base de cerveza, tomate y oporto.",
+    "ingredient_groups": [
+      {
+        "name": "Para el sándwich de carnes",
+        "items": [
+          "4 rebanadas gruesas de pan de molde de panadería",
+          "2 bifes finos de lomo o ternera tierna a la plancha",
+          "2 salchichas frescas estilo chipolata o toscana abiertas al medio",
+          "1 chorizo portugués o linguiça ahumada cortada longitudinalmente",
+          "4 fetas de jamón cocido natural",
+          "300 g de queso flamenco portugués, gouda o mozzarella en fetas (para cubrir por completo)",
+          "2 huevos fritos (opcional para coronar)"
+        ]
+      },
+      {
+        "name": "Para la icónica salsa de cerveza y oporto",
+        "items": [
+          "330 ml de cerveza rubia o tostada",
+          "1 copita de vino Oporto dulce (o brandy)",
+          "2 cucharadas de manteca",
+          "1 cucharada colmada de harina de maíz (maicena) disuelta en 2 cucharadas de agua",
+          "150 g de puré de tomate concentrado",
+          "1 hoja de laurel",
+          "1 cebolla pequeña picada y 1 diente de ajo",
+          "Piri-piri o salsa picante de guindilla a gusto",
+          "1 caldito de carne casero"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Elaboración de la salsa tradicional",
+        "steps": [
+          "En una cacerola sofreír la cebolla picada y el ajo en la manteca con la hoja de laurel hasta que estén transparentes.",
+          "Añadir el puré de tomate, la cerveza, el vino de Oporto, el caldo de carne y abundante piri-piri o picante.",
+          "Cocinar a fuego medio durante 15 minutos. Retirar el laurel y procesar con mixer de inmersión hasta lograr una textura completamente lisa.",
+          "Agregar la maicena disuelta y cocinar 3 minutos más revolviendo hasta que espese con cuerpo aterciopelado y brillo apetitoso. Mantener hirviendo suavemente."
+        ]
+      },
+      {
+        "name": "Cocción de carnes y montaje",
+        "steps": [
+          "Tostar ligeramente las rebanadas de pan de molde.",
+          "Dorar a la plancha muy caliente los bifes de lomo, las salchichas y la linguiça.",
+          "Armar el sándwich en una fuente de horno individual: pan tostado, jamón cocido, bife de lomo, linguiça y salchichas, y tapar con la otra rebanada.",
+          "Cubrir la parte superior y todos los laterales del sándwich con fetas de queso solapadas, como un paquete cerrado.",
+          "Llevar a horno con grill fuerte a 220°C durante 5 a 7 minutos hasta que el queso esté totalmente derretido y apenas dorado.",
+          "Retirar, colocar un huevo frito encima si se desea, y bañar inmediatamente con dos cucharones de la salsa de cerveza hirviendo. Servir con papas fritas."
+        ]
+      }
+    ],
+    "notes": "La salsa debe servirse hirviendo: es la que funde de manera definitiva las capas de queso y unifica los jugos de las cuatro carnes.",
+    "image": "francesinha.jpg",
+    "url": "https://umamicraft.vercel.app/?receta=francesinha-tradicional-con-salsa-de-cerveza-portugal"
+  },
+  {
+    "id": 289,
+    "title": "Sándwich de Vacío a la Parrilla con Chimichurri (Argentina)",
+    "original_title": "Sándwich de Vacío a las Brasas",
+    "country": "Argentina",
+    "category": "Sándwiches / Burgers",
+    "tags": [
+      "Sándwich",
+      "Argentina",
+      "Carne Vacuna",
+      "Parrilla",
+      "Asado",
+      "Clásico"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "90 min",
+    "rest_time": "10 min",
+    "temperature": "Brasas moderadas / Fuego lento",
+    "servings": "4 porciones",
+    "calories": "640 kcal aprox. por porción",
+    "diet_badges": [
+      "Alto en Proteína",
+      "Sin Lácteos"
+    ],
+    "story": "Hermano mayor del choripán en las parrillas de la Costanera porteña y los asados de domingo, el sándwich de vacío es el culmen de la carne a las brasas argentina. Cocinado despacio con fuego de quebracho o carbón para ablandar su tejido conectivo hasta dejarlo mantequilla, se corta en lonjas al sesgo y se monta en pan francés crocante con chimichurri casero emulsionado con vinagre y hierbas.",
+    "ingredient_groups": [
+      {
+        "name": "Para la carne y el pan",
+        "items": [
+          "1 kg de vacío vacuno con buena cobertura de grasa pareja",
+          "4 panes franceses frescos (flautitas o baguettes individuales de costra crujiente)",
+          "Sal gruesa o parrillera a gusto"
+        ]
+      },
+      {
+        "name": "Para el chimichurri casero de bodegón",
+        "items": [
+          "1 taza de perejil fresco finamente picado",
+          "2 cucharadas de orégano seco",
+          "1 cucharada de ají molido dulce y 1/2 cucharadita de ají picante",
+          "3 dientes de ajo picados muy fino",
+          "1/2 taza de aceite de girasol o maíz",
+          "1/4 taza de vinagre de alcohol o de vino tinto",
+          "1 cucharadita de sal fina y pimienta negra recién molida",
+          "2 cucharadas de agua tibia (para hidratar las hierbas secas)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación del chimichurri",
+        "steps": [
+          "En un frasco o bol, hidratar el orégano seco y el ají molido con el agua tibia durante 5 minutos.",
+          "Añadir el perejil picado, el ajo, la sal fina y la pimienta negra.",
+          "Incorporar el vinagre y el aceite. Batir con tenedor para emulsionar y dejar reposar al menos 1 hora antes de servir."
+        ]
+      },
+      {
+        "name": "Asado del vacío a fuego lento",
+        "steps": [
+          "Preparar un buen fuego con carbón y leña. Salar el vacío con sal parrillera de ambos lados.",
+          "Colocar el vacío sobre la parrilla a fuego medio-bajo (soportando 8 a 10 segundos la mano sobre los fierros), primero del lado de la grasa/cuerito durante 60 minutos.",
+          "Dar vuelta cuando la superficie esté bien dorada y crocante, y asar del otro lado durante 30 a 35 minutos más.",
+          "Retirar y dejar reposar 5 minutos sobre una tabla de madera antes de cortar para retener los jugos."
+        ]
+      },
+      {
+        "name": "Armado del sándwich",
+        "steps": [
+          "Cortar el vacío al sesgo en lonjas medianas a contra veta para maximizar su terneza.",
+          "Abrir los panes franceses al medio y apoyar la miga unos segundos sobre la parrilla caliente para entibiar y absorber el aroma del humo.",
+          "Colocar una porción generosa de carne jugosa en cada pan.",
+          "Rociar abundantemente con el chimichurri casero, cerrar y disfrutar caliente."
+        ]
+      }
+    ],
+    "notes": "Cortar el vacío en diagonal a contramano de la fibra muscular es la clave para que cada bocado se corte sin esfuerzo dentro del pan.",
+    "image": "sandwich_vacio.jpg",
+    "url": "https://umamicraft.vercel.app/?receta=sandwich-de-vacio-a-la-parrilla-con-chimichurri-argentina"
+  },
+  {
+    "id": 290,
+    "title": "Chivito Uruguayo Completo al Pan (Uruguay)",
+    "original_title": "Chivito Tradicional Uruguayo al Pan",
+    "country": "Uruguay",
+    "category": "Sándwiches / Burgers",
+    "tags": [
+      "Sándwich",
+      "Uruguay",
+      "Carne Vacuna",
+      "Lomo",
+      "Queso",
+      "Clásico"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "12 min",
+    "rest_time": "3 min",
+    "temperature": "Plancha muy caliente",
+    "servings": "2 porciones",
+    "calories": "780 kcal aprox. por porción",
+    "diet_badges": [
+      "Alto en Proteína"
+    ],
+    "story": "Icono monumental de la cocina uruguaya inventado en 1944 por Antonio Carbonaro en el bar 'El Mejillón' de Punta del Este, cuando una clienta argentina pidió carne de chivo (cabrito) que no tenían. Carbonaro tostó pan con manteca, le puso un churrasco tierno de lomo vacuno fino, jamón y panceta. Con los años sumó queso fundido, huevo frito, pimientos y mayonesa, creando uno de los sándwiches más sabrosos del planeta.",
+    "ingredient_groups": [
+      {
+        "name": "Para el sándwich",
+        "items": [
+          "2 panes tortuga o catalán artesanal (suaves y anchos)",
+          "2 bifes finos de lomo vacuno bien tiernizados (150 g c/u)",
+          "4 fetas de jamón cocido natural",
+          "4 fetas de queso muzzarella o dambo",
+          "4 tiras de panceta ahumada crujiente",
+          "2 huevos frescos de campo",
+          "Hojas de lechuga mantecosa y 4 rodajas de tomate redondo maduro",
+          "Tiras de morrón rojo asado en conserva",
+          "Mayonesa casera y aceitunas descarozadas picadas"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Cocción simultánea en plancha",
+        "steps": [
+          "Calentar una plancha amplia a fuego fuerte. Dorar las tiras de panceta hasta que queden bien crocantes. Reservar al costado.",
+          "En la misma grasa de la panceta, cocinar los bifes de lomo salpimentados durante 1 a 2 minutos por lado a fuego muy vivo.",
+          "Sobre cada bife en la plancha colocar una feta de jamón y dos de muzzarella, tapar con una campana para que el queso se derrita al vapor.",
+          "Al lado, freír los dos huevos a la plancha dejando la yema tierna y cremosa.",
+          "Tostar las caras internas de los panes tortuga con una pizca de manteca en la plancha."
+        ]
+      },
+      {
+        "name": "Armado por capas",
+        "steps": [
+          "Untar ambas tapas del pan con mayonesa casera.",
+          "Sobre la base, colocar la lechuga y las rodajas de tomate.",
+          "Montar el lomo con el jamón y la muzzarella derretida.",
+          "Añadir la panceta crocante, las tiras de morrón asado y las aceitunas picadas.",
+          "Coronar con el huevo frito, tapar el sándwich y presionar con cuidado para que la yema empape suavemente los ingredientes.",
+          "Servir inmediatamente acompañado de papas fritas clásicas."
+        ]
+      }
+    ],
+    "notes": "El corte de carne debe ser lomo vacuno muy fino golpeado con mazo: se cocina en menos de dos minutos y se funde en la boca junto al queso.",
+    "image": "chivito_uruguayo.jpg",
+    "url": "https://umamicraft.vercel.app/?receta=chivito-uruguayo-completo-al-pan-uruguay"
+  },
+  {
+    "id": 291,
+    "title": "Fischbrötchen con Arenque Marinado y Cebolla (Alemania)",
+    "original_title": "Klassisches Fischbrötchen mit Bismarckhering",
+    "country": "Alemania",
+    "category": "Sándwiches / Burgers",
+    "tags": [
+      "Sándwich",
+      "Alemania",
+      "Pescado",
+      "Arenque",
+      "Street Food",
+      "Nórdico"
+    ],
+    "prep_time": "10 min",
+    "cook_time": "0 min",
+    "rest_time": "0 min",
+    "temperature": "Frío / Pan tibio",
+    "servings": "2 porciones",
+    "calories": "390 kcal aprox. por porción",
+    "diet_badges": [
+      "Alto en Proteína"
+    ],
+    "story": "El Fischbrötchen es el rey indiscutido de los puertos del Mar del Norte y el Báltico en Alemania, especialmente en Hamburgo y Kiel. Servido tradicionalmente en puestos portuarios de madera, consiste en un panecillo crujiente recién horneado (Brötchen) relleno con filetes de arenque marinado en vinagre suave y especias (Bismarck o Matjes), aros de cebolla blanca crujiente, pepinillos y una pincelada de salsa remoulade.",
+    "ingredient_groups": [
+      {
+        "name": "Para el panecillo y el pescado",
+        "items": [
+          "2 panecillos alemanes crocantes (Brötchen o panecillos de corteza dura)",
+          "4 filetes de arenque marinado Bismarck o Matjes suave",
+          "1 cebolla blanca o morada cortada en aros finos",
+          "2 pepinillos alemanes agridulces (Gewürzgurken) laminados a lo largo",
+          "Hojas de lechuga fresca crujiente"
+        ]
+      },
+      {
+        "name": "Para el aderezo",
+        "items": [
+          "2 cucharadas de salsa remoulade o mayonesa con eneldo picado",
+          "1 pizca de pimienta blanca molida",
+          "Ramitas de eneldo fresco"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación del pan y vegetales",
+        "steps": [
+          "Abrir los Brötchen al medio sin separarlos del todo. Si se desea, darles un golpe de horno de 2 minutos para que la corteza esté ultra crocante.",
+          "Untar la base con una capa delgada de salsa remoulade o mayonesa al eneldo.",
+          "Colocar una hoja de lechuga fresca como base protectora."
+        ]
+      },
+      {
+        "name": "Armado del Fischbrötchen",
+        "steps": [
+          "Disponer los filetes de arenque marinado doblados delicadamente dentro del panecillo.",
+          "Añadir los aros de cebolla cruda y las láminas de pepinillo agridulce.",
+          "Decorar con unas ramitas de eneldo fresco y un toque de pimienta blanca.",
+          "Cerrar el panecillo y consumir fresco frente al viento costero o con una cerveza bien fría."
+        ]
+      }
+    ],
+    "notes": "El arenque Bismarck marinado en vinagre suave y laurel aporta un balance salino y ácido inconfundible que no requiere ninguna cocción.",
+    "image": "fischbrotchen.jpg",
+    "url": "https://umamicraft.vercel.app/?receta=fischbrotchen-con-arenque-marinado-y-cebolla-alemania"
+  },
+  {
+    "id": 292,
+    "title": "Vada Pav — Sándwich Callejero de Croqueta de Papa (India)",
+    "original_title": "Mumbai Street Style Vada Pav",
+    "country": "India",
+    "category": "Sándwiches / Burgers",
+    "tags": [
+      "Sándwich",
+      "India",
+      "Vegetariano",
+      "Street Food",
+      "Picante",
+      "Papa"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "15 min",
+    "rest_time": "5 min",
+    "temperature": "Fritura caliente / Pan tibio",
+    "servings": "4 porciones",
+    "calories": "360 kcal aprox. por porción",
+    "diet_badges": [
+      "Vegetariano",
+      "Vegano"
+    ],
+    "story": "Nacido en 1966 de la mano de Ashok Vaidya frente a la concurrida estación de trenes de Dadar en Bombay (Mumbai), el Vada Pav es apodado la 'hamburguesa de los pobres' y se convirtió en el plato callejero más consumido de la India. Consiste en una croqueta de papa especiada (batata vada) frita en masa crujiente de garbanzos, colocada dentro de un panecillo pav untado con chutneys picantes de ajo seco y cilantro.",
+    "ingredient_groups": [
+      {
+        "name": "Para el relleno de papa (Batata Vada)",
+        "items": [
+          "4 papas medianas hervidas con cáscara, peladas y pisadas",
+          "1 cucharadita de semillas de mostaza negra",
+          "1 cucharadita de jengibre y ajo rallados",
+          "2 chiles verdes picados finos",
+          "1/2 cucharadita de cúrcuma en polvo",
+          "8 hojas de curry frescas (opcional)",
+          "2 cucharadas de cilantro fresco picado",
+          "Sal marina a gusto y 1 cucharada de aceite"
+        ]
+      },
+      {
+        "name": "Para el rebozado crocante",
+        "items": [
+          "1 taza de harina de garbanzos (Besan)",
+          "1/4 cucharadita de cúrcuma y una pizca de asafétida (hing)",
+          "1/2 cucharadita de sal fina",
+          "Agua suficiente para formar una masa suave como de panqueques",
+          "Aceite abundante para freír"
+        ]
+      },
+      {
+        "name": "Para el armado y chutneys",
+        "items": [
+          "4 panecillos pav (panes tiernos tipo brioche o rolls de manteca)",
+          "4 cucharadas de chutney verde (cilantro, menta y limón)",
+          "4 cucharadas de chutney dulce de tamarindo y dátiles",
+          "Chutney seco rojo de ajo y coco rallado picante (Lahsun ki chutney)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación de la croqueta de papa",
+        "steps": [
+          "Calentar una cucharada de aceite en una sartén. Agregar las semillas de mostaza negra hasta que comiencen a chisporrotear.",
+          "Añadir las hojas de curry, el jengibre, el ajo rallado y los chiles picados. Sofreír 1 minuto.",
+          "Incorporar la cúrcuma y verter de inmediato sobre las papas pisadas. Sumar el cilantro picado y la sal.",
+          "Mezclar bien con cuchara y dividir la masa formando 4 bolas esféricas del tamaño de una pelota de golf."
+        ]
+      },
+      {
+        "name": "Fritura crujiente en harina de garbanzo",
+        "steps": [
+          "En un bol batir la harina de garbanzos con la cúrcuma, sal y agua hasta obtener una crema fluida pero con cuerpo que cubra el dorso de una cuchara.",
+          "Calentar abundante aceite a 180°C.",
+          "Sumergir cada bola de papa en la masa de garbanzo cubriéndola por completo y sumergir con cuidado en el aceite caliente.",
+          "Freír durante 3 a 4 minutos girando las piezas hasta que la costra exterior esté dorada y crocante. Escurrir sobre papel."
+        ]
+      },
+      {
+        "name": "Armado explosivo de sabores",
+        "steps": [
+          "Abrir los panes pav al medio sin separarlos totalmente.",
+          "Untar la base con el chutney verde picante y el chutney dulce de tamarindo.",
+          "Espolvorear generosamente con el chutney seco de ajo y coco.",
+          "Colocar la croqueta caliente en el centro y aplastar suavemente con la palma de la mano al cerrar el pan. Servir acompañado de un chile verde frito entero."
+        ]
+      }
+    ],
+    "notes": "El chutney seco de ajo tostado y coco rallado frito es la firma aromática inconfundible que diferencia al auténtico Vada Pav callejero de Mumbai.",
+    "image": "vada_pav.jpg",
+    "url": "https://umamicraft.vercel.app/?receta=vada-pav-sandwich-callejero-de-croqueta-de-papa-india"
+  },
+  {
+    "id": 293,
+    "title": "Shawarma de Cordero en Pan Árabe con Tarator (Líbano)",
+    "original_title": "Authentic Lebanese Lamb Shawarma",
+    "country": "Líbano",
+    "category": "Sándwiches / Burgers",
+    "tags": [
+      "Sándwich",
+      "Líbano",
+      "Cordero",
+      "Medio Oriente",
+      "Street Food",
+      "Especias"
+    ],
+    "prep_time": "25 min",
+    "cook_time": "15 min",
+    "rest_time": "2 horas (Marinado)",
+    "temperature": "Plancha / Sartén de hierro muy caliente",
+    "servings": "4 porciones",
+    "calories": "560 kcal aprox. por porción",
+    "diet_badges": [
+      "Alto en Proteína",
+      "Sin Lácteos"
+    ],
+    "story": "Derivado del término turco 'çevirme' (que gira), el Shawarma libanés de cordero es una de las mayores joyas de la cocina levantina. Finas tiras de pierna de cordero marinadas durante horas en vinagre, cardamomo, canela, nuez moscada y comino se doran a fuego vivo y se enrollan en pan pita fino con cebolla al zumaque, tomates y una sedosa salsa tarator a base de pasta de sésamo (tahini), ajo y limón.",
+    "ingredient_groups": [
+      {
+        "name": "Para el cordero marinado",
+        "items": [
+          "600 g de pierna o paleta de cordero deshuesada cortada en tiras muy finas",
+          "3 cucharadas de aceite de oliva",
+          "2 cucharadas de vinagre de vino tinto o jugo de limón",
+          "3 dientes de ajo machacados",
+          "1 cucharadita de comino molido",
+          "1/2 cucharadita de canela, cardamomo molido, nuez moscada y pimentón dulce",
+          "Sal marina y pimienta negra molida"
+        ]
+      },
+      {
+        "name": "Para la salsa Tarator de tahini",
+        "items": [
+          "1/2 taza de pasta de sésamo puro (Tahini)",
+          "1/3 taza de jugo de limón recién exprimido",
+          "1/3 taza de agua helada (para emulsionar)",
+          "1 diente de ajo rallado y 1 pizca de sal"
+        ]
+      },
+      {
+        "name": "Para el armado",
+        "items": [
+          "4 panes árabes planos grandes (Pan Pita o Khubz libanés)",
+          "1 cebolla morada en juliana con zumaque y perejil picado",
+          "2 tomates en rodajas finas",
+          "Pepinillos encurtidos en vinagre (khiyar bi-khel)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Marinado aromático del cordero",
+        "steps": [
+          "En un bol mezclar el aceite de oliva, vinagre, ajo machacado y todas las especias (comino, cardamomo, canela, nuez moscada, pimentón, sal y pimienta).",
+          "Incorporar las tiras finas de cordero mezclando con las manos para impregnar la carne. Tapar y dejar marinar en heladera al menos 2 horas."
+        ]
+      },
+      {
+        "name": "Emulsión de la salsa Tarator",
+        "steps": [
+          "En un cuenco mezclar el tahini con el ajo rallado, sal y el jugo de limón (inicialmente se espesará fuertemente).",
+          "Ir incorporando el agua helada en cucharadas mientras se bate enérgicamente con batidor de alambre hasta que la salsa aclare su color y quede con una textura sedosa y cremosa."
+        ]
+      },
+      {
+        "name": "Salteado y enrollado en pan pita",
+        "steps": [
+          "Calentar una sartén de hierro o plancha al máximo con unas gotas de aceite.",
+          "Cocinar el cordero a fuego altísimo en tandas durante 3 a 4 minutos sin mover demasiado para que se dore con bordes crocantes y conserve su jugo.",
+          "Extender un pan árabe sobre la mesada. Untar el centro con abundante salsa tarator.",
+          "Disponer una porción generosa de cordero especiado, rodajas de tomate, la cebolla al zumaque y pepinillos.",
+          "Enrollar firmemente como un cilindro cerrado y pasar 1 minuto por la plancha caliente para sellar y tostar el exterior. Cortar al sesgo y servir."
+        ]
+      }
+    ],
+    "notes": "El agua helada es el secreto para que el tahini con limón emulsione en una crema blanca, ligera y suave sin separarse.",
+    "image": "shawarma_sandwich.jpg",
+    "url": "https://umamicraft.vercel.app/?receta=shawarma-de-cordero-en-pan-arabe-con-tarator-libano"
+  },
+  {
+    "id": 294,
+    "title": "Sánguche de Chicharrón con Camote Frito y Salsa Criolla (Perú)",
+    "original_title": "Sánguche de Chicharrón Tradicional Limeño",
+    "country": "Perú",
+    "category": "Sándwiches / Burgers",
+    "tags": [
+      "Sándwich",
+      "Perú",
+      "Cerdo",
+      "Desayuno",
+      "Street Food",
+      "Clásico"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "45 min",
+    "rest_time": "5 min",
+    "temperature": "Caliente / Recién frito",
+    "servings": "2 porciones",
+    "calories": "670 kcal aprox. por porción",
+    "diet_badges": [
+      "Alto en Proteína"
+    ],
+    "story": "Pilar de los domingos por la mañana en las clásicas sangucherías de Lima como El Chinito o Palermo, el Sánguche de Chicharrón combina la herencia andina y colonial española. Trozos jugosos de panceta de cerdo hervidos en su propio caldo y luego fritos en su propia manteca hasta quedar dorados y crocantes, servidos en pan francés con rodajas de camote (batata) frito y abundante salsa criolla con ají amarillo y hierbabuena.",
+    "ingredient_groups": [
+      {
+        "name": "Para el chicharrón y el camote",
+        "items": [
+          "500 g de panceta o panceta con costilla de cerdo cortada en trozos medianos",
+          "1 camote morado o naranja grande cortado en rodajas de 1/2 cm",
+          "2 panes franceses peruanos o panes roseta crujientes",
+          "1 rama de hierbabuena fresca",
+          "1 diente de ajo",
+          "Aceite vegetal para freír el camote",
+          "Sal marina a gusto"
+        ]
+      },
+      {
+        "name": "Para la salsa criolla limeña",
+        "items": [
+          "1 cebolla morada cortada en pluma muy fina (juliana)",
+          "1 ají amarillo fresco sin venas ni semillas cortado en tiritas finas",
+          "Hojas de hierbabuena fresca picadas",
+          "Jugo de 2 limones sutil o limas frescas",
+          "Sal y pimienta negra a gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Cocción y fritura del chicharrón en su grasa",
+        "steps": [
+          "Colocar los trozos de cerdo en una sartén honda o cacerola con 1 taza de agua, el diente de ajo, la rama de hierbabuena y una cucharada de sal.",
+          "Cocinar a fuego medio hasta que el agua se evapore por completo (unos 25 a 30 minutos). La carne quedará tierna y comenzará a soltar su propia grasa.",
+          "Dejar que los trozos de cerdo se doren y frían en su propia manteca derretida durante 8 a 10 minutos, revolviendo constantemente hasta que la superficie quede dorada, crocante y crujiente. Escurrir."
+        ]
+      },
+      {
+        "name": "Fritura de camote y salsa criolla",
+        "steps": [
+          "Freír las rodajas de camote en abundante aceite caliente hasta que estén tiernas por dentro y doradas en los bordes. Escurrir sobre papel.",
+          "Enjuagar la cebolla pluma en agua fría y escurrir bien.",
+          "Mezclar la cebolla con el ají amarillo en tiras, la hierbabuena picada, sal, pimienta y el jugo de limón recién exprimido."
+        ]
+      },
+      {
+        "name": "Armado del sánguche",
+        "steps": [
+          "Abrir los panes franceses al medio.",
+          "Colocar en la base una generosa capa de rodajas de camote frito dorado.",
+          "Acomodar encima los trozos calientes y crujientes de chicharrón de cerdo.",
+          "Coronar con abundante salsa criolla fresca y jugosa. Servir de inmediato con café pasado caliente."
+        ]
+      }
+    ],
+    "notes": "Hervir el cerdo primero garantiza que la carne quede mantecosa y deshebra fácil, mientras que freírlo en su propia grasa al final le da el crocante perfecto.",
+    "image": "sanguche_chicharron.jpg",
+    "url": "https://umamicraft.vercel.app/?receta=sanguche-de-chicharron-con-camote-frito-y-salsa-criolla-peru"
+  },
+  {
+    "id": 295,
+    "title": "Slider Estilo White Castle al Vapor con Cebolla (Estados Unidos)",
+    "original_title": "Copycat White Castle Steamed Onion Sliders",
+    "country": "Estados Unidos",
+    "category": "Sándwiches / Burgers",
+    "tags": [
+      "Hamburguesa",
+      "Estados Unidos",
+      "Slider",
+      "Street Food",
+      "Clásico",
+      "Carne Vacuna"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "10 min",
+    "rest_time": "2 min",
+    "temperature": "Plancha a fuego medio / Cocción al vapor",
+    "servings": "4 porciones (8 sliders)",
+    "calories": "320 kcal aprox. por slider",
+    "diet_badges": [
+      "Alto en Proteína"
+    ],
+    "story": "Nacido en 1921 en Wichita (Kansas) con la fundación de White Castle —la primera cadena de hamburgueserías de la historia—, el slider al vapor revolucionó el fast food moderno. Su técnica única consiste en cocinar finos medallones cuadrados de carne sobre un colchón de cebolla picada muy fina con abundante vapor, atravesando la carne a través de 5 orificios característicos sin necesidad de darla vuelta, mientras el pan reposa encima absorbiendo todos los aromas.",
+    "ingredient_groups": [
+      {
+        "name": "Para los medallones y el pan",
+        "items": [
+          "450 g de carne picada vacuna (80% magro / 20% grasa, preferentemente roast beef o chuck)",
+          "8 panes para slider cuadrados pequeños (panes de papa o brioche mini)",
+          "4 fetas de queso americano o cheddar procesado (cortadas en 4 cuadrados cada una)",
+          "8 rodajas de pepinillos encurtidos agridulces (dill pickle chips)"
+        ]
+      },
+      {
+        "name": "Para el colchón de cebolla al vapor (secreto White Castle)",
+        "items": [
+          "1 taza de cebolla deshidratada picada rehidratada en 1 taza de agua tibia durante 20 minutos (o 1 cebolla blanca fresca picada milimétricamente)",
+          "1/4 taza de agua o caldo de carne caliente (para generar vapor en la plancha)",
+          "Sal fina y pimienta negra recién molida"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Formado de los medallones con 5 orificios",
+        "steps": [
+          "Extender la carne picada entre dos hojas de papel manteca con un palo de amasar hasta lograr un espesor parejo de 4 a 5 milímetros.",
+          "Cortar en 8 cuadrados del tamaño exacto del pan de slider.",
+          "Con el cabo de una cuchara de madera o un sorbete grueso, perforar 5 orificios en cada medallón (uno en cada esquina y uno en el centro). Esto permite que el vapor de la cebolla cocine la carne rápidamente sin voltearla.",
+          "Llevar los medallones al freezer durante 15 minutos para que mantengan la forma al manipularlos."
+        ]
+      },
+      {
+        "name": "Cocción al vapor sobre colchón de cebolla",
+        "steps": [
+          "Calentar una plancha o sartén amplia a fuego medio.",
+          "Extender la cebolla picada húmeda formando montoncitos planos en la base de la plancha.",
+          "Colocar un medallón de carne perforado directamente sobre cada lecho de cebolla. Espolvorear con sal fina y pimienta.",
+          "Rociar un chorrito de agua alrededor de la plancha para generar una nube de vapor instantánea.",
+          "Colocar inmediatamente la base del pan sobre la carne y la corona del pan sobre la base (apiladas encima). Tapar con una campana o tapa de cacerola durante 3 a 4 minutos.",
+          "El vapor caliente atravesará los orificios cocinando la carne, caramelizando suavemente la cebolla y calentando los panes hasta dejarlos ultra suaves y húmedos."
+        ]
+      },
+      {
+        "name": "Armado final",
+        "steps": [
+          "Retirar la tapa. Levantar la corona del pan, colocar un cuadrado de queso americano sobre la carne caliente para que se funda al instante y un pepinillo encurtido.",
+          "Con una espátula ancha, levantar el slider junto con toda la cebolla cocida de la base e insertarlo dentro del pan.",
+          "Servir de a pares bien calientes y suaves."
+        ]
+      }
+    ],
+    "notes": "Los 5 orificios son el secreto patentado por White Castle en 1954: actúan como chimeneas térmicas que cocinan la hamburguesa en tiempo récord sin perder terneza.",
+    "image": "slider_white_castle.jpg",
+    "url": "https://umamicraft.vercel.app/?receta=slider-estilo-white-castle-al-vapor-con-cebolla-estados-unidos"
+  },
+  {
+    "id": 296,
+    "title": "Oklahoma Onion Smash Burger con Cebolla a la Plancha (Estados Unidos)",
+    "original_title": "Authentic Oklahoma Fried Onion Smash Burger",
+    "country": "Estados Unidos",
+    "category": "Sándwiches / Burgers",
+    "tags": [
+      "Hamburguesa",
+      "Estados Unidos",
+      "Smash Burger",
+      "Cebolla",
+      "Street Food",
+      "Clásico"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "8 min",
+    "rest_time": "2 min",
+    "temperature": "Plancha de hierro a 220°C - 230°C",
+    "servings": "2 porciones",
+    "calories": "590 kcal aprox. por porción",
+    "diet_badges": [
+      "Alto en Proteína"
+    ],
+    "story": "Nacida durante la Gran Depresión de la década de 1920 en El Reno (Oklahoma), en locales históricos como el Hamburger Inn y Sid's Diner, esta hamburguesa surgió de la necesidad de estirar la costosa carne picada incorporándole hasta un 50% de su peso en cebolla dulce. Cortada fina como papel transparente, la cebolla se aplasta directamente contra la carne sobre una plancha hirviendo, caramelizándose y fundiéndose en una costra crujiente e irresistible.",
+    "ingredient_groups": [
+      {
+        "name": "Para las hamburguesas",
+        "items": [
+          "320 g de carne picada de res (blend 80/20 roast beef y tapa de asado), dividida en 4 bolas de 80 g bien frías",
+          "1 cebolla blanca o dulce grande (Vidalia), afeitada en juliana translúcida con mandolina",
+          "4 fetas de queso americano clásico (American cheese fundente)",
+          "2 panes de hamburguesa de papa (Potato Buns) o brioche suave",
+          "2 cucharaditas de mostaza amarilla clásica",
+          "Sal parrillera fina y pimienta negra recién molida",
+          "Rodajas de pepinillos en vinagre (dill pickles)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Corte de la cebolla y preparado",
+        "steps": [
+          "Cortar la cebolla con mandolina en el grosor más fino posible (debe quedar casi transparente, como papel de seda).",
+          "Secar ligeramente con papel de cocina para que al entrar en contacto con el calor caramelice en lugar de hervir.",
+          "Formar 4 bolas de carne de 80 g sin amasar en exceso. Mantener refrigeradas hasta el segundo de cocinarlas."
+        ]
+      },
+      {
+        "name": "La técnica del aplastado 'Smash' con cebolla",
+        "steps": [
+          "Calentar una plancha de hierro fundido a máxima temperatura (debe humear levemente, unos 230°C). No agregar aceite.",
+          "Colocar las bolas de carne sobre la plancha con espacio entre sí.",
+          "Inmediatamente, colocar una montaña generosa de cebolla afeitada sobre cada bola de carne.",
+          "Con una espátula de metal rígida y pesada (ayudándose con un palo o segunda espátula), aplastar con toda la fuerza hacia abajo hasta dejar el medallón plano como una moneda de medio centímetro, incrustando la cebolla dentro de la carne cruda.",
+          "Condimentar generosamente con sal y pimienta negra por encima de la cebolla aplastada.",
+          "Cocinar durante 2 minutos y medio sin tocar, permitiendo que la grasa de la carne forme una costra marrón oscura crocante (reacción de Maillard)."
+        ]
+      },
+      {
+        "name": "Vuelta, fundido y vaporizado del pan",
+        "steps": [
+          "Con la espátula bien afilada raspar el fondo con fuerza para despegar toda la costra intacta y dar vuelta el medallón. Ahora la cebolla quedará abajo en contacto con la plancha hirviendo, friéndose en la grasa de la carne.",
+          "Pintar la superficie con unas gotas de mostaza amarilla y cubrir de inmediato con una feta de queso americano.",
+          "Montar un medallón sobre el otro para formar una doble con doble queso.",
+          "Apoyar la base del pan y la corona directamente sobre la carne para que absorba el vapor de la cebolla caramelizada.",
+          "Tras 90 segundos, retirar con la espátula llevando consigo todas las hebras de cebolla crocantes y tostadas, agregar pepinillos y servir inmediatamente."
+        ]
+      }
+    ],
+    "notes": "Cortar la cebolla con mandolina ultra delgada es indispensable: solo así se integra físicamente a la carne al aplastarla y se carameliza en menos de dos minutos.",
+    "image": "oklahoma_onion_smash.jpg",
+    "url": "https://umamicraft.vercel.app/?receta=oklahoma-onion-smash-burger-con-cebolla-a-la-plancha-estados-unidos"
+  },
+  {
+    "id": 297,
+    "title": "Doble Smash Cheeseburger Clásica con Costra Crocante (Estados Unidos)",
+    "original_title": "Classic Double Smash Cheeseburger",
+    "country": "Estados Unidos",
+    "category": "Sándwiches / Burgers",
+    "tags": [
+      "Hamburguesa",
+      "Estados Unidos",
+      "Smash Burger",
+      "Queso Fundido",
+      "Doble",
+      "Clásico"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "6 min",
+    "rest_time": "2 min",
+    "temperature": "Plancha hirviendo a 230°C",
+    "servings": "2 porciones",
+    "calories": "680 kcal aprox. por porción",
+    "diet_badges": [
+      "Alto en Proteína"
+    ],
+    "story": "La Doble Smash Cheeseburger es el estándar de oro de los diners norteamericanos y templos modernos de la hamburguesa como Shake Shack. A diferencia de las hamburguesas gruesas de parrilla, aquí la carne se aplasta violentamente contra el hierro caliente para maximizar la superficie de contacto y generar una costra crujiente de encaje ('lacy edges') con notas caramelizadas irresistibles, unida por queso americano sedoso y salsa secreta.",
+    "ingredient_groups": [
+      {
+        "name": "Para los medallones y el armado",
+        "items": [
+          "320 g de carne picada de res fresca (blend de 70% roast beef / chuck y 30% pecho / brisket), dividida en 4 bolas de 80 g bien frías",
+          "4 fetas de queso americano fundente de calidad (tipo Kraft Deluxe)",
+          "2 panes de papa estilo Martin's Potato Roll o pan brioche suave",
+          "20 g de manteca derretida (para dorar los panes)",
+          "Rodajas de pepinillos agridulces en vinagre",
+          "Sal entrefina y pimienta negra molida"
+        ]
+      },
+      {
+        "name": "Para la salsa especial de hamburguesa (Shack Sauce casera)",
+        "items": [
+          "4 cucharadas de mayonesa",
+          "1 cucharada de ketchup",
+          "1 cucharadita de mostaza amarilla Dijon",
+          "1 cucharadita de pepinillos finamente picados (relish)",
+          "1/4 cucharadita de ajo en polvo, pimentón ahumado y pimienta de cayena"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación de la salsa y tostado de panes",
+        "steps": [
+          "En un bol pequeño mezclar todos los ingredientes de la salsa especial hasta integrar. Reservar en frío.",
+          "Pintar las caras internas de los panes de papa con manteca y dorar sobre la plancha a fuego medio durante 1 minuto hasta lograr un dorado uniforme que selle la miga."
+        ]
+      },
+      {
+        "name": "El aplastado de encaje (Lacy Smash)",
+        "steps": [
+          "Calentar la plancha de hierro sin nada de aceite a 230°C.",
+          "Colocar 2 bolas de carne frías bien separadas.",
+          "Colocar un cuadrado de papel manteca sobre la bola (para que la carne no se pegue al metal) y presionar con fuerza extrema usando una espátula pesada durante 10 segundos, empujando los bordes hacia afuera para que queden ultrafinos e irregulares.",
+          "Retirar el papel. Sazonar con abundante sal y pimienta.",
+          "Cocinar 90 segundos a fuego furioso hasta que los bordes estén crujientes y se vean jugos burbujeando en la superficie."
+        ]
+      },
+      {
+        "name": "Despegado, queso y montaje doble",
+        "steps": [
+          "Con una espátula de filo filoso, raspar rascando el hierro para conservar el 100% de la costra dorada y dar vuelta.",
+          "Colocar inmediatamente una feta de queso americano sobre cada medallón.",
+          "Cocinar solo 30 a 45 segundos más para derretir el queso.",
+          "Montar un medallón sobre el otro para formar la doble smash.",
+          "Untar la corona del pan con salsa especial, colocar rodajas de pepinillos, encajar la doble hamburguesa con queso y cerrar. Comer caliente."
+        ]
+      }
+    ],
+    "notes": "Usar papel manteca entre la espátula y la carne cruda permite aplastar con máxima fuerza sin que la carne se adhiera a la herramienta.",
+    "image": "doble_smash_cheeseburger.jpg",
+    "url": "https://umamicraft.vercel.app/?receta=doble-smash-cheeseburger-clasica-con-costra-crocante-estados-unidos"
+  },
+  {
+    "id": 298,
+    "title": "Wisconsin Butter Burger con Cebolla y Queso Cheddar (Estados Unidos)",
+    "original_title": "Traditional Wisconsin Butter Burger",
+    "country": "Estados Unidos",
+    "category": "Sándwiches / Burgers",
+    "tags": [
+      "Hamburguesa",
+      "Estados Unidos",
+      "Manteca",
+      "Cheddar",
+      "Jugosa",
+      "Comfort Food"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "15 min",
+    "rest_time": "3 min",
+    "temperature": "Plancha caliente / Manteca derretida",
+    "servings": "2 porciones",
+    "calories": "740 kcal aprox. por porción",
+    "diet_badges": [
+      "Alto en Proteína"
+    ],
+    "story": "Orgullo absoluto del estado de Wisconsin ('la tierra de los lácteos' de Estados Unidos), inmortalizada desde 1936 por el legendario Solly's Grille en Milwaukee y más tarde por Culver's. La Butter Burger no tiene timidez: celebra la carne de res fresca cocinada a la plancha, bañada en una cantidad gloriosa de manteca pura de crema de leche y cebollas cocinadas a fuego lento, rematada con un pegote generoso de manteca fundiéndose directamente en la corona del pan tostado.",
+    "ingredient_groups": [
+      {
+        "name": "Para las hamburguesas",
+        "items": [
+          "360 g de carne vacuna molida (80/20 de corte roast beef fresco), dividida en 2 medallones gruesos de 180 g",
+          "4 fetas gruesas de queso Cheddar madurado de Wisconsin (o cheddar blanco natural)",
+          "2 panes de hamburguesa tradicionales de sésamo o brioche",
+          "Sal marina y pimienta negra recién molida"
+        ]
+      },
+      {
+        "name": "Para las cebollas a la manteca y el baño lácteo",
+        "items": [
+          "60 g de manteca con sal de excelente calidad (Wisconsin sweet cream butter)",
+          "1 cebolla amarilla grande cortada en rodajas finas",
+          "1 pizca de azúcar y sal fina para caramelizar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Cocción lenta de las cebollas en manteca",
+        "steps": [
+          "En una sartén a fuego medio-bajo derretir 30 g de manteca con sal.",
+          "Agregar las cebollas en rodajas con una pizca de sal y azúcar.",
+          "Cocinar lentamente durante 15 a 20 minutos revolviendo con cuchara de madera hasta que las cebollas estén tiernísimas, traslúcidas y embebidas en manteca dorada líquida. Mantener tibias."
+        ]
+      },
+      {
+        "name": "Sellado jugoso del medallón",
+        "steps": [
+          "Formar los medallones de carne con una ligera hendidura en el centro para que no se inflen.",
+          "Calentar una plancha a fuego medio-alto y pincelar con manteca derretida.",
+          "Colocar los medallones sazonados con sal y pimienta. Cocinar 3 minutos por lado logrando un sellado dorado profundo pero manteniendo el corazón jugoso.",
+          "En el último minuto, cubrir cada medallón con dos fetas de queso Cheddar de Wisconsin, colocar una cucharada de agua en la plancha y tapar para que el queso se funda envolviendo la carne."
+        ]
+      },
+      {
+        "name": "El toque de manteca maestro",
+        "steps": [
+          "Tostar las caras internas de los panes en la plancha con manteca.",
+          "Colocar sobre la corona interior del pan caliente una cucharada colmada de manteca blanda cruda (se derretirá lentamente empapando la miga con su riqueza láctea).",
+          "Sobre la base del pan, disponer el medallón de carne con su queso cheddar derretido.",
+          "Coronar con una montaña generosa de las cebollas guisadas en manteca con todos sus jugos dorados.",
+          "Cerrar la hamburguesa y servir de inmediato: cada bocado es una explosión sedosa de carne, queso y manteca pura."
+        ]
+      }
+    ],
+    "notes": "En los diners tradicionales de Wisconsin se sirve un trozo de manteca fresca directamente sobre el pan caliente justo antes de servir, de modo que se derrita frente a los ojos del comensal.",
+    "image": "wisconsin_butter_burger.jpg",
+    "url": "https://umamicraft.vercel.app/?receta=wisconsin-butter-burger-con-cebolla-y-queso-cheddar-estados-unidos"
+  },
+  {
+    "id": 299,
+    "title": "Patty Melt Tradicional en Pan de Centeno y Queso Suizo (Estados Unidos)",
+    "original_title": "Classic Diner Style Patty Melt",
+    "country": "Estados Unidos",
+    "category": "Sándwiches / Burgers",
+    "tags": [
+      "Hamburguesa",
+      "Sándwich",
+      "Estados Unidos",
+      "Diner",
+      "Centeno",
+      "Queso Fundido"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "20 min",
+    "rest_time": "2 min",
+    "temperature": "Plancha a fuego medio-bajo / Tostado crocante",
+    "servings": "2 porciones",
+    "calories": "660 kcal aprox. por porción",
+    "diet_badges": [
+      "Alto en Proteína"
+    ],
+    "story": "Creado entre 1940 y 1950 por Tiny Naylor en su restaurante de Los Ángeles (California), el Patty Melt es el hijo predilecto entre una cheeseburger y un sándwich de queso tostado (grilled cheese). En lugar de usar pan redondo, se prepara entre dos rebanadas gruesas de pan de centeno tostadas en manteca con cebollas caramelizadas lentamente, queso suizo Emmental y queso cheddar, fusionando la textura crocante del pan con la carne jugosa.",
+    "ingredient_groups": [
+      {
+        "name": "Para el armado y los medallones",
+        "items": [
+          "340 g de carne vacuna molida (80/20 roast beef y tapa), dividida en 2 medallones ovalados que coincidan con la forma del pan",
+          "4 rebanadas gruesas de pan de centeno con alcaravea (Rye bread)",
+          "4 fetas de queso Suizo (Swiss / Emmental)",
+          "2 fetas de queso Cheddar amarillo",
+          "40 g de manteca pomada (para untar las caras externas del pan)",
+          "Sal y pimienta negra molida"
+        ]
+      },
+      {
+        "name": "Para las cebollas caramelizadas y aderezo",
+        "items": [
+          "2 cebollas amarillas medianas cortadas en juliana",
+          "1 cucharada de manteca y 1 cucharada de aceite de oliva",
+          "2 cucharadas de salsa mil islas o mostaza Dijon suave",
+          "1 cucharadita de salsa inglesa Worcestershire"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Caramelizado profundo de cebollas",
+        "steps": [
+          "En una sartén calentar la manteca y el aceite a fuego medio. Agregar las cebollas con una pizca de sal.",
+          "Cocinar lentamente durante 20 minutos revolviendo periódicamente hasta que adquieran un color caramelo oscuro, suave y dulce.",
+          "Añadir la salsa inglesa Worcestershire, revolver 1 minuto más y retirar del fuego."
+        ]
+      },
+      {
+        "name": "Cocción del medallón ovalado",
+        "steps": [
+          "Moldear la carne picada con forma ovalada, calcando el perfil de las rebanadas de pan de centeno.",
+          "Calentar una plancha a fuego medio-alto. Salpimentar la carne y cocinar 3 minutos por lado hasta dorar con costra firme.",
+          "Retirar y reservar en un plato."
+        ]
+      },
+      {
+        "name": "Tostado y fundido estilo 'Grilled Cheese'",
+        "steps": [
+          "Untar con abundante manteca pomada las caras exteriores de las 4 rebanadas de centeno.",
+          "En las caras internas no enmantecadas, untar una capa delgada de salsa mil islas o mostaza Dijon.",
+          "Disponer sobre dos rebanadas: una feta de queso suizo, el medallón de carne caliente, una porción abundante de cebollas caramelizadas, una feta de cheddar y otra feta de queso suizo por encima.",
+          "Tapar con las rebanadas restantes con la manteca hacia afuera.",
+          "Cocinar los sándwiches en sartén limpia a fuego medio-bajo durante 4 a 5 minutos por lado, presionando con una espátula, hasta que el centeno esté crujiente y dorado, y los quesos estén fundidos y desbordantes.",
+          "Cortar al sesgo en diagonal y servir de inmediato."
+        ]
+      }
+    ],
+    "notes": "Cocinarlo a fuego medio-bajo es fundamental: permite que el pan de centeno se tueste despacio en la manteca sin quemarse mientras los tres pisos de queso se funden por completo.",
+    "image": "patty_melt.jpg",
+    "url": "https://umamicraft.vercel.app/?receta=patty-melt-tradicional-en-pan-de-centeno-y-queso-suizo-estados-unidos"
   }
 ]

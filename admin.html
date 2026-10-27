@@ -483,13 +483,18 @@
             <select id="tableCategoryFilter" class="form-select" style="width:auto;" onchange="renderTable()">
               <option value="all">Todas las categorías</option>
             </select>
+            <select id="tableSortOrder" class="form-select" style="width:auto;" onchange="renderTable()">
+              <option value="id_desc" selected>✨ Más recientes primero</option>
+              <option value="id_asc">📑 Orden original (#1 en adelante)</option>
+              <option value="title_asc">🔤 Título (A - Z)</option>
+            </select>
           </div>
 
           <div style="overflow-x:auto;">
             <table>
               <thead>
                 <tr>
-                  <th style="width:60px;">ID</th>
+                  <th style="width:75px; cursor:pointer;" onclick="toggleTableIdSort()" title="Clic para invertir orden">ID ⬍</th>
                   <th>Plato / Receta</th>
                   <th>Origen</th>
                   <th>Categoría</th>
@@ -785,6 +790,11 @@
     function updateMetrics() {
       document.getElementById('mTotal').textContent = recipes.length;
       document.getElementById('tabCount').textContent = recipes.length;
+      const sortDescOpt = document.querySelector('#tableSortOrder option[value="id_desc"]');
+      if (sortDescOpt) sortDescOpt.textContent = `✨ Más recientes primero (#${recipes.length} a #1)`;
+      const sortAscOpt = document.querySelector('#tableSortOrder option[value="id_asc"]');
+      if (sortAscOpt) sortAscOpt.textContent = `📑 Orden original (#1 a #${recipes.length})`;
+
       document.getElementById('mCocktails').textContent = recipes.filter(r => r.category === 'Cocktails & Tragos').length;
       const countries = new Set(recipes.map(r => r.country).filter(Boolean));
       document.getElementById('mCountries').textContent = countries.size;
@@ -809,12 +819,20 @@
       sel.innerHTML = '<option value="all">Todas las categorías</option>' + cats.map(c => `<option value="${c}">${c}</option>`).join('');
     }
 
+    function toggleTableIdSort() {
+      const sel = document.getElementById('tableSortOrder');
+      if (!sel) return;
+      sel.value = sel.value === 'id_desc' ? 'id_asc' : 'id_desc';
+      renderTable();
+    }
+
     function renderTable() {
       const q = document.getElementById('tableSearch').value.toLowerCase().trim();
       const cat = document.getElementById('tableCategoryFilter').value;
+      const sortOrder = document.getElementById('tableSortOrder') ? document.getElementById('tableSortOrder').value : 'id_desc';
       const tbody = document.getElementById('recipesTableBody');
 
-      const filtered = recipes.filter(r => {
+      let filtered = recipes.filter(r => {
         if (cat !== 'all' && r.category !== cat) return false;
         if (q) {
           const matchTitle = (r.title || '').toLowerCase().includes(q);
@@ -824,6 +842,15 @@
         }
         return true;
       });
+
+      // Ordenar por defecto de más nuevas a más viejas (id descendente)
+      if (sortOrder === 'id_desc') {
+        filtered.sort((a, b) => (b.id || 0) - (a.id || 0));
+      } else if (sortOrder === 'id_asc') {
+        filtered.sort((a, b) => (a.id || 0) - (b.id || 0));
+      } else if (sortOrder === 'title_asc') {
+        filtered.sort((a, b) => (a.title || '').localeCompare(b.title || ''));
+      }
 
       tbody.innerHTML = filtered.map(r => `
         <tr>

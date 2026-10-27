@@ -1,3 +1,25 @@
 {
-  "cleanUrls": true
+  "cleanUrls": true,
+  "rewrites": [
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "receta"
+        }
+      ],
+      "destination": "/api/index"
+    },
+    {
+      "source": "/",
+      "has": [
+        {
+          "type": "query",
+          "key": "r"
+        }
+      ],
+      "destination": "/api/index"
+    }
+  ]
 }
