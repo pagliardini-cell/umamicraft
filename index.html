@@ -3569,7 +3569,25 @@
     /* =========================================================================
        MOTOR DE TRADUCCIÓN INSTANTÁNEA (ESPAÑOL / ENGLISH / PORTUGUÊS)
        ========================================================================= */
-    let currentLang = localStorage.getItem('umamicraft_lang') || 'es';
+    const _initialUrlParams = new URLSearchParams(window.location.search);
+    const _initialUrlLang = _initialUrlParams.get('lang');
+    // Prioridad absoluta al parámetro del enlace (?lang=pt o ?lang=en). Si no hay parámetro, usa localStorage.
+    let currentLang = (_initialUrlLang && ['es', 'en', 'pt'].includes(_initialUrlLang))
+      ? _initialUrlLang
+      : (localStorage.getItem('umamicraft_lang') || 'es');
+
+    // Sincronizar inmediatamente cookies y almacenamiento para que coincida con el enlace
+    if (_initialUrlLang && ['es', 'en', 'pt'].includes(_initialUrlLang)) {
+      localStorage.setItem('umamicraft_lang', _initialUrlLang);
+      const domain = location.hostname;
+      if (_initialUrlLang === 'es') {
+        document.cookie = 'googtrans=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;';
+        document.cookie = `googtrans=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/; domain=${domain};`;
+      } else {
+        document.cookie = `googtrans=/es/${_initialUrlLang}; path=/;`;
+        document.cookie = `googtrans=/es/${_initialUrlLang}; path=/; domain=${domain};`;
+      }
+    }
 
     function initGoogleTranslate() {
       if (!document.getElementById('google_translate_element')) {
@@ -3585,6 +3603,16 @@
           includedLanguages: 'es,en,pt',
           autoDisplay: false
         }, 'google_translate_element');
+
+        if (currentLang && currentLang !== 'es') {
+          setTimeout(() => {
+            const select = document.querySelector('.goog-te-combo');
+            if (select) {
+              select.value = currentLang;
+              select.dispatchEvent(new Event('change'));
+            }
+          }, 150);
+        }
       };
 
       if (!document.getElementById('gt_script')) {
@@ -3625,8 +3653,13 @@
       history.replaceState(null, '', url.pathname + url.search);
 
       const domain = location.hostname;
-      document.cookie = `googtrans=/es/${lang}; path=/; domain=${domain};`;
-      document.cookie = `googtrans=/es/${lang}; path=/;`;
+      if (lang === 'es') {
+        document.cookie = 'googtrans=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;';
+        document.cookie = `googtrans=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/; domain=${domain};`;
+      } else {
+        document.cookie = `googtrans=/es/${lang}; path=/; domain=${domain};`;
+        document.cookie = `googtrans=/es/${lang}; path=/;`;
+      }
 
       const select = document.querySelector('.goog-te-combo');
       if (select) {
@@ -3713,27 +3746,32 @@
     init();
     initGoogleTranslate();
 
-    // Sincronización automática de idioma desde URL (?lang=en) o guardado en el navegador
-    const urlLang = new URLSearchParams(window.location.search).get('lang');
-    const effectiveLang = (urlLang && ['es', 'en', 'pt'].includes(urlLang)) ? urlLang : (localStorage.getItem('umamicraft_lang') || 'es');
-    if (effectiveLang && effectiveLang !== 'es') {
-      currentLang = effectiveLang;
-      document.querySelectorAll('.lang-btn').forEach(btn => {
-        btn.classList.toggle('active', btn.id === 'btnLang' + effectiveLang.charAt(0).toUpperCase() + effectiveLang.slice(1));
-      });
-      document.cookie = `googtrans=/es/${effectiveLang}; path=/;`;
+    // Sincronización automática de idioma garantizando prioridad al enlace (?lang=pt o ?lang=en)
+    const effectiveLang = currentLang;
+    document.querySelectorAll('.lang-btn').forEach(btn => {
+      btn.classList.toggle('active', btn.id === 'btnLang' + effectiveLang.charAt(0).toUpperCase() + effectiveLang.slice(1));
+    });
+    updateModalLangUI(effectiveLang);
 
-      let attempts = 0;
-      const langInterval = setInterval(() => {
-        const select = document.querySelector('.goog-te-combo');
-        if (select) {
-          select.value = effectiveLang;
-          select.dispatchEvent(new Event('change'));
-          clearInterval(langInterval);
+    let attempts = 0;
+    const langInterval = setInterval(() => {
+      const select = document.querySelector('.goog-te-combo');
+      if (select) {
+        if (effectiveLang === 'es') {
+          if (select.value && select.value !== 'es') {
+            select.value = 'es';
+            select.dispatchEvent(new Event('change'));
+          }
+        } else {
+          if (select.value !== effectiveLang) {
+            select.value = effectiveLang;
+            select.dispatchEvent(new Event('change'));
+          }
         }
-        if (++attempts > 20) clearInterval(langInterval);
-      }, 250);
-    }
+        clearInterval(langInterval);
+      }
+      if (++attempts > 30) clearInterval(langInterval);
+    }, 200);
   </script>
 </body>
 </html>
