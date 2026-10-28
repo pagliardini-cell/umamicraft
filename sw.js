@@ -1,13 +1,14 @@
 // Service Worker de UmamiCraft (PWA con soporte offline y caché inteligente)
-const CACHE_NAME = 'umamicraft-v1.0';
+const CACHE_NAME = 'umamicraft-v2.0';
 const STATIC_ASSETS = [
   '/',
   '/index.html',
-  '/manifest.json',
-  '/icon-192.png',
-  '/icon-512.png',
-  '/apple-touch-icon.png',
-  '/favicon.png',
+  '/manifest.json?v=2',
+  '/icon-192.png?v=2',
+  '/icon-512.png?v=2',
+  '/apple-touch-icon.png?v=2',
+  '/favicon.svg?v=2',
+  '/favicon.png?v=2',
   '/recetas_pro.json'
 ];
 
