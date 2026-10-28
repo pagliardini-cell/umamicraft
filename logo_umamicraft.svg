@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 220" width="100%" height="100%">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800&amp;family=Plus+Jakarta+Sans:wght@700;800&amp;display=swap');
+      .brand-title {
+        font-family: 'Playfair Display', Georgia, serif;
+        font-size: 74px;
+        font-weight: 800;
+      }
+      .brand-subtitle {
+        font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+        font-size: 17px;
+        font-weight: 800;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        fill: #78716c;
+      }
+    </style>
+  </defs>
+
+  <!-- Isotipo Oficial: Fondo Terracota con Esquinas Redondeadas -->
+  <g transform="translate(40, 40)">
+    <rect width="140" height="140" rx="32" fill="#c2410c" />
+    <text x="70" y="103" text-anchor="middle" font-family="'Playfair Display', Georgia, serif" font-size="98" font-weight="800" fill="#faf7f2">U</text>
+  </g>
+
+  <!-- Logotipo Texto -->
+  <g transform="translate(210, 115)">
+    <text class="brand-title">
+      <tspan fill="#1c1917">Umami</tspan><tspan fill="#c2410c">Craft</tspan>
+    </text>
+    <text x="4" y="38" class="brand-subtitle">
+      COLECCIÓN GASTRONÓMICA &amp; COCKTAILS DE AUTOR
+    </text>
+  </g>
+</svg>

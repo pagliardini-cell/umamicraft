@@ -832,6 +832,45 @@
       border-color: var(--primary);
     }
 
+    .modal-lang-btn {
+      background: none;
+      border: none;
+      color: #faf7f2;
+      font-size: 0.76rem;
+      font-weight: 700;
+      padding: 4px 8px;
+      border-radius: 999px;
+      cursor: pointer;
+      opacity: 0.75;
+      transition: all 0.15s ease;
+      font-family: inherit;
+    }
+    .modal-lang-btn:hover, .modal-lang-btn.active {
+      opacity: 1;
+      background: var(--primary);
+    }
+
+    .modal-lang-pill {
+      background: var(--card);
+      border: 1px solid var(--border);
+      color: var(--text);
+      font-size: 0.8rem;
+      font-weight: 700;
+      padding: 6px 12px;
+      border-radius: 999px;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      transition: all 0.15s ease;
+      font-family: inherit;
+    }
+    .modal-lang-pill:hover, .modal-lang-pill.active {
+      background: var(--primary);
+      color: #fff;
+      border-color: var(--primary);
+    }
+
     .modal-close {
       background: rgba(20, 18, 16, 0.82);
       color: white;
@@ -1697,6 +1736,11 @@
             <button class="modal-action-btn" onclick="pinCurrentRecipe()" style="background:rgba(230,0,35,0.85); border-color:#e60023;" title="Guardar Pin de esta receta en Pinterest"><span style="font-size:15px;">📌</span> Pin</button>
             <button class="modal-action-btn" onclick="shareCurrentRecipe()"><span style="color:#22c55e;">📲</span> Compartir</button>
             <button class="modal-action-btn" onclick="window.print()">🖨️ Imprimir / PDF</button>
+            <div class="modal-lang-selector" style="display:inline-flex; align-items:center; background:rgba(20,18,16,0.85); border:1px solid rgba(255,255,255,0.22); border-radius:999px; padding:2px 4px; backdrop-filter:blur(6px); gap:3px;" title="Cambiar idioma de la receta">
+              <button type="button" class="modal-lang-btn" id="modalLangEs" onclick="changeLanguage('es')">🇪🇸 ES</button>
+              <button type="button" class="modal-lang-btn" id="modalLangEn" onclick="changeLanguage('en')">🇺🇸 EN</button>
+              <button type="button" class="modal-lang-btn" id="modalLangPt" onclick="changeLanguage('pt')">🇧🇷 PT</button>
+            </div>
           </div>
           <button class="modal-close" onclick="closeModal()">✕</button>
         </div>
@@ -1708,6 +1752,18 @@
       </div>
 
       <div class="modal-content-inner">
+        <!-- Selector rápido de idioma dentro de la receta -->
+        <div class="modal-lang-bar" style="display:flex; justify-content:space-between; align-items:center; background:var(--bg); border:1px solid var(--border); border-radius:12px; padding:8px 14px; margin-bottom:20px; flex-wrap:wrap; gap:8px;">
+          <span style="font-size:0.82rem; font-weight:700; color:var(--text-muted); display:inline-flex; align-items:center; gap:6px;">
+            🌐 Idioma de la Receta / Language:
+          </span>
+          <div style="display:inline-flex; gap:6px;">
+            <button type="button" class="modal-lang-pill" id="pillLangEs" onclick="changeLanguage('es')">🇪🇸 Español</button>
+            <button type="button" class="modal-lang-pill" id="pillLangEn" onclick="changeLanguage('en')">🇺🇸 English</button>
+            <button type="button" class="modal-lang-pill" id="pillLangPt" onclick="changeLanguage('pt')">🇧🇷 Português</button>
+          </div>
+        </div>
+
         <div class="specs-grid" id="modalSpecs"></div>
 
         <div class="story-box" id="modalStoryBox">
@@ -2734,6 +2790,7 @@
       document.getElementById('modalTitle').textContent = r.title;
       document.getElementById('modalStory').textContent = r.story || '';
       updateModalFavButton(id);
+      updateModalLangUI(currentLang || 'es');
 
       const badgesHtml = [
         `<span class="modal-meta-pill">${getCountryBadgeHtml(country)}</span>`,
@@ -3538,9 +3595,21 @@
       }
     }
 
+    function updateModalLangUI(lang) {
+      const l = lang || currentLang || 'es';
+      ['es', 'en', 'pt'].forEach(target => {
+        const isActive = target === l;
+        const pill = document.getElementById('pillLang' + target.charAt(0).toUpperCase() + target.slice(1));
+        if (pill) pill.classList.toggle('active', isActive);
+        const topBtn = document.getElementById('modalLang' + target.charAt(0).toUpperCase() + target.slice(1));
+        if (topBtn) topBtn.classList.toggle('active', isActive);
+      });
+    }
+
     function changeLanguage(lang) {
       currentLang = lang;
       localStorage.setItem('umamicraft_lang', lang);
+      updateModalLangUI(lang);
 
       document.querySelectorAll('.lang-btn').forEach(btn => {
         btn.classList.toggle('active', btn.id === 'btnLang' + lang.charAt(0).toUpperCase() + lang.slice(1));
