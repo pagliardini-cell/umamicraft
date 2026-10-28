@@ -1916,7 +1916,7 @@
       const toRender = filtered.slice(0, visibleCount);
       document.getElementById('resultsCount').textContent = `Mostrando ${toRender.length} de ${filtered.length} recetas${filtered.length < recipes.length ? ` (filtradas de ${recipes.length})` : ''}`;
 
-      grid.innerHTML = toRender.map(r => {
+      grid.innerHTML = toRender.map((r, idx) => {
         const country = getCountry(r);
         const category = getCategory(r);
         const isFav = favorites.includes(r.id);
