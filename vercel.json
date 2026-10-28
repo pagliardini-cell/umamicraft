@@ -17,6 +17,18 @@
       "destination": "/admin.html"
     },
     {
+      "source": "/feed",
+      "destination": "/feed.xml"
+    },
+    {
+      "source": "/rss",
+      "destination": "/feed.xml"
+    },
+    {
+      "source": "/rss.xml",
+      "destination": "/feed.xml"
+    },
+    {
       "source": "/receta/:slug",
       "destination": "/api/index?receta=:slug"
     },

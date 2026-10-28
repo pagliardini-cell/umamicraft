@@ -432,6 +432,7 @@
         </a>
         <div class="header-actions">
           <button class="btn btn-sec" onclick="forceSyncServerData()" style="font-size:0.84rem; border-color:var(--primary); color:var(--primary);" title="Forzar sincronización directa con recetas_pro.json">🔄 Recargar Recetas</button>
+          <button class="btn btn-sec" onclick="notifyIndexNow(event)" style="font-size:0.84rem; border-color:#0284c7; color:#38bdf8;" title="Notificar indexación instantánea a Bing, Yandex y Seznam con IndexNow">🚀 IndexNow</button>
           <a href="/" target="_blank" class="btn btn-sec" style="font-size:0.84rem;">🌐 Ver Sitio Web</a>
           <button class="btn btn-sec" onclick="openNewRecipeTab()" style="background:var(--primary); color:white; border-color:var(--primary);">➕ Nueva Receta</button>
           <button class="btn btn-sec" onclick="handleLogout()" style="font-size:0.84rem;">🚪 Cerrar Sesión</button>
@@ -799,6 +800,32 @@
       sessionStorage.removeItem('umami_admin_token');
       token = '';
       showLogin();
+    }
+
+    async function notifyIndexNow(e) {
+      const btn = e ? e.currentTarget || e.target : null;
+      const oldText = btn ? btn.textContent : '';
+      if (btn) { btn.textContent = '⏳ Notificando...'; btn.disabled = true; }
+      try {
+        const res = await fetch('/api/indexnow', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+            'Authorization': 'Bearer ' + (token || 'admin_session_active')
+          },
+          body: JSON.stringify({ recent: 0 })
+        });
+        const data = await res.json();
+        if (data.ok) {
+          alert(`🚀 ¡IndexNow Notificado con Éxito!\n\nSe enviaron ${data.totalUrls} URLs de UmamiCraft a Bing, Yandex y Seznam para indexación y rastreo inmediato.`);
+        } else {
+          alert('Aviso IndexNow: ' + (data.error || 'No se pudo completar el aviso.'));
+        }
+      } catch (err) {
+        alert('Error al conectar con la API de IndexNow: ' + err.message);
+      } finally {
+        if (btn) { btn.textContent = oldText; btn.disabled = false; }
+      }
     }
 
     async function loadRecipes() {
