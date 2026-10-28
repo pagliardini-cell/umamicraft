@@ -40,7 +40,11 @@ module.exports = async (req, res) => {
     }
 
     const seen = {};
-    const urlList = [`https://${HOST}/`];
+    const urlList = [
+      `https://${HOST}/`,
+      `https://${HOST}/?lang=en`,
+      `https://${HOST}/?lang=pt`
+    ];
 
     for (const r of recipes) {
       const base = makeSlug(r.title);
@@ -52,6 +56,8 @@ module.exports = async (req, res) => {
         seen[base] = 1;
       }
       urlList.push(`https://${HOST}/receta/${slug}`);
+      urlList.push(`https://${HOST}/receta/${slug}?lang=en`);
+      urlList.push(`https://${HOST}/receta/${slug}?lang=pt`);
     }
 
     const payload = JSON.stringify({
