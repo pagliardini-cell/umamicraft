@@ -1317,6 +1317,239 @@
     body { top: 0px !important; }
     .goog-text-highlight { background-color: transparent !important; border: none !important; box-shadow: none !important; }
     .skiptranslate:not(.allowed-translate) { display: none !important; }
+
+    /* =========================================================================
+       LISTA DE COMPRAS (SHOPPING LIST)
+       ========================================================================= */
+    .btn-shopping-add-all {
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      background: var(--primary-soft);
+      color: var(--primary);
+      border: 1px solid rgba(194, 65, 12, 0.3);
+      padding: 7px 14px;
+      border-radius: var(--radius-sm);
+      font-weight: 700;
+      font-size: 0.82rem;
+      cursor: pointer;
+      transition: all 0.16s ease;
+      font-family: inherit;
+    }
+    .btn-shopping-add-all:hover {
+      background: var(--primary);
+      color: #fff;
+      transform: translateY(-1px);
+      box-shadow: 0 4px 12px rgba(194, 65, 12, 0.25);
+    }
+    .ing-add-cart-btn {
+      background: none;
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+      border-radius: 6px;
+      padding: 3px 8px;
+      font-size: 0.72rem;
+      cursor: pointer;
+      margin-left: 8px;
+      transition: all 0.15s;
+      opacity: 0.65;
+      display: inline-flex;
+      align-items: center;
+      gap: 3px;
+      flex-shrink: 0;
+      font-family: inherit;
+    }
+    .ing-add-cart-btn:hover {
+      opacity: 1;
+      border-color: var(--primary);
+      color: var(--primary);
+      background: var(--bg-subtle);
+    }
+    .floating-shopping-btn {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      z-index: 990;
+      width: 54px;
+      height: 54px;
+      border-radius: 50%;
+      background: var(--primary);
+      color: #fff;
+      border: 2px solid #fff;
+      box-shadow: 0 8px 24px rgba(194, 65, 12, 0.45);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      transition: transform 0.2s cubic-bezier(0.34, 1.56, 0.64, 1), box-shadow 0.2s;
+    }
+    .floating-shopping-btn:hover {
+      transform: scale(1.1);
+      box-shadow: 0 12px 28px rgba(194, 65, 12, 0.6);
+    }
+    .floating-badge {
+      position: absolute;
+      top: -3px;
+      right: -3px;
+      background: #1c1917;
+      color: #fff;
+      font-size: 0.72rem;
+      font-weight: 800;
+      min-width: 22px;
+      height: 22px;
+      border-radius: 11px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0 4px;
+      border: 2px solid var(--bg-elevated);
+    }
+    .shopping-modal-card {
+      max-width: 580px;
+      width: 100%;
+      padding: 24px 26px;
+      border-radius: var(--radius-lg);
+      max-height: 86vh;
+      display: flex;
+      flex-direction: column;
+    }
+    .shopping-modal-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding-bottom: 16px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 16px;
+    }
+    .shopping-list-body {
+      overflow-y: auto;
+      flex-grow: 1;
+      padding-right: 6px;
+      max-height: 50vh;
+    }
+    .shopping-recipe-group {
+      margin-bottom: 18px;
+    }
+    .shopping-recipe-title {
+      font-size: 0.8rem;
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      color: var(--primary);
+      margin-bottom: 8px;
+      padding-bottom: 4px;
+      border-bottom: 1px dashed var(--border);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .shopping-item-row {
+      display: flex;
+      align-items: center;
+      padding: 9px 12px;
+      border-radius: 8px;
+      background: var(--bg-subtle);
+      margin-bottom: 6px;
+      gap: 12px;
+      transition: all 0.15s;
+    }
+    .shopping-item-row:hover {
+      background: var(--border);
+    }
+    .shopping-item-row.bought {
+      opacity: 0.45;
+    }
+    .shopping-item-row.bought .shopping-item-text {
+      text-decoration: line-through;
+    }
+    .shopping-item-check {
+      cursor: pointer;
+      width: 19px;
+      height: 19px;
+      accent-color: var(--primary);
+      flex-shrink: 0;
+    }
+    .shopping-item-text {
+      font-size: 0.9rem;
+      color: var(--text);
+      flex-grow: 1;
+      line-height: 1.35;
+    }
+    .shopping-item-del {
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 15px;
+      padding: 4px;
+      border-radius: 4px;
+      opacity: 0.6;
+      transition: opacity 0.15s;
+    }
+    .shopping-item-del:hover {
+      opacity: 1;
+      color: #ef4444;
+    }
+    .shopping-modal-footer {
+      padding-top: 16px;
+      border-top: 1px solid var(--border);
+      margin-top: 14px;
+    }
+    .btn-shopping-share {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      padding: 11px 16px;
+      border-radius: var(--radius-sm);
+      font-weight: 700;
+      font-size: 0.9rem;
+      cursor: pointer;
+      border: 1px solid transparent;
+      transition: all 0.15s;
+      font-family: inherit;
+    }
+    .btn-shopping-share.btn-wa {
+      background: #25d366;
+      color: white;
+    }
+    .btn-shopping-share.btn-wa:hover {
+      background: #20bd5a;
+      transform: translateY(-1px);
+    }
+    .btn-shopping-share.btn-copy {
+      background: var(--bg-subtle);
+      color: var(--text);
+      border-color: var(--border);
+    }
+    .btn-shopping-share.btn-copy:hover {
+      border-color: var(--primary);
+      color: var(--primary);
+    }
+    .btn-subtle-danger {
+      background: none;
+      border: none;
+      color: #ef4444;
+      font-size: 0.82rem;
+      font-weight: 600;
+      cursor: pointer;
+      padding: 6px 10px;
+      border-radius: 6px;
+      font-family: inherit;
+    }
+    .btn-subtle-danger:hover {
+      background: rgba(239, 68, 68, 0.1);
+    }
+    .shopping-empty-box {
+      text-align: center;
+      padding: 38px 20px;
+      color: var(--text-muted);
+    }
+    .shopping-empty-icon {
+      font-size: 2.8rem;
+      margin-bottom: 10px;
+      opacity: 0.6;
+    }
   </style>
 </head>
 <body>
@@ -1339,6 +1572,7 @@
         <button class="btn-nav" onclick="openRandomRecipe()" title="Abrir una receta al azar">🎲 Sorpréndeme</button>
         <button class="btn-nav" onclick="shareSiteModal()" title="Difundir en WhatsApp y redes"><span style="color:#22c55e;">📢</span> Difundir</button>
         <button class="btn-nav" id="favFilterBtn" onclick="toggleFavoritesFilter()" aria-label="Ver recetas favoritas">❤️ Favoritas <span id="favCountBadge">(0)</span></button>
+        <button class="btn-nav" id="shoppingListNavBtn" onclick="openShoppingListModal()" aria-label="Ver lista de compras" title="Mi Lista de Compras">🛒 Lista <span id="shoppingCountBadge" style="background:var(--primary); color:white; border-radius:10px; padding:1px 6px; font-size:0.75rem; font-weight:800; margin-left:2px;">(0)</span></button>
         <button class="btn-nav" id="themeToggleBtn" onclick="toggleTheme()" title="Cambiar modo claro/oscuro" aria-label="Alternar modo claro u oscuro">🌙</button>
       </div>
     </div>
@@ -1457,6 +1691,14 @@
                 <button type="button" class="btn-subtle-reset" onclick="resetChecksForCurrentRecipe('ings')" title="Desmarcar todos los ingredientes">↺ Limpiar</button>
               </div>
             </div>
+            <div style="margin: 10px 0 14px 0; display:flex; gap:8px; flex-wrap:wrap; align-items:center;">
+              <button type="button" class="btn-shopping-add-all" onclick="addAllIngredientsToShoppingList()" title="Agregar todos los ingredientes de esta receta a tu lista de compras">
+                <span style="font-size:1.05rem;">🛒</span> Agregar Ingredientes a Mi Lista
+              </button>
+              <button type="button" class="btn-subtle-reset" onclick="openShoppingListModal()" style="font-size:0.8rem; padding:6px 12px; border-radius:8px;" title="Abrir y ver la lista de compras actual">
+                Ver Mi Lista (<span id="btnModalShoppingCount">0</span>)
+              </button>
+            </div>
             <div id="modalIngredients"></div>
           </div>
 
@@ -1521,6 +1763,47 @@
       </div>
     </div>
   </div>
+
+  <!-- Modal de Lista de Compras -->
+  <div class="modal-backdrop" id="shoppingListModal" onclick="if(event.target.id==='shoppingListModal') closeShoppingListModal()">
+    <div class="modal-card shopping-modal-card">
+      <div class="shopping-modal-header">
+        <div style="display:flex; align-items:center; gap:10px;">
+          <div style="width:38px; height:38px; border-radius:10px; background:var(--primary-soft); color:var(--primary); display:flex; align-items:center; justify-content:center; font-size:1.25rem;">🛒</div>
+          <div>
+            <h3 style="font-family:'Playfair Display',serif; font-size:1.35rem; margin:0; line-height:1.2;">Mi Lista de Compras</h3>
+            <span style="font-size:0.78rem; color:var(--text-muted);"><span id="shoppingModalCount">0</span> artículos guardados</span>
+          </div>
+        </div>
+        <button class="modal-close" style="position:static;" onclick="closeShoppingListModal()">✕</button>
+      </div>
+
+      <div class="shopping-list-body" id="shoppingListBody">
+        <!-- Poblado dinámicamente -->
+      </div>
+
+      <div class="shopping-modal-footer">
+        <div style="display:grid; grid-template-columns:1fr 1fr; gap:10px; margin-bottom:12px;">
+          <button type="button" class="btn-shopping-share btn-wa" onclick="shareShoppingListWhatsapp()">
+            <span style="font-size:18px;">🟢</span> WhatsApp
+          </button>
+          <button type="button" class="btn-shopping-share btn-copy" onclick="copyShoppingListText()">
+            <span style="font-size:18px;">📋</span> Copiar Lista
+          </button>
+        </div>
+        <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
+          <button type="button" class="btn-subtle-danger" onclick="clearShoppingList()">🗑️ Vaciar Lista</button>
+          <button type="button" class="btn-nav" onclick="closeShoppingListModal()" style="padding:8px 18px;">Cerrar</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Botón Flotante de Lista de Compras (Móvil y Escritorio) -->
+  <button class="floating-shopping-btn" id="floatingShoppingBtn" onclick="openShoppingListModal()" aria-label="Abrir Lista de Compras" title="Ver mi Lista de Compras">
+    <span style="font-size:1.3rem;">🛒</span>
+    <span class="floating-badge" id="floatingShoppingBadge">0</span>
+  </button>
 
   <div class="toast-banner" id="toastBanner"></div>
 
@@ -1598,6 +1881,7 @@
       if (savedToken && ghInput) ghInput.value = savedToken;
 
       updateFavBadge();
+      updateShoppingBadges();
 
       try {
         const res = await fetch('/recetas_pro.json?v=' + Date.now());
@@ -1824,6 +2108,7 @@
       else favorites.push(id);
       localStorage.setItem('umamicraft_favs', JSON.stringify(favorites));
       updateFavBadge();
+      updateShoppingBadges();
       renderRecipes();
       if (currentModalRecipeId === id) updateModalFavButton(id);
     }
@@ -1841,6 +2126,7 @@
     function toggleFavoritesFilter() {
       onlyFavorites = !onlyFavorites;
       updateFavBadge();
+      updateShoppingBadges();
       renderRecipes();
     }
 
@@ -1914,6 +2200,7 @@
       currentQuickTag = 'all';
       visibleCount = RECIPES_PER_PAGE;
       updateFavBadge();
+      updateShoppingBadges();
       updateChips();
       renderRecipes(true);
       window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -2199,10 +2486,13 @@
               itemText = String(item || '');
             }
             const scaledText = scaleIngredientText(itemText, multiplier);
+            const safeScaled = scaledText.replace(/'/g, "\\'").replace(/"/g, '&quot;');
+            const safeTitle = (r.title || '').replace(/'/g, "\\'").replace(/"/g, '&quot;');
             return `
               <li class="ingredient-item ${isChecked ? 'checked' : ''}" id="ing-item-${idx}" onclick="toggleIngCheck(${idx})">
                 <div class="ing-check">✓</div>
-                <span>${scaledText}</span>
+                <span style="flex-grow:1;">${scaledText}</span>
+                <button type="button" class="ing-add-cart-btn" onclick="event.stopPropagation(); addSingleIngredientToShoppingList('${safeScaled}', '${safeTitle}')" title="Agregar solo este ingrediente a mi lista de compras">🛒+</button>
               </li>
             `;
           }).join('')}
@@ -2432,6 +2722,7 @@
 
       // Renderizar ingredientes escalados y con estado de checklist
       renderScaledIngredients();
+      updateShoppingBadges();
 
       // Renderizar pasos con estado de checklist
       renderStepList(r);
@@ -2477,7 +2768,9 @@
 
     function closeModal(updateHistory = true) {
       document.getElementById('recipeModal').classList.remove('open');
-      document.body.style.overflow = 'auto';
+      if (!document.getElementById('shoppingListModal') || !document.getElementById('shoppingListModal').classList.contains('open')) {
+        document.body.style.overflow = 'auto';
+      }
       document.title = defaultDocTitle;
       currentModalRecipeId = null;
 
@@ -2595,6 +2888,271 @@
       navigator.clipboard.writeText(input.value);
       showToast('📋 ¡Enlace copiado al portapapeles!');
       closeShareModal();
+    }
+
+    /* =========================================================================
+       SISTEMA DE LISTA DE COMPRAS INTELIGENTE (LOCALSTORAGE & WHATSAPP)
+       ========================================================================= */
+    const SHOPPING_STORAGE_KEY = 'umamicraft_shopping_list';
+
+    function getShoppingList() {
+      try {
+        const data = localStorage.getItem(SHOPPING_STORAGE_KEY);
+        return data ? JSON.parse(data) : [];
+      } catch (e) {
+        return [];
+      }
+    }
+
+    function saveShoppingList(list) {
+      try {
+        localStorage.setItem(SHOPPING_STORAGE_KEY, JSON.stringify(list));
+      } catch (e) {}
+      updateShoppingBadges();
+    }
+
+    function updateShoppingBadges() {
+      const list = getShoppingList();
+      const count = list.length;
+      
+      const badgeNav = document.getElementById('shoppingCountBadge');
+      if (badgeNav) badgeNav.textContent = `(${count})`;
+
+      const badgeFloat = document.getElementById('floatingShoppingBadge');
+      if (badgeFloat) badgeFloat.textContent = count;
+
+      const badgeModal = document.getElementById('shoppingModalCount');
+      if (badgeModal) badgeModal.textContent = count;
+
+      const badgeBtnModal = document.getElementById('btnModalShoppingCount');
+      if (badgeBtnModal) badgeBtnModal.textContent = count;
+
+      const floatBtn = document.getElementById('floatingShoppingBtn');
+      if (floatBtn) {
+        floatBtn.style.display = count > 0 ? 'flex' : 'none';
+      }
+    }
+
+    function addAllIngredientsToShoppingList() {
+      const r = recipes.find(x => x.id === currentModalRecipeId);
+      if (!r) return;
+      const multiplier = baseServings > 0 ? currentServings / baseServings : 1;
+      const groups = Array.isArray(r.ingredient_groups) && r.ingredient_groups.length > 0
+        ? r.ingredient_groups
+        : [{ name: 'Ingredientes', items: r.ingredients || [] }];
+
+      const currentList = getShoppingList();
+      let addedCount = 0;
+
+      groups.forEach(g => {
+        (g.items || []).forEach(item => {
+          let itemText = item;
+          if (typeof item === 'object' && item !== null) {
+            const amt = item.amount ? String(item.amount).trim() : '';
+            const nm = item.name ? String(item.name).trim() : '';
+            itemText = (amt && nm) ? `${amt} de ${nm}` : (nm || amt || '');
+          } else {
+            itemText = String(item || '');
+          }
+          const scaledText = scaleIngredientText(itemText, multiplier).trim();
+          if (!scaledText) return;
+
+          const exists = currentList.some(x => x.recipeId === r.id && x.text.toLowerCase() === scaledText.toLowerCase());
+          if (!exists) {
+            currentList.push({
+              id: 'shop_' + Date.now() + '_' + Math.random().toString(36).substr(2, 6),
+              recipeId: r.id,
+              recipeTitle: r.title,
+              text: scaledText,
+              bought: false
+            });
+            addedCount++;
+          }
+        });
+      });
+
+      saveShoppingList(currentList);
+      showToast(`🛒 Se agregaron ${addedCount} ingredientes a tu Lista de Compras.`);
+    }
+
+    function addSingleIngredientToShoppingList(text, recipeTitle) {
+      if (!text) return;
+      const r = recipes.find(x => x.id === currentModalRecipeId);
+      const recipeId = r ? r.id : 0;
+      const title = recipeTitle || (r ? r.title : 'Ingrediente');
+      const currentList = getShoppingList();
+
+      const exists = currentList.some(x => x.text.toLowerCase() === text.toLowerCase());
+      if (exists) {
+        showToast('ℹ️ Este ingrediente ya está en tu lista de compras.');
+        return;
+      }
+
+      currentList.push({
+        id: 'shop_' + Date.now() + '_' + Math.random().toString(36).substr(2, 6),
+        recipeId: recipeId,
+        recipeTitle: title,
+        text: text,
+        bought: false
+      });
+
+      saveShoppingList(currentList);
+      showToast(`🛒 "${text}" agregado a la lista.`);
+    }
+
+    function toggleShoppingItemBought(itemId) {
+      const list = getShoppingList();
+      const item = list.find(x => x.id === itemId);
+      if (item) {
+        item.bought = !item.bought;
+        saveShoppingList(list);
+        renderShoppingListBody();
+      }
+    }
+
+    function removeShoppingItem(itemId) {
+      let list = getShoppingList();
+      list = list.filter(x => x.id !== itemId);
+      saveShoppingList(list);
+      renderShoppingListBody();
+      showToast('🗑️ Ingrediente eliminado de la lista.');
+    }
+
+    function removeRecipeFromShoppingList(recipeTitle) {
+      let list = getShoppingList();
+      list = list.filter(x => x.recipeTitle !== recipeTitle);
+      saveShoppingList(list);
+      renderShoppingListBody();
+      showToast(`🗑️ Ingredientes de "${recipeTitle}" eliminados.`);
+    }
+
+    function clearShoppingList() {
+      const list = getShoppingList();
+      if (!list.length) return;
+      if (confirm('¿Deseas vaciar por completo tu lista de compras?')) {
+        saveShoppingList([]);
+        renderShoppingListBody();
+        showToast('🗑️ Lista de compras vaciada.');
+      }
+    }
+
+    function openShoppingListModal() {
+      renderShoppingListBody();
+      document.getElementById('shoppingListModal').classList.add('open');
+      document.body.style.overflow = 'hidden';
+    }
+
+    function closeShoppingListModal() {
+      document.getElementById('shoppingListModal').classList.remove('open');
+      if (!document.getElementById('recipeModal').classList.contains('open')) {
+        document.body.style.overflow = '';
+      }
+    }
+
+    function renderShoppingListBody() {
+      const container = document.getElementById('shoppingListBody');
+      if (!container) return;
+      const list = getShoppingList();
+
+      if (!list.length) {
+        container.innerHTML = `
+          <div class="shopping-empty-box">
+            <div class="shopping-empty-icon">🛒</div>
+            <h4 style="font-family:'Playfair Display',serif; font-size:1.15rem; color:var(--text); margin-bottom:6px;">Tu lista de compras está vacía</h4>
+            <p style="font-size:0.85rem; max-width:320px; margin:0 auto 16px;">Entra a cualquier receta y toca <strong>«Agregar a Mi Lista»</strong> para armar las compras del supermercado.</p>
+            <button class="btn-nav btn-primary" onclick="closeShoppingListModal(); goHome();" style="display:inline-flex;">Explorar Recetas</button>
+          </div>
+        `;
+        return;
+      }
+
+      // Agrupar por receta
+      const grouped = {};
+      list.forEach(item => {
+        const groupKey = item.recipeTitle || 'Varios';
+        if (!grouped[groupKey]) grouped[groupKey] = [];
+        grouped[groupKey].push(item);
+      });
+
+      let html = '';
+      for (const [recipeTitle, items] of Object.entries(grouped)) {
+        html += `
+          <div class="shopping-recipe-group">
+            <div class="shopping-recipe-title">
+              <span>🍽️ ${recipeTitle}</span>
+              <button type="button" class="btn-subtle-danger" style="font-size:0.75rem; padding:2px 6px;" onclick="removeRecipeFromShoppingList('${recipeTitle.replace(/'/g, "\\'")}')" title="Quitar todos los ingredientes de esta receta">Quitar</button>
+            </div>
+            ${items.map(it => `
+              <div class="shopping-item-row ${it.bought ? 'bought' : ''}">
+                <input type="checkbox" class="shopping-item-check" ${it.bought ? 'checked' : ''} onchange="toggleShoppingItemBought('${it.id}')" title="Tachar como comprado">
+                <span class="shopping-item-text" onclick="toggleShoppingItemBought('${it.id}')" style="cursor:pointer;">${it.text}</span>
+                <button type="button" class="shopping-item-del" onclick="removeShoppingItem('${it.id}')" title="Eliminar este ingrediente">🗑️</button>
+              </div>
+            `).join('')}
+          </div>
+        `;
+      }
+
+      container.innerHTML = html;
+    }
+
+    function shareShoppingListWhatsapp() {
+      const list = getShoppingList();
+      if (!list.length) {
+        showToast('⚠️ Tu lista de compras está vacía.');
+        return;
+      }
+
+      let msg = '🛒 *LISTA DE COMPRAS — UmamiCraft*\n';
+      const grouped = {};
+      list.forEach(item => {
+        const g = item.recipeTitle || 'Varios';
+        if (!grouped[g]) grouped[g] = [];
+        grouped[g].push(item);
+      });
+
+      for (const [title, items] of Object.entries(grouped)) {
+        msg += `\n*🍽️ ${title}:*\n`;
+        items.forEach(it => {
+          const checkIcon = it.bought ? '✅' : '◻️';
+          msg += `${checkIcon} ${it.text}\n`;
+        });
+      }
+
+      msg += '\n_Armada en https://umamicraft.vercel.app/_';
+      const waUrl = 'https://api.whatsapp.com/send?text=' + encodeURIComponent(msg);
+      window.open(waUrl, '_blank');
+    }
+
+    function copyShoppingListText() {
+      const list = getShoppingList();
+      if (!list.length) {
+        showToast('⚠️ Tu lista de compras está vacía.');
+        return;
+      }
+
+      let msg = '🛒 LISTA DE COMPRAS — UmamiCraft\n';
+      const grouped = {};
+      list.forEach(item => {
+        const g = item.recipeTitle || 'Varios';
+        if (!grouped[g]) grouped[g] = [];
+        grouped[g].push(item);
+      });
+
+      for (const [title, items] of Object.entries(grouped)) {
+        msg += `\n🍽️ ${title}:\n`;
+        items.forEach(it => {
+          const checkIcon = it.bought ? '[X]' : '[ ]';
+          msg += `${checkIcon} ${it.text}\n`;
+        });
+      }
+
+      msg += '\nArmada en https://umamicraft.vercel.app/';
+      navigator.clipboard.writeText(msg).then(() => {
+        showToast('📋 ¡Lista copiada al portapapeles!');
+      }).catch(() => {
+        showToast('⚠️ No se pudo copiar automáticamente.');
+      });
     }
 
     /* =========================================================================
