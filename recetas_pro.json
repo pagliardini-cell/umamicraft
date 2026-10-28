@@ -20946,5 +20946,105 @@
     "notes": "Cocínalos a fuego medio-bajo; al tener proteínas de huevo y cottage, necesitan cocinarse con suavidad para que el centro quede cocido y esponjoso sin quemar la superficie dorada.",
     "image": "panqueques_cottage_avena.jpg",
     "url": "https://umamicraft.vercel.app/receta/panqueques-esponjosos-de-cottage-y-avena-estados-unidos"
+  },
+  {
+    "id": 304,
+    "title": "Focaccia Genovese Clásica sin Amasado (Italia)",
+    "original_title": "Focaccia Genovese (Italia)",
+    "country": "Italia",
+    "category": "Panadería",
+    "tags": [
+      "Italia",
+      "Génova",
+      "Focaccia",
+      "Pan",
+      "Sin Amasado",
+      "Masa",
+      "Oliva",
+      "Romero",
+      "Salmuera"
+    ],
+    "prep_time": "25 min (distribuido)",
+    "cook_time": "20 a 25 min",
+    "rest_time": "24 horas en frío + 3 horas a temperatura ambiente",
+    "temperature": "230 °C (horno bien caliente)",
+    "servings": "1 placa grande (30 x 40 cm, 6 a 8 porciones)",
+    "calories": "270 kcal aprox. por porción",
+    "diet_badges": [
+      "Vegano",
+      "Vegetariano",
+      "Sin Lácteos"
+    ],
+    "story": "La auténtica Focaccia Genovese (conocida en dialecto ligur como fügassa) se caracteriza por un contraste único: una corteza dorada y crujiente por fuera impregnada de aceite de oliva, y una miga aireada, suave y tierna por dentro. Su rasgo técnico definitorio son los hoyuelos profundos formados con los dedos donde se aloja la salmuera (una emulsión líquida de agua tibia, aceite de oliva virgen extra y sal marina) antes de entrar al horno.",
+    "ingredient_groups": [
+      {
+        "name": "Para la Masa (78% de hidratación)",
+        "items": [
+          "500 g de harina de fuerza (harina 000 de alto gluten, W 280-320)",
+          "390 ml de agua a temperatura ambiente (78% de hidratación)",
+          "3 g de levadura seca activa (o 9 g de levadura fresca)",
+          "10 g de extracto de malta o miel",
+          "12 g de sal fina",
+          "25 ml de aceite de oliva virgen extra"
+        ]
+      },
+      {
+        "name": "Para el Aceitado de la Placa",
+        "items": [
+          "30 a 40 ml de aceite de oliva virgen extra de buena calidad"
+        ]
+      },
+      {
+        "name": "Para la Salmuera y Cubierta",
+        "items": [
+          "60 ml de agua tibia",
+          "40 ml de aceite de oliva virgen extra",
+          "6 g de sal fina (para la emulsión)",
+          "Sal gruesa o en escamas a gusto (para espolvorear)",
+          "3 a 4 ramitas de romero fresco (solo las hojas lavadas y secas)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Integración sin amasado y fermentación en frío (24 horas)",
+        "steps": [
+          "En un bol amplio disolver la levadura y la malta (o miel) en los 390 ml de agua.",
+          "Sumar la harina de fuerza y mezclar con cuchara de madera o espátula rígida solo hasta que no queden rastros de harina seca (1 a 2 minutos). Incorporar los 12 g de sal fina y los 25 ml de aceite de oliva, apretando la masa con los dedos hasta que absorba el líquido por completo.",
+          "Dejar reposar tapada durante 30 minutos a temperatura ambiente para permitir la autólisis.",
+          "Mojarse las manos con agua y aplicar una tanda de pliegues tipo sobre (coil folds): levantar la masa desde el centro hacia arriba, dejar que los extremos caigan hacia abajo y plegar sobre sí misma. Girar el bol 90 grados y repetir 3 veces más.",
+          "Repetir este procedimiento de pliegues 2 veces más, espaciadas cada 30 minutos (3 tandas de pliegues en total). La red de gluten quedará estructurada sin necesidad de amasar.",
+          "Tapar el recipiente herméticamente (o con film en contacto lubricado con unas gotas de aceite) y llevar a la heladera a 4-6 °C durante 24 horas para una fermentación retardada lenta."
+        ]
+      },
+      {
+        "name": "2. Aclimatado y extensión en placa",
+        "steps": [
+          "Retirar el bol de la heladera. La masa habrá duplicado su volumen y presentará grandes burbujas superficiales.",
+          "Untar generosamente una placa metálica para horno de 30 x 40 cm con 30 a 40 ml de aceite de oliva virgen extra, cubriendo bien el fondo y los bordes para evitar que se pegue.",
+          "Volcar la masa fría suavemente sobre la placa aceitada procurando no desgasificar las burbujas internas.",
+          "Dar vuelta la masa una vez para que ambas caras queden lubricadas con el aceite de la placa.",
+          "Estirar suavemente la masa con las palmas hacia los bordes. Si la masa ofrece resistencia elástica y se contrae, dejarla descansar 20 minutos tapada para que relaje el gluten y terminar de extenderla hasta las cuatro esquinas.",
+          "Dejar levar en un lugar templado y libre de corrientes de aire durante 2 horas a 2 horas y media, hasta que esté muy hinchada y con superficie gelatinosa."
+        ]
+      },
+      {
+        "name": "3. Salmuera, hoyuelos y horneado",
+        "steps": [
+          "Precalentar el horno a 230 °C con calor arriba y abajo.",
+          "En un frasco o cuenco pequeño batir enérgicamente los 60 ml de agua tibia con los 40 ml de aceite de oliva virgen extra y los 6 g de sal fina hasta formar una emulsión blanquecina opaca (salmuera).",
+          "Verter la salmuera de forma pareja sobre toda la superficie de la masa levada.",
+          "Aceitarse las yemas de los dedos de ambas manos y presionar firmemente de manera perpendicular hacia el fondo de la placa (tocando el metal pero sin romper la masa) para formar los hoyuelos característicos. La salmuera inundará cada cavidad.",
+          "Distribuir las hojas de romero fresco sobre la masa y terminar con unos granos de sal gruesa o sal marina en escamas.",
+          "Llevar de inmediato al estante inferior del horno precalentado a 230 °C durante 15 minutos para desarrollar una base bien crocante y dorada.",
+          "Subir la placa al estante medio-alto y hornear de 5 a 10 minutos adicionales hasta que la superficie presente manchas doradas intensas.",
+          "Retirar del horno, desmoldar de inmediato sobre una rejilla metálica para que el vapor inferior no ablande la base crocante y dejar entibiar 15 minutos antes de cortar."
+        ]
+      }
+    ],
+    "notes": "Desmoldar sobre rejilla inmediatamente al salir del horno es obligatorio: si se deja enfriar dentro de la placa, el vapor residual humedece el fondo y arruina la textura frita crocante que aporta el aceite de oliva.",
+    "image": "focaccia_genovese.jpg",
+    "url": "https://umamicraft.vercel.app/receta/focaccia-genovese-clasica-sin-amasado-italia",
+    "published": "2026-10-27T23:00:00-03:00"
   }
 ]
