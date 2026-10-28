@@ -18,6 +18,17 @@
   <meta name="theme-color" content="#c2410c">
   <meta name="p:domain_verify" content="e7b92facc7fc33cc831b4a54be980f76">
 
+  <!-- Progressive Web App (PWA) & Mobile App Meta -->
+  <link rel="manifest" href="/manifest.json">
+  <link rel="icon" type="image/png" sizes="48x48" href="/favicon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="UmamiCraft">
+  <meta name="application-name" content="UmamiCraft">
+  <meta name="mobile-web-app-capable" content="yes">
+
   <!-- SEO Internacional (Hreflang) -->
   <link rel="alternate" hreflang="es" href="https://umamicraft.vercel.app/">
   <link rel="alternate" hreflang="en" href="https://umamicraft.vercel.app/?lang=en">
@@ -1550,6 +1561,29 @@
       margin-bottom: 10px;
       opacity: 0.6;
     }
+    .pwa-mobile-banner {
+      position: fixed;
+      bottom: 24px;
+      left: 16px;
+      right: 16px;
+      max-width: 440px;
+      margin: 0 auto;
+      background: var(--bg-elevated);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-md);
+      box-shadow: 0 12px 36px rgba(0,0,0,0.22);
+      padding: 12px 16px;
+      z-index: 1050;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      animation: slideUp 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+    @keyframes slideUp {
+      from { transform: translateY(100%); opacity: 0; }
+      to { transform: translateY(0); opacity: 1; }
+    }
   </style>
 </head>
 <body>
@@ -1573,6 +1607,7 @@
         <button class="btn-nav" onclick="shareSiteModal()" title="Difundir en WhatsApp y redes"><span style="color:#22c55e;">📢</span> Difundir</button>
         <button class="btn-nav" id="favFilterBtn" onclick="toggleFavoritesFilter()" aria-label="Ver recetas favoritas">❤️ Favoritas <span id="favCountBadge">(0)</span></button>
         <button class="btn-nav" id="shoppingListNavBtn" onclick="openShoppingListModal()" aria-label="Ver lista de compras" title="Mi Lista de Compras">🛒 Lista <span id="shoppingCountBadge" style="background:var(--primary); color:white; border-radius:10px; padding:1px 6px; font-size:0.75rem; font-weight:800; margin-left:2px;">(0)</span></button>
+        <button class="btn-nav" id="pwaInstallBtn" onclick="installPwaApp()" style="display:none; background:var(--primary); color:white; border-color:var(--primary); font-weight:700;" title="Instalar aplicación en tu dispositivo">📲 Instalar App</button>
         <button class="btn-nav" id="themeToggleBtn" onclick="toggleTheme()" title="Cambiar modo claro/oscuro" aria-label="Alternar modo claro u oscuro">🌙</button>
       </div>
     </div>
@@ -1805,6 +1840,21 @@
     <span class="floating-badge" id="floatingShoppingBadge">0</span>
   </button>
 
+  <!-- Banner de Instalación Móvil PWA -->
+  <div id="pwaMobileBanner" class="pwa-mobile-banner" style="display:none;">
+    <div style="display:flex; align-items:center; gap:12px;">
+      <img src="/icon-192.png" width="44" height="44" style="border-radius:10px; box-shadow:0 3px 10px rgba(0,0,0,0.18); flex-shrink:0;" alt="Icono UmamiCraft">
+      <div>
+        <div style="font-weight:800; font-size:0.92rem; color:var(--text); line-height:1.2;">Instalar UmamiCraft</div>
+        <div style="font-size:0.75rem; color:var(--text-muted); margin-top:2px;">Usa la app en pantalla completa y offline</div>
+      </div>
+    </div>
+    <div style="display:flex; align-items:center; gap:8px;">
+      <button type="button" class="btn-shopping-share btn-wa" onclick="installPwaApp()" style="padding:8px 14px; font-size:0.82rem; background:var(--primary); color:white;">Instalar</button>
+      <button type="button" onclick="dismissPwaBanner()" style="background:none; border:none; font-size:18px; color:var(--text-muted); cursor:pointer; padding:6px;" title="Cerrar">✕</button>
+    </div>
+  </div>
+
   <div class="toast-banner" id="toastBanner"></div>
 
   <footer>
@@ -1943,6 +1993,16 @@
             const targetId = parseInt(hash.replace('#receta-', ''), 10);
             if (targetId) openModal(targetId, true);
           }
+        }
+
+        // Atajos nativos de la PWA (?action=shopping, favorites, random)
+        const actionParam = new URLSearchParams(window.location.search).get('action');
+        if (actionParam === 'shopping') {
+          setTimeout(openShoppingListModal, 350);
+        } else if (actionParam === 'favorites') {
+          setTimeout(toggleFavoritesFilter, 350);
+        } else if (actionParam === 'random') {
+          setTimeout(openRandomRecipe, 350);
         }
       } catch (err) {
         console.error("Error cargando recetas:", err);
@@ -3514,6 +3574,71 @@
         closeShareModal();
       }
     });
+
+    /* =========================================================================
+       PROGRESSIVE WEB APP (PWA) & INSTALACIÓN NATIVA EN MÓVIL
+       ========================================================================= */
+    let deferredPrompt = null;
+
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/sw.js').then(reg => {
+          console.log('[PWA] Service Worker activo con scope:', reg.scope);
+        }).catch(err => {
+          console.log('[PWA] Service Worker:', err);
+        });
+      });
+    }
+
+    window.addEventListener('beforeinstallprompt', (e) => {
+      e.preventDefault();
+      deferredPrompt = e;
+      const installBtn = document.getElementById('pwaInstallBtn');
+      if (installBtn) installBtn.style.display = 'inline-flex';
+      
+      const dismissed = localStorage.getItem('umami_pwa_dismissed');
+      const isMobile = /Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
+      if (!dismissed && isMobile) {
+        const banner = document.getElementById('pwaMobileBanner');
+        if (banner) banner.style.display = 'flex';
+      }
+    });
+
+    window.addEventListener('appinstalled', () => {
+      deferredPrompt = null;
+      const installBtn = document.getElementById('pwaInstallBtn');
+      if (installBtn) installBtn.style.display = 'none';
+      const banner = document.getElementById('pwaMobileBanner');
+      if (banner) banner.style.display = 'none';
+      showToast('🎉 ¡UmamiCraft instalada en tu pantalla de inicio!');
+    });
+
+    function installPwaApp() {
+      if (deferredPrompt) {
+        deferredPrompt.prompt();
+        deferredPrompt.userChoice.then((choiceResult) => {
+          if (choiceResult.outcome === 'accepted') {
+            console.log('[PWA] Usuario aceptó instalar la app');
+          }
+          deferredPrompt = null;
+          const banner = document.getElementById('pwaMobileBanner');
+          if (banner) banner.style.display = 'none';
+        });
+      } else {
+        const isIos = /iPhone|iPad|iPod/i.test(navigator.userAgent);
+        if (isIos) {
+          alert('📲 Para instalar en tu iPhone o iPad:\n\n1. Toca el botón Compartir 📤 en la barra inferior de Safari.\n2. Desliza hacia abajo y selecciona "Agregar a Inicio" ➕.\n3. ¡Listo! Tendrás el icono de UmamiCraft en tu pantalla.');
+        } else {
+          showToast('💡 Puedes instalarla desde el menú del navegador (⋮ > Instalar aplicación).');
+        }
+      }
+    }
+
+    function dismissPwaBanner() {
+      const banner = document.getElementById('pwaMobileBanner');
+      if (banner) banner.style.display = 'none';
+      localStorage.setItem('umami_pwa_dismissed', 'true');
+    }
 
     init();
     initGoogleTranslate();
