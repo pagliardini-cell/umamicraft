@@ -190,6 +190,12 @@ class UmamiHandler(http.server.SimpleHTTPRequestHandler):
                 return super().do_GET()
         return super().do_GET()
 
+    def end_headers(self):
+        self.send_header('Cache-Control', 'no-cache, no-store, must-revalidate')
+        self.send_header('Pragma', 'no-cache')
+        self.send_header('Expires', '0')
+        super().end_headers()
+
     def send_json(self, status, payload):
         data = json.dumps(payload, ensure_ascii=False).encode('utf-8')
         self.send_response(status)

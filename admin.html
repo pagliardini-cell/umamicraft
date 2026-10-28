@@ -431,6 +431,7 @@
           <div style="font-family:'Playfair Display',serif; font-size:1.55rem; font-weight:700; color:var(--text);">Umami<span style="color:var(--primary);">Craft</span> <span style="font-size:0.72rem; background:rgba(234,88,12,0.2); color:var(--primary); padding:3px 8px; border-radius:6px; font-family:'Plus Jakarta Sans',sans-serif; font-weight:800; text-transform:uppercase; letter-spacing:1px; vertical-align:middle; margin-left:6px;">ADMIN</span></div>
         </a>
         <div class="header-actions">
+          <button class="btn btn-sec" onclick="forceSyncServerData()" style="font-size:0.84rem; border-color:var(--primary); color:var(--primary);" title="Forzar sincronización directa con recetas_pro.json">🔄 Recargar Recetas</button>
           <a href="/" target="_blank" class="btn btn-sec" style="font-size:0.84rem;">🌐 Ver Sitio Web</a>
           <button class="btn btn-sec" onclick="openNewRecipeTab()" style="background:var(--primary); color:white; border-color:var(--primary);">➕ Nueva Receta</button>
           <button class="btn btn-sec" onclick="handleLogout()" style="font-size:0.84rem;">🚪 Cerrar Sesión</button>
@@ -497,12 +498,12 @@
         <div class="table-container">
           <div class="table-toolbar">
             <div class="search-box">
-              <input type="text" id="tableSearch" class="form-input" placeholder="🔍 Buscar por título, ingrediente o país..." oninput="renderTable()">
+              <input type="text" id="tableSearch" class="form-input" placeholder="🔍 Buscar por título, ingrediente o país..." oninput="renderTable()" aria-label="Buscar recetas en la tabla">
             </div>
-            <select id="tableCategoryFilter" class="form-select" style="width:auto;" onchange="renderTable()">
+            <select id="tableCategoryFilter" class="form-select" style="width:auto;" onchange="renderTable()" aria-label="Filtrar por categoría">
               <option value="all">Todas las categorías</option>
             </select>
-            <select id="tableSortOrder" class="form-select" style="width:auto;" onchange="renderTable()">
+            <select id="tableSortOrder" class="form-select" style="width:auto;" onchange="renderTable()" aria-label="Ordenar listado de recetas">
               <option value="id_desc" selected>✨ Más recientes primero</option>
               <option value="id_asc">📑 Orden original (#1 en adelante)</option>
               <option value="title_asc">🔤 Título (A - Z)</option>
@@ -724,11 +725,22 @@
     let recipes = [];
 
     async function init() {
+      // Eliminar siempre caché residual para forzar las 303 recetas reales
+      localStorage.removeItem('umami_cloud_recipes');
+      localStorage.removeItem('umamicraft_custom_recipes');
       if (token) {
         showApp();
       } else {
         showLogin();
       }
+    }
+
+    async function forceSyncServerData() {
+      localStorage.removeItem('umami_cloud_recipes');
+      localStorage.removeItem('umamicraft_custom_recipes');
+      showToast('🔄 Recargando base completa de recetas...');
+      await loadRecipes();
+      showToast(`✅ Base sincronizada: ${recipes.length} recetas activas`);
     }
 
     function showLogin() {
@@ -791,13 +803,11 @@
 
     async function loadRecipes() {
       try {
-        const localSaved = localStorage.getItem('umami_cloud_recipes');
-        if (localSaved) {
-          recipes = JSON.parse(localSaved);
-        } else {
-          const res = await fetch('/recetas_pro.json?v=' + Date.now());
-          recipes = await res.json();
-        }
+        localStorage.removeItem('umami_cloud_recipes');
+        localStorage.removeItem('umamicraft_custom_recipes');
+        const res = await fetch('/recetas_pro.json?v=' + Date.now());
+        const serverData = await res.json();
+        recipes = Array.isArray(serverData) && serverData.length > 0 ? serverData : [];
         updateMetrics();
         populateCategoryFilter();
         renderTable();

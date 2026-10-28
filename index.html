@@ -201,7 +201,7 @@
     @media (max-width: 920px) {
       .hero-card {
         grid-template-columns: 1fr;
-        min-height: auto;
+        min-height: 480px;
       }
       .hero-img-col {
         height: 260px;
@@ -1278,8 +1278,8 @@
         </div>
         <button class="btn-nav" onclick="openRandomRecipe()" title="Abrir una receta al azar">🎲 Sorpréndeme</button>
         <button class="btn-nav" onclick="shareSiteModal()" title="Difundir en WhatsApp y redes"><span style="color:#22c55e;">📢</span> Difundir</button>
-        <button class="btn-nav" id="favFilterBtn" onclick="toggleFavoritesFilter()">❤️ Favoritas <span id="favCountBadge">(0)</span></button>
-        <button class="btn-nav" id="themeToggleBtn" onclick="toggleTheme()" title="Cambiar modo claro/oscuro">🌙</button>
+        <button class="btn-nav" id="favFilterBtn" onclick="toggleFavoritesFilter()" aria-label="Ver recetas favoritas">❤️ Favoritas <span id="favCountBadge">(0)</span></button>
+        <button class="btn-nav" id="themeToggleBtn" onclick="toggleTheme()" title="Cambiar modo claro/oscuro" aria-label="Alternar modo claro u oscuro">🌙</button>
       </div>
     </div>
   </header>
@@ -1296,18 +1296,18 @@
     <div class="command-bar">
       <div class="search-input-box">
         <span class="search-icon">🔍</span>
-        <input type="text" id="searchInput" class="search-input" placeholder="Buscar por plato, ingrediente (ej. salmón, miso, cordero), país o historia...">
+        <input type="text" id="searchInput" class="search-input" placeholder="Buscar por plato, ingrediente (ej. salmón, miso, cordero), país o historia..." aria-label="Buscar recetas por plato, ingrediente o país">
       </div>
 
-      <select id="categorySelect" class="filter-select" onchange="onFilterChange()">
+      <select id="categorySelect" class="filter-select" onchange="onFilterChange()" aria-label="Filtrar por categoría culinaria">
         <option value="all">🍽️ Todas las categorías</option>
       </select>
 
-      <select id="countrySelect" class="filter-select" onchange="onFilterChange()">
+      <select id="countrySelect" class="filter-select" onchange="onFilterChange()" aria-label="Filtrar por país de origen">
         <option value="all">🌍 Todos los orígenes</option>
       </select>
 
-      <select id="dietSelect" class="filter-select" onchange="onFilterChange()">
+      <select id="dietSelect" class="filter-select" onchange="onFilterChange()" aria-label="Filtrar por preferencia dietaria">
         <option value="all">🥗 Todas las dietas</option>
         <option value="Vegetariano">🌱 Vegetariano</option>
         <option value="Vegano">🥬 Vegano</option>
@@ -1317,7 +1317,7 @@
         <option value="Alto en Proteína">💪 Alto en Proteína</option>
       </select>
 
-      <select id="sortSelect" class="filter-select" onchange="renderRecipes()">
+      <select id="sortSelect" class="filter-select" onchange="renderRecipes()" aria-label="Ordenar recetas del catálogo">
         <option value="id_desc" selected>✨ Más recientes primero</option>
         <option value="id_asc">📑 Orden original (#1 en adelante)</option>
         <option value="title_asc">🔤 Nombre (A – Z)</option>
@@ -1729,7 +1729,7 @@
           </div>
         </div>
         <div class="hero-img-col">
-          <img src="${r.image}" alt="${r.title}">
+          <img src="${r.image}" alt="${r.title}" fetchpriority="high" width="600" height="400">
         </div>
       `;
     }
@@ -1924,7 +1924,7 @@
         return `
           <article class="recipe-card" onclick="openModal(${r.id})">
             <div class="card-img-wrapper">
-              <img class="card-img" src="${r.image}" alt="${r.title}" loading="lazy">
+              <img class="card-img" src="${r.image}" alt="${r.title}" loading="${idx < 3 ? 'eager' : 'lazy'}" width="400" height="225">
               <span class="card-badge-country">${getCountryBadgeHtml(country)}</span>
               <button class="card-fav-btn ${isFav ? 'fav-active' : ''}" onclick="toggleFavorite(${r.id}, event)" title="Guardar en favoritas">
                 ${isFav ? '♥' : '♡'}
@@ -2353,9 +2353,20 @@
         </div>
       `).join('');
 
-      // Inicializar escalador de porciones
-      const mServ = String(r.servings || '').match(/\d+/);
-      baseServings = mServ ? parseInt(mServ[0], 10) : 4;
+      // Inicializar escalador de porciones inteligente
+      const servStr = String(r.servings || '');
+      const porcMatch = servStr.match(/(?:(\d+)\s*(?:a|-)\s*)?(\d+)\s*(?:porci[oó]n|personas)/i);
+      if (porcMatch) {
+        baseServings = parseInt(porcMatch[2] || porcMatch[1], 10);
+      } else {
+        const m = servStr.match(/\d+/);
+        baseServings = m ? parseInt(m[0], 10) : 4;
+      }
+      if (baseServings > 20) {
+        const smallerNums = (servStr.match(/\d+/g) || []).map(n => parseInt(n, 10)).filter(n => n <= 12 && n >= 1);
+        if (smallerNums.length > 0) baseServings = smallerNums[smallerNums.length - 1];
+        else baseServings = 6;
+      }
       currentServings = baseServings;
       updateServingsDisplay();
 
