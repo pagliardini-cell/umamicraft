@@ -22,13 +22,28 @@ from pathlib import Path
 
 if sys.platform == "win32":
     try:
-        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace", line_buffering=True)
     except Exception:
         pass
 
-CONFIG_FILE = "facebook_config.json"
-HISTORIAL_FILE = "facebook_publicadas.json"
-RECETAS_FILE = "recetas_pro.json"
+def find_project_file(filename):
+    candidates = [
+        filename,
+        os.path.join(os.path.dirname(os.path.abspath(__file__)), filename),
+        os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", filename),
+        os.path.join(os.getcwd(), filename),
+        os.path.join(os.getcwd(), "..", filename),
+        os.path.join(r"C:\Users\Walter\Desktop\mis recetas", filename),
+        os.path.join(r"C:\Users\Walter\Desktop\mis recetas\publicar_github", filename),
+    ]
+    for c in candidates:
+        if os.path.exists(c):
+            return os.path.abspath(c)
+    return filename
+
+CONFIG_FILE = find_project_file("facebook_config.json")
+HISTORIAL_FILE = find_project_file("facebook_publicadas.json")
+RECETAS_FILE = find_project_file("recetas_pro.json")
 BASE_URL = "https://umamicraft.vercel.app"
 
 COUNTRY_FLAGS = {
@@ -42,6 +57,10 @@ COUNTRY_FLAGS = {
 }
 
 _TRANSLATION_MEMO = {}
+
+def make_slug(title):
+    t = unicodedata.normalize('NFKD', str(title or '')).encode('ascii', 'ignore').decode('utf-8').lower()
+    return re.sub(r'[^a-z0-9]+', '-', t).strip('-')
 
 def clean_tag(s):
     if not s: return ""
@@ -151,9 +170,10 @@ def formatear_post_trilingue(receta):
     titulo_pt = traducir(titulo_es, "pt")
     intro_pt = traducir(intro_es, "pt")
     
-    link_es = f"{BASE_URL}/r/{receta_id}.html"
-    link_en = f"{BASE_URL}/?r={receta_id}&lang=en"
-    link_pt = f"{BASE_URL}/?r={receta_id}&lang=pt"
+    slug = make_slug(titulo_es)
+    link_es = f"{BASE_URL}/receta/{slug}"
+    link_en = f"{BASE_URL}/receta/{slug}?lang=en"
+    link_pt = f"{BASE_URL}/receta/{slug}?lang=pt"
     
     texto = f"✨ UMAMICRAFT GLOBAL COLLECTION {bandera}\n\n"
     
@@ -185,7 +205,7 @@ def publicar_en_facebook(receta, config, scheduled_timestamp=None, dry_run=False
     caption = formatear_post_trilingue(receta)
     
     is_url = imagen_str.startswith("http://") or imagen_str.startswith("https://")
-    ruta_local = os.path.join(os.getcwd(), imagen_str) if (imagen_str and not is_url) else None
+    ruta_local = find_project_file(imagen_str) if (imagen_str and not is_url) else None
     has_local = ruta_local and os.path.exists(ruta_local)
     
     if dry_run:

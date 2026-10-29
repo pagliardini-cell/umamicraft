@@ -4,7 +4,7 @@ const fs = require('fs');
 const path = require('path');
 
 const HOST = 'umamicraft.vercel.app';
-const KEY = '2677b8b956ff201792a88409d8c8b876';
+const KEY = 'd514f03354084046bccb79207ed0bf76';
 const KEY_LOCATION = `https://${HOST}/${KEY}.txt`;
 
 const charmap = {
