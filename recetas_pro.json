@@ -21832,24 +21832,24 @@
     "story": "El Baechu Kimchi es el alma indiscutida de la cultura gastronómica de Corea y su práctica comunitaria de elaboración otoñal, el Kimjang, fue declarada Patrimonio Cultural Inmaterial de la Humanidad por la UNESCO. Este fermento milenario no solo es el acompañamiento esencial de cada comida en los hogares y tabernas coreanas, sino un superalimento probiótico vivo cargado de bacterias ácido-lácticas (Lactobacillus), vitaminas A, B y C, y un complejo equilibrio organoléptico entre acidez chispeante, picor aromático del gochugaru, dulzor vegetal y profundo umami marítimo. En esta versión adaptada minuciosamente a los insumos disponibles en Argentina, empleamos el repollo akusai fresco de verdulería junto con las tradicionales gachas de arroz (chapssalpul) y salsa de pescado o anchoas curadas, logrando la textura tierna pero crocante y esa efervescencia característica que eleva arroces, caldos, fideos y carnes asadas.",
     "ingredient_groups": [
       {
-        "group_name": "Curado del Repollo Akusai",
-        "ingredients": [
+        "name": "Curado del Repollo Akusai",
+        "items": [
           "1 col china akusai grande (aprox. 1,5 kg), firme y de hojas compactas",
           "100 g de sal entrefina parrillera o sal marina gruesa (sin yodo ni aditivos)",
           "Agua fría (para sumergir y enjuagar)"
         ]
       },
       {
-        "group_name": "Gachas de Harina de Arroz (Chapssalpul)",
-        "ingredients": [
+        "name": "Gachas de Harina de Arroz (Chapssalpul)",
+        "items": [
           "240 ml de agua filtrada (1 taza)",
           "20 g de harina de arroz fino (o almidón de maíz / fécula)",
           "15 g de azúcar rubia o común (1 cda.)"
         ]
       },
       {
-        "group_name": "Pasta de Fermentación (Yangnyeom)",
-        "ingredients": [
+        "name": "Pasta de Fermentación (Yangnyeom)",
+        "items": [
           "50 g de ají coreano gochugaru (o blend de 70% pimentón dulce de calidad + 30% ají molido argentino fino)",
           "60 ml de salsa de pescado asiática (o salsa de anchoas / salsa de soja fermentada para opción vegana)",
           "8 dientes de ajo frescos, pelados",
@@ -21860,8 +21860,8 @@
         ]
       },
       {
-        "group_name": "Vegetales Aromáticos de Relleno",
-        "ingredients": [
+        "name": "Vegetales Aromáticos de Relleno",
+        "items": [
           "150 g de nabo blanco (daikon) pelado y cortado en juliana muy fina",
           "1 zanahoria mediana pelada y cortada en juliana fina",
           "4 tallos de cebolla de verdeo limpios, cortados en bastones de 3 a 4 cm"
@@ -21870,7 +21870,7 @@
     ],
     "step_groups": [
       {
-        "group_name": "1. Curado y Salado del Akusai",
+        "name": "1. Curado y Salado del Akusai",
         "steps": [
           "Cortar el repollo akusai a lo largo en mitades desde la base del tallo y luego separar suavemente en cuartos con las manos para preservar la estructura de las hojas.",
           "Sumergir los cuartos brevemente en agua fría para humedecerlos. Levantar hoja por hoja y espolvorear la sal entrefina de manera homogénea, concentrando mayor cantidad en la base blanca y gruesa del tallo donde la fibra es más densa.",
@@ -21879,7 +21879,7 @@
         ]
       },
       {
-        "group_name": "2. Elaboración de las Gachas y la Pasta Yangnyeom",
+        "name": "2. Elaboración de las Gachas y la Pasta Yangnyeom",
         "steps": [
           "En una cacerola pequeña verter el agua y la harina de arroz. Disolver en frío con batidor de alambre para evitar grumos, encender el fuego a nivel medio-bajo y cocinar revolviendo constantemente hasta que la mezcla espese adquiriendo una textura cremosa y traslúcida similar a una compota ligera. Incorporar el azúcar, mezclar durante un minuto más y retirar del fuego para enfriar completamente a temperatura ambiente.",
           "Colocar en el vaso de la procesadora o licuadora los dientes de ajo, el jengibre, la media cebolla, la pera o manzana y la salsa de pescado (junto a las anchoas pisadas si se usan). Procesar hasta obtener un puré aromático, homogéneo y sin tropezones grandes.",
@@ -21888,7 +21888,7 @@
         ]
       },
       {
-        "group_name": "3. Envasado y Fermentación Láctica Controlada",
+        "name": "3. Envasado y Fermentación Láctica Controlada",
         "steps": [
           "Colocarse guantes de cocina. Tomar un cuarto de akusai escurrido y comenzar a distribuir la pasta especiada entre cada capa de hojas, partiendo desde las hojas externas hacia el corazón y masajeando cada pliegue con dedicación.",
           "Plegar el cuarto de repollo sobre sí mismo formando un paquete compacto usando las hojas más largas exteriores para envolverlo. Acomodar cada paquete dentro de un frasco de vidrio previamente esterilizado de boca ancha.",
@@ -21941,16 +21941,16 @@
     "story": "El Kkakdugi es el kimchi de nabo blanco (daikon) cortado en dados característicos, venerado en la gastronomía coreana por su mordida explosivamente crujiente y su jugo dulce y picante. Históricamente, se documenta en crónicas de la dinastía Joseon como un plato popularizado por la princesa Sukseon, quien lo presentó a su padre el rey Jeongjo ganándose elogios de la corte. Tradicionalmente es la guarnición inseparable de los caldos y sopas densas de res como el Seolleongtang (sopa de huesos) y el Gomtang, ya que su refrescante textura y marcada acidez cortan la grasa reconfortando el paladar. En verdulerías de barrio y ferias de toda Argentina, el nabo blanco largo y turgente se encuentra en abundancia todo el año, lo que convierte al Kkakdugi en una de las conservas fermentadas caseras más fáciles, económicas y gratificantes de preparar.",
     "ingredient_groups": [
       {
-        "group_name": "Curado del Nabo Daikon",
-        "ingredients": [
+        "name": "Curado del Nabo Daikon",
+        "items": [
           "1,2 kg de nabo blanco daikon fresco (aprox. 2 nabos grandes), firme y pesado",
           "35 g de sal entrefina parrillera o marina (2 cdas. soperas colmadas)",
           "25 g de azúcar blanco o rubio (1 cda. sopera colmada, indispensable para extraer el amargor)"
         ]
       },
       {
-        "group_name": "Adobo y Pasta Especiada",
-        "ingredients": [
+        "name": "Adobo y Pasta Especiada",
+        "items": [
           "40 g de gochugaru coreano (o mezcla de 70% pimentón dulce + 30% ají molido fino)",
           "45 ml de salsa de pescado asiática de anchoas (o salsa de soja para opción vegana)",
           "6 dientes de ajo pelados",
@@ -21963,7 +21963,7 @@
     ],
     "step_groups": [
       {
-        "group_name": "1. Corte y Curado Clave del Nabo",
+        "name": "1. Corte y Curado Clave del Nabo",
         "steps": [
           "Pelar los nabos blancos con pelapapas retirando la piel exterior fibrosa. Cortar en rodajas gruesas de dos centímetros y luego cortar en dados uniformes de dos por dos centímetros, contemplando que durante la salazón perderán agua y mermarán ligeramente su volumen.",
           "Colocar los dados de nabo en un bol amplio, espolvorear la sal entrefina y el azúcar. Mezclar enérgicamente con las manos limpias asegurando que cada cubo quede bien cubierto por los cristales.",
@@ -21972,7 +21972,7 @@
         ]
       },
       {
-        "group_name": "2. Sazonado y Mezcla Aromática",
+        "name": "2. Sazonado y Mezcla Aromática",
         "steps": [
           "Procesar o licuar los dientes de ajo junto al trozo de jengibre, la salsa de pescado y la pera o manzana hasta lograr una pasta fluida y uniforme.",
           "Disponer los cubos de nabo escurridos en el bol seco. Espolvorear directamente el gochugaru sobre los nabos y frotar con las manos (usando guantes de cocina) durante dos minutos hasta que los cubos queden impregnados de un color rojo intenso y brillante; esta técnica sella los poros del vegetal para que retenga su textura crocante.",
@@ -21980,7 +21980,7 @@
         ]
       },
       {
-        "group_name": "3. Envasado y Fermentación Láctica",
+        "name": "3. Envasado y Fermentación Láctica",
         "steps": [
           "Trasladar los dados de nabo sazonados a un frasco de vidrio limpio de boca ancha, empujando hacia abajo con una cuchara o mazo de cocina para comprimirlos bien y evitar bolsas de aire.",
           "Verter sobre los cubos toda la salsa líquida que haya quedado en el bol, asegurando que queden sumergidos en el jugo rojo picante. Mantener un margen libre de tres a cuatro centímetros respecto a la tapa para que respiren los gases.",
@@ -22032,16 +22032,16 @@
     "story": "El Oi Sobagi es uno de los kimchis estacionales más apreciados de Corea, tradicionalmente preparado durante la primavera y el verano cuando los pepinos están en su apogeo de frescura y dulzor. Su formato icónico en 'bolsillo' o cuatro pétalos unidos por la base alberga un relleno crujiente y aromático de cebolla de verdeo, zanahoria, ajo, jengibre y gochugaru, logrando una explosión sensorial que combina la jugosidad fría del pepino con la calidez del ají fermentado. El gran secreto de las cocineras coreanas para que el pepino no se vuelva blando ni gomoso con el paso de los días consiste en sumergirlo inicialmente en una salmuera caliente: este choque osmótico y térmico desactiva las enzimas pectinolíticas y fija la turgencia celular de por vida. En Argentina, con pepinos comunes de verdulería o pepinos japoneses, esta receta ofrece una entrada o guarnición exótica lista para disfrutar tanto fresca como fermentada.",
     "ingredient_groups": [
       {
-        "group_name": "Pepinos y Salmuera de Choque Térmico",
-        "ingredients": [
+        "name": "Pepinos y Salmuera de Choque Térmico",
+        "items": [
           "8 pepinos medianos firmes y rectos (aprox. 1 kg, tipo común o japonés)",
           "1 litro de agua caliente recién hervida",
           "40 g de sal gruesa o entrefina parrillera (2 cdas. soperas colmadas)"
         ]
       },
       {
-        "group_name": "Relleno Aromático (Sok)",
-        "ingredients": [
+        "name": "Relleno Aromático (Sok)",
+        "items": [
           "1 atado de cebolla de verdeo o ciboulette fresco, lavado y picado fino en bastoncitos de 1 cm",
           "1 zanahoria chica pelada y cortada en juliana capilar finísima",
           "1/4 cebolla morada cortada en pluma muy fina",
@@ -22050,8 +22050,8 @@
         ]
       },
       {
-        "group_name": "Pasta de Condimento",
-        "ingredients": [
+        "name": "Pasta de Condimento",
+        "items": [
           "35 g de gochugaru coreano (o blend de pimentón dulce y ají molido fino)",
           "35 ml de salsa de pescado asiática (o salsa de soja premium)",
           "15 g de azúcar blanco o miel líquida (1 cda. sopera)",
@@ -22061,7 +22061,7 @@
     ],
     "step_groups": [
       {
-        "group_name": "1. Corte en Bolsillo y Salmuera Térmica Crujiente",
+        "name": "1. Corte en Bolsillo y Salmuera Térmica Crujiente",
         "steps": [
           "Lavar bien los pepinos frotando la piel con un paño limpio y cortar las dos puntas extremas. Cortar cada pepino en dos mitades transversales de unos seis a siete centímetros de largo.",
           "Apoyar cada cilindro y realizar un corte longitudinal en cruz (+) desde un extremo hacia abajo, deteniendo el cuchillo un centímetro y medio antes de la base opuesta, dejando los cuatro gajos unidos como una flor de pétalos.",
@@ -22070,7 +22070,7 @@
         ]
       },
       {
-        "group_name": "2. Elaboración del Relleno Aromático",
+        "name": "2. Elaboración del Relleno Aromático",
         "steps": [
           "En un bol amplio colocar la cebolla de verdeo picada, los hilitos de zanahoria y la cebolla morada.",
           "Incorporar el ajo picado, el jengibre rallado, el gochugaru, la salsa de pescado, el azúcar y las semillas de sésamo tostadas.",
@@ -22078,7 +22078,7 @@
         ]
       },
       {
-        "group_name": "3. Relleno, Envasado y Fermentación Suave",
+        "name": "3. Relleno, Envasado y Fermentación Suave",
         "steps": [
           "Tomar un pepino escurrido, abrir suavemente los cuatro pétalos con los dedos e introducir una porción generosa del relleno aromático en el corazón del cilindro, comprimiendo hacia el fondo.",
           "Frotar un poco de la pasta roja sobrante sobre la piel exterior del pepino para envolverlo de aroma y color.",
@@ -22129,8 +22129,8 @@
     "story": "El Gulab Jamun es indiscutiblemente la joya suprema de la repostería del subcontinente indio y el protagonista infaltable de celebraciones como Diwali, bodas y banquetes de honor. Su nombre evoca su rica herencia multicultural persa y mogol: 'gul' (flor) y 'ab' (agua), haciendo referencia al perfumado almíbar de rosas que lo baña, mientras que 'jamun' alude a la baya india de color oscuro y forma esférica semejante al fruto de la Eugenia jambolana. Tradicionalmente elaborado reduciendo lentamente leche entera durante horas hasta obtener sólidos lácteos concentrados (khoya o mawa), en las cocinas contemporáneas y hogareñas se logra una textura aterciopelada y celestial utilizando leche entera en polvo de calidad, un toque de harina y ghee. Al freírse con infinita paciencia a fuego suave, estas esferas desarrollan una delicada corteza dorada y un interior algodonoso que, al sumergirse en un almíbar tibio aromatizado con cardamomo verde machacado, azafrán y agua de rosas, se hinchan duplicando su tamaño y se funden en el paladar con una suavidad inolvidable.",
     "ingredient_groups": [
       {
-        "group_name": "Almíbar Perfumado (Chashni)",
-        "ingredients": [
+        "name": "Almíbar Perfumado (Chashni)",
+        "items": [
           "400 g de azúcar común (2 tazas)",
           "350 ml de agua filtrada (1 taza y media)",
           "5 vainas de cardamomo verde, ligeramente abiertas y machacadas",
@@ -22140,8 +22140,8 @@
         ]
       },
       {
-        "group_name": "Masa Suave de Gulab Jamun",
-        "ingredients": [
+        "name": "Masa Suave de Gulab Jamun",
+        "items": [
           "130 g de leche entera en polvo de buena calidad (1 taza al ras, sin grumos)",
           "40 g de harina de trigo 0000 o harina para repostería (1/3 taza)",
           "1/4 cdita. al ras de bicarbonato de sodio o polvo de hornear (medición exacta)",
@@ -22150,8 +22150,8 @@
         ]
       },
       {
-        "group_name": "Para la Fritura y Decoración",
-        "ingredients": [
+        "name": "Para la Fritura y Decoración",
+        "items": [
           "Abundante aceite neutro de girasol (o combinación con 3 cdas. de ghee para aroma)",
           "2 cdas. de pistachos pelados crudos, finamente picados",
           "Pétalos de rosas secos comestibles para decorar (opcional)"
@@ -22160,7 +22160,7 @@
     ],
     "step_groups": [
       {
-        "group_name": "1. Elaboración del Almíbar Aromatizado (Chashni)",
+        "name": "1. Elaboración del Almíbar Aromatizado (Chashni)",
         "steps": [
           "En una cacerola mediana de fondo grueso colocar el azúcar, el agua y las vainas de cardamomo verde machacadas junto con sus semillas.",
           "Llevar a fuego medio revolviendo hasta que los cristales de azúcar se disuelvan por completo. Al romper el hervor, incorporar las hebras de azafrán y el jugo fresco de limón.",
@@ -22169,7 +22169,7 @@
         ]
       },
       {
-        "group_name": "2. Formado Perfecto de las Esferas sin Grietas",
+        "name": "2. Formado Perfecto de las Esferas sin Grietas",
         "steps": [
           "En un bol amplio tamizar la leche entera en polvo, la harina de trigo y el leudante químico para asegurar una distribución microscópica y homogénea.",
           "Agregar el ghee y frotar delicadamente con las yemas de los dedos hasta lograr una textura arenada fina semejante a migas de pan.",
@@ -22178,7 +22178,7 @@
         ]
       },
       {
-        "group_name": "3. Fritura a Fuego Lento y Baño de Almíbar",
+        "name": "3. Fritura a Fuego Lento y Baño de Almíbar",
         "steps": [
           "Calentar abundante aceite con el toque de ghee en una sartén profunda o wok a fuego muy bajo. La temperatura del medio graso debe ser suave y moderada; al sumergir una bolita de prueba, esta debe descender al fondo y elevarse lentamente a la superficie recién al cabo de quince a veinte segundos rodeada de finas burbujas.",
           "Deslizar las esferas con suavidad en el aceite en tandas para no encimar la sartén. Mover el aceite con una espumadera en círculos concéntricos sin tocar directamente las esferas durante los primeros minutos, permitiendo que giren solas y se doren de forma uniforme por todas sus caras.",
@@ -22231,8 +22231,8 @@
     "story": "El Gulab Jamun Tiramisú es una de las creaciones de repostería fusión más aplaudidas y virales de los últimos años, popularizada por la chef y autora gastronómica Manali Singh (Cook with Manali) como el postre insignia para renovar las festividades de Diwali y ocasiones de gala. Esta obra maestra marida la técnica y elegancia italiana del tiramisú con la opulencia especiada de los dulces mithai del norte de la India. Las clásicas vainillas (savoiardi) se embeben no solo en café espresso, sino en el propio almíbar tibio de los gulab jamuns perfumado con cardamomo y agua de rosas. La crema eleva el queso mascarpone batido con crema de leche fresca, azúcar impalpable, un toque de azafrán molido y cardamomo verde fresco. Entre capa y capa, y coronando cada copa, se intercalan los jugosos gulab jamuns embebidos, logrando un contraste sublime entre la cremosidad láctea aterciopelada, el crocante de los pistachos tostados y la explosión de almíbar aromático.",
     "ingredient_groups": [
       {
-        "group_name": "Gulab Jamuns y Almíbar de Remojo",
-        "ingredients": [
+        "name": "Gulab Jamuns y Almíbar de Remojo",
+        "items": [
           "14 a 16 gulab jamuns recién hechos o en almíbar de buena calidad (divididos entre relleno y decoración)",
           "120 ml del almíbar de cardamomo y rosas de los propios gulab jamuns",
           "120 ml de café espresso suave o café fuerte recién hecho a temperatura ambiente (o té chai especiado para opción sin café)",
@@ -22240,14 +22240,14 @@
         ]
       },
       {
-        "group_name": "Base de Vainillas (Savoiardi)",
-        "ingredients": [
+        "name": "Base de Vainillas (Savoiardi)",
+        "items": [
           "14 a 16 vainillas / galletas savoiardi italianas (o bizcochos de soletilla)"
         ]
       },
       {
-        "group_name": "Crema Aterciopelada de Mascarpone y Cardamomo",
-        "ingredients": [
+        "name": "Crema Aterciopelada de Mascarpone y Cardamomo",
+        "items": [
           "250 g de queso mascarpone a temperatura ambiente (o queso crema denso sin sal)",
           "240 ml de crema de leche fresca para batir (bien fría, tenor graso mínimo 35%)",
           "60 g de azúcar impalpable o glas tamizada",
@@ -22257,8 +22257,8 @@
         ]
       },
       {
-        "group_name": "Decoración y Toppings",
-        "ingredients": [
+        "name": "Decoración y Toppings",
+        "items": [
           "2 cdas. de cacao amargo en polvo puro (para espolvorear la superficie)",
           "3 cdas. de pistachos pelados tostados y picados rústicos",
           "Hebras de azafrán puro y pétalos de rosas secos comestibles"
@@ -22267,14 +22267,14 @@
     ],
     "step_groups": [
       {
-        "group_name": "1. Infusión de Remojo y Preparación de los Gulab Jamuns",
+        "name": "1. Infusión de Remojo y Preparación de los Gulab Jamuns",
         "steps": [
           "En un bol playo mezclar el café espresso templado con el almíbar perfumado de cardamomo y rosas reservado de los gulab jamuns, sumando el toque de licor aromático si se desea; esta mezcla equilibra la sutil acidez y tostado del café con la fragancia floral oriental.",
           "Separar la mitad de los gulab jamuns y cortarlos en mitades o cuartos para el relleno interior entre capas, reservando el resto enteros e intactos para coronar la presentación final de cada vaso."
         ]
       },
       {
-        "group_name": "2. Elaboración de la Crema de Mascarpone Especiada",
+        "name": "2. Elaboración de la Crema de Mascarpone Especiada",
         "steps": [
           "En un bol mediano batir el queso mascarpone junto al azúcar impalpable tamizada, el cardamomo verde molido, el extracto aromático de rosas y la infusión dorada de azafrán con leche tibia, trabajando a velocidad baja únicamente hasta suavizar y homogeneizar sin sobrebatir.",
           "En un bol aparte (previamente enfriado), batir la crema de leche fría a velocidad media-alta hasta alcanzar picos firmes y sedosos.",
@@ -22282,7 +22282,7 @@
         ]
       },
       {
-        "group_name": "3. Montaje en Copas y Maduración en Frío",
+        "name": "3. Montaje en Copas y Maduración en Frío",
         "steps": [
           "Disponer vasos individuales, frascos o jarras de vidrio transparente. Sumergir rápidamente las vainillas (apenas uno a dos segundos por lado para que no se deshagan) en el líquido de café y almíbar especiado.",
           "Partir las vainillas húmedas para cubrir la base de cada copa. Distribuir encima una capa generosa de los trozos de gulab jamun cortados y una lluvia de pistachos picados.",
@@ -22336,8 +22336,8 @@
     "story": "Los Corzetti stampati (o croxetti en dialecto genovés) son una de las pastas frescas más fascinantes y aristocráticas de Italia, nacida en la Liguria medieval (Val Polcevera y la Riviera di Levante) durante el Renacimiento. Las familias nobles mandaban a tallar sellos artesanales de madera de manzano o peral (stampo per corzetti) con su escudo heráldico de armas en una cara y motivos florales o religiosos (como la cruz, origen de su nombre 'crocetta') en la otra; al estampar cada medallón de masa a mano no solo marcaban su linaje en los banquetes, sino que creaban un relieve en bajorrelieve perfecto para que las salsas se adhirieran íntimamente. En esta preparación tradicional, la masa se elabora incorporando un toque de vino blanco seco ligure (Pigato o Vermentino) para otorgar elasticidad aromática, y se amalgama en una clásica mantecatura con hongos pioppini de sombrero bronceado (Agrocybe aegerita), chalotas pochadas, tomillo fresco del monte y manteca emulsionada con el almidón de cocción, logrando una textura al dente memorable y un perfume silvestre inconfundible.",
     "ingredient_groups": [
       {
-        "group_name": "Pasta Fresca Corzetti (Masa de Grabado)",
-        "ingredients": [
+        "name": "Pasta Fresca Corzetti (Masa de Grabado)",
+        "items": [
           "300 g de harina de trigo 00 (o 0000 de repostería)",
           "100 g de sémola de trigo candeal fina (semola rimacinata)",
           "3 yemas de huevo frescas",
@@ -22348,8 +22348,8 @@
         ]
       },
       {
-        "group_name": "Salsa y Guarnición de Hongos Pioppini",
-        "ingredients": [
+        "name": "Salsa y Guarnición de Hongos Pioppini",
+        "items": [
           "350 g de hongos pioppini frescos limpios (conservando sus tallos tiernos enteros o partidos)",
           "2 chalotas medianas (o 1/2 cebolla morada pequeña), cortadas en pluma fina",
           "50 g de manteca sin sal fría en cubos (dividida para dorar y mantecar)",
@@ -22364,7 +22364,7 @@
     ],
     "step_groups": [
       {
-        "group_name": "1. Amasado y Reposo de la Masa para Grabado",
+        "name": "1. Amasado y Reposo de la Masa para Grabado",
         "steps": [
           "Disponer las harinas en forma de corona sobre la mesada de trabajo. En el hueco central añadir las yemas, el huevo entero, la pizca de sal fina y el vino blanco seco.",
           "Integrar gradualmente los ingredientes con un tenedor desde el centro hacia los bordes, incorporando el agua tibia poco a poco hasta aglutinar toda la harina.",
@@ -22373,7 +22373,7 @@
         ]
       },
       {
-        "group_name": "2. Estampado Artesanal con Sello de Madera",
+        "name": "2. Estampado Artesanal con Sello de Madera",
         "steps": [
           "Dividir la masa en porciones y estirar con palote o máquina de pasta hasta alcanzar un espesor parejo de dos a dos milímetros y medio (es crucial no dejarla demasiado fina para que no se perfore con el cuño).",
           "Utilizar el borde cilíndrico cortante del molde de madera para troquelar discos circulares de masa.",
@@ -22382,7 +22382,7 @@
         ]
       },
       {
-        "group_name": "3. Salteado Rústico de Hongos Pioppini",
+        "name": "3. Salteado Rústico de Hongos Pioppini",
         "steps": [
           "En una sartén amplia calentar la mitad de la manteca junto con el aceite de oliva, el diente de ajo aplastado y parte de las ramitas de tomillo fresco a fuego medio.",
           "Incorporar las chalotas cortadas en pluma fina y rehogar suavemente hasta que se vuelvan translúcidas sin tomar coloración dorada.",
@@ -22391,7 +22391,7 @@
         ]
       },
       {
-        "group_name": "4. Cocción, Emulsión y Mantecatura Final",
+        "name": "4. Cocción, Emulsión y Mantecatura Final",
         "steps": [
           "Llevar a ebullición abundante agua con sal gruesa en una olla grande. Sumergir los corzetti estampados y cocinar durante el tiempo indicado hasta que alcancen el punto al dente firme.",
           "Retirar los medallones con espumadera reservando una taza del agua de cocción almidonada.",
@@ -22443,8 +22443,8 @@
     "story": "La Guinness Chocolate Cake es la creación contemporánea más emblemática de la repostería irlandesa, concebida para rendir tributo visual y gustativo a una pinta perfecta de cerveza Guinness Stout recién tirada en un pub de Dublín. El lúpulo y las notas tostadas a café y malta quemada de la cerveza negra interactúan químicamente con el cacao amargo puro para profundizar su sabor y cortar el dulzor empalagoso, mientras que la manteca y la crema agria aportan una miga densa, terciopelada y de humedad extrema. Coronada con un frosting untuoso y denso de queso crema y crema montada que recrea la inconfundible espuma cremosa blanca de la pinta, este pastel se ha convertido en un clásico imprescindible para el día de San Patricio y las celebraciones de invierno en todo el mundo.",
     "ingredient_groups": [
       {
-        "group_name": "Base Líquida de Cerveza y Chocolate",
-        "ingredients": [
+        "name": "Base Líquida de Cerveza y Chocolate",
+        "items": [
           "250 ml de cerveza negra Guinness Stout",
           "250 g de manteca sin sal cortada en cubos",
           "75 g de cacao amargo en polvo sin azúcar (tamizado)",
@@ -22452,8 +22452,8 @@
         ]
       },
       {
-        "group_name": "Emulsión Húmeda y Secos",
-        "ingredients": [
+        "name": "Emulsión Húmeda y Secos",
+        "items": [
           "150 ml de crema agria (sour cream) o crema de leche espesa con 1 cdita. de jugo de limón",
           "2 huevos grandes a temperatura ambiente",
           "1 cda. de extracto puro de vainilla",
@@ -22463,8 +22463,8 @@
         ]
       },
       {
-        "group_name": "Cobertura Frosting Estilo Espuma de Pinta",
-        "ingredients": [
+        "name": "Cobertura Frosting Estilo Espuma de Pinta",
+        "items": [
           "300 g de queso crema firme (tipo Philadelphia), bien frío",
           "150 g de azúcar impalpable tamizada",
           "125 ml de crema de leche para batir (mínimo 35% de tenor graso), bien fría"
@@ -22473,7 +22473,7 @@
     ],
     "step_groups": [
       {
-        "group_name": "1. Elaboración de la Base Líquida Chocolatada",
+        "name": "1. Elaboración de la Base Líquida Chocolatada",
         "steps": [
           "En una cacerola amplia a fuego medio-bajo colocar la cerveza negra Guinness y los cubos de manteca, calentando suavemente hasta que la materia grasa se funda por completo sin dejar que la mezcla rompa en hervor.",
           "Retirar la cacerola del fuego.",
@@ -22481,7 +22481,7 @@
         ]
       },
       {
-        "group_name": "2. Integración de la Masa y Secos",
+        "name": "2. Integración de la Masa y Secos",
         "steps": [
           "En un bol mediano batir la crema agria junto a los huevos y el extracto de vainilla hasta integrar por completo.",
           "Volcar la mezcla batida de huevos y crema agria sobre la cacerola con la base tibia de cerveza y chocolate, revolviendo para homogeneizar.",
@@ -22490,7 +22490,7 @@
         ]
       },
       {
-        "group_name": "3. Horneado y Enfriado Esencial",
+        "name": "3. Horneado y Enfriado Esencial",
         "steps": [
           "Preparar un molde desmontable enmantecado y con la base forrada con papel manteca. Volcar la masa de manera uniforme.",
           "Llevar al horno precalentado a la temperatura indicada y hornear durante el tiempo programado, verificando la cocción al insertar un palillo en el centro, el cual debe salir limpio o con migajas húmedas pero sin masa cruda.",
@@ -22498,7 +22498,7 @@
         ]
       },
       {
-        "group_name": "4. Cobertura Cremosa y Armado Final",
+        "name": "4. Cobertura Cremosa y Armado Final",
         "steps": [
           "En un bol batir el queso crema frío junto con el azúcar impalpable tamizada hasta lograr una textura homogénea y sedosa, cuidando de no sobrebatir para que el queso conserve su consistencia firme.",
           "En un bol aparte previamente enfriado, batir la crema de leche fría hasta alcanzar medio punto con picos suaves.",
@@ -22514,5 +22514,2247 @@
       "Conservación: Guardar en heladera en recipiente con campana. Se conserva sumamente húmeda y deliciosa hasta por cinco días; servir templada unos quince minutos fuera de la heladera para disfrutar su textura fundente."
     ],
     "notes": "El postre definitivo para celebrar el día de San Patricio (St. Patrick's Day) o acompañar una sobremesa de café o té negro irlandés."
+  },
+  {
+    "id": 319,
+    "title": "Locro Criollo Tradicional — Guisado Patrio de Maíz y Carnes (Argentina)",
+    "original_title": "Locro Criollo Argentino con Salsa Quiquirimichi",
+    "country": "Argentina",
+    "category": "Guisos & Platos de Olla",
+    "tags": [
+      "Argentina",
+      "Locro",
+      "Patrio",
+      "Maíz Blanco",
+      "Porotos",
+      "Zapallo",
+      "Carne",
+      "Chorizo Colorado",
+      "Tradicional",
+      "Guiso"
+    ],
+    "prep_time": "40 min (+ remojo nocturno)",
+    "cook_time": "3 h",
+    "rest_time": "15 min antes de servir",
+    "temperature": "Fuego lento y suave con borboteo constante",
+    "servings": "8 a 10 porciones",
+    "calories": "520 kcal por porción",
+    "diet_badges": [
+      "Sin Gluten (verificando embutidos sin TACC)",
+      "Guisado Tradicional",
+      "Plato Festivo"
+    ],
+    "image": "locro_criollo_argentino.jpg",
+    "url": "r/319-locro-criollo-tradicional-argentina.html",
+    "published": "2026-10-29T02:00:00-03:00",
+    "story": "El locro es el plato patrio y ceremonial por excelencia de la Argentina, consumido tradicionalmente en fechas patrias como el 25 de Mayo y el 9 de Julio. De raíz prehispánica andina (del quechua ruqru o luqru), este guiso evolucionó en la época colonial al fusionar el maíz blanco pisado y los porotos con cortes de cerdo, falda vacuna y chorizo colorado. El gran secreto de los maestros locreros radica en el zapallo criollo plomo, que al deshacerse durante las horas de cocción lenta emulsiona el caldo convirtiéndolo en un néctar espeso, dorado y aterciopelado. Se corona indispensablemente con la salsa quiquirimichi: un aceite perfumado con pimentón dulce, ají molido y cebolla de verdeo que despierta el paladar.",
+    "ingredient_groups": [
+      {
+        "name": "Legumbres y Base de Calabaza",
+        "items": [
+          "400 g de maíz blanco partido (pisado), remojado en agua fría durante 12 horas",
+          "250 g de porotos alubia seleccionados, remojados en agua fría durante 12 horas",
+          "1 kg de zapallo plomo criollo o calabaza madura, pelado y cortado en cubos medianos"
+        ]
+      },
+      {
+        "name": "Carnes y Embutidos Criollos",
+        "items": [
+          "500 g de falda vacuna o asado de tira carnoso, cortado en cubos de bocado",
+          "400 g de pechito de cerdo o bondiola fresca en dados",
+          "2 patitas de cerdo limpias (aportan colágeno y untuosidad)",
+          "150 g de panceta ahumada o salada cortada en bastones",
+          "2 chorizos colorados de buena charcutería cortados en rodajas",
+          "1 chorizo criollo parrillero cortado en rodajas"
+        ]
+      },
+      {
+        "name": "Caldo y Aromáticos",
+        "items": [
+          "3 litros de agua filtrada o caldo suave de huesos",
+          "2 cebollas blancas picadas finas",
+          "1 puerro picado completo",
+          "1 cda. colmada de sal marina gruesa",
+          "1 cdita. de comino en grano tostado y molido",
+          "1 cda. de pimentón dulce de Cachi o pimentón seleccion"
+        ]
+      },
+      {
+        "name": "Salsa Picante Quiquirimichi",
+        "items": [
+          "100 ml de aceite neutro de maíz o grasa vacuna fundida",
+          "3 tallos de cebolla de verdeo (parte verde y blanca finamente picada)",
+          "2 cdas. colmadas de pimentón dulce aromático",
+          "1 cda. colmada de ají molido picante",
+          "1/2 cdita. de sal entrefina",
+          "3 cdas. de agua fría (para templar el sofrito)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Sellado de Carnes y Base del Guisado",
+        "steps": [
+          "En una olla grande de hierro fundido o barro calentar los bastones de panceta a fuego medio hasta que desprendan su grasa natural.",
+          "Incorporar los cubos de falda, el pechito de cerdo y las patitas limpias; dorar las piezas superficialmente por todos sus costados para concentrar sabores.",
+          "Añadir la cebolla y el puerro picados, salteando con espátula de madera hasta que transparenten y absorban los jugos de las carnes.",
+          "Condimentar con la sal gruesa, el comino molido y el pimentón dulce, removiendo durante un minuto sin quemar las especias."
+        ]
+      },
+      {
+        "name": "2. Cocción Lenta de Legumbres y Zapallo",
+        "steps": [
+          "Escurrir el maíz blanco y los porotos del agua de remojo e incorporarlos a la olla grande junto a las carnes.",
+          "Cubrir con el agua caliente o caldo aromático y llevar a hervor vivo durante diez minutos, espumando con cuidado la superficie para retirar impurezas.",
+          "Añadir la mitad del zapallo plomo en cubos, bajar el fuego a mínimo y cocinar semi tapado durante dos horas con borboteo muy suave, revolviendo con cuchara de madera desde el fondo cada quince minutos para evitar que el maíz se adhiera.",
+          "Incorporar los chorizos en rodajas y el resto del zapallo; continuar la cocción durante una hora más hasta que el zapallo se desintegre por completo en el caldo y el grano de maíz esté tierno y mantecoso.",
+          "Retirar las patitas de cerdo, deshuesar la carne tierna, picarla y devolverla a la olla."
+        ]
+      },
+      {
+        "name": "3. Elaboración de la Salsa Quiquirimichi y Servicio",
+        "steps": [
+          "En una sartén pequeña calentar el aceite a fuego suave, añadir la cebolla de verdeo picada y rehogar durante dos minutos sin dejar que dore.",
+          "Retirar la sartén del fuego y agregar el pimentón dulce, el ají molido y la sal. Sumar las cucharadas de agua fría para frenar la temperatura y emulsionar el aceite rojo picante.",
+          "Servir el locro bien caliente en cazuelas hondas de barro, coronando el centro con una cucharada generosa de la salsa quiquirimichi."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "El zapallo plomo es la clave de la textura: El zapallo común anco aporta mucha agua; buscá zapallo plomo criollo (de cáscara grisacea), cuya pulpa densa y seca es la que verdaderamente espesa el caldo como una crema.",
+      "Desgrase: Si el locro se prepara el día anterior y se deja enfriar, la grasa superficial se solidifica en una capa fácil de retirar; al recalentarlo al día siguiente su sabor se potencia de forma sublime."
+    ],
+    "notes": "Maridaje clásico insustituible: Vino tinto Malbec argentino con cuerpo o Torrontés salteño."
+  },
+  {
+    "id": 320,
+    "title": "Pastel de Papas Clásico — Carne a Cuchillo y Puré Gratinado (Argentina)",
+    "original_title": "Pastel de Papas Tradicional Porteño",
+    "country": "Argentina",
+    "category": "Carnes & Tartas",
+    "tags": [
+      "Argentina",
+      "Pastel de Papas",
+      "Carne Picada",
+      "Puré",
+      "Bodegón",
+      "Casero",
+      "Gratinado",
+      "Confort Food",
+      "Tradicional"
+    ],
+    "prep_time": "35 min",
+    "cook_time": "40 min",
+    "rest_time": "15 min antes de cortar",
+    "temperature": "200 °C (horno fuerte para gratinado)",
+    "servings": "6 a 8 porciones",
+    "calories": "480 kcal por porción",
+    "diet_badges": [
+      "Casero Tradicional",
+      "Confort Food"
+    ],
+    "image": "pastel_de_papas_argentino.jpg",
+    "url": "r/320-pastel-de-papas-tradicional-argentina.html",
+    "published": "2026-10-29T02:05:00-03:00",
+    "story": "Heredero criollo del cottage pie británico y el hachis parmentier francés, el pastel de papas se arraigó en los hogares y bodegones rioplatenses como el rey indiscutido de la cocina de olla y horno familiar. En su versión más excelsa, el relleno se elabora con carne vacuna picada a cuchillo en cubitos diminutos, abundante cebolla rehogada, pimiento rojo, aceitunas verdes carnosas, huevos duros picados y el infaltable toque de comino criollo. La cubierta de puré de papas, enriquecida con manteca, nuez moscada y leche tibia, se corona con queso rallado o una lluvia de azúcar que carameliza bajo el grill del horno formando una costra dorada irresistible.",
+    "ingredient_groups": [
+      {
+        "name": "Relleno Criollo de Carne",
+        "items": [
+          "800 g de bola de lomo, nalga o roast beef picado fino a cuchillo",
+          "3 cebollas medianas picadas en brunoise",
+          "1 pimiento morrón rojo en cubitos pequeños",
+          "2 dientes de ajo picados finos",
+          "3 huevos duros picados",
+          "100 g de aceitunas verdes descarozadas y fileteadas",
+          "2 cdas. de aceite de oliva o grasa vacuna",
+          "1 cda. de pimentón dulce",
+          "1 cdita. de comino en polvo",
+          "Sal marina y pimienta negra molida al gusto"
+        ]
+      },
+      {
+        "name": "Puré de Papas Cremoso para Cubierta",
+        "items": [
+          "1,2 kg de papas harinosas (tipo Spunta o Monalisa), peladas",
+          "60 g de manteca sin sal",
+          "100 ml de leche entera tibia",
+          "1 pizca generosa de nuez moscada recién rallada",
+          "1 yema de huevo fresca (aporta brillo y elasticidad al puré)",
+          "80 g de queso parmesano o sardo recién rallado fino",
+          "1 cda. opcional de azúcar común (para el clásico toque agridulce porteño)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Elaboración del Puré de Papas Aterciopelado",
+        "steps": [
+          "Colocar las papas peladas en una olla con abundante agua fría salada; llevar a ebullición y cocinar hasta que estén tiernas al pincharlas con un tenedor.",
+          "Escurrir muy bien las papas calientes y pisar de inmediato con pisapapas mientras desprenden vapor para evitar que queden grumos.",
+          "Incorporar la manteca en cubos, la leche tibia, la nuez moscada, sal y pimienta. Mezclar enérgicamente y sumar la yema de huevo, batiendo hasta lograr un puré sedoso y firme."
+        ]
+      },
+      {
+        "name": "2. Salteado del Picadillo Jugoso",
+        "steps": [
+          "En una sartén amplia calentar la materia grasa a fuego medio; rehogar la cebolla y el morrón hasta que estén suaves y transparentes.",
+          "Añadir el ajo picado y la carne picada a cuchillo. Subir el fuego y dorar revolviendo constantemente para separar la carne, manteniéndola jugosa sin sobrecocinar.",
+          "Condimentar con el pimentón dulce, el comino, sal y pimienta. Apagar el fuego y sumar las aceitunas fileteadas y los huevos duros picados, integrando suavemente."
+        ]
+      },
+      {
+        "name": "3. Montaje y Gratinado al Horno",
+        "steps": [
+          "Enmantecar una fuente para horno profunda de vidrio o cerámica térmica.",
+          "Distribuir la totalidad del relleno de carne en la base, nivelando con una espátula.",
+          "Cubrir por completo con el puré de papas tibio, utilizando una manga pastelera o el dorso de una cuchara para marcar picos y líneas rústicas en la superficie.",
+          "Espolvorear con el queso rallado y la lluvia opcional de azúcar para caramelizar.",
+          "Hornear a temperatura fuerte durante el tiempo indicado hasta que el puré burbujee en los bordes y la superficie adquiera un dorado crujiente y tostado.",
+          "Dejar asentar fuera del horno unos minutos antes de cortar y servir porciones firmes y enteras."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Carne a cuchillo vs. carne picada común: Picar la carne a cuchillo en daditos de 5 mm retiene los jugos naturales y evita que el pastel quede con textura arenosa.",
+      "Dejar reposar antes de servir: Si servís el pastel recién salido del horno el relleno se desparrama; el reposo de diez a quince minutos permite que el almidón de la papa y las proteínas de la carne se estabilicen."
+    ],
+    "notes": "Un plato clásico de domingo que rinde generosamente y sabe aún mejor recalentado al día siguiente."
+  },
+  {
+    "id": 321,
+    "title": "Matambre a la Pizza a la Parrilla — Tierno con Fileto y Muzzarella (Argentina)",
+    "original_title": "Matambre a la Pizza Parrillero Tradicional",
+    "country": "Argentina",
+    "category": "Carnes & Parrilla",
+    "tags": [
+      "Argentina",
+      "Matambre",
+      "Parrilla",
+      "Pizza",
+      "Muzzarella",
+      "Fileto",
+      "Asado",
+      "Parrillero",
+      "Tradicional"
+    ],
+    "prep_time": "20 min (+ 2 h de tiernizado)",
+    "cook_time": "30 min a la parrilla",
+    "rest_time": "5 min de reposo",
+    "temperature": "Brasas moderadas constantes",
+    "servings": "6 porciones",
+    "calories": "540 kcal por porción",
+    "diet_badges": [
+      "Sin Gluten (verificando salsa y queso)",
+      "Parrilla Criolla",
+      "Alto en Proteínas"
+    ],
+    "image": "matambre_a_la_pizza.jpg",
+    "url": "r/321-matambre-a-la-pizza-argentina.html",
+    "published": "2026-10-29T02:10:00-03:00",
+    "story": "El matambre a la pizza es una de las grandes invenciones carnívoras de la gastronomía argentina, concebido en las parrillas y bodegones porteños para transformar un corte delgado y fibroso en un bocado tierno, crujiente y suculento. Tradicionalmente, el matambre se desengrasa levemente y se tierniza en una marinada láctica con leche entera y hierbas antes de llevarlo a las brasas. Al dorar del lado de la grasa hasta quedar bien crocante, se voltea sobre el fuego y se viste como una pizza napolitana: salsa de tomate casera concentrada, una manta de queso muzzarella fundido, rodajas de tomate fresco, aceitunas verdes y orégano de monte.",
+    "ingredient_groups": [
+      {
+        "name": "Matambre y Marinada de Tiernizado",
+        "items": [
+          "1,5 kg de matambre vacuno fresco, limpio y parejo",
+          "750 ml de leche entera (el ácido láctico ablanda las fibras musculares)",
+          "2 hojas de laurel secas",
+          "2 dientes de ajo aplastados",
+          "1 cda. de sal marina gruesa",
+          "1 cdita. de pimienta negra en grano machacada"
+        ]
+      },
+      {
+        "name": "Cubierta a la Pizza y Gratín",
+        "items": [
+          "250 ml de salsa de tomate casera espesa (reducida con orégano y ajo)",
+          "400 g de queso muzzarella rallado grueso o en fetas",
+          "2 tomates redondos maduros cortados en rodajas finas",
+          "12 aceitunas verdes descarozadas",
+          "1 cda. colmada de orégano seco de montaña",
+          "1 cdita. de ají molido criollo",
+          "2 cdas. de aceite de oliva virgen extra"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Tiernizado Clave del Matambre",
+        "steps": [
+          "Disponer el matambre en una asadera profunda con la grasa hacia arriba; retirar los excesos más gruesos de grasa exterior dejando una capa fina que aportará humedad y crocancia.",
+          "Cubrir la carne por completo con la leche entera, el laurel, los dientes de ajo, la sal gruesa y la pimienta machacada.",
+          "Llevar al horno a fuego suave o cocinar a fuego mínimo en olla durante el tiempo indicado de tiernizado hasta que la carne esté dócil y tierna al clavar un cuchillo. Escurrir bien y secar la superficie."
+        ]
+      },
+      {
+        "name": "2. Asado Crocante a las Brasas",
+        "steps": [
+          "Encender las brasas y lograr un calor moderado parejo bajo la parrilla.",
+          "Colocar el matambre sobre los hierros calientes con el lado de la grasa hacia abajo, cocinando con paciencia durante unos quince a veinte minutos hasta que la grasa dore intensamente y adquiera una textura bien crocante.",
+          "Girar la pieza con pinza parrillera, dejando la cara dorada y crujiente mirando hacia arriba."
+        ]
+      },
+      {
+        "name": "3. Montaje de la Pizza y Fundido del Queso",
+        "steps": [
+          "Esparcir la salsa de tomate espesa de manera homogénea sobre toda la superficie dorada del matambre.",
+          "Cubrir con abundante queso muzzarella, acomodar las rodajas de tomate fresco y decorar con las aceitunas verdes.",
+          "Espolvorear con el orégano seco, el ají molido y un hilo de aceite de oliva virgen extra.",
+          "Tapar la carne con una asadera invertida o chapa parrillera con brasas suaves encima para generar calor envolvente hasta que la muzzarella se funda por completo y comience a gratinar.",
+          "Retirar de la parrilla sobre tabla de madera, dejar asentar unos minutos y cortar en tiras anchas para compartir al centro."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "No saltear el tiernizado: El matambre a la parrilla directo sin cocción previa suele quedar duro como suela; el hervor en leche asegura que se corte con el canto del tenedor.",
+      "Versión al horno: Si no tenés parrilla, podés hacerlo al horno fuerte con grill, dorando primero la base sobre placa bien caliente y luego gratinando la muzzarella arriba."
+    ],
+    "notes": "Ideal para servir con papas fritas a caballo o ensalada mixta de rúcula, tomate y cebolla."
+  },
+  {
+    "id": 322,
+    "title": "Provoleta a la Parrilla — Costra Crocante y Corazón Fundente (Argentina)",
+    "original_title": "Provoleta Argentina a las Brasas al Estilo Bodegón",
+    "country": "Argentina",
+    "category": "Entradas & Parrilla",
+    "tags": [
+      "Argentina",
+      "Provoleta",
+      "Queso Provolone",
+      "Parrilla",
+      "Asado",
+      "Costra Crocante",
+      "Orégano",
+      "Entrada",
+      "Tradicional"
+    ],
+    "prep_time": "5 min (+ oreo previo)",
+    "cook_time": "10 min",
+    "rest_time": "1 min",
+    "temperature": "Brasas fuertes directas",
+    "servings": "2 a 4 porciones",
+    "calories": "320 kcal por porción",
+    "diet_badges": [
+      "Vegetariano",
+      "Sin Gluten",
+      "Keto",
+      "Parrilla Criolla"
+    ],
+    "image": "provoleta_parrillera.jpg",
+    "url": "r/322-provoleta-a-la-parrilla-argentina.html",
+    "published": "2026-10-29T02:15:00-03:00",
+    "story": "La provoleta es una de las grandes creaciones argentinas patentadas por el inmigrante calabrés Natalio Alba en la década de 1940, pensada específicamente para solucionar el gran dilema del asador: ¿cómo fundir queso a la parrilla sobre los fierros sin que se escurra como líquido hacia las brasas? Desarrollando un queso hilado tipo provolone con bajo tenor de humedad y sometiéndolo a un proceso de oreo previo o enharinado sutil, la provoleta forma una costra exterior dorada, crujiente y quebradiza que contiene en su interior un volcán de queso elástico y burbujeante, sazonado con orégano fresco, ají molido y aceite de oliva.",
+    "ingredient_groups": [
+      {
+        "name": "Queso y Sellado",
+        "items": [
+          "1 rodaja gruesa de queso provoleta parrillero (aprox. 250 g y 2 cm de espesor)",
+          "1 cda. de harina de trigo común o almidón de maíz (para enharinar suavemente las caras)",
+          "1 cda. de aceite de oliva virgen extra"
+        ]
+      },
+      {
+        "name": "Sazón Criollo de Bodegón",
+        "items": [
+          "1 cdita. colmada de orégano seco de montaña",
+          "1/2 cdita. de ají molido criollo (picor suave)",
+          "1 pizca de pimienta negra recién molida",
+          "1 rodaja de tomate maduro asado (opcional para servir)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Preparación y Curado de la Superficie",
+        "steps": [
+          "Retirar la provoleta de su envoltorio y dejarla secar descubierta en la heladera sobre una rejilla durante unas horas antes del asado; este oreo superficial es el secreto profesional para que forme piel y no se desarme.",
+          "Pincelar ambas caras de la rodaja de queso con unas gotas de aceite de oliva y espolvorear una capa casi invisible de harina, sacudiendo cualquier exceso."
+        ]
+      },
+      {
+        "name": "2. Asado Crocante a Fuego Directo",
+        "steps": [
+          "Asegurar un fuego directo con brasas bien encendidas y los hierros de la parrilla limpios y calientes (o usar una provoletera de hierro fundido precalentada al rojo vivo).",
+          "Colocar la rodaja de queso sobre los fierros calientes y no tocarla durante unos cuatro a cinco minutos hasta que se forme una costra dorada, sólida y crocante en la base.",
+          "Con una espátula ancha de metal, despegar la provoleta con un movimiento decidido y darla vuelta rápidamente.",
+          "Cocinar la segunda cara durante tres a cuatro minutos más mientras el interior se vuelve líquido y fundente.",
+          "Espolvorear inmediatamente con el orégano seco, el ají molido y un chorrito de aceite de oliva."
+        ]
+      },
+      {
+        "name": "3. Servicio Inmediato",
+        "steps": [
+          "Retirar con la espátula y servir de inmediato en una cazuela de barro o plato caliente.",
+          "Acompañar con abundante pan de campo crujiente recién tostado a las brasas para sumergir en el queso fundido."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "El grosor ideal: La rodaja nunca debe ser inferior a 1,5 o 2 cm de grosor; las provoletas finas se derriten por completo antes de poder formar la costra protectora.",
+      "En provoletera de hierro: Si la parrilla tiene hierros separados, precalentá la provoletera con una gota de aceite sobre las brasas y volcá el queso allí para evitar cualquier riesgo de caída a las cenizas."
+    ],
+    "notes": "La entrada insustituible que abre todo gran asado argentino antes de los cortes de carne."
+  },
+  {
+    "id": 323,
+    "title": "Vitel Toné Tradicional — Peceto Feteado con Salsa de Atún y Alcaparras (Argentina)",
+    "original_title": "Vitel Toné Porteño Clásico de las Fiestas",
+    "country": "Argentina",
+    "category": "Carnes Frías & Entradas",
+    "tags": [
+      "Argentina",
+      "Vitel Toné",
+      "Peceto",
+      "Atún",
+      "Alcaparras",
+      "Navidad",
+      "Fiestas",
+      "Bodegón",
+      "Entrada Fría",
+      "Tradicional"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "1 h 15 min",
+    "rest_time": "Enfriado completo + 4 h de reposo en heladera",
+    "temperature": "Hervor suave para la carne; servicio frío (4 a 6 °C)",
+    "servings": "8 a 10 porciones",
+    "calories": "390 kcal por porción",
+    "diet_badges": [
+      "Sin Gluten (verificando mayonesa)",
+      "Bajo en Carbohidratos",
+      "Clásico Festivo"
+    ],
+    "image": "vitel_tone_clasico.jpg",
+    "url": "r/323-vitel-tone-clasico-argentina.html",
+    "published": "2026-10-29T02:20:00-03:00",
+    "story": "De herencia piamontesa (vitello tonnato), el vitel toné fue adoptado con tanta devoción por la inmigración italiana en Argentina que se convirtió en el plato frío sagrado e indispensable de las mesas de Navidad y Año Nuevo en todo el país. A diferencia de las versiones europeas modernas, el vitel toné criollo se elabora tradicionalmente con peceto vacuno hervido en caldo de verduras aromáticas hasta quedar sumamente tierno. Al enfriarse, se corta en láminas finísimas con cuchillo afilado y se baña con una emulsión untuosa e inolvidable a base de atún en aceite, mayonesa casera, anchoas en salmuera, alcaparras y un toque del propio caldo de cocción, terminando con una lluvia de yema de huevo duro rallada.",
+    "ingredient_groups": [
+      {
+        "name": "Cocción del Peceto Aromático",
+        "items": [
+          "1 peceto vacuno entero limpio y sin grasa exterior (aprox. 1,2 kg a 1,4 kg)",
+          "1 cebolla grande cortada en cuartos",
+          "1 zanahoria cortada en trozos",
+          "1 tallo de apio con sus hojas",
+          "2 hojas de laurel secas",
+          "1 cda. de sal marina gruesa",
+          "Agua filtrada para cubrir"
+        ]
+      },
+      {
+        "name": "Salsa Toné Clásica",
+        "items": [
+          "2 latas de atún en aceite de buena calidad (aprox. 340 g escurrido)",
+          "6 a 8 filetitos de anchoas en aceite",
+          "300 g de mayonesa de consistencia firme",
+          "100 ml de crema de leche fresca",
+          "2 cdas. de alcaparras en vinagre (escurridas)",
+          "1 cdita. de mostaza suave de Dijon",
+          "1 cda. de vinagre blanco de vino o jugo de limón",
+          "100 a 150 ml del caldo de cocción del peceto colado y frío",
+          "Pimienta blanca recién molida al gusto"
+        ]
+      },
+      {
+        "name": "Guarnición y Decoración",
+        "items": [
+          "2 cdas. adicionales de alcaparras enteras",
+          "2 huevos duros (yemas ralladas finas para lluvia)",
+          "Hojas de perejil fresco"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Hervido Suave y Enfriado del Peceto",
+        "steps": [
+          "En una cacerola grande colocar el peceto limpio junto con la cebolla, zanahoria, apio, laurel y la sal gruesa. Cubrir con agua fría.",
+          "Llevar a hervor, reducir a fuego mínimo y cocinar semi tapado durante el tiempo indicado hasta que la carne esté tierna al clavar un cuchillo fino.",
+          "Apagar el fuego y dejar enfriar el peceto dentro del mismo caldo a temperatura ambiente (esto evita que la carne se seque y se ennegrezca). Luego envolver en film y llevar a la heladera un par de horas para que esté firme al cortar.",
+          "Colar y reservar una taza del caldo de cocción bien frío para la salsa."
+        ]
+      },
+      {
+        "name": "2. Elaboración de la Salsa Emulsionada",
+        "steps": [
+          "En el vaso de la licuadora o procesadora colocar el atún escurrido, los filetes de anchoa, las alcaparras, la mostaza y el vinagre o jugo de limón.",
+          "Procesar incorporando la mayonesa y la crema de leche hasta obtener una pasta uniforme.",
+          "Añadir gradualmente el caldo frío reservado mientras se licúa, hasta lograr una salsa de textura aterciopelada, sedosa y corrediza que nappe el dorso de una cuchara sin quedar aguada. Probar y ajustar sazón con pimienta molida."
+        ]
+      },
+      {
+        "name": "3. Feteado y Armado en Capas",
+        "steps": [
+          "Con un cuchillo largo y muy afilado (o máquina cortadora de fiambre), cortar el peceto frío en láminas parejas y bien finas.",
+          "En una fuente de servicio colocar una capa ligera de salsa toné en la base.",
+          "Disponer las láminas de carne superponiéndolas prolijamente como escamas.",
+          "Cubrir con abundante salsa asegurando que cada bocado quede empapado.",
+          "Decorar la superficie con las alcaparras enteras reservadas, la lluvia dorada de yema de huevo duro rallada y hojitas de perejil.",
+          "Cubrir con film y refrigerar al menos cuatro horas antes de servir para que los sabores se amalgamen por completo."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Dejar enfriar en el caldo: Nunca retires el peceto caliente al aire; el choque térmico hace que pierda humedad rápidamente. El enfriado dentro de su propio caldo lo mantiene rosado y jugoso.",
+      "Cuchillo bien afilado: Para lograr fetas casi transparentes, la carne debe estar bien fría de heladera al momento del corte."
+    ],
+    "notes": "El plato que nunca falta en el menú de Año Nuevo argentino, acompañado de una copa de espumante extra brut o vino blanco fresco."
+  },
+  {
+    "id": 324,
+    "title": "Carbonada Criolla en Zapallo — Guisado Tradicional de Carne y Frutas (Argentina)",
+    "original_title": "Carbonada Criolla Argentina en Zapallo Cabutiá",
+    "country": "Argentina",
+    "category": "Guisos & Platos de Olla",
+    "tags": [
+      "Argentina",
+      "Carbonada",
+      "Zapallo",
+      "Carne",
+      "Choclo",
+      "Durazno",
+      "Criollo",
+      "Tradicional",
+      "Guiso",
+      "Otoño"
+    ],
+    "prep_time": "35 min",
+    "cook_time": "1 h 15 min",
+    "rest_time": "10 min",
+    "temperature": "180 °C para el zapallo; fuego lento para el guisado",
+    "servings": "6 porciones",
+    "calories": "460 kcal por porción",
+    "diet_badges": [
+      "Sin Gluten",
+      "Plato Criollo Tradicional",
+      "Agridulce"
+    ],
+    "image": "carbonada_criolla_zapallo.jpg",
+    "url": "r/324-carbonada-criolla-en-zapallo-argentina.html",
+    "published": "2026-10-29T02:25:00-03:00",
+    "story": "La carbonada criolla es uno de los platos más refinados y singulares de la cocina tradicional del campo argentino, famosa por su armoniosa combinación agridulce de carne tierna con choclo fresco y frutas deshidratadas o en almíbar (duraznos y orejones). Su origen se remonta a los fogones coloniales y su nombre alude al carbón de leña donde se cocinaba lentamente hasta que los bordes de la olla parecían 'carbonizados'. Servida dentro de una calabaza o zapallo cabutiá entero horneado con manteca y azúcar rubia, cada comensal raspa con la cuchara la pulpa dulce y cremosa de las paredes integrándola al guiso caliente.",
+    "ingredient_groups": [
+      {
+        "name": "Zapallo Cuenco de Presentación",
+        "items": [
+          "1 zapallo cabutiá o calabaza criolla grande (aprox. 2,5 kg a 3 kg), redondo y parejo",
+          "40 g de manteca sin sal pomada",
+          "2 cdas. de azúcar rubia o común",
+          "100 ml de leche tibia"
+        ]
+      },
+      {
+        "name": "Guisado Criollo de Carne y Vegetales",
+        "items": [
+          "800 g de carne vacuna magra (nalga, lomo o roast beef), cortada en cubos de 2 cm",
+          "2 cebollas medianas picadas en cubitos",
+          "1 morrón rojo cortado en dados",
+          "2 dientes de ajo picados",
+          "2 tomates perita maduros pelados y picados",
+          "2 papas medianas cortadas en cubos",
+          "1 batata mediana en cubos",
+          "2 choclos frescos cortados en rodajas de 2 cm",
+          "1 taza de duraznos orejones remojados (o duraznos secos picados)",
+          "500 ml de caldo de carne suave",
+          "2 cdas. de aceite de girasol",
+          "1 cda. de pimentón dulce",
+          "1/2 cdita. de comino molido",
+          "Sal marina y pimienta negra al gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Horneado del Zapallo Cuenco",
+        "steps": [
+          "Lavar bien el exterior del zapallo. Con un cuchillo resistente cortar una tapa circular en la parte superior y retirar las semillas y fibras interiores con una cuchara grande.",
+          "Untar el interior de las paredes con la manteca, espolvorear el azúcar rubia y verter la leche tibia.",
+          "Tapar el zapallo con su propia tapa, envolver la base con papel aluminio y hornear a la temperatura indicada durante unos 45 a 50 minutos hasta que la pulpa esté tierna al pincharla pero la corteza conserve firmeza estructural para sostener el guiso."
+        ]
+      },
+      {
+        "name": "2. Cocción del Guisado Agridulce",
+        "steps": [
+          "En una cacerola amplia calentar el aceite a fuego medio; dorar los cubos de carne en tandas y reservar en un plato.",
+          "En la misma olla rehogar la cebolla y el morrón hasta transparentar. Añadir el ajo y el tomate picado, cocinando unos minutos hasta que se forme un sofrito jugoso.",
+          "Reincorporar la carne sellada con sus jugos. Condimentar con el pimentón, comino, sal y pimienta.",
+          "Sumar las papas, las batatas, las rodajas de choclo, los duraznos troceados y cubrir con el caldo de carne caliente.",
+          "Cocinar a fuego lento durante unos 25 a 30 minutos hasta que los tubérculos estén tiernos y el caldo haya tomado consistencia espesa y brillante."
+        ]
+      },
+      {
+        "name": "3. Relleno y Presentación Criolla",
+        "steps": [
+          "Retirar el zapallo horneado y verter con cuidado el exceso de líquido lácteo interior si lo tuviera.",
+          "Volcar la carbonada bien caliente dentro del zapallo hasta colmarlo.",
+          "Llevar a la mesa con su tapa puesta y servir en platos hondos raspando parte de la pulpa dulce del zapallo en cada porción."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "El zapallo cabutiá: Tiene una cáscara verde oscura muy firme y una pulpa anaranjada densa y dulce que resiste perfectamente el horno sin desmoronarse.",
+      "Los duraznos: El toque frutal no debe abrumar; equilibra de forma magistral la salinidad de la carne y el comino."
+    ],
+    "notes": "Un plato insignia de la cocina de campo argentina, perfecto para los primeros fríos del otoño."
+  },
+  {
+    "id": 325,
+    "title": "Humita a la Olla Tradicional — Choclos Rallados, Zapallo y Cuartirolo Fundente (Argentina)",
+    "original_title": "Humita Norteña a la Olla con Queso Cuartirolo",
+    "country": "Argentina",
+    "category": "Guisos & Platos de Olla",
+    "tags": [
+      "Argentina",
+      "Humita",
+      "Choclo",
+      "Zapallo",
+      "Queso Cuartirolo",
+      "Noroeste Argentino",
+      "Vegetariano",
+      "Sin TACC",
+      "Tradicional"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "40 min",
+    "rest_time": "5 min",
+    "temperature": "Fuego lento con batido constante",
+    "servings": "6 porciones",
+    "calories": "380 kcal por porción",
+    "diet_badges": [
+      "Vegetariano",
+      "Sin Gluten",
+      "Cocina Regional Norteña"
+    ],
+    "image": "humita_a_la_olla.jpg",
+    "url": "r/325-humita-a-la-olla-argentina.html",
+    "published": "2026-10-29T02:30:00-03:00",
+    "story": "La humita a la olla es una de las joyas milenarias del noroeste argentino (Tucumán, Salta y Jujuy), originaria de las culturas originarias que veneraban el cultivo del maíz tierno (choclo). Su consistencia dulce, cremosa y reconfortante se logra rallando los choclos frescos enteros para liberar la leche natural del grano (el almidón), la cual se emulsiona a fuego lento junto a zapallo plomo hervido, cebolla, pimientos dulces y abundante albahaca fresca del monte. El broche de oro ocurre al final, cuando se incorporan generosos cubos de queso criollo o cuartirolo fresco que se funden creando largos hilos elásticos al servir.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Choclo y Zapallo",
+        "items": [
+          "10 choclos frescos amarillos o blancos grandes con sus chalas",
+          "500 g de zapallo criollo o calabaza hervida y pisada como puré fino",
+          "150 ml de leche entera tibia"
+        ]
+      },
+      {
+        "name": "Sofrito Aromático y Queso Fundente",
+        "items": [
+          "2 cebollas medianas picadas finas",
+          "1 pimiento morrón rojo picado fino",
+          "2 tallos de cebolla de verdeo picados",
+          "1 puñado generoso de hojas de albahaca fresca picadas",
+          "50 g de manteca o grasa vacuna",
+          "1 cda. colmada de pimentón dulce",
+          "1/2 cdita. de ají molido",
+          "1 cdita. de azúcar común (resalta el dulzor natural del choclo)",
+          "300 g de queso cuartirolo o cremoso en cubos grandes",
+          "Sal marina al gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Rallado y Extracción de la Crema de Maíz",
+        "steps": [
+          "Limpiar los choclos retirando las barbas. Con un rallador de cocina común rallar cada mazorca sobre un bol amplio, pasando luego el lomo del cuchillo por el marlo para extraer toda la pulpa y la leche del grano.",
+          "Mezclar el choclo rallado con el puré de zapallo cocido y la leche tibia hasta formar una crema homogénea y densa."
+        ]
+      },
+      {
+        "name": "2. Cocción Lenta y Ligado",
+        "steps": [
+          "En una cacerola de fondo grueso calentar la manteca o grasa a fuego medio; rehogar la cebolla, el morrón y la parte blanca del verdeo con una pizca de sal hasta que estén bien tiernos y transparentes.",
+          "Añadir el pimentón dulce, el ají molido y el azúcar revolviendo durante medio minuto.",
+          "Volcar la mezcla de choclo y zapallo a la cacerola. Bajar el fuego al mínimo y cocinar revolviendo constantemente con cuchara de madera en ochos durante el tiempo indicado para evitar que el almidón se pegue al fondo.",
+          "La crema espesará gradualmente adquiriendo un color dorado brillante y una textura untuosa y aterciopelada."
+        ]
+      },
+      {
+        "name": "3. Fundido de Queso y Presentación",
+        "steps": [
+          "Cuando el choclo esté cocido y tierno, incorporar la albahaca fresca picada y los cubos de queso cuartirolo.",
+          "Apagar el fuego y tapar la cacerola durante dos minutos para que el calor residual funda el queso por completo sin desintegrarlo.",
+          "Servir inmediatamente en cazuelas de barro calientes con un hilo de aceite con pimentón por encima."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Choclos frescos lechosos: Para una humita cremosa es fundamental usar choclos frescos cuyos granos desprendan jugo blanco al presionar con la uña; los choclos viejos o duros quedan secos.",
+      "No dejes de revolver: El almidón natural del choclo se asienta rápidamente en el fondo; el movimiento constante con cuchara de madera es la clave de su textura sedosa."
+    ],
+    "notes": "Un emblema del Norte argentino que celebra la nobleza de la tierra y los ingredientes autóctonos."
+  },
+  {
+    "id": 326,
+    "title": "Choripán de Costanera — Con Chimichurri Parrillero y Salsa Criolla (Argentina)",
+    "original_title": "Choripán Clásico Argentino con Chimi y Criolla",
+    "country": "Argentina",
+    "category": "Sándwiches & Parrilla",
+    "tags": [
+      "Argentina",
+      "Choripán",
+      "Chorizo Puro Cerdo",
+      "Chimichurri",
+      "Salsa Criolla",
+      "Parrilla",
+      "Street Food",
+      "Costanera",
+      "Tradicional"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "20 min",
+    "rest_time": "2 min",
+    "temperature": "Brasas moderadas",
+    "servings": "4 unidades",
+    "calories": "560 kcal por unidad",
+    "diet_badges": [
+      "Street Food Legendaria",
+      "Parrilla Criolla"
+    ],
+    "image": "choripan_chimichurri_criolla.jpg",
+    "url": "r/326-choripan-clasico-argentina.html",
+    "published": "2026-10-29T02:35:00-03:00",
+    "story": "El choripán es el rey indiscutido del street food argentino y el rito fundacional de los estadios de fútbol, las peñas de amigos y los carritos de la Costanera de Buenos Aires. Su fórmula es una lección magistral de simpleza parrillera: un chorizo de puro cerdo artesanal asado a las brasas lentamente y luego abierto 'mariposa' para dorar su cara interior hasta dejarla crocante, servido dentro de un pan francés crocante de miga liviana y bañado con el sagrado dueto de salsas criollas: el chimichurri especiado al vinagre y la salsa criolla de vegetales frescos picados a cuchillo.",
+    "ingredient_groups": [
+      {
+        "name": "Chorizos y Pan Francés",
+        "items": [
+          "4 chorizos parrilleros artesanales de puro cerdo (o mezcla 70/30 de calidad)",
+          "4 panes franceses, baguettes cortas o pan flauta de corteza crujiente"
+        ]
+      },
+      {
+        "name": "Chimichurri Parrillero Tradicional",
+        "items": [
+          "1 atado de perejil fresco lavado y picado muy fino",
+          "4 dientes de ajo pelados y finamente picados",
+          "2 cdas. colmadas de orégano seco",
+          "1 cda. de ají molido criollo",
+          "1 cdita. de pimentón dulce",
+          "100 ml de vinagre de vino tinto o blanco",
+          "150 ml de aceite de girasol o maíz",
+          "50 ml de agua tibia con 1 cdita. de sal gruesa (salmuera para hidratar secos)"
+        ]
+      },
+      {
+        "name": "Salsa Criolla Fresca",
+        "items": [
+          "1 cebolla morada o blanca grande picada en cubitos milimétricos (brunoise)",
+          "1 morrón rojo cortado en brunoise fina",
+          "1 morrón verde cortado en brunoise fina",
+          "2 tomates perita firmes pelados, sin semillas y en cubitos",
+          "80 ml de aceite de oliva o maíz",
+          "40 ml de vinagre de alcohol o manzana",
+          "Sal marina y pimienta negra al gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Elaboración Previa de las Salsas",
+        "steps": [
+          "Para el chimichurri, hidratar en un frasco el orégano y el ají molido con la salmuera tibia durante diez minutos. Añadir el ajo, el perejil fresco picado, el vinagre y el aceite; agitar bien y dejar asentar a temperatura ambiente.",
+          "Para la salsa criolla, mezclar en un bol la cebolla, los morrones y el tomate en cubitos finos. Condimentar con sal, pimienta, vinagre y aceite. Dejar macerar media hora para que los sabores se amalgamen."
+        ]
+      },
+      {
+        "name": "2. Asado del Chorizo a la Parrilla",
+        "steps": [
+          "Colocar los chorizos enteros sobre los hierros de la parrilla a fuego moderado; cocinarlos girándolos periódicamente durante quince minutos hasta que estén dorados por fuera y cocidos por dentro.",
+          "Retirar sobre tabla y cortar cada chorizo a lo largo por la mitad sin separar los extremos del todo (corte mariposa).",
+          "Regresar los chorizos a la parrilla con la cara interna sobre las brasas durante tres a cuatro minutos para que doren y queden intensamente crujientes."
+        ]
+      },
+      {
+        "name": "3. Tostado del Pan y Armado",
+        "steps": [
+          "Abrir los panes al medio y apoyarlos brevemente con la miga sobre la parrilla caliente para entibiar y tostar apenas.",
+          "Acomodar el chorizo mariposa crocante dentro del pan caliente.",
+          "Salsear generosamente con chimichurri parrillero en la base y coronar con dos cucharadas colmadas de salsa criolla fresca antes de cerrar y morder al instante."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "El corte mariposa: Permite desgrasar un poco el embutido y crea una costra tostada deliciosa en contacto directo con los fierros.",
+      "El chimichurri mejora con las horas: Hacé el chimichurri al menos el día anterior para que los aromáticos liberen todos sus aceites esenciales en el vinagre y el aceite."
+    ],
+    "notes": "El símbolo absoluto de la cultura parrillera argentina; insustituible antes de cualquier asado o partido de fútbol."
+  },
+  {
+    "id": 327,
+    "title": "Alfajores de Maicena Tradicionales — Miga que se Deshace y Dulce de Leche (Argentina)",
+    "original_title": "Alfajores Clásicos de Maicena con Dulce de Leche y Coco",
+    "country": "Argentina",
+    "category": "Postres & Panadería Dulce",
+    "tags": [
+      "Argentina",
+      "Alfajores",
+      "Maicena",
+      "Almidón de Maíz",
+      "Dulce de Leche",
+      "Coco",
+      "Pastelería",
+      "Merienda",
+      "Tradicional"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "10 a 12 min",
+    "rest_time": "30 min de heladera para la masa",
+    "temperature": "170 °C (horno medio precalentado)",
+    "servings": "18 a 20 alfajores",
+    "calories": "260 kcal por unidad",
+    "diet_badges": [
+      "Vegetariano",
+      "Pastelería Tradicional Criolla"
+    ],
+    "image": "alfajores_de_maicena.jpg",
+    "url": "r/327-alfajores-de-maicena-argentina.html",
+    "published": "2026-10-29T02:40:00-03:00",
+    "story": "El alfajor de maicena es el emblema dulce más entrañable de las confiterías, panaderías y mesas de té argentinas. Su secreto radica en la predominancia del almidón de maíz sobre la harina común, lo que genera una masa quebradiza y etérea que literalmente se deshace en el paladar al primer contacto. Unidas por una capa generosa de dulce de leche repostero argentino de gran cuerpo y rodadas por coco rallado fino en sus bordes, estas tapitas doradas con suave perfume a limón y vainilla constituyen el maridaje supremo para el mate de la tarde o un café con leche espumoso.",
+    "ingredient_groups": [
+      {
+        "name": "Masa de Tapitas de Maicena",
+        "items": [
+          "300 g de almidón de maíz (maicena)",
+          "200 g de harina de trigo 0000",
+          "150 g de manteca sin sal a temperatura ambiente (pomada)",
+          "150 g de azúcar impalpable o azúcar común fina",
+          "3 yemas de huevo grandes",
+          "1 cdita. colmada de polvo de hornear",
+          "1/2 cdita. de bicarbonato de sodio",
+          "1 cda. de extracto puro de vainilla",
+          "Ralladura fina de 1 limón fresco (sin parte blanca)"
+        ]
+      },
+      {
+        "name": "Relleno y Bordes",
+        "items": [
+          "500 g de dulce de leche repostero argentino firme (no usar dulce de leche común)",
+          "100 g de coco rallado fino de buena calidad"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Cremado y Formado de la Masa",
+        "steps": [
+          "En un bol batir la manteca pomada con el azúcar hasta blanquear y lograr una crema suave.",
+          "Añadir las yemas de una en una, el extracto de vainilla y la ralladura de limón, batiendo tras cada adición hasta integrar.",
+          "Tamizar juntos el almidón de maíz, la harina, el polvo de hornear y el bicarbonato de sodio.",
+          "Incorporar los secos a la crema con espátula, uniendo la masa con la palma de la mano sobre la mesada sin amasar (amasar desarrollaría elasticidad y endurecería las tapas). Formar un bollo liso, envolver en film y enfriar en heladera durante media hora."
+        ]
+      },
+      {
+        "name": "2. Estirado, Corte y Horneado",
+        "steps": [
+          "Espolvorear la mesada con un poco de almidón de maíz y estirar la masa con palote hasta un espesor parejo de unos cinco a seis milímetros.",
+          "Cortar discos circulares con un cortapastas redondo de unos cuatro a cinco centímetros de diámetro.",
+          "Disponer las tapitas sobre una placa enmantecada o con papel manteca dejando espacio entre sí.",
+          "Hornear a temperatura media durante el tiempo indicado: las tapitas deben cocinarse y secarse pero permanecer de color blanco/marfil, sin dorarse en la superficie.",
+          "Retirar y dejar enfriar por completo sobre una rejilla antes de manipular, ya que calientes son sumamente frágiles."
+        ]
+      },
+      {
+        "name": "3. Relleno y Terminado con Coco",
+        "steps": [
+          "Colocar el dulce de leche repostero en una manga pastelera.",
+          "Tomar una tapita fría dada vuelta y colocar un copete abundante y generoso de dulce de leche en el centro.",
+          "Apoyar la segunda tapita y presionar con suavidad hasta que el dulce de leche llegue al borde exterior.",
+          "Hacer rodar el canto del alfajor por un plato hondo con el coco rallado para que se adhiera prolijamente a todo el perímetro.",
+          "Dejar reposar tapados unas horas para que la humedad del dulce ablande aún más la masa antes de disfrutar."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "No dorar en el horno: El alfajor de maicena debe salir blanco del horno; si toma color tostado se volverá crocante y perderá esa textura sedosa y suave que lo caracteriza.",
+      "Dulce de leche repostero estricto: El dulce común contiene demasiada humedad y terminaría desbordando o reblandeciendo las tapas en pocas horas."
+    ],
+    "notes": "Se conservan en lata o recipiente hermético hasta por una semana; al segundo día su textura alcanza la perfección absoluta."
+  },
+  {
+    "id": 328,
+    "title": "Pastafrola Clásica de Membrillo — Masa Frolla Mantecosa y Enrejado Tradicional (Argentina)",
+    "original_title": "Pastafrola Artesanal Argentina de Dulce de Membrillo",
+    "country": "Argentina",
+    "category": "Postres & Panadería Dulce",
+    "tags": [
+      "Argentina",
+      "Pastafrola",
+      "Membrillo",
+      "Masa Frolla",
+      "Tarta",
+      "Merienda",
+      "Pastelería",
+      "Tradicional"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "35 a 40 min",
+    "rest_time": "30 min de heladera",
+    "temperature": "180 °C (horno medio precalentado)",
+    "servings": "8 a 10 porciones (molde de tarta de 26 cm)",
+    "calories": "390 kcal por porción",
+    "diet_badges": [
+      "Vegetariano",
+      "Pastelería Clásica Criolla"
+    ],
+    "image": "pastafrola_membrillo.jpg",
+    "url": "r/328-pastafrola-clasica-membrillo-argentina.html",
+    "published": "2026-10-29T02:45:00-03:00",
+    "story": "La pastafrola es la tarta insignia de la merienda familiar y las panaderías de barrio en Argentina y Uruguay, nacida de la adaptación criolla de la célebre pasta frolla italiana y la tarta linzer centroeuropea. Su masa quebrada perfumada con manteca, ralladura de limón y vainilla sostiene un generoso relleno de dulce de membrillo fundido y ablandado al calor con un chorrito de agua caliente o licor. Su rasgo más inconfundible es el enrejado de tiras de masa entrecruzadas en rombos que se dora al horno y se abrillanta con almíbar o jalea, convirtiéndola en la compañera eterna del mate y la charla de sobremesa.",
+    "ingredient_groups": [
+      {
+        "name": "Masa Quebrada Frolla",
+        "items": [
+          "400 g de harina de trigo 0000 común",
+          "200 g de manteca sin sal fría en cubos",
+          "150 g de azúcar común",
+          "2 huevos grandes frescos",
+          "1 yema de huevo",
+          "1 cda. colmada de polvo de hornear",
+          "Ralladura fina de 1 limón fresco",
+          "1 cdita. de extracto puro de vainilla",
+          "1 pizca de sal marina fina"
+        ]
+      },
+      {
+        "name": "Relleno de Membrillo y Dorado",
+        "items": [
+          "500 g de dulce de membrillo compacto en bloque (o dulce de batata según preferencia)",
+          "3 a 4 cdas. de agua caliente, oporto o licor de naranja (para fundir el dulce)",
+          "1 huevo batido con 1 cda. de leche (para pincelar el enrejado)",
+          "2 cdas. de coco rallado fino para los bordes (opcional clásico de panadería)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Elaboración y Reposo de la Masa Frolla",
+        "steps": [
+          "En un bol o sobre la mesada tamizar la harina junto con el polvo de hornear y la sal. Añadir el azúcar y los cubos de manteca fría.",
+          "Frotar con la punta de los dedos hasta lograr un arenado parejo sin calentar la grasa.",
+          "Hacer un hueco en el centro e incorporar los huevos, la yema, la ralladura de limón y la vainilla.",
+          "Unir la masa apretándola con las manos sin amasar para evitar generar gluten. Dividir la masa: separar dos tercios para la base y un tercio para el enrejado. Envolver en film y refrigerar media hora."
+        ]
+      },
+      {
+        "name": "2. Preparación del Dulce y Montaje",
+        "steps": [
+          "Cortar el dulce de membrillo en cubos y colocarlo en un recipiente apto para calor con el agua caliente o licor; calentar a fuego mínimo o en microondas y pisar con pisapapas o tenedor hasta obtener una pasta cremosa y sin grumos.",
+          "Enmantecar y enharinar una tartera acanalada. Estirar los dos tercios de masa entre dos films o sobre mesada enharinada hasta un espesor de cuatro milímetros.",
+          "Forrar la tartera cubriendo el fondo y los bordes con la masa, retirando el excedente con una pasada de palote sobre el borde.",
+          "Rellenar la base con la crema de membrillo tibia, alisando con una espátula."
+        ]
+      },
+      {
+        "name": "3. Enrejado y Horneado Dorado",
+        "steps": [
+          "Estirar el tercio de masa restante y cortar tiras largas de un centímetro de ancho con cuchillo o rueda acanalada.",
+          "Disponer las tiras sobre el dulce formando un enrejado en diagonal en forma de rombos, presionando los extremos contra el borde de la tarta.",
+          "Pincelar las tiras de masa con el huevo batido.",
+          "Llevar al horno precalentado a la temperatura indicada y hornear durante el tiempo programado hasta que la masa adquiera un color dorado parejo y el dulce comience a burbujear suavemente.",
+          "Dejar enfriar completamente antes de desmoldar y espolvorear los bordes con coco rallado si se desea."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Pisar el membrillo en caliente: No intentes untar el bloque de membrillo frío porque romperás la masa; el calor con unas cucharadas de líquido lo vuelve fluido y fácil de esparcir.",
+      "Mejor al día siguiente: Al reposar 24 horas, la masa frolla absorbe la humedad aromática del dulce volviéndose infinitamente más tierna y sabrosa."
+    ],
+    "notes": "La tarta infaltable de los domingos por la tarde para acompañar una ronda de mates amargos."
+  },
+  {
+    "id": 329,
+    "title": "Flan Mixto Porteño — Casero con Agujeritos, Dulce de Leche y Crema (Argentina)",
+    "original_title": "Flan Mixto al Estilo Bodegón de Buenos Aires",
+    "country": "Argentina",
+    "category": "Postres & Dulces Tradicionales",
+    "tags": [
+      "Argentina",
+      "Flan",
+      "Flan Mixto",
+      "Dulce de Leche",
+      "Crema Chantilly",
+      "Caramelo",
+      "Bodegón",
+      "Postre",
+      "Tradicional"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "50 a 60 min a baño María",
+    "rest_time": "Enfriado completo + 4 h de heladera",
+    "temperature": "160 °C (horno suave a baño María)",
+    "servings": "8 porciones (flanera de 22 cm con tubo central)",
+    "calories": "380 kcal por porción (con guarnición mixta)",
+    "diet_badges": [
+      "Vegetariano",
+      "Sin Gluten",
+      "Clásico de Bodegón"
+    ],
+    "image": "flan_mixto_porteno.jpg",
+    "url": "r/329-flan-mixto-porteno-argentina.html",
+    "published": "2026-10-29T02:50:00-03:00",
+    "story": "El flan mixto es la máxima institución dulce de los bodegones y cantinas de Buenos Aires, un postre donde no existe la palabra moderación: se sirve escoltado religiosamente por la 'fórmula mixta', compuesta por una bocha generosa de dulce de leche repostero y otra de crema chantilly fresca recién batida. Elaborado a la vieja usanza con abundantes huevos frescos, leche entera y vainilla, la controversia porteña entre si debe tener 'agujeritos' (cocción a baño María con leve ebullición del agua) o textura sedosa y lisa se resuelve en la mesa con el caramelo rubio amargo que baña cada porción.",
+    "ingredient_groups": [
+      {
+        "name": "Caramelo Rubio",
+        "items": [
+          "200 g de azúcar común",
+          "3 cdas. de agua fría"
+        ]
+      },
+      {
+        "name": "Mezcla de Flan Casero",
+        "items": [
+          "1 litro de leche entera de buena calidad",
+          "8 huevos frescos grandes (o 6 huevos + 2 yemas para extra cremosidad)",
+          "200 g de azúcar común",
+          "1 cda. colmada de extracto puro de vainilla",
+          "Ralladura sutil de 1/2 limón (opcional tradicional)"
+        ]
+      },
+      {
+        "name": "Guarnición Mixta Obligatoria",
+        "items": [
+          "300 g de dulce de leche colonial o tradicional argentino",
+          "250 ml de crema de leche fresca bien fría",
+          "2 cdas. de azúcar impalpable",
+          "1/2 cdita. de esencia de vainilla"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Caramelo en el Molde",
+        "steps": [
+          "En una sartén o directo en la flanera colocar el azúcar con las cucharadas de agua a fuego medio.",
+          "Cocinar sin revolver con cuchara (sólo moviendo el recipiente por el mango) hasta que se disuelva y tome un color ámbar dorado brillante.",
+          "Volcar de inmediato en la flanera con tubo central y ladear el molde con cuidado para caramelizar el fondo y las paredes. Dejar enfriar hasta que endurezca."
+        ]
+      },
+      {
+        "name": "2. Batido Suave de la Mezcla",
+        "steps": [
+          "En una cacerola calentar la leche con la mitad del azúcar y la vainilla hasta entibiar sin dejar hervir para disolver los cristales.",
+          "En un bol amplio romper los huevos con la otra mitad del azúcar batiendo suavemente con batidor de alambre para ligar sin incorporar aire en exceso.",
+          "Verter la leche tibia lentamente sobre los huevos mientras se revuelve suavemente.",
+          "Colar la preparación con un colador fino para retirar cualquier resto de clara densa y verter dentro del molde acaramelado."
+        ]
+      },
+      {
+        "name": "3. Horneado a Baño María y Desmoldado",
+        "steps": [
+          "Ubicar la flanera dentro de una asadera profunda con agua caliente hasta la mitad del molde.",
+          "Hornear a temperatura suave durante el tiempo indicado: el flan estará listo cuando al mover el molde el centro se sienta firme con un leve temblor como gelatina.",
+          "Retirar del horno, dejar enfriar a temperatura ambiente y luego llevar a la heladera al menos cuatro horas (o toda la noche).",
+          "Para desmoldar, pasar un cuchillo fino por los bordes y el cono central, apoyar el plato hondo de servicio sobre el molde y dar vuelta con un movimiento seguro, dejando que el caramelo líquido bañe la superficie."
+        ]
+      },
+      {
+        "name": "4. Servicio al Estilo Bodegón",
+        "steps": [
+          "Batir la crema de leche fría con el azúcar impalpable y la vainilla hasta punto chantilly firme.",
+          "Cortar una porción generosa de flan y servir en plato hondo con abundante caramelo líquido, acompañada por una cucharada colmada de dulce de leche de un lado y otra de crema chantilly del otro."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Con o sin agujeritos: Si te gusta cremoso y liso, horneá a 150 °C sin que el agua del baño María hierva nunca. Si te gusta el clásico de bodegón con agujeritos esponjosos, dejá que el agua hierva suavemente durante el horneado.",
+      "Desmoldar bien frío: Si intentás desmoldar el flan tibio se romperá; el frío contrae la estructura y disuelve el caramelo en salsa fluida."
+    ],
+    "notes": "El postre indiscutido para coronar una comida de domingo con milanesas o pastas caseras."
+  },
+  {
+    "id": 330,
+    "title": "Tacos de Birria de Res con Consomé — Braseada en Chiles con Queso Fundido (México)",
+    "original_title": "Quesabirrias de Res Tradicionales con Consomé de Birria",
+    "country": "México",
+    "category": "Carnes & Street Food",
+    "tags": [
+      "México",
+      "Birria",
+      "Tacos",
+      "Quesabirrias",
+      "Consomé",
+      "Carne Braseada",
+      "Chiles Secos",
+      "Guiso",
+      "Street Food",
+      "Tradicional"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "3 h",
+    "rest_time": "15 min",
+    "temperature": "Fuego lento para braseado; comal caliente para los tacos",
+    "servings": "6 a 8 porciones (16 a 20 tacos)",
+    "calories": "280 kcal por taco",
+    "diet_badges": [
+      "Sin Gluten (con tortillas de maíz puras)",
+      "Street Food Legendaria"
+    ],
+    "image": "tacos_de_birria_mexico.jpg",
+    "url": "r/330-tacos-de-birria-mexico.html",
+    "published": "2026-10-29T02:55:00-03:00",
+    "story": "Originaria del estado de Jalisco y popularizada globalmente desde Tijuana hasta las taquerías de todo el continente, la birria es uno de los platos cumbres de la gastronomía mexicana. La carne vacuna (asado de tira, costilla y falda) se brasea lentamente durante horas en un adobo aromático de chiles secos tostados (guajillo y ancho), jitomates asados, vinagre, jengibre, clavo y canela hasta quedar tan tierna que se deshebra con el roce de dos tenedores. En el formato quesabirrias, las tortillas de maíz se sumergen en la grasa roja del caldo, se tuestan al comal con queso Oaxaca o muzzarella, se colman de carne jugosa y se sirven con un tazón humeante de consomé para chopear con cebolla picada, cilantro y lima.",
+    "ingredient_groups": [
+      {
+        "name": "Carne para Braseado",
+        "items": [
+          "1,5 kg de carne de res surtida (mezcla de asado de tira, aguja/roast beef y chambarete/osobuco con hueso)",
+          "1 cda. de sal marina gruesa",
+          "1 cda. de aceite de maíz"
+        ]
+      },
+      {
+        "name": "Adobo de Chiles Secos y Especias",
+        "items": [
+          "6 chiles guajillo secos desvenados y sin semillas",
+          "2 chiles ancho secos desvenados",
+          "3 tomates perita (jitomates) maduros asados",
+          "1 cebolla blanca mediana",
+          "5 dientes de ajo enteros",
+          "3 cdas. de vinagre de manzana",
+          "1 ramita pequeña de canela",
+          "3 clavos de olor enteros",
+          "1/2 cdita. de comino en grano",
+          "1 cdita. de orégano mexicano seco",
+          "1 trocito de 2 cm de jengibre fresco pelado",
+          "2 litros de agua caliente o caldo de res"
+        ]
+      },
+      {
+        "name": "Armado de Tacos y Consomé",
+        "items": [
+          "20 tortillas de maíz frescas",
+          "400 g de queso Oaxaca o muzzarella rallada de buen fundido",
+          "1 cebolla blanca picada fina",
+          "1 manojo de cilantro fresco lavado y picado",
+          "3 limas o limones cortados en cuartos"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Elaboración del Adobo de Chiles",
+        "steps": [
+          "En una sartén seca a fuego medio tostar los chiles secos durante medio minuto por lado cuidando que no se quemen para que no amarguen.",
+          "Pasar los chiles a un recipiente con agua hirviendo y dejar hidratar durante quince minutos hasta que estén suaves y flexibles.",
+          "Colocar en el vaso de la licuadora los chiles hidratados con un poco de su agua, los jitomates asados, la cebolla, el ajo, el vinagre, el jengibre, la canela, los clavos, el comino y el orégano. Licuar a máxima potencia hasta lograr un adobo aterciopelado y colar sobre un bol."
+        ]
+      },
+      {
+        "name": "2. Braseado Lento de la Carne",
+        "steps": [
+          "En una olla grande calentar el aceite y dorar las piezas de carne saladas por todos sus costados.",
+          "Verter el adobo licuado sobre la carne y añadir el agua caliente o caldo con dos hojas de laurel.",
+          "Tapar y cocinar a fuego muy bajo durante el tiempo indicado de braseado hasta que la carne esté tan tierna que se deshaga sola y el caldo tome un color rojo intenso coronado por una capa de grasa aromática.",
+          "Retirar la carne de la olla, desechar los huesos y deshebrar finamente sobre una tabla."
+        ]
+      },
+      {
+        "name": "3. Montaje de Quesabirrias y Servicio",
+        "steps": [
+          "Servir el caldo colado bien caliente en tazones individuales como consomé, retirando la grasa roja flotante superior a un plato playo.",
+          "Calentar un comal o plancha a fuego medio. Sumergir cada tortilla de maíz en la grasa roja del caldo y disponer sobre el comal caliente.",
+          "Espolvorear una capa generosa de queso sobre la tortilla, añadir la carne de birria deshebrada y doblar al medio como una empanadilla.",
+          "Dorar por ambos lados hasta que el queso se funda y la tortilla quede crocante.",
+          "Servir los tacos acompañados del tazón de consomé caliente, con cilantro picado, cebolla fresca y jugo de lima para chopear en cada bocado."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "La mezcla de cortes con hueso: No uses carne magra; el osobuco y la costilla aportan colágeno y gelatina al consomé haciéndolo sumamente reconfortante y sabroso.",
+      "Tostar los chiles sin quemar: Apenas tomen aroma y se inflen, retirarlos del fuego; si el chile seco se quema, tornará el caldo amargo."
+    ],
+    "notes": "Una de las experiencias taqueras más celebradas del mundo, perfecta para reuniones numerosas y celebraciones."
+  },
+  {
+    "id": 331,
+    "title": "Pulpo a la Gallega — Polbo á Feira Tradicional con Cachelos y Pimentón (España)",
+    "original_title": "Polbo á Feira Tradicional Galego",
+    "country": "España",
+    "category": "Pescados & Mariscos",
+    "tags": [
+      "España",
+      "Galicia",
+      "Pulpo",
+      "Polbo a Feira",
+      "Cachelos",
+      "Pimentón de la Vera",
+      "Tapa",
+      "Mariscos",
+      "Tradicional"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "40 min",
+    "rest_time": "20 min de reposo en su agua",
+    "temperature": "Hervor suave constante; servicio templado",
+    "servings": "4 porciones",
+    "calories": "290 kcal por porción",
+    "diet_badges": [
+      "Sin Gluten",
+      "Bajo en Grasas",
+      "Tapa Clásica Española",
+      "Alto en Proteínas"
+    ],
+    "image": "pulpo_a_la_gallega.jpg",
+    "url": "r/331-pulpo-a-la-gallega-espana.html",
+    "published": "2026-10-29T03:00:00-03:00",
+    "story": "El Polbo á Feira (pulpo a la feria) es el plato más emblemático de la gastronomía gallega y una de las tapas más ilustres de España, históricamente preparado por las pulpeiras en grandes calderos de cobre durante las ferias de ganado del interior de Galicia (como en O Carballiño). El gran secreto de su ternura mantecosa reside en el asustado previo del cefalópodo sumergiéndolo tres veces en agua hirviendo para fijar la piel y rizar sus tentáculos, seguido de una cocción a fuego calmo y un reposo en su propio caldo morado. Se corta exclusivamente con tijeras sobre platos redondos de madera humedecida, acompañado de cachelos (papas gallegas hervidas en el agua del pulpo) y sazonado al momento con sal gruesa, pimentón de la Vera y un generoso chorro de aceite de oliva virgen extra.",
+    "ingredient_groups": [
+      {
+        "name": "Cocción del Pulpo y Cachelos",
+        "items": [
+          "1 pulpo entero congelado y descongelado lentamente (aprox. 1,5 kg a 2 kg, el congelado rompe las fibras haciéndolo tierno)",
+          "4 papas medianas para cocer (cachelos gallegos)",
+          "1 cebolla entera pelada",
+          "1 hoja de laurel",
+          "Agua abundante (sin sal en la olla de cocción)"
+        ]
+      },
+      {
+        "name": "Sazón de Feria al Emplatar",
+        "items": [
+          "2 cdas. colmadas de pimentón de la Vera (mezcla de pimentón dulce y picante al gusto)",
+          "1 cda. de sal marina gruesa o sal en escamas",
+          "80 ml de aceite de oliva virgen extra de máxima calidad (AOVE)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. El Asustado y Cocción del Pulpo",
+        "steps": [
+          "En una olla grande y profunda calentar abundante agua con la cebolla y el laurel hasta que rompa en ebullición franca (sin añadir sal).",
+          "Tomar el pulpo limpio por la cabeza. Sumergir los tentáculos en el agua hirviendo durante tres segundos y retirarlo; repetir este proceso tres veces consecutivas ('asustar al pulpo') hasta que los tentáculos se ricen en espirales apretadas y la piel quede adherida sin desprenderse.",
+          "Sumergir el pulpo por completo, tapar la olla y cocinar a fuego medio durante unos 35 a 40 minutos (aproximadamente 20 minutos por kilo).",
+          "Verificar el punto clavando un palillo de madera en la base del tentáculo más grueso: debe entrar con suavidad pero oponer una ligera resistencia firme. Apagar el fuego y dejar reposar el pulpo sumergido en el agua caliente durante veinte minutos."
+        ]
+      },
+      {
+        "name": "2. Cocción de los Cachelos",
+        "steps": [
+          "Retirar el pulpo cocido a una fuente.",
+          "En la misma agua de cocción teñida de púrpura, agregar las papas peladas y cortadas en rodajas gruesas de dos centímetros.",
+          "Cocinar a fuego medio durante quince minutos hasta que estén tiernas y hayan absorbido el color y el sabor a mar del pulpo. Escurrir."
+        ]
+      },
+      {
+        "name": "3. Corte y Aliño Tradicional en Madera",
+        "steps": [
+          "Humedecer un plato redondo tradicional de madera con un poco del agua de cocción para que no absorba el aceite.",
+          "Disponer una base con las rodajas de papas (cachelos) calientes.",
+          "Con tijeras de cocina afiladas, cortar los tentáculos del pulpo en rodajas de un centímetro de grosor directamente sobre las papas.",
+          "Espolvorear con la sal gruesa en escamas de forma generosa.",
+          "Espolvorear el pimentón dulce y picante a través de un colador fino.",
+          "Rociar abundantemente con el aceite de oliva virgen extra y servir de inmediato templado con buen pan de hogaza gallego."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Siempre pulpo previamente congelado: El frío extremo quiebra las fibras elásticas del colágeno marino; si cocinás un pulpo fresco sin congelar suele quedar gomoso.",
+      "No agregar sal al agua: La sal en el hervor endurece la piel; el pulpo se sala exclusivamente en el plato al momento de servir."
+    ],
+    "notes": "Maridaje supremo: Vino blanco gallego Albariño de las Rías Baixas o un fresco Ribeiro servido en taza de porcelana."
+  },
+  {
+    "id": 332,
+    "title": "Paella Valenciana Tradicional — Con Pollo, Conejo, Garrofó y Socarrat (España)",
+    "original_title": "Paella Valenciana Auténtica Tradicional",
+    "country": "España",
+    "category": "Arroces & Mariscos",
+    "tags": [
+      "España",
+      "Valencia",
+      "Paella",
+      "Arroz Bomba",
+      "Conejo",
+      "Pollo",
+      "Garrofó",
+      "Socarrat",
+      "Azafrán",
+      "Tradicional"
+    ],
+    "prep_time": "25 min",
+    "cook_time": "45 min",
+    "rest_time": "5 min de reposo antes de servir",
+    "temperature": "Fuego vivo inicial, fuego medio y toque final para socarrat",
+    "servings": "4 a 6 porciones (paellera de 45 cm)",
+    "calories": "520 kcal por porción",
+    "diet_badges": [
+      "Sin Gluten",
+      "Patrimonio Gastronómico Español"
+    ],
+    "image": "paella_valenciana_tradicional.jpg",
+    "url": "r/332-paella-valenciana-tradicional-espana.html",
+    "published": "2026-10-29T03:05:00-03:00",
+    "story": "La auténtica paella valenciana es un himno al equilibrio campesino de la huerta y la albufera de Valencia, libre de los mariscos y mezclas que abundan en las versiones turísticas. La receta canónica, celosamente custodiada por los maestros paelleros valencianos, se basa en carnes de campo (pollo y conejo bien dorados), judías verdes planas (*ferradura*), alubias gigantes mantecosas (*garrofó*), tomate maduro rallado, azafrán en hebras, romero fresco y el sagrado arroz Bomba o Senia. El pináculo de la experiencia es el *socarrat*: esa fina capa de arroz del fondo caramelizada y crujiente que se desprende con cuchara de madera al final.",
+    "ingredient_groups": [
+      {
+        "name": "Carnes y Vegetales de la Huerta",
+        "items": [
+          "500 g de pollo de campo troceado pequeño con piel y hueso",
+          "400 g de conejo troceado pequeño",
+          "200 g de judías verdes planas (bajoqueta / ferradura), limpias y troceadas",
+          "100 g de alubia garrofó (o alubias blancas grandes mantecosas cocidas)",
+          "2 tomates maduros grandes rallados (sin piel)",
+          "100 ml de aceite de oliva virgen extra"
+        ]
+      },
+      {
+        "name": "Arroz, Caldo y Especias de la Paella",
+        "items": [
+          "400 g de arroz Bomba o Senia con Denominación de Origen Valencia",
+          "1,2 litros de agua filtrada (aprox. el triple del volumen de arroz)",
+          "1 cdita. colmada de pimentón dulce de calidad",
+          "1 pizca generosa de azafrán en hebras tostado",
+          "1 ramita pequeña de romero fresco",
+          "Sal marina gruesa al gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Sellado y Dorado Intenso de las Carnes",
+        "steps": [
+          "Nivelar la paellera sobre el fuego y calentar el aceite de oliva en el centro.",
+          "Añadir el pollo y el conejo troceados con sal gruesa esparcida en el borde.",
+          "Dorar la carne pacientemente a fuego medio-bajo durante unos quince minutos hasta que esté intensamente caramelizada y dorada por todas sus caras (el tostado de la carne es la base del sabor del caldo).",
+          "Apartar la carne hacia los bordes de la paellera y añadir las judías verdes y el garrofó en el centro, sofriendo unos minutos.",
+          "Hacer un hueco central, volcar el tomate rallado y sofreír hasta que reduzca el agua y tome color oscuro. Agregar el pimentón dulce removiendo velozmente para que no se queme."
+        ]
+      },
+      {
+        "name": "2. Creación del Caldo en la Paella",
+        "steps": [
+          "Verter el agua hasta alcanzar los remaches de las asas de la paellera.",
+          "Añadir las hebras de azafrán tostado y subir el fuego a vivo.",
+          "Cocinar durante unos quince minutos para que las carnes y verduras infusionen el agua creando un caldo sabroso y concentrado. Probar y rectificar de sal (el caldo debe sentirse un punto sabroso porque el arroz absorberá sal)."
+        ]
+      },
+      {
+        "name": "3. Distribución del Arroz y Socarrat",
+        "steps": [
+          "Verter el arroz trazando un cordón en diagonal (caballón) de lado a lado de la paellera.",
+          "Distribuir el arroz de manera uniforme con la paleta por todo el recipiente; a partir de este momento no se debe revolver nunca más el arroz para no liberar almidón.",
+          "Cocinar a fuego vivo durante ocho a diez minutos. Colocar la ramita de romero encima durante dos minutos y luego retirarla para que deje solo un perfume sutil.",
+          "Bajar el fuego a mínimo y cocinar de ocho a diez minutos más hasta que el grano haya absorbido todo el líquido.",
+          "Para lograr el codiciado socarrat: en el último minuto subir el fuego suavemente hasta oír un chisporroteo seco y percibir un aroma tostado (sin llegar a quemado).",
+          "Apagar el fuego, cubrir la paellera con un paño limpio y dejar reposar cinco minutos antes de servir al centro de la mesa."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Prohibido revolver: A diferencia del risotto, en la paella valenciana el arroz nunca se mueve; el grano debe cocinarse suelto, seco e impregnado por el caldo.",
+      "El romero justo: Un minuto de romero fresco en el caldo aporta la fragancia silvestre exacta de la sierra valenciana sin tapar los otros sabores."
+    ],
+    "notes": "Se come tradicionalmente con cuchara de madera directamente de la paellera, comenzando desde el borde hacia el centro."
+  },
+  {
+    "id": 333,
+    "title": "Goulash Húngaro Tradicional — Estofado de Ternera a la Páprika con Spätzle (Hungría)",
+    "original_title": "Gulyás / Pörkölt Tradicional de Ternera con Nokedli Spätzle",
+    "country": "Hungría",
+    "category": "Guisos & Platos de Olla",
+    "tags": [
+      "Hungría",
+      "Goulash",
+      "Pörkölt",
+      "Spätzle",
+      "Nokedli",
+      "Ternera",
+      "Páprika",
+      "Guiso",
+      "Europa Central",
+      "Tradicional"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "2 h",
+    "rest_time": "10 min",
+    "temperature": "Fuego muy lento con hervor mínimo",
+    "servings": "6 porciones",
+    "calories": "510 kcal por porción",
+    "diet_badges": [
+      "Confort Food Europeo",
+      "Rico en Especias"
+    ],
+    "image": "goulash_hungaro_spatzle.jpg",
+    "url": "r/333-goulash-hungaro-spatzle.html",
+    "published": "2026-10-29T03:10:00-03:00",
+    "story": "El goulash (gulyás en húngaro, originalmente 'pastor de bueyes') es el plato nacional de Hungría y el estofado más venerado de Europa Central. Nacido en las llanuras húngaras de la Puszta donde los pastores cocinaban carnes en calderos de hierro (bogrács), su esencia radica en el matrimonio sagrado entre abundante cebolla confitada lentamente en manteca de cerdo y la auténtica páprika dulce de Szeged o Kalocsa. La carne de ternera se cocina a fuego mínimo en sus propios jugos hasta desarmarse en un caldo espeso de color rojo rubí, servido tradicionalmente sobre los spätzle o nokedli: pequeños fideos caseros de masa suave pasados por rallador y salteados en manteca.",
+    "ingredient_groups": [
+      {
+        "name": "Estofado de Ternera a la Páprika",
+        "items": [
+          "1,2 kg de carne vacuna para estofar (garrón/morcillo, paleta o roast beef), en cubos de 3 cm",
+          "800 g de cebollas blancas picadas en brunoise fina (casi igual volumen que la carne)",
+          "50 g de grasa de cerdo (o manteca con aceite)",
+          "3 cdas. colmadas de auténtica páprika húngara dulce (o pimentón dulce de calidad)",
+          "1 cdita. de páprika picante (opcional para un toque vivaz)",
+          "3 dientes de ajo picados finos",
+          "1 cdita. de semillas de alcaravea (kümmel / comino alemán), machacadas",
+          "1 pimiento morrón rojo y 1 verde en cubitos",
+          "2 tomates maduros pelados y picados",
+          "500 ml de caldo de carne suave o agua",
+          "Sal marina y pimienta al gusto"
+        ]
+      },
+      {
+        "name": "Fideos Caseros Spätzle (Nokedli)",
+        "items": [
+          "300 g de harina de trigo común",
+          "3 huevos frescos",
+          "100 a 120 ml de agua o leche",
+          "1 pizca de sal y nuez moscada",
+          "30 g de manteca para saltear al final"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Confitado de la Cebolla y la Páprika",
+        "steps": [
+          "En una olla de fondo grueso calentar la grasa de cerdo a fuego bajo; incorporar la enorme cantidad de cebolla picada con una pizca de sal y rehogar durante veinte minutos hasta que esté completamente transparente, dorada y caramelizada.",
+          "Retirar la olla del fuego un minuto (el pimentón jamás debe agregarse sobre grasa hirviendo porque se quema y amarga).",
+          "Añadir la páprika dulce, la páprika picante y las semillas de alcaravea machacadas; revolver rápidamente para disolver en la grasa.",
+          "Sumar dos cucharadas de agua tibia para hidratar y regresar al fuego."
+        ]
+      },
+      {
+        "name": "2. Cocción Lenta de la Carne",
+        "steps": [
+          "Subir el fuego a medio e incorporar los cubos de ternera y el ajo picado.",
+          "Saltear durante unos minutos hasta que la carne cambie de color y comience a soltar sus propios jugos.",
+          "Añadir los tomates picados, los morrones y cubrir apenas con el caldo caliente.",
+          "Tapar y cocinar a fuego mínimo durante dos horas con borboteo casi imperceptible, hasta que la ternera esté tierna como mantequilla y la salsa haya espesado por la reducción de la cebolla."
+        ]
+      },
+      {
+        "name": "3. Elaboración de los Spätzle y Servicio",
+        "steps": [
+          "Para los spätzle, en un bol batir los huevos con la sal y el agua; incorporar la harina con cuchara hasta lograr una masa viscosa y elástica con burbujas.",
+          "Hervir abundante agua con sal. Pasar porciones de masa a través de un rallador de spätzle (o raspar con cuchillo sobre tabla inclinada) directamente sobre el agua hirviendo.",
+          "Cuando los fideos suban a la superficie (uno a dos minutos), retirarlos con espumadera y saltearlos en una sartén con la manteca derretida.",
+          "Servir una base abundante de spätzle calientes y volcar encima el goulash espeso con su ternera tierna y salsa roja aromática."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "La cebolla es el espesante natural: El goulash húngaro jamás lleva harina ni fécula para espesar; el espesor sedoso de su salsa proviene exclusivamente de la desintegración de la cebolla cocida lentamente.",
+      "Cuidado con la páprika: Si la páprika se quema en el aceite pierde su sabor frutal dulce y arruina el estofado; siempre retirá la olla del fuego para mezclarla."
+    ],
+    "notes": "Un plato de invierno majestuoso que gana complejidad aromática si se come recalentado al día siguiente."
+  },
+  {
+    "id": 334,
+    "title": "Ceviche Peruano Clásico — Pesca Fresca, Leche de Tigre, Camote y Cancha (Perú)",
+    "original_title": "Ceviche Tradicional Peruano de Pescado del Día",
+    "country": "Perú",
+    "category": "Pescados & Mariscos",
+    "tags": [
+      "Perú",
+      "Ceviche",
+      "Leche de Tigre",
+      "Pesca del Día",
+      "Ají Limo",
+      "Cilantro",
+      "Cancha",
+      "Camote",
+      "Patrimonio UNESCO",
+      "Tradicional"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "0 min (cocción al momento por desnaturalización cítrica)",
+    "rest_time": "2 a 3 min de curado",
+    "temperature": "Servicio ultra frío",
+    "servings": "4 porciones",
+    "calories": "240 kcal por porción",
+    "diet_badges": [
+      "Sin Gluten",
+      "Bajo en Calorías",
+      "Alto en Proteínas",
+      "Patrimonio de la Humanidad UNESCO"
+    ],
+    "image": "ceviche_peruano_clasico.jpg",
+    "url": "r/334-ceviche-peruano-clasico.html",
+    "published": "2026-10-29T03:15:00-03:00",
+    "story": "Declarado Patrimonio Cultural Inmaterial de la Humanidad por la UNESCO, el ceviche peruano es la obra cumbre de la cocina marina de la costa del Pacífico. La técnica moderna peruana rompió con las antiguas maceraciones largas de horas: hoy el pescado blanco fresquísimo se cura al instante en apenas dos minutos con jugo fresco de lima recién exprimido a mano suavemente (para no amargar con los aceites de la cáscara), sal marina, ají limo aromático y culantro. La emulsión resultante entre los jugos del pescado y el cítrico forma la mítica 'leche de tigre', servida sobre una cama de cebolla morada crujiente en pluma, choclo tierno desgranado, maíz cancha tostado crujiente y una rodaja de camote glaseado que equilibra la acidez.",
+    "ingredient_groups": [
+      {
+        "name": "Pesca del Día y Curado Cítrico",
+        "items": [
+          "700 g de filete de pescado blanco muy fresco y firme (lenguado, corvina, mero o reineta), sin espinas ni piel",
+          "10 limas o limones sutiles jugosos (exprimidos suavemente al momento)",
+          "1 ají limo fresco finamente picado en brunoise (sin venas para picor moderado)",
+          "1 manojo pequeño de culantro (cilantro) fresco lavado y picado fino",
+          "1 cda. de sal marina fina",
+          "2 cubos de hielo (para mantener el pescado helado durante el mezclado)"
+        ]
+      },
+      {
+        "name": "Acompañamientos Tradicionales",
+        "items": [
+          "1 cebolla morada grande cortada en pluma muy fina (remojada en agua con hielo para máxima crocancia)",
+          "1 camote (batata) grande hervido con un toque de azúcar y cortado en rodajas",
+          "1 taza de choclo blanco desgranado y hervido tierno",
+          "1 taza de maíz cancha tostado crujiente con sal"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Corte y Sazonado en Frío",
+        "steps": [
+          "Cortar el pescado blanco bien frío en cubos parejos de dos centímetros de lado.",
+          "Frotar el interior de un bol de vidrio frío con medio ají limo cortado para aromatizar el recipiente.",
+          "Colocar los cubos de pescado en el bol, agregar la sal fina y los cubos de hielo. Revolver delicadamente con cuchara durante un minuto; la sal abrirá las fibras del pescado absorbiendo sabor."
+        ]
+      },
+      {
+        "name": "2. Emulsión de la Leche de Tigre al Momento",
+        "steps": [
+          "Añadir el ají limo picado y el culantro fresco al bol.",
+          "Cortar las limas por la mitad y exprimirlas con la mano directamente sobre el pescado, apretando solo hasta la mitad sin retorcer la fruta para evitar extraer los aceites amargos del hollejo.",
+          "Mezclar con la cuchara durante dos a tres minutos: la acidez del limón interactuará con las proteínas del pescado emulsionando un jugo lechoso, blanquecino y ligeramente denso conocido como leche de tigre.",
+          "Retirar los cubos de hielo antes de que se derritan y sumen agua innecesaria."
+        ]
+      },
+      {
+        "name": "3. Montaje y Emplatado",
+        "steps": [
+          "Incorporar la cebolla morada bien escurrida y fría al bol, mezclando rápidamente para que conserve su crujido.",
+          "Servir de inmediato en platos hondos fríos, disponiendo al costado una rodaja de camote dulce, una porción de choclo tierno y una cucharada de maíz cancha crujiente.",
+          "Verter abundante leche de tigre sobre el pescado y disfrutar al instante."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "No exprimir el limón a fondo: El secreto de los cevicheros peruanos es apretar el limón solo al 70%; exprimir de más amarga la leche de tigre.",
+      "Consumo inmediato: El ceviche peruano no se marina en la heladera; se sirve en cuanto el pescado cambia a un blanco nacarado en sus bordes manteniéndose crudo y suave en el centro."
+    ],
+    "notes": "Acompañar con una cerveza rubia helada o una copa de pisco sour."
+  },
+  {
+    "id": 335,
+    "title": "Ají de Gallina Tradicional — Pechuga Desmenuzada en Crema de Ají Amarillo y Nueces (Perú)",
+    "original_title": "Ají de Gallina Criollo Limeño Tradicional",
+    "country": "Perú",
+    "category": "Pollo & Aves",
+    "tags": [
+      "Perú",
+      "Ají de Gallina",
+      "Pollo",
+      "Ají Amarillo",
+      "Nueces",
+      "Queso Parmesano",
+      "Leche Evaporada",
+      "Criollo",
+      "Lima",
+      "Tradicional"
+    ],
+    "prep_time": "25 min",
+    "cook_time": "35 min",
+    "rest_time": "5 min",
+    "temperature": "Fuego medio-bajo para espesar la crema",
+    "servings": "6 porciones",
+    "calories": "470 kcal por porción",
+    "diet_badges": [
+      "Confort Food Peruano",
+      "Plato Criollo Limeño"
+    ],
+    "image": "aji_de_gallina_peruano.jpg",
+    "url": "r/335-aji-de-gallina-peruano.html",
+    "published": "2026-10-29T03:20:00-03:00",
+    "story": "El ají de gallina es uno de los platos más queridos y emblemáticos de la cocina criolla de Lima, nacido de la evolución virreinal de un manjar medieval español (el manjar blanco de gallina) transformado por las manos cocineras peruanas al incorporar el rey de los ingredientes autóctonos: el ají amarillo. La pechuga de pollo o gallina se hierve en un caldo sustancioso y se deshebra en hebras finas, para luego bañarse en una crema espesa, aterciopelada y sutilmente picante a base de pasta de ají amarillo soasado, pan francés o galletas remojadas en leche evaporada, nueces pecanas trituradas y queso parmesano rallado. Se sirve tradicionalmente sobre papas amarillas cocidas, con arroz blanco, huevo duro y aceitunas negras botija.",
+    "ingredient_groups": [
+      {
+        "name": "Pollo y Caldo Base",
+        "items": [
+          "1 pechuga de pollo entera con hueso y piel (aprox. 800 g)",
+          "1 tallo de apio",
+          "1 zanahoria en trozos",
+          "1 hoja de laurel",
+          "1 litro de agua con 1 cdita. de sal"
+        ]
+      },
+      {
+        "name": "Crema Sedosa de Ají Amarillo",
+        "items": [
+          "4 ajíes amarillos frescos limpios (sin venas ni semillas), salteados y licuados como pasta",
+          "4 panes franceses del día anterior (o 1 paquete de galletas de soda) remojados en leche",
+          "1 lata de leche evaporada (aprox. 380 ml)",
+          "1 cebolla morada mediana finamente picada en brunoise",
+          "3 dientes de ajo picados finos",
+          "60 g de nueces pecanas o nueces comunes tostadas y procesadas",
+          "60 g de queso parmesano recién rallado fino",
+          "2 cdas. de aceite vegetal",
+          "Sal marina y pimienta al gusto"
+        ]
+      },
+      {
+        "name": "Guarnición Limeña",
+        "items": [
+          "4 papas amarillas o blancas hervidas y cortadas en rodajas",
+          "3 tazas de arroz blanco cocido al vapor",
+          "3 huevos duros cortados en mitades",
+          "8 aceitunas negras botija peruanas"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Cocción y Deshebrado del Pollo",
+        "steps": [
+          "En una olla colocar la pechuga de pollo con el apio, zanahoria, laurel y sal en agua fría. Hervir a fuego medio durante veinte minutos hasta que esté cocida.",
+          "Retirar la pechuga, dejar entibiar y deshebrar la carne en hilachas finas con las manos. Colar y reservar dos tazas del caldo de cocción."
+        ]
+      },
+      {
+        "name": "2. Elaboración de la Crema Espesa",
+        "steps": [
+          "En un bol remojar el pan troceado con parte de la leche evaporada.",
+          "Licuar el pan remojado junto a la pasta de ají amarillo, las nueces tostadas y un chorrito del caldo reservado hasta lograr una crema lisa, densa y brillante.",
+          "En una cacerola amplia calentar el aceite y rehogar la cebolla picada con el ajo a fuego lento durante diez minutos hasta que estén suaves.",
+          "Verter la crema licuada a la cacerola y cocinar a fuego suave revolviendo constantemente para que espese.",
+          "Incorporar el resto de la leche evaporada y caldo si hiciera falta para regular la densidad."
+        ]
+      },
+      {
+        "name": "3. Integración y Servicio Criollo",
+        "steps": [
+          "Sumar el pollo deshebrado a la crema caliente y mezclar bien para que la carne absorba todo el sabor del ají.",
+          "Añadir el queso parmesano rallado, rectificar de sal y pimienta, y retirar del fuego en cuanto alcance una textura untuosa y aterciopelada.",
+          "Para servir: acomodar una cama de rodajas de papa hervida en el plato, cubrir con abundante ají de gallina y acompañar con una porción de arroz blanco, decorando con medio huevo duro y aceituna negra botija."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "El toque de nuez pecana: Aporta una riqueza y untuosidad de grasa saludable que equilibra el picor frutal del ají amarillo.",
+      "Consistencia cremosa perfecta: No debe quedar líquido como sopa ni compacto como puré; debe fluir como una salsa velouté espesa que nappe la cuchara."
+    ],
+    "notes": "Uno de los clásicos más acogedores y elegantes del Perú, perfecto para almuerzos familiares."
+  },
+  {
+    "id": 336,
+    "title": "Carne Gobernada de Oviedo — Guisado Tradicional al Vino Blanco y Cebolla Confitada (Asturias)",
+    "original_title": "Carne Gobernaba Tradicional al Estilo de Oviedo",
+    "country": "España",
+    "category": "Carnes & Guisos",
+    "tags": [
+      "España",
+      "Asturias",
+      "Oviedo",
+      "Carne Gobernada",
+      "Ternera",
+      "Cebolla Confitada",
+      "Vino Blanco",
+      "Guiso",
+      "Tradicional"
+    ],
+    "prep_time": "25 min",
+    "cook_time": "2 h 30 min",
+    "rest_time": "15 min",
+    "temperature": "Fuego lento paciente",
+    "servings": "6 porciones",
+    "calories": "460 kcal por porción",
+    "diet_badges": [
+      "Sin Gluten",
+      "Cocina Tradicional Asturiana"
+    ],
+    "image": "carne_gobernada_asturiana.jpg",
+    "url": "r/336-carne-gobernada-asturiana.html",
+    "published": "2026-10-29T03:25:00-03:00",
+    "story": "La Carne Gobernada (o carne 'gobernaba' en bable) es uno de los platos más antiguos y señoriales de la capital asturiana, Oviedo. Su nombre procede del término 'gobernar', que en las cocinas tradicionales significaba guisar o aderezar con paciente dedicación y buen gobierno. Consiste en trozos seleccionados de carne de ternera asturiana sellados intensamente y luego cocinados a fuego muy lento con una ingente cantidad de cebolla picada y vino blanco seco, sin una sola gota de agua. La cebolla se confita y se deshace con los jugos de la carne hasta crear una salsa oscura, densa y casi acaramelada de un sabor profundo inolvidable, servida tradicionalmente con papas fritas en dados.",
+    "ingredient_groups": [
+      {
+        "name": "Carne de Ternera y Sellado",
+        "items": [
+          "1,2 kg de ternera asturiana tierna para guisar (aguja, aleta o morcillo), en cubos de 3 a 4 cm",
+          "4 dientes de ajo pelados y machacados",
+          "60 ml de aceite de oliva virgen extra",
+          "Sal marina y pimienta negra molida al gusto"
+        ]
+      },
+      {
+        "name": "La 'Gobernanza' de Cebolla y Vino",
+        "items": [
+          "1 kg de cebollas blancas picadas finas",
+          "250 ml de vino blanco seco de calidad",
+          "1 hoja de laurel",
+          "4 papas medianas cortadas en cubos para freír (guarnición clásica)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Sellado Fuerte de la Ternera",
+        "steps": [
+          "En una cazuela de barro o hierro fundido calentar el aceite de oliva a fuego vivo.",
+          "Añadir los dados de carne salpimentados y el ajo machacado; dorar intensamente las piezas hasta que adquieran un color tostado oscuro y parejo por fuera (este tostado inicial aportará el color a la salsa).",
+          "Retirar la carne y reservar en un plato hondo."
+        ]
+      },
+      {
+        "name": "2. Confitado Lento de la Cebolla",
+        "steps": [
+          "En la misma cazuela con los jugos del sellado, agregar la totalidad de la cebolla picada con una pizca de sal.",
+          "Bajar el fuego a mínimo y cocinar pacientemente durante media hora larga, removiendo con cuchara de madera hasta que la cebolla reduzca, se caramelice y tome un tono marrón dorado brillante."
+        ]
+      },
+      {
+        "name": "3. Estofado al Vino Blanco",
+        "steps": [
+          "Reincorporar la carne sellada con sus jugos y la hoja de laurel a la cazuela.",
+          "Verter el vino blanco seco y raspar el fondo de la olla para levantar todos los azúcares caramelizados.",
+          "Tapar bien y guisar a fuego muy lento durante unas dos horas, removiendo de vez en cuando; la cebolla terminará de fundirse en una salsa espesa y oscura mientras la ternera se vuelve mantecosa.",
+          "Freír las papas en dados y agregarlas a la cazuela unos minutos antes de apagar el fuego para que se impregnen de la salsa antes de servir."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Sin agua ni caldo: El verdadero secreto de la carne gobernada es no añadir jamás agua; la humedad de la abundante cebolla y el vino blanco bastan para crear una salsa espesa y concentrada.",
+      "Paciencia en el dorado: Si no dorás bien la carne al principio, la salsa quedará pálida; el tostado de los aminoácidos de la carne es el alma del plato."
+    ],
+    "notes": "Un emblema de la gastronomía ovetense que rinde tributo al buen hacer culinario del norte español."
+  },
+  {
+    "id": 337,
+    "title": "Solomillo al Queso Cabrales — Ternera Asturiana con Salsa de Queso Azul y Sidra (Asturias)",
+    "original_title": "Solomillo de Ternera Asturiana con Salsa al Cabrales",
+    "country": "España",
+    "category": "Carnes & Parrilla",
+    "tags": [
+      "España",
+      "Asturias",
+      "Solomillo",
+      "Queso Cabrales",
+      "Sidra",
+      "Ternera Asturiana",
+      "Queso Azul",
+      "Sartén",
+      "Tradicional"
+    ],
+    "prep_time": "10 min",
+    "cook_time": "15 min",
+    "rest_time": "3 min",
+    "temperature": "Fuego vivo para la carne; fuego suave para la salsa",
+    "servings": "4 porciones",
+    "calories": "520 kcal por porción",
+    "diet_badges": [
+      "Sin Gluten",
+      "Keto",
+      "Plato Señorial Asturiano"
+    ],
+    "image": "solomillo_al_cabrales.jpg",
+    "url": "r/337-solomillo-al-cabrales-asturias.html",
+    "published": "2026-10-29T03:30:00-03:00",
+    "story": "El solomillo al Cabrales es la cumbre del encuentro entre la ganadería vacuna de los valles asturianos y los pastos de altura de los Picos de Europa, donde madura en cuevas naturales húmedas el legendario queso azul de Cabrales con Denominación de Origen Protegida. El medallón de solomillo tierno se marca en sartén bien caliente para dejarlo crujiente por fuera y sonrosado y jugoso por dentro, mientras que la salsa se elabora fundiendo el queso Cabrales con manteca, un toque de crema de leche fresca y el desglasado indispensable de sidra natural asturiana que equilibra la potencia picante y madura del queso.",
+    "ingredient_groups": [
+      {
+        "name": "Medallones de Ternera",
+        "items": [
+          "4 medallones gruesos de solomillo de ternera (aprox. 200 g cada uno y 3 cm de grosor)",
+          "2 cdas. de aceite de oliva virgen extra",
+          "Sal gruesa en escamas y pimienta negra recién molida"
+        ]
+      },
+      {
+        "name": "Salsa Emulsionada de Queso Cabrales",
+        "items": [
+          "150 g de queso Cabrales DOP maduro y cremoso",
+          "150 ml de crema de leche fresca (o nata líquida)",
+          "30 ml de sidra natural asturiana (o vino blanco seco)",
+          "20 g de manteca sin sal",
+          "Pimienta blanca recién molida al gusto (no necesita sal añadida)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Elaboración de la Salsa al Cabrales",
+        "steps": [
+          "En una cacerola pequeña a fuego suave derretir la manteca y añadir la sidra natural, dejando reducir un minuto para evaporar el alcohol.",
+          "Incorporar el queso Cabrales desmenuzado en trozos y la crema de leche.",
+          "Revolver constantemente con batidor de alambre a fuego muy suave hasta que el queso se disuelva por completo y se forme una crema lisa, untuosa y homogénea.",
+          "Sazonar con una pizca de pimienta blanca y mantener caliente a fuego mínimo."
+        ]
+      },
+      {
+        "name": "2. Sellado de los Medallones de Solomillo",
+        "steps": [
+          "Calentar una sartén pesada de hierro o plancha con el aceite de oliva a fuego muy fuerte hasta que humee sutilmente.",
+          "Colocar los medallones de solomillo y sellar durante unos dos a tres minutos por lado para dejarlos al punto perfecto: costra exterior dorada y corazón jugoso.",
+          "Retirar sobre plato tibio y dejar reposar tres minutos para redistribuir los jugos internos."
+        ]
+      },
+      {
+        "name": "3. Montaje y Servicio",
+        "steps": [
+          "Disponer los medallones de solomillo en platos calientes.",
+          "Espolvorear la carne con escamas de sal marina.",
+          "Naparon cubrir generosamente el centro de la carne con la salsa caliente de Cabrales.",
+          "Acompañar tradicionalmente con papas fritas rústicas o manzanas salteadas en manteca."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Fuego suave para la salsa: El queso Cabrales nunca debe hervir violentamente con la crema para evitar que la grasa se separe; la emulsión debe ser suave y sedosa.",
+      "La sidra corta la grasa: El toque de acidez de la sidra natural asturiana es el contrapunto ideal que aligera la potencia grasa del queso azul."
+    ],
+    "notes": "Una de las carnes más distinguidas de las sidrerías y restaurantes de Asturias."
+  },
+  {
+    "id": 338,
+    "title": "Fabada Asturiana Tradicional — Con Fabes de la Granja IGP y Compango Ahumado (Asturias)",
+    "original_title": "Fabada Asturiana Tradicional con Compangu de la Granja",
+    "country": "España",
+    "category": "Guisos & Platos de Olla",
+    "tags": [
+      "España",
+      "Asturias",
+      "Fabada",
+      "Fabes",
+      "Compango",
+      "Chorizo Asturiano",
+      "Morcilla",
+      "Guiso",
+      "Plato de Cuchara",
+      "Tradicional"
+    ],
+    "prep_time": "20 min (+ 12 h remojo)",
+    "cook_time": "2 h 30 min",
+    "rest_time": "30 min de reposo antes de servir",
+    "temperature": "Chup-chup muy lento con 'asustado' de agua fría",
+    "servings": "6 porciones",
+    "calories": "680 kcal por porción",
+    "diet_badges": [
+      "Sin Gluten",
+      "Plato de Cuchara Legendario"
+    ],
+    "image": "fabada_asturiana.jpg",
+    "url": "r/338-fabada-asturiana-tradicional.html",
+    "published": "2026-10-29T03:35:00-03:00",
+    "story": "La fabada asturiana es el monumento supremo de la cocina asturiana y uno de los guisos de legumbres más afamados del mundo. Su gloria descansa en la excelsa calidad de las *fabes de la granja* (Phaseolus vulgaris protegidas con Indicación Geográfica Protegida), caracterizadas por su gran tamaño, piel finísima casi imperceptible y pulpa que se vuelve una crema mantecosa al cocerse. Cocinadas a fuego muy lento junto a su inseparable *compango* ahumado (chorizo asturiano, morcilla asturiana con notas ahumadas de roble, lacón y panceta curada), el guiso se 'asusta' periódicamente con chorritos de agua helada para frenar el hervor y que las fabes no revienten, logrando un caldo espeso, anaranjado y glorioso.",
+    "ingredient_groups": [
+      {
+        "name": "Fabes y Remojo",
+        "items": [
+          "500 g de fabes asturianas de la granja secas (IGP), remojadas en agua fría durante 12 a 14 horas",
+          "Agua mineral fría de baja mineralización para cubrir"
+        ]
+      },
+      {
+        "name": "Compango Tradicional Asturiano",
+        "items": [
+          "2 chorizos asturianos curados y semicurados ahumados",
+          "2 morcillas asturianas ahumadas",
+          "200 g de panceta curada o lacón salado (desalado en agua durante la noche)",
+          "1 trozo de hueso de jamón serrano curado"
+        ]
+      },
+      {
+        "name": "Aromáticos y Hebras",
+        "items": [
+          "1 pizca generosa de azafrán en hebras tostado",
+          "1 cda. de aceite de oliva virgen extra",
+          "Sal marina gruesa al gusto (ajustar recién al final)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Inicio de la Cocción y Desespumado",
+        "steps": [
+          "Escurrir las fabes remojadas y colocarlas en una cazuela ancha y baja (idealmente de barro o hierro).",
+          "Acomodar encima el compango: los chorizos, las morcillas (pinchadas con aguja para que no revienten), la panceta y el hueso de jamón.",
+          "Cubrir con agua fría hasta que sobrepase dos dedos por encima de las legumbres. Llevar a fuego vivo hasta romper el hervor.",
+          "Espumar minuciosamente con una espumadera durante los primeros diez minutos para retirar todas las impurezas superficiales."
+        ]
+      },
+      {
+        "name": "2. El Secreto del 'Asustado' y Cocción Lenta",
+        "steps": [
+          "Añadir las hebras de azafrán disueltas en un poquito de caldo y bajar el fuego al mínimo para que la cocción sea un suave borboteo (chup-chup).",
+          "'Asustar les fabes': cada media hora verter un chorrito de agua helada (medio vaso) para romper la ebullición; esto asienta el hollejo impidiendo que las alubias se pelen o rompan.",
+          "No meter nunca cucharas metálicas; si hace falta mover el contenido, tomar la cazuela por las asas y moverla en vaivén circular.",
+          "Cocinar durante dos horas a dos horas y media hasta que las fabes estén mantecosas y el caldo espeso y ligado."
+        ]
+      },
+      {
+        "name": "3. Reposo y Servicio del Compango",
+        "steps": [
+          "Probar el caldo y ajustar de sal únicamente al final, considerando que los embutidos ya aportaron sazón.",
+          "Dejar reposar la fabada fuera del fuego tapada durante media hora para que el caldo adquiera su textura aterciopelada definitiva.",
+          "Retirar el compango a una tabla de madera y cortar en rodajas generosas.",
+          "Servir las fabes con su caldo en plato hondo de barro, disponiendo encima los cortes de chorizo, morcilla y panceta."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Agua de baja mineralización: Las aguas duras con mucha cal endurecen la piel de la alubia; si el agua de tu grifo tiene mucho sarro, usá agua mineral embotellada para un resultado mantecoso perfecto.",
+      "Prohibido revolver con cuchara: Revolver con utensilios parte las fabes; el movimiento debe ser únicamente meneando la cazuela desde las asas."
+    ],
+    "notes": "Al día siguiente sabe todavía mejor; maridaje insustituible con sidra natural asturiana recién escanciada."
+  },
+  {
+    "id": 339,
+    "title": "Tortos de Maíz Asturianos — Con Picadillo de Matanza y Huevos Fritos (Asturias)",
+    "original_title": "Tortos de Maíz con Picadillo y Huevos a la Asturiana",
+    "country": "España",
+    "category": "Entradas & Tapas",
+    "tags": [
+      "España",
+      "Asturias",
+      "Tortos",
+      "Harina de Maíz",
+      "Picadillo",
+      "Huevos Fritos",
+      "Chorizo",
+      "Tapa",
+      "Tradicional"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "15 min",
+    "rest_time": "10 min de reposo de la masa",
+    "temperature": "Fritura en aceite caliente y abundante (175 °C)",
+    "servings": "4 porciones (8 a 10 tortos)",
+    "calories": "440 kcal por porción",
+    "diet_badges": [
+      "Sin Gluten (verificando picadillo sin TACC)",
+      "Cocina Rústica de Aldea"
+    ],
+    "image": "tortos_de_maiz_asturianos.jpg",
+    "url": "r/339-tortos-de-maiz-asturianos.html",
+    "published": "2026-10-29T03:40:00-03:00",
+    "story": "Los tortos de maíz son el alimento rústico y entrañable de las aldeas asturianas, surgidos tras la introducción del maíz americano en el siglo XVII que salvó a las familias campesinas de las hambrunas invernales. Elaborados con una masa simple de harina de maíz amarillo, agua templada y sal, se aplanan a mano sobre un paño de lino húmedo y se fríen en aceite caliente hasta inflarse y volverse increíblemente crujientes por fuera y tiernos por dentro. Su combinación tradicional más gloriosa es coronarlos con picadillo de matanza (la carne adobada del chorizo antes de embutir, salteada en sartén) y un huevo de campo frito con puntilla cuya yema líquida baña el torto al romperla.",
+    "ingredient_groups": [
+      {
+        "name": "Masa de Tortos de Maíz",
+        "items": [
+          "250 g de harina de maíz amarillo tradicional (no harina precocida de arepas)",
+          "50 g de harina de trigo común (opcional, ayuda a ligar la masa)",
+          "200 a 220 ml de agua tibia con 1 cdita. de sal disuelta"
+        ]
+      },
+      {
+        "name": "Guarnición de Picadillo y Huevos",
+        "items": [
+          "300 g de picadillo de matanza asturiano (carne de cerdo picada adobada con pimentón, ajo y orégano)",
+          "4 huevos frescos de campo",
+          "Abundante aceite de oliva virgen o girasol para freír"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Amasado y Formado de los Tortos",
+        "steps": [
+          "En un bol colocar la harina de maíz con la sal y verter el agua tibia gradualmente mientras se mezcla con las manos.",
+          "Amasar durante unos minutos hasta lograr una masa suave, maleable y que no se pegue a los dedos. Dejar reposar diez minutos tapada.",
+          "Formar bolitas del tamaño de una nuez grande.",
+          "Humedecer un paño de cocina limpio. Colocar una bolita sobre el paño, doblar el paño encima y aplastar con la palma de la mano hasta formar un disco delgado de unos ocho centímetros de diámetro y tres milímetros de espesor."
+        ]
+      },
+      {
+        "name": "2. Salteado del Picadillo y Fritura de los Tortos",
+        "steps": [
+          "En una sartén sin aceite saltear el picadillo de matanza a fuego medio, desmenuzándolo con cuchara de madera en su propia grasa durante cinco a siete minutos hasta que esté dorado y jugoso. Reservar caliente.",
+          "En una sartén honda calentar abundante aceite a la temperatura indicada.",
+          "Desprender los discos de masa del paño con cuidado y deslizarlos en el aceite caliente; al contacto con el calor se inflarán formando burbujas crujientes doradas.",
+          "Freír durante un minuto y medio por lado hasta que estén crujientes y dorados. Escurrir sobre papel absorbente."
+        ]
+      },
+      {
+        "name": "3. Fritura de Huevos y Montaje",
+        "steps": [
+          "En aceite bien caliente freír los huevos de campo de uno en uno, logrando clara con puntilla crujiente y yema líquida.",
+          "Disponer los tortos crujientes calientes en una bandeja o plato rústico.",
+          "Colocar encima de cada torto una cucharada generosa de picadillo caliente y coronar con el huevo frito recién hecho.",
+          "Servir de inmediato para romper la yema sobre el picadillo y el maíz crujiente."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "La textura del maíz: La masa de maíz no tiene gluten por lo que es quebradiza; el uso del paño húmedo para aplastarla permite despegarla fácilmente sin que se quiebre.",
+      "Variante con Cabrales: Otra versión tradicional asturiana de lujo consiste en cubrir el torto caliente con una lámina de queso Cabrales y una cucharada de dulce de manzana casero."
+    ],
+    "notes": "Un bocado rural supremo de los chigres y sidrerías del Principado de Asturias."
+  },
+  {
+    "id": 340,
+    "title": "Arroz con Leche a la Asturiana — Ultra Cremoso con Azúcar Requemado a Fuego (Asturias)",
+    "original_title": "Arroz con Leche Tradicional Asturiano con Costra de Caramelo",
+    "country": "España",
+    "category": "Postres & Dulces Tradicionales",
+    "tags": [
+      "España",
+      "Asturias",
+      "Arroz con Leche",
+      "Postre",
+      "Cremoso",
+      "Caramelo Requemado",
+      "Canela",
+      "Limón",
+      "Tradicional"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "1 h 30 min a 2 h",
+    "rest_time": "Enfriado completo",
+    "temperature": "Fuego lentísimo con remoción continua",
+    "servings": "6 a 8 porciones",
+    "calories": "350 kcal por porción",
+    "diet_badges": [
+      "Vegetariano",
+      "Sin Gluten",
+      "Repostería Tradicional Asturiana"
+    ],
+    "image": "arroz_con_leche_asturiano.jpg",
+    "url": "r/340-arroz-con-leche-asturiano.html",
+    "published": "2026-10-29T03:45:00-03:00",
+    "story": "El arroz con leche es el postre cumbre de la gastronomía asturiana, distinguido de cualquier otra versión del mundo por su cocción extremadamente lenta (cerca de dos horas a fuego casi imperceptible) y su textura final, que no es un arroz con caldo lácteo, sino una crema aterciopelada y untuosa similar a una crema pastelera donde el grano casi se funde. La leche entera de vacas asturianas se emulsiona con el almidón del arroz mediante el batido continuo con cuchara de madera, finalizando con manteca fresca y el sello inconfundible del Principado: una capa generosa de azúcar espolvoreada en la superficie y requemada al momento con un hierro candente o soplete, creando una costra de caramelo crujiente y tostada que contrasta con la frescura fría de la crema inferior.",
+    "ingredient_groups": [
+      {
+        "name": "Infusión y Arroz",
+        "items": [
+          "200 g de arroz de grano redondo (tipo Bomba o grano corto)",
+          "2 litros de leche entera fresca de máxima calidad",
+          "200 ml de agua filtrada",
+          "1 rama de canela en rama partida",
+          "Piel de 1 limón fresco (sin nada de albedo blanco)",
+          "1 pizca de sal marina fina"
+        ]
+      },
+      {
+        "name": "Endulzado, Manteca y Costra Requemada",
+        "items": [
+          "220 g de azúcar común (agregado estrictamente al final)",
+          "50 g de manteca sin sal fría en cubos",
+          "1 cda. de anís dulce o licor de manzana (opcional tradicional asturiano)",
+          "Azúcar común extra para espolvorear y quemar la superficie"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Apertura del Grano e Infusión Láctea",
+        "steps": [
+          "En una cazuela amplia colocar el arroz con los 200 ml de agua y la pizca de sal a fuego medio; hervir hasta que el arroz absorba toda el agua (este proceso rompe el grano y facilita la salida del almidón).",
+          "En otra olla calentar la leche entera con la rama de canela y la piel de limón hasta que esté bien caliente sin hervir.",
+          "Comenzar a verter la leche caliente sobre el arroz en tandas de dos cucharones, revolviendo continuamente con cuchara de madera."
+        ]
+      },
+      {
+        "name": "2. Cocción Lenta y Mantecatura",
+        "steps": [
+          "Bajar el fuego al mínimo absoluto; el arroz debe cocinarse en un murmullo suave durante hora y media a dos horas, añadiendo más leche caliente a medida que se absorba.",
+          "Revolver de forma regular dibujando ochos en el fondo de la olla para que el grano suelte su almidón creando una emulsión cremosa.",
+          "Cuando el arroz esté casi deshecho y sumamente cremoso, retirar la canela y la piel de limón.",
+          "Añadir el azúcar y los cubos de manteca fría (junto con el chorrito de anís si se usa); revolver durante diez minutos más a fuego suave para que el azúcar se disuelva y caramelice ligeramente sin quemarse."
+        ]
+      },
+      {
+        "name": "3. Enfriado y Costra de Azúcar Requemado",
+        "steps": [
+          "Volcar el arroz con leche en fuentes individuales de barro o cerámica; dejar enfriar por completo a temperatura ambiente y luego refrigerar.",
+          "Justo antes de llevar a la mesa, cubrir la superficie de cada cazuela con una capa uniforme de azúcar común.",
+          "Aplicar un quemador de hierro candente al rojo vivo o soplete de cocina hasta que el azúcar se funda y adquiera un color ámbar oscuro crocante y caramelizado.",
+          "Servir inmediatamente para romper la costra dura con la cuchara al comer."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "El azúcar siempre al final: Si agregás el azúcar al principio, el grano de arroz se cristaliza y queda duro en el centro, y además la leche se quemará en el fondo de la cazuela.",
+      "La manteca al final: El agregado de manteca fuera del fuego aporta un brillo satinado y una sedosidad única característica de los restaurantes de aldea asturianos."
+    ],
+    "notes": "El postre más ovacionado de la gastronomía del norte de España."
+  },
+  {
+    "id": 341,
+    "title": "Frixuelos Tradicionales Asturianos — Crepes Finos y Suaves con Aroma a Limón y Anís (Asturias)",
+    "original_title": "Frixuelos Tradicionales de Carnaval (Antroxu) Asturiano",
+    "country": "España",
+    "category": "Postres & Panadería Dulce",
+    "tags": [
+      "España",
+      "Asturias",
+      "Frixuelos",
+      "Crepes",
+      "Antroxu",
+      "Carnaval",
+      "Dulce",
+      "Merienda",
+      "Tradicional"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "20 min",
+    "rest_time": "30 min de reposo de la masa",
+    "temperature": "Sartén bien caliente engrasada con tocino o manteca",
+    "servings": "6 porciones (12 a 15 frixuelos)",
+    "calories": "160 kcal por unidad",
+    "diet_badges": [
+      "Vegetariano",
+      "Dulce Tradicional de Antroxu"
+    ],
+    "image": "frixuelos_asturianos.jpg",
+    "url": "r/341-frixuelos-asturianos.html",
+    "published": "2026-10-29T03:50:00-03:00",
+    "story": "Los frixuelos (o fayuelos) son el dulce más popular y festivo de Asturias, protagonista indiscutible del Antroxu (el carnaval asturiano) y las meriendas de invierno. Primos hermanos de las filloas gallegas y los crepes bretones, su masa líquida y sedosa se elabora batiendo huevos de aldea con harina fina, leche entera, un toque de azúcar, ralladura de limón y el infaltable chorrito de anís dulce. Se fríen en sartén bien caliente untada tradicionalmente con un trozo de tocino blanco ensartado en un tenedor (o manteca), dorándose en segundos como un encaje delicado y etéreo que se enrolla sobre sí mismo y se espolvorea con azúcar común para comer recién hecho con las manos.",
+    "ingredient_groups": [
+      {
+        "name": "Masa Fluida de Frixuelos",
+        "items": [
+          "200 g de harina de trigo 0000 tamizada",
+          "4 huevos frescos grandes",
+          "500 ml de leche entera a temperatura ambiente",
+          "2 cdas. de azúcar común",
+          "1 chorrito generoso de licor de anís dulce (aprox. 30 ml)",
+          "Ralladura fina de 1 limón fresco",
+          "1 pizca de sal marina fina",
+          "Un trozo de tocino de cerdo blanco o manteca (para engrasar la sartén)"
+        ]
+      },
+      {
+        "name": "Terminado Dulce",
+        "items": [
+          "Abundante azúcar común para espolvorear",
+          "Miel de bosque o compota de manzana asturiana (opcional para rellenar)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Elaboración y Reposo de la Masa",
+        "steps": [
+          "En un bol amplio batir los huevos con las dos cucharadas de azúcar, la sal, la ralladura de limón y el licor de anís.",
+          "Añadir la leche entera y la harina tamizada de forma gradual mientras se bate con batidor de alambre hasta lograr una masa líquida, ligera y completamente libre de grumos similar a una crema de leche fluida.",
+          "Dejar reposar la masa a temperatura ambiente durante media hora para que la harina se hidrate y pierda la tensión del batido."
+        ]
+      },
+      {
+        "name": "2. Cocción Artesanal en Sartén",
+        "steps": [
+          "Calentar una sartén antiadherente mediana a fuego medio-alto.",
+          "Engrasar ligeramente la superficie pasando el trozo de tocino blanco ensartado en un tenedor (o un trocito de manteca con papel de cocina).",
+          "Verter un cucharón pequeño de masa en el centro e inclinar la sartén con un giro rápido de muñeca para que la masa cubra todo el fondo en una capa casi transparente y bien fina.",
+          "Cocinar durante un minuto hasta que los bordes comiencen a dorarse y despegarse solos de la sartén.",
+          "Dar vuelta con una espátula o con los dedos y cocinar por la otra cara durante treinta segundos hasta que tenga pintas doradas."
+        ]
+      },
+      {
+        "name": "3. Espolvoreado y Enrollado",
+        "steps": [
+          "Retirar el frixuelo a un plato grande y espolvorear de inmediato con azúcar común mientras está caliente.",
+          "Enrollar el frixuelo sobre sí mismo formando un canelón fino y suave.",
+          "Apilar los siguientes frixuelos unos sobre otros en el plato, espolvoreando azúcar en cada capa, y servir templados."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Masa bien líquida: Si la masa te queda espesa los frixuelos saldrán gruesos como panqueques; la textura correcta debe ser muy fluida para que corra rápidamente por la sartén logrando una película fina como papel.",
+      "El tocino para engrasar: El truco campesino del tocino sin sal le aporta el punto exacto de grasa sin engrasar de más la sartén."
+    ],
+    "notes": "Ideales para comer calientes solos con azúcar o rellenos con dulce de manzana o crema pastelera."
+  },
+  {
+    "id": 342,
+    "title": "Casadielles Asturianas — Empanadillas Crujientes de Nuez, Miel y Anís (Asturias)",
+    "original_title": "Casadielles Tradicionales Fritas de Nuez y Anís",
+    "country": "España",
+    "category": "Postres & Panadería Dulce",
+    "tags": [
+      "España",
+      "Asturias",
+      "Casadielles",
+      "Nueces",
+      "Miel",
+      "Anís",
+      "Empanadillas",
+      "Postre",
+      "Antroxu",
+      "Tradicional"
+    ],
+    "prep_time": "40 min",
+    "cook_time": "15 min",
+    "rest_time": "1 h de reposo de la masa en frío",
+    "temperature": "Fritura a fuego medio-alto (170 a 175 °C)",
+    "servings": "6 a 8 porciones (12 unidades)",
+    "calories": "310 kcal por unidad",
+    "diet_badges": [
+      "Vegetariano",
+      "Repostería Típica Asturiana"
+    ],
+    "image": "casadielles_asturianas.jpg",
+    "url": "r/342-casadielles-asturianas.html",
+    "published": "2026-10-29T03:55:00-03:00",
+    "story": "Las casadielles (o casadiellas) son las empanadillas dulces más aristocráticas y festivas del Principado de Asturias, infaltables durante las celebraciones de Carnaval y las fiestas navideñas. Su origen se remonta a antiquísimas tradiciones romanas y árabes vinculadas a la recolección de las nueces de los valles asturianos en otoño. Una masa hojaldrada o quebrada enriquecida con vino blanco, manteca de vaca y aceite de oliva se estira finísima para envolver un relleno suntuoso a base de nueces molidas, miel de bosque, azúcar y un generoso chorro de anís dulce. Fritas en abundante aceite caliente hasta inflarse en una textura hojaldrada y crujiente, se espolvorean con azúcar común y ofrecen un bocado crocante que estalla con el perfume embriagador de los frutos secos y el licor.",
+    "ingredient_groups": [
+      {
+        "name": "Masa Crujiente Tradicional",
+        "items": [
+          "350 g de harina de trigo 0000 común",
+          "80 g de manteca sin sal a temperatura ambiente",
+          "50 ml de aceite de oliva virgen extra suave",
+          "50 ml de vino blanco seco",
+          "30 ml de licor de anís dulce",
+          "1 yema de huevo fresca",
+          "1/2 cdita. de sal fina",
+          "1/2 cdita. de polvo de hornear"
+        ]
+      },
+      {
+        "name": "Relleno Rústico de Nueces y Miel",
+        "items": [
+          "300 g de nueces peladas molidas rústicas (no hechas polvo, que conserven trocitos diminutos)",
+          "100 g de azúcar común",
+          "3 cdas. colmadas de miel pura de abejas",
+          "50 ml de licor de anís dulce",
+          "2 cdas. de agua tibia (si hiciera falta para amalgamar la pasta)"
+        ]
+      },
+      {
+        "name": "Fritura y Acabado",
+        "items": [
+          "Abundante aceite de girasol u oliva suave para freír",
+          "Abundante azúcar común para rebozar al salir"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Elaboración del Relleno de Nuez y Anís",
+        "steps": [
+          "En un bol mezclar las nueces molidas con el azúcar común, la miel tibia y el licor de anís dulce.",
+          "Integrar con tenedor o espátula hasta formar una pasta compacta, húmeda y maleable que mantenga su forma al presionarla con los dedos. Reservar tapada a temperatura ambiente."
+        ]
+      },
+      {
+        "name": "2. Amasado y Estirado de la Masa",
+        "steps": [
+          "En un bol grande colocar la harina tamizada con el polvo de hornear y la sal.",
+          "Añadir la manteca pomada, el aceite de oliva, el vino blanco, el anís y la yema de huevo.",
+          "Unir los ingredientes hasta obtener una masa elástica, lisa y brillante que no se pegue a la mesada. Envolver en film y dejar reposar en heladera durante una hora.",
+          "Espolvorear la mesada con harina y estirar la masa con palote muy fina, de aproximadamente uno a dos milímetros de espesor.",
+          "Cortar rectángulos de masa de unos diez centímetros de ancho por doce centímetros de largo."
+        ]
+      },
+      {
+        "name": "3. Relleno, Fritura y Rebozado",
+        "steps": [
+          "Colocar un cilindro de relleno de nuez en el centro de cada rectángulo de masa.",
+          "Humedecer los bordes con unas gotas de agua, enrollar la masa sobre el relleno cerrando como un paquetito alargado y presionar firmemente los dos extremos laterales con las púas de un tenedor para sellar el cierre.",
+          "Calentar abundante aceite en una sartén honda a fuego medio-alto.",
+          "Freír las casadielles por tandas de tres o cuatro unidades durante dos a tres minutos, bañándolas con el aceite caliente hasta que la masa se infle en pequeñas ampollas hojaldradas y dore por todos lados.",
+          "Retirar con espumadera, escurrir brevemente sobre papel de cocina y hacer rodar inmediatamente por un plato hondo con azúcar común mientras estén calientes para que el azúcar quede adherido.",
+          "Dejar entibiar antes de servir para disfrutar el crujido exterior y el corazón perfumado de nuez."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "El molido de la nuez: No tritures la nuez en procesadora hasta hacerla harina grasosa; debe tener textura de arenilla con tropezones pequeños para que morder la casadiella sea una fiesta crujiente.",
+      "Sellado con tenedor: Apretá bien los extremos con el tenedor humedecido; si la empanadilla se abre en el aceite caliente, la miel caramelizará y quemará el aceite."
+    ],
+    "notes": "Se conservan en lata hermética durante más de diez días manteniendo su textura crujiente y aroma a fiesta asturiana."
   }
 ]
