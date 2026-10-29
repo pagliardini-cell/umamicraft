@@ -21046,5 +21046,123 @@
     "image": "focaccia_genovese.jpg",
     "url": "https://umamicraft.vercel.app/receta/focaccia-genovese-clasica-sin-amasado-italia",
     "published": "2026-10-27T23:00:00-03:00"
+  },
+  {
+    "id": 305,
+    "title": "Sake Casero Tradicional — Licor de Arroz Japonés (Japón)",
+    "original_title": "Sake Casero Tradicional — Nihonshu (Japón)",
+    "country": "Japón",
+    "category": "Cocktails & Bebidas",
+    "tags": [
+      "Japón",
+      "Sake",
+      "Nihonshu",
+      "Fermentación",
+      "Arroz",
+      "Koji",
+      "Bebidas",
+      "Artesanal",
+      "Tradicional",
+      "Izakaya",
+      "Sin Gluten"
+    ],
+    "prep_time": "1 hora y 15 min (remojo y vapor inicial)",
+    "cook_time": "50 min (cocción al vapor) + 5 min (pasteurización)",
+    "rest_time": "20 días de fermentación a 15 °C + 72 horas de decantación en frío",
+    "temperature": "15 °C (fermentación) / 60 °C (pasteurización)",
+    "servings": "2 botellas (aprox. 1,6 a 1,8 litros / 12 a 16 copas)",
+    "calories": "135 kcal por copa (100 ml)",
+    "diet_badges": [
+      "Vegano",
+      "Vegetariano",
+      "Sin Gluten",
+      "Sin Lácteos"
+    ],
+    "image": "sake_artesanal_japones.jpg",
+    "url": "https://umamicraft.vercel.app/receta/sake-casero-tradicional-licor-de-arroz-japones-japon",
+    "published": "2026-10-28T23:15:00-03:00",
+    "story": "El sake (conocido formalmente en Japón como Nihonshu) es una de las bebidas fermentadas más antiguas, nobles y fascinantes de la civilización humana. Sus orígenes míticos se remontan al siglo III a.C. con el 'kuchikamisake', un ritual sintoísta donde doncellas de los templos masticaban arroz y lo escupían en vasijas para que la enzima amilasa de la saliva transformara los almidones en azúcares fermentables. Con la domesticación milenaria del moho Koji (Aspergillus oryzae), Japón perfeccionó la 'sacarificación paralela múltiple': un fenómeno biológico único donde el hongo convierte el almidón en azúcar mientras la levadura convierte ese azúcar en alcohol de manera simultánea en el mismo mosto. En las tabernas tradicionales izakayas, el sake nunca se bebe en soledad: se comparte desde jarras de cerámica tokkuri hacia pequeños cuencos ochoko, sirviendo siempre al prójimo al grito festivo de ¡Kanpai!",
+    "ingredient_groups": [
+      {
+        "name": "Base de Arroz y Fermentación",
+        "items": [
+          "1 kg de arroz de grano corto (estilo sushi, idealmente de grano pulido)",
+          "250 g de arroz Koji (Aspergillus oryzae, inoculado listo)",
+          "2 litros de agua mineral o filtrada (sin cloro)"
+        ]
+      },
+      {
+        "name": "Levadura y Agentes de Control",
+        "items": [
+          "10 g de levadura (levadura fresca/seca de panadero, o levadura para sake/vino blanco)",
+          "1 g de nutriente para levadura (complejo vitamínico con nitrógeno y minerales)",
+          "Unas gotas de ácido láctico grado alimentario (para calibrar pH entre 3.5 y 4.1)"
+        ]
+      },
+      {
+        "name": "Equipamiento de Elaboración",
+        "items": [
+          "Fermentador de vidrio o damajuana de 4 a 5 litros con boca ancha",
+          "Bolsa o lienzo de malla fina (para prensar y separar el moromi)",
+          "Termómetro digital y tiras o medidor de pH",
+          "Botellas de vidrio con tapón hermético resistentes al calor"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Lavado, Remojo y Cocción al Vapor del Arroz",
+        "steps": [
+          "Lavar el arroz en un bol amplio bajo agua fría, frotando suavemente con movimientos circulares para remover el exceso de almidón superficial y posibles impurezas. Enjuagar varias veces hasta que el agua salga prácticamente transparente.",
+          "Dejar el arroz en remojo con agua limpia durante 1 hora para que cada grano absorba la humedad necesaria sin romperse.",
+          "Escurrir el arroz descartando el agua de remojo. Disponer una olla grande con agua en la base y colocar un colador metálico o vaporera encima, cuidando que el arroz no toque el agua hirviendo.",
+          "Extender el arroz de manera uniforme sobre la vaporera, tapar con firmeza y cocinar al vapor a fuego medio-alto durante 50 minutos, hasta que el grano quede translúcido, cocido y elástico al morder pero firme por fuera."
+        ]
+      },
+      {
+        "name": "Enfriado y Armado del Mosto (Moromi)",
+        "steps": [
+          "Volcar el arroz cocido al vapor en una bandeja limpia y abrirlo con una espátula para acelerar su enfriamiento. Controlar con un termómetro hasta que la temperatura baje por debajo de los 40 °C (idealmente entre 35 °C y 38 °C) para evitar desnaturalizar las enzimas del koji.",
+          "Desinfectar minuciosamente el fermentador de vidrio y todos los utensilios a utilizar con alcohol al 70% o solución desinfectante.",
+          "Colocar en el fermentador el arroz al vapor ya tibio, el agua filtrada y el arroz koji (sin cocer).",
+          "Hidratar la levadura en un cuenco con un poco de agua tibia. Medir el pH del líquido en el fermentador y agregar gotas de ácido láctico hasta situarlo en un rango ácido protector de 3.5 a 4.1. Incorporar la levadura disuelta y el nutriente para levadura."
+        ]
+      },
+      {
+        "name": "Fermentación Paralela Múltiple",
+        "steps": [
+          "Mezclar suavemente con una cuchara larga esterilizada para integrar el arroz, el koji y la levadura.",
+          "Colocar una gasa o lienzo de muselina limpio entre la boca del fermentador y la tapa, dejándola apenas apoyada o floja para permitir que los gases de dióxido de carbono escapen libremente sin que entre oxígeno exterior ni bacterias.",
+          "Llevar el fermentador a un ambiente oscuro y fresco, a una temperatura constante de aproximadamente 15 °C. Dejar fermentar durante 20 días en total, observando la formación natural de las tres capas características a medida que el koji transforma el almidón en azúcares y la levadura genera el alcohol simultáneamente."
+        ]
+      },
+      {
+        "name": "Filtrado, Prensado y Separación del Sakekasu",
+        "steps": [
+          "Finalizado el período de fermentación, sanitizar una bolsa de malla fina y colocarla sobre el embudo o boca de un recipiente limpio.",
+          "Volcar todo el contenido del mosto (moromi). Dejar que escurra primero el líquido libre por gravedad sin presionar (la fracción fresca y viva conocida como arabashiri).",
+          "Prensar suavemente la bolsa con las manos limpias para extraer la fracción central equilibrada (nakadori), deteniéndose antes de exprimir en exceso la masa.",
+          "Retirar la pasta blanca sólida restante dentro de la bolsa: este es el valioso sakekasu, que debe guardarse en un frasco hermético en la heladera para su uso culinario en marinados o sopas."
+        ]
+      },
+      {
+        "name": "Decantación en Frío (Cold Crash) y Trasiego",
+        "steps": [
+          "Juntar las fracciones líquidas en un recipiente de vidrio limpio, tapar y colocar en la heladera a 2-4 °C durante 72 horas para que todas las micropartículas en suspensión precipiten al fondo.",
+          "Realizar un trasiego cuidadoso volcando lentamente el sake clarificado a botellas limpias, interrumpiendo el flujo apenas el sedimento blanco del fondo comience a moverse."
+        ]
+      },
+      {
+        "name": "Pasteurización (Hi-ire) y Reposo",
+        "steps": [
+          "Colocar un paño o rejilla en el fondo de una olla honda para evitar el contacto directo del vidrio con el calor. Acomodar las botellas de sake destapadas y llenar la olla con agua hasta el cuello de las botellas.",
+          "Llevar a fuego suave controlando la temperatura con un termómetro hasta alcanzar los 60 °C. En ese instante exacto, cerrar herméticamente las botellas con sus tapones, apagar el fuego y dejar reposar 5 minutos en el agua caliente.",
+          "Retirar las botellas con cuidado y dejarlas enfriar a temperatura ambiente durante al menos 2 horas antes de refrigerar, para evitar roturas por shock térmico.",
+          "Servir bien frío (a 10-12 °C) en copas o en jarrita tradicional tokkuri con vasitos ochoko, o bien atemperado a baño María a 40 °C durante los meses fríos. ¡Kanpai!"
+        ]
+      }
+    ],
+    "chef_tips": "El arroz debe cocinarse SIEMPRE al vapor, jamás hervido en agua: hervirlo lo volvería una papilla pastosa que asfixiaría la fermentación; al vapor el grano queda elástico por fuera y firme al centro, permitiendo que las hifas del moho koji colonicen el almidón de manera progresiva. La ventana de temperatura al inocular es estricta: nunca agregues el koji ni la levadura si el arroz supera los 40 °C, pues destruirías las enzimas amilasas al instante. Durante la pasteurización (Hi-ire), vigila que el agua no sobrepase los 60 a 65 °C: hervir el sake arruinaría sus ésteres frutales y evaporaría el alcohol, mientras que 60 °C bastan para inactivar las enzimas residuales y estabilizar la bebida para que dure meses sin avinagrarse.",
+    "notes": "¡No deseches la pasta blanca restante del prensado (Sakekasu)! En la alta cocina japonesa es un tesoro umami sumamente cotizado: utilízala para marinar salmón, bacalao o cerdo antes de hornear (Kasuzuke), sumarla a sopas de miso (Kasujiru) o enriquecer masas de pan. Una vez abierta la botella de sake, consérvala en la heladera y disfrútala dentro de los primeros 7 días para apreciar su máxima pureza aromática."
   }
 ]
