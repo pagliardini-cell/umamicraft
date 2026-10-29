@@ -844,6 +844,9 @@
       opacity: 0.75;
       transition: all 0.15s ease;
       font-family: inherit;
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
     }
     .modal-lang-btn:hover, .modal-lang-btn.active {
       opacity: 1;
@@ -861,7 +864,7 @@
       cursor: pointer;
       display: inline-flex;
       align-items: center;
-      gap: 5px;
+      gap: 6px;
       transition: all 0.15s ease;
       font-family: inherit;
     }
@@ -869,6 +872,35 @@
       background: var(--primary);
       color: #fff;
       border-color: var(--primary);
+    }
+
+    .unit-toggle {
+      display: inline-flex;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      padding: 2px;
+      gap: 2px;
+    }
+    .unit-btn {
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      font-size: 0.74rem;
+      font-weight: 700;
+      padding: 4px 9px;
+      border-radius: 999px;
+      cursor: pointer;
+      transition: all 0.15s ease;
+      font-family: inherit;
+    }
+    .unit-btn:hover {
+      color: var(--text);
+    }
+    .unit-btn.active {
+      background: var(--primary);
+      color: #fff;
+      box-shadow: 0 2px 6px rgba(194, 65, 12, 0.25);
     }
 
     .modal-close {
@@ -1639,9 +1671,9 @@
 
       <div class="nav-actions">
         <div class="lang-switcher notranslate" translate="no">
-          <button class="lang-btn active" id="btnLangEs" onclick="changeLanguage('es')" title="Español"><img src="https://flagcdn.com/w40/es.png" class="flag-img-sm" alt="ES"> ES</button>
-          <button class="lang-btn" id="btnLangEn" onclick="changeLanguage('en')" title="English"><img src="https://flagcdn.com/w40/us.png" class="flag-img-sm" alt="EN"> EN</button>
-          <button class="lang-btn" id="btnLangPt" onclick="changeLanguage('pt')" title="Português"><img src="https://flagcdn.com/w40/br.png" class="flag-img-sm" alt="PT"> PT</button>
+          <button class="lang-btn active notranslate" translate="no" id="btnLangEs" onclick="changeLanguage('es')" title="Español"><svg class="svg-flag" viewBox="0 0 32 32" width="15" height="15" style="border-radius:50%; vertical-align:middle; display:inline-block; flex-shrink:0;" aria-hidden="true"><circle cx="16" cy="16" r="16" fill="#c60b1e"/><rect x="0" y="8" width="32" height="16" fill="#ffc400"/><circle cx="10" cy="16" r="2.5" fill="#c60b1e"/></svg> ES</button>
+          <button class="lang-btn notranslate" translate="no" id="btnLangEn" onclick="changeLanguage('en')" title="English"><svg class="svg-flag" viewBox="0 0 32 32" width="15" height="15" style="border-radius:50%; vertical-align:middle; display:inline-block; flex-shrink:0;" aria-hidden="true"><circle cx="16" cy="16" r="16" fill="#fff"/><path d="M0 0h32v32H0z" fill="#bd3d44"/><path stroke="#fff" stroke-width="2.5" d="M0 3.7h32M0 8.6h32M0 13.5h32M0 18.5h32M0 23.4h32M0 28.3h32"/><path fill="#192f5d" d="M0 0h16v16H0z"/><circle cx="5" cy="5" r="1" fill="#fff"/><circle cx="11" cy="5" r="1" fill="#fff"/><circle cx="8" cy="8" r="1" fill="#fff"/><circle cx="5" cy="11" r="1" fill="#fff"/><circle cx="11" cy="11" r="1" fill="#fff"/></svg> EN</button>
+          <button class="lang-btn notranslate" translate="no" id="btnLangPt" onclick="changeLanguage('pt')" title="Português"><svg class="svg-flag" viewBox="0 0 32 32" width="15" height="15" style="border-radius:50%; vertical-align:middle; display:inline-block; flex-shrink:0;" aria-hidden="true"><circle cx="16" cy="16" r="16" fill="#009c3b"/><polygon points="16,4 29,16 16,28 3,16" fill="#ffdf00"/><circle cx="16" cy="16" r="6" fill="#002776"/><path d="M10.5 15.5 Q16 13.5 21.5 17" stroke="#fff" stroke-width="1.2" fill="none"/></svg> PT</button>
         </div>
         <button class="btn-nav" onclick="openRandomRecipe()" title="Abrir una receta al azar">🎲 Sorpréndeme</button>
         <button class="btn-nav" onclick="shareSiteModal()" title="Difundir en WhatsApp y redes"><span style="color:#22c55e;">📢</span> Difundir</button>
@@ -1736,10 +1768,10 @@
             <button class="modal-action-btn" onclick="pinCurrentRecipe()" style="background:rgba(230,0,35,0.85); border-color:#e60023;" title="Guardar Pin de esta receta en Pinterest"><span style="font-size:15px;">📌</span> Pin</button>
             <button class="modal-action-btn" onclick="shareCurrentRecipe()"><span style="color:#22c55e;">📲</span> Compartir</button>
             <button class="modal-action-btn" onclick="window.print()">🖨️ Imprimir / PDF</button>
-            <div class="modal-lang-selector" style="display:inline-flex; align-items:center; background:rgba(20,18,16,0.85); border:1px solid rgba(255,255,255,0.22); border-radius:999px; padding:2px 4px; backdrop-filter:blur(6px); gap:3px;" title="Cambiar idioma de la receta">
-              <button type="button" class="modal-lang-btn" id="modalLangEs" onclick="changeLanguage('es')">🇪🇸 ES</button>
-              <button type="button" class="modal-lang-btn" id="modalLangEn" onclick="changeLanguage('en')">🇺🇸 EN</button>
-              <button type="button" class="modal-lang-btn" id="modalLangPt" onclick="changeLanguage('pt')">🇧🇷 PT</button>
+            <div class="modal-lang-selector notranslate" translate="no" style="display:inline-flex; align-items:center; background:rgba(20,18,16,0.85); border:1px solid rgba(255,255,255,0.22); border-radius:999px; padding:2px 4px; backdrop-filter:blur(6px); gap:3px;" title="Cambiar idioma de la receta">
+              <button type="button" class="modal-lang-btn notranslate" translate="no" id="modalLangEs" onclick="changeLanguage('es')"><svg class="svg-flag" viewBox="0 0 32 32" width="15" height="15" style="border-radius:50%; vertical-align:middle; display:inline-block; flex-shrink:0;" aria-hidden="true"><circle cx="16" cy="16" r="16" fill="#c60b1e"/><rect x="0" y="8" width="32" height="16" fill="#ffc400"/><circle cx="10" cy="16" r="2.5" fill="#c60b1e"/></svg> ES</button>
+              <button type="button" class="modal-lang-btn notranslate" translate="no" id="modalLangEn" onclick="changeLanguage('en')"><svg class="svg-flag" viewBox="0 0 32 32" width="15" height="15" style="border-radius:50%; vertical-align:middle; display:inline-block; flex-shrink:0;" aria-hidden="true"><circle cx="16" cy="16" r="16" fill="#fff"/><path d="M0 0h32v32H0z" fill="#bd3d44"/><path stroke="#fff" stroke-width="2.5" d="M0 3.7h32M0 8.6h32M0 13.5h32M0 18.5h32M0 23.4h32M0 28.3h32"/><path fill="#192f5d" d="M0 0h16v16H0z"/><circle cx="5" cy="5" r="1" fill="#fff"/><circle cx="11" cy="5" r="1" fill="#fff"/><circle cx="8" cy="8" r="1" fill="#fff"/><circle cx="5" cy="11" r="1" fill="#fff"/><circle cx="11" cy="11" r="1" fill="#fff"/></svg> EN</button>
+              <button type="button" class="modal-lang-btn notranslate" translate="no" id="modalLangPt" onclick="changeLanguage('pt')"><svg class="svg-flag" viewBox="0 0 32 32" width="15" height="15" style="border-radius:50%; vertical-align:middle; display:inline-block; flex-shrink:0;" aria-hidden="true"><circle cx="16" cy="16" r="16" fill="#009c3b"/><polygon points="16,4 29,16 16,28 3,16" fill="#ffdf00"/><circle cx="16" cy="16" r="6" fill="#002776"/><path d="M10.5 15.5 Q16 13.5 21.5 17" stroke="#fff" stroke-width="1.2" fill="none"/></svg> PT</button>
             </div>
           </div>
           <button class="modal-close" onclick="closeModal()">✕</button>
@@ -1753,14 +1785,14 @@
 
       <div class="modal-content-inner">
         <!-- Selector rápido de idioma dentro de la receta -->
-        <div class="modal-lang-bar" style="display:flex; justify-content:space-between; align-items:center; background:var(--bg); border:1px solid var(--border); border-radius:12px; padding:8px 14px; margin-bottom:20px; flex-wrap:wrap; gap:8px;">
+        <div class="modal-lang-bar notranslate" translate="no" style="display:flex; justify-content:space-between; align-items:center; background:var(--bg); border:1px solid var(--border); border-radius:12px; padding:8px 14px; margin-bottom:20px; flex-wrap:wrap; gap:8px;">
           <span style="font-size:0.82rem; font-weight:700; color:var(--text-muted); display:inline-flex; align-items:center; gap:6px;">
             🌐 Idioma de la Receta / Language:
           </span>
           <div style="display:inline-flex; gap:6px;">
-            <button type="button" class="modal-lang-pill" id="pillLangEs" onclick="changeLanguage('es')">🇪🇸 Español</button>
-            <button type="button" class="modal-lang-pill" id="pillLangEn" onclick="changeLanguage('en')">🇺🇸 English</button>
-            <button type="button" class="modal-lang-pill" id="pillLangPt" onclick="changeLanguage('pt')">🇧🇷 Português</button>
+            <button type="button" class="modal-lang-pill notranslate" translate="no" id="pillLangEs" onclick="changeLanguage('es')"><svg class="svg-flag" viewBox="0 0 32 32" width="16" height="16" style="border-radius:50%; vertical-align:middle; display:inline-block; flex-shrink:0;" aria-hidden="true"><circle cx="16" cy="16" r="16" fill="#c60b1e"/><rect x="0" y="8" width="32" height="16" fill="#ffc400"/><circle cx="10" cy="16" r="2.5" fill="#c60b1e"/></svg> Español</button>
+            <button type="button" class="modal-lang-pill notranslate" translate="no" id="pillLangEn" onclick="changeLanguage('en')"><svg class="svg-flag" viewBox="0 0 32 32" width="16" height="16" style="border-radius:50%; vertical-align:middle; display:inline-block; flex-shrink:0;" aria-hidden="true"><circle cx="16" cy="16" r="16" fill="#fff"/><path d="M0 0h32v32H0z" fill="#bd3d44"/><path stroke="#fff" stroke-width="2.5" d="M0 3.7h32M0 8.6h32M0 13.5h32M0 18.5h32M0 23.4h32M0 28.3h32"/><path fill="#192f5d" d="M0 0h16v16H0z"/><circle cx="5" cy="5" r="1" fill="#fff"/><circle cx="11" cy="5" r="1" fill="#fff"/><circle cx="8" cy="8" r="1" fill="#fff"/><circle cx="5" cy="11" r="1" fill="#fff"/><circle cx="11" cy="11" r="1" fill="#fff"/></svg> English</button>
+            <button type="button" class="modal-lang-pill notranslate" translate="no" id="pillLangPt" onclick="changeLanguage('pt')"><svg class="svg-flag" viewBox="0 0 32 32" width="16" height="16" style="border-radius:50%; vertical-align:middle; display:inline-block; flex-shrink:0;" aria-hidden="true"><circle cx="16" cy="16" r="16" fill="#009c3b"/><polygon points="16,4 29,16 16,28 3,16" fill="#ffdf00"/><circle cx="16" cy="16" r="6" fill="#002776"/><path d="M10.5 15.5 Q16 13.5 21.5 17" stroke="#fff" stroke-width="1.2" fill="none"/></svg> Português</button>
           </div>
         </div>
 
@@ -1774,7 +1806,11 @@
           <div>
             <div class="section-title" style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:8px;">
               <span>🛒 Ingredientes</span>
-              <div style="display:inline-flex; align-items:center; gap:8px;">
+              <div style="display:inline-flex; align-items:center; gap:8px; flex-wrap:wrap;">
+                <div class="unit-toggle notranslate" translate="no" title="Cambiar sistema de medidas (Métrico / Imperial)">
+                  <button type="button" class="unit-btn active" id="unitBtnMetric" onclick="setUnitSystem('metric')" title="Sistema Métrico (gramos, mililitros)">📏 Métrico (g / ml)</button>
+                  <button type="button" class="unit-btn" id="unitBtnImperial" onclick="setUnitSystem('imperial')" title="Sistema Imperial Americano (onzas, libras, tazas)">🇺🇸 Imperial (oz / cups)</button>
+                </div>
                 <div class="servings-control" id="servingsControl" title="Escalador dinámico de raciones">
                   <button type="button" class="servings-btn" onclick="adjustServings(-1)" title="Reducir raciones">−</button>
                   <span id="servingsDisplay" class="servings-val">4 porciones</span>
@@ -2127,13 +2163,13 @@
     function getCountryFlagImg(country) {
       const code = COUNTRY_FLAGS[country];
       if (code) {
-        return `<img src="https://flagcdn.com/w40/${code}.png" srcset="https://flagcdn.com/w80/${code}.png 2x" width="18" height="13" alt="${country}" class="flag-img">`;
+        return `<img src="https://flagcdn.com/w40/${code}.png" srcset="https://flagcdn.com/w80/${code}.png 2x" width="18" height="13" alt="${country}" class="flag-img notranslate" translate="no">`;
       }
-      return '🌍';
+      return '<span class="notranslate" translate="no">🌍</span>';
     }
 
     function getCountryBadgeHtml(country) {
-      return `${getCountryFlagImg(country)} ${country}`;
+      return `<span class="notranslate" translate="no" style="display:inline-flex; align-items:center; gap:4px;">${getCountryFlagImg(country)} ${country}</span>`;
     }
 
     function getCountry(r) { return r.country || r.region || 'Internacional'; }
@@ -2572,6 +2608,79 @@
       }
     }
 
+    let currentUnitSystem = localStorage.getItem('umamicraft_unit_system') || 'metric';
+
+    function setUnitSystem(sys) {
+      currentUnitSystem = sys;
+      localStorage.setItem('umamicraft_unit_system', sys);
+      updateUnitButtonsUI();
+      renderScaledIngredients();
+    }
+
+    function updateUnitButtonsUI() {
+      const isImp = currentUnitSystem === 'imperial';
+      const btnM = document.getElementById('unitBtnMetric');
+      const btnI = document.getElementById('unitBtnImperial');
+      if (btnM) btnM.classList.toggle('active', !isImp);
+      if (btnI) btnI.classList.toggle('active', isImp);
+    }
+
+    function convertToImperial(text) {
+      if (!text) return text;
+      // Grams
+      text = text.replace(/(\b\d+(?:[\.,]\d+)?)\s*(?:g|gr|gramos)\b/gi, (match, num) => {
+        const val = parseFloat(num.replace(',', '.'));
+        if (isNaN(val)) return match;
+        if (val >= 450) {
+          const lb = Math.round((val / 453.592) * 10) / 10;
+          return `${lb} lb (${Math.round(val)} g)`;
+        } else {
+          const oz = Math.round((val / 28.3495) * 10) / 10;
+          const ozStr = (oz % 1 === 0) ? String(oz) : oz.toString().replace('.', ',');
+          return `${ozStr} oz (${Math.round(val)} g)`;
+        }
+      });
+      // Kilograms
+      text = text.replace(/(\b\d+(?:[\.,]\d+)?)\s*(?:kg|kilos|kilo|kilogramos)\b/gi, (match, num) => {
+        const val = parseFloat(num.replace(',', '.'));
+        if (isNaN(val)) return match;
+        const lb = Math.round((val * 2.20462) * 10) / 10;
+        const lbStr = (lb % 1 === 0) ? String(lb) : lb.toString().replace('.', ',');
+        return `${lbStr} lb (${num} kg)`;
+      });
+      // Milliliters / CC
+      text = text.replace(/(\b\d+(?:[\.,]\d+)?)\s*(?:ml|cc|mililitros)\b/gi, (match, num) => {
+        const val = parseFloat(num.replace(',', '.'));
+        if (isNaN(val)) return match;
+        if (val >= 220) {
+          let cups = Math.round((val / 240) * 10) / 10;
+          let cupsStr = Math.abs(val - 240) < 25 ? '1 cup' : Math.abs(val - 480) < 35 ? '2 cups' : `${cups} cups`;
+          return `${cupsStr} (${Math.round(val)} ml)`;
+        } else if (val >= 110 && val <= 135) {
+          return `1/2 cup (${Math.round(val)} ml)`;
+        } else if (val >= 55 && val <= 70) {
+          return `1/4 cup (${Math.round(val)} ml)`;
+        } else if (val >= 14) {
+          const tbsp = Math.round((val / 15) * 10) / 10;
+          const tbspStr = (tbsp % 1 === 0) ? String(tbsp) : tbsp.toString().replace('.', ',');
+          return `${tbspStr} tbsp (${Math.round(val)} ml)`;
+        } else {
+          const tsp = Math.round((val / 5) * 10) / 10;
+          const tspStr = (tsp % 1 === 0) ? String(tsp) : tsp.toString().replace('.', ',');
+          return `${tspStr} tsp (${Math.round(val)} ml)`;
+        }
+      });
+      // Liters
+      text = text.replace(/(\b\d+(?:[\.,]\d+)?)\s*(?:l|lt|litros?)\b/gi, (match, num) => {
+        const val = parseFloat(num.replace(',', '.'));
+        if (isNaN(val)) return match;
+        const qt = Math.round((val * 1.05669) * 10) / 10;
+        const qtStr = (qt % 1 === 0) ? String(qt) : qt.toString().replace('.', ',');
+        return `${qtStr} qt (${num} L)`;
+      });
+      return text;
+    }
+
     function renderScaledIngredients() {
       const r = recipes.find(x => x.id === currentModalRecipeId);
       if (!r) return;
@@ -2603,12 +2712,13 @@
               itemText = String(item || '');
             }
             const scaledText = scaleIngredientText(itemText, multiplier);
-            const safeScaled = scaledText.replace(/'/g, "\\'").replace(/"/g, '&quot;');
+            const displayText = currentUnitSystem === 'imperial' ? convertToImperial(scaledText) : scaledText;
+            const safeScaled = displayText.replace(/'/g, "\\'").replace(/"/g, '&quot;');
             const safeTitle = (r.title || '').replace(/'/g, "\\'").replace(/"/g, '&quot;');
             return `
               <li class="ingredient-item ${isChecked ? 'checked' : ''}" id="ing-item-${idx}" onclick="toggleIngCheck(${idx})">
                 <div class="ing-check">✓</div>
-                <span style="flex-grow:1;">${scaledText}</span>
+                <span style="flex-grow:1;">${displayText}</span>
                 <button type="button" class="ing-add-cart-btn" onclick="event.stopPropagation(); addSingleIngredientToShoppingList('${safeScaled}', '${safeTitle}')" title="Agregar solo este ingrediente a mi lista de compras">🛒+</button>
               </li>
             `;
@@ -2791,6 +2901,7 @@
       document.getElementById('modalStory').textContent = r.story || '';
       updateModalFavButton(id);
       updateModalLangUI(currentLang || 'es');
+      updateUnitButtonsUI();
 
       const badgesHtml = [
         `<span class="modal-meta-pill">${getCountryBadgeHtml(country)}</span>`,

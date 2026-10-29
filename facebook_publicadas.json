@@ -1,11 +1,5 @@
 [
   {
-    "receta_id": 304,
-    "facebook_post_id": "122099190021527681",
-    "fecha_registro": "2026-10-28T17:24:02.425924",
-    "programada_para": null
-  },
-  {
     "receta_id": 1,
     "facebook_post_id": "122099195835527681",
     "fecha_registro": "2026-10-28T17:31:59.159195",
@@ -96,21 +90,9 @@
     "programada_para": null
   },
   {
-    "receta_id": 15,
-    "facebook_post_id": "122099214207527681",
-    "fecha_registro": "2026-10-28T17:59:27.477280",
-    "programada_para": null
-  },
-  {
     "receta_id": 16,
     "facebook_post_id": "122099214381527681",
     "fecha_registro": "2026-10-28T17:59:44.098196",
-    "programada_para": null
-  },
-  {
-    "receta_id": 16,
-    "facebook_post_id": "122099214393527681",
-    "fecha_registro": "2026-10-28T17:59:49.338349",
     "programada_para": null
   },
   {
@@ -120,21 +102,9 @@
     "programada_para": null
   },
   {
-    "receta_id": 17,
-    "facebook_post_id": "122099215053527681",
-    "fecha_registro": "2026-10-28T18:00:03.270238",
-    "programada_para": null
-  },
-  {
     "receta_id": 18,
     "facebook_post_id": "122099215365527681",
     "fecha_registro": "2026-10-28T18:00:16.682353",
-    "programada_para": null
-  },
-  {
-    "receta_id": 18,
-    "facebook_post_id": "122099215521527681",
-    "fecha_registro": "2026-10-28T18:00:16.971127",
     "programada_para": null
   },
   {
@@ -144,21 +114,9 @@
     "programada_para": null
   },
   {
-    "receta_id": 19,
-    "facebook_post_id": "122099215941527681",
-    "fecha_registro": "2026-10-28T18:00:37.920995",
-    "programada_para": null
-  },
-  {
     "receta_id": 20,
     "facebook_post_id": "122099216427527681",
     "fecha_registro": "2026-10-28T18:00:49.335611",
-    "programada_para": null
-  },
-  {
-    "receta_id": 20,
-    "facebook_post_id": "122099216493527681",
-    "fecha_registro": "2026-10-28T18:00:51.902875",
     "programada_para": null
   },
   {
@@ -243,6 +201,198 @@
     "receta_id": 34,
     "facebook_post_id": "122099254881527681",
     "fecha_registro": "2026-10-28T19:31:57.525477",
+    "programada_para": null
+  },
+  {
+    "receta_id": 35,
+    "facebook_post_id": "122099264889527681",
+    "fecha_registro": "2026-10-28T19:56:17.572212",
+    "programada_para": null
+  },
+  {
+    "receta_id": 36,
+    "facebook_post_id": "122099269683527681",
+    "fecha_registro": "2026-10-28T20:12:01.493568",
+    "programada_para": null
+  },
+  {
+    "receta_id": 37,
+    "facebook_post_id": "122099269845527681",
+    "fecha_registro": "2026-10-28T20:12:14.070643",
+    "programada_para": null
+  },
+  {
+    "receta_id": 38,
+    "facebook_post_id": "122099270037527681",
+    "fecha_registro": "2026-10-28T20:12:26.520326",
+    "programada_para": null
+  },
+  {
+    "receta_id": 39,
+    "facebook_post_id": "122099270217527681",
+    "fecha_registro": "2026-10-28T20:12:38.733471",
+    "programada_para": null
+  },
+  {
+    "receta_id": 40,
+    "facebook_post_id": "122099270367527681",
+    "fecha_registro": "2026-10-28T20:12:50.706237",
+    "programada_para": null
+  },
+  {
+    "receta_id": 41,
+    "facebook_post_id": "122099270625527681",
+    "fecha_registro": "2026-10-28T20:13:03.535611",
+    "programada_para": null
+  },
+  {
+    "receta_id": 42,
+    "facebook_post_id": "122099270829527681",
+    "fecha_registro": "2026-10-28T20:13:16.239448",
+    "programada_para": null
+  },
+  {
+    "receta_id": 43,
+    "facebook_post_id": "122099271333527681",
+    "fecha_registro": "2026-10-28T20:13:28.986433",
+    "programada_para": null
+  },
+  {
+    "receta_id": 44,
+    "facebook_post_id": "122099271897527681",
+    "fecha_registro": "2026-10-28T20:13:43.632476",
+    "programada_para": null
+  },
+  {
+    "receta_id": 45,
+    "facebook_post_id": "122099272317527681",
+    "fecha_registro": "2026-10-28T20:13:55.791774",
+    "programada_para": null
+  },
+  {
+    "receta_id": 46,
+    "facebook_post_id": "122099310669527681",
+    "fecha_registro": "2026-10-28T22:09:09.694133",
+    "programada_para": null
+  },
+  {
+    "receta_id": 47,
+    "facebook_post_id": "122099310783527681",
+    "fecha_registro": "2026-10-28T22:09:26.559757",
+    "programada_para": null
+  },
+  {
+    "receta_id": 48,
+    "facebook_post_id": "122099310933527681",
+    "fecha_registro": "2026-10-28T22:09:43.416069",
+    "programada_para": null
+  },
+  {
+    "receta_id": 49,
+    "facebook_post_id": "122099311065527681",
+    "fecha_registro": "2026-10-28T22:09:59.553006",
+    "programada_para": null
+  },
+  {
+    "receta_id": 50,
+    "facebook_post_id": "122099311239527681",
+    "fecha_registro": "2026-10-28T22:10:15.927925",
+    "programada_para": null
+  },
+  {
+    "receta_id": 51,
+    "facebook_post_id": "122099311563527681",
+    "fecha_registro": "2026-10-28T22:10:33.439243",
+    "programada_para": null
+  },
+  {
+    "receta_id": 52,
+    "facebook_post_id": "122099315301527681",
+    "fecha_registro": "2026-10-28T22:15:13.653523",
+    "programada_para": null
+  },
+  {
+    "receta_id": 53,
+    "facebook_post_id": "122099311707527681",
+    "fecha_registro": "2026-10-28T22:11:02.159802",
+    "programada_para": null
+  },
+  {
+    "receta_id": 54,
+    "facebook_post_id": "122099311857527681",
+    "fecha_registro": "2026-10-28T22:11:18.542060",
+    "programada_para": null
+  },
+  {
+    "receta_id": 55,
+    "facebook_post_id": "122099312199527681",
+    "fecha_registro": "2026-10-28T22:11:35.834886",
+    "programada_para": null
+  },
+  {
+    "receta_id": 304,
+    "facebook_post_id": "122099190021527681",
+    "fecha_registro": "2026-10-28T17:24:02.425924",
+    "programada_para": null
+  },
+  {
+    "receta_id": 56,
+    "facebook_post_id": "122099324037527681",
+    "fecha_registro": "2026-10-28T22:34:44.085821",
+    "programada_para": null
+  },
+  {
+    "receta_id": 57,
+    "facebook_post_id": "122099324241527681",
+    "fecha_registro": "2026-10-28T22:35:01.156952",
+    "programada_para": null
+  },
+  {
+    "receta_id": 58,
+    "facebook_post_id": "122099324499527681",
+    "fecha_registro": "2026-10-28T22:35:18.490368",
+    "programada_para": null
+  },
+  {
+    "receta_id": 59,
+    "facebook_post_id": "122099324907527681",
+    "fecha_registro": "2026-10-28T22:35:36.853582",
+    "programada_para": null
+  },
+  {
+    "receta_id": 60,
+    "facebook_post_id": "122099325129527681",
+    "fecha_registro": "2026-10-28T22:35:56.174422",
+    "programada_para": null
+  },
+  {
+    "receta_id": 61,
+    "facebook_post_id": "122099325537527681",
+    "fecha_registro": "2026-10-28T22:36:12.625706",
+    "programada_para": null
+  },
+  {
+    "receta_id": 62,
+    "facebook_post_id": "122099325897527681",
+    "fecha_registro": "2026-10-28T22:36:32.021566",
+    "programada_para": null
+  },
+  {
+    "receta_id": 63,
+    "facebook_post_id": "122099326059527681",
+    "fecha_registro": "2026-10-28T22:36:49.590416",
+    "programada_para": null
+  },
+  {
+    "receta_id": 64,
+    "facebook_post_id": "122099326395527681",
+    "fecha_registro": "2026-10-28T22:37:08.309867",
+    "programada_para": null
+  },
+  {
+    "receta_id": 65,
+    "facebook_post_id": "122099326611527681",
+    "fecha_registro": "2026-10-28T22:37:28.398274",
     "programada_para": null
   }
 ]

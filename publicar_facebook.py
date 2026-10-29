@@ -203,15 +203,26 @@ def publicar_en_facebook(receta, config, scheduled_timestamp=None, dry_run=False
         return None
         
     endpoint = f"https://graph.facebook.com/v21.0/{page_id}/photos"
-    
-    if is_url:
-        data_dict = {"url": imagen_str, "caption": caption, "access_token": token}
-        if scheduled_timestamp:
-            data_dict["published"] = "false"
-            data_dict["scheduled_publish_time"] = str(int(scheduled_timestamp))
-        payload = urllib.parse.urlencode(data_dict).encode("utf-8")
-        req = urllib.request.Request(endpoint, data=payload)
-    elif has_local:
+
+    img_bytes = None
+    filename = f"recipe_{receta_id}.jpg"
+
+    if has_local:
+        try:
+            with open(ruta_local, "rb") as img_f:
+                img_bytes = img_f.read()
+                filename = os.path.basename(ruta_local)
+        except Exception:
+            img_bytes = None
+    elif is_url:
+        try:
+            req_img = urllib.request.Request(imagen_str, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"})
+            with urllib.request.urlopen(req_img, timeout=15) as img_resp:
+                img_bytes = img_resp.read()
+        except Exception:
+            img_bytes = None
+
+    if img_bytes:
         boundary = "----UmamiCraftBoundary" + str(int(time.time()))
         body = bytearray()
         fields = {"caption": caption, "access_token": token}
@@ -222,17 +233,21 @@ def publicar_en_facebook(receta, config, scheduled_timestamp=None, dry_run=False
             body.extend(f"--{boundary}\r\n".encode("utf-8"))
             body.extend(f'Content-Disposition: form-data; name="{k}"\r\n\r\n'.encode("utf-8"))
             body.extend(f"{v}\r\n".encode("utf-8"))
-        filename = os.path.basename(ruta_local)
-        content_type = "image/jpeg" if filename.lower().endswith((".jpg", ".jpeg")) else "image/png"
-        with open(ruta_local, "rb") as img_f:
-            body.extend(f"--{boundary}\r\n".encode("utf-8"))
-            body.extend(f'Content-Disposition: form-data; name="source"; filename="{filename}"\r\n'.encode("utf-8"))
-            body.extend(f"Content-Type: {content_type}\r\n\r\n".encode("utf-8"))
-            body.extend(img_f.read())
-            body.extend(b"\r\n")
+        body.extend(f"--{boundary}\r\n".encode("utf-8"))
+        body.extend(f'Content-Disposition: form-data; name="source"; filename="{filename}"\r\n'.encode("utf-8"))
+        body.extend(b"Content-Type: image/jpeg\r\n\r\n")
+        body.extend(img_bytes)
+        body.extend(b"\r\n")
         body.extend(f"--{boundary}--\r\n".encode("utf-8"))
         req = urllib.request.Request(endpoint, data=body)
         req.add_header("Content-Type", f"multipart/form-data; boundary={boundary}")
+    elif is_url:
+        data_dict = {"url": imagen_str, "caption": caption, "access_token": token}
+        if scheduled_timestamp:
+            data_dict["published"] = "false"
+            data_dict["scheduled_publish_time"] = str(int(scheduled_timestamp))
+        payload = urllib.parse.urlencode(data_dict).encode("utf-8")
+        req = urllib.request.Request(endpoint, data=payload)
     else:
         feed_endpoint = f"https://graph.facebook.com/v21.0/{page_id}/feed"
         data_dict = {"message": caption, "access_token": token}
