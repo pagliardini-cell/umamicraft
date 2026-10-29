@@ -21489,5 +21489,312 @@
     ],
     "chef_tips": "El secreto legendario de la Patata Roja de Sompiano: Gracias a su cultivo en las laderas minerales de Borgo Pace, esta variedad concentra un porcentaje altísimo de almidón y casi nada de agua. Cocínalas siempre con piel (preferiblemente al horno sobre sal gruesa o al vapor), y aplástalas en caliente para que el vapor escape. Al no requerir exceso de harina, los gnocchis resultan suaves como nubes sin perder consistencia al hervir.",
     "notes": "Receta tradicional de la fracción de Sompiano, Borgo Pace (Pésaro y Urbino, Las Marcas). Si no consigues jabalí, este ragù rústico es igualmente glorioso preparado con paleta de cerdo de campo o carne de ternera estofada con las setas porcini."
+  },
+  {
+    "id": 309,
+    "title": "Culurgiones Tradicionales de Cerdeña (Italia)",
+    "original_title": "Culurgionis d'Ogliastra IGP con Patate, Menta e Pecorino (Sardegna, Italia)",
+    "country": "Italia",
+    "category": "Pastas & Salsas Tradicionales",
+    "tags": [
+      "Italia",
+      "Cerdeña",
+      "Sardegna",
+      "Ogliastra",
+      "Culurgiones",
+      "Pasta Rellena",
+      "Pecorino",
+      "Menta",
+      "Patatas",
+      "Tradicional",
+      "Vegetariano"
+    ],
+    "prep_time": "45 min (armado y repulgue a espiga)",
+    "cook_time": "4 a 5 min (hervido) + 20 min (salsa de tomate)",
+    "rest_time": "30 min (reposo de la masa)",
+    "temperature": "Hervor suave y constante",
+    "servings": "4 porciones (24 a 28 culurgiones)",
+    "calories": "460 kcal aprox. por porción",
+    "diet_badges": [
+      "Vegetariano"
+    ],
+    "image": "culurgiones_ogliastra.jpg",
+    "url": "https://umamicraft.vercel.app/receta/culurgiones-tradicionales-de-cerdena-italia",
+    "published": "2026-10-28T23:55:00-03:00",
+    "story": "En las montañas escarpadas y ancestrales de la comarca de Ogliastra, en el este de Cerdeña, los Culurgiones (o Culurgionis) nacieron como un ritual sagrado de agradecimiento a la tierra y protección para el hogar. Tradicionalmente preparados a finales de julio para celebrar la culminación de la cosecha del trigo y en noviembre como tributo a los difuntos, su rasgo más poético y célebre es el cierre manual en forma de espiga de trigo (sa spighitta), un repulgue artístico que se trenza de izquierda a derecha para ahuyentar la escasez y augurar fertilidad. A diferencia de las pastas norteñas, su masa no lleva huevo (solo sémola de trigo duro rimacinata, agua y un toque de manteca) y su relleno es único en el Mediterráneo: patatas harinosas de montaña, queso de oveja Pecorino Sardo añejo y una explosión balsámica de hojas de menta fresca picada que refresca el paladar de manera inolvidable.",
+    "ingredient_groups": [
+      {
+        "name": "Masa Sarda de Sémola de Trigo Duro (Sa Pasta)",
+        "items": [
+          "300 g de sémola de trigo duro rimacinata (semolín fino)",
+          "100 g de harina de trigo 00",
+          "15 g de manteca de cerdo (o 1 cucharada de aceite de oliva virgen extra)",
+          "180 a 200 ml de agua tibia",
+          "1 cucharadita de sal fina"
+        ]
+      },
+      {
+        "name": "Relleno Tradicional de Ogliastra (Su Pisti)",
+        "items": [
+          "600 g de patatas harinosas (rojas o blancas ricas en almidón)",
+          "120 g de queso Pecorino Sardo curado (añejo y salado), rallado fino",
+          "50 g de queso Pecorino fresco sardo (o queso curado en salmuera Casu 'e fitta)",
+          "1 manojo generoso de hojas de menta fresca, lavadas, secas y finamente picadas",
+          "2 dientes de ajo, aplastados",
+          "4 cucharadas de aceite de oliva virgen extra (para aromatizar)",
+          "Pimienta negra recién molida y 1 pizca de nuez moscada"
+        ]
+      },
+      {
+        "name": "Servicio al Pomodoro Fresco y Pecorino",
+        "items": [
+          "500 g de passata o tomates pelados triturados de calidad",
+          "2 cucharadas de aceite de oliva virgen extra",
+          "1 diente de ajo entero",
+          "Unas hojas de albahaca fresca",
+          "Abundante queso Pecorino Sardo rallado para espolvorear"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Elaboración de la Masa Elástica",
+        "steps": [
+          "En un bol amplio o sobre la mesada, combinar la sémola rimacinata y la harina con la sal. Disolver la manteca en el agua tibia e ir volcándola en el centro de los secos.",
+          "Amasar enérgicamente durante unos 10 minutos hasta obtener un bollo suave, liso, compacto y elástico que no se pegue a las manos. Envolver en film transparente y dejar reposar 30 minutos a temperatura ambiente para relajar el gluten."
+        ]
+      },
+      {
+        "name": "Preparación del Relleno de Patata, Menta y Pecorino",
+        "steps": [
+          "Hervir las patatas enteras con piel en abundante agua con sal hasta que estén completamente tiernas. Pelarlas aún calientes y pasarlas de inmediato por el pasapurés sobre un recipiente grande.",
+          "En una sartencita, calentar el aceite de oliva virgen extra con los dientes de ajo aplastados a fuego suave durante 2 a 3 minutos para que liberen su fragancia; retirar los ajos y desechar.",
+          "Verter el aceite perfumado sobre el puré de patatas caliente. Incorporar el Pecorino curado rallado, el queso fresco desmenuzado, la menta fresca picada y un toque de pimienta negra.",
+          "Mezclar con cuchara o con las manos hasta lograr una pasta compacta, homogénea y muy aromática. Dejar enfriar por completo en la heladera para que tome consistencia firme al armar."
+        ]
+      },
+      {
+        "name": "Estirado y Repulgue Tradicional a Espiga (Sa Spighitta)",
+        "steps": [
+          "Estirar la masa de sémola con máquina de pasta o palo de amasar hasta dejarla fina (aproximadamente 1 a 1,5 mm de espesor). Cortar discos redondos de unos 8 a 9 cm de diámetro con un cortapastas.",
+          "Tomar un disco en la palma de la mano y colocar en el centro una porción generosa de relleno moldeada en forma de cilindro u óvalo.",
+          "Realizar el mítico cierre a espiga: doblar la base del disco hacia adentro y pellizcar alternativamente un borde de masa hacia la izquierda y otro hacia la derecha, superponiéndolos de forma continua hacia el centro mientras se avanza hacia la punta superior, encerrando el relleno en una trenza en relieve idéntica a una espiga de trigo.",
+          "Al llegar al extremo superior, presionar con firmeza y replegar la colita de masa para sellar herméticamente. Acomodar los culurgiones sobre bandejas espolvoreadas con sémola."
+        ]
+      },
+      {
+        "name": "Cocción y Emplatado Sardo",
+        "steps": [
+          "En una sartén amplia, dorar el diente de ajo en el aceite de oliva, incorporar el tomate triturado, una pizca de sal y las hojas de albahaca; cocinar a fuego medio durante 15 a 20 minutos hasta lograr una salsa sabrosa y brillante.",
+          "Hervir abundante agua con sal en una cacerola grande. Echar los culurgiones con cuidado: cocinarlos durante 4 a 5 minutos (cuando suben a flote, dejarlos 1 a 2 minutos más para que la masa de sémola quede al dente).",
+          "Retirar con espumadera y disponer un espejo de salsa de tomate tibia en platos hondos. Colocar los culurgiones por encima y coronar con abundante Pecorino Sardo recién rallado y hojitas de albahaca fresca. Servir de inmediato."
+        ]
+      }
+    ],
+    "chef_tips": "El reposo del relleno es fundamental: prepararlo con unas horas de antelación o el día previo permite que los almidones de la patata absorban los aceites esenciales de la menta fresca y la salinidad del pecorino. La masa no debe quedar excesivamente delgada como un raviolo del norte; al ser de sémola de trigo duro necesita cuerpo suficiente para sostener los pliegues de la espiga sin romperse al hervir.",
+    "notes": "Especialidad con indicación geográfica protegida (Culurgionis d'Ogliastra IGP). Si prefieres disfrutarlos como en los pueblos del interior sardo, puedes omitir la salsa de tomate y servirlos simplemente salteados en manteca derretida con hojas de salvia fresca y abundante pecorino (in bianco)."
+  },
+  {
+    "id": 310,
+    "title": "Necci della Garfagnana con Ricotta y Miel (Italia)",
+    "original_title": "Necci della Garfagnana con Ricotta di Pecora — Tradizione di Villa Collemandina (Toscana, Italia)",
+    "country": "Italia",
+    "category": "Postres & Dulces Tradicionales",
+    "tags": [
+      "Italia",
+      "Toscana",
+      "Garfagnana",
+      "Villa Collemandina",
+      "Lucca",
+      "Castañas",
+      "Necci",
+      "Ricotta",
+      "Sin Gluten",
+      "Tradicional",
+      "Vegetariano",
+      "Postres"
+    ],
+    "prep_time": "15 min (tamizado y batido)",
+    "cook_time": "10 a 12 min",
+    "rest_time": "20 min (reposo de la masa)",
+    "temperature": "Fuego medio-bajo en sartén de crepes o hierro",
+    "servings": "4 porciones (8 necci enrollados)",
+    "calories": "280 kcal aprox. por porción",
+    "diet_badges": [
+      "Vegetariano",
+      "Sin Gluten"
+    ],
+    "image": "necci_garfagnana_villa_collemandina.jpg",
+    "url": "https://umamicraft.vercel.app/receta/necci-della-garfagnana-con-ricotta-y-miel-italia",
+    "published": "2026-10-29T00:05:00-03:00",
+    "story": "Elevada sobre los valles boscosos del Parque Nacional de los Apeninos toscanos, Villa Collemandina custodia una de las tradiciones gastronómicas más antiguas, nobles y conmovedoras de Italia. Durante siglos, en los duros inviernos de la Garfagnana el trigo era un lujo inalcanzable; el árbol de castaño fue el verdadero guardián de la vida, venerado como 'l'albero del pane' (el árbol del pan). Las familias recolectaban las castañas en otoño, las secaban lentamente sobre humo de leña en los metati de piedra y las molían al agua para obtener la milenaria Farina di Neccio DOP. Con esa harina dulzona y agua pura de manantial, las abuelas de Villa Collemandina preparaban los Necci, cocinándolos tradicionalmente en la chimenea entre dos planchas circulares de hierro caliente al rojo vivo llamadas testi, separadas con hojas de castaño humedecidas. Recién salidos del fuego, se rellenaban con ricotta tibia de oveja de las colinas y miel de montaña, enrollándose como un abrazo dulce, reconfortante y lleno de memoria familiar.",
+    "ingredient_groups": [
+      {
+        "name": "Masa Tradicional de Necci de Castañas",
+        "items": [
+          "250 g de harina dulce de castañas (Farina di Neccio della Garfagnana DOP)",
+          "300 a 350 ml de agua fresca a temperatura ambiente (o agua mineral con gas)",
+          "1 pizca de sal marina fina",
+          "1 cucharadita de aceite de oliva virgen extra (o manteca de cerdo / strutto para la sartén)"
+        ]
+      },
+      {
+        "name": "Relleno Cremoso de Montaña",
+        "items": [
+          "350 g de ricotta fresca de oveja (ricotta di pecora), bien escurrida",
+          "2 a 3 cucharadas de miel de castaño (miele di castagno) o miel de acacia silvestre",
+          "1 pizca sutil de canela molida o ralladura fina de limón (opcional)",
+          "40 g de nueces de los Apeninos picadas (opcional, para dar textura crocante)"
+        ]
+      },
+      {
+        "name": "Para el Servido Rústico",
+        "items": [
+          "Hilos de miel de montaña extra para bañar por encima",
+          "Castañas asadas o enteras para acompañar la mesa"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación de la Masa de Castañas",
+        "steps": [
+          "Tamizar la harina de castañas a través de un colador fino sobre un bol grande para desarmar los grumos naturales generados por sus azúcares y aceites esenciales.",
+          "Añadir la sal marina. Ir vertiendo el agua poco a poco en el centro mientras se bate con un batidor manual de alambre, hasta obtener una masa fluida, aterciopelada y homogénea, similar a la consistencia de una masa de crepes ligeros.",
+          "Dejar reposar la masa durante 20 minutos a temperatura ambiente para que el almidón de la castaña se hidrate y adquiera cuerpo."
+        ]
+      },
+      {
+        "name": "Elaboración del Relleno de Ricotta",
+        "steps": [
+          "En un cuenco aparte, pisar la ricotta de oveja escurrida con un tenedor o batidor hasta que quede suave, sedosa y libre de grumos.",
+          "Incorporar la miel y la pizca de canela, integrando suavemente con movimientos envolventes. Reservar a temperatura ambiente para que mantenga su textura cremosa y untuosa."
+        ]
+      },
+      {
+        "name": "Cocción Tradicional a la Sartén",
+        "steps": [
+          "Calentar a fuego medio una sartén antiadherente para crepes o una sartén de hierro fundido. Pincelar apenas la superficie con un hilo de aceite de oliva virgen extra (o un trocito de manteca de cerdo con papel de cocina).",
+          "Verter un cucharón de masa en el centro de la sartén caliente y hacerla girar rápidamente para distribuirla en una capa fina y pareja de unos 15 a 18 cm de diámetro.",
+          "Cocinar durante 1 minuto y medio a 2 minutos a fuego medio-bajo: cuando los bordes comiencen a despegarse y la superficie cambie de color, dar vuelta con una espátula con un movimiento rápido y suave.",
+          "Cocinar por el otro lado durante 1 minuto más hasta que presente manchitas doradas típicas y esté cocido pero tierno y flexible. Retirar y reservar sobre un plato cubierto con un paño limpio para mantenerlo tibio y elástico. Repetir hasta terminar la masa."
+        ]
+      },
+      {
+        "name": "Relleno y Enrollado al Estilo de Villa Collemandina",
+        "steps": [
+          "Tomar cada neccio aún tibio y colocar en el centro una generosa franja longitudinal de la crema de ricotta de oveja.",
+          "Enrollar el neccio sobre sí mismo formando un cilindro apretado (como un canelón rústico), dejando los extremos abiertos para que asome la ricotta blanca.",
+          "Disponerlos en platos de cerámica campesina, rociar por encima con un hilo generoso de miel de montaña y servir de inmediato mientras aún conservan la tibieza reconfortante de la cocción."
+        ]
+      }
+    ],
+    "chef_tips": "El tamizado es sagrado: la harina de castañas es densa y dulce; tamizarla es imprescindible para no encontrar grumos secos en la masa. Sin azúcar añadido: la auténtica Farina di Neccio es naturalmente dulce gracias al secado lento sobre brasas en los metati de piedra. La versión salada histórica: antiguamente en la Garfagnana, los necci también se comían como pan salado enrollados con una feta de panceta curada (pancetta arrotolata) o con el típico biroldo de Lucca; el contraste entre el dulzor de la castaña y la grasa salada del cerdo es extraordinario.",
+    "notes": "Especialidad tradicional de Villa Collemandina (Garfagnana, provincia de Lucca, Toscana). Al estar elaborada exclusivamente con harina pura de castañas y agua, es una receta naturalmente libre de gluten (gluten-free) y apta para celíacos."
+  },
+  {
+    "id": 311,
+    "title": "Pita od Jabuka — Tarta Yugoslava de Manzana y Canela (Balcanes)",
+    "original_title": "Prhka Pita od Jabuka / Lenja Pita (Ex Yugoslavia / Balcanes)",
+    "country": "Balcanes",
+    "category": "Postres & Dulces Tradicionales",
+    "tags": [
+      "Balcanes",
+      "Yugoslavia",
+      "Manzana",
+      "Canela",
+      "Tarta",
+      "Pita",
+      "Postres",
+      "Dulces",
+      "Pastelería",
+      "Tradicional",
+      "Vegetariano"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "40 a 45 min",
+    "rest_time": "30 min en heladera (para la masa) + enfriado completo",
+    "temperature": "180 °C (horno medio)",
+    "servings": "1 bandeja mediana (12 a 16 cuadrados generosos)",
+    "calories": "260 kcal por porción",
+    "diet_badges": [
+      "Vegetariano"
+    ],
+    "image": "pita_od_jabuka.jpg",
+    "url": "https://umamicraft.vercel.app/receta/pita-od-jabuka-tarta-yugoslava-de-manzana-y-canela-balcanes",
+    "published": "2026-10-29T00:10:00-03:00",
+    "story": "En la memoria entrañable de los barrios de inmigrantes, pocas cosas despiertan tanta nostalgia como el aroma a manzanas horneadas, manteca y canela saliendo de la cocina de una vecina yugoslava. La 'Pita od Jabuka' (conocida también como 'Lenja Pita' o 'Prhka Pita') es la quintaesencia de la pastelería casera de los Balcanes: una tarta noble, delicada y reconfortante que no utiliza masa de hojaldre ni filo, sino una masa quebrada tierna y arenosa (prhko tijesto) enriquecida con crema agria y perfumada con ralladura de limón. Entre dos capas de esta masa que se deshace en la boca, se encierra un relleno opulento de manzanas ácidas ralladas grueso, especiadas con canela, azúcar y pasas al ron. Servida siempre cortada en prolijos cuadrados y nevada con abundante azúcar impalpable (šećer u prahu), encarna la hospitalidad balcánica donde compartir un pedazo de tarta era sellar un lazo de amistad para siempre.",
+    "ingredient_groups": [
+      {
+        "name": "Masa Quebrada Tierna Balcánica (Prhko Tijesto)",
+        "items": [
+          "400 g de harina de trigo 000",
+          "200 g de manteca fría en cubos (o mitad manteca y mitad grasa de cerdo refinada)",
+          "100 g de azúcar común",
+          "1 sobre de azúcar vainillado (o 1 cucharadita de extracto de vainilla)",
+          "1 huevo de campo",
+          "2 cucharadas de crema agria o crema de leche espesa",
+          "1 cucharadita de polvo para hornear",
+          "Ralladura fina de 1 limón",
+          "1 pizca de sal fina"
+        ]
+      },
+      {
+        "name": "Relleno Aromático de Manzanas Especiadas",
+        "items": [
+          "1,2 kg de manzanas ácidas y firmes (tipo Granny Smith o Idared), peladas y ralladas grueso",
+          "80 g de azúcar (ajustable según la acidez natural de la manzana)",
+          "2 cucharaditas de canela molida de Ceilán",
+          "3 cucharadas de sémola fina de trigo o pan rallado (griz, absorbe los jugos)",
+          "50 g de pasas de uva remojadas en 1 cucharada de ron (opcional clásico)",
+          "Jugo de 1/2 limón fresco"
+        ]
+      },
+      {
+        "name": "Para el Acabado Nevado",
+        "items": [
+          "Abundante azúcar impalpable (šećer u prahu) con un toque de vainilla para espolvorear"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación de la Masa Quebrada (Prhko Tijesto)",
+        "steps": [
+          "En un bol grande tamizar la harina con el polvo para hornear y la pizca de sal. Agregar el azúcar común, el azúcar vainillado y la ralladura de limón.",
+          "Incorporar la manteca fría cortada en cubitos pequeños. Desmenuzar rápidamente con la punta de los dedos o un estribo pastelero hasta obtener un arenado fino y suelto, sin calentar la grasa.",
+          "Agregar el huevo y la crema agria. Unir los ingredientes rápidamente con las manos sin amasar en exceso, solo hasta que la masa se compacte en un bollo tierno y maleable.",
+          "Dividir la masa en dos partes iguales (aproximadamente una mitad ligeramente mayor para la base). Envolver en film transparente y llevar a la heladera durante 30 minutos para que tome firmeza."
+        ]
+      },
+      {
+        "name": "Relleno Jugoso de Manzanas y Canela",
+        "steps": [
+          "Pelar las manzanas y rallarlas con la parte gruesa del rallador. Colocarlas en un bol con el jugo de limón para evitar la oxidación.",
+          "En una cacerola amplia, cocinar las manzanas ralladas junto con el azúcar a fuego medio durante 5 a 8 minutos, revolviendo suavemente para que evaporen parte de sus líquidos naturales sin volverse papilla.",
+          "Retirar del fuego e incorporar la canela molida, las pasas escurridas y la sémola fina de trigo (que absorberá los jugos restantes durante el horneado). Mezclar y dejar entibiar."
+        ]
+      },
+      {
+        "name": "Armado en Capas y Horneado Dorado",
+        "steps": [
+          "Precalentar el horno a 180 °C (fuego medio). Enmantecar y enharinar una bandeja rectangular para horno de unos 20 x 30 cm.",
+          "Estirar la mitad mayor de la masa sobre papel manteca o mesada ligeramente enharinada con un palo de amasar, hasta lograr una plancha fina del tamaño de la bandeja. Acomodar la masa en la base del molde cubriendo parejo el fondo.",
+          "Distribuir el relleno tibio de manzanas sobre la masa emparejando la superficie con una espátula.",
+          "Estirar la segunda porción de masa y colocarla con cuidado cubriendo todo el relleno de manzana. Pinchar toda la superficie con un tenedor para permitir la salida del vapor durante la cocción.",
+          "Llevar al horno caliente a 180 °C y hornear durante 40 a 45 minutos, hasta que la superficie adquiera un tono marfil dorado suave y los bordes se noten ligeramente crujientes."
+        ]
+      },
+      {
+        "name": "Reposo y Corte Tradicional en Cuadrados",
+        "steps": [
+          "Retirar la tarta del horno y dejar enfriar por completo a temperatura ambiente dentro del molde (cortarla en caliente desarmaría la textura quebradiza).",
+          "Una vez bien fría, espolvorear generosamente toda la superficie con azúcar impalpable tamizada con ayuda de un colador.",
+          "Con un cuchillo bien afilado, cortar en cuadrados o rectángulos parejos y servir en una fuente limpia decorada con servilleta o blondas de encaje. ¡Un bocado que despierta los mejores recuerdos de la infancia!"
+        ]
+      }
+    ],
+    "chef_tips": "El secreto de la sémola fina (griz): Las manzanas contienen mucha agua; mezclar unas cucharadas de sémola o pan rallado fino en el relleno tibio es el truco tradicional balcánico para que la humedad no ablande la masa de la base, logrando una base crocante y mantecosa que soporta el relleno. No amasar la masa: Para que la masa quede quebradiza (prhka) y se deshaga tiernamente en la boca, úsala rápido con las manos sin frotarla demasiado, evitando desarrollar el gluten de la harina.",
+    "notes": "Postre de herencia yugoslava / balcánica. Sabe aún mejor al día siguiente, cuando las manzanas han impregnado la masa con sus jugos y aromas a canela y vainilla. Se conserva perfectamente a temperatura ambiente fresca bajo campana durante 3 a 4 días."
   }
 ]
