@@ -21164,5 +21164,112 @@
     ],
     "chef_tips": "El arroz debe cocinarse SIEMPRE al vapor, jamás hervido en agua: hervirlo lo volvería una papilla pastosa que asfixiaría la fermentación; al vapor el grano queda elástico por fuera y firme al centro, permitiendo que las hifas del moho koji colonicen el almidón de manera progresiva. La ventana de temperatura al inocular es estricta: nunca agregues el koji ni la levadura si el arroz supera los 40 °C, pues destruirías las enzimas amilasas al instante. Durante la pasteurización (Hi-ire), vigila que el agua no sobrepase los 60 a 65 °C: hervir el sake arruinaría sus ésteres frutales y evaporaría el alcohol, mientras que 60 °C bastan para inactivar las enzimas residuales y estabilizar la bebida para que dure meses sin avinagrarse.",
     "notes": "¡No deseches la pasta blanca restante del prensado (Sakekasu)! En la alta cocina japonesa es un tesoro umami sumamente cotizado: utilízala para marinar salmón, bacalao o cerdo antes de hornear (Kasuzuke), sumarla a sopas de miso (Kasujiru) o enriquecer masas de pan. Una vez abierta la botella de sake, consérvala en la heladera y disfrútala dentro de los primeros 7 días para apreciar su máxima pureza aromática."
+  },
+  {
+    "id": 306,
+    "title": "Salteado «Dos Inviernos» con Cerdo — Liǎng Dōng (China)",
+    "original_title": "Liǎng Dōng Chǎo Ròupiàn — 两冬炒肉片 (Jiangnan, China)",
+    "country": "China",
+    "category": "Salteados & Wok",
+    "tags": [
+      "China",
+      "Wok",
+      "Salteado",
+      "Cerdo",
+      "Bambú",
+      "Shiitake",
+      "Hongos",
+      "Umami",
+      "Jiangnan",
+      "Alto en Proteína",
+      "Tradicional"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "6 a 8 min",
+    "rest_time": "15 min (marinado terciopelo)",
+    "temperature": "Fuego muy vivo / Wok humeante",
+    "servings": "3 a 4 porciones",
+    "calories": "360 kcal aprox. por porción",
+    "diet_badges": [
+      "Alto en Proteína",
+      "Sin Lácteos"
+    ],
+    "image": "salteado_dos_inviernos.jpg",
+    "url": "https://umamicraft.vercel.app/receta/salteado-dos-inviernos-con-cerdo-liang-dong-china",
+    "published": "2026-10-28T23:25:00-03:00",
+    "story": "En la refinada cocina de la región de Jiangnan (Zhejiang y Shanghái), Liǎng Dōng (两冬 - 'Dos Inviernos') es una de las combinaciones más poéticas y respetadas de la gastronomía china. Su nombre celebra la unión de los dos grandes tesoros que la tierra regala en el pico del invierno: los brotes subterráneos de bambú (Dōngsǔn 冬笋), célebres por su dulzor y textura crujiente inconfundible, y las setas carnosas de invierno (Dōnggū 冬菇 / Shiitake maduro), cargadas de una concentración de umami inigualable gracias a las heladas. En este clásico plato de banquete, ambos 'inviernos' se saltean al wok a fuego vivo con láminas de cerdo sometidas a la milenaria técnica cantonesa del terciopelo (shàngjiāng 上浆), logrando bocados increíblemente tiernos y sedosos envueltos en un glaseado brillante de soja y vino Shaoxing.",
+    "ingredient_groups": [
+      {
+        "name": "Carne de Cerdo y Marinado Terciopelo (Velveting)",
+        "items": [
+          "350 g de lomo o solomillo de cerdo, cortado en láminas finas al bies",
+          "1 cucharada de vino de arroz Shaoxing (o jerez seco)",
+          "1 cucharadita de salsa de soja clara",
+          "1 clara de huevo (o 1 cucharada de agua fría)",
+          "1 cucharada colmada de almidón de maíz (maicena)",
+          "1 cucharadita de aceite vegetal (para sellar y separar las láminas)",
+          "1 pizca de pimienta blanca molida"
+        ]
+      },
+      {
+        "name": "Los «Dos Inviernos» y Vegetales",
+        "items": [
+          "150 g de brotes de bambú de invierno (Dōngsǔn), cortados en láminas diagonales",
+          "6 a 8 setas shiitake de invierno (Dōnggū), hidratadas y laminadas",
+          "1 puñado de hongos oreja de madera (Mù'ěr), hidratados y troceados",
+          "2 dientes de ajo, finamente laminados",
+          "10 g de jengibre fresco, cortado en rodajas o bastones finos",
+          "2 tallos de cebolla de verdeo (la parte blanca cortada al bies, la verde picada para terminar)",
+          "2 cucharadas de aceite vegetal neutro (para saltear al wok)"
+        ]
+      },
+      {
+        "name": "Salsa Glaseada para el Wok",
+        "items": [
+          "2 cucharadas de salsa de soja clara",
+          "1 cucharadita de salsa de soja oscura (para aportar el laqueado dorado brillante)",
+          "1 cucharada de salsa de ostras",
+          "1/2 cucharadita de azúcar (para balancear)",
+          "1/4 cucharadita de pimienta blanca",
+          "1/2 taza de caldo de pollo ligero (o agua de remojo colada de los shiitake)",
+          "1 cucharadita de almidón de maíz (para ligar la salsa)",
+          "1 cucharadita de aceite de sésamo tostado (toque aromático final)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Técnica de Terciopelo del Cerdo (Shàngjiāng)",
+        "steps": [
+          "Cortar el cerdo en láminas bien finas transversalmente a la fibra. Colocarlo en un bol y masajear con el vino Shaoxing, la salsa de soja y la pimienta blanca hasta que la carne absorba todo el líquido.",
+          "Incorporar la clara de huevo y mezclar con energía. Añadir el almidón de maíz asegurando que cada lámina quede envuelta en una fina película sedosa. Rematar con un hilo de aceite para evitar que se peguen al entrar al wok y dejar reposar 15 minutos."
+        ]
+      },
+      {
+        "name": "Preparación y Blanqueado de los Vegetales",
+        "steps": [
+          "Hervir abundante agua en una cacerola pequeña con una pizca de sal. Sumergir las láminas de brote de bambú durante 2 minutos para atenuar cualquier nota amarga y fijar su crocancia. Agregar los shiitake y las orejas de madera por 1 minuto más; escurrir todo muy bien sobre un colador.",
+          "En un cuenco aparte, mezclar la salsa de soja clara, la salsa de soja oscura, la salsa de ostras, el azúcar, la pimienta blanca, el caldo de pollo y el almidón de maíz hasta que no queden grumos. Reservar junto al wok."
+        ]
+      },
+      {
+        "name": "Salteado al Wok a Fuego Vivo (Wok Hei)",
+        "steps": [
+          "Calentar el wok a fuego máximo hasta que comience a humear ligeramente. Verter el aceite vegetal haciéndolo girar por las paredes. Agregar las láminas de cerdo marinadas y saltear con movimientos rápidos separando la carne durante apenas 60 a 90 segundos, hasta que cambie de color y esté tierna pero jugosa. Retirar a un plato reservando el fondo.",
+          "En el mismo wok caliente, agregar el ajo laminado, el jengibre y la parte blanca de la cebolla de verdeo; saltear 20 segundos hasta despertar sus aromas sin dorar en exceso.",
+          "Incorporar los brotes de bambú blanqueados, los shiitake y las orejas de madera. Saltear a fuego muy vivo durante 1 a 2 minutos para que absorban el calor del wok y la grasa aromática."
+        ]
+      },
+      {
+        "name": "Glaseado Final y Emplatado",
+        "steps": [
+          "Reintegrar el cerdo salteado al wok. Remover la mezcla de salsa del cuenco y verterla alrededor de los bordes del wok para que caramelice instantáneamente.",
+          "Saltear todo junto con movimientos envolventes durante 30 a 45 segundos, hasta que la salsa espese, burbujee y cubra cada ingrediente con una laca brillante y translúcida.",
+          "Apagar el fuego, rociar con el aceite de sésamo tostado y espolvorear la cebolla de verdeo fresca picada. Servir de inmediato en cuencos tradicionales acompañado de arroz blanco al vapor."
+        ]
+      }
+    ],
+    "chef_tips": "El secreto del blanqueado del bambú: Los brotes de bambú de invierno contienen de forma natural ácido oxálico. Hervirlos brevemente durante 2 minutos antes de saltearlos elimina por completo cualquier aspereza en boca y los deja irresistiblemente tiernos y crujientes (cuì 脆). El terciopelo (Velveting) es el secreto de los restaurantes chinos para que el cerdo nunca quede seco ni duro: la maicena y la clara forman una barrera protectora que retiene todos los jugos internos de la carne ante el calor violento del wok. Ten todo listo antes de encender el fuego: el tiempo de cocción real no supera los 5 minutos, así que mantén la carne marinada, los vegetales blanqueados y la salsa ligada al alcance de la mano (mise en place) antes de empezar.",
+    "notes": "Si deseas una versión 100% vegetariana o budista tradicional (Zhai), puedes reemplazar el lomo de cerdo por gluten de trigo frito (Mianjin) o tofu firme cortado en láminas, y la salsa de ostras por salsa de hongos vegetariana. Es un plato insigne para celebrar el Año Nuevo Chino y las reuniones familiares de invierno."
   }
 ]
