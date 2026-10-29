@@ -1,0 +1,705 @@
+{
+  "lugar": "Doppelgänger Bar (Doppel Bar)",
+  "ubicacion": "Av. Juan de Garay 500 (esq. Bolívar), San Telmo, Buenos Aires, Argentina",
+  "lema": "#LASEDVERDADERA",
+  "raciones": [
+    {
+      "nombre": "Ceviche",
+      "descripcion": "Pesca del día, cebolla morada, limón, cilantro y leche de tigre. Con chips de batata y maíz cancha.",
+      "precio": "$25.000,00"
+    },
+    {
+      "nombre": "Ensalada Manhattan",
+      "descripcion": "Espinaca, albahaca, rabanito, zanahoria, cebolla morada, alcaparras, parmesano y vinagreta doppel!",
+      "precio": "$8.000,00"
+    },
+    {
+      "nombre": "Pancho",
+      "descripcion": "Salchicha alemana en pan de viena, panceta y cebolla de verdeo caramelizada con miel, pesto de cilantro. Acompañado de puré de papa cremoso.",
+      "precio": "$9.000,00"
+    },
+    {
+      "nombre": "Papa Rota",
+      "descripcion": "Con salsa secreta.",
+      "precio": "$8.000,00"
+    },
+    {
+      "nombre": "Pizza",
+      "descripcion": "Masa estilo napolitana con salsa de tomate, papas, salchicha alemana, queso muzzarela, eneldo, aceite de oliva, orégano.",
+      "precio": "$13.000,00"
+    },
+    {
+      "nombre": "Sandwich de Lomo",
+      "descripcion": "Lomo, ajo, jengibre, cebolla morada, tomate, salsa de soja y salsa de ostras. Acompañado de papas al horno y salsa huancaína.",
+      "precio": "$18.000,00"
+    },
+    {
+      "nombre": "Causa de Pollo",
+      "descripcion": "Pastel frío de papa y ají amarillo, pollo, palta, salsa huancaína, huevo rallado.",
+      "precio": "$15.000,00"
+    },
+    {
+      "nombre": "Pan de Ajo",
+      "descripcion": "Baguette rellena de manteca de ajo + queso parmesano + perejil.",
+      "precio": "$9.000,00"
+    },
+    {
+      "nombre": "Portobello Rellenos",
+      "descripcion": "De tomates cherry, espinaca salteados, panko, quesos muzzarela y parmesano gratinados.",
+      "precio": "$12.000,00"
+    },
+    {
+      "nombre": "Trio de Hummus",
+      "descripcion": "Hummus de alubia (+ pimentón y aceite de oliva) + hummus de remolacha (+ aceite de oliva) + babaganush (+ aceite de oliva) + grisines especiados.",
+      "precio": "$13.000,00"
+    },
+    {
+      "nombre": "Croquetas de Cerdo",
+      "descripcion": "Bondiola braseada con vegetales, rebozada en panko amarillo, emulsión cítrica y salsa de tomate picante.",
+      "precio": "$11.000,00"
+    },
+    {
+      "nombre": "Empanadas de Osobuco y Humita",
+      "descripcion": "2 de cada una (4 unidades en total).",
+      "precio": "$7.000,00"
+    }
+  ],
+  "postres": [
+    {
+      "nombre": "Flan de Vainilla",
+      "descripcion": "Con crema y caramelo.",
+      "precio": "$6.000,00"
+    },
+    {
+      "nombre": "Marquise de Chocolate 70%",
+      "descripcion": "Con reducción de naranjas y Campari, crema y naranjas.",
+      "precio": "$6.000,00"
+    }
+  ],
+  "cocteles_por_categoria": {
+    "RECOMENDADOS DOPPEL": [
+      {
+        "nombre": "Av Montes de Oca",
+        "ingredientes": [
+          "Tanqueray Royale",
+          "La Fuerza Sideral",
+          "Jugo de Lima",
+          "Almíbar de Sidra y Canela",
+          "Clara de Huevo",
+          "Sidra 1888"
+        ],
+        "precio": "$16.500,00"
+      },
+      {
+        "nombre": "Celebration Day",
+        "ingredientes": [
+          "Tullamore Dew",
+          "Jugo de Lima",
+          "Azúcar",
+          "Menta",
+          "Granadina",
+          "Miel de Caña",
+          "Angostura"
+        ],
+        "precio": "$16.500,00"
+      },
+      {
+        "nombre": "Old Town Road",
+        "ingredientes": [
+          "Grants Whisky",
+          "Vecchio Amaro del Capo",
+          "La Fuerza Blanco",
+          "Sidra 1888",
+          "Bitter Angostura",
+          "Rodaja de Lima"
+        ],
+        "precio": "$18.500,00"
+      },
+      {
+        "nombre": "Petalo de Sal",
+        "ingredientes": [
+          "Pisco Calavera",
+          "Pimms",
+          "Jugo de Pomelo",
+          "Apricot Brandy Golden Age",
+          "Gaseosa Lima Limón",
+          "Coronado con Sal de Zanahoria"
+        ],
+        "precio": "$14.500,00"
+      },
+      {
+        "nombre": "Tonico Moltisanti",
+        "ingredientes": [
+          "Gancia",
+          "La Fuerza Primavera",
+          "Cordial de Lima y Lavanda",
+          "Mermelada de Naranja",
+          "Agua Tónica",
+          "Encurtido de Zanahoria"
+        ],
+        "precio": "$14.500,00"
+      },
+      {
+        "nombre": "Torbellino A Mi",
+        "ingredientes": [
+          "Campari",
+          "Malamado Viognier",
+          "Bulleit",
+          "Almíbar de Sidra y Canela",
+          "Miel de Caña",
+          "Espumante",
+          "Rodaja de Pomelo"
+        ],
+        "precio": "$18.500,00"
+      },
+      {
+        "nombre": "Un Ozzy Osbourne, Please",
+        "ingredientes": [
+          "Johnnie Walker Black Label",
+          "Reducción de Cerveza Negra",
+          "Gin Gordons",
+          "Punt E Mes",
+          "Sidra 1888",
+          "Aceitunas Negras"
+        ],
+        "precio": "$18.500,00"
+      }
+    ],
+    "APERITIVOS & SPRITZ": [
+      {
+        "nombre": "Aaah Freak Out !",
+        "ingredientes": [
+          "Pimms",
+          "Parfait Amour Golden Age",
+          "Jugo de Lima",
+          "Sidra 1888",
+          "Romero y Tomillo"
+        ],
+        "precio": "$14.500,00"
+      },
+      {
+        "nombre": "Chica Solitaria",
+        "ingredientes": [
+          "Cynar",
+          "Almíbar de Lemongrass",
+          "Sidra",
+          "Romero"
+        ],
+        "precio": "$13.500,00"
+      },
+      {
+        "nombre": "Hombre Nuclear",
+        "ingredientes": [
+          "Fernet Branca",
+          "Cynar",
+          "Punt E Mes",
+          "Hierroquina",
+          "Jugo de Pomelo",
+          "Jugo de Arándanos",
+          "Canela en Polvo"
+        ],
+        "precio": "$14.500,00"
+      },
+      {
+        "nombre": "Ladrón de Bicicleta",
+        "ingredientes": [
+          "Campari",
+          "Tintillo Santa Julia",
+          "Licor de Cassis",
+          "Espumante",
+          "Splash de Soda",
+          "Rodaja de Pomelo"
+        ],
+        "precio": "$14.500,00"
+      },
+      {
+        "nombre": "Lux Interior",
+        "ingredientes": [
+          "Aperol",
+          "Cherry Brandy Golden Age",
+          "Vermouth La Fuerza Blanco",
+          "Maracuyá",
+          "Espumante Extra Brut",
+          "Rodajas de Banana"
+        ],
+        "precio": "$14.500,00"
+      },
+      {
+        "nombre": "Redemption",
+        "ingredientes": [
+          "Campari",
+          "La Fuerza Rojo",
+          "Licor de Durazno",
+          "Tónica",
+          "Rodaja de Pomelo"
+        ],
+        "precio": "$13.500,00"
+      },
+      {
+        "nombre": "Rotten Apple Jack Segundo",
+        "ingredientes": [
+          "Cinzano Segundo",
+          "Sidra",
+          "Rodaja de Naranja con Canela en Polvo y Clavo de Olor Flambeado"
+        ],
+        "precio": "$13.500,00"
+      }
+    ],
+    "ALL THAT JAZZ...": [
+      {
+        "nombre": "Cizana De Amor",
+        "ingredientes": [
+          "Gin Cat Sith Japonés",
+          "Carpano Vermouth Rosso",
+          "Elderflower Golden Age",
+          "Bitter Aromático",
+          "Bitter de Cardamomo",
+          "Spray de Christallino"
+        ],
+        "precio": "$16.500,00"
+      },
+      {
+        "nombre": "Gibson",
+        "ingredientes": [
+          "Gin Tanqueray",
+          "Vermouth Martini Dry",
+          "Cebollines"
+        ],
+        "precio": "$14.500,00"
+      },
+      {
+        "nombre": "Hot & Dirty Martini",
+        "ingredientes": [
+          "Vodka infundido en Pimienta Negra",
+          "Vermouth Martini Dry",
+          "Pickles de Aceitunas Rellenas con Jalapeños",
+          "Cebollines",
+          "Twist de Limón"
+        ],
+        "precio": "$16.500,00"
+      }
+    ],
+    "FRUTALES & EXÓTICOS": [
+      {
+        "nombre": "Cariño, Llegué!",
+        "ingredientes": [
+          "Jägermeister",
+          "Jugo de Lima",
+          "Mango",
+          "Mermelada de Membrillo",
+          "Azúcar Negra",
+          "Piel de Naranja",
+          "Rodajas de Manzana"
+        ],
+        "precio": "$16.500,00"
+      },
+      {
+        "nombre": "Chica Almodóvar",
+        "ingredientes": [
+          "Gin Larios",
+          "Miel",
+          "Jugo de Lima",
+          "Mermelada de Damascos",
+          "Espumante Demi Sec"
+        ],
+        "precio": "$14.500,00"
+      },
+      {
+        "nombre": "Daktari",
+        "ingredientes": [
+          "Mariposa",
+          "Aperol",
+          "Reducción de Frutos Rojos",
+          "Jugo de Naranja",
+          "Marsala",
+          "Espumante",
+          "Soda"
+        ],
+        "precio": "$14.500,00"
+      },
+      {
+        "nombre": "El Hombre Invisible",
+        "ingredientes": [
+          "Vodka de Pomelo",
+          "Almíbar de Enebro",
+          "Jugo de Limón",
+          "Gaseosa Lima Limón",
+          "Albahaca"
+        ],
+        "precio": "$14.500,00"
+      },
+      {
+        "nombre": "Encuentro en el Río",
+        "ingredientes": [
+          "Gancia",
+          "Jugo de Pomelo",
+          "Licor de Cassis",
+          "Gaseosa Lima Limón",
+          "Rodaja de Pomelo"
+        ],
+        "precio": "$13.500,00"
+      },
+      {
+        "nombre": "Extraña Forma de Vida",
+        "ingredientes": [
+          "Pisco Calavera",
+          "Lunfa Vermouth Rosso",
+          "Lunfa Vermouth Rosado",
+          "Mango",
+          "Christallino",
+          "Espumante",
+          "Gaseosa Lima Limón",
+          "Rodajas de Frutilla",
+          "Pepino",
+          "Albahaca"
+        ],
+        "precio": "$14.500,00"
+      },
+      {
+        "nombre": "South Beach",
+        "ingredientes": [
+          "Campari",
+          "Amaretto Luxardo",
+          "Mango",
+          "Jugo de Naranja",
+          "Romero"
+        ],
+        "precio": "$15.500,00"
+      },
+      {
+        "nombre": "Yiya Murano",
+        "ingredientes": [
+          "Aperol",
+          "Licor de Cassis",
+          "Granadina",
+          "Vermouth Martini Dry",
+          "Jugo de Limón",
+          "Agua de Azahar",
+          "Espumante Norton Extra Brut",
+          "Piel de Pomelo"
+        ],
+        "precio": "$14.500,00"
+      }
+    ],
+    "EL MERODEADOR DE BOTELLAS": [
+      {
+        "nombre": "Corriendo Por Mis Venas",
+        "ingredientes": [
+          "Gin Larios",
+          "Reducción de Frutos Rojos",
+          "Malamado Viognier",
+          "Limoncello",
+          "Campari",
+          "Tónica"
+        ],
+        "precio": "$15.500,00"
+      },
+      {
+        "nombre": "I Love The Gin Tonic",
+        "ingredientes": [
+          "Heráclito Gin",
+          "Elderflower Golden Age",
+          "Ginebra Infusionada en Vainilla",
+          "Agua Tónica",
+          "Rodaja de Pepino",
+          "Piel de Limón"
+        ],
+        "precio": "$14.500,00"
+      },
+      {
+        "nombre": "Im Paullie Gualtieri",
+        "ingredientes": [
+          "Gin Larios Rose",
+          "La Fuerza Vermouth Primavera",
+          "Cherry Brandy Golden Age",
+          "Orange Curaçao Golden Age",
+          "Jugo de Pomelo",
+          "Espumante"
+        ],
+        "precio": "$14.500,00"
+      },
+      {
+        "nombre": "Pepe Lew Pew",
+        "ingredientes": [
+          "Bulldog Gin",
+          "Vino Semillón Nacional",
+          "Angioletto Luxardo",
+          "Aceite de Oliva Zuelo",
+          "Sidra 1888",
+          "Rodajas de Manzana"
+        ],
+        "precio": "$16.500,00"
+      }
+    ],
+    "NEGRONIS": [
+      {
+        "nombre": "Boulevar Oroño",
+        "ingredientes": [
+          "Ron Añejo",
+          "Amargo Obrero Especiado",
+          "Hesperidina",
+          "Piel de Pomelo y Romero Flambeado"
+        ],
+        "precio": "$14.500,00"
+      },
+      {
+        "nombre": "Dolce Far Niente",
+        "ingredientes": [
+          "Campari",
+          "La Fuerza Blanco",
+          "Jim Beam White",
+          "Orange Curaçao Golden Age",
+          "Menta",
+          "Rodaja de Mandarina"
+        ],
+        "precio": "$14.500,00"
+      },
+      {
+        "nombre": "El Cóctel del Fuego",
+        "ingredientes": [
+          "Gin Gordons",
+          "Cynar",
+          "Punt E Mes",
+          "Marsala",
+          "Aceitunas Negras"
+        ],
+        "precio": "$14.500,00"
+      },
+      {
+        "nombre": "Encantador de Gatos",
+        "ingredientes": [
+          "Gin Cat Sith",
+          "Vino Blanco Semillón Nacional",
+          "Amaretto Disaronno",
+          "Piel de Naranja"
+        ],
+        "precio": "$15.500,00"
+      },
+      {
+        "nombre": "Negroni Magico",
+        "ingredientes": [
+          "Pisco Calavera",
+          "Hesperidina",
+          "La Fuerza Blanco",
+          "Piel de Limón y Tomillo"
+        ],
+        "precio": "$14.500,00"
+      },
+      {
+        "nombre": "Ramona Flowers",
+        "ingredientes": [
+          "Campari",
+          "Lunfa Vermouth Rosado",
+          "Fernet Branca Menta",
+          "Sidra 1888",
+          "Morrón Encurtido"
+        ],
+        "precio": "$13.500,00"
+      }
+    ],
+    "MUST BE THE WHISKEY": [
+      {
+        "nombre": "Beverly Hills Boulevardier",
+        "ingredientes": [
+          "Jim Beam White Bourbon",
+          "Lunfa Vermouth Rosado",
+          "Triple Sec Carajo!",
+          "Christallino Aguardiente de Peras",
+          "Rodajas de Pepino"
+        ],
+        "precio": "$14.500,00"
+      },
+      {
+        "nombre": "Hello Sidney",
+        "ingredientes": [
+          "Bourbon Jim Beam White",
+          "Punt E Mes",
+          "Cherry Brandy Golden Age",
+          "Fernet Branca",
+          "Piel de Naranja con Clavo de Olor Flambeado"
+        ],
+        "precio": "$16.500,00"
+      },
+      {
+        "nombre": "Hurlingham",
+        "ingredientes": [
+          "Tullamore Dew Irish Whiskey",
+          "Carpano Vermouth Bianco",
+          "Cynar",
+          "Twist de Naranja"
+        ],
+        "precio": "$14.500,00"
+      },
+      {
+        "nombre": "Manzana Negra",
+        "ingredientes": [
+          "Jack Daniels Apple",
+          "Reducción de Cerveza Negra",
+          "Espumante",
+          "Manzana"
+        ],
+        "precio": "$18.500,00"
+      },
+      {
+        "nombre": "Mint Julep",
+        "ingredientes": [
+          "Jack Daniels",
+          "Menta",
+          "Azúcar"
+        ],
+        "precio": "$14.500,00"
+      },
+      {
+        "nombre": "The Dark Side Of The Manhattan",
+        "ingredientes": [
+          "Grants Scotch Whisky",
+          "Vermouth Dry",
+          "Cynar 70",
+          "Aperol",
+          "Twist de Naranja"
+        ],
+        "precio": "$16.500,00"
+      }
+    ],
+    "NUTRITIVOS & RECOMPONEDORES": [
+      {
+        "nombre": "Bloody Mary",
+        "ingredientes": [
+          "Vodka Sernova",
+          "Tabasco",
+          "Tabasco Ahumado",
+          "Salsa Inglesa",
+          "Sal de Zanahorias",
+          "Jugo de Naranja",
+          "Jugo de Limón",
+          "Jugo de Tomate",
+          "Pimienta",
+          "Apio"
+        ],
+        "precio": "$16.500,00"
+      },
+      {
+        "nombre": "Cadaver Exquisito",
+        "ingredientes": [
+          "Vodka Smirnoff infundido en Pimienta",
+          "Orange Curaçao Golden Age",
+          "Maracuyá",
+          "Pimento Dram",
+          "Espumante",
+          "Peperoncino"
+        ],
+        "precio": "$14.500,00"
+      },
+      {
+        "nombre": "El Primer Negroni",
+        "ingredientes": [
+          "Campari",
+          "Shrub de Frutos Rojos y Jalapeños",
+          "Gin Tanqueray",
+          "Vermouth Cinzano Rosso",
+          "Espumante Norton Demi Sec",
+          "Piel de Limón"
+        ],
+        "precio": "$14.500,00"
+      },
+      {
+        "nombre": "Morgan Freeman",
+        "ingredientes": [
+          "Cynar",
+          "Amaretto Luxardo",
+          "Jugo de Pomelo",
+          "Tabasco Ahumado",
+          "Pimienta"
+        ],
+        "precio": "$15.500,00"
+      },
+      {
+        "nombre": "Sweeney Todd´s Bloody Mary",
+        "ingredientes": [
+          "Jägermeister",
+          "Shrub de Remolacha y Jalapeño",
+          "Mango",
+          "Jugo de Lima",
+          "Jugo de Tomate",
+          "Coronado de Sal de Zanahorias",
+          "Romero y Tomillo",
+          "Peperoncino"
+        ],
+        "precio": "$18.500,00"
+      }
+    ],
+    "THE BEST OLD FASHIONED IN TOWN": [
+      {
+        "nombre": "The Best Old Fashioned in Town",
+        "ingredientes": [
+          "Bourbon Evan Williams",
+          "Azúcar",
+          "Bitter Angostura",
+          "Rodaja de Naranja",
+          "Soda",
+          "Cereza"
+        ],
+        "precio": "$16.500,00"
+      },
+      {
+        "nombre": "The Queen´s Old Fashioned",
+        "ingredientes": [
+          "Jack Daniel´s Honey",
+          "Malamado Solería Torrontés",
+          "Azúcar",
+          "Bitter Angostura",
+          "Bitter de Cardamomo",
+          "Bananas Caramelizadas"
+        ],
+        "precio": "$18.500,00"
+      }
+    ],
+    "CREMOSOS & COFFEE EXPERTISE": [
+      {
+        "nombre": "Babilonia Coffee Blossom",
+        "ingredientes": [
+          "Brandy Bardinet VSOP",
+          "Carpano Vermouth Rosso",
+          "Borghetti",
+          "Jugo de Naranja"
+        ],
+        "precio": "$16.500,00"
+      },
+      {
+        "nombre": "Freddie Mercury",
+        "ingredientes": [
+          "Baileys",
+          "Vecchio Amaro del Capo",
+          "Fireball",
+          "Cold Brew"
+        ],
+        "precio": "$18.500,00"
+      },
+      {
+        "nombre": "Lindy Hop",
+        "ingredientes": [
+          "Heráclito",
+          "Lunfa Vermouth Rosso",
+          "Licor de Cacao",
+          "Crema",
+          "Perfume de Vainilla",
+          "Ralladura de Naranja"
+        ],
+        "precio": "$15.500,00"
+      },
+      {
+        "nombre": "Sueño Lúcido",
+        "ingredientes": [
+          "Campari",
+          "Cinzano Rosso",
+          "Cold Brew",
+          "Almíbar de Enebro",
+          "Sal Marina",
+          "Tónica",
+          "Rodajas de Pepino"
+        ],
+        "precio": "$16.500,00"
+      }
+    ]
+  }
+}

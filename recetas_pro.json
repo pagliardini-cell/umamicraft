@@ -21796,5 +21796,723 @@
     ],
     "chef_tips": "El secreto de la sémola fina (griz): Las manzanas contienen mucha agua; mezclar unas cucharadas de sémola o pan rallado fino en el relleno tibio es el truco tradicional balcánico para que la humedad no ablande la masa de la base, logrando una base crocante y mantecosa que soporta el relleno. No amasar la masa: Para que la masa quede quebradiza (prhka) y se deshaga tiernamente en la boca, úsala rápido con las manos sin frotarla demasiado, evitando desarrollar el gluten de la harina.",
     "notes": "Postre de herencia yugoslava / balcánica. Sabe aún mejor al día siguiente, cuando las manzanas han impregnado la masa con sus jugos y aromas a canela y vainilla. Se conserva perfectamente a temperatura ambiente fresca bajo campana durante 3 a 4 días."
+  },
+  {
+    "id": 312,
+    "title": "Baechu Kimchi Tradicional — Kimchi Clásico de Col China (Corea del Sur)",
+    "original_title": "Tongbaechu Kimchi (통배추김치 - Corea del Sur)",
+    "country": "Corea del Sur",
+    "category": "Fermentados & Conservas Asiáticas",
+    "tags": [
+      "Corea",
+      "Kimchi",
+      "Fermentación",
+      "Probiótico",
+      "Akusai",
+      "Gochugaru",
+      "Picante",
+      "Guarnición",
+      "Saludable",
+      "Tradicional"
+    ],
+    "prep_time": "45 min",
+    "cook_time": "5 min (para las gachas de arroz)",
+    "rest_time": "2 h (salado inicial) + 24 a 48 h a temperatura ambiente + maduración en frío",
+    "temperature": "Ambiente (18 a 22 °C) para inicio de fermentación, luego heladera (2 a 4 °C)",
+    "servings": "12 a 15 porciones (frasco grande de 1,5 kg)",
+    "calories": "25 kcal por porción",
+    "diet_badges": [
+      "Sin Gluten (usando salsa de pescado o soja sin TACC)",
+      "Rico en Probióticos",
+      "Bajo en Calorías"
+    ],
+    "image": "baechu_kimchi_tradicional.jpg",
+    "url": "r/312-baechu-kimchi-tradicional-coreano.html",
+    "published": "2026-10-29T00:48:00-03:00",
+    "story": "El Baechu Kimchi es el alma indiscutida de la cultura gastronómica de Corea y su práctica comunitaria de elaboración otoñal, el Kimjang, fue declarada Patrimonio Cultural Inmaterial de la Humanidad por la UNESCO. Este fermento milenario no solo es el acompañamiento esencial de cada comida en los hogares y tabernas coreanas, sino un superalimento probiótico vivo cargado de bacterias ácido-lácticas (Lactobacillus), vitaminas A, B y C, y un complejo equilibrio organoléptico entre acidez chispeante, picor aromático del gochugaru, dulzor vegetal y profundo umami marítimo. En esta versión adaptada minuciosamente a los insumos disponibles en Argentina, empleamos el repollo akusai fresco de verdulería junto con las tradicionales gachas de arroz (chapssalpul) y salsa de pescado o anchoas curadas, logrando la textura tierna pero crocante y esa efervescencia característica que eleva arroces, caldos, fideos y carnes asadas.",
+    "ingredient_groups": [
+      {
+        "group_name": "Curado del Repollo Akusai",
+        "ingredients": [
+          "1 col china akusai grande (aprox. 1,5 kg), firme y de hojas compactas",
+          "100 g de sal entrefina parrillera o sal marina gruesa (sin yodo ni aditivos)",
+          "Agua fría (para sumergir y enjuagar)"
+        ]
+      },
+      {
+        "group_name": "Gachas de Harina de Arroz (Chapssalpul)",
+        "ingredients": [
+          "240 ml de agua filtrada (1 taza)",
+          "20 g de harina de arroz fino (o almidón de maíz / fécula)",
+          "15 g de azúcar rubia o común (1 cda.)"
+        ]
+      },
+      {
+        "group_name": "Pasta de Fermentación (Yangnyeom)",
+        "ingredients": [
+          "50 g de ají coreano gochugaru (o blend de 70% pimentón dulce de calidad + 30% ají molido argentino fino)",
+          "60 ml de salsa de pescado asiática (o salsa de anchoas / salsa de soja fermentada para opción vegana)",
+          "8 dientes de ajo frescos, pelados",
+          "25 g de jengibre fresco pelado (un trozo de 3 cm)",
+          "1/2 cebolla blanca mediana",
+          "1/2 manzana roja o pera criolla pelada (para aportar fructosa natural a las bacterias lácticas)",
+          "1 cda. opcional de camarones fermentados (saeujeot) o 3 filetitos de anchoas en aceite pisadas"
+        ]
+      },
+      {
+        "group_name": "Vegetales Aromáticos de Relleno",
+        "ingredients": [
+          "150 g de nabo blanco (daikon) pelado y cortado en juliana muy fina",
+          "1 zanahoria mediana pelada y cortada en juliana fina",
+          "4 tallos de cebolla de verdeo limpios, cortados en bastones de 3 a 4 cm"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "group_name": "1. Curado y Salado del Akusai",
+        "steps": [
+          "Cortar el repollo akusai a lo largo en mitades desde la base del tallo y luego separar suavemente en cuartos con las manos para preservar la estructura de las hojas.",
+          "Sumergir los cuartos brevemente en agua fría para humedecerlos. Levantar hoja por hoja y espolvorear la sal entrefina de manera homogénea, concentrando mayor cantidad en la base blanca y gruesa del tallo donde la fibra es más densa.",
+          "Disponer los cuartos en un recipiente amplio y dejar reposar a temperatura ambiente durante el tiempo indicado de salado, rotándolos cada media hora para que la salmuera natural que desprenden actúe de forma pareja. El repollo estará en su punto justo cuando las hojas del tallo se doblen con flexibilidad sin quebrarse.",
+          "Enjuagar los cuartos de akusai bajo abundante agua corriente fría en tres tandas para desalojar cualquier exceso superficial de sal. Escurrir boca abajo en un colador durante media hora y realizar una presión suave y gradual con las manos para eliminar el líquido remanente sin estropear las hojas."
+        ]
+      },
+      {
+        "group_name": "2. Elaboración de las Gachas y la Pasta Yangnyeom",
+        "steps": [
+          "En una cacerola pequeña verter el agua y la harina de arroz. Disolver en frío con batidor de alambre para evitar grumos, encender el fuego a nivel medio-bajo y cocinar revolviendo constantemente hasta que la mezcla espese adquiriendo una textura cremosa y traslúcida similar a una compota ligera. Incorporar el azúcar, mezclar durante un minuto más y retirar del fuego para enfriar completamente a temperatura ambiente.",
+          "Colocar en el vaso de la procesadora o licuadora los dientes de ajo, el jengibre, la media cebolla, la pera o manzana y la salsa de pescado (junto a las anchoas pisadas si se usan). Procesar hasta obtener un puré aromático, homogéneo y sin tropezones grandes.",
+          "En un bol amplio verter el puré procesado junto con las gachas de arroz ya templadas. Agregar el gochugaru y revolver con espátula; dejar reposar diez minutos para que las escamas de ají se hidraten y el adobo tome un color rubí brillante y una consistencia sedosa y adherente.",
+          "Incorporar al bol la juliana de nabo blanco daikon, la zanahoria y los bastones de cebolla de verdeo. Integrar suavemente para que los vegetales queden bien impregnados por la pasta."
+        ]
+      },
+      {
+        "group_name": "3. Envasado y Fermentación Láctica Controlada",
+        "steps": [
+          "Colocarse guantes de cocina. Tomar un cuarto de akusai escurrido y comenzar a distribuir la pasta especiada entre cada capa de hojas, partiendo desde las hojas externas hacia el corazón y masajeando cada pliegue con dedicación.",
+          "Plegar el cuarto de repollo sobre sí mismo formando un paquete compacto usando las hojas más largas exteriores para envolverlo. Acomodar cada paquete dentro de un frasco de vidrio previamente esterilizado de boca ancha.",
+          "Comprimir firmemente hacia el fondo del frasco con el puño o una cuchara pesada para expulsar cualquier burbuja de aire atrapada y forzar que el líquido vegetal comience a cubrir la superficie. Asegurarse de dejar un espacio libre de cuatro a cinco centímetros en la parte superior del frasco para dar lugar a la expansión de los gases de fermentación.",
+          "Tapar el frasco sin ajustar herméticamente al límite (o abrir un segundo por día para desgasificar) y ubicar en un rincón oscuro y fresco a temperatura ambiente durante las primeras 24 a 48 horas. Cuando se observen pequeñas burbujas activas y un perfume avinagrado fresco, trasladar inmediatamente a la heladera para que continúe su maduración lenta y desarrolle su acidez láctica crujiente y profunda."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Uso de sal sin yodo: En Argentina la sal fina común contiene aditivos yodo-fluorados diseñados para la salud tiroidea pero letales para los cultivos lácticos. Usá siempre sal parrillera entrefina o marina pura.",
+      "El rol de las gachas de arroz: El almidón cocido actúa como nutriente inicial para las bacterias amigables y asegura que la salsa roja no se escurra como agua sucia al fondo del frasco, manteniendo cada hoja brillante y untuosa.",
+      "Conservación prolongada: Bien refrigerado y siempre cubierto por su propio jugo, el kimchi no se pudre; simplemente continúa madurando. Pasadas 4 a 6 semanas se vuelve más ácido y es el momento dorado para preparar Kimchi Jjigae (estofado coreano) o Kimchi Bokkeumbap (arroz salteado)."
+    ],
+    "notes": "Acompañamiento por excelencia del arroz blanco al vapor, carnes a la parrilla, fideos ramen y pescados grasos."
+  },
+  {
+    "id": 313,
+    "title": "Kkakdugi — Kimchi Crocante de Nabo Daikon en Cubos (Corea del Sur)",
+    "original_title": "Kkakdugi (깍두기 - Corea del Sur)",
+    "country": "Corea del Sur",
+    "category": "Fermentados & Conservas Asiáticas",
+    "tags": [
+      "Corea",
+      "Kimchi",
+      "Nabo",
+      "Daikon",
+      "Kkakdugi",
+      "Fermentación",
+      "Crocante",
+      "Picante",
+      "Gochugaru",
+      "Sin TACC",
+      "Tradicional"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "0 min",
+    "rest_time": "1 h (curado) + 24 a 36 h a temperatura ambiente + maduración en frío",
+    "temperature": "Ambiente fresco (18 a 22 °C), luego refrigeración (2 a 4 °C)",
+    "servings": "10 a 12 porciones (frasco de 1,2 kg)",
+    "calories": "22 kcal por porción",
+    "diet_badges": [
+      "Sin Gluten",
+      "Vegano Adaptable",
+      "Rico en Probióticos",
+      "Bajo en Calorías"
+    ],
+    "image": "kkakdugi_kimchi_nabo.jpg",
+    "url": "r/313-kkakdugi-kimchi-nabo-daikon.html",
+    "published": "2026-10-29T00:49:00-03:00",
+    "story": "El Kkakdugi es el kimchi de nabo blanco (daikon) cortado en dados característicos, venerado en la gastronomía coreana por su mordida explosivamente crujiente y su jugo dulce y picante. Históricamente, se documenta en crónicas de la dinastía Joseon como un plato popularizado por la princesa Sukseon, quien lo presentó a su padre el rey Jeongjo ganándose elogios de la corte. Tradicionalmente es la guarnición inseparable de los caldos y sopas densas de res como el Seolleongtang (sopa de huesos) y el Gomtang, ya que su refrescante textura y marcada acidez cortan la grasa reconfortando el paladar. En verdulerías de barrio y ferias de toda Argentina, el nabo blanco largo y turgente se encuentra en abundancia todo el año, lo que convierte al Kkakdugi en una de las conservas fermentadas caseras más fáciles, económicas y gratificantes de preparar.",
+    "ingredient_groups": [
+      {
+        "group_name": "Curado del Nabo Daikon",
+        "ingredients": [
+          "1,2 kg de nabo blanco daikon fresco (aprox. 2 nabos grandes), firme y pesado",
+          "35 g de sal entrefina parrillera o marina (2 cdas. soperas colmadas)",
+          "25 g de azúcar blanco o rubio (1 cda. sopera colmada, indispensable para extraer el amargor)"
+        ]
+      },
+      {
+        "group_name": "Adobo y Pasta Especiada",
+        "ingredients": [
+          "40 g de gochugaru coreano (o mezcla de 70% pimentón dulce + 30% ají molido fino)",
+          "45 ml de salsa de pescado asiática de anchoas (o salsa de soja para opción vegana)",
+          "6 dientes de ajo pelados",
+          "15 g de jengibre fresco pelado (un trozo de 2 cm)",
+          "1/2 manzana roja o pera asiática/criolla rallada",
+          "4 tallos de cebolla de verdeo limpios, cortados en trozos de 2 cm",
+          "1 cda. de semillas de sésamo blanco tostado"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "group_name": "1. Corte y Curado Clave del Nabo",
+        "steps": [
+          "Pelar los nabos blancos con pelapapas retirando la piel exterior fibrosa. Cortar en rodajas gruesas de dos centímetros y luego cortar en dados uniformes de dos por dos centímetros, contemplando que durante la salazón perderán agua y mermarán ligeramente su volumen.",
+          "Colocar los dados de nabo en un bol amplio, espolvorear la sal entrefina y el azúcar. Mezclar enérgicamente con las manos limpias asegurando que cada cubo quede bien cubierto por los cristales.",
+          "Dejar reposar a temperatura ambiente durante el tiempo indicado de curado, removiendo los cubos a mitad de proceso. El nabo sudará copiosamente formando un líquido salino cristalino en el fondo.",
+          "Volcar los cubos en un colador para escurrir el líquido excedente. Apartar tres cucharadas soperas de esa salmuera natural dulce para usar en el adobo y dejar escurrir el nabo sin enjuagar con agua, preservando la concentración justa de salinidad."
+        ]
+      },
+      {
+        "group_name": "2. Sazonado y Mezcla Aromática",
+        "steps": [
+          "Procesar o licuar los dientes de ajo junto al trozo de jengibre, la salsa de pescado y la pera o manzana hasta lograr una pasta fluida y uniforme.",
+          "Disponer los cubos de nabo escurridos en el bol seco. Espolvorear directamente el gochugaru sobre los nabos y frotar con las manos (usando guantes de cocina) durante dos minutos hasta que los cubos queden impregnados de un color rojo intenso y brillante; esta técnica sella los poros del vegetal para que retenga su textura crocante.",
+          "Incorporar al bol la pasta procesada de ajo, jengibre y fruta, las tres cucharadas de salmuera natural reservada, los trozos de cebolla de verdeo y las semillas de sésamo tostadas. Revolver con espátula o con las manos hasta lograr una cobertura sedosa y homogénea."
+        ]
+      },
+      {
+        "group_name": "3. Envasado y Fermentación Láctica",
+        "steps": [
+          "Trasladar los dados de nabo sazonados a un frasco de vidrio limpio de boca ancha, empujando hacia abajo con una cuchara o mazo de cocina para comprimirlos bien y evitar bolsas de aire.",
+          "Verter sobre los cubos toda la salsa líquida que haya quedado en el bol, asegurando que queden sumergidos en el jugo rojo picante. Mantener un margen libre de tres a cuatro centímetros respecto a la tapa para que respiren los gases.",
+          "Cerrar la tapa de forma holgada y dejar fermentar en un sitio fresco y protegido de la luz solar directa durante 24 a 36 horas a temperatura ambiente. En cuanto se advierta el característico cosquilleo de dióxido de carbono y el aroma avinagrado fresco, transferir al refrigerador donde ganará su madurez ideal a partir del quinto día de frío."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Por qué no lavar el nabo tras el curado: A diferencia del akusai, el daikon se cura con una proporción exacta de sal y azúcar que no debe lavarse para no diluir el sabor ni ablandar la fibra celular.",
+      "El nabo ideal: Buscá en la verdulería ejemplares pesados para su tamaño y de piel tensa; si el nabo se siente liviano o esponjoso al tacto suele estar hueco o fibroso por dentro.",
+      "Maridaje perfecto: Es el compañero celestial de un guiso de lentejas, un puchero argentino, carnes hervidas o una sopa de fideos bien caliente."
+    ],
+    "notes": "Conserva su textura hiper crujiente por más de dos meses en la heladera sin perder firmeza."
+  },
+  {
+    "id": 314,
+    "title": "Oi Sobagi — Kimchi de Pepino Relleno y Crujiente (Corea del Sur)",
+    "original_title": "Oi Sobagi (오이소박이 - Corea del Sur)",
+    "country": "Corea del Sur",
+    "category": "Fermentados & Conservas Asiáticas",
+    "tags": [
+      "Corea",
+      "Kimchi",
+      "Pepino",
+      "Oi Sobagi",
+      "Fermentación",
+      "Crujiente",
+      "Refrescante",
+      "Picante",
+      "Gochugaru",
+      "Sin TACC",
+      "Tradicional"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "0 min",
+    "rest_time": "40 min (salmuera caliente) + 12 a 18 h fermentación inicial",
+    "temperature": "Ambiente (18 a 22 °C) por medio día, luego heladera estricta (2 a 4 °C)",
+    "servings": "6 a 8 porciones",
+    "calories": "28 kcal por porción",
+    "diet_badges": [
+      "Sin Gluten",
+      "Bajo en Calorías",
+      "Rico en Probióticos",
+      "Vegano Adaptable"
+    ],
+    "image": "oi_sobagi_kimchi_pepino.jpg",
+    "url": "r/314-oi-sobagi-kimchi-pepino.html",
+    "published": "2026-10-29T00:50:00-03:00",
+    "story": "El Oi Sobagi es uno de los kimchis estacionales más apreciados de Corea, tradicionalmente preparado durante la primavera y el verano cuando los pepinos están en su apogeo de frescura y dulzor. Su formato icónico en 'bolsillo' o cuatro pétalos unidos por la base alberga un relleno crujiente y aromático de cebolla de verdeo, zanahoria, ajo, jengibre y gochugaru, logrando una explosión sensorial que combina la jugosidad fría del pepino con la calidez del ají fermentado. El gran secreto de las cocineras coreanas para que el pepino no se vuelva blando ni gomoso con el paso de los días consiste en sumergirlo inicialmente en una salmuera caliente: este choque osmótico y térmico desactiva las enzimas pectinolíticas y fija la turgencia celular de por vida. En Argentina, con pepinos comunes de verdulería o pepinos japoneses, esta receta ofrece una entrada o guarnición exótica lista para disfrutar tanto fresca como fermentada.",
+    "ingredient_groups": [
+      {
+        "group_name": "Pepinos y Salmuera de Choque Térmico",
+        "ingredients": [
+          "8 pepinos medianos firmes y rectos (aprox. 1 kg, tipo común o japonés)",
+          "1 litro de agua caliente recién hervida",
+          "40 g de sal gruesa o entrefina parrillera (2 cdas. soperas colmadas)"
+        ]
+      },
+      {
+        "group_name": "Relleno Aromático (Sok)",
+        "ingredients": [
+          "1 atado de cebolla de verdeo o ciboulette fresco, lavado y picado fino en bastoncitos de 1 cm",
+          "1 zanahoria chica pelada y cortada en juliana capilar finísima",
+          "1/4 cebolla morada cortada en pluma muy fina",
+          "5 dientes de ajo finamente picados o rallados",
+          "10 g de jengibre fresco rallado (1 cdita.)"
+        ]
+      },
+      {
+        "group_name": "Pasta de Condimento",
+        "ingredients": [
+          "35 g de gochugaru coreano (o blend de pimentón dulce y ají molido fino)",
+          "35 ml de salsa de pescado asiática (o salsa de soja premium)",
+          "15 g de azúcar blanco o miel líquida (1 cda. sopera)",
+          "1 cda. de semillas de sésamo tostadas"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "group_name": "1. Corte en Bolsillo y Salmuera Térmica Crujiente",
+        "steps": [
+          "Lavar bien los pepinos frotando la piel con un paño limpio y cortar las dos puntas extremas. Cortar cada pepino en dos mitades transversales de unos seis a siete centímetros de largo.",
+          "Apoyar cada cilindro y realizar un corte longitudinal en cruz (+) desde un extremo hacia abajo, deteniendo el cuchillo un centímetro y medio antes de la base opuesta, dejando los cuatro gajos unidos como una flor de pétalos.",
+          "Disolver por completo la sal gruesa en el litro de agua recién hervida en un recipiente profundo. Sumergir de inmediato los pepinos cortados en la salmuera caliente y dejar reposar durante el tiempo indicado de salmuera; este tratamiento térmico extrae el exceso de humedad interna y asegura un crujido indestructible.",
+          "Retirar los pepinos de la salmuera, enjuagar velozmente en un recipiente con agua helada y colocar boca abajo sobre un paño de cocina o papel absorbente para drenar todo el líquido interior durante quince minutos."
+        ]
+      },
+      {
+        "group_name": "2. Elaboración del Relleno Aromático",
+        "steps": [
+          "En un bol amplio colocar la cebolla de verdeo picada, los hilitos de zanahoria y la cebolla morada.",
+          "Incorporar el ajo picado, el jengibre rallado, el gochugaru, la salsa de pescado, el azúcar y las semillas de sésamo tostadas.",
+          "Mezclar los ingredientes frotándolos suavemente con las manos limpias (o con guantes) durante dos minutos para que los vegetales comiencen a ablandarse y el gochugaru libere todo su pigmento y aceites esenciales, formando una farsa untuosa y densa."
+        ]
+      },
+      {
+        "group_name": "3. Relleno, Envasado y Fermentación Suave",
+        "steps": [
+          "Tomar un pepino escurrido, abrir suavemente los cuatro pétalos con los dedos e introducir una porción generosa del relleno aromático en el corazón del cilindro, comprimiendo hacia el fondo.",
+          "Frotar un poco de la pasta roja sobrante sobre la piel exterior del pepino para envolverlo de aroma y color.",
+          "Acomodar los pepinos rellenos en un recipiente hermético de vidrio o táper bien apretados entre sí, con los cortes mirando hacia arriba para que no pierdan el relleno.",
+          "Dejar a temperatura ambiente en lugar fresco únicamente durante 12 a 18 horas para dar inicio a la fermentación sin ablandar el pepino. Trasladar a la heladera de inmediato; puede disfrutarse a partir del día siguiente y se mantiene crujiente y delicioso durante dos a tres semanas."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "El secreto de la salmuera caliente: Verter agua caliente con sal sobre el pepino suena contra-intuitivo pero es el truco maestro de la gastronomía coreana; desactiva las enzimas que descomponen la textura sin cocinar el vegetal, logrando que el pepino suene crocante al morder aún después de días en salsa.",
+      "Cómo consumirlo: Se puede comer de inmediato recién hecho como ensalada fresca picante (Geotjeori) o tras 24 horas de refrigeración cuando el líquido de la fermentación ha penetrado el interior del pepino.",
+      "Para versión 100% vegetal: Sustituir la salsa de pescado por salsa de soja fermentada combinada con media cucharadita de pasta de miso blanco o alga kombu triturada."
+    ],
+    "notes": "La guarnición estival perfecta para acompañar platos fritos, carnes asadas, arroz salteado o fideos fríos naengmyeon."
+  },
+  {
+    "id": 315,
+    "title": "Gulab Jamun — Bocaditos Dorados en Almíbar de Rosas y Cardamomo (India)",
+    "original_title": "Gulab Jamun (गुलाब जामुन - India)",
+    "country": "India",
+    "category": "Postres & Dulces Tradicionales",
+    "tags": [
+      "India",
+      "Gulab Jamun",
+      "Postre",
+      "Dulce",
+      "Almíbar",
+      "Cardamomo",
+      "Agua de Rosas",
+      "Azafrán",
+      "Vegetariano",
+      "Festivo",
+      "Tradicional"
+    ],
+    "prep_time": "25 min",
+    "cook_time": "20 min",
+    "rest_time": "2 h (en almíbar para absorción completa)",
+    "temperature": "Fritura a fuego bajo/medio (135 a 140 °C), almíbar tibio (50 °C)",
+    "servings": "16 a 18 unidades (4 a 6 porciones)",
+    "calories": "160 kcal por unidad",
+    "diet_badges": [
+      "Vegetariano",
+      "Dulce Festivo"
+    ],
+    "image": "gulab_jamun_indio.jpg",
+    "url": "r/315-gulab-jamun-postre-indio.html",
+    "published": "2026-10-29T00:58:00-03:00",
+    "story": "El Gulab Jamun es indiscutiblemente la joya suprema de la repostería del subcontinente indio y el protagonista infaltable de celebraciones como Diwali, bodas y banquetes de honor. Su nombre evoca su rica herencia multicultural persa y mogol: 'gul' (flor) y 'ab' (agua), haciendo referencia al perfumado almíbar de rosas que lo baña, mientras que 'jamun' alude a la baya india de color oscuro y forma esférica semejante al fruto de la Eugenia jambolana. Tradicionalmente elaborado reduciendo lentamente leche entera durante horas hasta obtener sólidos lácteos concentrados (khoya o mawa), en las cocinas contemporáneas y hogareñas se logra una textura aterciopelada y celestial utilizando leche entera en polvo de calidad, un toque de harina y ghee. Al freírse con infinita paciencia a fuego suave, estas esferas desarrollan una delicada corteza dorada y un interior algodonoso que, al sumergirse en un almíbar tibio aromatizado con cardamomo verde machacado, azafrán y agua de rosas, se hinchan duplicando su tamaño y se funden en el paladar con una suavidad inolvidable.",
+    "ingredient_groups": [
+      {
+        "group_name": "Almíbar Perfumado (Chashni)",
+        "ingredients": [
+          "400 g de azúcar común (2 tazas)",
+          "350 ml de agua filtrada (1 taza y media)",
+          "5 vainas de cardamomo verde, ligeramente abiertas y machacadas",
+          "1 pizca generosa de hebras de azafrán puro (unas 12 a 15 hebras)",
+          "1 cdita. de agua de rosas comestible (o esencia de rosas suave)",
+          "1 cdita. de jugo fresco de limón (evita la cristalización del almíbar)"
+        ]
+      },
+      {
+        "group_name": "Masa Suave de Gulab Jamun",
+        "ingredients": [
+          "130 g de leche entera en polvo de buena calidad (1 taza al ras, sin grumos)",
+          "40 g de harina de trigo 0000 o harina para repostería (1/3 taza)",
+          "1/4 cdita. al ras de bicarbonato de sodio o polvo de hornear (medición exacta)",
+          "20 g de ghee (manteca clarificada) a temperatura ambiente (1 cda. sopera colmada)",
+          "60 a 75 ml de leche entera tibia (la cantidad necesaria para ligar una masa dócil)"
+        ]
+      },
+      {
+        "group_name": "Para la Fritura y Decoración",
+        "ingredients": [
+          "Abundante aceite neutro de girasol (o combinación con 3 cdas. de ghee para aroma)",
+          "2 cdas. de pistachos pelados crudos, finamente picados",
+          "Pétalos de rosas secos comestibles para decorar (opcional)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "group_name": "1. Elaboración del Almíbar Aromatizado (Chashni)",
+        "steps": [
+          "En una cacerola mediana de fondo grueso colocar el azúcar, el agua y las vainas de cardamomo verde machacadas junto con sus semillas.",
+          "Llevar a fuego medio revolviendo hasta que los cristales de azúcar se disuelvan por completo. Al romper el hervor, incorporar las hebras de azafrán y el jugo fresco de limón.",
+          "Bajar el fuego y dejar hervir a borbotones suaves durante cinco a siete minutos hasta obtener un almíbar ligero y pegajoso al tacto de los dedos pero sin llegar al punto de hilo marcado (un almíbar demasiado espeso impediría que los jamuns lo absorban hasta el corazón).",
+          "Retirar del fuego, perfumar con el agua de rosas, tapar la cacerola para concentrar los aromas y reservar tibio."
+        ]
+      },
+      {
+        "group_name": "2. Formado Perfecto de las Esferas sin Grietas",
+        "steps": [
+          "En un bol amplio tamizar la leche entera en polvo, la harina de trigo y el leudante químico para asegurar una distribución microscópica y homogénea.",
+          "Agregar el ghee y frotar delicadamente con las yemas de los dedos hasta lograr una textura arenada fina semejante a migas de pan.",
+          "Verter la leche tibia de manera gradual mientras se une la mezcla con una espátula o con la punta de los dedos. Integrar hasta conformar un bollo húmedo y ligeramente pegajoso sin amasar con fuerza (el exceso de amasado desarrolla el gluten y provocaría que los bocados queden gomosos en vez de esponjosos). Dejar reposar tapado durante cinco minutos; la leche en polvo hidratará y la masa se volverá suave y maleable.",
+          "Untarse las palmas de las manos con unas gotas de ghee. Tomar pequeñas porciones de masa y hacer rodar entre las manos con suave presión formando esferas pequeñas y lisas del tamaño de una cereza grande, asegurándose de que la superficie quede completamente pulida y sin ninguna grieta visible (cualquier grieta exterior causaría que la esfera se abra al freírse)."
+        ]
+      },
+      {
+        "group_name": "3. Fritura a Fuego Lento y Baño de Almíbar",
+        "steps": [
+          "Calentar abundante aceite con el toque de ghee en una sartén profunda o wok a fuego muy bajo. La temperatura del medio graso debe ser suave y moderada; al sumergir una bolita de prueba, esta debe descender al fondo y elevarse lentamente a la superficie recién al cabo de quince a veinte segundos rodeada de finas burbujas.",
+          "Deslizar las esferas con suavidad en el aceite en tandas para no encimar la sartén. Mover el aceite con una espumadera en círculos concéntricos sin tocar directamente las esferas durante los primeros minutos, permitiendo que giren solas y se doren de forma uniforme por todas sus caras.",
+          "Freír con paciencia durante diez a doce minutos a temperatura suave hasta que los bocados adquieran un color caoba dorado profundo, brillante y homogéneo.",
+          "Retirar con espumadera, escurrir el exceso de aceite diez segundos sobre papel de cocina y sumergir inmediatamente en el almíbar tibio reservado.",
+          "Dejar reposar los jamuns en el almíbar tapado durante el tiempo indicado de absorción para que beban el néctar de cardamomo y rosas hasta el núcleo, aumentando su volumen y volviéndose tan tiernos que se corten con el roce de una cuchara. Servir templados o a temperatura ambiente, decorados con pistachos picados y pétalos de rosa."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "La regla de oro del almíbar tibio: Nunca sumerjas las bolitas recién fritas en almíbar hirviendo porque se arrugarán y desarmarán, ni en almíbar frío porque la grasa se sellará impidiendo la absorción. El almíbar debe estar templado y agradable al tacto.",
+      "Paciencia en la fritura: Si el aceite está demasiado caliente, la superficie se pondrá oscura en un minuto y el centro quedará crudo y duro como una piedra. El calor suave y el giro constante son el secreto de los maestros mithaiwala de la India.",
+      "Variación de presentación: En verano en la India es un clásico absoluto servir dos Gulab Jamun tibios acompañados con una bocha de helado de vainilla o kulfi tradicional."
+    ],
+    "notes": "Se conservan en la heladera sumergidos en su almíbar durante dos semanas en recipiente hermético. Para disfrutarlos en su mejor momento, entibiar en microondas unos diez segundos antes de servir."
+  },
+  {
+    "id": 316,
+    "title": "Gulab Jamun Tiramisú — Fusión Indo-Italiana en Copas (India / Italia)",
+    "original_title": "Gulab Jamun Tiramisu (Cook with Manali)",
+    "country": "India",
+    "category": "Postres & Dulces Tradicionales",
+    "tags": [
+      "India",
+      "Italia",
+      "Fusión",
+      "Tiramisú",
+      "Gulab Jamun",
+      "Mascarpone",
+      "Cardamomo",
+      "Azafrán",
+      "Postre",
+      "Festivo",
+      "Diwali"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "0 min (usando gulab jamuns listos en almíbar)",
+    "rest_time": "4 h en heladera (o toda la noche para máxima integración)",
+    "temperature": "Servicio bien frío (4 a 6 °C)",
+    "servings": "6 a 8 porciones individuales (en jarras o copas de vidrio)",
+    "calories": "380 kcal por porción",
+    "diet_badges": [
+      "Vegetariano",
+      "Postre de Autor",
+      "Fusión Épica"
+    ],
+    "image": "gulab_jamun_tiramisu.jpg",
+    "url": "r/316-gulab-jamun-tiramisu-fusion.html",
+    "published": "2026-10-29T01:00:00-03:00",
+    "story": "El Gulab Jamun Tiramisú es una de las creaciones de repostería fusión más aplaudidas y virales de los últimos años, popularizada por la chef y autora gastronómica Manali Singh (Cook with Manali) como el postre insignia para renovar las festividades de Diwali y ocasiones de gala. Esta obra maestra marida la técnica y elegancia italiana del tiramisú con la opulencia especiada de los dulces mithai del norte de la India. Las clásicas vainillas (savoiardi) se embeben no solo en café espresso, sino en el propio almíbar tibio de los gulab jamuns perfumado con cardamomo y agua de rosas. La crema eleva el queso mascarpone batido con crema de leche fresca, azúcar impalpable, un toque de azafrán molido y cardamomo verde fresco. Entre capa y capa, y coronando cada copa, se intercalan los jugosos gulab jamuns embebidos, logrando un contraste sublime entre la cremosidad láctea aterciopelada, el crocante de los pistachos tostados y la explosión de almíbar aromático.",
+    "ingredient_groups": [
+      {
+        "group_name": "Gulab Jamuns y Almíbar de Remojo",
+        "ingredients": [
+          "14 a 16 gulab jamuns recién hechos o en almíbar de buena calidad (divididos entre relleno y decoración)",
+          "120 ml del almíbar de cardamomo y rosas de los propios gulab jamuns",
+          "120 ml de café espresso suave o café fuerte recién hecho a temperatura ambiente (o té chai especiado para opción sin café)",
+          "1 cda. de licor amaretto, ron añejo o licor de café (opcional)"
+        ]
+      },
+      {
+        "group_name": "Base de Vainillas (Savoiardi)",
+        "ingredients": [
+          "14 a 16 vainillas / galletas savoiardi italianas (o bizcochos de soletilla)"
+        ]
+      },
+      {
+        "group_name": "Crema Aterciopelada de Mascarpone y Cardamomo",
+        "ingredients": [
+          "250 g de queso mascarpone a temperatura ambiente (o queso crema denso sin sal)",
+          "240 ml de crema de leche fresca para batir (bien fría, tenor graso mínimo 35%)",
+          "60 g de azúcar impalpable o glas tamizada",
+          "1 cdita. al ras de cardamomo verde en polvo recién molido",
+          "1 pizca generosa de hebras de azafrán disueltas en 1 cda. de leche tibia",
+          "1/2 cdita. de agua de rosas comestible o extracto puro de vainilla"
+        ]
+      },
+      {
+        "group_name": "Decoración y Toppings",
+        "ingredients": [
+          "2 cdas. de cacao amargo en polvo puro (para espolvorear la superficie)",
+          "3 cdas. de pistachos pelados tostados y picados rústicos",
+          "Hebras de azafrán puro y pétalos de rosas secos comestibles"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "group_name": "1. Infusión de Remojo y Preparación de los Gulab Jamuns",
+        "steps": [
+          "En un bol playo mezclar el café espresso templado con el almíbar perfumado de cardamomo y rosas reservado de los gulab jamuns, sumando el toque de licor aromático si se desea; esta mezcla equilibra la sutil acidez y tostado del café con la fragancia floral oriental.",
+          "Separar la mitad de los gulab jamuns y cortarlos en mitades o cuartos para el relleno interior entre capas, reservando el resto enteros e intactos para coronar la presentación final de cada vaso."
+        ]
+      },
+      {
+        "group_name": "2. Elaboración de la Crema de Mascarpone Especiada",
+        "steps": [
+          "En un bol mediano batir el queso mascarpone junto al azúcar impalpable tamizada, el cardamomo verde molido, el extracto aromático de rosas y la infusión dorada de azafrán con leche tibia, trabajando a velocidad baja únicamente hasta suavizar y homogeneizar sin sobrebatir.",
+          "En un bol aparte (previamente enfriado), batir la crema de leche fría a velocidad media-alta hasta alcanzar picos firmes y sedosos.",
+          "Incorporar un tercio de la crema montada a la mezcla de mascarpone con espátula flexible mediante movimientos envolventes para aligerar la densidad. Añadir el resto de la crema batida en dos tandas con suavidad hasta obtener un mousse aireado, untuoso y de tenue tonalidad dorada por el azafrán."
+        ]
+      },
+      {
+        "group_name": "3. Montaje en Copas y Maduración en Frío",
+        "steps": [
+          "Disponer vasos individuales, frascos o jarras de vidrio transparente. Sumergir rápidamente las vainillas (apenas uno a dos segundos por lado para que no se deshagan) en el líquido de café y almíbar especiado.",
+          "Partir las vainillas húmedas para cubrir la base de cada copa. Distribuir encima una capa generosa de los trozos de gulab jamun cortados y una lluvia de pistachos picados.",
+          "Cubrir con una capa abundante de crema de mascarpone y cardamomo, alisando la superficie con el dorso de una cuchara o manga pastelera.",
+          "Repetir una segunda capa con vainillas embebidas y completar con una última capa alta de crema suave.",
+          "Espolvorear con cacao amargo a través de un colador fino. Coronar el centro de cada vaso con los gulab jamuns enteros reservados, pistachos crocantes y hebras de azafrán.",
+          "Llevar a la heladera durante el tiempo de reposo en frío recomendado para que las capas se asienten, los bizcochos absorban los aromas especiados y la crema gane consistencia de terciopelo antes de servir."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Control del dulzor: Como los gulab jamuns ya son naturalmente dulces y almibarados, la crema de mascarpone lleva una cantidad moderada de azúcar y el cacao amargo en polvo aporta el contrapunto perfecto para que el postre sea equilibrado y nada empalagoso.",
+      "Opción sin café (Chai Tiramisu): Si preferís un perfil 100% indio sin notas de café, reemplazá el espresso por un té negro fuerte infusionado con canela, clavo de olor y cardamomo (Masala Chai suave).",
+      "Presentación familiar: Esta receta también puede montarse en una fuente rectangular de vidrio para servir porciones cuadradas en la mesa, luciendo los cortes de gulab jamun en su interior."
+    ],
+    "notes": "Un postre elegante y deslumbrante que fusiona lo mejor de dos mundos culinarios. Conservar tapado en refrigeración hasta por cuatro días."
+  },
+  {
+    "id": 317,
+    "title": "Corzetti Stampati ai Funghi Pioppini e Timo — Pasta Medieval Ligur (Italia)",
+    "original_title": "Corzetti Stampati con Funghi Pioppini e Timo (Liguria - Italia)",
+    "country": "Italia",
+    "category": "Pastas Frescas & Rellenas",
+    "tags": [
+      "Italia",
+      "Liguria",
+      "Corzetti",
+      "Croxetti",
+      "Pasta Fresca",
+      "Hongos",
+      "Pioppini",
+      "Tomillo",
+      "Artesanal",
+      "Medieval",
+      "Tradicional"
+    ],
+    "prep_time": "50 min",
+    "cook_time": "15 min",
+    "rest_time": "30 a 45 min (reposo de la masa)",
+    "temperature": "Fuego medio-vivo para salteado, ebullición franca para la pasta",
+    "servings": "4 porciones",
+    "calories": "420 kcal por porción",
+    "diet_badges": [
+      "Vegetariano",
+      "Pasta Artesanal",
+      "Tradición Medieval"
+    ],
+    "image": "corzetti_funghi_pioppini_liguria.jpg",
+    "url": "r/317-corzetti-stampati-funghi-pioppini-liguria.html",
+    "published": "2026-10-29T01:25:00-03:00",
+    "story": "Los Corzetti stampati (o croxetti en dialecto genovés) son una de las pastas frescas más fascinantes y aristocráticas de Italia, nacida en la Liguria medieval (Val Polcevera y la Riviera di Levante) durante el Renacimiento. Las familias nobles mandaban a tallar sellos artesanales de madera de manzano o peral (stampo per corzetti) con su escudo heráldico de armas en una cara y motivos florales o religiosos (como la cruz, origen de su nombre 'crocetta') en la otra; al estampar cada medallón de masa a mano no solo marcaban su linaje en los banquetes, sino que creaban un relieve en bajorrelieve perfecto para que las salsas se adhirieran íntimamente. En esta preparación tradicional, la masa se elabora incorporando un toque de vino blanco seco ligure (Pigato o Vermentino) para otorgar elasticidad aromática, y se amalgama en una clásica mantecatura con hongos pioppini de sombrero bronceado (Agrocybe aegerita), chalotas pochadas, tomillo fresco del monte y manteca emulsionada con el almidón de cocción, logrando una textura al dente memorable y un perfume silvestre inconfundible.",
+    "ingredient_groups": [
+      {
+        "group_name": "Pasta Fresca Corzetti (Masa de Grabado)",
+        "ingredients": [
+          "300 g de harina de trigo 00 (o 0000 de repostería)",
+          "100 g de sémola de trigo candeal fina (semola rimacinata)",
+          "3 yemas de huevo frescas",
+          "1 huevo entero fresco",
+          "40 ml de vino blanco seco (Pigato, Vermentino o Sauvignon Blanc)",
+          "30 a 50 ml de agua tibia (la cantidad necesaria para hidratar)",
+          "1 pizca de sal marina fina"
+        ]
+      },
+      {
+        "group_name": "Salsa y Guarnición de Hongos Pioppini",
+        "ingredients": [
+          "350 g de hongos pioppini frescos limpios (conservando sus tallos tiernos enteros o partidos)",
+          "2 chalotas medianas (o 1/2 cebolla morada pequeña), cortadas en pluma fina",
+          "50 g de manteca sin sal fría en cubos (dividida para dorar y mantecar)",
+          "2 cdas. de aceite de oliva virgen extra",
+          "1 diente de ajo fresco, aplastado en camisa (con su piel)",
+          "4 a 5 ramitas de tomillo fresco",
+          "30 ml de vino blanco seco (para desglasar)",
+          "40 g de queso Parmigiano Reggiano o Grana Padano recién rallado fino",
+          "Sal marina y pimienta negra recién molida al gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "group_name": "1. Amasado y Reposo de la Masa para Grabado",
+        "steps": [
+          "Disponer las harinas en forma de corona sobre la mesada de trabajo. En el hueco central añadir las yemas, el huevo entero, la pizca de sal fina y el vino blanco seco.",
+          "Integrar gradualmente los ingredientes con un tenedor desde el centro hacia los bordes, incorporando el agua tibia poco a poco hasta aglutinar toda la harina.",
+          "Amasar con energía sobre la superficie enharinada durante diez minutos hasta obtener una masa densa, homogénea y elástica, ligeramente más firme que la masa clásica para tallarines para que sostenga con nitidez el relieve del estampado.",
+          "Envolver el bollo en film transparente de cocina y dejar reposar a temperatura ambiente durante el tiempo indicado de reposo para relajar la red de gluten."
+        ]
+      },
+      {
+        "group_name": "2. Estampado Artesanal con Sello de Madera",
+        "steps": [
+          "Dividir la masa en porciones y estirar con palote o máquina de pasta hasta alcanzar un espesor parejo de dos a dos milímetros y medio (es crucial no dejarla demasiado fina para que no se perfore con el cuño).",
+          "Utilizar el borde cilíndrico cortante del molde de madera para troquelar discos circulares de masa.",
+          "Ubicar cada disco sobre la base tallada del molde y presionar con firmeza el mango superior grabado, transfiriendo el bajorrelieve heráldico a ambas caras de la pasta.",
+          "Disponer los medallones estampados sobre una bandeja espolvoreada con sémola fina sin encimarlos y reservar tapados con un paño seco."
+        ]
+      },
+      {
+        "group_name": "3. Salteado Rústico de Hongos Pioppini",
+        "steps": [
+          "En una sartén amplia calentar la mitad de la manteca junto con el aceite de oliva, el diente de ajo aplastado y parte de las ramitas de tomillo fresco a fuego medio.",
+          "Incorporar las chalotas cortadas en pluma fina y rehogar suavemente hasta que se vuelvan translúcidas sin tomar coloración dorada.",
+          "Subir el fuego a nivel vivo, agregar los hongos pioppini limpios y saltear salteando la sartén durante unos minutos para que doren sus sombreros y concentren sabor sin soltar agua de vegetación.",
+          "Desglasar el fondo con el vino blanco seco, dejando evaporar el alcohol por completo. Salpimentar a gusto, retirar el diente de ajo y apagar el fuego mientras se cuece la pasta."
+        ]
+      },
+      {
+        "group_name": "4. Cocción, Emulsión y Mantecatura Final",
+        "steps": [
+          "Llevar a ebullición abundante agua con sal gruesa en una olla grande. Sumergir los corzetti estampados y cocinar durante el tiempo indicado hasta que alcancen el punto al dente firme.",
+          "Retirar los medallones con espumadera reservando una taza del agua de cocción almidonada.",
+          "Volcar los corzetti directo en la sartén con los hongos calientes. Añadir la manteca fría restante y unas cucharadas del agua de cocción caliente.",
+          "Saltear enérgicamente fuera del fuego en movimientos circulares para ligar la grasa con los almidones hasta crear una emulsión sedosa y brillante que cubra los relieves de la pasta.",
+          "Emplatar en vajilla honda rústica, coronar con hojitas frescas de tomillo, pimienta negra molida al momento y espolvorear el queso parmesano rallado fino."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "El espesor exacto de la masa: Si estirás la masa a menos de 2 mm el relieve del sello puede rasgar la masa o desaparecer al hervir. La consistencia gruesa y el vino blanco le dan la estructura necesaria para retener el grabado histórico.",
+      "Los hongos pioppini: Tienen un tallo largo y fibroso delicioso que no se debe descartar; simplemente recortá la base terrosa y limpialos con un paño húmedo o pincel sin sumergirlos en agua para que doren crocantes.",
+      "Sustitutos de molde: Si no disponés de un stampo per corzetti de madera torneada, podés cortar los discos con un vaso pequeño y grabar la superficie usando un cortante de ravioles acanalado o un tenedor cruzado."
+    ],
+    "notes": "Un viaje al Renacimiento genovés en cada bocado. Servir recién salido de la sartén con un vino blanco seco de la Liguria o un buen Torrontés fresco."
+  },
+  {
+    "id": 318,
+    "title": "Guinness Chocolate Cake — Torta Irlandesa de Cerveza Negra y Cacao (Irlanda)",
+    "original_title": "Guinness Chocolate Cake with Cream Cheese Frosting (Irlanda)",
+    "country": "Irlanda",
+    "category": "Postres & Dulces Tradicionales",
+    "tags": [
+      "Irlanda",
+      "Torta",
+      "Chocolate",
+      "Guinness",
+      "Cerveza Negra",
+      "Stout",
+      "Cacao",
+      "Frosting",
+      "Postre",
+      "Tradicional"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "45 a 55 min",
+    "rest_time": "Enfriado completo en molde sobre rejilla (aprox. 1 h)",
+    "temperature": "170 °C (horno medio-bajo precalentado)",
+    "servings": "10 a 12 porciones (molde desmontable de 23 cm)",
+    "calories": "410 kcal por porción",
+    "diet_badges": [
+      "Vegetariano",
+      "Repostería de Pub",
+      "Clásico Irlandés"
+    ],
+    "image": "guinness_chocolate_cake.jpg",
+    "url": "r/318-guinness-chocolate-cake-irlanda.html",
+    "published": "2026-10-29T01:30:00-03:00",
+    "story": "La Guinness Chocolate Cake es la creación contemporánea más emblemática de la repostería irlandesa, concebida para rendir tributo visual y gustativo a una pinta perfecta de cerveza Guinness Stout recién tirada en un pub de Dublín. El lúpulo y las notas tostadas a café y malta quemada de la cerveza negra interactúan químicamente con el cacao amargo puro para profundizar su sabor y cortar el dulzor empalagoso, mientras que la manteca y la crema agria aportan una miga densa, terciopelada y de humedad extrema. Coronada con un frosting untuoso y denso de queso crema y crema montada que recrea la inconfundible espuma cremosa blanca de la pinta, este pastel se ha convertido en un clásico imprescindible para el día de San Patricio y las celebraciones de invierno en todo el mundo.",
+    "ingredient_groups": [
+      {
+        "group_name": "Base Líquida de Cerveza y Chocolate",
+        "ingredients": [
+          "250 ml de cerveza negra Guinness Stout",
+          "250 g de manteca sin sal cortada en cubos",
+          "75 g de cacao amargo en polvo sin azúcar (tamizado)",
+          "400 g de azúcar común"
+        ]
+      },
+      {
+        "group_name": "Emulsión Húmeda y Secos",
+        "ingredients": [
+          "150 ml de crema agria (sour cream) o crema de leche espesa con 1 cdita. de jugo de limón",
+          "2 huevos grandes a temperatura ambiente",
+          "1 cda. de extracto puro de vainilla",
+          "275 g de harina de trigo 0000 común",
+          "2 y 1/2 cditas. de bicarbonato de sodio",
+          "1/2 cdita. de sal marina fina"
+        ]
+      },
+      {
+        "group_name": "Cobertura Frosting Estilo Espuma de Pinta",
+        "ingredients": [
+          "300 g de queso crema firme (tipo Philadelphia), bien frío",
+          "150 g de azúcar impalpable tamizada",
+          "125 ml de crema de leche para batir (mínimo 35% de tenor graso), bien fría"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "group_name": "1. Elaboración de la Base Líquida Chocolatada",
+        "steps": [
+          "En una cacerola amplia a fuego medio-bajo colocar la cerveza negra Guinness y los cubos de manteca, calentando suavemente hasta que la materia grasa se funda por completo sin dejar que la mezcla rompa en hervor.",
+          "Retirar la cacerola del fuego.",
+          "Incorporar el azúcar y el cacao amargo tamizado batiendo con batidor de alambre hasta lograr una emulsión líquida oscura, sedosa y brillante. Dejar entibiar a temperatura ambiente unos minutos."
+        ]
+      },
+      {
+        "group_name": "2. Integración de la Masa y Secos",
+        "steps": [
+          "En un bol mediano batir la crema agria junto a los huevos y el extracto de vainilla hasta integrar por completo.",
+          "Volcar la mezcla batida de huevos y crema agria sobre la cacerola con la base tibia de cerveza y chocolate, revolviendo para homogeneizar.",
+          "Tamizar en un recipiente la harina de trigo, el bicarbonato de sodio y la sal fina.",
+          "Añadir los ingredientes secos tamizados a la preparación líquida con movimientos suaves y envolventes usando espátula o batidor de alambre, deteniendo el mezclado en el instante en que no queden rastros de harina seca para no sobretrabajar la masa (la consistencia final es fluida y cremosa)."
+        ]
+      },
+      {
+        "group_name": "3. Horneado y Enfriado Esencial",
+        "steps": [
+          "Preparar un molde desmontable enmantecado y con la base forrada con papel manteca. Volcar la masa de manera uniforme.",
+          "Llevar al horno precalentado a la temperatura indicada y hornear durante el tiempo programado, verificando la cocción al insertar un palillo en el centro, el cual debe salir limpio o con migajas húmedas pero sin masa cruda.",
+          "Retirar del horno y dejar enfriar por completo dentro del molde apoyado sobre una rejilla metálica; debido a su extrema humedad es fundamental no intentar desmoldar mientras esté tibio para evitar fracturas estructurales."
+        ]
+      },
+      {
+        "group_name": "4. Cobertura Cremosa y Armado Final",
+        "steps": [
+          "En un bol batir el queso crema frío junto con el azúcar impalpable tamizada hasta lograr una textura homogénea y sedosa, cuidando de no sobrebatir para que el queso conserve su consistencia firme.",
+          "En un bol aparte previamente enfriado, batir la crema de leche fría hasta alcanzar medio punto con picos suaves.",
+          "Integrar la crema montada a la mezcla de queso crema mediante movimientos envolventes con espátula flexible hasta obtener una crema untuosa, blanca y de cuerpo denso.",
+          "Desmoldar el bizcochuelo completamente frío y trasladar con cuidado a una fuente o pie de tarta.",
+          "Distribuir la cobertura blanca con espátula únicamente sobre la superficie superior, creando ondas y relieves rústicos que emulen la densa corona de espuma de una pinta de cerveza Guinness recién tirada, dejando el perímetro oscuro del bizcocho visible."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Por qué usar Guinness Stout: La Stout tradicional aporta cebada tostada no malteada que intensifica los flavonoides del cacao sin dejar sabor amargo molesto tras el horneado; el alcohol se evapora por completo dejando solo profundidad aromática.",
+      "El truco de la crema agria: La acidez láctica de la crema agria reacciona con el bicarbonato de sodio generando burbujas finas que elevan la masa dejándola tierna y esponjosa a pesar de su gran peso.",
+      "Conservación: Guardar en heladera en recipiente con campana. Se conserva sumamente húmeda y deliciosa hasta por cinco días; servir templada unos quince minutos fuera de la heladera para disfrutar su textura fundente."
+    ],
+    "notes": "El postre definitivo para celebrar el día de San Patricio (St. Patrick's Day) o acompañar una sobremesa de café o té negro irlandés."
   }
 ]
