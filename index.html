@@ -2695,12 +2695,14 @@
       const checkedIngs = Array.isArray(saved.ings) ? saved.ings : [];
 
       let globalIdx = 0;
-      ingContainer.innerHTML = groups.map(g => `
-        ${(groups.length > 1 || (g.name && g.name.toLowerCase() !== 'ingredientes'))
-          ? `<div class="group-subtitle">${g.name}</div>`
+      ingContainer.innerHTML = groups.map(g => {
+        const gName = (g.name || g.group_name || '').trim();
+        return `
+        ${(gName && gName.toLowerCase() !== 'ingredientes')
+          ? `<div class="group-subtitle">${gName}</div>`
           : ''}
         <ul class="ingredient-list">
-          ${(g.items || []).map(item => {
+          ${(g.items || g.ingredients || []).map(item => {
             const idx = globalIdx++;
             const isChecked = checkedIngs.includes(idx);
             let itemText = item;
@@ -2785,9 +2787,11 @@
       const checkedSteps = Array.isArray(saved.steps) ? saved.steps : [];
 
       let globalStepIdx = 0;
-      stepContainer.innerHTML = sGroups.map(sg => `
-        ${(sGroups.length > 1 || (sg.name && sg.name.toLowerCase() !== 'preparación'))
-          ? `<div class="group-subtitle">${sg.name}</div>`
+      stepContainer.innerHTML = sGroups.map(sg => {
+        const sgName = (sg.name || sg.group_name || '').trim();
+        return `
+        ${(sgName && sgName.toLowerCase() !== 'preparación')
+          ? `<div class="group-subtitle">${sgName}</div>`
           : ''}
         <div class="steps-list">
           ${(sg.steps || sg.items || []).map((st) => {
