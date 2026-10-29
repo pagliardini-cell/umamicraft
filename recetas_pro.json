@@ -21271,5 +21271,223 @@
     ],
     "chef_tips": "El secreto del blanqueado del bambú: Los brotes de bambú de invierno contienen de forma natural ácido oxálico. Hervirlos brevemente durante 2 minutos antes de saltearlos elimina por completo cualquier aspereza en boca y los deja irresistiblemente tiernos y crujientes (cuì 脆). El terciopelo (Velveting) es el secreto de los restaurantes chinos para que el cerdo nunca quede seco ni duro: la maicena y la clara forman una barrera protectora que retiene todos los jugos internos de la carne ante el calor violento del wok. Ten todo listo antes de encender el fuego: el tiempo de cocción real no supera los 5 minutos, así que mantén la carne marinada, los vegetales blanqueados y la salsa ligada al alcance de la mano (mise en place) antes de empezar.",
     "notes": "Si deseas una versión 100% vegetariana o budista tradicional (Zhai), puedes reemplazar el lomo de cerdo por gluten de trigo frito (Mianjin) o tofu firme cortado en láminas, y la salsa de ostras por salsa de hongos vegetariana. Es un plato insigne para celebrar el Año Nuevo Chino y las reuniones familiares de invierno."
+  },
+  {
+    "id": 307,
+    "title": "Tagliatelle con i Fagioli al Estilo de Borgo Pace (Italia)",
+    "original_title": "Tagliatelle con i Fagioli alla Marchigiana — Tradizione di Borgo Pace (Italia)",
+    "country": "Italia",
+    "category": "Pastas & Salsas Tradicionales",
+    "tags": [
+      "Italia",
+      "Las Marcas",
+      "Borgo Pace",
+      "Pasta Fresca",
+      "Tagliatelle",
+      "Pappardelle",
+      "Alubias",
+      "Fagioli",
+      "Tradicional",
+      "Legumbres",
+      "Pesaro e Urbino",
+      "Confort Food"
+    ],
+    "prep_time": "25 min (más remojo previo)",
+    "cook_time": "1 hora y 15 min",
+    "rest_time": "12 horas de remojo para las alubias",
+    "temperature": "Fuego bajo y constante (fuego campesino)",
+    "servings": "4 porciones generosas",
+    "calories": "490 kcal aprox. por porción",
+    "diet_badges": [
+      "Alto en Fibra",
+      "Sin Lácteos"
+    ],
+    "image": "tagliatelle_fagioli_borgo_pace.jpg",
+    "url": "https://umamicraft.vercel.app/receta/tagliatelle-con-i-fagioli-al-estilo-de-borgo-pace-italia",
+    "published": "2026-10-28T23:40:00-03:00",
+    "story": "En el corazón verde y montañoso de los Apeninos de Las Marcas, donde las aguas del río Meta y del río Auro se unen para dar vida al río Metauro, se encuentra Borgo Pace, tierra de arraigo familiar y cuna de una culinaria honesta, campesina y profunda. Antiguamente, en los hogares de Borgo Pace, las alubias de montaña se cocinaban durante horas al rescoldo de la chimenea en ollas de barro tradicionales. Las abuelas estiraban sobre la gran tabla de madera (spianatoia) tagliatelle y pappardelle al huevo anchas y rústicas. Para condimentarlas, preparaban un aromático 'battuto' de panceta, ajo y romero silvestre, estofando las legumbres con un toque de tomate. La mitad de las alubias se trituraba para crear una crema densa y aterciopelada que abraza cada cinta de pasta, coronada con queso Pecorino añejo y el aceite de oliva virgen extra de las colinas de Pesaro y Urbino.",
+    "ingredient_groups": [
+      {
+        "name": "Pasta Fresca al Huevo (o Tagliatelle de Sémola)",
+        "items": [
+          "400 g de harina de trigo (o mitad harina 00 y mitad sémola de trigo duro)",
+          "4 huevos de campo frescos",
+          "1 pizca de sal marina fina"
+        ]
+      },
+      {
+        "name": "Las Alubias y el Caldo Aromático",
+        "items": [
+          "300 g de alubias secas tipo Borlotti o Cannellini (en remojo 12 horas en agua fría)",
+          "1 ramita de romero fresco",
+          "2 hojas de salvia fresca",
+          "1 diente de ajo entero aplastado",
+          "1 hoja de laurel",
+          "1,5 litros de agua fresca o caldo de verduras"
+        ]
+      },
+      {
+        "name": "El Battuto Marchigiano y la Salsa Cremosa",
+        "items": [
+          "80 g de panceta curada italiana (o guanciale / lardo), picada muy fina",
+          "1 cebolla dorada mediana, finamente picada",
+          "1 zanahoria pequeña, en cubitos diminutos",
+          "1 tallo de apio, picado fino",
+          "2 dientes de ajo, picados",
+          "1 ramita de romero fresco (solo las hojas muy picadas)",
+          "2 cucharadas de extracto o puré concentrado de tomate",
+          "1/2 vaso de vino blanco seco (tipo Verdicchio o Trebbiano)",
+          "4 cucharadas de aceite de oliva virgen extra de primera presión en frío",
+          "Sal marina y abundante pimienta negra recién molida"
+        ]
+      },
+      {
+        "name": "Mantecado y Toque Final",
+        "items": [
+          "60 g de queso Pecorino Marchigiano o Parmigiano Reggiano rallado fino",
+          "Hojas de romero fresco fritas en un hilo de aceite (toque crujiente aromático)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Cocción Lenta de las Alubias",
+        "steps": [
+          "Escurrir las alubias que estuvieron en remojo y colocarlas en una olla de fondo grueso (idealmente de hierro o barro). Cubrir con agua fresca y sumar el diente de ajo entero, el laurel, la salvia y la ramita de romero.",
+          "Llevar a hervor suave, tapar y cocinar a fuego muy bajo durante 1 hora a 1 hora y 15 minutos, hasta que las alubias estén sumamente tiernas pero enteras. Salar hacia el final de la cocción y retirar los aromáticos duros. Conservar todo el caldo de cocción de las alubias, que servirá para la emulsión."
+        ]
+      },
+      {
+        "name": "Elaboración del Battuto y la Salsa",
+        "steps": [
+          "En una cazuela amplia, calentar el aceite de oliva virgen extra y dorar la panceta picada a fuego medio hasta que suelte su grasa aromática y quede ligeramente crujiente.",
+          "Incorporar la cebolla, la zanahoria, el apio, los dientes de ajo picados y el romero picado. Rehogar suavemente durante unos minutos hasta que los vegetales estén dulces, tiernos y transparentes.",
+          "Verter el vino blanco y raspar el fondo de la cazuela con cuchara de madera para levantar los azúcares caramelizados; dejar evaporar el alcohol por completo.",
+          "Disolver el extracto de tomate en un poco del caldo de las alubias y sumarlo a la cazuela junto con las alubias cocidas y parte de su caldo caliente. Cocinar a fuego lento durante 15 minutos para que los sabores se amalgamen."
+        ]
+      },
+      {
+        "name": "Creación de la Crema y Textura de Borgo Pace",
+        "steps": [
+          "Tomar aproximadamente la mitad de las alubias con un cucharón de su caldo y triturarlas con un mixer o pasapurés hasta lograr una crema lisa, densa y suave.",
+          "Reintegrar este puré a la cazuela con el resto de las alubias enteras. Salpimentar a gusto: la salsa debe quedar con la consistencia de una crema suntuosa, fluida y aterciopelada."
+        ]
+      },
+      {
+        "name": "Cocción de la Pasta y Mantecado Campesino",
+        "steps": [
+          "Hervir abundante agua con sal en una olla aparte. Echar las tagliatelle frescas al huevo y cocinarlas apenas 2 a 3 minutos hasta dejarlas al dente.",
+          "Con una pinza o espumadera, transferir la pasta directamente a la cazuela con la salsa de alubias caliente, sumando medio cucharón del agua de cocción de la pasta.",
+          "Mantecar enérgicamente a fuego vivo durante 1 minuto para que el almidón de la pasta y la crema de alubias emulsionen en una salsa brillante.",
+          "Apagar el fuego, espolvorear el queso Pecorino rallado, un generoso chorro de aceite de oliva virgen extra en crudo y abundante pimienta negra molida. Servir bien humeante en platos hondos decorando con ramitas de romero crujiente."
+        ]
+      }
+    ],
+    "chef_tips": "El caldo de las alubias es oro líquido culinario: jamás descartes el agua de cocción de las legumbres, pues contiene todo el almidón y sabor mineral concentrado necesario para estirar la salsa y ligar la pasta fresca. Para que la salsa se adhiera a la perfección, amasa las tagliatelle dejándolas con una textura ligeramente rugosa (ruvida) con el palo de amasar de madera, lo que permite que la crema de alubias abrace cada bocado.",
+    "notes": "Esta receta rinde homenaje a las raíces familiares en Borgo Pace (Pésaro y Urbino, Las Marcas). Si prefieres una versión vegetariana tradicional, puedes prescindir de la panceta y comenzar el sofrito directamente con un generoso chorro de aceite de oliva virgen extra y una pizca extra de romero y salvia."
+  },
+  {
+    "id": 308,
+    "title": "Gnocchi de Patata Roja de Sompiano con Ragù de Jabalí (Italia)",
+    "original_title": "Gnocchi di Patata Rossa di Sompiano al Ragù di Cinghiale — Borgo Pace (Italia)",
+    "country": "Italia",
+    "category": "Pastas & Salsas Tradicionales",
+    "tags": [
+      "Italia",
+      "Las Marcas",
+      "Borgo Pace",
+      "Sompiano",
+      "Gnocchi",
+      "Patata Rossa",
+      "Jabalí",
+      "Caza",
+      "Ragù",
+      "Porcini",
+      "Tradicional",
+      "Pesaro e Urbino",
+      "Alto en Proteína"
+    ],
+    "prep_time": "40 min",
+    "cook_time": "2 horas (estofado lento de caza)",
+    "rest_time": "20 min (enfriado y evaporación del puré de patata)",
+    "temperature": "Fuego muy suave y constante / 180 °C (cocción de patatas)",
+    "servings": "4 a 5 porciones",
+    "calories": "520 kcal aprox. por porción",
+    "diet_badges": [
+      "Alto en Proteína"
+    ],
+    "image": "gnocchi_patata_rossa_sompiano.jpg",
+    "url": "https://umamicraft.vercel.app/receta/gnocchi-de-patata-roja-de-sompiano-con-ragu-de-jabali-italia",
+    "published": "2026-10-28T23:45:00-03:00",
+    "story": "En la fracción montañosa de Sompiano, dentro del municipio de Borgo Pace, se cultiva el tesoro agrícola con denominación de origen más venerado del valle: la célebre 'Patata Rossa di Sompiano'. Nacida en suelos apeninos ricos en minerales a gran altura, esta patata de piel rojiza y pulpa amarilla compacta posee una densidad de materia seca insuperable. Gracias a su baja humedad natural, requiere un mínimo de harina al amasar, dando vida a los gnocchis más suaves, consistentes y etéreos de toda la región de Las Marcas. Tradicionalmente, este manjar campesino se corona con un opulento 'ragù di cinghiale' (jabalí salvaje de los bosques del Montefeltro) estofado lentamente con setas porcini, vino tinto de colina, bayas de enebro y romero silvestre.",
+    "ingredient_groups": [
+      {
+        "name": "Auténticos Gnocchi de Patata Roja de Sompiano",
+        "items": [
+          "1 kg de patatas rojas de Sompiano (o patatas de montaña de piel roja y pulpa amarilla seca)",
+          "250 g a 300 g de harina de trigo 00 (la patata roja necesita poca harina)",
+          "1 yema de huevo de campo fresco",
+          "1 pizca generosa de sal marina fina",
+          "1 pizca de nuez moscada recién rallada"
+        ]
+      },
+      {
+        "name": "Ragù Tradicional de Jabalí y Setas de los Apeninos",
+        "items": [
+          "500 g de carne de jabalí limpia (o paleta de cerdo/ternera de pastura), picada a cuchillo",
+          "1 cebolla dorada, finamente picada",
+          "1 zanahoria mediana, picada fina",
+          "1 tallo de apio, picado fino",
+          "2 dientes de ajo, picados",
+          "30 g de setas porcini secas (hidratadas en agua tibia y picadas)",
+          "1 vaso de vino tinto robusto (tipo Sangiovese dei Colli Pesaresi o Rosso Piceno)",
+          "400 g de passata o tomates pelados triturados de calidad",
+          "2 hojas de laurel fresco",
+          "4 bayas de enebro, suavemente machacadas",
+          "1 ramita de romero fresco",
+          "4 cucharadas de aceite de oliva virgen extra",
+          "Caldo de carne o de verduras caliente (según necesidad)",
+          "Sal marina y pimienta negra molida"
+        ]
+      },
+      {
+        "name": "Servicio y Emplatado Rústico",
+        "items": [
+          "80 g de queso Pecorino Marchigiano o Parmigiano Reggiano rallado",
+          "Hojas de romero fresco para decorar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Cocción Lenta del Ragù de Caza y Porcini",
+        "steps": [
+          "En una cazuela pesada de hierro o barro, calentar el aceite de oliva virgen extra y dorar el jabalí picado a fuego medio-alto hasta que selle y comience a dorar por todos sus lados.",
+          "Incorporar la cebolla, la zanahoria, el apio y los dientes de ajo. Rehogar junto con la carne a fuego medio durante 10 minutos hasta que las verduras estén bien tiernas.",
+          "Sumar las bayas de enebro machacadas, las hojas de laurel y la ramita de romero. Verter el vino tinto y dejar reducir a fuego suave hasta que el alcohol se evapore casi por completo.",
+          "Añadir las setas porcini hidratadas y picadas con un poco de su agua de remojo colada. Volcar el tomate triturado, salpimentar a gusto y bajar el fuego al mínimo.",
+          "Tapar y cocinar a fuego muy suave durante 1 hora y media a 2 horas, removiendo ocasionalmente y agregando cucharadas de caldo caliente si fuera necesario, hasta lograr una salsa oscura, untuosa y con la carne tan tierna que se deshace."
+        ]
+      },
+      {
+        "name": "Elaboración de los Gnocchi de Sompiano",
+        "steps": [
+          "Cocinar las patatas rojas enteras y con piel: idealmente al vapor o asadas sobre una capa de sal gruesa al horno a 180 °C durante 45 a 50 minutos para evitar que absorban agua.",
+          "Pelar las patatas aún calientes y pasarlas inmediatamente por el pasapurés sobre la tabla de madera. Extender el puré para que libere el vapor y dejar templar unos 15 minutos.",
+          "Hacer un hueco en el centro del puré, agregar la yema de huevo, la sal y la nuez moscada. Espolvorear la mayor parte de la harina e integrar con las manos rápidamente sin amasar en exceso (el secreto de un gnocchi liviano es manipular la masa lo mínimo indispensable).",
+          "Dividir la masa en porciones, rodar sobre la mesa ligeramente enharinada formando cordones del grosor de un dedo y cortar los gnocchis de unos 2 cm. Si se desea, pasarlos por la tablilla estriada (rigagnocchi) o las puntas de un tenedor para que atrapen mejor la salsa."
+        ]
+      },
+      {
+        "name": "Cocción y Emplatado al Estilo de Sompiano",
+        "steps": [
+          "Hervir abundante agua con sal en una olla grande. Echar los gnocchis por tandas con cuidado: apenas suban flotando a la superficie (unos 90 segundos a 2 minutos), retirarlos con una espumadera.",
+          "Transferir los gnocchis directamente a la cazuela con el ragù caliente y menear suavemente con cuchara de madera para que cada bocado quede cubierto por la salsa aterciopelada sin romper la pasta.",
+          "Servir de inmediato en cuencos rústicos de cerámica, coronando con abundante queso Pecorino rallado, un toque de pimienta negra molida y unas hojas de romero fresco. ¡Buen provecho!"
+        ]
+      }
+    ],
+    "chef_tips": "El secreto legendario de la Patata Roja de Sompiano: Gracias a su cultivo en las laderas minerales de Borgo Pace, esta variedad concentra un porcentaje altísimo de almidón y casi nada de agua. Cocínalas siempre con piel (preferiblemente al horno sobre sal gruesa o al vapor), y aplástalas en caliente para que el vapor escape. Al no requerir exceso de harina, los gnocchis resultan suaves como nubes sin perder consistencia al hervir.",
+    "notes": "Receta tradicional de la fracción de Sompiano, Borgo Pace (Pésaro y Urbino, Las Marcas). Si no consigues jabalí, este ragù rústico es igualmente glorioso preparado con paleta de cerdo de campo o carne de ternera estofada con las setas porcini."
   }
 ]
