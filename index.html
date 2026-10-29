@@ -1662,12 +1662,12 @@
 
   <header>
     <div class="nav-container">
-      <div class="brand" onclick="goHome()" style="cursor:pointer;" title="Volver al inicio">
+      <a href="/" class="brand" onclick="goHome(event)" style="cursor:pointer;" title="Volver al inicio">
         <div class="brand-text">
           <h1>Umami<span>Craft</span></h1>
           <div class="brand-subtitle">COLECCIÓN GASTRONÓMICA & COCKTAILS DE AUTOR</div>
         </div>
-      </div>
+      </a>
 
       <div class="nav-actions">
         <div class="lang-switcher notranslate" translate="no">
@@ -1731,6 +1731,7 @@
       <div class="quick-chips-row" id="quickChipsBar">
         <span class="chip-label">Colecciones:</span>
         <button class="chip active" onclick="setQuickTag('all')">✨ Todas <span class="chip-count" id="totalCountChip"></span></button>
+        <button class="chip" onclick="setQuickTag('Burgers')">🍔 Burgers & Sándwiches</button>
         <button class="chip" onclick="setQuickTag('Cocktails & Tragos')">🍸 Cocktails</button>
         <button class="chip" onclick="setQuickTag('Pastas')">🍝 Pastas</button>
         <button class="chip" onclick="setQuickTag('Sopas y Potajes')">🍜 Sopas & Ramen</button>
@@ -2325,17 +2326,24 @@
     function updateChips() {
       document.querySelectorAll('.chip').forEach(c => {
         const isAll = currentQuickTag === 'all' && c.textContent.includes('Todas');
+        const isBurgers = (currentQuickTag === 'Burgers' || currentQuickTag === 'Burgers & Sándwiches') && (c.textContent.includes('Burger') || c.textContent.includes('Sándwich'));
         const isCocktail = currentQuickTag === 'Cocktails & Tragos' && c.textContent.includes('Cocktails');
         const isSopa = currentQuickTag === 'Sopas y Potajes' && c.textContent.includes('Sopas');
         const isPollo = currentQuickTag === 'Pollo / Aves' && c.textContent.includes('Aves');
         const isPostre = currentQuickTag === 'Postres y Dulces' && c.textContent.includes('Postres');
         const isMatch = c.textContent.includes(currentQuickTag);
-        c.classList.toggle('active', isAll || isCocktail || isSopa || isPollo || isPostre || (currentQuickTag !== 'all' && isMatch));
+        c.classList.toggle('active', isAll || isBurgers || isCocktail || isSopa || isPollo || isPostre || (currentQuickTag !== 'all' && isMatch));
       });
     }
 
-    function goHome() {
-      if (currentModalRecipeId) closeModal(false);
+    function goHome(e) {
+      if (e && e.preventDefault) e.preventDefault();
+      if (document.getElementById('recipeModal') && document.getElementById('recipeModal').classList.contains('open')) {
+        closeModal(false);
+      }
+      if (document.getElementById('shoppingListModal') && document.getElementById('shoppingListModal').classList.contains('open')) {
+        closeShoppingListModal();
+      }
       resetAll();
       const homePath = (currentLang && currentLang !== 'es') ? `/?lang=${currentLang}` : '/';
       history.pushState(null, '', homePath);
@@ -2383,9 +2391,19 @@
         if (selectedDiet !== 'all' && !diets.includes(selectedDiet)) return false;
 
         if (currentQuickTag !== 'all') {
-          const matchCat = category === currentQuickTag;
-          const matchCountry = country.toLowerCase().includes(currentQuickTag.toLowerCase());
-          if (!matchCat && !matchCountry) return false;
+          if (currentQuickTag === 'Burgers' || currentQuickTag === 'Burgers & Sándwiches') {
+            const isBurger = category.toLowerCase().includes('burger') || 
+                             category.toLowerCase().includes('sándwich') || 
+                             category.toLowerCase().includes('sandwich') ||
+                             (r.title || '').toLowerCase().includes('burger') ||
+                             (r.title || '').toLowerCase().includes('hamburguesa') ||
+                             (r.tags || []).some(t => t.toLowerCase().includes('burger') || t.toLowerCase().includes('sandwich'));
+            if (!isBurger) return false;
+          } else {
+            const matchCat = category === currentQuickTag;
+            const matchCountry = country.toLowerCase().includes(currentQuickTag.toLowerCase());
+            if (!matchCat && !matchCountry) return false;
+          }
         }
 
         if (query) {
@@ -2726,7 +2744,8 @@
             `;
           }).join('')}
         </ul>
-      `).join('');
+      `;
+      }).join('');
     }
 
     /* =========================================================================
@@ -2805,7 +2824,8 @@
             `;
           }).join('')}
         </div>
-      `).join('');
+      `;
+      }).join('');
     }
 
     /* =========================================================================

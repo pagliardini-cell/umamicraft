@@ -1,15 +1,14 @@
 const fs = require('fs');
 const path = require('path');
 
-const charmap = {
-  'ı': 'i', 'İ': 'i', 'ø': 'o', 'Ø': 'o', 'æ': 'ae', 'Æ': 'ae', 'œ': 'oe', 'Œ': 'oe', 'ß': 'ss',
-  'ð': 'd', 'þ': 'th'
-};
-
 function makeSlug(title) {
   let t = String(title || '');
-  for (const [k, v] of Object.entries(charmap)) t = t.replaceAll(k, v);
-  return t.normalize('NFKD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+  return t
+    .normalize('NFKD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
 }
 
 function parseDurationIso(s) {
