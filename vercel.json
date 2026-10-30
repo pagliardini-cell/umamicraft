@@ -57,6 +57,10 @@
     {
       "source": "/r/:slug",
       "destination": "/api/index?receta=:slug"
+    },
+    {
+      "source": "/:image((?!img/|icon-|apple-touch|favicon|logo_)[^/]+\\.(?:jpg|jpeg|png|webp))",
+      "destination": "/img/:image"
     }
   ]
 }
