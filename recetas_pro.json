@@ -24859,7 +24859,7 @@
   },
   {
     "id": 344,
-    "title": "Tokyo Shoyu Ramen Tradicional — Fideos en Caldo Claro de Pollo y Dashi con Shoyu Tare y Chashu (Japón)",
+    "title": "Tokyo Shoyu Ramen (Japón)",
     "original_title": "醤油ラーメン (Tokyo Shoyu Ramen)",
     "country": "Japón",
     "category": "Sopas y Potajes",
@@ -24882,7 +24882,7 @@
     "calories": "580 kcal aprox. por tazón",
     "diet_badges": [],
     "image": "tokyo_shoyu_ramen_tradicional.jpg",
-    "url": "https://umamicraft.vercel.app/receta/tokyo-shoyu-ramen-tradicional-fideos-en-caldo-claro-de-pollo-y-dashi-con-shoyu-tare-y-chashu-japon",
+    "url": "https://umamicraft.vercel.app/receta/tokyo-shoyu-ramen-japon",
     "published": "2026-10-30",
     "story": "Nacido en el histórico barrio de Asakusa (Tokio) en 1910 en el mítico restaurante Rairaiken, el Shoyu Ramen es el arquetipo indiscutido del ramen japonés contemporáneo. Su excelencia radica en la armonía del doble caldo Chintan (pollo de campo y dashi marino transparente) enriquecido por el Shoyu Tare: un concentrado de salsa de soja japonesa añejada, mirin y alga kombu. Se complementa con el Chiyu (aceite dorado de pollo aromatizado con verdeo) que sella la superficie del tazón para conservar el calor y atrapar los aromas en cada sorbo, coronado con panceta Chashu glaseada, huevo Ajitsuke Tamago con yema semilíquida, pak choi y fideos ondulados elásticos.",
     "ingredient_groups": [
@@ -24962,7 +24962,7 @@
   },
   {
     "id": 345,
-    "title": "Hakodate Shio Ramen Tradicional — Fideos en Caldo Cristalino Marino con Shio Tare y Panceta Chashu (Japón)",
+    "title": "Hakodate Shio Ramen (Japón)",
     "original_title": "函館塩ラーメン (Hakodate Shio Ramen)",
     "country": "Japón",
     "category": "Sopas y Potajes",
@@ -24985,7 +24985,7 @@
     "calories": "520 kcal aprox. por tazón",
     "diet_badges": [],
     "image": "hakodate_shio_ramen_tradicional.jpg",
-    "url": "https://umamicraft.vercel.app/receta/hakodate-shio-ramen-tradicional-fideos-en-caldo-cristalino-marino-con-shio-tare-y-panceta-chashu-japon",
+    "url": "https://umamicraft.vercel.app/receta/hakodate-shio-ramen-japon",
     "published": "2026-10-30",
     "story": "Originario de la ciudad portuaria de Hakodate, en la isla norteña de Hokkaido, el Shio Ramen es históricamente la vertiente más antigua de ramen en Japón, nacida a mediados del siglo XIX del intercambio entre comerciantes marítimos y cocineros locales. Se distingue por la pureza casi transparente de su caldo, donde la sal marina artesanal (Moshio) y los ingredientes marinos deshidratados (alga kombu de Hokkaido, vieiras secas o katsuobushi) potencian el umami natural sin teñir el caldo de oscuro ni enmascarar su frescura. Servido con fideos rectos finos, panceta Chashu braseada, huevo Ajitsuke, brotes crujientes, sésamo tostado y una lámina triangular de alga Nori crujiente.",
     "ingredient_groups": [
@@ -25151,5 +25151,3396 @@
       "Variante con toque picante o hierbas: Puedes sumar a la base unas rodajas finas de chile jalapeño, ajo laminado o una ramita de tomillo fresco para un perfil de sabor más campestre."
     ],
     "notes": "Receta de Autor práctica y rápida. Apta para dietas cetogénicas (Keto) y sin gluten (Celíacos)."
+  },
+  {
+    "id": 347,
+    "title": "Tonkotsu Ramen (Japón)",
+    "original_title": "Hakata Tonkotsu Ramen (豚骨ラーメン)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Tonkotsu",
+      "Cerdo",
+      "Sopas y Caldos"
+    ],
+    "prep_time": "40 min",
+    "cook_time": "12 h (o 2 h en olla a presión)",
+    "rest_time": "15 min",
+    "temperature": "Muy caliente (servir inmediatamente a 90 °C)",
+    "servings": "2 porciones",
+    "calories": "680 kcal por porción",
+    "diet_badges": [
+      "Rico en Colágeno",
+      "Sopa Cremosa",
+      "Umami Intenso"
+    ],
+    "image": "01_tonkotsu_ramen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/tonkotsu-ramen-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de la ciudad de Fukuoka, en la Prefectura de Fukuoka (Isla de Kyushu), Japón. El Tonkotsu es la máxima expresión de los caldos japoneses de cocción prolongada. Su característico color blanco lechoso y su untuosidad se originan en la emulsión forzada de la médula ósea y el colágeno gelatinizado de fémures de cerdo hervidos a borbotones violentos durante más de 12 horas. Se complementa con fideos ultrafinos al dente y una rica capa de grasa aromática.",
+    "ingredient_groups": [
+      {
+        "name": "Caldo Blanco Tonkotsu (Emulsión Paitan)",
+        "items": [
+          "1,5 kg de huesos de caña o fémur de cerdo (Genkotsu) cortados al medio",
+          "500 g de manitas de cerdo limpias (aporte crítico de colágeno)",
+          "3 litros de agua fresca filtrada",
+          "1 cabeza de ajo entera cortada transversalmente",
+          "50 g de jengibre fresco machacado con piel",
+          "2 puerros o cebollas de verdeo enteras",
+          "1 cebolla blanca partida a la mitad sin pelar"
+        ]
+      },
+      {
+        "name": "Shoyu Tare Concentrado y Aceite Aromático",
+        "items": [
+          "80 ml de salsa de soja Koikuchi japonesa",
+          "30 ml de mirin hon-mirin",
+          "30 ml de sake seco para cocinar",
+          "1 trozo de alga Kombu de 5x5 cm",
+          "1 cucharadita de sal marina fina",
+          "3 cucharadas de manteca de cerdo pura aromatizada con ajo confitado"
+        ]
+      },
+      {
+        "name": "Fideos y Toppings Canónicos",
+        "items": [
+          "240 g de fideos ramen ultrafinos y rectos frescos (estilo Hakata)",
+          "4 láminas tiernas de panceta de cerdo Chashu enrollada y braseada",
+          "1 huevo Ajitsuke marinado a temperatura ambiente cortado en dos",
+          "30 g de setas oreja de madera (Kikurage) rehidratadas y en juliana",
+          "4 cucharadas de cebolla de verdeo (Negi) cortada en aros ultra finos",
+          "2 cucharaditas de jengibre rojo encurtido en tiras (Beni Shōga)",
+          "2 hojas rectangulares de alga Nori tostada"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Purificación y Hervido Violento del Caldo (Emulsión Paitan)",
+        "steps": [
+          "Blanqueado inicial: Colocar los huesos de fémur y manitas de cerdo en una olla amplia, cubrir con agua fría y llevar a hervor vigoroso durante 10 minutos. Se formará una espuma grisácea densa con restos de sangre coagulada. Retirar del fuego, desechar toda esa agua sucia y fregar los huesos pieza por pieza bajo el grifo de agua fría con un cepillo para retirar impurezas negras y restos de médula expuesta.",
+          "Hervido continuo de emulsión: Regresar los huesos perfectamente limpios a la olla, verter 3 litros de agua fresca y encender a fuego medio-alto constante. A diferencia de los caldos franceses o de pollo que se hacen a fuego suave para mantener la claridad, el Tonkotsu EXIGE un hervor a borbotones activos durante 10 a 12 horas continuas (o 2 horas y media en olla a presión a máxima válvula). Ese burbujeo violento agita la grasa fundida y el agua, obligándolos a emulsionarse físicamente con el colágeno disuelto hasta tornarse opaco y blanco como la leche. Reponer agua caliente cuando baje el nivel.",
+          "Extracción aromática y filtrado: Durante la última hora de cocción, incorporar la cabeza de ajo, el jengibre machacado, los puerros y la cebolla. Pasadas las 12 horas, colar el caldo pasando el líquido por un tamiz fino con gasa, presionando los restos para extraer todo el extracto graso y la gelatina sedosa. Mantener el caldo caliente a 90 °C."
+        ]
+      },
+      {
+        "name": "2. Elaboración del Tare Concentrado y Grasa Aromática",
+        "steps": [
+          "En un cazo pequeño, combinar la salsa de soja, el mirin, el sake, la sal fina y el alga kombu. Llevar a fuego muy bajo sin que hierva enérgicamente durante 7 minutos para evaporar el alcohol y permitir que los ácidos glutámicos del kombu penetren la salsa de soja.",
+          "Retirar el alga kombu antes de que amargue, colar y reservar el Shoyu Tare resultante.",
+          "En una sartén pequeña aparte, calentar la manteca de cerdo con dos dientes de ajo laminados a fuego muy bajo durante 10 minutos hasta que el ajo se dore y la grasa absorba su fragancia. Filtrar y reservar tibia."
+        ]
+      },
+      {
+        "name": "3. Cocción Milimétrica de Fideos Ultrafinos",
+        "steps": [
+          "Llevar una olla con abundante agua (mínimo 3 litros) a ebullición tumultuosa sin sal. Los fideos ultrafinos estilo Hakata poseen un contenido de humedad bajo y se cocinan a velocidad relámpago.",
+          "Colocar 120 g de fideos por porción dentro de un colador cónico para ramen (tebo) y sumergir en el agua hirviendo exactamente 45 a 60 segundos para un punto 'Katame' (firme al dente).",
+          "Sacar el colador del agua y sacudir enérgicamente 4 o 5 veces con golpes secos de muñeca hacia abajo para escurrir hasta la última gota de agua, evitando que agüe el caldo cremoso."
+        ]
+      },
+      {
+        "name": "4. Calentamiento del Cuenco, Integración y Servicio",
+        "steps": [
+          "Precalentar los tazones hondos donburi llenándolos con agua hirviendo durante 2 minutos; tirar el agua y secar de inmediato (este paso evita que la emulsión grasa del caldo se enfríe o se corte).",
+          "Verter 35 ml de Shoyu Tare concentrado y 1 cucharada sopera de manteca aromática en el fondo de cada tazón.",
+          "Añadir 350 ml de caldo blanco Tonkotsu hirviendo en cada cuenco y batir 3 segundos con palillos para lograr una mezcla espumosa y dorada.",
+          "Depositar los fideos escurridos en el centro, estirándolos con los palillos para que queden alineados de lado a lado.",
+          "Disponer encima dos lonchas de Chashu braseado, la mitad del huevo Ajitsuke con la yema líquida hacia arriba, una porción de setas Kikurage en juliana, el verdeo picado fino, una pizca de Beni Shōga rojo en el lateral y una hoja de nori encajada contra la pared del cuenco. Servir inmediatamente."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "El fideo fino de Hakata continúa absorbiendo caldo en la mesa; cómelo dentro de los primeros 5 a 7 minutos para disfrutar su textura firme óptima.",
+      "Si te sobra caldo en el cuenco, no lo descartes: en Fukuoka se pide 'Kaedama' (una segunda tanda de fideos hervidos al instante) para volcar en el caldo restante.",
+      "Para un caldo ultra blanco, retira cuidadosamente cualquier coágulo oscuro de los fémures antes del hervor de 12 horas."
+    ],
+    "notes": "Para lograr el blanco lechoso perfecto del caldo Tonkotsu es indispensable el hervor a borbotones activos: la agitación mecánica es lo que emulsiona la grasa con la gelatina de los huesos."
+  },
+  {
+    "id": 348,
+    "title": "Tsukemen (Japón)",
+    "original_title": "Tsukemen (つけ麺)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Tsukemen",
+      "Fideos Gruesos",
+      "Tokyo"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "1 h 30 min",
+    "rest_time": "10 min",
+    "temperature": "Contraste térmico: Fideos fríos elásticos con caldo hiperconcentrado humeante",
+    "servings": "2 porciones",
+    "calories": "720 kcal por porción",
+    "diet_badges": [
+      "Sopa Hiperconcentrada",
+      "Fideos Elásticos",
+      "Doble Textura"
+    ],
+    "image": "02_tsukemen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/tsukemen-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de la ciudad de Tokyo, en la Metrópolis de Tokyo (Región de Kanto), Japón. Creado en 1961 por Kazuo Yamagishi en el mítico restaurante Taishoken. A diferencia del ramen tradicional, los fideos extra gruesos se sirven fríos en un plato separado tras un choque térmico con agua helada, mientras que el caldo es una reducción densa, agridulce y con marcado umami marino (polvo Gyofun) en un cuenco pequeño.",
+    "ingredient_groups": [
+      {
+        "name": "Sopa Concentrada para Dipear (Tsukesiru)",
+        "items": [
+          "600 ml de caldo denso mixto de pollo y cerdo muy reducido",
+          "60 ml de salsa de soja oscura Koikuchi",
+          "25 ml de vinagre de arroz japonés (Komezu)",
+          "2 cucharadas de azúcar de caña o mirin dulce",
+          "2 cucharadas colmadas de polvo de pescado ahumado Gyofun (Katsuobushi y sardina Niboshi tostada molida)",
+          "1 cucharadita de aceite de chile Rayu",
+          "1 cucharadita de ajo y jengibre rallados muy finos"
+        ]
+      },
+      {
+        "name": "Fideos Extra Gruesos y Acondicionamiento Térmico",
+        "items": [
+          "320 g de fideos ramen extra gruesos (Futomen estilo Tsukemen)",
+          "Abundante agua con cubos de hielo para el choque térmico"
+        ]
+      },
+      {
+        "name": "Toppings y Servicio Ritual",
+        "items": [
+          "4 lonchas gruesas de panceta Chashu tibia o ligeramente sopleteada",
+          "1 huevo Ajitsuke marinado cortado por la mitad",
+          "40 g de brotes de bambú Menma marinados",
+          "3 cucharadas de cebolla de verdeo picada fina",
+          "2 láminas de alga nori",
+          "200 ml de caldo Dashi ligero hirviendo (para el Soup-wari final)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Reducción y Emulsión Agridulce del Tsukesiru",
+        "steps": [
+          "En una cazuela pequeña, calentar el caldo denso mixto hasta romper en hervor suave. Añadir la salsa de soja, el vinagre de arroz, el azúcar, el ajo y el jengibre rallados.",
+          "Cocinar a fuego lento durante 10 minutos hasta que la salsa reduzca y adquiera una densidad suficiente como para napar el dorso de una cuchara. La combinación del vinagre con el azúcar equilibra la potencia grasa del caldo.",
+          "Incorporar el aceite de chile Rayu y una cucharada de polvo de pescado Gyofun revolviendo con batidor de varillas para dispersar el aroma ahumado. Mantener muy caliente al borde del hervor."
+        ]
+      },
+      {
+        "name": "2. Cocción Prolongada y Choque Helado de Fideos",
+        "steps": [
+          "Hervir 4 litros de agua vigorosamente. Introducir los fideos extra gruesos y cocinar durante 6 a 7 minutos exactos, removiendo con palillos largos para evitar adherencias.",
+          "Verter los fideos en un escurridor y trasladarlos de inmediato a un baño maría invertido de agua con cubos de hielo.",
+          "Frotar los fideos delicadamente con ambas manos bajo el agua helada durante 1 minuto. Este lavado elimina el exceso de almidón superficial suelto y frena la cocción de golpe, contrayendo la estructura del gluten para darle ese mordisco hiperelástico característico de Tsukemen.",
+          "Escurrir enérgicamente y secar sacudiendo el colador repetidas veces."
+        ]
+      },
+      {
+        "name": "3. Montaje Separado en Dos Cuencos",
+        "steps": [
+          "Disponer los fideos fríos y brillantes en un plato hondo o bandeja plana, acomodando al costado las lonchas de panceta Chashu ligeramente templadas, el huevo Ajitsuke y una hoja de nori.",
+          "En un tazón pequeño pero profundo precalentado, verter 250 ml de la sopa concentrada Tsukesiru humeante. Espolvorear en el centro la cucharada restante de polvo Gyofun, los brotes de menma y el verdeo fresco picado.",
+          "Servir de inmediato: el comensal toma un pequeño manojo de fideos fríos con los palillos, los sumerge durante 3 segundos en el caldo hirviendo para temperarlos y los sorbe ruidosamente absorbiendo la salsa concentrada."
+        ]
+      },
+      {
+        "name": "4. El Ritual del Soup-Wari (Al terminar los fideos)",
+        "steps": [
+          "Una vez consumidos todos los fideos, verter 100 ml de caldo dashi ligero caliente directamente sobre el resto de sopa espesa que quedó en el tazón.",
+          "Remover con la cuchara de ramen: esto aligera la concentración salina y transforma la salsa densa en una sopa reconfortante para beber con las dos manos."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Lavar los fideos en agua helada frotándolos con la palma de la mano es el secreto ineludible para lograr la textura 'mochi-mochi' (elástica y masticable).",
+      "El polvo Gyofun de bonito y sardina no se debe mezclar por completo en la cocina: déjalo flotar en el centro para que el comensal lo incorpore bocado a bocado.",
+      "Si la sopa se enfría a mitad de comer, en Japón los locales ofrecen una 'piedra volcánica caliente' (Yaki-ishi) para sumergir y recalentarla al instante."
+    ],
+    "notes": "Lavar los fideos enérgicamente bajo un chorro de agua helada frotándolos con las palmas contrae el gluten y otorga la insuperable elasticidad 'mochi-mochi' que exige el Tsukemen."
+  },
+  {
+    "id": 349,
+    "title": "Miso Ramen (Japón)",
+    "original_title": "Sapporo Miso Ramen (札幌味噌ラーメン)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Miso",
+      "Sapporo",
+      "Wok",
+      "Sopas y Caldos"
+    ],
+    "prep_time": "25 min",
+    "cook_time": "35 min",
+    "rest_time": "5 min",
+    "temperature": "Ardiendo (sellado térmico con capa de manteca)",
+    "servings": "2 porciones",
+    "calories": "650 kcal por porción",
+    "diet_badges": [
+      "Técnica Wok Hei",
+      "Aroma Tostado",
+      "Reconfortante Invernal"
+    ],
+    "image": "03_miso_ramen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/miso-ramen-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de la ciudad de Sapporo, en la Prefectura de Hokkaido (Norte de Japón), Japón. Diseñado a mediados de los años 50 para combatir las temperaturas bajo cero del invierno norteño. Su secreto reside en la técnica del wok: se saltea carne picada de cerdo, ajo y verduras a fuego brutal antes de añadir y tostar la pasta de miso artesanal, desglasando al instante con caldo caliente para crear una sopa emulsionada densa y aromatizada con notas ahumadas.",
+    "ingredient_groups": [
+      {
+        "name": "Sofrito de Wok y Mezcla Maestra de Miso",
+        "items": [
+          "120 g de carne de cerdo picada (con 20% de grasa para aportar sabor)",
+          "3 cucharadas de pasta Akamiso (miso rojo añejado y profundo)",
+          "2 cucharadas de pasta Shiromiso (miso blanco dulce y suave)",
+          "1 cucharadita de pasta de sésamo blanco tostado (Tahini o Nerigoma)",
+          "1 cucharadita de pasta de soja picante fermentada (Toban Djan)",
+          "3 dientes de ajo prensados",
+          "1 trozo de 3 cm de jengibre fresco rallado fino",
+          "2 cucharadas de manteca de cerdo pura (Lard)"
+        ]
+      },
+      {
+        "name": "Cama Vegetal y Caldo de Extracción",
+        "items": [
+          "800 ml de caldo mixto caliente de pollo y cerdo",
+          "150 g de brotes de soja frescos crujientes (Moyashi)",
+          "1/2 cebolla blanca cortada en juliana fina",
+          "1/4 de repollo blanco picado en cuadrados rústicos",
+          "1 pizca generosa de pimienta blanca molida"
+        ]
+      },
+      {
+        "name": "Fideos de Hokkaido y Corona de Manteca",
+        "items": [
+          "260 g de fideos ramen rizados gruesos y amarillos (Chijire-futo-men)",
+          "6 cucharadas colmadas de maíz dulce tierno en grano (choclo)",
+          "2 cubos generosos de manteca sin sal fría de 20 g cada uno",
+          "4 lonchas de chashu de cerdo",
+          "Cebolla de verdeo picada en aros y semillas de sésamo tostado"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. El Salteado Fuerte en Wok (Aroma Ahumado Wok Hei)",
+        "steps": [
+          "Colocar un wok o sartén de hierro a fuego máximo hasta que comience a desprender un ligero hilo de humo.",
+          "Añadir la manteca de cerdo e incorporar de inmediato la carne picada con el ajo prensado y el jengibre rallado, desmenuzando con espátula metálica durante 2 minutos hasta dorar intensamente.",
+          "Agregar la cebolla, el repollo y los brotes de soja. Saltear a fuego rabioso durante 60 segundos manteniendo las verduras crocantes pero con los bordes ligeramente quemados por el calor del wok.",
+          "Espolvorear con pimienta blanca y apartar las verduras hacia un lateral del wok."
+        ]
+      },
+      {
+        "name": "2. Tostado del Miso y Desglasado Instantáneo",
+        "steps": [
+          "En el espacio libre del fondo del wok, añadir las pastas de Akamiso, Shiromiso, pasta de sésamo y Toban Djan. Tostar la pasta durante 30 a 45 segundos sobre el fondo caliente sin dejar de revolver para liberar sus azúcares caramelizados y aromas de fermentación.",
+          "Verter de golpe los 800 ml de caldo hirviendo sobre el miso tostado y las verduras; el líquido hervirá instantáneamente en un chisporroteo violento.",
+          "Cocinar a borbotones durante 2 minutos raspando el fondo para disolver toda la pasta y lograr que la manteca de cerdo emulsione con el caldo y el miso en una sopa cremosa, untuosa y marrón dorada."
+        ]
+      },
+      {
+        "name": "3. Cocción de Fideos Rizados de Hokkaido",
+        "steps": [
+          "Hervir los fideos gruesos y muy rizados durante 2 minutos en abundante agua hirviendo.",
+          "Los fideos con ondulación pronunciada son imprescindibles en Sapporo: sus curvas actúan como pequeños cucharones que atrapan los granos de maíz y la sopa densa de miso en cada sorbo.",
+          "Escurrir perfectamente con sacudidas enérgicas y transferir a los tazones."
+        ]
+      },
+      {
+        "name": "4. Emplatado, Corona de Choclo y Bloque de Manteca Fundente",
+        "steps": [
+          "Verter la sopa hirviendo con toda la verdura salteada y la carne picada directamente sobre los fideos en el tazón.",
+          "Acomodar encima las lonchas de chashu, 3 cucharadas colmadas de maíz dulce tierno en grano y el verdeo picado.",
+          "Coronar en el centro con el cubo de manteca fría: al llegar a la mesa, la manteca empezará a fundirse lentamente sobre el caldo ardiente, aportando una cremosidad láctea que redondea las notas tostadas del miso."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Tostar la pasta de miso directamente contra el metal del wok antes de verter el caldo marca la diferencia entre un miso plano y un auténtico Sapporo de concurso.",
+      "La manteca de cerdo en la superficie crea un sello térmico que conserva el caldo hirviendo hasta el último fideo.",
+      "Consigue fideos con kansui amarillo intenso y alto rebote; soportan la sopa espesa sin ablandarse jamás."
+    ],
+    "notes": "Tostar la pasta de miso directamente contra el hierro del wok caliente antes de verter el caldo carameliza sus azúcares naturales y aporta las notas ahumadas inconfundibles de Sapporo."
+  },
+  {
+    "id": 350,
+    "title": "Shoyu Ramen (Japón)",
+    "original_title": "Tokyo Shoyu Ramen (東京醤油ラーメン)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Shoyu",
+      "Tokyo",
+      "Caldo Claro",
+      "Sopas y Caldos"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "3 h",
+    "rest_time": "10 min",
+    "temperature": "Caliente cristalino (88 °C - 90 °C)",
+    "servings": "2 porciones",
+    "calories": "520 kcal por porción",
+    "diet_badges": [
+      "Caldo Cristalino Chintan",
+      "Umami Clásico",
+      "Bajo en Grasas"
+    ],
+    "image": "04_shoyu_ramen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/shoyu-ramen-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de la ciudad de Tokyo, en la Metrópolis de Tokyo (Barrio de Asakusa), Japón. El patriarca del ramen moderno, perfeccionado a comienzos del siglo XX. Es un caldo Chintan transparente y brillante elaborado a base de carcasas de pollo de granja y dashi marino de kombu y katsuobushi a fuego mínimo constante, condimentado con un Shoyu Tare artesanal añejado y gotas doradas de aceite de pollo Chiyu.",
+    "ingredient_groups": [
+      {
+        "name": "Doble Caldo Cristalino Chintan (Ave y Mar)",
+        "items": [
+          "1 kg de carcasas y alitas de pollo de campo bien lavadas",
+          "1 trozo de alga Kombu de 10x10 cm",
+          "25 g de copos de bonito seco ahumado (Katsuobushi de corte fino)",
+          "3 hongos Shiitake secos rehidratados",
+          "2 puerros limpios (solo parte blanca y verde claro)",
+          "3 dientes de ajo machacados y 2 rodajas de jengibre",
+          "2,5 litros de agua filtrada pura"
+        ]
+      },
+      {
+        "name": "Shoyu Tare Madurado y Aceite Dorado Chiyu",
+        "items": [
+          "100 ml de salsa de soja Koikuchi japonesa de alta calidad",
+          "20 ml de salsa de soja Usukuchi (clara pero salina)",
+          "40 ml de mirin artesanal y 30 ml de sake seco",
+          "1 cucharadita de sal marina marina pura",
+          "3 cucharadas de aceite dorado de pollo Chiyu (grasa de piel de pollo aromatizada con verdeo)"
+        ]
+      },
+      {
+        "name": "Fideos Rizados y Toppings Tradicionales Showa",
+        "items": [
+          "240 g de fideos ramen rizados medianos (Chijiremen)",
+          "4 rodajas finas de panceta Chashu estofada",
+          "1 huevo Ajitsuke marinado cortado en dos mitades",
+          "4 rodajas de Narutomaki (pasta de pescado blanca con espiral rosa)",
+          "40 g de brotes de bambú Menma marinados",
+          "Cebolla de verdeo Negi finamente picada",
+          "2 rectángulos de alga nori crocante"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Extracción a Fuego Lento del Caldo Claro Chintan",
+        "steps": [
+          "Colocar las carcasas y alitas de pollo en una cacerola con los 2,5 litros de agua. Llevar a fuego medio hasta que alcance los 85 °C - 90 °C (fuego suave, sin que rompa en hervor a borbotones).",
+          "Espumar pacientemente cada 10 minutos con una espumadera durante la primera hora para remover cualquier espuma o turbidez. La regla de oro del caldo Chintan es el fuego manso: si el agua hierve fuerte, los sedimentos emulsionan y el caldo se vuelve opaco.",
+          "Añadir el kombu, los shiitake rehidratados, los puerros, el ajo y el jengibre. Cocinar durante 2 horas y media manteniendo el agua apenas temblando.",
+          "En los últimos 10 minutos, apagar el fuego, añadir los 25 gramos de katsuobushi y dejar infusionar 8 minutos. Colar todo el caldo por un paño fino de algodón sin presionar. El resultado debe ser un néctar ámbar dorado cristalino."
+        ]
+      },
+      {
+        "name": "2. Cocción del Shoyu Tare y Extracción del Chiyu",
+        "steps": [
+          "En un cazo pequeño, combinar las dos salsas de soja, el mirin, el sake y la sal marina. Calentar a fuego lento hasta disolver la sal y evaporar el alcohol crudo (aproximadamente 5 minutos a 80 °C). Dejar reposar.",
+          "Para el aceite Chiyu: colocar recortes de piel y grasa de pollo en una sartén a fuego mínimo con trozos de cebollín. Dejar que la grasa se derrita lentamente hasta obtener un aceite amarillo brillante perfumado. Filtrar."
+        ]
+      },
+      {
+        "name": "3. Hervido Preciso de los Fideos Rizados",
+        "steps": [
+          "Poner a hervir abundante agua en olla grande.",
+          "Abrir los fideos rizados con las manos antes de tirarlos al agua hirviendo durante exactamente 90 segundos.",
+          "Sacudir el colador con fuerza para desechar el agua y conservar la tensión del rizo."
+        ]
+      },
+      {
+        "name": "4. Armado Elegante del Donburi Clásico",
+        "steps": [
+          "Templar los tazones con agua caliente y secar.",
+          "Verter 35 ml de Shoyu Tare y 1 cucharada de aceite Chiyu dorado en cada tazón.",
+          "Añadir 360 ml de caldo ámbar hirviendo; se formarán círculos dorados de grasa de ave flotando sobre la superficie.",
+          "Colocar los fideos peinados en el centro.",
+          "Disponer el chashu, el huevo Ajitsuke, los brotes de bambú Menma, dos rodajas de Narutomaki en el centro con su espiral visible, verdeo picado y la lámina de nori al borde. Servir de inmediato."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Nunca dejes que el caldo de pollo hierva con violencia: la transparencia cristalina se destruye por encima de los 95 °C.",
+      "El narutomaki con su espiral rosada representa los remolinos del estrecho de Naruto y es el sello visual inconfundible de Tokyo.",
+      "Una pizca muy leve de pimienta blanca molida en el caldo al servir eleva el aroma nostálgico del tare."
+    ],
+    "notes": "La regla de oro del caldo Chintan de Tokyo es mantener el fuego muy manso a 88 °C: si el caldo rompe en hervor fuerte, los sedimentos enturbian su transparencia cristalina."
+  },
+  {
+    "id": 351,
+    "title": "Shio Ramen (Japón)",
+    "original_title": "Hakodate Shio Ramen (函館塩ラーメン)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Shio",
+      "Sal Marina",
+      "Hokkaido",
+      "Sopas y Caldos"
+    ],
+    "prep_time": "25 min",
+    "cook_time": "2 h 30 min",
+    "rest_time": "10 min",
+    "temperature": "Limpio y muy caliente (88 °C)",
+    "servings": "2 porciones",
+    "calories": "480 kcal por porción",
+    "diet_badges": [
+      "Caldo Puro",
+      "Mineralidad Marina",
+      "Bajo en Calorías"
+    ],
+    "image": "05_shio_ramen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/shio-ramen-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de la ciudad de Hakodate, en la Prefectura de Hokkaido (Región de Oshima), Japón. Es el estilo documentado más antiguo de Japón, derivado directamente de las sopas cantonesas llegadas al puerto internacional de Hakodate en la década de 1880. Se distingue por una pureza visual absoluta donde el caldo transparente permite ver con nitidez cada hilo de fideo en el fondo del cuenco, realzando la salinidad marina mineral sin interferencia de la soja ni del miso.",
+    "ingredient_groups": [
+      {
+        "name": "Caldo Dorado Puro de Gallina y Algas de Hokkaido",
+        "items": [
+          "800 g de pollo campero y huesos limpios desgrasados",
+          "300 g de costillas de cerdo magras lavadas y escaldadas",
+          "1 tira de 15 cm de alga Ma-Kombu de Hakodate",
+          "3 vieiras deshidratadas (Hotate) o 1 cucharada de caldo de vieira",
+          "1 puerro entero y 1 trozo pequeño de jengibre fresco pelado",
+          "2,5 litros de agua de mineralización débil"
+        ]
+      },
+      {
+        "name": "Shio Tare Mineral Artesanal",
+        "items": [
+          "20 g de sal marina artesanal (Moshio de algas o sal gris pura)",
+          "30 ml de sake dulce para cocinar",
+          "20 ml de mirin de arroz",
+          "1 cucharadita de vinagre de arroz suave",
+          "2 cucharadas de aceite aromatizado con puerro y sésamo blanco"
+        ]
+      },
+      {
+        "name": "Fideos Finos Rectos y Toppings Cristalinos",
+        "items": [
+          "240 g de fideos rectos finos y sedosos",
+          "4 láminas de chashu de cerdo magro hervido suave",
+          "1 huevo Ajitsuke de cocción blanda (yema translúcida)",
+          "30 g de bambú Menma suave",
+          "Abundante cebolla de verdeo cortada al bies muy fina",
+          "1 cucharadita de semillas de sésamo blanco tostado",
+          "1 lámina de alga nori"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Extracción Suave y Clarificación del Caldo Marino",
+        "steps": [
+          "Escaldar las carnes en agua hirviendo durante 3 minutos, escurrir y enjuagar a fondo bajo agua fría para eliminar cualquier impureza externa.",
+          "Colocar el pollo y las costillas en una olla limpia con el agua mineral y las vieiras secas. Calentar lentamente a fuego bajo hasta los 85 °C.",
+          "Espumar cuidadosamente cada impureza que asome a la superficie. Añadir el alga kombu y cocinar durante 1 hora a fuego mínimo sin dejar que hierva.",
+          "Retirar el alga kombu para que no enturbie ni amargue. Añadir el puerro y el jengibre y continuar cocinando a fuego muy suave durante 1 hora y media más.",
+          "Filtrar por colador con filtro de papel o tela fina. El caldo debe quedar brillante, dorado pálido y 100% diáfano."
+        ]
+      },
+      {
+        "name": "2. Shio Tare de Alta Precisión Mineral",
+        "steps": [
+          "En una cacerolita, calentar el sake y el mirin a fuego suave durante 3 minutos para evaporar el alcohol.",
+          "Añadir la sal marina artesanal removiendo con cuchara de madera hasta su disolución total.",
+          "Incorporar las gotas de vinagre de arroz (aporta un brillo ácido casi imperceptible que resalta el marisco) y retirar del fuego."
+        ]
+      },
+      {
+        "name": "3. Cocción de Fideos Rectos Finos",
+        "steps": [
+          "Hervir los fideos finos en abundante agua burbujeante durante 60 a 70 segundos.",
+          "Escurrir sacudiendo con firmeza para retirar el agua de cocción."
+        ]
+      },
+      {
+        "name": "4. Ensamble de Máxima Claridad y Armonía Visual",
+        "steps": [
+          "Verter 25 ml de Shio Tare y 1 cucharada de aceite aromatizado de puerro en el tazón caliente.",
+          "Añadir 350 ml de caldo cristalino hirviendo.",
+          "Acomodar los fideos bien peinados con palillos en el centro.",
+          "Decorar con las láminas de chashu, el huevo abierto, menma suave, verdeo finísimo, lluvia de sésamo blanco tostado y la hoja de alga nori. Servir inmediatamente."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "La sal marina sin refinar (Moshio) contiene minerales naturales y umami marino que evitan la sensación salina punzante de la sal común.",
+      "Mantén la temperatura del caldo a 85 °C en todo momento; el hervor fuerte es el enemigo mortal de la transparencia del Shio.",
+      "Este ramen es tan puro que la calidad del agua utilizada determina por completo el sabor final."
+    ],
+    "notes": "En el Shio Ramen la pureza mineral de la sal marina (Moshio) y la sutileza del agua son determinantes; cualquier exceso de calor o turbidez arruina la diáfana claridad del fondo."
+  },
+  {
+    "id": 352,
+    "title": "Hakata Ramen (Japón)",
+    "original_title": "Hakata Ramen (博多ラーメン)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Hakata",
+      "Tonkotsu",
+      "Yatai",
+      "Fideos Finos"
+    ],
+    "prep_time": "35 min",
+    "cook_time": "8 h",
+    "rest_time": "10 min",
+    "temperature": "Hirviendo",
+    "servings": "2 porciones",
+    "calories": "670 kcal por porción",
+    "diet_badges": [
+      "Fideos Barikata",
+      "Estilo Callejero Yatai",
+      "Rico en Colágeno"
+    ],
+    "image": "06_hakata_ramen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/hakata-ramen-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de la ciudad de Hakata, Fukuoka, en la Prefectura de Fukuoka (Isla de Kyushu), Japón. El icono mundial de los puestos callejeros 'Yatai'. Nació para servir con velocidad supersónica a los comerciantes y pescadores del puerto de Hakata. Sus fideos son tan delgados que se hierven en apenas 30 segundos en punto 'Barikata' (extra firme) dentro de un caldo de cerdo blanquecino y vigoroso sazonado con tare de soja clara Usukuchi.",
+    "ingredient_groups": [
+      {
+        "name": "Caldo Blanco Rápido de Cerdo y Manitas",
+        "items": [
+          "1 kg de huesos de fémur de cerdo limpios y partidos",
+          "400 g de manitas de cerdo blanqueadas",
+          "2 litros de agua",
+          "1 cabeza de ajo machacada y trozo de jengibre"
+        ]
+      },
+      {
+        "name": "Usukuchi Tare y Aceite de Ajo",
+        "items": [
+          "60 ml de salsa de soja clara Usukuchi",
+          "20 ml de mirin",
+          "1 cucharadita de sal marina fina",
+          "2 cucharadas de manteca de cerdo líquida"
+        ]
+      },
+      {
+        "name": "Fideos y Toppings Yatai",
+        "items": [
+          "240 g de fideos ultrafinos tipo Hakata (baja hidratación)",
+          "4 láminas finas de chashu de cerdo",
+          "Abundante cebolla de verdeo fresca picada",
+          "Beni Shōga (jengibre rojo picante encurtido)",
+          "Setas Kikurage en juliana fina",
+          "Semillas de sésamo blanco tostado y ajo crudo para prensar en la mesa"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Hervido Tumultuoso del Caldo Hakata",
+        "steps": [
+          "Hervir los huesos y manitas previamente limpios a fuego vivo constante durante 6 a 8 horas, reponiendo agua conforme se evapore para conseguir una emulsión blanquecina espesa.",
+          "Añadir el ajo y jengibre en la última hora y colar enérgicamente por colador fino."
+        ]
+      },
+      {
+        "name": "2. Elaboración del Tare Claro",
+        "steps": [
+          "Calentar la salsa Usukuchi con el mirin y la sal hasta disolución total sin hervir. Reservar."
+        ]
+      },
+      {
+        "name": "3. Hervido Relámpago Barikata (30 segundos)",
+        "steps": [
+          "Sumergir los fideos ultrafinos en agua hirviendo durante exactamente 30 a 35 segundos para un punto 'Barikata' (muy firme).",
+          "Sacudir con fuerza extrema en el colador para expulsar el agua."
+        ]
+      },
+      {
+        "name": "4. Servicio Inmediato",
+        "steps": [
+          "En cuencos calientes, mezclar 30 ml de tare con 350 ml de caldo hirviendo.",
+          "Incorporar los fideos, colocar las láminas finas de chashu, mucho verdeo, kikurage y beni shōga al lado.",
+          "El comensal añade ajo fresco prensado al gusto en la mesa."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Pide 'Kaedama' cuando te queden tres sorbos de fideos para recibir otra porción de fideos al dente directo a tu cuenco.",
+      "El jengibre rojo Beni Shōga corta la pesadez de la grasa porcina entre bocado y bocado."
+    ],
+    "notes": "Los fideos ultrafinos estilo Hakata se cocinan en apenas 30 segundos; consúmelos de inmediato para disfrutarlos en su punto Barikata (firme) antes de que se sobrehidraten."
+  },
+  {
+    "id": 353,
+    "title": "Nagasaki Champon (Japón)",
+    "original_title": "Nagasaki Champon (長崎ちゃんぽん)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Champon",
+      "Nagasaki",
+      "Mariscos",
+      "Wok"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "25 min",
+    "rest_time": "5 min",
+    "temperature": "Hirviendo",
+    "servings": "2 porciones",
+    "calories": "620 kcal por porción",
+    "diet_badges": [
+      "Plato Completo",
+      "Mariscos Frescos",
+      "Cocción en Una Sola Olla"
+    ],
+    "image": "07_champon.jpg",
+    "url": "https://umamicraft.vercel.app/receta/nagasaki-champon-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de la ciudad de Nagasaki, en la Prefectura de Nagasaki (Isla de Kyushu), Japón. Creado a finales del siglo XIX por el restaurante Shikairo para alimentar a estudiantes chinos con un plato barato, contundente y nutritivo. A diferencia del ramen habitual, los fideos especiales de Champon se cocinan directamente dentro de la misma sartén donde se saltean mariscos, panceta y una montaña de verduras en caldo blanco.",
+    "ingredient_groups": [
+      {
+        "name": "Mariscos y Carnes Salteadas",
+        "items": [
+          "100 g de panceta de cerdo cortada en tiras finas",
+          "8 langostinos crudos pelados",
+          "100 g de calamar limpio en anillas o dados con cortes cruzados",
+          "4 rodajas de pastel de pescado Kamaboko rosa cortado en tiras"
+        ]
+      },
+      {
+        "name": "Cama de Verduras Crujientes",
+        "items": [
+          "150 g de repollo blanco en trozos medianos",
+          "100 g de brotes de soja frescos",
+          "1 zanahoria pequeña en juliana fina",
+          "2 cucharadas de manteca de cerdo pura"
+        ]
+      },
+      {
+        "name": "Caldo Blanco y Fideos Gruesos Champon",
+        "items": [
+          "800 ml de caldo blanco mixto de cerdo y pollo",
+          "2 cucharadas de salsa de soja clara y 1 cucharada de sake",
+          "1 cucharadita de sal y abundante pimienta blanca molida",
+          "260 g de fideos especiales para Champon (gruesos y cocidos al dente)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Salteado Rápido de Carnes y Mariscos en Wok",
+        "steps": [
+          "Calentar el wok a fuego muy vivo con la manteca de cerdo.",
+          "Dorar la panceta de cerdo 1 minuto, incorporar los langostinos y calamares salteando 45 segundos hasta que tomen color sin sobrecocinarse."
+        ]
+      },
+      {
+        "name": "2. Incorporación de Verduras y Caldo",
+        "steps": [
+          "Añadir el repollo, zanahoria, brotes de soja y tiras de Kamaboko al wok. Saltear 1 minuto a fuego fuerte.",
+          "Verter el caldo blanco, sazonar con la salsa de soja, sake, sal y pimienta blanca. Dejar que rompa en hervor tumultuoso."
+        ]
+      },
+      {
+        "name": "3. Cocción Conjunta de Fideos en el Caldo",
+        "steps": [
+          "Introducir los fideos gruesos de Champon directamente dentro de la sopa hirviendo en el wok.",
+          "Cocinar durante 2 a 3 minutos para que los fideos absorban los jugos del marisco, la carne y el caldo por capilaridad.",
+          "Servir todo en dos cuencos gigantes, asegurando que los mariscos y verduras queden coronando el plato de forma vistosa."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Cocinar los fideos directamente en el caldo en lugar de hervirlos por separado es el principio fundamental que distingue al Champon del ramen común.",
+      "La pimienta blanca japonesa aporta el calor aromático típico de Nagasaki."
+    ],
+    "notes": "A diferencia del ramen tradicional, en el Champon los fideos se hierven directamente dentro del caldo con los mariscos y verduras para absorber sus jugos yodados por capilaridad."
+  },
+  {
+    "id": 354,
+    "title": "Yokohama-Style Ramen (Japón)",
+    "original_title": "Yokohama Iekei Ramen (横浜家系ラーメン)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Yokohama",
+      "Iekei",
+      "Tonkotsu-Shoyu",
+      "Fideos Anchos"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "4 h",
+    "rest_time": "10 min",
+    "temperature": "Muy caliente",
+    "servings": "2 porciones",
+    "calories": "750 kcal por porción",
+    "diet_badges": [
+      "Caldo Tonkotsu-Shoyu",
+      "Grasa de Pollo Chiyu",
+      "Ultra Contundente"
+    ],
+    "image": "08_yokohama_style_ramen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/yokohama-style-ramen-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de la ciudad de Yokohama, en la Prefectura de Kanagawa (Región de Kanto), Japón. Creado en 1974 por Minoru Yoshimura. Este estilo representa el matrimonio perfecto entre el colágeno espeso del caldo de cerdo de Kyushu y la potencia salina del Shoyu Tare de Kanto, complementado por fideos planos y anchos, hojas de espinaca blanqueadas y 3 láminas gigantescas de alga nori.",
+    "ingredient_groups": [
+      {
+        "name": "Caldo Híbrido Tonkotsu-Shoyu",
+        "items": [
+          "800 ml de caldo concentrado y lechoso de cerdo",
+          "300 ml de caldo denso de pollo",
+          "3 cucharadas generosas de grasa pura de pollo (Chiyu)"
+        ]
+      },
+      {
+        "name": "Shoyu Tare Oscuro Potente",
+        "items": [
+          "70 ml de salsa de soja Koikuchi madurada",
+          "20 ml de mirin dulce",
+          "1 cucharadita de sal marina fina"
+        ]
+      },
+      {
+        "name": "Fideos Planos y Toppings Icónicos Iekei",
+        "items": [
+          "260 g de fideos ramen planos, anchos y rectos",
+          "4 lonchas gruesas de chashu ahumado",
+          "80 g de hojas tiernas de espinaca fresca blanqueada en agua hirviendo y escurrida",
+          "6 láminas grandes rectangulares de alga nori de primera calidad",
+          "1 huevo Ajitsuke",
+          "Ajo rallado y pasta de chile para añadir en la mesa"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Fusión de Caldos y Preparación del Tare",
+        "steps": [
+          "Unir el caldo colágeno de cerdo con el fondo de pollo en una olla y mantener a fuego medio hirviendo con suavidad.",
+          "Mezclar la salsa de soja con el mirin y sal en un cacillo a fuego suave 5 minutos para asentar el tare."
+        ]
+      },
+      {
+        "name": "2. Cocción de Fideos Anchos y Planos",
+        "steps": [
+          "Cocinar los fideos planos durante 3 minutos y medio en abundante agua hirviendo.",
+          "Escurrir perfectamente sacudiendo el tebo con fuerza."
+        ]
+      },
+      {
+        "name": "3. Montaje Emblemático de Yokohama",
+        "steps": [
+          "En el tazón caliente verter 35 ml de tare oscuro y 2 cucharadas de grasa de pollo Chiyu dorada.",
+          "Añadir 380 ml de caldo caliente y mezclar.",
+          "Incorporar los fideos anchos, colocar en el centro el montículo de espinacas blanqueadas y las lonchas de chashu.",
+          "Clavar las 3 hojas grandes de nori erguidas contra la pared posterior del cuenco formando una corona."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Moja las láminas de nori en la superficie grasa del caldo caliente y envuelve con ellas un bocado de arroz blanco para una experiencia gloriosa.",
+      "En las tiendas de Iekei te preguntan: dureza del fideo (Katame), cantidad de grasa (Oome) e intensidad de salinidad (Koime)."
+    ],
+    "notes": "En el Iekei Ramen, mojar las láminas de alga nori en la película dorada de grasa de ave (Chiyu) y envolver con ellas un bocado de arroz blanco es el mayor secreto de degustación."
+  },
+  {
+    "id": 355,
+    "title": "Hiyashi Chuka (Japón)",
+    "original_title": "Hiyashi Chūka (冷やし中華)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Hiyashi Chuka",
+      "Ramen Frío",
+      "Verano"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "10 min",
+    "rest_time": "15 min (enfriado)",
+    "temperature": "Helado / Muy refrescante",
+    "servings": "2 porciones",
+    "calories": "450 kcal por porción",
+    "diet_badges": [
+      "Plato de Verano",
+      "Refrescante",
+      "Bajo en Grasas",
+      "Multicolor"
+    ],
+    "image": "09_hiyashi_chuka.jpg",
+    "url": "https://umamicraft.vercel.app/receta/hiyashi-chuka-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de las ciudades de Sendai y Tokyo, en la Prefectura de Miyagi / Tokyo, Japón. Creado en la década de 1930 para combatir el bochorno del verano nipón. Consiste en fideos ramen cocidos, lavados en agua helada para dejarlos tensos y elásticos, servidos en un plato hondo con aderezo agridulce de sésamo y vinagre, y cubiertos radialmente con toppings frescos multicolores.",
+    "ingredient_groups": [
+      {
+        "name": "Aderezo Agridulce de Sésamo y Soja (Tare Frío)",
+        "items": [
+          "60 ml de salsa de soja Koikuchi",
+          "50 ml de vinagre de arroz japonés",
+          "30 g de azúcar o miel",
+          "20 ml de agua o dashi frío",
+          "1 cucharada de aceite de sésamo tostado",
+          "1 cucharadita de jengibre fresco rallado fino"
+        ]
+      },
+      {
+        "name": "Fideos Ramen Enfriados",
+        "items": [
+          "240 g de fideos ramen frescos",
+          "Agua con abundante hielo"
+        ]
+      },
+      {
+        "name": "Corona Geométrica Multicolor de Toppings",
+        "items": [
+          "1 pepino japonés en juliana fina crujiente",
+          "2 huevos batidos y cocinados en tortilla fina (Kinshi Tamago), cortada en tiras finas",
+          "80 g de jamón cocido de calidad o chashu en tiras",
+          "6 langostinos cocidos pelados",
+          "1 tomate mediano en rodajas finas",
+          "1 cucharada de semillas de sésamo blanco tostado",
+          "1 cucharadita de mostaza picante japonesa (Karashi)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Preparación del Aderezo Frío",
+        "steps": [
+          "En un cuenco, disolver el azúcar en el vinagre de arroz y salsa de soja. Incorporar el agua fría, el aceite de sésamo y el jengibre rallado.",
+          "Llevar a la heladera durante al menos 20 minutos para que se enfríe completamente."
+        ]
+      },
+      {
+        "name": "2. Cocción y Choque Helado de Fideos",
+        "steps": [
+          "Hervir los fideos durante 2 minutos.",
+          "Escurrir y volcar inmediatamente en un recipiente con agua y cubos de hielo. Frotar suavemente para retirar almidón suelto.",
+          "Escurrir perfectamente sacudiendo con fuerza."
+        ]
+      },
+      {
+        "name": "3. Montaje Artístico Multicolor",
+        "steps": [
+          "Disponer una base compacta de fideos fríos en dos platos hondos o fuentes llanas.",
+          "Acomodar los ingredientes por encima en secciones radiales como rayos de una rueda de colores: pepino verde, tortilla de huevo amarilla, jamón rosado, tomate rojo y langostinos.",
+          "Verter el aderezo frío sobre todo el plato, espolvorear con semillas de sésamo y colocar una nuez de mostaza Karashi en el borde del plato."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "La mostaza japonesa Karashi en el borde es esencial: disuelve un poco en el aderezo con cada bocado para un contraste refrescante.",
+      "Corta todos los ingredientes exactamente con el mismo grosor y largo para lograr la estética canónica del plato."
+    ],
+    "notes": "Enfriar tanto el cuenco como el aderezo agridulce en la heladera antes del servicio garantiza que el contraste fresco de las verduras crujientes y la tortilla sea absoluto."
+  },
+  {
+    "id": 356,
+    "title": "Abura Soba (Japón)",
+    "original_title": "Abura Soba (油そば)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Abura Soba",
+      "Tokyo",
+      "Sin Caldo",
+      "Mazesoba"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "15 min",
+    "rest_time": "5 min",
+    "temperature": "Fideos muy calientes recién escurridos",
+    "servings": "2 porciones",
+    "calories": "580 kcal por porción",
+    "diet_badges": [
+      "Sin Caldo Líquido",
+      "Emulsión en Mesa",
+      "Fideos Gruesos"
+    ],
+    "image": "10_abura_soba.jpg",
+    "url": "https://umamicraft.vercel.app/receta/abura-soba-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de la ciudad de Tokyo, en la Metrópolis de Tokyo (Distrito universitario de Musashino), Japón. Nació en los años 50 como una comida económica y ultra sabrosa. Se traduce como 'fideos con aceite' porque carece de caldo líquido: en el fondo del cuenco se coloca una base espesa de salsa de soja concentrada y manteca aromatizada; al volcar los fideos humeantes, el comensal añade vinagre y aceite picante Rayu, mezclando todo para crear una emulsión sedosa.",
+    "ingredient_groups": [
+      {
+        "name": "Salsa Base Concentrada y Aceites Aromáticos",
+        "items": [
+          "4 cucharadas de salsa de soja Koikuchi espesada",
+          "2 cucharadas de manteca de cerdo derretida caliente",
+          "2 cucharadas de aceite de sésamo tostado",
+          "1 cucharadita de extracto de dashi en polvo o pasta umami",
+          "1 cucharadita de azúcar y pizca de ajo rallado"
+        ]
+      },
+      {
+        "name": "Fideos Gruesos Gomosos",
+        "items": [
+          "280 g de fideos ramen gruesos frescos (de textura muy masticable)"
+        ]
+      },
+      {
+        "name": "Toppings y Aderezos de Mesa",
+        "items": [
+          "2 yemas de huevo crudas frescas (o huevos Onsen Tamago pochados)",
+          "100 g de chashu cortado en cubos pequeños o dados",
+          "40 g de bambú Menma",
+          "4 cucharadas de cebolla de verdeo picada fina",
+          "1 hoja de alga nori cortada en tiras finas (Kizami Nori)",
+          "Botella de vinagre de arroz y botella de aceite de chile Rayu en la mesa"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Fondo Graso y Concentrado Umami",
+        "steps": [
+          "En el fondo de dos tazones calientes, repartir la salsa de soja espesada, la manteca de cerdo derretida caliente, el aceite de sésamo, el dashi y el ajo.",
+          "Mezclar bien con una cuchara; la salsa debe cubrir el fondo sin formar un caldo profundo."
+        ]
+      },
+      {
+        "name": "2. Cocción de Fideos al Dente",
+        "steps": [
+          "Hervir los fideos gruesos durante 4 a 5 minutos hasta que estén elásticos y tiernos.",
+          "Escurrir rápidamente pero SIN lavar con agua fría: los fideos deben llegar al tazón ardiendo para que su calor emulsione la grasa del fondo."
+        ]
+      },
+      {
+        "name": "3. Coronación y el Ritual de Mezclado en Mesa",
+        "steps": [
+          "Depositar los fideos humeantes sobre la salsa en el tazón.",
+          "Acomodar alrededor los dados de chashu, menma, verdeo y tiras de nori, colocando la yema de huevo cruda en el centro exacto.",
+          "Servir de inmediato indicando el ritual: el comensal debe trazar dos círculos de vinagre y dos círculos de aceite Rayu por encima, y revolver enérgicamente durante 15 segundos con los palillos hasta que la yema y los aceites formen una salsa cremosa que embadurne cada fideo."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "No dejes enfriar los fideos: el calor residual es lo que permite que el vinagre, el aceite y la yema de huevo emulsionen en una crema perfecta.",
+      "Si te queda salsa en el fondo tras comer los fideos, añade dos cucharadas de arroz blanco tibio (Oimeshi) para no desperdiciar nada."
+    ],
+    "notes": "La clave del Abura Soba es verter los fideos humeantes sin enfriar sobre la grasa del fondo: el calor residual es lo que permite ligar el vinagre, el aceite picante y la yema de huevo en una crema perfecta."
+  },
+  {
+    "id": 357,
+    "title": "Tantanmen Ramen (Japón)",
+    "original_title": "Tantanmen (担々麺)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Tantanmen",
+      "Picante",
+      "Sésamo",
+      "Sichuan"
+    ],
+    "prep_time": "25 min",
+    "cook_time": "30 min",
+    "rest_time": "5 min",
+    "temperature": "Muy caliente",
+    "servings": "2 porciones",
+    "calories": "640 kcal por porción",
+    "diet_badges": [
+      "Caldo Cremoso",
+      "Toque Picante",
+      "Sésamo Tostado"
+    ],
+    "image": "11_tantanmen_ramen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/tantanmen-ramen-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad desarrollada en la ciudad de Tokyo, Japón, como reinterpretación nipona de los fideos Dan Dan de Sichuan por el célebre chef Chen Kenmin. Adaptada al paladar japonés con una sopa cremosa, untuosa y aromática basada en pasta pura de sésamo blanco tostado (Zhimajiang), caldo de pollo limpio, aceite de chile rojo Rayu y carne de cerdo picada salteada con pasta dulce de soja Tianmianjiang.",
+    "ingredient_groups": [
+      {
+        "name": "Base Cremosa de Sésamo y Tare Picante",
+        "items": [
+          "4 cucharadas soperas de pasta de sésamo blanco tostado puro (Nerigoma o Tahini)",
+          "3 cucharadas de salsa de soja Koikuchi japonesa",
+          "1 cucharada de vinagre negro chino Chinkiang (o vinagre de arroz)",
+          "2 cucharadas de aceite de chile rojo aromático (Rayu)",
+          "1/2 cucharadita de pimienta de Sichuan tostada y molida fina",
+          "750 ml de caldo de pollo caliente filtrado"
+        ]
+      },
+      {
+        "name": "Sofrito de Carne Especiada (Nikumiso)",
+        "items": [
+          "150 g de carne de cerdo picada",
+          "1 cucharada colmada de pasta dulce de soja fermentada (Tianmianjiang o pasta de miso con pizca de azúcar)",
+          "1 diente de ajo y 1 nuez de jengibre picados muy finos",
+          "1 cucharadita de vino de arroz Shaoxing o sake",
+          "1 cucharada de aceite vegetal neutro"
+        ]
+      },
+      {
+        "name": "Fideos y Guarnición Fresca",
+        "items": [
+          "240 g de fideos ramen medianos y rectos",
+          "2 matas de col china Pak Choi cortadas en mitades a lo largo",
+          "3 cucharadas de cebolla de verdeo picada fina",
+          "2 cucharadas de maní tostado sin sal picado rústico"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Elaboración del Sofrito Especiado Nikumiso",
+        "steps": [
+          "Calentar el aceite en una sartén a fuego medio-alto.",
+          "Añadir el ajo y jengibre picados, salteando 30 segundos hasta liberar fragancia.",
+          "Incorporar la carne picada de cerdo, desmenuzándola con la cuchara hasta que comience a dorar (3-4 minutos).",
+          "Añadir la pasta Tianmianjiang y el sake, reduciendo el fuego a medio-bajo y caramelizando la carne durante 2 minutos hasta que quede brillante, crujiente y de tono caoba oscuro. Reservar tibia."
+        ]
+      },
+      {
+        "name": "2. Emulsión de Sésamo y Caldo Naranja Brillante",
+        "steps": [
+          "En cada tazón donburi hondo, colocar 2 cucharadas de pasta de sésamo Nerigoma, 1,5 cucharadas de salsa de soja, media cucharada de vinagre negro, 1 cucharada de aceite Rayu y una pizca de pimienta de Sichuan.",
+          "Batir enérgicamente con un batidor de mano pequeño en el fondo del cuenco hasta crear una pasta homogénea.",
+          "Verter 375 ml de caldo de pollo caliente sobre la mezcla mientras se bate continuamente: la pasta de sésamo se emulsionará al instante con el caldo, transformándose en una sopa cremosa, aterciopelada y de un color naranja dorado brillante."
+        ]
+      },
+      {
+        "name": "3. Cocción de Fideos y Escaldado de Pak Choi",
+        "steps": [
+          "En una olla con agua hirviendo, blanquear las mitades de Pak Choi durante 40 segundos; retirar con pinzas y escurrir.",
+          "En la misma agua, cocinar los fideos ramen durante 90 segundos hasta dejarlos al dente.",
+          "Escurrir perfectamente sacudiendo el colador con energía."
+        ]
+      },
+      {
+        "name": "4. Montaje y Corona Aromática",
+        "steps": [
+          "Introducir los fideos peinados en el centro del caldo cremoso.",
+          "Acomodar encima una porción generosa del sofrito de carne Nikumiso.",
+          "Disponer las hojas verdes de Pak Choi a un costado, espolvorear con el verdeo picado y el maní tostado crujiente.",
+          "Terminar con un chorrito final de aceite Rayu flotando en la superficie. Servir inmediatamente."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Batir la pasta de sésamo con el tare antes de verter el caldo evita grumos y logra la textura de terciopelo característica.",
+      "La pimienta de Sichuan tostada produce un cosquilleo fresco (efecto mala) que contrasta armónicamente con la cremosidad del sésamo."
+    ],
+    "notes": "Batir la pasta pura de sésamo blanco con el tare antes de incorporar el caldo caliente asegura una emulsión homogénea sin grumos y de textura aterciopelada."
+  },
+  {
+    "id": 358,
+    "title": "Kitakata Ramen (Japón)",
+    "original_title": "Kitakata Ramen (喜多方ラーメン)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Kitakata",
+      "Fukushima",
+      "Chashu",
+      "Fideos Ondulados"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "3 h",
+    "rest_time": "10 min",
+    "temperature": "Muy caliente",
+    "servings": "2 porciones",
+    "calories": "630 kcal por porción",
+    "diet_badges": [
+      "Fideos Hirauchi",
+      "Manta de Chashu",
+      "Caldo Suave de Cerdo y Pescado"
+    ],
+    "image": "12_kitakata_ramen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/kitakata-ramen-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de la ciudad de Kitakata, en la Prefectura de Fukushima (Región de Tohoku), Japón. Es la capital del ramen per cápita en Japón y cuna del 'Asa-ra' (desayunar ramen por la mañana). Se caracteriza por dos pilares inconfundibles: fideos anchos y muy ondulados con alto contenido de agua amasados a mano (Hirauchi Chijiremen), y una superficie cubierta por completo de tiernas láminas de panceta Chashu que ocultan por completo los fideos en un caldo limpio de cerdo y sardinas secas Niboshi.",
+    "ingredient_groups": [
+      {
+        "name": "Caldo Suave de Cerdo y Sardinas Niboshi",
+        "items": [
+          "800 g de huesos y carne de cerdo magra blanqueada",
+          "40 g de sardinas secas Niboshi (sin cabeza ni vísceras para evitar amargor)",
+          "1 trozo de alga Kombu de 8x8 cm",
+          "1 cebolla blanca, 2 puerros y trozo de jengibre",
+          "2,5 litros de agua fresca"
+        ]
+      },
+      {
+        "name": "Shoyu Tare Ligero de Fukushima",
+        "items": [
+          "80 ml de salsa de soja suave artesanal",
+          "25 ml de mirin dulce",
+          "1 cucharadita de sal marina",
+          "2 cucharadas de manteca de cerdo clarificada"
+        ]
+      },
+      {
+        "name": "Fideos Ondulados y Manta Generosa de Chashu",
+        "items": [
+          "260 g de fideos planos gruesos de alta hidratación (Hirauchi Chijiremen)",
+          "10 a 12 láminas finas y tiernas de panceta Chashu estofada",
+          "40 g de bambú Menma dulce",
+          "Abundante cebolla de verdeo picada fina"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Extracción Serena del Caldo Mixto",
+        "steps": [
+          "Blanquear los huesos de cerdo 5 minutos en agua hirviendo y enjuagar a fondo.",
+          "Llevar a ebullición suave los huesos con las sardinas Niboshi y el alga kombu a fuego bajo durante 2 horas y media sin que hierva a borbotones.",
+          "Filtrar el caldo para obtener un líquido dorado, limpio y con aroma profundo a carne y marisco seco."
+        ]
+      },
+      {
+        "name": "2. Masaje y Ondulado Manual de Fideos",
+        "steps": [
+          "Tomar las porciones de fideos frescos de alta hidratación y presionarlos y frotarlos rústicamente entre las palmas de las manos formando arrugas y pliegues marcados.",
+          "Hervir los fideos durante 3 minutos en abundante agua hirviendo; gracias a su alto contenido de agua adquieren una textura tierna, suave y masticable ('Mochi-mochi'). Escurrir bien."
+        ]
+      },
+      {
+        "name": "3. Montaje de la Manta de Chashu (Nikui)",
+        "steps": [
+          "Mezclar 35 ml de Shoyu Tare con 360 ml de caldo caliente en cada cuenco.",
+          "Introducir los fideos arrugados.",
+          "Colocar los brotes de menma y el verdeo en el centro, y acomodar de 5 a 6 láminas de Chashu en abanico concéntrico cubriendo por completo la superficie del cuenco sin dejar fideos a la vista. Servir humeante."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "El masaje manual de los fideos crea surcos irregulares donde se alojan las gotas de caldo en cada bocado.",
+      "Tapar toda la superficie con Chashu mantiene el calor de la sopa intacto en los fríos inviernos de Fukushima."
+    ],
+    "notes": "El ondulado manual de los fideos planos de Kitakata antes de cocinarlos crea surcos y pliegues que retienen las gotas del caldo suave de cerdo y sardina en cada bocado."
+  },
+  {
+    "id": 359,
+    "title": "Iekei Ramen (Japón)",
+    "original_title": "Iekei Ramen Original (家系ラーメン)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Iekei",
+      "Kanagawa",
+      "Tonkotsu-Shoyu"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "5 h",
+    "rest_time": "10 min",
+    "temperature": "Ardiendo con película de grasa de pollo",
+    "servings": "2 porciones",
+    "calories": "740 kcal por porción",
+    "diet_badges": [
+      "Tonkotsu-Shoyu",
+      "Grasa de Pollo Chiyu",
+      "Ultra Sabroso"
+    ],
+    "image": "13_iekei_ramen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/iekei-ramen-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de la ciudad de Yokohama, en la Prefectura de Kanagawa (Región de Kanto), Japón. Fundado en 1974 por la tienda matriz Yoshimura-ya. Es un estilo de culto caracterizado por permitir al comensal personalizar el nivel de grasa dorada de ave (Chiyu), la fuerza de la salsa de soja y la firmeza del fideo ancho. Se corona ineludiblemente con espinacas frescas blanqueadas y hojas gigantescas de alga nori.",
+    "ingredient_groups": [
+      {
+        "name": "Caldo Potente y Grasa de Pollo",
+        "items": [
+          "1 kg de fémur de cerdo y carcasas de pollo hervidos hasta emulsión",
+          "4 cucharadas de grasa dorada de piel de pollo pura (Chiyu)",
+          "70 ml de Shoyu Tare denso añejado"
+        ]
+      },
+      {
+        "name": "Fideos Consistentes y Toppings",
+        "items": [
+          "260 g de fideos rectos planos y anchos",
+          "4 lonchas de chashu asado al carbón",
+          "100 g de espinacas tiernas blanqueadas",
+          "6 hojas de alga nori de grado superior",
+          "Arroz blanco tibio para acompañar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Emulsión Vigorosa de Caldo y Tare",
+        "steps": [
+          "Integrar el caldo espeso hirviendo con el Shoyu tare oscuro y la generosa capa de grasa de pollo Chiyu en el tazón.",
+          "La grasa flota en la superficie impidiendo la pérdida de calor y suavizando la salinidad de la soja."
+        ]
+      },
+      {
+        "name": "2. Fideos Planos y Espinacas",
+        "steps": [
+          "Cocinar los fideos anchos durante 3 minutos hasta dejarlos firmes.",
+          "Escurrir vigorosamente e incorporar al tazón.",
+          "Disponer las espinacas tiernas bien escurridas en el centro y las lonchas de chashu al lado."
+        ]
+      },
+      {
+        "name": "3. Montaje Canónico con Nori",
+        "steps": [
+          "Clavar las 3 hojas de nori en abanico erguidas en el borde del cuenco.",
+          "Servir inmediatamente acompañado de un cuenco de arroz blanco con sésamo."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Sumerge la hoja de nori en la grasa del caldo y úsala para envolver una bola de arroz blanco caliente: es la forma sagrada de disfrutar el Iekei.",
+      "Añade una cucharadita de pasta de ajo y vinagre de arroz a mitad de comer para reiniciar el paladar."
+    ],
+    "notes": "La capa de grasa de pollo Chiyu flotante no solo aporta un aroma fabuloso, sino que actúa como una barrera térmica que impide que el caldo espeso se enfríe en la mesa."
+  },
+  {
+    "id": 360,
+    "title": "Tokyo Ramen (Japón)",
+    "original_title": "Tokyo Chuka Soba (東京中華そば)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Tokyo Ramen",
+      "Chuka Soba",
+      "Caldo Claro"
+    ],
+    "prep_time": "25 min",
+    "cook_time": "2 h",
+    "rest_time": "10 min",
+    "temperature": "Muy caliente",
+    "servings": "2 porciones",
+    "calories": "510 kcal por porción",
+    "diet_badges": [
+      "Estilo Showa",
+      "Clásico Nostálgico",
+      "Digestivo y Equilibrado"
+    ],
+    "image": "14_tokyo_ramen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/tokyo-ramen-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de la ciudad de Tokyo, en la Metrópolis de Tokyo (Barrio de Asakusa), Japón. El ramen de los barrios populares durante la era Showa, conocido con cariño como 'Chuka Soba'. Representa el equilibrio perfecto entre caldo cristalino de gallina y aromáticos campestres, sazonado con soja tostada y adornado con la clásica rodaja de naruto rosado.",
+    "ingredient_groups": [
+      {
+        "name": "Caldo Sereno de Gallina y Aromáticos",
+        "items": [
+          "800 g de gallina campera y huesos limpios",
+          "1 puerro, 3 rodajas de jengibre y 2 dientes de ajo",
+          "1 cucharada de katsuobushi fino",
+          "2 litros de agua pura"
+        ]
+      },
+      {
+        "name": "Tare y Fideos",
+        "items": [
+          "60 ml de Shoyu tare balanceado con mirin y alga kombu",
+          "2 cucharadas de aceite suave de cebollín",
+          "240 g de fideos rizados de grosor medio"
+        ]
+      },
+      {
+        "name": "Toppings Tradicionales",
+        "items": [
+          "4 lonchas de chashu magro estofado",
+          "4 rodajas de Narutomaki en espiral",
+          "Brotes de bambú Menma y verdeo picado fino",
+          "2 láminas de alga nori"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Fondo Suave a Fuego Manso",
+        "steps": [
+          "Cocinar la gallina con los aromáticos a 88 °C durante 2 horas retirando impurezas para preservar la claridad diáfana.",
+          "Añadir el katsuobushi en los últimos 5 minutos y filtrar con colador fino."
+        ]
+      },
+      {
+        "name": "2. Hervido de Fideos y Tare",
+        "steps": [
+          "Colocar el Shoyu tare y el aceite perfumado en los cuencos.",
+          "Cocinar los fideos rizados durante 90 segundos y escurrir a conciencia."
+        ]
+      },
+      {
+        "name": "3. Servicio con Narutomaki",
+        "steps": [
+          "Verter el caldo ámbar en el tazón, colocar los fideos peinados y decorar con el chashu, menma, verdeo y dos rodajas de Narutomaki con su espiral rosada visible en el centro."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Un toque de pimienta blanca molida al momento de comer es el secreto de las tabernas tradicionales de Tokyo para realzar el caldo."
+    ],
+    "notes": "Una pizca sutil de pimienta blanca molida espolvoreada sobre el caldo caliente de pollo y dashi despierta el perfil aromático nostálgico del clásico Chuka Soba."
+  },
+  {
+    "id": 361,
+    "title": "Asahikawa Ramen (Japón)",
+    "original_title": "Asahikawa Ramen (旭川ラーメン)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Asahikawa",
+      "Hokkaido",
+      "W-Soup",
+      "Grasa Aislante"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "3 h",
+    "rest_time": "10 min",
+    "temperature": "Hirviendo por dentro (Sellado por capa de manteca)",
+    "servings": "2 porciones",
+    "calories": "660 kcal por porción",
+    "diet_badges": [
+      "Doble Caldo W-Soup",
+      "Capa Aislante Térmica",
+      "Especialidad Ártica"
+    ],
+    "image": "15_asahikawa_ramen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/asahikawa-ramen-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de la ciudad de Asahikawa, en la Prefectura de Hokkaido (Subprefectura de Kamikawa), Japón. Nacido en una de las ciudades más gélidas de Japón, donde los inviernos caen a -30 °C. Para evitar que la sopa se congele en la mesa, se cubre con una densa película superficial de manteca de cerdo derretida que atrapa el calor y no deja escapar vapor. Combina un doble caldo (W-Soup) de cerdo y sardinas secas con fideos de baja humedad que absorben la sopa como esponjas.",
+    "ingredient_groups": [
+      {
+        "name": "Doble Caldo W-Soup (Mar y Tierra)",
+        "items": [
+          "500 ml de caldo concentrado de cerdo y huesos",
+          "400 ml de caldo dashi de sardina seca Niboshi y kombu",
+          "4 cucharadas de manteca de cerdo derretida pura (capa superficial aislante)"
+        ]
+      },
+      {
+        "name": "Shoyu Tare Profundo y Fideos",
+        "items": [
+          "70 ml de Shoyu tare oscuro y salado",
+          "240 g de fideos ondulados con bajo contenido de agua (estilo Asahikawa)"
+        ]
+      },
+      {
+        "name": "Toppings de Resistencia Invernal",
+        "items": [
+          "4 lonchas de chashu de paleta de cerdo tierna",
+          "40 g de bambú Menma oscuro",
+          "Abundante cebolla de verdeo picada en aros gruesos"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Fusión de Doble Fondo y Sellado de Manteca",
+        "steps": [
+          "Combinar el fondo de cerdo con el dashi de sardinas Niboshi y calentar hasta el punto de hervor.",
+          "Verter el Shoyu tare en el tazón caliente, añadir el caldo hirviendo y volcar inmediatamente las 2 cucharadas de manteca de cerdo fundida por tazón.",
+          "La manteca creará una película brillante y densa en la superficie que suprime el vapor por completo."
+        ]
+      },
+      {
+        "name": "2. Fideos de Baja Humedad",
+        "steps": [
+          "Cocinar los fideos durante 80 segundos. Al tener poca agua en su masa, absorberán con avidez los sabores concentrados del doble caldo.",
+          "Escurrir bien e introducir en el tazón con cuidado bajo la película de grasa."
+        ]
+      },
+      {
+        "name": "3. Montaje y Advertencia Térmica",
+        "steps": [
+          "Acomodar el chashu, menma y una generosa porción de verdeo crudo.",
+          "Servir de inmediato advirtiendo al comensal: parece tibio porque no humea, pero debajo de la capa grasa está a 95 °C."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Cuidado con el primer sorbo: la película de manteca retiene el calor de manera tan extrema que puede quemar si se sorbe con descuido.",
+      "El sabor tostado de la sardina Niboshi corta de forma impecable la pesadez de la manteca de cerdo."
+    ],
+    "notes": "La densa película de manteca de cerdo en la superficie de este ramen actúa como aislante térmico total; ten precaución al primer sorbo porque por dentro conserva los 95 °C."
+  },
+  {
+    "id": 362,
+    "title": "Sapporo Ramen (Japón)",
+    "original_title": "Sapporo Ramen Canónico (札幌ラーメン)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Sapporo",
+      "Hokkaido",
+      "Wok",
+      "Miso"
+    ],
+    "prep_time": "25 min",
+    "cook_time": "30 min",
+    "rest_time": "5 min",
+    "temperature": "Hirviendo con aroma a wok",
+    "servings": "2 porciones",
+    "calories": "660 kcal por porción",
+    "diet_badges": [
+      "Wok Hei",
+      "Verduras Salteadas",
+      "Icono de Hokkaido"
+    ],
+    "image": "16_sapporo_ramen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/sapporo-ramen-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de la ciudad de Sapporo, en la Prefectura de Hokkaido (Capital regional), Japón. La versión más pura e intransigente del método norteño: cada cuenco se cocina individualmente al fuego directo de un wok, salteando panceta picada, ajo machacado, cebollas y brotes de soja crujientes hasta adquirir el aroma ahumado 'Wok Hei', desglasando con caldo de cerdo y pasta de miso añejada.",
+    "ingredient_groups": [
+      {
+        "name": "Salteado de Wok y Caldo",
+        "items": [
+          "100 g de carne de cerdo picada",
+          "4 cucharadas de pasta de miso rojo y amarillo tostada",
+          "800 ml de caldo denso de cerdo y pollo",
+          "150 g de brotes de soja y 1/2 cebolla picada",
+          "2 cucharadas de manteca de cerdo pura"
+        ]
+      },
+      {
+        "name": "Fideos Amarillos y Guarnición",
+        "items": [
+          "260 g de fideos rizados elásticos de Sapporo",
+          "4 cucharadas de maíz dulce en grano",
+          "2 cubos de manteca sin sal fría",
+          "4 lonchas de chashu y cebolla de verdeo picada"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Salteado al Rojo Vivo en Wok",
+        "steps": [
+          "Calentar el wok a temperatura extrema, fundir la manteca y saltear la carne con ajo y jengibre hasta caramelizar.",
+          "Añadir los brotes y cebolla, saltear 45 segundos, incorporar el miso y tostar brevemente contra el hierro."
+        ]
+      },
+      {
+        "name": "2. Emulsión Instantánea",
+        "steps": [
+          "Verter el caldo hirviendo sobre el wok en un estallido de vapor ahumado, dejando hervir 2 minutos para emulsionar la grasa con el miso."
+        ]
+      },
+      {
+        "name": "3. Montaje Tradicional de Sapporo",
+        "steps": [
+          "Verter la sopa y verduras sobre los fideos rizados cocidos al dente.",
+          "Añadir el maíz dulce, chashu, verdeo y el bloque de manteca fría en el centro que se derrite sobre la marcha."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "El sabor ahumado único del metal del wok a temperatura violenta es insustituible."
+    ],
+    "notes": "El salteado violento en wok no solo dora las verduras, sino que transfiere el codiciado aroma ahumado 'Wok Hei' al caldo mixto cuando se desglasa la sartén."
+  },
+  {
+    "id": 363,
+    "title": "Kurume Ramen (Japón)",
+    "original_title": "Kurume Ramen (久留米ラーメン)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Kurume",
+      "Fukuoka",
+      "Yobimodoshi",
+      "Tonkotsu Original"
+    ],
+    "prep_time": "35 min",
+    "cook_time": "14 h",
+    "rest_time": "10 min",
+    "temperature": "Muy caliente",
+    "servings": "2 porciones",
+    "calories": "710 kcal por porción",
+    "diet_badges": [
+      "Cuna del Tonkotsu",
+      "Técnica Yobimodoshi",
+      "Trozos de Manteca Frita"
+    ],
+    "image": "17_kurume_ramen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/kurume-ramen-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de la ciudad de Kurume, en la Prefectura de Fukuoka (Isla de Kyushu), Japón. Es el verdadero lugar de nacimiento histórico del caldo Tonkotsu en 1937 en el puesto Nankin Senryo. Se distingue por la técnica 'Yobimodoshi' (hervido infinito sin vaciar la olla vieja, alimentándola continuamente con nuevos huesos), resultando en un caldo espeso, terroso y repleto de médula, decorado con 'Karikari' (pequeños cubitos crujientes de manteca de cerdo frita).",
+    "ingredient_groups": [
+      {
+        "name": "Caldo Maduro de Cocción Infinita Yobimodoshi",
+        "items": [
+          "1,5 kg de cabezas y fémures de cerdo hervidos a borbotones durante horas",
+          "800 ml de caldo colágeno denso hiperconcentrado",
+          "60 ml de Shoyu tare oscuro añejado"
+        ]
+      },
+      {
+        "name": "Fideos de Kurume y Toppings Crocantes",
+        "items": [
+          "240 g de fideos rectos medianos (más gruesos que los de Hakata)",
+          "4 cucharadas de Karikari (cubitos de manteca de cerdo fritos hasta quedar ultra crujientes)",
+          "4 lonchas de chashu tradicional",
+          "Abundante cebollín verde picado y alga nori"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Hervido Fuerte de Médula y Grasa",
+        "steps": [
+          "Cocinar los huesos a ebullición salvaje hasta que la médula se disuelva completamente y el caldo tome un tono marfil oscuro casi tostado.",
+          "Colar extrayendo la máxima densidad colágena."
+        ]
+      },
+      {
+        "name": "2. Preparación de los Trozos Crocantes Karikari",
+        "steps": [
+          "Cortar grasa de cerdo en dados de 5 mm y freírlos en su propia manteca a fuego medio hasta que queden inflados, dorados y crujientes como chicharrones diminutos. Escurrir."
+        ]
+      },
+      {
+        "name": "3. Montaje de Tradición Ancestral",
+        "steps": [
+          "Unir el tare con el caldo denso hirviendo en los tazones.",
+          "Añadir los fideos rectos al dente y coronar con el chashu, mucho verdeo y espolvorear generosamente los cubitos crujientes Karikari por encima."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Los cubitos Karikari aportan un contraste de textura sensacional cuando el caldo penetra en sus burbujas crocantes."
+    ],
+    "notes": "Los cubitos de grasa frita crujiente (Karikari) deben colocarse justo en el instante de servir para que al morderlos contrasten con la untuosidad colágena de la médula de cerdo."
+  },
+  {
+    "id": 364,
+    "title": "Morioka Reimen (Japón)",
+    "original_title": "Morioka Reimen (盛岡冷麺)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Morioka",
+      "Iwate",
+      "Reimen",
+      "Frío",
+      "Kimchi"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "1 h 30 min",
+    "rest_time": "2 h (enfriado de caldo)",
+    "temperature": "Helado (con cubos de caldo frío)",
+    "servings": "2 porciones",
+    "calories": "490 kcal por porción",
+    "diet_badges": [
+      "Fideos Translúcidos Elásticos",
+      "Sopa Fría de Ternera",
+      "Maridaje con Fruta"
+    ],
+    "image": "18_morioka_reimen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/morioka-reimen-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de la ciudad de Morioka, en la Prefectura de Iwate (Región de Tohoku), Japón. Adaptado de los fideos fríos coreanos Naengmyeon por inmigrantes en la década de 1950. Sus fideos son casi transparentes y extraordinariamente gomosos y masticables gracias a la combinación de fécula de patata y harina de trigo, servidos en un caldo frío cristalino de ternera con kimchi picante, huevo y una refrescante rodaja de sandía o pera asiática.",
+    "ingredient_groups": [
+      {
+        "name": "Caldo Helado de Ternera Desgrasado",
+        "items": [
+          "700 g de costillas o falda de ternera limpia",
+          "1 trozo de alga kombu y 1 cebolla asada",
+          "750 ml de caldo de ternera completamente desgrasado y enfriado en heladera",
+          "3 cucharadas de salsa de soja suave y 2 cucharadas de vinagre de manzana",
+          "1 cucharadita de azúcar y sal fina al gusto"
+        ]
+      },
+      {
+        "name": "Fideos Translúcidos de Fécula",
+        "items": [
+          "260 g de fideos especiales para Reimen (harina y almidón de patata)",
+          "Agua helada para el lavado"
+        ]
+      },
+      {
+        "name": "Toppings Refrescantes y Kimchi",
+        "items": [
+          "100 g de auténtico kimchi coreano picante fermentado con su jugo",
+          "2 lonchas gruesas de sandía fresca jugosa (o rodajas de pera asiática Nashi)",
+          "1 huevo duro partido a la mitad",
+          "Lonchas de carne de ternera hervida fina",
+          "Pepino en rodajas marinadas en vinagre y semillas de sésamo"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Elaboración y Desgrasado Total del Caldo de Ternera",
+        "steps": [
+          "Cocinar la carne de ternera a fuego lento con el kombu y cebolla durante 1 hora y media hasta que la carne esté tierna. Retirar la carne y reservarla para los toppings.",
+          "Colar el caldo y llevarlo a la heladera durante 3 horas. Una vez frío, retirar con una cuchara toda la capa de grasa blanca solidificada en la superficie (un caldo frío con grasa dejaría una sensación cerosa desagradable en la boca).",
+          "Sazonar el caldo frío con salsa de soja, vinagre de manzana, azúcar y sal. Debe quedar límpido, ligero y sumamente refrescante."
+        ]
+      },
+      {
+        "name": "2. Cocción y Choque Glacial de los Fideos",
+        "steps": [
+          "Hervir los fideos de almidón en agua hirviendo durante 3 minutos.",
+          "Escurrir y frotar inmediatamente bajo agua con cubos de hielo. Los fideos se tornarán casi transparentes y adquirirán un rebote masticable ('Koshi') muy potente."
+        ]
+      },
+      {
+        "name": "3. Montaje del Plato Helado",
+        "steps": [
+          "Disponer los fideos elásticos en el fondo de dos cuencos fríos.",
+          "Verter el caldo frío de ternera con unas cucharadas del jugo fermentado del kimchi.",
+          "Acomodar encima el kimchi picante, la ternera hervida, el huevo duro, el pepino y coronar con la cuña de sandía fresca. Espolvorear sésamo tostado y servir de inmediato."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Desgrasar el caldo por completo en frío es el secreto técnico para que resulte ligero y cristalino.",
+      "El bocado alternado entre el picante crujiente del kimchi y la dulzura refrescante de la sandía helada es una obra de arte sensorial."
+    ],
+    "notes": "Desgrasar meticulosamente el caldo de ternera en frío retirando toda la grasa cuajada es indispensable para que la sopa resulte cristalina, ligera y refrescante al paladar."
+  },
+  {
+    "id": 365,
+    "title": "Seafood Ramen (Kaisen Ramen) (Japón)",
+    "original_title": "Kaisen Ramen (海鮮ラーメン)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Kaisen",
+      "Mariscos",
+      "Costas de Japón"
+    ],
+    "prep_time": "25 min",
+    "cook_time": "30 min",
+    "rest_time": "5 min",
+    "temperature": "Muy caliente",
+    "servings": "2 porciones",
+    "calories": "530 kcal por porción",
+    "diet_badges": [
+      "Rico en Mariscos",
+      "Caldo Marino Yodado",
+      "Bajo en Grasas"
+    ],
+    "image": "19_seafood_ramen_kaisen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/seafood-ramen-kaisen-ramen-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de los puertos pesqueros costeros de Japón. Celebra la riqueza inigualable del mar japonés combinando almejas frescas, langostinos con caparazón, calamares y vieiras que se cocinan al instante directamente en un caldo cristalino de pescado blanco y alga kombu, infusionándolo con una salinidad marina pura y reconfortante.",
+    "ingredient_groups": [
+      {
+        "name": "Fondo Marino Diáfano y Shio Tare",
+        "items": [
+          "800 ml de dashi de pescado blanco limpio y alga kombu",
+          "30 ml de Shio tare con reducción de sake y sal marina",
+          "1 cucharada de aceite aromatizado con piel de langostino y jengibre"
+        ]
+      },
+      {
+        "name": "Mariscos Frescos del Día",
+        "items": [
+          "8 almejas frescas (Asari) purgadas en agua con sal",
+          "6 langostinos enteros medianos limpios",
+          "120 g de tubos de calamar limpios cortados en anillas",
+          "4 vieiras frescas pequeñas"
+        ]
+      },
+      {
+        "name": "Fideos y Guarnición Marina",
+        "items": [
+          "240 g de fideos ramen medianos elásticos",
+          "2 cucharadas de alga Wakame rehidratada",
+          "Cebolla de verdeo picada fina y brotes tiernos"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Cocción Relámpago de Mariscos en el Caldo",
+        "steps": [
+          "Calentar el caldo dashi a hervor suave con el tare de sal marina.",
+          "Incorporar las almejas y los langostinos; tapar la cazuela durante 2 minutos hasta que las almejas se abran por completo liberando su jugo yodado.",
+          "Añadir el calamar y las vieiras, cocinando apenas 60 segundos más para mantenerlos tiernos sin endurecer."
+        ]
+      },
+      {
+        "name": "2. Hervido de Fideos",
+        "steps": [
+          "Cocinar los fideos en agua hirviendo durante 90 segundos.",
+          "Escurrir con firmeza y colocar en los cuencos calientes."
+        ]
+      },
+      {
+        "name": "3. Montaje del Festín de Mar",
+        "steps": [
+          "Verter el caldo marino caliente sobre los fideos.",
+          "Distribuir los langostinos, las almejas en su concha, los calamares y las vieiras de manera armónica en la superficie.",
+          "Terminar con alga wakame fresca, verdeo picado y unas gotas de aceite aromático de langostino. Servir de inmediato."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Desecha cualquier almeja que no se abra durante el hervor.",
+      "No cocines de más los calamares: un minuto es suficiente para conservar su terneza sedosa."
+    ],
+    "notes": "Cocinar las almejas y langostinos en el caldo hirviendo únicamente hasta que se abran garantiza que la carne conserve su terneza y libere su jugo marino al fondo."
+  },
+  {
+    "id": 366,
+    "title": "Kyoto Ramen (Japón)",
+    "original_title": "Kyoto Seabura Shoyu Ramen (京都背脂醤油ラーメン)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Kyoto",
+      "Seabura",
+      "Kujo Negi",
+      "Kansai"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "3 h",
+    "rest_time": "10 min",
+    "temperature": "Muy caliente",
+    "servings": "2 porciones",
+    "calories": "680 kcal por porción",
+    "diet_badges": [
+      "Nieve de Seabura",
+      "Cebollín Kujo Negi",
+      "Contraste Dulce-Salado"
+    ],
+    "image": "20_kyoto_ramen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/kyoto-ramen-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de la ciudad de Kyoto, en la Prefectura de Kyoto (Región de Kansai), Japón. Contrario a la imagen delicada de la cocina tradicional Kaiseki, el ramen de Kyoto es sorprendentemente audaz y contundente. Su sello distintivo es una 'nevada' de grasa dorsal de cerdo cocida y tamizada (Seabura) flotando sobre un caldo oscuro de soja y pollo, cubierto por una montaña de cebollín dulce Kujō Negi típico de la región.",
+    "ingredient_groups": [
+      {
+        "name": "Caldo de Pollo Concentrado y Nieve de Seabura",
+        "items": [
+          "800 ml de caldo denso de pollo y carcasas",
+          "150 g de grasa dorsal de cerdo (Seabura) hervida a fuego lento hasta quedar sumamente tierna",
+          "70 ml de Shoyu tare oscuro y salado"
+        ]
+      },
+      {
+        "name": "Fideos y Montaña de Kujō Negi",
+        "items": [
+          "240 g de fideos rectos finos y firmes",
+          "6 lonchas muy finas de chashu de cerdo",
+          "1 taza abundante de cebollín verde Kujō Negi de Kyoto picado fino",
+          "40 g de bambú Menma y pizca de chile en polvo Ichimi"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Preparación de la Nieve de Grasa Seabura",
+        "steps": [
+          "Hervir el bloque de grasa dorsal en agua con aromáticos durante 2 horas hasta que esté tan suave que se deshaga con los dedos.",
+          "Escurrir y colocar la grasa sobre un colador de malla metálica gruesa."
+        ]
+      },
+      {
+        "name": "2. Rallado de Seabura sobre el Caldo",
+        "steps": [
+          "Verter el Shoyu tare oscuro y el caldo de pollo hirviendo en los tazones.",
+          "Sostener el colador con la grasa sobre el tazón y frotarla con el dorso de una cuchara: la grasa caerá como copos de nieve blanca flotando sobre la superficie oscura del caldo, aportando un dulzor fundente que apacigua la sal de la soja."
+        ]
+      },
+      {
+        "name": "3. Montaje con Montaña de Kujō Negi",
+        "steps": [
+          "Introducir los fideos finos al dente (50 segundos de hervor).",
+          "Acomodar las lonchas finas de chashu y coronar en el centro con una pirámide generosa de cebollín Kujō Negi picado y un toque de chile Ichimi.",
+          "Servir inmediatamente."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "El cebollín Kujō Negi es más tierno y dulce que el verdeo común; su frescura corta limpiamente la riqueza de los copos de grasa Seabura."
+    ],
+    "notes": "El cebollín verde Kujō Negi posee un dulzor y terneza únicos que equilibran a la perfección la riqueza fundente de los copos de grasa Seabura y la soja oscura de Kyoto."
+  },
+  {
+    "id": 367,
+    "title": "Onomichi Ramen (Japón)",
+    "original_title": "Onomichi Ramen (尾道ラーメン)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Onomichi",
+      "Hiroshima",
+      "Mar de Seto",
+      "Fideos Planos"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "2 h 30 min",
+    "rest_time": "10 min",
+    "temperature": "Muy caliente",
+    "servings": "2 porciones",
+    "calories": "620 kcal por porción",
+    "diet_badges": [
+      "Pescado de Seto",
+      "Grasa Fundente",
+      "Fideos Planos"
+    ],
+    "image": "21_onomichi_ramen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/onomichi-ramen-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de la ciudad de Onomichi, en la Prefectura de Hiroshima (Mar Interior de Seto), Japón. De esta histórica ciudad portuaria sobre colinas nace un ramen singular que marida el aroma salino de pequeños pescados locales secos del mar interior de Seto y carcasas de pollo con generosos cubos de grasa dorsal de cerdo tierna flotando en la superficie, servido con fideos anchos y planos de excelente textura.",
+    "ingredient_groups": [
+      {
+        "name": "Caldo de Pollo y Pescados de Seto",
+        "items": [
+          "600 g de huesos y alitas de pollo",
+          "40 g de pequeños peces locales secos (Niboshi / sardinas de Seto)",
+          "1 trozo de alga kombu y 2 puerros",
+          "800 ml de caldo resultante limpio y dorado"
+        ]
+      },
+      {
+        "name": "Cubos de Grasa Tierna y Shoyu Tare",
+        "items": [
+          "100 g de grasa dorsal de cerdo cortada en dados de 8 mm y hervida hasta fundirse",
+          "70 ml de Shoyu tare oscuro local de Hiroshima",
+          "2 cucharadas de manteca aromatizada"
+        ]
+      },
+      {
+        "name": "Fideos Planos y Toppings",
+        "items": [
+          "260 g de fideos planos ligeramente anchos (Hirauchi-men)",
+          "4 lonchas de panceta chashu tierno",
+          "Brotes de bambú Menma y abundante cebolla de verdeo picada fina"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Fusión de Tierra y Mar en el Caldo",
+        "steps": [
+          "Cocinar el pollo con los pescados secos de Seto a fuego lento a 88 °C durante 2 horas retirando espumas para asegurar un fondo limpio pero sabroso.",
+          "En paralelo, hervir los cubitos de grasa de cerdo en agua aparte hasta que estén tiernos como gelatina pero manteniendo su forma cúbica. Colar y reservar."
+        ]
+      },
+      {
+        "name": "2. Hervido de Fideos Planos",
+        "steps": [
+          "Cocinar los fideos planos durante 2 minutos en abundante agua hirviendo.",
+          "Escurrir enérgicamente sacudiendo el colador para retirar todo el líquido."
+        ]
+      },
+      {
+        "name": "3. Montaje con Cubitos de Grasa Flotantes",
+        "steps": [
+          "Verter 35 ml de Shoyu tare en el tazón caliente, incorporar el caldo hirviendo y añadir los cubos de grasa tierna.",
+          "Añadir los fideos planos y acomodar el chashu, menma crujiente y cebollín verde fresco. Servir humeante."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Morder un cubo de grasa tierna que ha absorbido el caldo salino de pescado genera una explosión de sabor sensacional."
+    ],
+    "notes": "Los pequeños pescados secos del mar interior de Seto aportan un fondo marino profundo que se complementa gloriosamente con los cubitos tiernos de grasa de cerdo."
+  },
+  {
+    "id": 368,
+    "title": "Kagoshima Ramen (Japón)",
+    "original_title": "Kagoshima Ramen (鹿児島ラーメン)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Kagoshima",
+      "Cerdo Negro Kurobuta",
+      "Kyushu"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "3 h",
+    "rest_time": "10 min",
+    "temperature": "Caliente reconfortante",
+    "servings": "2 porciones",
+    "calories": "610 kcal por porción",
+    "diet_badges": [
+      "Cerdo Negro Kurobuta",
+      "Ajo Dorado Frito",
+      "Caldo Suave Semiturbio"
+    ],
+    "image": "22_kagoshima_ramen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/kagoshima-ramen-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de la ciudad de Kagoshima, en la Prefectura de Kagoshima (Sur de Kyushu), Japón. En el extremo sur de Japón, Kagoshima se resistió a la influencia del denso Tonkotsu de Fukuoka y desarrolló un estilo independiente: un caldo amable, limpio y semiturbio elaborado con huesos del célebre cerdo negro Kurobuta local, carcasas de pollo y verduras frescas, servido con fideos blancos suaves, repollo tierno y chips crujientes de ajo frito.",
+    "ingredient_groups": [
+      {
+        "name": "Caldo Amable de Cerdo Kurobuta y Pollo",
+        "items": [
+          "800 g de huesos de cerdo negro Kurobuta limpios",
+          "400 g de pollo campero",
+          "1 zanahoria, 1 cebolla, hongos shiitake secos y puerro",
+          "800 ml de caldo suave resultante"
+        ]
+      },
+      {
+        "name": "Tare Suave y Fideos Blancos",
+        "items": [
+          "60 ml de salsa de soja suave endulzada con mirin",
+          "240 g de fideos blancos de grosor medio (elaborados con poco kansui, suaves al morder)"
+        ]
+      },
+      {
+        "name": "Guarnición Vegetal y Chips de Ajo",
+        "items": [
+          "4 lonchas gruesas de chashu de cerdo negro Kurobuta",
+          "100 g de repollo blanco en trozos tiernos hervido brevemente",
+          "100 g de brotes de soja crujientes",
+          "3 cucharadas de chips de ajo laminado frito dorado crujiente",
+          "Verdeo picado y encurtido de nabo Daikon para acompañar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Hervido Tranquilo y Espumado Constante",
+        "steps": [
+          "Cocinar los huesos de cerdo negro y pollo a fuego medio constante sin borbotones violentos para evitar el olor porcino fuerte característico de otros estilos.",
+          "Añadir las verduras y los hongos shiitake secos para aportar notas terrosas dulces. Colar finamente."
+        ]
+      },
+      {
+        "name": "2. Cocción de Fideos Blancos Suaves",
+        "steps": [
+          "Hervir los fideos durante 2 minutos hasta dejarlos suaves y sedosos.",
+          "Escurrir sacudiendo con firmeza."
+        ]
+      },
+      {
+        "name": "3. Montaje con Repollo y Ajo Tostado",
+        "steps": [
+          "Unir el caldo con el tare en el tazón caliente.",
+          "Añadir los fideos y cubrir con el repollo blanqueado, brotes de soja y las lonchas tiernas de Kurobuta.",
+          "Coronar con una lluvia de chips de ajo frito crujiente que aportará el aroma característico de Kagoshima."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "En Kagoshima siempre se sirve primero un plato pequeño de nabo Daikon encurtido dulce para picar antes de que llegue el cuenco humeante."
+    ],
+    "notes": "El ajo laminado frito debe retirarse del aceite apenas comience a dorarse; el calor residual terminará de dejarlo crujiente sin quemar ni amargar."
+  },
+  {
+    "id": 369,
+    "title": "Tokushima Ramen (Japón)",
+    "original_title": "Tokushima Ramen (徳島ラーメン)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Tokushima",
+      "Shikoku",
+      "Sukiyaki",
+      "Yema Cruda"
+    ],
+    "prep_time": "25 min",
+    "cook_time": "40 min",
+    "rest_time": "5 min",
+    "temperature": "Muy caliente",
+    "servings": "2 porciones",
+    "calories": "690 kcal por porción",
+    "diet_badges": [
+      "Estilo Sukiyaki",
+      "Panceta Caramelizada",
+      "Yema Cruda de Huevo"
+    ],
+    "image": "23_tokushima_ramen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/tokushima-ramen-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de la ciudad de Tokushima, en la Prefectura de Tokushima (Isla de Shikoku), Japón. Famoso por su perfil dulce-salado similar al estofado Sukiyaki. En lugar del chashu enrollado tradicional, lleva finas láminas de panceta de cerdo braseadas a fuego lento en una reducción dulce de salsa de soja, mirin y azúcar, coronado con una yema de huevo cruda en el centro que se rompe sobre la carne caliente creando una salsa densa y aterciopelada.",
+    "ingredient_groups": [
+      {
+        "name": "Caldo Oscuro Tonkotsu-Shoyu Dulce",
+        "items": [
+          "800 ml de caldo concentrado mixto de cerdo y pollo",
+          "70 ml de Shoyu tare oscuro endulzado con mirin y azúcar moreno",
+          "2 cucharadas de manteca aromática de cerdo"
+        ]
+      },
+      {
+        "name": "Panceta Caramelizada Estilo Sukiyaki (Butabara)",
+        "items": [
+          "180 g de panceta de cerdo cortada en láminas ultrafinas (panceta para Sukiyaki)",
+          "3 cucharadas de salsa de soja dulce, 2 de mirin y 1 cucharada de azúcar",
+          "1 cucharada de sake"
+        ]
+      },
+      {
+        "name": "Fideos y Corona con Huevo Fresco",
+        "items": [
+          "240 g de fideos ramen medianos y firmes",
+          "2 yemas de huevo crudas de máxima frescura",
+          "100 g de brotes de soja crujientes",
+          "Cebolla de verdeo finamente picada y bambú Menma"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Caramelizado de la Panceta Sukiyaki",
+        "steps": [
+          "En una sartén a fuego medio, colocar la panceta ultrafina con la soja, mirin, azúcar y sake.",
+          "Cocinar durante 5 a 6 minutos hasta que la salsa reduzca y la carne quede glaseada, brillante, tierna y profundamente caramelizada. Reservar caliente."
+        ]
+      },
+      {
+        "name": "2. Caldo Tonkotsu Dulce y Fideos",
+        "steps": [
+          "Verter el tare oscuro en el tazón caliente y añadir el caldo hirviendo.",
+          "Cocinar los fideos ramen en agua hirviendo durante 75 segundos hasta dejarlos firmes y escurrir perfectamente."
+        ]
+      },
+      {
+        "name": "3. Montaje del Plato y Corona de Yema",
+        "steps": [
+          "Incorporar los fideos al tazón y disponer la panceta caramelizada alrededor.",
+          "Añadir los brotes de soja y el verdeo, dejando un hueco central.",
+          "Depositar con cuidado la yema de huevo cruda en el centro exacto. Servir de inmediato advirtiendo que el comensal rompa la yema sobre la carne para ligar la salsa."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "La combinación de la yema cruda caliente con la panceta dulce-salada es idéntica a sumergir carne de Sukiyaki en huevo batido."
+    ],
+    "notes": "Romper la yema de huevo cruda sobre la panceta caramelizada caliente crea una salsa sedosa que envuelve los fideos al igual que en un estofado Sukiyaki tradicional."
+  },
+  {
+    "id": 370,
+    "title": "Wakayama Ramen (Japón)",
+    "original_title": "Wakayama Ramen (和歌山ラーメン)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Wakayama",
+      "Kansai",
+      "Soja de Yuasa",
+      "Kamaboko"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "4 h",
+    "rest_time": "10 min",
+    "temperature": "Muy caliente",
+    "servings": "2 porciones",
+    "calories": "670 kcal por porción",
+    "diet_badges": [
+      "Soja Histórica de Yuasa",
+      "Caldo Color Café",
+      "Flor de Kamaboko"
+    ],
+    "image": "24_wakayama_ramen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/wakayama-ramen-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de la ciudad de Wakayama, en la Prefectura de Wakayama (Región de Kansai), Japón. Localmente llamado 'Chuka Soba'. Wakayama es la cuna histórica del Shoyu en Japón (nacido en el puerto de Yuasa). Su caldo distintivo se logra hirviendo la prestigiosa salsa de soja añejada directamente con los huesos de cerdo a fuego vivo, resultando en un líquido emulsionado espeso de color café con leche, adornado con una icónica flor de Kamaboko rosado.",
+    "ingredient_groups": [
+      {
+        "name": "Caldo de Huesos Emulsionado con Soja de Yuasa",
+        "items": [
+          "1 kg de huesos de cerdo limpios y partidos",
+          "80 ml de salsa de soja artesanal añejada de Yuasa",
+          "800 ml de caldo resultante de tono marrón espeso",
+          "2 cucharadas de manteca aromática"
+        ]
+      },
+      {
+        "name": "Fideos Finos y Guarnición Tradicional",
+        "items": [
+          "240 g de fideos rectos finos",
+          "4 lonchas de chashu de cerdo",
+          "4 rodajas de pastel de pescado Kamaboko con corte en forma de flor rosada",
+          "Brotes de bambú Menma suaves y verdeo picado fino"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Cocción Conjunta de Huesos y Soja",
+        "steps": [
+          "Hervir los huesos de cerdo limpios a borbotones añadiendo la salsa de soja de Yuasa durante las últimas 2 horas de cocción.",
+          "La soja tiñe la médula y la gelatina, logrando un caldo espeso de color café con leche y sabor profundo. Colar."
+        ]
+      },
+      {
+        "name": "2. Fideos al Dente",
+        "steps": [
+          "Hervir los fideos finos durante 50 segundos y escurrir al vuelo."
+        ]
+      },
+      {
+        "name": "3. Montaje Clásico con Flor de Kamaboko",
+        "steps": [
+          "Verter el caldo caliente en el tazón, añadir los fideos y decorar con el chashu, verdeo y las rodajas de Kamaboko en forma de flor rosada en el centro. Servir inmediatamente."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "En Wakayama se acostumbra comer este ramen acompañado de 'Hayazushi' (pequeños paquetitos de sushi de caballa envueltos en hojas de bambú) que esperan sobre las mesas."
+    ],
+    "notes": "La prestigiosa salsa de soja añejada cocinada directamente con los huesos de cerdo tiñe la emulsión dándole su característico e intenso color café con leche."
+  },
+  {
+    "id": 371,
+    "title": "Takayama Ramen (Japón)",
+    "original_title": "Takayama Ramen (高山ラーメン)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Takayama",
+      "Gifu",
+      "Alpes Japoneses",
+      "Fideos Finos"
+    ],
+    "prep_time": "25 min",
+    "cook_time": "2 h 30 min",
+    "rest_time": "10 min",
+    "temperature": "Muy caliente",
+    "servings": "2 porciones",
+    "calories": "510 kcal por porción",
+    "diet_badges": [
+      "Caldo y Tare Unificados",
+      "Estilo Alpino",
+      "Fideos Finos Ondulados"
+    ],
+    "image": "25_takayama_ramen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/takayama-ramen-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de la ciudad de Takayama, en la Prefectura de Gifu (Alpes Japoneses, Región de Chubu), Japón. En esta gélida región montañosa, la técnica difiere de casi todo Japón: en vez de colocar el tare en el tazón y volcar el caldo, aquí la salsa de soja, el dashi de bonito, los aromáticos y el caldo de gallina se cocinan juntos a fuego lento en la misma olla durante horas, logrando una unión de sabores suave y reconfortante.",
+    "ingredient_groups": [
+      {
+        "name": "Caldo Unificado Alpino a Fuego Lento",
+        "items": [
+          "800 g de gallina de campo y huesos limpios",
+          "30 g de copos de bonito Katsuobushi",
+          "1 trozo de alga kombu y verduras alpinas (puerro, jengibre)",
+          "70 ml de salsa de soja local y 30 ml de mirin cocinados directamente en la olla",
+          "800 ml de caldo unificado resultante"
+        ]
+      },
+      {
+        "name": "Fideos Finos Ondulados y Guarnición",
+        "items": [
+          "240 g de fideos ultrafinos muy arrugados y rizados",
+          "4 lonchas de chashu magro tierno",
+          "Menma suave en tiras finas y abundante cebolla de verdeo picada"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Maduración del Caldo en Olla Única",
+        "steps": [
+          "Cocinar la gallina con el kombu, verduras y la salsa de soja a fuego lento a 85 °C durante 2 horas.",
+          "Añadir el katsuobushi al final, apagar y colar; los sabores quedan completamente integrados sin asperezas salinas."
+        ]
+      },
+      {
+        "name": "2. Hervido Exprés de Fideos Finos",
+        "steps": [
+          "Cocinar los fideos finos rizados durante apenas 45 segundos en agua hirviendo y escurrir al instante."
+        ]
+      },
+      {
+        "name": "3. Emplatado Serena de los Alpes",
+        "steps": [
+          "Servir el caldo aromático hirviendo directamente en los tazones.",
+          "Introducir los fideos y decorar con chashu, menma y una generosa lluvia de verdeo fresco. Servir humeante."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Aparece inmortalizado en la mundialmente aclamada película de animación 'Your Name' (Kimi no Na wa)."
+    ],
+    "notes": "Cocinar el caldo y el tare juntos a fuego lento en la misma cazuela logra una redondez y armonía de sabores que no requiere ensambles posteriores en el tazón."
+  },
+  {
+    "id": 372,
+    "title": "Taiwan Ramen (Japón)",
+    "original_title": "Nagoya Taiwan Ramen (台湾ラーメン)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Taiwan Ramen",
+      "Nagoya",
+      "Picante",
+      "Ajo",
+      "Chiles"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "25 min",
+    "rest_time": "5 min",
+    "temperature": "Ardiendo y muy picante",
+    "servings": "2 porciones",
+    "calories": "630 kcal por porción",
+    "diet_badges": [
+      "Súper Picante",
+      "Ajo Abundante",
+      "Ciboulette Nira"
+    ],
+    "image": "26_taiwan_ramen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/taiwan-ramen-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de la ciudad de Nagoya, en la Prefectura de Aichi (Región de Chubu), Japón. Creado en la década de 1970 en el restaurante Misen por un chef taiwanés residente en Nagoya. Es el emblema de la contundente cocina 'Nagoya Meshi': fideos en caldo limpio de soja cubiertos por una montaña ardiente de carne picada de cerdo salteada con abundante ajo machacado, chiles rojos secos y ciboulette chino (Nira).",
+    "ingredient_groups": [
+      {
+        "name": "Sofrito Ardiente de Cerdo y Chiles",
+        "items": [
+          "180 g de carne de cerdo picada",
+          "6 dientes de ajo picados rústicamente",
+          "5 chiles rojos secos picados con sus semillas",
+          "2 cucharadas de salsa de soja, 1 de pasta de soja picante y 1 de aceite de sésamo"
+        ]
+      },
+      {
+        "name": "Caldo de Shoyu y Fideos",
+        "items": [
+          "750 ml de caldo de pollo caliente",
+          "50 ml de Shoyu tare ligero",
+          "240 g de fideos ramen medianos y firmes"
+        ]
+      },
+      {
+        "name": "Toppings Frescos",
+        "items": [
+          "1 manojo generoso de ciboulette chino fresco (Nira) cortado en trozos de 3 cm",
+          "100 g de brotes de soja crujientes blanqueados"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Salteado Explosivo de Carne, Ajo y Chiles",
+        "steps": [
+          "Calentar el aceite de sésamo en una sartén a fuego medio-alto.",
+          "Añadir el ajo picado y los chiles secos, salteando 30 segundos hasta que el aceite tome color rojizo.",
+          "Incorporar la carne picada y dorar intensamente desmenuzándola durante 4 minutos.",
+          "Sazonar con la salsa de soja y pasta picante, caramelizando hasta que la carne quede crujiente y bañada en aceite rojo. Reservar caliente."
+        ]
+      },
+      {
+        "name": "2. Cocción de Fideos y Ensamble de Base",
+        "steps": [
+          "Verter el Shoyu tare y el caldo de pollo hirviendo en los tazones.",
+          "Cocinar los fideos durante 75 segundos, escurrir bien y colocarlos en el caldo."
+        ]
+      },
+      {
+        "name": "3. Corona Ardiente",
+        "steps": [
+          "Colocar los brotes de soja y el ciboulette Nira fresco crudo sobre los fideos.",
+          "Volcar encima toda la carne picada caliente con su aceite picante rojo: el calor de la carne cocinará ligeramente el ciboulette liberando su fragancia a cebollino. Servir inmediatamente."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "El ciboulette chino crudo (Nira) se marchita en segundos bajo la carne ardiente, aportando un perfume verde indispensable."
+    ],
+    "notes": "El ciboulette chino (Nira) se coloca crudo sobre los fideos para que el calor del sofrito de carne ardiente y chiles lo cocine sutilmente al verterlo encima."
+  },
+  {
+    "id": 373,
+    "title": "Kumamoto Ramen (Japón)",
+    "original_title": "Kumamoto Ramen (熊本ラーメン)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Kumamoto",
+      "Kyushu",
+      "Aceite Negro Mayu",
+      "Ajo Tostado"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "3 h",
+    "rest_time": "10 min",
+    "temperature": "Muy caliente",
+    "servings": "2 porciones",
+    "calories": "680 kcal por porción",
+    "diet_badges": [
+      "Aceite Negro Mayu",
+      "Ajo Frito Crujiente",
+      "Caldo Tonkotsu y Ave"
+    ],
+    "image": "27_kumamoto_ramen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/kumamoto-ramen-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de la ciudad de Kumamoto, en la Prefectura de Kumamoto (Isla de Kyushu), Japón. Nació adaptando el Tonkotsu de Kurume con mayor sutileza al incorporar caldo de pollo, pero elevándolo con su invento estrella: el 'Mayu' (aceite negro de ajo tostado a múltiples temperaturas hasta adquirir un color azabache con notas profundas de cacao, café y humo), salpicado con chips dorados de ajo frito.",
+    "ingredient_groups": [
+      {
+        "name": "Caldo Blanco Suave y Aceite Negro Mayu",
+        "items": [
+          "800 ml de caldo blanco mixto de cerdo y gallina",
+          "3 cucharadas de aceite negro Mayu (ajo quemado y tostado en manteca y sésamo)",
+          "50 ml de tare de sal marina y soja clara"
+        ]
+      },
+      {
+        "name": "Fideos Rectos y Toppings de Ajo",
+        "items": [
+          "240 g de fideos rectos medianos",
+          "4 lonchas de chashu de cerdo tierno",
+          "1 huevo Ajitsuke marinado partido al medio",
+          "Setas Kikurage en tiras, verdeo picado y chips crocantes de ajo frito dorado"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Caldo Blanco Sedoso y Ensamble del Tazón",
+        "steps": [
+          "Calentar el caldo blanco a ebullición suave para mantenerlo homogéneo y cremoso.",
+          "En los tazones, verter el tare claro y añadir 350 ml de caldo blanco humeante."
+        ]
+      },
+      {
+        "name": "2. Cocción de Fideos y Baño de Mayu Negro",
+        "steps": [
+          "Hervir los fideos rectos durante 70 segundos, escurrir bien y acomodar en el centro.",
+          "Rociar 1,5 cucharadas de aceite negro Mayu formando remolinos azabaches flotantes sobre la superficie blanca del caldo."
+        ]
+      },
+      {
+        "name": "3. Decoración con Ajo Dorado",
+        "steps": [
+          "Acomodar el chashu, el huevo Ajitsuke, las setas kikurage y espolvorear generosamente con las láminas crocantes de ajo frito dorado. Servir de inmediato."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "El aceite Mayu negro parece amargo por su color carbón, pero al catarlo revela fascinantes notas aromáticas de avellana, café y ajo dulce caramelizado."
+    ],
+    "notes": "El aceite Mayu se elabora tostando ajo en varias etapas hasta tornarlo negro azabache; no amarga en absoluto, sino que aporta notas de café, cacao y humo dulce."
+  },
+  {
+    "id": 374,
+    "title": "Butter Corn Ramen (Bata-Kon Ramen) (Japón)",
+    "original_title": "Bata-Kon Ramen (バターコーンラーメン)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Bata-Kon",
+      "Hokkaido",
+      "Manteca",
+      "Maíz Dulce"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "25 min",
+    "rest_time": "5 min",
+    "temperature": "Muy caliente",
+    "servings": "2 porciones",
+    "calories": "670 kcal por porción",
+    "diet_badges": [
+      "Manteca Artesanal",
+      "Maíz de Hokkaido",
+      "Ultra Reconfortante"
+    ],
+    "image": "28_butter_corn_ramen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/butter-corn-ramen-bata-kon-ramen-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de la ciudad de Sapporo y planicies agrícolas, en la Prefectura de Hokkaido, Japón. Un tributo glorioso a los dos productos agrícolas más venerados de la isla norteña: el maíz dulce tierno en grano y la manteca artesanal de vacas de pastoreo. Al depositarse un bloque generoso de manteca fría sobre la sopa caliente de miso o shio, se derrite en la mesa envolviendo los fideos rizados en un velo lácteo sedoso inigualable.",
+    "ingredient_groups": [
+      {
+        "name": "Caldo Aromático de Miso o Shio",
+        "items": [
+          "800 ml de caldo caliente de pollo y cerdo",
+          "4 cucharadas de pasta de miso tostada o shio tare de sal marina",
+          "2 cucharadas de manteca de cerdo para saltear"
+        ]
+      },
+      {
+        "name": "Corona Estelar de Manteca y Maíz",
+        "items": [
+          "8 cucharadas colmadas de maíz dulce tierno en grano (choclo)",
+          "2 bloques generosos de manteca pura sin sal fría de 25 g cada uno",
+          "260 g de fideos ramen rizados gruesos",
+          "4 lonchas de chashu y cebolla de verdeo picada fina"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Preparación de la Sopa Caliente",
+        "steps": [
+          "Integrar el tare elegido con el caldo caliente hirviendo hasta formar una sopa untuosa y brillante."
+        ]
+      },
+      {
+        "name": "2. Cocción de Fideos Rizados",
+        "steps": [
+          "Hervir los fideos rizados gruesos durante 2 minutos hasta dejarlos al dente.",
+          "Escurrir sacudiendo con fuerza e introducir en los tazones."
+        ]
+      },
+      {
+        "name": "3. Montaje y el Deshielo de la Manteca",
+        "steps": [
+          "Verter el caldo sobre los fideos, acomodar las lonchas de chashu y volcar una montaña de 4 cucharadas de maíz dulce por tazón.",
+          "Colocar el bloque de manteca fría justo encima del maíz; la manteca comenzará a fundirse lentamente impregnando cada bocado. Servir con cuchara perforada para el maíz."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Utiliza una cuchara especial perforada de ramen para atrapar hasta el último grano dulce de maíz del fondo del cuenco."
+    ],
+    "notes": "Coloca el bloque de manteca fría justo encima del maíz caliente al momento exacto de llevar a la mesa para disfrutar de su suave fundido sobre el caldo."
+  },
+  {
+    "id": 375,
+    "title": "Nabeyaki Ramen (Japón)",
+    "original_title": "Nabeyaki Ramen (鍋焼きラーメン)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Nabeyaki",
+      "Susaki",
+      "Kochi",
+      "Donabe",
+      "Cazuela de Barro"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "25 min",
+    "rest_time": "5 min",
+    "temperature": "Chisporroteando y burbujeando a 100 °C",
+    "servings": "2 porciones",
+    "calories": "560 kcal por porción",
+    "diet_badges": [
+      "Cazuela de Barro Donabe",
+      "Huevo Cocinado en Mesa",
+      "Gallina Vieja"
+    ],
+    "image": "29_nabeyaki_ramen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/nabeyaki-ramen-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de la ciudad de Susaki, en la Prefectura de Kochi (Isla de Shikoku), Japón. Se sirve obligatoriamente dentro de una cazuela individual de barro refractario (Donabe) que llega a la mesa tapada y emitiendo un burbujeo chisporroteante. Su caldo se elabora exclusivamente con gallina vieja campera de sabor intenso y salino, coronado con pasteles de pescado Chikuwa y un huevo crudo entero que se cocina con el calor residual del barro frente al comensal.",
+    "ingredient_groups": [
+      {
+        "name": "Caldo Intenso de Gallina Vieja y Shoyu",
+        "items": [
+          "800 ml de caldo concentrado de gallina campera madura (Hina)",
+          "50 ml de Shoyu tare ligero tradicional",
+          "150 g de carne de pollo campero cortada en bocados pequeños"
+        ]
+      },
+      {
+        "name": "Fideos de Resistencia Térmica",
+        "items": [
+          "240 g de fideos rectos finos y muy firmes (con formulación especial para no ablandarse en barro hirviendo)"
+        ]
+      },
+      {
+        "name": "Toppings y Huevo en Cazuela",
+        "items": [
+          "2 huevos crudos enteros frescos",
+          "2 cilindros de pastel de pescado Chikuwa cortados al bies",
+          "Abundante cebolla de verdeo picada en trozos grandes",
+          "Encurtido de nabo Takuan amarillo para acompañar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Cocción Directa en la Cazuela de Barro (Donabe)",
+        "steps": [
+          "Colocar dos cazuelas de barro individuales directo sobre los fuegos de la cocina.",
+          "Añadir el caldo de gallina, el tare de soja, los trozos de carne de pollo y el Chikuwa, dejando que rompa en hervor tumultuoso."
+        ]
+      },
+      {
+        "name": "2. Incorporación de Fideos y Huevo Crudo",
+        "steps": [
+          "Introducir los fideos al dente firme dentro del caldo hirviendo en la cazuela.",
+          "Cascar un huevo crudo entero en el centro del caldo burbujeante y añadir abundante verdeo."
+        ]
+      },
+      {
+        "name": "3. Sellado con Tapa y Servicio a la Mesa",
+        "steps": [
+          "Colocar la tapa de barro sobre la cazuela y retirar del fuego con guantes térmicos.",
+          "Llevar inmediatamente a la mesa apoyada sobre salvamanteles de madera mientras hierve con fuerza.",
+          "El comensal retira la tapa descubriendo el vapor aromático; el huevo se habrá escalfado parcialmente. Se utiliza la tapa invertida como platillo para enfriar los fideos antes de comerlos."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Usa la tapa de la cazuela de barro como plato auxiliar para apoyar los fideos ardientes y soplarlos cómodamente."
+    ],
+    "notes": "La cazuela de barro Donabe conserva el calor de forma tan extrema que el huevo crudo se cocina en la mesa y la propia tapa sirve de cuenco auxiliar para enfriar los fideos."
+  },
+  {
+    "id": 376,
+    "title": "Toyama Black Ramen (Japón)",
+    "original_title": "Toyama Black Ramen (富山ブラックラーメン)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Toyama Black",
+      "Caldo Negro",
+      "Pimienta Negra",
+      "Hokuriku"
+    ],
+    "prep_time": "25 min",
+    "cook_time": "3 h",
+    "rest_time": "10 min",
+    "temperature": "Muy caliente",
+    "servings": "2 porciones",
+    "calories": "690 kcal por porción",
+    "diet_badges": [
+      "Sopa Negra Azabache",
+      "Pimienta Negra Torrencial",
+      "Extra Salino"
+    ],
+    "image": "30_toyama_black_ramen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/toyama-black-ramen-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de la ciudad de Toyama, en la Prefectura de Toyama (Región de Hokuriku), Japón. Creado en la posguerra (1947) por Daiki Taisho para obreros y constructores que sudaban copiosamente reconstruyendo la ciudad. Su sopa es de un color negro azabache casi opaco debido a la concentración extrema de salsa de soja oscura madurada, contrastada por una lluvia torrencial de pimienta negra recién molida y gruesos fideos rústicos.",
+    "ingredient_groups": [
+      {
+        "name": "Caldo Negro Concentrado",
+        "items": [
+          "800 ml de caldo de pollo y cerdo",
+          "90 ml de Shoyu tare negro artesanal súper concentrado de Toyama",
+          "2 cucharadas de manteca de cerdo aromatizada con ajo"
+        ]
+      },
+      {
+        "name": "Fideos Rústicos Gruesos y Toppings",
+        "items": [
+          "260 g de fideos ramen gruesos, rústicos y firmes",
+          "150 g de chashu tierno cortado en dados o trozos gruesos",
+          "1 cucharada colmada de pimienta negra recién molida gruesa",
+          "1 manojo generoso de cebollín picado rústico y bambú Menma oscuro",
+          "Cuencos de arroz blanco caliente obligatorios para acompañar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Elaboración del Caldo Negro Azabache",
+        "steps": [
+          "Verter el Shoyu tare negro concentrado en los tazones y mezclar con el caldo caliente hirviendo hasta lograr una sopa oscura y opaca como la tinta."
+        ]
+      },
+      {
+        "name": "2. Cocción de Fideos Rústicos Gruesos",
+        "steps": [
+          "Hervir los fideos gruesos durante 4 minutos para que conserven un núcleo consistente que resista la fuerza salina de la sopa.",
+          "Escurrir y colocar en el caldo negro."
+        ]
+      },
+      {
+        "name": "3. Montaje y Lluvia Torrencial de Pimienta Negra",
+        "steps": [
+          "Acomodar los trozos de chashu, el menma oscuro y el cebollín picado rústico.",
+          "Cubrir toda la superficie con una lluvia generosa de pimienta negra recién molida: el picor aromático de la pimienta corta la salinidad de la soja creando una adicción culinaria única. Servir con arroz blanco."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Este ramen fue concebido para acompañar arroz: come los fideos y sumerge el chashu bañado en la sopa negra sobre el cuenco de arroz blanco."
+    ],
+    "notes": "La pimienta negra recién molida gruesa debe cubrir generosamente la superficie de la sopa negra: su ardor aromático es el contrapunto vital a la concentración salina de la soja."
+  },
+  {
+    "id": 377,
+    "title": "Tempura Ramen (Japón)",
+    "original_title": "Tempura Ramen (天ぷらラーメン)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Tempura",
+      "Langostino",
+      "Kanto",
+      "Hokkaido"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "25 min",
+    "rest_time": "5 min",
+    "temperature": "Muy caliente",
+    "servings": "2 porciones",
+    "calories": "620 kcal por porción",
+    "diet_badges": [
+      "Langostino Ebi Tempura",
+      "Caldo Dorado Cristalino",
+      "Contraste Crujiente"
+    ],
+    "image": "31_tempura_ramen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/tempura-ramen-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de las zonas tradicionales de Kanto y Hokkaido, Japón. Una unión histórica venerada en antiguas tabernas y locales costeros. Combina un caldo cristalino dorado y sutil de pollo y dashi de pescado con una o dos piezas recién fritas de crujiente tempura de langostino gigante (Ebi Tempura). Al posarse sobre el cuenco, la parte superior se mantiene crujiente mientras que la base absorbe el caldo caliente con su rebozado de encaje dorado.",
+    "ingredient_groups": [
+      {
+        "name": "Caldo Dorado Diáfano y Tare Suave",
+        "items": [
+          "800 ml de dashi de bonito y alga kombu con fondo ligero de pollo",
+          "40 ml de Shoyu tare ligero o Shio tare cristalino",
+          "1 cucharadita de aceite de sésamo suave"
+        ]
+      },
+      {
+        "name": "Tempura Crujiente de Langostino (Ebi Tempura)",
+        "items": [
+          "4 langostinos gigantes frescos (pelados dejando la cola, estirados con pequeños cortes transversales)",
+          "Harina especial para tempura disuelta en agua con hielo",
+          "Abundante aceite para freír a 180 °C"
+        ]
+      },
+      {
+        "name": "Fideos y Guarnición Tradicional",
+        "items": [
+          "240 g de fideos ramen medianos y sedosos",
+          "2 cucharadas de alga wakame rehidratada",
+          "Cebolla de verdeo picada muy fina y 2 rodajas de Kamaboko rosado"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Fritura al Vuelo de la Tempura de Langostino",
+        "steps": [
+          "Preparar la masa de tempura mezclando harina y agua helada con palillos rápidamente sin batir en exceso (los grumos aseguran una fritura crujiente).",
+          "Rebozar los langostinos y freír en aceite a 180 °C durante 2 minutos hasta que el rebozado forme una corteza de encaje dorado crujiente. Escurrir sobre rejilla metálica."
+        ]
+      },
+      {
+        "name": "2. Cocción de Fideos y Caldo Puro",
+        "steps": [
+          "Verter el tare suave y el caldo dorado hirviendo en los tazones.",
+          "Cocinar los fideos durante 75 segundos, escurrir a conciencia y acomodarlos en el caldo."
+        ]
+      },
+      {
+        "name": "3. Montaje y Corona de Tempura",
+        "steps": [
+          "Acomodar el alga wakame, el verdeo picado y el kamaboko a un lado.",
+          "Posar cuidadosamente dos piezas de tempura de langostino cruzando el tazón, apoyadas contra los bordes para que la mitad superior se mantenga crujiente y la inferior absorba el caldo. Servir inmediatamente."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Prueba primero un bocado de la tempura crujiente seca de arriba, y luego sumerge la otra mitad en el caldo para saborear cómo el rebozado absorbe el umami del fondo marino."
+    ],
+    "notes": "Apoyar la tempura de langostino cruzando los bordes del tazón preserva la mitad superior crujiente mientras la base absorbe todo el umami del caldo dorado."
+  },
+  {
+    "id": 378,
+    "title": "Beppu Reimen (Japón)",
+    "original_title": "Beppu Reimen (別府冷麺)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Beppu",
+      "Oita",
+      "Onsen",
+      "Reimen",
+      "Frío"
+    ],
+    "prep_time": "25 min",
+    "cook_time": "1 h",
+    "rest_time": "2 h (enfriado)",
+    "temperature": "Helado y refrescante",
+    "servings": "2 porciones",
+    "calories": "480 kcal por porción",
+    "diet_badges": [
+      "Fideos Elásticos de Trigo y Sarraceno",
+      "Repollo Encurtido de Onsen",
+      "Caldo Marino Frío"
+    ],
+    "image": "32_beppu_reimen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/beppu-reimen-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de la ciudad de Beppu, en la Prefectura de Oita (Isla de Kyushu), Japón. La famosa capital de los baños termales (Onsen) creó su propio ramen frío alrededor de 1950. Sus fideos gruesos y sumamente elásticos se elaboran combinando harina de trigo y trigo sarraceno, servidos en un caldo frío limpio de ternera y dashi de pescado, coronado con un repollo fermentado picante propio de la región.",
+    "ingredient_groups": [
+      {
+        "name": "Caldo Helado de Ternera y Dashi Marino",
+        "items": [
+          "600 ml de caldo de ternera completamente desgrasado en heladera",
+          "200 ml de dashi frío de alga kombu y pescado seco",
+          "3 cucharadas de salsa de soja suave, 2 de vinagre de arroz y sal fina"
+        ]
+      },
+      {
+        "name": "Fideos de Trigo y Sarraceno de Beppu",
+        "items": [
+          "260 g de fideos gruesos elásticos para Reimen",
+          "Agua helada para el choque térmico"
+        ]
+      },
+      {
+        "name": "Guarnición de Onsen y Kimchi de Repollo",
+        "items": [
+          "100 g de kimchi o encurtido picante de repollo estilo Beppu",
+          "Lonchas finas de ternera cocida desgrasada",
+          "1 huevo duro cortado en dos, semillas de sésamo y verdeo picado"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Clarificación del Caldo Frío",
+        "steps": [
+          "Combinar el caldo de ternera frío desgrasado con el dashi marino, vinagre y salsa de soja. Conservar en heladera hasta el momento de servir."
+        ]
+      },
+      {
+        "name": "2. Hervido y Lavado Helado de los Fideos",
+        "steps": [
+          "Cocinar los fideos gruesos durante 3 minutos y medio.",
+          "Escurrir y frotar con ambas manos bajo agua con hielo para desarrollar su elasticidad gomosa característica. Escurrir muy bien."
+        ]
+      },
+      {
+        "name": "3. Montaje del Tazón Frío",
+        "steps": [
+          "Acomodar los fideos en cuencos helados, verter el caldo frío y coronar con la ternera cocida, el repollo picante de Beppu, el huevo duro y sésamo tostado. Servir refrescante."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Es la comida tradicional con la que los visitantes se revitalizan tras un baño humeante en las aguas termales de Beppu."
+    ],
+    "notes": "El lavado vigoroso de los fideos en agua con hielo es fundamental para fijar la elasticidad y masticabilidad que aporta la mezcla de trigo y trigo sarraceno."
+  },
+  {
+    "id": 379,
+    "title": "Kimchi Ramen (Japón)",
+    "original_title": "Kimchi Ramen Fusión (キムチラーメン)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Kimchi",
+      "Picante",
+      "Fusión",
+      "Panceta"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "25 min",
+    "rest_time": "5 min",
+    "temperature": "Muy caliente",
+    "servings": "2 porciones",
+    "calories": "620 kcal por porción",
+    "diet_badges": [
+      "Kimchi Fermentado",
+      "Panceta Salteada",
+      "Caldo Rubí"
+    ],
+    "image": "33_kimchi_ramen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/kimchi-ramen-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de todo Japón, representando la fusión pan-asiática más querida en las tabernas de ramen. La clave está en saltear auténtico kimchi madurado con panceta de cerdo en aceite de sésamo antes de verter el caldo: el ácido láctico de la fermentación y el chile Gochugaru cortan la grasa del cerdo y tiñen la sopa de un tono rojo rubí vibrante.",
+    "ingredient_groups": [
+      {
+        "name": "Salteado de Kimchi y Panceta",
+        "items": [
+          "150 g de kimchi madurado picante con su jugo fermentado",
+          "120 g de panceta de cerdo en tiras finas",
+          "2 dientes de ajo picados y 1 cucharada de aceite de sésamo",
+          "1 cucharada de pasta de soja picante (Gochujang o Toban Djan)"
+        ]
+      },
+      {
+        "name": "Caldo y Fideos",
+        "items": [
+          "800 ml de caldo caliente de cerdo y pollo",
+          "240 g de fideos ramen medianos y rizados"
+        ]
+      },
+      {
+        "name": "Toppings Suaves de Contraste",
+        "items": [
+          "100 g de tofu sedoso cortado en dados tiernos",
+          "1 huevo Ajitsuke marinado cortado por la mitad",
+          "Cebolla de verdeo picada y semillas de sésamo"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Salteado y Caramelizado del Kimchi",
+        "steps": [
+          "En una cazuela, dorar la panceta con el aceite de sésamo y ajo durante 2 minutos.",
+          "Añadir el kimchi y la pasta picante, salteando a fuego vivo durante 3 minutos hasta que el repollo empiece a caramelizar y desprenda su aroma fermentado.",
+          "Verter el jugo de kimchi y el caldo caliente; dejar hervir a fuego medio durante 3 minutos para integrar todos los sabores en una sopa roja brillante."
+        ]
+      },
+      {
+        "name": "2. Hervido de Fideos Rizados",
+        "steps": [
+          "Cocinar los fideos durante 80 segundos, escurrir bien y acomodarlos en los cuencos."
+        ]
+      },
+      {
+        "name": "3. Montaje Equilibrado",
+        "steps": [
+          "Verter la sopa caliente de kimchi y panceta sobre los fideos.",
+          "Acomodar los dados de tofu sedoso fresco (que calman el ardor del picante), el huevo Ajitsuke y verdeo fresco picado. Servir de inmediato."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Utiliza kimchi bien fermentado (ácido y con burbujas de fermento vivo); el kimchi joven carece de la profundidad necesaria para transformar el caldo."
+    ],
+    "notes": "Utiliza siempre kimchi madurado y bien fermentado: su acidez natural y picante es lo que balancea la grasa de la panceta y da color rubí al caldo."
+  },
+  {
+    "id": 380,
+    "title": "Tamana Ramen (Japón)",
+    "original_title": "Tamana Ramen (玉名ラーメン)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Tamana",
+      "Kumamoto",
+      "Ajo Frito",
+      "Tonkotsu"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "4 h",
+    "rest_time": "10 min",
+    "temperature": "Muy caliente",
+    "servings": "2 porciones",
+    "calories": "680 kcal por porción",
+    "diet_badges": [
+      "Virutas de Ajo Tostado",
+      "Tonkotsu Lechoso",
+      "Precursor de Kumamoto"
+    ],
+    "image": "34_tamana_ramen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/tamana-ramen-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de la ciudad de Tamana, en la Prefectura de Kumamoto (Isla de Kyushu), Japón. Es el eslabón histórico que conectó el Tonkotsu ancestral de Kurume con el ramen de Kumamoto. Se sirve con un caldo de cerdo blanquecino, denso y aromático; el ritual exige que el camarero traiga una cuchara con virutas doradas de ajo tostado crujiente (Agedashi Garlic) y las espolvoree directamente frente al comensal sobre el caldo humeante.",
+    "ingredient_groups": [
+      {
+        "name": "Caldo Blanco Tonkotsu Tradicional",
+        "items": [
+          "800 ml de caldo lechoso de huesos de cerdo hervidos a borbotones",
+          "60 ml de tare de sal marina y soja de Kyushu",
+          "2 cucharadas de manteca de cerdo aromática"
+        ]
+      },
+      {
+        "name": "Virutas Doradas de Ajo Tostado (Agedashi)",
+        "items": [
+          "6 dientes de ajo picados en granillo fino fritos en manteca hasta quedar dorados y crujientes"
+        ]
+      },
+      {
+        "name": "Fideos y Toppings",
+        "items": [
+          "240 g de fideos rectos medianos",
+          "4 lonchas de chashu de cerdo tierno",
+          "Setas Kikurage en tiras finas, verdeo picado y láminas de nori"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Hervido del Caldo y Tare",
+        "steps": [
+          "Servir el caldo lechoso de cerdo hirviendo sobre el tare en los tazones precalentados."
+        ]
+      },
+      {
+        "name": "2. Fideos al Dente",
+        "steps": [
+          "Hervir los fideos rectos medianos durante 65 segundos y escurrir al instante."
+        ]
+      },
+      {
+        "name": "3. Montaje y el Ritual del Ajo Frito",
+        "steps": [
+          "Incorporar los fideos, decorar con chashu, kikurage y alga nori.",
+          "Espolvorear con orgullo una generosa cucharada de las virutas crujientes de ajo frito sobre la superficie lechosa; al contacto con el caldo hirviendo, el ajo libera una nube de fragancia tostada envolvente. Servir inmediatamente."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "El ajo picado en granillo muy fino se tuesta rápidamente: retíralo del aceite en cuanto tome color dorado claro, ya que seguirá cocinándose con el calor residual."
+    ],
+    "notes": "Espolvorear el granillo de ajo frito dorado en el último segundo sobre el caldo lechoso desata una fragancia envolvente que define la personalidad de este ramen."
+  },
+  {
+    "id": 381,
+    "title": "Kake Ramen (Japón)",
+    "original_title": "Kake Ramen Minimalista (掛けラーメン)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Kake Ramen",
+      "Minimalismo",
+      "Puro Caldo"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "3 h",
+    "rest_time": "10 min",
+    "temperature": "Muy caliente",
+    "servings": "2 porciones",
+    "calories": "420 kcal por porción",
+    "diet_badges": [
+      "Minimalismo Zen",
+      "Pureza Absoluta",
+      "Sin Distracciones"
+    ],
+    "image": "35_kake_ramen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/kake-ramen-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria del templo del ramen artesanal, Japón. Es la prueba de fuego definitiva para cualquier artesano de ramen. Despojado de toppings, carne, huevos o adornos decorativos: solo la comunión sagrada entre un caldo cristalino de complejidad milimétrica, un tare de soja cruda madurada y fideos artesanales perfectamente peinados.",
+    "ingredient_groups": [
+      {
+        "name": "Caldo Supremo Cristalino Chintan",
+        "items": [
+          "800 ml de caldo diáfano elaborado con gallinas camperas de raza pura y dashi de kombu añejado",
+          "50 ml de Nama Shoyu Tare (salsa de soja cruda no pasteurizada con mirin fino)",
+          "2 cucharadas de aceite dorado de piel de ave pura"
+        ]
+      },
+      {
+        "name": "Fideos Artesanales Magistrales",
+        "items": [
+          "240 g de fideos ramen de harina de trigo seleccionada",
+          "Opcional: 1 hebra sutil de cebollín blanco finísimo cortado en hilos de seda (Shiraga Negi)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Claridad Absoluta del Caldo",
+        "steps": [
+          "Calentar el caldo supremo sin dejar hervir a borbotones manteniendo una temperatura constante de 90 °C.",
+          "Verter el Nama Shoyu tare y el aceite de ave pura en el fondo del cuenco precalentado."
+        ]
+      },
+      {
+        "name": "2. Cocción Milimétrica de Fideos",
+        "steps": [
+          "Hervir los fideos durante exactamente 60 segundos.",
+          "Escurrir sacudiendo el tebo con precisión cronometrada."
+        ]
+      },
+      {
+        "name": "3. El Pliegue y Servicio Zen",
+        "steps": [
+          "Verter el caldo sobre el tare.",
+          "Introducir los fideos y, con los palillos largos, peinarlos en un pliegue suave, continuo y armónico que cruce el cuenco de extremo a extremo sin fideos desordenados.",
+          "Colocar únicamente los hilos de cebollín blanco si se desea y servir de inmediato para contemplar y degustar la esencia pura del ramen."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Al no tener toppings que enmascaren el sabor, cualquier defecto en el agua, la salinidad o el fideo se nota de inmediato; exige ingredientes de la más alta calidad posible."
+    ],
+    "notes": "Al carecer por completo de guarnición, este ramen exige un peinado zen perfecto de los fideos y la máxima pureza del caldo cristalino elaborado con aves de corral de raza pura."
+  },
+  {
+    "id": 382,
+    "title": "Burnt Miso Ramen (Kogashi Miso) (Japón)",
+    "original_title": "Kogashi Miso Ramen (焦がし味噌ラーメン)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Burnt Miso",
+      "Kogashi",
+      "Kyoto",
+      "Fuego Directo"
+    ],
+    "prep_time": "25 min",
+    "cook_time": "30 min",
+    "rest_time": "5 min",
+    "temperature": "Ardiendo con aroma torrefacto",
+    "servings": "2 porciones",
+    "calories": "680 kcal por porción",
+    "diet_badges": [
+      "Miso Quemado a 300 °C",
+      "Aroma Torrefacto",
+      "Espectáculo Flamígero"
+    ],
+    "image": "36_burnt_miso_ramen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/burnt-miso-ramen-kogashi-miso-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de la ciudad de Kyoto, en la Prefectura de Kyoto (Región de Kansai), Japón. Creado y popularizado por el restaurante Gogyo. Es un espectáculo visual y gustativo: la pasta de miso se añade a una sartén de hierro con manteca a casi 300 °C, generando una llamarada controlada que carameliza el miso hasta tornarlo casi negro azabache, liberando un aroma ahumado y dulce a torrefacción incomparable sin volverse amargo.",
+    "ingredient_groups": [
+      {
+        "name": "Miso Quemado Kogashi y Llamarada",
+        "items": [
+          "5 cucharadas de pasta de miso rojo y negro especial",
+          "3 cucharadas de manteca de cerdo pura",
+          "1 cucharadita de azúcar y ajo picado",
+          "800 ml de caldo denso de cerdo para desglasar la llamarada"
+        ]
+      },
+      {
+        "name": "Fideos Gruesos y Toppings Braseados",
+        "items": [
+          "260 g de fideos ramen gruesos rizados",
+          "4 lonchas gruesas de chashu de cerdo pasadas por soplete",
+          "1 huevo Ajitsuke marinado cortado por la mitad",
+          "Hojas de repollo dulce ligeramente quemadas en sartén y verdeo"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. El Salteado Ardiente del Miso a 300 °C",
+        "steps": [
+          "Calentar una sartén de hierro a fuego máximo hasta que esté al rojo vivo.",
+          "Añadir la manteca e incorporar inmediatamente la pasta de miso con el azúcar; la manteca arderá provocando una llamarada que quemará el exterior de la pasta de miso.",
+          "Revolver rápidamente durante 20 segundos hasta que el miso adquiera un color carbón oscuro y desprenda un aroma penetrante a caramelo tostado."
+        ]
+      },
+      {
+        "name": "2. Desglasado y Emulsión Negra",
+        "steps": [
+          "Verter el caldo de cerdo con precaución sobre la llamarada para sofocarla al instante.",
+          "Dejar hervir 2 minutos batiendo con espátula: se formará una sopa emulsionada de color chocolate oscuro y aroma torrefacto fascinante."
+        ]
+      },
+      {
+        "name": "3. Montaje del Tazón Negro",
+        "steps": [
+          "Cocinar los fideos gruesos durante 2 minutos al dente y acomodar en los tazones.",
+          "Verter la sopa negra hirviendo sobre los fideos.",
+          "Añadir las hojas de repollo braseadas, el chashu sopleteado, el huevo Ajitsuke y verdeo fresco. Servir ardiendo."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "El calor extremo carameliza los azúcares naturales del miso; no amarga en absoluto, sino que desarrolla complejas notas de chocolate negro, café y madera noble."
+    ],
+    "notes": "La llamarada controlada de la pasta de miso a casi 300 °C carameliza sus azúcares al límite, transformándola en una crema torrefacta de notas profundas e inolvidables."
+  },
+  {
+    "id": 383,
+    "title": "Muroran Curry Ramen (Japón)",
+    "original_title": "Muroran Curry Ramen (室蘭カレーラーメン)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Curry",
+      "Muroran",
+      "Hokkaido",
+      "Espeso"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "40 min",
+    "rest_time": "5 min",
+    "temperature": "Muy caliente",
+    "servings": "2 porciones",
+    "calories": "710 kcal por porción",
+    "diet_badges": [
+      "Roux de Curry Japonés",
+      "Sopa Aterciopelada",
+      "Especias del Norte"
+    ],
+    "image": "37_muroran_curry_ramen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/muroran-curry-ramen-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de la ciudad de Muroran, en la Prefectura de Hokkaido (Bahía de Uchiura), Japón. Considerado el cuarto gran pilar gastronómico de Hokkaido junto al Miso de Sapporo, el Shoyu de Asahikawa y el Shio de Hakodate. Su sopa se elabora a partir de un roux espeso y aromático de curry japonés que incorpora más de 20 especias, manzana rallada y miel, disuelto en un denso caldo de huesos de cerdo.",
+    "ingredient_groups": [
+      {
+        "name": "Roux Aromático de Curry y Caldo de Cerdo",
+        "items": [
+          "3 cubos de curry japonés suave/medio (Roux en barra) o pasta artesanal de curry",
+          "1 cucharada de curry en polvo tostado (S&B)",
+          "1/2 manzana rallada y 1 cucharada de miel",
+          "800 ml de caldo denso de huesos de cerdo caliente",
+          "2 cucharadas de salsa de soja para equilibrar la sal"
+        ]
+      },
+      {
+        "name": "Fideos Amarillos Rizados y Toppings",
+        "items": [
+          "260 g de fideos ramen rizados amarillos y resistentes",
+          "4 lonchas tiernas de chashu de cerdo",
+          "100 g de brotes de soja salteados y alga wakame",
+          "Cebolla de verdeo picada fina y cuenco de arroz blanco para el final"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Disolución del Roux y Emulsión Aterciopelada",
+        "steps": [
+          "En una cazuela con el caldo de cerdo caliente, disolver los cubos de roux de curry picados con batidor de varillas.",
+          "Añadir el curry en polvo, la manzana rallada, miel y salsa de soja. Cocinar a fuego lento durante 8 minutos hasta que adquiera la textura de una crema aterciopelada que cubra el dorso de la cuchara."
+        ]
+      },
+      {
+        "name": "2. Cocción de Fideos Rizados",
+        "steps": [
+          "Hervir los fideos rizados durante 2 minutos hasta dejarlos al dente firme.",
+          "Escurrir bien e introducir en los tazones precalentados."
+        ]
+      },
+      {
+        "name": "3. Montaje y el Ritual del Arroz",
+        "steps": [
+          "Verter la espesa sopa de curry hirviendo sobre los fideos cubriéndolos por completo.",
+          "Acomodar el chashu, brotes de soja, alga wakame y verdeo picado.",
+          "Servir inmediatamente con el cuenco de arroz blanco: al terminar los fideos, se vuelca el arroz dentro de la sopa sobrante para disfrutar de un arroz al curry celestial."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Volcar arroz blanco al cuenco tras comer los fideos no es un capricho, es una norma gastronómica inquebrantable en Muroran."
+    ],
+    "notes": "Tras terminar los fideos, añade siempre dos cucharadas de arroz blanco tibio a la sopa espesa de curry sobrante para redondear el ritual tradicional de Muroran."
+  },
+  {
+    "id": 384,
+    "title": "Hokkaido Curry Ramen (Japón)",
+    "original_title": "Hokkaido Curry Ramen Caldoso (北海道カレーラーメン)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Curry",
+      "Hokkaido",
+      "Papas de Hokkaido"
+    ],
+    "prep_time": "25 min",
+    "cook_time": "35 min",
+    "rest_time": "5 min",
+    "temperature": "Muy caliente",
+    "servings": "2 porciones",
+    "calories": "640 kcal por porción",
+    "diet_badges": [
+      "Caldo de Curry Fluido",
+      "Papas de Granja",
+      "Verduras de Raíz"
+    ],
+    "image": "38_hokkaido_curry_ramen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/hokkaido-curry-ramen-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de las ciudades del centro y norte, en la Prefectura de Hokkaido, Japón. Una versión más ligera, fluida y caldosa que el estilo de Muroran, inspirada en las reconocidas sopas de curry de Sapporo. Combina un caldo brillante de pollo y cebolla dulce sazonado con especias de curry tostadas, acompañado de cubos tiernos de papas de granja de Hokkaido que absorben el sabor especiado.",
+    "ingredient_groups": [
+      {
+        "name": "Caldo Fluido de Pollo al Curry",
+        "items": [
+          "800 ml de caldo limpio de pollo y cebollas dulces salteadas",
+          "2 cucharadas de curry en polvo japonés tostado en manteca",
+          "40 ml de Shoyu tare ligero y 1 cucharada de mirin"
+        ]
+      },
+      {
+        "name": "Verduras de Raíz de Hokkaido",
+        "items": [
+          "1 papa grande de Hokkaido cortada en cubos de 1,5 cm cocida al dente",
+          "1/2 zanahoria en rodajas finas cocidas",
+          "4 lonchas de chashu de cerdo",
+          "1 huevo Ajitsuke marinado"
+        ]
+      },
+      {
+        "name": "Fideos",
+        "items": [
+          "240 g de fideos ondulados medianos",
+          "Cebolla de verdeo picada fina"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Infusión Dorada del Caldo de Curry",
+        "steps": [
+          "En una cacerola, tostar el curry en polvo con una cucharadita de manteca durante 30 segundos para despertar sus aromas.",
+          "Añadir el caldo de pollo caliente, el tare y el mirin, dejando hervir 5 minutos para que el curry se integre en un caldo fluido, dorado y perfumado."
+        ]
+      },
+      {
+        "name": "2. Cocción de Fideos y Templado de Verduras",
+        "steps": [
+          "Cocinar los fideos durante 90 segundos y escurrir.",
+          "Calentar los cubos de papa cocida dentro del caldo de curry para que absorban su sabor especiado."
+        ]
+      },
+      {
+        "name": "3. Montaje Aromático",
+        "steps": [
+          "Disponer los fideos en los tazones, verter el caldo dorado con las papas tiernas y zanahorias, y decorar con el chashu, el huevo y verdeo fresco. Servir humeante."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Las papas harinosas de Hokkaido actúan como esponjas que absorben el caldo de curry caliente haciéndolas irresistibles."
+    ],
+    "notes": "Los cubos de papa tierna de granja deben impregnarse en el caldo de curry caliente unos minutos antes de servir para absorber todas sus notas aromáticas."
+  },
+  {
+    "id": 385,
+    "title": "Sakata Ramen (Japón)",
+    "original_title": "Sakata Ramen (酒田ラーメン)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Fideos",
+      "Japón",
+      "Sakata",
+      "Yamagata",
+      "Agodashi",
+      "Wonton",
+      "Pescado Volador"
+    ],
+    "prep_time": "35 min",
+    "cook_time": "2 h 30 min",
+    "rest_time": "10 min",
+    "temperature": "Muy caliente",
+    "servings": "2 porciones",
+    "calories": "540 kcal por porción",
+    "diet_badges": [
+      "Caldo de Pescado Volador Ago",
+      "Wonton 'Ala de Cigarra'",
+      "Fideos Caseros de Alta Hidratación"
+    ],
+    "image": "39_sakata_ramen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/sakata-ramen-japon",
+    "published": "2026-10-30",
+    "story": "Especialidad originaria de la ciudad de Sakata, en la Prefectura de Yamagata (Región de Tohoku), Japón. Yamagata ostenta el récord absoluto de consumo de ramen de todo el país, y en Sakata el 80% de los locales elaboran sus propios fideos a mano. Se distingue por un caldo refinado y transparente elaborado a base de pescado volador tostado al fuego (Agodashi) y alga kombu, coronado con wontons de masa tan ultrafina y etérea que en Japón se conoce poéticamente como 'delgada como el ala de una cigarra' (Semiba), deshaciéndose en la boca como una nube de seda.",
+    "ingredient_groups": [
+      {
+        "name": "Caldo Cristalino de Pescado Volador Tostado (Agodashi)",
+        "items": [
+          "50 g de pescado volador tostado seco (Yaki-Ago)",
+          "1 tira de alga kombu de 10 cm",
+          "600 g de pollo de corral limpio desgrasado",
+          "800 ml de caldo diáfano, dulce y aromático resultante",
+          "40 ml de Shoyu tare ligero y transparente de Yamagata"
+        ]
+      },
+      {
+        "name": "Wontons de Masa Etérea 'Ala de Cigarra' (Semiba)",
+        "items": [
+          "8 obleas de masa de wonton ultrafina especial (casi translúcida)",
+          "80 g de relleno fino de cerdo picado y langostino triturado con jengibre y pizca de sal"
+        ]
+      },
+      {
+        "name": "Fideos Artesanales Ondulados y Guarnición",
+        "items": [
+          "240 g de fideos frescos artesanales de alta hidratación ondulados",
+          "4 lonchas de chashu magro estofado suave",
+          "Brotes de bambú Menma suaves y cebolla de verdeo picada fina"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Infusión Serena de Pescado Volador (Agodashi)",
+        "steps": [
+          "Infusionar el pescado volador tostado (Yaki-Ago) con el alga kombu y el pollo en agua a 85 °C sin que rompa en hervor tumultuoso durante 2 horas.",
+          "El pescado volador aporta un dulzor yodo refinado y libre de acidez o grasa. Colar por filtro fino para lograr un caldo ámbar pálido 100% transparente."
+        ]
+      },
+      {
+        "name": "2. Armado y Cocción Suave de los Wontons Etéreos",
+        "steps": [
+          "Colocar una pequeña bolita de relleno en el centro de cada oblea ultrafina, humedecer los bordes y cerrar formando pequeños pliegues suaves sin apretar la masa.",
+          "Hervir los wontons en agua hirviendo suave durante exactamente 90 segundos; la masa se tornará translúcida flotando como velos de seda en el agua. Retirar con espumadera de alambre delicadamente."
+        ]
+      },
+      {
+        "name": "3. Hervido de Fideos Artesanales y Montaje Poético",
+        "steps": [
+          "Cocinar los fideos de alta hidratación durante 2 minutos; escurrir con sacudidas suaves para no romper el nervio.",
+          "En los tazones calientes, verter el tare ligero y el caldo hirviendo de Agodashi.",
+          "Introducir los fideos peinados, colocar encima las láminas de chashu, menma, verdeo y depositar con suprema delicadeza 4 wontons etéreos por cuenco flotando sobre el caldo. Servir inmediatamente."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "La masa de los wontons de Sakata es tan etérea que no requiere masticarse: se desliza por la garganta junto con el caldo de pescado volador en una sensación táctil única."
+    ],
+    "notes": "La masa de los wontons de Sakata debe ser ultrafina y casi translúcida para que al sumergirse en el caldo de pescado volador se deshaga con la suavidad de un velo de seda."
   }
 ]
