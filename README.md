@@ -1,22 +1,20 @@
 # UmamiCraft 🍳✨
 
-> **Colección Gastronómica & Cocktails de Autor** • Catálogo de **304 Recetas Curadas del Mundo**  
+> **Colección Gastronómica & Cocktails de Autor** • Cocina Internacional Auténtica  
 > Plataforma web gastronómica y **Progressive Web App (PWA)** de alto rendimiento, optimizada para Google Search Console, Google Analytics 4, protocolo IndexNow, Pinterest Business RSS multilingüe y administración en tiempo real.
 
 ---
 
 ## 🌟 Novedades y Características Principales
 
-### 🍽️ 1. Catálogo de 304 Recetas Icónicas del Mundo
-* **Última Incorporación (#304):** *Focaccia Genovese Clásica sin Amasado (Italia)* — Auténtica *fügassa* ligur con 78% de hidratación, fermentación en frío de 24 horas, salmuera emulsionada de aceite de oliva virgen extra y sal marina en escamas, con hoyuelos profundos y romero fresco.
-* **Trilogía Proteica & Saludable con Queso Cottage (#301, #302, #303):**
-  * **Pasta con Salsa Cremosa de Queso Cottage y Albahaca (#301 - Italia):** Salsa aterciopelada y ligera que reemplaza la crema de leche, logrando alta proteína con emulsión de agua de cocción y parmesano.
-  * **Tostada de Masa Madre con Queso Cottage, Palta y Huevo (#302 - Australia):** Desayuno/brunch gourmet con pan de masa madre crujiente, base de cottage, palta hass y huevo tierno.
-  * **Panqueques Esponjosos de Cottage y Avena (#303 - Estados Unidos):** Dulces, esponjosos, sin harinas refinadas ni manteca, decorados con miel pura y frutos rojos.
-* **Hito #300:** *Pollo Frito Estilo Kentucky KFC* con fórmula de 11 hierbas y especias y técnica de doble rebozado.
-* **Colección de Sándwiches & Hamburguesas de Culto:** *Wisconsin Butter Burger, Oklahoma Onion Smash, Patty Melt, Slider White Castle, Bánh Mì vietnamita, Francesinha de Oporto, Chivito uruguayo, Tamago Sando japonés, Vada Pav indio, Torta Ahogada mexicana, Bocadillo de calamares de Madrid, Fischbrötchen de Hamburgo, Reuben neoyorquino, Panino con Porchetta romano, Sándwich de Vacío argentino, Kebab Adana (#293)*, entre otros.
-* **Coctelería de Autor & Clásicos:** Tragos reales con cristalería, tipo de hielo y medidas precisas en ml/oz.
-* **Ficha Técnica Completa:** Tiempos detallados (prep, cocción, reposo), temperaturas, porciones escalables, calorías y etiquetas dietarias.
+### 🍽️ 1. Catálogo Gastronómico Internacional en Constante Expansión
+* **🍜 Gran Colección Canónica de Ramen Japonés:** Cobertura exhaustiva de estilos regionales auténticos con caldos tradicionales (*Tonkotsu, Shoyu, Miso, Shio, Tsukemen, Champon, Abura Soba, Tantanmen, Kitakata, Iekei, Asahikawa, Morioka Reimen, Onomichi, Tokushima, Wakayama, Kumamoto, Toyama Black, Sakata*, entre otros).
+* **🦐 Recetas de Autor:** Creaciones culinarias propias y técnicas contemporáneas (*Camarones al Papel Aluminio en Sartén con Mozzarella, Yemas de Huevo Curadas, Guiso de Lentejas Criollo de Autor*, entre otras).
+* **🍞 Panadería & Masas Artesanales:** *Focaccia Genovese Clásica sin Amasado (Ligur)* con fermentación en frío, salmuera de oliva virgen extra y sal marina en escamas.
+* **🧀 Opciones Saludables & Proteicas con Queso Cottage:** Pastas cremosas con albahaca fresca sin crema pesada, tostadas de masa madre con palta y huevo, y panqueques esponjosos de avena y frutos rojos.
+* **🍔 Sándwiches & Hamburguesas de Culto del Mundo:** *Wisconsin Butter Burger, Oklahoma Onion Smash, Patty Melt, White Castle Slider, Bánh Mì vietnamita, Francesinha de Oporto, Chivito uruguayo, Tamago Sando japonés, Vada Pav indio, Torta Ahogada mexicana, Bocadillo de calamares madrileño, Fischbrötchen de Hamburgo, Reuben neoyorquino, Panino con Porchetta romano, Sándwich de Vacío argentino, Kebab Adana*, entre otros.
+* **🍸 Coctelería de Autor & Clásicos:** Fichas de coctelería con cristalería adecuada, tipo de hielo y medidas precisas en ml/oz.
+* **📋 Ficha Técnica Culinaria Completa:** Tiempos precisos (preparación, cocción, reposo), temperaturas, porciones dinámicas escalables, cálculo calórico y etiquetas dietarias (*Sin Gluten, Keto, Vegetariano, Alto en Proteína*).
 
 ---
 
@@ -41,7 +39,7 @@
 ### 📈 4. Analítica, Métricas & SEO de Nueva Generación
 * **Google Analytics 4 Oficial (`G-WEF6K9K64Q`):** Medición de tráfico en tiempo real, páginas más vistas, países de procedencia y eventos de navegación.
 * **Vercel Web Analytics:** Telemetría nativa de rendimiento y visitantes sin cookies.
-* **Protocolo IndexNow (Bing, Yandex, Seznam, Naver):** Envío masivo automatizado de las 915 URLs multilingües (304 recetas en ES, EN, PT + homepages) para indexación en minutos sin esperar a los rastreadores.
+* **Protocolo IndexNow (Bing, Yandex, Seznam, Naver):** Envío masivo automatizado de URLs multilingües (español, inglés y portugués + portadas) para indexación inmediata.
 * **Google Sitelinks Searchbox:** Estructura de datos Schema.org (`WebSite` + `SearchAction`) para integrar el buscador de UmamiCraft directamente en los resultados de Google.
 * **Sitemaps XML Multilingües:** `sitemap.xml` (índice maestro), `sitemap-es.xml`, `sitemap-en.xml` y `sitemap-pt.xml` con atributos `hreflang`.
 * **Protección de Rastreo (`robots.txt`):** Directivas `Disallow: /admin` para concentrar el 100% de la cuota de rastreo (*Crawl Budget*) en las recetas públicas.
@@ -54,7 +52,7 @@
   * 🇬🇧 **Inglés:** `https://umamicraft.vercel.app/feed-en.xml`
   * 🇧🇷 **Portugués:** `https://umamicraft.vercel.app/feed-pt.xml`
 * **Especificación Optimizada:** Orden cronológico inverso, etiquetas `<enclosure>` y `<media:content>` de imagen, descripciones enriquecidas con CDATA y fechas RFC 822.
-* **Cargas Masivas (CSV):** Archivos `pinterest_pins_*.csv` generados automáticamente para lotes de 150 pines en los 3 idiomas.
+* **Cargas Masivas (CSV):** Archivos de catálogo generados automáticamente para Pinterest en los 3 idiomas.
 
 ---
 
@@ -75,9 +73,9 @@
 ├── api/
 │   ├── index.js                   # Serverless SSR en Vercel (OpenGraph & Schema.org dinámico)
 │   └── indexnow.js                # Serverless Endpoint para notificaciones de IndexNow
-├── index.html                     # Aplicación web pública y PWA (SPA con 304 recetas)
+├── index.html                     # Aplicación web pública y PWA (SPA interactiva)
 ├── admin.html                     # Panel de control, editor visual y métricas (SHA-256)
-├── recetas_pro.json               # Base de datos maestra (304 recetas curadas)
+├── recetas_pro.json               # Base de datos maestra de recetas curadas
 ├── manifest.json                  # Manifiesto oficial PWA para instalación móvil
 ├── sw.js                          # Service Worker para funcionamiento offline y caché
 ├── icon-192.png / icon-512.png    # Iconos oficiales de la aplicación
