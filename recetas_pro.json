@@ -24756,5 +24756,400 @@
       "Sellado con tenedor: Apretá bien los extremos con el tenedor humedecido; si la empanadilla se abre en el aceite caliente, la miel caramelizará y quemará el aceite."
     ],
     "notes": "Se conservan en lata hermética durante más de diez días manteniendo su textura crujiente y aroma a fiesta asturiana."
+  },
+  {
+    "id": 343,
+    "title": "Guasacaca Tradicional Venezolana — Salsa Criolla de Aguacate, Pimentón Verde y Vinagre (Venezuela)",
+    "original_title": "Guasacaca Venezolana",
+    "country": "Venezuela",
+    "category": "Salsas y Aderezos",
+    "tags": [
+      "Guasacaca",
+      "Venezuela",
+      "Aguacate",
+      "Parrilla",
+      "Arepas",
+      "Salsas",
+      "Cilantro",
+      "Perejil",
+      "Pimenton"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "0 min",
+    "rest_time": "30 min",
+    "temperature": "Ambiente / Frío",
+    "servings": "8 a 10 porciones (500 ml)",
+    "calories": "110 kcal aprox. por porción",
+    "diet_badges": [
+      "Vegetariano",
+      "Vegano",
+      "Sin Gluten",
+      "Sin Lácteos",
+      "Keto / Low-Carb"
+    ],
+    "image": "guasacaca_tradicional_venezolana.jpg",
+    "url": "https://umamicraft.vercel.app/receta/guasacaca-tradicional-venezolana-salsa-criolla-de-aguacate-pimenton-verde-y-vinagre-venezuela",
+    "published": "2026-10-30",
+    "story": "La guasacaca es la reina indiscutida de las salsas en Venezuela, un condimento identitario que hermana tanto a los fogones populares de areperas y polleras como a las grandes parrilladas y asados de carne en vara de los llanos venezolanos. A diferencia del guacamole mexicano (cuyo perfil es neutro o cítrico por el limón), la guasacaca clásica obtiene su carácter punzante y brillante del vinagre blanco, combinado con una fuerza herbal compartida al cincuenta por ciento entre cilantro y perejil fresco, más la frescura vegetal del pimentón verde. En su versión emulsionada de arepera, el aceite añadido en hilo fino junto a la pulpa grasa del aguacate maduro crea una crema esmeralda sedosa, untuosa y equilibrada, diseñada específicamente para bañar arepas de carne mechada o reina pepiada, empanadas doradas, tequeños y cortes de carne vacuna recién sacados de las brasas.",
+    "ingredient_groups": [
+      {
+        "name": "Base Vegetal y Aromática",
+        "items": [
+          "2 aguacates maduros pero firmes (aprox. 350 g de pulpa limpia, tipo Hass o Criollo)",
+          "1 pimentón verde mediano (120 g), sin semillas ni nervaduras blancas, troceado",
+          "1 cebolla blanca o morada pequeña (100 g), pelada y cortada en cuartos",
+          "3 dientes de ajo medianos, pelados y sin el germen central",
+          "30 g de hojas y tallos tiernos de cilantro fresco (1 taza compacta)",
+          "30 g de hojas de perejil liso o crespo fresco (1 taza compacta)",
+          "1/2 ají dulce verde o 1/4 de chile jalapeño fresco sin venas (opcional para leve picor)"
+        ]
+      },
+      {
+        "name": "Emulsión y Condimento Criollo",
+        "items": [
+          "45 ml de vinagre blanco destilado de alcohol (3 cdas. soperas)",
+          "15 ml de jugo de lima o limón fresco recién exprimido (1 cda. sopera)",
+          "80 ml de aceite de girasol o maíz de sabor neutro (o aceite de oliva suave)",
+          "1 y 1/2 cdita. de sal marina fina (8 g, o a gusto)",
+          "1/2 cdita. de pimienta negra recién molida",
+          "2 a 3 cdas. de agua fría (opcional, para aligerar la emulsión si queda muy espesa)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Procesado de la Base Aromática y Extracción de Jugos",
+        "steps": [
+          "En el vaso de la licuadora o procesadora de cocina, colocar primero el pimentón verde troceado, la cebolla en cuartos, los dientes de ajo descorazonados, el cilantro y el perejil fresco limpios y secos.",
+          "Verter el vinagre blanco y el jugo de lima sobre los vegetales.",
+          "Procesar a velocidad media-alta durante 30 a 45 segundos hasta formar una pasta vegetal verde brillante y homogénea. Triturar primero los vegetales con los ácidos líquidos facilita la molienda completa de las fibras sin forzar el motor."
+        ]
+      },
+      {
+        "name": "2. Incorporación del Aguacate y Sazonado",
+        "steps": [
+          "Cortar los aguacates al medio, retirar el hueso o semilla central y con una cuchara extraer toda la pulpa cremosa directamente dentro del vaso de la licuadora.",
+          "Agregar la sal marina fina y la pimienta negra recién molida.",
+          "Licuar a velocidad media durante 20 a 30 segundos hasta que el aguacate se integre completamente en un puré denso y de color esmeralda parejo."
+        ]
+      },
+      {
+        "name": "3. Técnica de Emulsión en Hilo y Textura de Arepera",
+        "steps": [
+          "Con la licuadora funcionando a velocidad baja o media, retirar la tapita plástica central de la tapa principal.",
+          "Verter el aceite vegetal en un hilo continuo y constante (técnica de emulsión fría similar a una mayonesa ligera) para que las gotas lipídicas se suspendan en la pulpa y el ácido acético.",
+          "Observar cómo la textura se vuelve satinada, brillante y untuosa. Si se prefiere una salsa más fluida para dispensador o mamadera gastronómica, sumar 2 a 3 cucharadas de agua fría y batir 5 segundos adicionales."
+        ]
+      },
+      {
+        "name": "4. Maduración de Sabores y Servicio",
+        "steps": [
+          "Probar el punto de sal y acidez: debe presentar un golpe fresco y vivaz donde el vinagre realce las notas aromáticas del perejil y cilantro sin enmascarar la untuosidad del aguacate.",
+          "Traspasar a un recipiente hermético de vidrio o salsera y refrigerar tapado durante al menos 30 a 45 minutos antes de llevar a la mesa para que el ajo se redondee y los aromas maduren.",
+          "Servir acompañando arepas crujientes, empanadas, tequeños de queso blanco, carnes asadas a las brasas o yuca frita dorada."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Inhibición de oxidación: A diferencia del guacamole que se oxida y oscurece en pocas horas, el ácido acético del vinagre blanco combinado con el ácido ascórbico del limón detiene la enzima polifenol oxidasa del aguacate, permitiendo que la guasacaca conserve su color verde esmeralda brillante durante 4 a 5 días en heladera.",
+      "Versión de Parrilla Llanera (Picada a cuchillo): Si prefieres una guasacaca con textura mordible para carnes a la brasa, no utilices licuadora: corta el pimentón, la cebolla, el ajo y las hierbas en brunoise milimétrica ('petit brunoise') y el aguacate en cubitos de 5 mm. Emulsiona el aceite con el vinagre, sal y pimienta batiendo con un tenedor en un bol y mezcla todo con cuchara suavemente.",
+      "Elección del aguacate: Utiliza aguacates que cedan levemente a la presión del pulgar pero sin manchas oscuras internas ni textura fibrosa. Los aguacates tipo Hass aportan mayor porcentaje graso y cuerpo sedoso."
+    ],
+    "notes": "Rendimiento para 500 ml de salsa emulsionada. Apta para dietas veganas, celíacas y cetogénicas (Keto)."
+  },
+  {
+    "id": 344,
+    "title": "Tokyo Shoyu Ramen Tradicional — Fideos en Caldo Claro de Pollo y Dashi con Shoyu Tare y Chashu (Japón)",
+    "original_title": "醤油ラーメン (Tokyo Shoyu Ramen)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Shoyu",
+      "Japón",
+      "Fideos",
+      "Pollo",
+      "Dashi",
+      "Chashu",
+      "Ajitsuke Tamago",
+      "Sopa"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "2 h 30 min",
+    "rest_time": "15 min",
+    "temperature": "Muy Caliente (85 °C)",
+    "servings": "4 tazones abundantes",
+    "calories": "580 kcal aprox. por tazón",
+    "diet_badges": [],
+    "image": "tokyo_shoyu_ramen_tradicional.jpg",
+    "url": "https://umamicraft.vercel.app/receta/tokyo-shoyu-ramen-tradicional-fideos-en-caldo-claro-de-pollo-y-dashi-con-shoyu-tare-y-chashu-japon",
+    "published": "2026-10-30",
+    "story": "Nacido en el histórico barrio de Asakusa (Tokio) en 1910 en el mítico restaurante Rairaiken, el Shoyu Ramen es el arquetipo indiscutido del ramen japonés contemporáneo. Su excelencia radica en la armonía del doble caldo Chintan (pollo de campo y dashi marino transparente) enriquecido por el Shoyu Tare: un concentrado de salsa de soja japonesa añejada, mirin y alga kombu. Se complementa con el Chiyu (aceite dorado de pollo aromatizado con verdeo) que sella la superficie del tazón para conservar el calor y atrapar los aromas en cada sorbo, coronado con panceta Chashu glaseada, huevo Ajitsuke Tamago con yema semilíquida, pak choi y fideos ondulados elásticos.",
+    "ingredient_groups": [
+      {
+        "name": "Doble Caldo Chintan de Pollo y Dashi",
+        "items": [
+          "1 kg de huesos y carcasas de pollo de campo limpios (sin restos de vísceras)",
+          "4 alitas de pollo frescas (aportan colágeno y untuosidad natural)",
+          "2.8 litros de agua fría filtrada",
+          "1 tira de alga kombu seca (10x10 cm)",
+          "4 hongos shiitake secos",
+          "15 g de copos de bonito seco (katsuobushi)",
+          "2 tallos verdes gruesos de cebolla de verdeo (negi)",
+          "4 cm de raíz de jengibre fresco en rodajas con piel",
+          "4 dientes de ajo aplastados enteros"
+        ]
+      },
+      {
+        "name": "Shoyu Tare y Aceite Aromático Chiyu",
+        "items": [
+          "150 ml de salsa de soja japonesa Koikuchi (fermentación natural)",
+          "50 ml de mirin dulce japonés",
+          "40 ml de sake para cocina",
+          "1 trozo pequeño de alga kombu (5x5 cm)",
+          "1 cdita. de sal marina fina",
+          "1/2 cdita. de azúcar común",
+          "100 g de piel y grasa de pollo (para el aceite Chiyu)",
+          "1 tallo verde de verdeo y 1 diente de ajo (para aromatizar el aceite)"
+        ]
+      },
+      {
+        "name": "Fideos y Ensamble del Tazón",
+        "items": [
+          "4 porciones de fideos frescos de ramen con Kansui (aprox. 130 g c/u, ondulados)",
+          "8 a 12 rodajas finas de panceta Chashu braseada",
+          "4 huevos marinados Ajitsuke Tamago cortados al medio",
+          "4 hojas tiernas de pak choi (bok choy) blanqueadas 30 segundos",
+          "1/2 taza de cebollín o negi picado muy fino",
+          "Hilos de chile rojo dulce (ito togarashi) o semillas de sésamo para decorar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Elaboración del Caldo Cristalino Chintan",
+        "steps": [
+          "En una olla amplia y profunda colocar los huesos y alitas de pollo limpios junto a los 2.8 litros de agua fría. Llevar a fuego medio hasta que comiencen a formarse las primeras burbujas antes del hervor.",
+          "Reducir el fuego al mínimo y con una espumadera retirar meticulosamente toda la espuma e impurezas que suban a la superficie durante 15 a 20 minutos para garantizar un caldo transparente.",
+          "Incorporar el alga kombu, los hongos shiitake secos, el jengibre en rodajas, los dientes de ajo aplastados y el negi. Mantener a fuego mínimo constante (entre 85 °C y 90 °C, sin borbotones violentos) durante 2 horas.",
+          "Retirar el alga kombu al cumplirse la primera hora para evitar sabores amargos. Al finalizar las 2 horas, apagar el fuego, espolvorear el katsuobushi, dejar infusionar 10 minutos y colar por un lienzo fino o colador de malla doble. Reservar el caldo humeante."
+        ]
+      },
+      {
+        "name": "2. Shoyu Tare y Aceite Chiyu",
+        "steps": [
+          "Para el Tare: En una cacerolita calentar el sake y el mirin durante 1 minuto a fuego medio para disipar los alcoholes crudos. Añadir la salsa de soja, la sal marina, el azúcar y el trozo de kombu; calentar a 80 °C durante 10 minutos sin hervir vigorosamente. Retirar el kombu y reservar.",
+          "Para el Chiyu: En una sartén pequeña a fuego muy lento, dorar la piel y grasa de pollo troceada junto al verdeo y ajo durante 15 minutos hasta que la grasa se rinda completamente en un aceite dorado y aromático. Colar y reservar."
+        ]
+      },
+      {
+        "name": "3. Cocción de Fideos y Servicio en Tazón",
+        "steps": [
+          "Precalentar los 4 tazones de cerámica llenándolos con agua hirviendo durante 2 minutos; descartar el agua justo antes del armado (un tazón caliente preserva la textura de los fideos y la grasa aromática).",
+          "Verter en la base de cada tazón caliente 30 a 35 ml de Shoyu Tare y 15 ml de aceite aromático Chiyu.",
+          "Agregar 350 ml de caldo Chintan hirviendo a cada tazón y mezclar suavemente con palillos para emulsionar el tare y el aceite.",
+          "Hervir los fideos de ramen en abundante agua hirviendo sin sal durante 60 a 90 segundos (al dente firme). Escurrir enérgicamente en el colador sacudiéndolo en el aire dos o tres veces para desprender todo el almidón superficial.",
+          "Deslizar los fideos en el centro del caldo doblándolos con los palillos para que queden peinados. Disponer armónicamente las láminas de Chashu tibio, medio huevo Ajitsuke con la yema cremosa hacia arriba, la hoja de pak choi, abundante cebollín fresco y los hilos de ito togarashi en el borde."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Control térmico del caldo: El secreto de un caldo Chintan limpio como el oro es jamás permitir que el agua rompa en hervor tumultuoso. Las burbujas violentas emulsionan la grasa con el agua y enturbian el líquido, transformándolo en un paitan lechoso.",
+      "El papel del Chiyu: El aceite de pollo flotando en la superficie crea una barrera lipídica térmica que impide que el vapor escape, asegurando que el ramen se mantenga a temperatura perfecta hasta la última cucharada.",
+      "Huevo Ajitsuke Tamago: Para lograr la yema cremosa perfecta, sumergir huevos a temperatura ambiente en agua hirviendo durante exactamente 6 minutos con 30 segundos, transferir a baño maría inverso con hielo 10 minutos, pelar y marinar en una mezcla de soja, mirin y agua fría por al menos 4 horas."
+    ],
+    "notes": "Rendimiento para 4 tazones grandes estilo restaurante de Tokio. Apto para dietas sin lácteos."
+  },
+  {
+    "id": 345,
+    "title": "Hakodate Shio Ramen Tradicional — Fideos en Caldo Cristalino Marino con Shio Tare y Panceta Chashu (Japón)",
+    "original_title": "函館塩ラーメン (Hakodate Shio Ramen)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Shio",
+      "Japón",
+      "Fideos",
+      "Marino",
+      "Kombu",
+      "Chashu",
+      "Nori",
+      "Sopa"
+    ],
+    "prep_time": "25 min",
+    "cook_time": "2 h 15 min",
+    "rest_time": "15 min",
+    "temperature": "Muy Caliente (85 °C)",
+    "servings": "4 tazones abundantes",
+    "calories": "520 kcal aprox. por tazón",
+    "diet_badges": [],
+    "image": "hakodate_shio_ramen_tradicional.jpg",
+    "url": "https://umamicraft.vercel.app/receta/hakodate-shio-ramen-tradicional-fideos-en-caldo-cristalino-marino-con-shio-tare-y-panceta-chashu-japon",
+    "published": "2026-10-30",
+    "story": "Originario de la ciudad portuaria de Hakodate, en la isla norteña de Hokkaido, el Shio Ramen es históricamente la vertiente más antigua de ramen en Japón, nacida a mediados del siglo XIX del intercambio entre comerciantes marítimos y cocineros locales. Se distingue por la pureza casi transparente de su caldo, donde la sal marina artesanal (Moshio) y los ingredientes marinos deshidratados (alga kombu de Hokkaido, vieiras secas o katsuobushi) potencian el umami natural sin teñir el caldo de oscuro ni enmascarar su frescura. Servido con fideos rectos finos, panceta Chashu braseada, huevo Ajitsuke, brotes crujientes, sésamo tostado y una lámina triangular de alga Nori crujiente.",
+    "ingredient_groups": [
+      {
+        "name": "Caldo Base Marino Cristalino",
+        "items": [
+          "1 kg de huesos y carcasas de pollo fresco desgrasadas",
+          "300 g de huesos de cerdo limpios (opcional, aportan mineralidad suave)",
+          "2.8 litros de agua fría",
+          "1 tira generosa de alga kombu de Hokkaido (15x10 cm)",
+          "2 vieiras secas japonesas (conpoy) o 10 g de katsuobushi fino",
+          "1 puerro entero lavado (parte blanca y verde)",
+          "3 rodajas de jengibre fresco pelado",
+          "3 dientes de ajo aplastados"
+        ]
+      },
+      {
+        "name": "Shio Tare Artesanal y Aceite de Sésamo Aromatizado",
+        "items": [
+          "20 g de sal marina artesanal (preferentemente sal de algas Moshio o sal marina pura no yodada)",
+          "60 ml de sake japonés de cocina",
+          "40 ml de mirin dulce",
+          "1 trozo de alga kombu (5x5 cm)",
+          "1 cdita. de vinagre de arroz suave",
+          "30 ml de aceite de sésamo tostado o aceite aromático de cebollín"
+        ]
+      },
+      {
+        "name": "Fideos y Guarnición Tradicional de Hakodate",
+        "items": [
+          "4 porciones de fideos finos y rectos de ramen (Hosomen, aprox. 120 g c/u)",
+          "8 rodajas de panceta de cerdo Chashu doradas en sartén",
+          "4 medios huevos marinados Ajitsuke Tamago",
+          "1 taza de brotes de soja frescos (moyashi) o brotes enoki blanqueados 20 segundos",
+          "4 triángulos grandes de alga Nori tostada",
+          "1/2 taza de negi o verdeo feteado fino",
+          "1 cdita. de semillas de sésamo blanco tostado"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Extracción Cristalina del Caldo Shio",
+        "steps": [
+          "Blanquear los huesos de pollo y cerdo en agua hirviendo durante 3 minutos para eliminar cualquier impureza o residuo de sangre superficial; escurrir y lavar bajo el chorro de agua fría.",
+          "Colocar los huesos blanqueados en una olla limpia con los 2.8 litros de agua fría. Llevar a fuego lento sin dejar que rompa hervor.",
+          "Incorporar el alga kombu, las vieiras secas (o katsuobushi), el puerro entero, el jengibre y el ajo. Cocinar a fuego imperceptible (80 °C a 85 °C) durante 2 horas retirando cualquier rastro de grasa turbia con espumadera.",
+          "Colar el caldo resultante por un paño húmedo para lograr un néctar dorado y cristalino de aroma marino penetrante."
+        ]
+      },
+      {
+        "name": "2. Preparación del Shio Tare",
+        "steps": [
+          "En un cazo pequeño reunir el sake, el mirin y el trozo de kombu; entibiar suavemente a fuego bajo durante 5 minutos para que la salinidad del alga se transfiera al líquido.",
+          "Incorporar la sal marina artesanal y revolver continuamente con cuchara hasta su completa disolución sin permitir ebullición.",
+          "Apagar el fuego, sumar las gotas de vinagre de arroz para balancear las notas minerales y retirar el kombu. Reservar el Shio Tare."
+        ]
+      },
+      {
+        "name": "3. Montaje del Tazón Hakodate",
+        "steps": [
+          "Atemperar los tazones de ramen con agua caliente y escurrirlos secos.",
+          "Añadir en cada tazón 25 a 30 ml de Shio Tare concentrado y una cucharadita de aceite de sésamo o aceite de cebollín.",
+          "Verter 350 ml del caldo marino hirviendo y mezclar suavemente.",
+          "Cocer los fideos finos en agua hirviendo sin sal durante tan solo 45 a 60 segundos (deben conservar un nervio central elástico y firme). Escurrir enérgicamente en el colador.",
+          "Colocar los fideos en el caldo. Coronar con las láminas de panceta Chashu, el medio huevo Ajitsuke, el montículo central de brotes tiernos, el negi feteado, una lluvia de sésamo tostado y el abanico triangular de alga Nori encajado en el borde del cuenco."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "La calidad de la sal: El Shio Ramen no admite atajos en la sal. Si se utiliza sal de mesa común con antiapelmazantes, el caldo resultará áspero y plano. La sal marina pura, sal de manantial o la sal japonesa Moshio (sal enriquecida con algas pardas) aportan minerales, dulzor de fondo y un umami marino redondo.",
+      "Temperatura de los fideos: Los fideos Hosomen son delgados y continúan cocinándose dentro del caldo caliente en la mesa. Es fundamental retirarlos del agua hirviendo al punto 'katame' (firme al morder) y servir de inmediato."
+    ],
+    "notes": "Rendimiento para 4 tazones. Estilo clásico de Hakodate, Hokkaido."
+  },
+  {
+    "id": 346,
+    "title": "Camarones al Papel Aluminio en Sartén con Queso Mozzarella y Verduras (Receta de Autor)",
+    "original_title": "Camarones en Papillote al Sartén con Mozzarella",
+    "country": "Receta de Autor (Argentina)",
+    "category": "Pescados y Mariscos",
+    "tags": [
+      "Camarones",
+      "Mariscos",
+      "Papillote",
+      "Mozzarella",
+      "Sartén",
+      "Receta de Autor",
+      "Fácil",
+      "Keto",
+      "Sin Gluten"
+    ],
+    "prep_time": "10 min",
+    "cook_time": "15 min",
+    "rest_time": "2 min",
+    "temperature": "Fuego medio-bajo en sartén con tapa",
+    "servings": "2 porciones",
+    "calories": "390 kcal aprox. por porción",
+    "diet_badges": [
+      "Sin Gluten",
+      "Keto / Low-Carb",
+      "Alto en Proteína"
+    ],
+    "image": "camarones_al_papel_aluminio.jpg",
+    "url": "https://umamicraft.vercel.app/receta/camarones-al-papel-aluminio-en-sarten-con-queso-mozzarella-y-verduras-receta-de-autor",
+    "published": "2026-10-30",
+    "story": "Una técnica casera brillante inspirada en el clásico papillote francés pero adaptada a la comodidad del fuego directo sobre sartén. Al envolver los camarones crudos con un colchón de cebolla, pimientos rojos y tomates maduros dentro de un paquete sellado de papel de aluminio, los mariscos se cocinan suavemente al vapor con sus propios jugos, el toque cítrico del limón y la riqueza de la manteca fundida. La mozzarella colocada en la superficie se funde creando un manto elástico y cremoso que contrasta con la terneza jugosa del langostino y la frescura vegetal de la base, logrando un plato sofisticado, reconfortante y sin ensuciar la cocina.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Mariscos y Verduras",
+        "items": [
+          "300 g de camarones o langostinos crudos pelados y desvenados",
+          "1 cebolla blanca mediana cortada en aros finos",
+          "1 pimiento rojo mediano cortado en tiras delgadas (juliana)",
+          "2 tomates redondos maduros cortados en rodajas de 5 mm"
+        ]
+      },
+      {
+        "name": "Aliño, Grasa y Cobertura Fundente",
+        "items": [
+          "2 cucharadas soperas de aceite de oliva virgen extra (30 ml)",
+          "El jugo recién exprimido de 1 limón mediano (aprox. 25 ml)",
+          "2 cucharadas de manteca sin sal cortada en cubitos pequeños (30 g)",
+          "100 g de queso mozzarella en lonchas o fetas gruesas",
+          "1 cucharadita de sal fina",
+          "1/2 cucharadita de pimienta negra recién molida",
+          "1 cucharada de perejil fresco o cilantro picado fino (para terminar)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Armado del Paquete de Papel de Aluminio (Papillote)",
+        "steps": [
+          "Cortar un pliego amplio y resistente de papel de aluminio (aprox. 40 x 40 cm). Si el papel es fino, superponer dos capas para evitar que se desgarre con el calor de la sartén.",
+          "Untar el centro del papel con una cucharada de aceite de oliva para evitar adherencias.",
+          "Disponer una cama uniforme con los aros de cebolla, las tiras de pimiento rojo y las rodajas de tomate maduro. Salpimentar ligeramente esta base vegetal con sal fina y pimienta negra recién molida.",
+          "Distribuir los 300 g de camarones crudos limpios sobre el colchón de verduras.",
+          "Rociar los camarones con el jugo fresco de limón y la cucharada restante de aceite de oliva. Distribuir los cubitos de manteca sobre los mariscos y coronar cubriendo todo con las lonchas de queso mozzarella."
+        ]
+      },
+      {
+        "name": "2. Sellado Hermético y Cocción en Sartén",
+        "steps": [
+          "Juntar los extremos laterales del papel de aluminio hacia el centro y doblar los bordes sobre sí mismos dos o tres veces, sellando también los extremos como una bolsa o sobre hermético. Es fundamental que quede bien cerrado para que el vapor generado no escape durante la cocción.",
+          "Colocar el paquete sellado en una sartén amplia y seca (sin aceite en el fondo de la sartén).",
+          "Tapar la sartén con su tapa correspondiente y encender el fuego a intensidad media-baja.",
+          "Cocinar tapado durante aproximadamente 12 a 15 minutos. El calor de la sartén inflará ligeramente el paquete de aluminio creando una pequeña cámara de vapor interna donde los camarones se cocinarán en su punto exacto y el queso se fundirá por completo."
+        ]
+      },
+      {
+        "name": "3. Apertura Cuidadosa y Servicio",
+        "steps": [
+          "Retirar la sartén del fuego y con una espátula ancha trasladar el paquete de aluminio directamente a una fuente o plato hondo amplio.",
+          "Con ayuda de una tijera o tenedor, abrir con precaución el papel por la parte superior, cuidando de no acercar el rostro ya que liberará una bocanada de vapor aromático muy caliente.",
+          "Abrir los bordes del aluminio hacia afuera formando un cuenco rústico. Espolvorear con perejil fresco picado y servir inmediatamente, disfrutando del queso elástico fundido y los jugos emulsionados de limón, manteca y mariscos con tostadas o arroz blanco."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Sellado del papillote: Asegúrate de doblar los bordes hacia arriba y apretar bien los pliegues para que los jugos de cocción generados por el tomate, el limón y los mariscos no se escapen a la sartén y se concentren dentro del paquete.",
+      "Punto de cocción de los mariscos: Los camarones requieren muy pocos minutos para estar en su punto óptimo. En cuanto cambian de color grisáceo a un tono rosado nacarado y adquieren forma de 'C', están listos, tiernos y jugosos; sobrecocinarlos los volvería gomosos.",
+      "Variante con toque picante o hierbas: Puedes sumar a la base unas rodajas finas de chile jalapeño, ajo laminado o una ramita de tomillo fresco para un perfil de sabor más campestre."
+    ],
+    "notes": "Receta de Autor práctica y rápida. Apta para dietas cetogénicas (Keto) y sin gluten (Celíacos)."
   }
 ]
