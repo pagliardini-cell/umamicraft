@@ -28542,5 +28542,266 @@
       "La masa de los wontons de Sakata es tan etérea que no requiere masticarse: se desliza por la garganta junto con el caldo de pescado volador en una sensación táctil única."
     ],
     "notes": "La masa de los wontons de Sakata debe ser ultrafina y casi translúcida para que al sumergirse en el caldo de pescado volador se deshaga con la suavidad de un velo de seda."
+  },
+  {
+    "id": 386,
+    "title": "Ramen Instantáneo Cremoso con Mayonesa Japonesa y Huevo (Japón)",
+    "original_title": "Kewpie Egg Ramen Hack (クリーミーインスタントラーメン)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Ramen Instantáneo",
+      "Fideos",
+      "Japón",
+      "Kewpie",
+      "Fácil",
+      "Rápido",
+      "Sopas y Caldos"
+    ],
+    "prep_time": "5 min",
+    "cook_time": "5 min",
+    "rest_time": "2 min",
+    "temperature": "Muy caliente y humeante",
+    "servings": "1 porción abundante",
+    "calories": "560 kcal",
+    "diet_badges": [
+      "Express (10 min)",
+      "Caldo Ultra Cremoso",
+      "Técnica Viral Japonesa"
+    ],
+    "image": "ramen_kewpie_hack.jpg",
+    "story": "La técnica culinaria japonesa más celebrada para transformar un paquete de ramen instantáneo común en un caldo blanco denso, sedoso y con cuerpo de restaurante. Al batir mayonesa japonesa Kewpie (elaborada solo con yemas de huevo y vinagre de arroz suave) con un huevo crudo fresco, ajo rallado y el sobre de condimento en el fondo del cuenco, y verter en hilo el agua hirviendo de los fideos, se produce una emulsión instantánea que simula a la perfección la riqueza colágena de un Tonkotsu artesanal.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Emulsión Cremosa (En el fondo del cuenco)",
+        "items": [
+          "1 paquete de ramen instantáneo (sabor pollo, cerdo o shoyu)",
+          "El sobrecito completo de condimento del ramen (soup base)",
+          "1 huevo entero fresco de granja",
+          "1 cucharada sopera colmada de mayonesa japonesa Kewpie",
+          "1 diente de ajo pequeño rallado finísimo con microplane"
+        ]
+      },
+      {
+        "name": "Cocción y Toppings Gourmet",
+        "items": [
+          "500 ml de agua hirviendo",
+          "1 tallo de cebolla de verdeo picado fino al bies",
+          "1 cucharadita de semillas de sésamo tostado",
+          "1 cucharadita de aceite de chile Rayu o aceite de sésamo tostado",
+          "1 lámina pequeña de alga nori crocante"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Creación de la Emulsión en el Tazón",
+        "steps": [
+          "En el fondo del tazón hondo donde vas a comer (donburi), cascar el huevo crudo entero.",
+          "Añadir la cucharada colmada de mayonesa japonesa Kewpie, el diente de ajo rallado y el contenido del sobre de condimento en polvo del paquete de ramen.",
+          "Batir enérgicamente con tenedor o palillos durante 45 segundos hasta obtener una pasta dorada, homogénea y espesa."
+        ]
+      },
+      {
+        "name": "2. Cocción de Fideos y Emulsión Térmica Gradual",
+        "steps": [
+          "Poner a hervir exactamente 500 ml de agua en una ollita pequeña.",
+          "Cuando rompa en hervor tumultuoso, sumergir el bloque de fideos instantáneos y cocinar durante 3 minutos (o 30 segundos menos de lo indicado en el paquete para dejarlos al dente).",
+          "Paso crítico de emulsión: Tomar un cucharón del agua hirviendo de la cocción de los fideos (unos 100 ml) y verterlo lentamente en hilo sobre la mezcla del tazón mientras se bate con rapidez. El agua hirviendo temperará el huevo y fundirá la mayonesa sin cortarla, creando una base lechosa, cremosa y de textura aterciopelada.",
+          "Verter el resto del caldo hirviendo de la olla batiendo suavemente."
+        ]
+      },
+      {
+        "name": "3. Integración y Servicio Gourmet",
+        "steps": [
+          "Trasladar los fideos cocidos al centro del caldo cremoso con la ayuda de unas pinzas o palillos.",
+          "Decorar encima con el verdeo picado fresco, espolvorear las semillas de sésamo blanco tostado y rociar un hilo de aceite de chile Rayu para contrastar la cremosidad láctea.",
+          "Clavar la lámina de nori en el lateral del cuenco y disfrutar de inmediato bien caliente."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Es crucial que la mayonesa sea japonesa (tipo Kewpie): al elaborarse únicamente con yemas de huevo y vinagre de manzana/arroz, se emulsiona en el caldo sin separarse jamás en gotas de grasa.",
+      "Vierte el primer chorro de agua hirviendo en forma de hilo continuo batiendo al mismo tiempo para atemperar el huevo y evitar que se formen grumos cocidos."
+    ],
+    "notes": "El secreto definitivo para convertir un ramen instantáneo de despensa en una sopa rica y cremosa digna de un local tokiota.",
+    "url": "https://umamicraft.vercel.app/receta/ramen-instantaneo-cremoso-con-mayonesa-japonesa-y-huevo-japon"
+  },
+  {
+    "id": 387,
+    "title": "Shin Ramyun Gourmet con Panceta y Queso (Corea del Sur)",
+    "original_title": "Gourmet Shin Ramyun K-Style (치즈 신라면)",
+    "country": "Corea del Sur",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Ramyun",
+      "Shin Ramyun",
+      "Corea del Sur",
+      "Picante",
+      "Panceta",
+      "Queso",
+      "Fácil",
+      "Sopas y Caldos"
+    ],
+    "prep_time": "5 min",
+    "cook_time": "8 min",
+    "rest_time": "2 min",
+    "temperature": "Ardiendo y muy picante",
+    "servings": "1 porción súper contundente",
+    "calories": "680 kcal",
+    "diet_badges": [
+      "Estilo K-Drama",
+      "Picante Adictivo",
+      "Queso Fundido"
+    ],
+    "image": "shin_ramyun_gourmet_hack.jpg",
+    "story": "El icono de la cultura de conveniencia coreana (Pojangmacha y K-Dramas). Toma como base el legendario Shin Ramyun picante y lo transforma en un festín de taberna: se dora panceta crujiente con ajo en la misma olla antes de hervir el caldo, coronando el plato con una feta de queso cheddar o americano que se funde creando una película láctea cremosa que amortigua el ardor del chile rojo.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Panceta y Caldo Picante",
+        "items": [
+          "1 paquete de Shin Ramyun (fideos + sobre de sopa roja + sobre de verduras deshidratadas)",
+          "80 g de panceta ahumada o bacon cortado en trozos medianos",
+          "2 dientes de ajo laminados",
+          "550 ml de agua caliente",
+          "1 cucharadita de salsa de soja oscura"
+        ]
+      },
+      {
+        "name": "Toppings Fundentes y Huevo Pochado",
+        "items": [
+          "1 loncha de queso tipo cheddar suave o queso americano en fetas",
+          "1 huevo entero fresco",
+          "1 cebolla de verdeo picada en aros finos",
+          "1 cucharadita de semillas de sésamo tostado y copos de chile Gochugaru"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Dorado de la Panceta y Base Aromática",
+        "steps": [
+          "En una olla pequeña a fuego medio, colocar la panceta en trozos sin agregar aceite adicional.",
+          "Cocinar durante 3 minutos hasta que suelte su propia grasa natural y los bordes comiencen a dorarse y ponerse crujientes.",
+          "Añadir el ajo laminado y saltear 30 segundos en la grasa de la panceta hasta perfumar sin quemar."
+        ]
+      },
+      {
+        "name": "2. Cocción del Caldo Picante y Fideos",
+        "steps": [
+          "Verter los 550 ml de agua caliente directamente sobre la panceta y el ajo dorados.",
+          "Añadir el sobre de condimento rojo picante, el sobre de verduras deshidratadas y la cucharadita de salsa de soja, llevando a ebullición intensa.",
+          "Incorporar el disco de fideos gruesos coreanos y cocinar a borbotones durante 3 minutos, levantando los fideos con palillos periódicamente al aire para que el choque térmico los vuelva más elásticos y gomosos ('chewy')."
+        ]
+      },
+      {
+        "name": "3. Huevo Pochado y el Manto de Queso",
+        "steps": [
+          "Bajar el fuego al mínimo. Abrir un pequeño hueco entre los fideos y cascar el huevo entero en el centro del caldo hirviendo (dejar cocinar 1 minuto sin romper la yema para que quede pochado y meloso).",
+          "Colocar la loncha de queso cheddar directamente encima de los fideos calientes al lado del huevo.",
+          "Espolvorear con abundante cebolla de verdeo y sésamo tostado.",
+          "Tapar la olla durante 40 segundos fuera del fuego: el queso se fundirá como un manto amarillo cremoso. Servir directo de la olla o en tazón hondo."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Levantar los fideos con los palillos 3 o 4 veces durante el hervor permite que el aire frío tense el almidón de trigo, logrando la auténtica textura elástica 'Koshi' de los fideos coreanos.",
+      "No mezcles todo el queso al principio: come los fideos arrastrando un poco de queso fundido para disfrutar el contraste entre el lácteo cremoso y la sopa ardiente de chile."
+    ],
+    "notes": "La versión reina de las noches de invierno y resacas en Seúl: picante, crujiente, ahumado y reconfortante.",
+    "url": "https://umamicraft.vercel.app/receta/shin-ramyun-gourmet-con-panceta-y-queso-corea-del-sur"
+  },
+  {
+    "id": 388,
+    "title": "Ramen Instantáneo al Ajo Tostado y Manteca (Japón)",
+    "original_title": "Garlic Butter Shoyu Ramen (ガーリックバター醤油ラーメン)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Ramen",
+      "Ramen Instantáneo",
+      "Fideos",
+      "Japón",
+      "Manteca",
+      "Ajo",
+      "Fácil",
+      "Sopas y Caldos"
+    ],
+    "prep_time": "5 min",
+    "cook_time": "6 min",
+    "rest_time": "2 min",
+    "temperature": "Ardiendo y muy aromático",
+    "servings": "1 porción",
+    "calories": "590 kcal",
+    "diet_badges": [
+      "Manteca Tostada",
+      "Ajo Dorado Crocante",
+      "Ultra Aromático"
+    ],
+    "image": "garlic_butter_ramen_hack.jpg",
+    "story": "Inspirado en la técnica japonesa del 'Bata-Shoyu' (el matrimonio culinario sagrado entre manteca fresca dorada y salsa de soja tostada). En esta versión, el paquete de ramen instantáneo común se eleva sofriendo abundante ajo laminado en manteca pura hasta formar chips dorados y perfumar el fondo; la manteca fundida emulsiona el caldo aportando un brillo satinado y un aroma penetrante que llena toda la cocina.",
+    "ingredient_groups": [
+      {
+        "name": "Infusión de Manteca y Ajo Tostado",
+        "items": [
+          "2 cucharadas soperas de manteca sin sal pura (30 g)",
+          "3 dientes de ajo cortados en láminas finas y parejas",
+          "1 cucharadita de salsa de soja Koikuchi",
+          "1/2 cucharadita de azúcar moreno o mirin"
+        ]
+      },
+      {
+        "name": "Cocción de Caldo y Fideos",
+        "items": [
+          "1 paquete de ramen instantáneo (sabor Shoyu, carne o verduras)",
+          "500 ml de agua hirviendo",
+          "El sobre de condimento del paquete"
+        ]
+      },
+      {
+        "name": "Toppings Crocantes y Frescos",
+        "items": [
+          "1 huevo hervido blando (6 minutos y medio) cortado en dos",
+          "2 cucharadas de maíz dulce en grano (choclo)",
+          "Abundante cebolla de verdeo picada fina",
+          "Pimienta negra recién molida gruesa"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Tostado del Ajo en Manteca Avellanada (Beurre Noisette)",
+        "steps": [
+          "En una sartén pequeña o cacerolita a fuego medio-bajo, derretir las 2 cucharadas de manteca.",
+          "Añadir los ajos laminados y cocinar despacio durante 2 a 3 minutos hasta que tomen un color dorado claro y crujiente, desprendiendo aroma a avellana tostada.",
+          "Retirar la mitad de los chips de ajo dorado con una cuchara y reservarlos sobre papel absorbente para la decoración final.",
+          "A los ajos y manteca restantes en la sartén, añadir la cucharadita de salsa de soja y azúcar, cocinando 20 segundos hasta caramelizar ligeramente."
+        ]
+      },
+      {
+        "name": "2. Hervido del Caldo y Fideos",
+        "steps": [
+          "Verter los 500 ml de agua hirviendo y el sobre de condimento en polvo dentro de la olla con la manteca de ajo caramelizada.",
+          "Añadir el bloque de fideos instantáneos y hervir durante 2 minutos y medio a fuego vivo.",
+          "La manteca se emulsionará físicamente con el hervor del agua, creando un caldo dorado, satinado y con gran profundidad gustativa."
+        ]
+      },
+      {
+        "name": "3. Montaje y Contraste Crocante",
+        "steps": [
+          "Servir los fideos y el caldo brillante de manteca en un tazón hondo.",
+          "Acomodar encima las mitades del huevo con yema cremosa, el maíz dulce y el verdeo fresco.",
+          "Espolvorear con los chips de ajo crocante reservados y terminar con abundante pimienta negra recién molida. Servir bien caliente."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Cuida la temperatura de la manteca: no dejes que el ajo se queme o tomará un gusto amargo; en cuanto esté dorado pálido, desglasa con la salsa de soja y el agua.",
+      "El toque de maíz dulce aporta un chasquido tierno y dulzón que corta maravillosamente la riqueza de la manteca avellanada."
+    ],
+    "notes": "Una explosión aromática de taberna japonesa hecha con ingredientes cotidianos en menos de 10 minutos.",
+    "url": "https://umamicraft.vercel.app/receta/ramen-instantaneo-al-ajo-tostado-y-manteca-japon"
   }
 ]

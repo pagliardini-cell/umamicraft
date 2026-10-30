@@ -1,0 +1,6 @@
+# Tokens y credenciales privadas
+facebook_config.json
+facebook_publicadas.json
+publicar_facebook.py
+publicar_10_facebook.bat
+.env
