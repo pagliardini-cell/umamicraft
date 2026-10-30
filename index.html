@@ -1732,9 +1732,10 @@
         <span class="chip-label">Colecciones:</span>
         <button class="chip active" onclick="setQuickTag('all')">✨ Todas <span class="chip-count" id="totalCountChip"></span></button>
         <button class="chip" onclick="setQuickTag('Burgers')">🍔 Burgers & Sándwiches</button>
+        <button class="chip" onclick="setQuickTag('Ramen')">🍜 Ramen</button>
         <button class="chip" onclick="setQuickTag('Cocktails & Tragos')">🍸 Cocktails</button>
         <button class="chip" onclick="setQuickTag('Pastas')">🍝 Pastas</button>
-        <button class="chip" onclick="setQuickTag('Sopas y Potajes')">🍜 Sopas & Ramen</button>
+        <button class="chip" onclick="setQuickTag('Sopas y Potajes')">🍲 Sopas y Potajes</button>
         <button class="chip" onclick="setQuickTag('Carnes')">🥩 Carnes</button>
         <button class="chip" onclick="setQuickTag('Pollo / Aves')">🍗 Pollo y Aves</button>
         <button class="chip" onclick="setQuickTag('Postres y Dulces')">🍰 Postres</button>
@@ -2089,6 +2090,12 @@
           }
         }
 
+        // Enlaces directos a colecciones (?coleccion=Ramen o ?tag=Burgers)
+        const collectionParam = urlParams.get('coleccion') || urlParams.get('tag') || urlParams.get('c');
+        if (collectionParam && !querySlug) {
+          setQuickTag(collectionParam);
+        }
+
         // Atajos nativos de la PWA (?action=shopping, favorites, random)
         const actionParam = new URLSearchParams(window.location.search).get('action');
         if (actionParam === 'shopping') {
@@ -2327,12 +2334,13 @@
       document.querySelectorAll('.chip').forEach(c => {
         const isAll = currentQuickTag === 'all' && c.textContent.includes('Todas');
         const isBurgers = (currentQuickTag === 'Burgers' || currentQuickTag === 'Burgers & Sándwiches') && (c.textContent.includes('Burger') || c.textContent.includes('Sándwich'));
+        const isRamen = currentQuickTag === 'Ramen' && c.textContent.trim().startsWith('🍜 Ramen');
         const isCocktail = currentQuickTag === 'Cocktails & Tragos' && c.textContent.includes('Cocktails');
-        const isSopa = currentQuickTag === 'Sopas y Potajes' && c.textContent.includes('Sopas');
+        const isSopa = currentQuickTag === 'Sopas y Potajes' && (c.textContent.includes('Sopas') || c.textContent.includes('Potajes'));
         const isPollo = currentQuickTag === 'Pollo / Aves' && c.textContent.includes('Aves');
         const isPostre = currentQuickTag === 'Postres y Dulces' && c.textContent.includes('Postres');
         const isMatch = c.textContent.includes(currentQuickTag);
-        c.classList.toggle('active', isAll || isBurgers || isCocktail || isSopa || isPollo || isPostre || (currentQuickTag !== 'all' && isMatch));
+        c.classList.toggle('active', isAll || isBurgers || isRamen || isCocktail || isSopa || isPollo || isPostre || (currentQuickTag !== 'all' && isMatch));
       });
     }
 
@@ -2391,7 +2399,15 @@
         if (selectedDiet !== 'all' && !diets.includes(selectedDiet)) return false;
 
         if (currentQuickTag !== 'all') {
-          if (currentQuickTag === 'Burgers' || currentQuickTag === 'Burgers & Sándwiches') {
+          if (currentQuickTag === 'Ramen') {
+            const titleLower = (r.title || '').toLowerCase();
+            const tagsLower = (r.tags || []).map(t => String(t).toLowerCase());
+            const isRamen = titleLower.includes('ramen') ||
+                            titleLower.includes('kamaboko') ||
+                            tagsLower.includes('ramen') ||
+                            tagsLower.includes('kamaboko');
+            if (!isRamen) return false;
+          } else if (currentQuickTag === 'Burgers' || currentQuickTag === 'Burgers & Sándwiches') {
             const isBurger = category.toLowerCase().includes('burger') || 
                              category.toLowerCase().includes('sándwich') || 
                              category.toLowerCase().includes('sandwich') ||
