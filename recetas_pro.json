@@ -28803,5 +28803,145 @@
     ],
     "notes": "Una explosión aromática de taberna japonesa hecha con ingredientes cotidianos en menos de 10 minutos.",
     "url": "https://umamicraft.vercel.app/receta/ramen-instantaneo-al-ajo-tostado-y-manteca-japon"
+  },
+  {
+    "id": 389,
+    "title": "Cappellettis a la Fiamma (Receta de Autor)",
+    "original_title": "Cappellettis a la Fiamma",
+    "country": "Receta de Autor (Argentina)",
+    "category": "Pastas Frescas & Rellenas",
+    "tags": [
+      "Cappelletti",
+      "Pasta Rellena",
+      "Pasta Casera",
+      "Salsa a la Fiamma",
+      "Cantina",
+      "La Boca",
+      "Receta de Autor",
+      "Argentina",
+      "Recuerdo de Infancia"
+    ],
+    "prep_time": "1 h 30 min",
+    "cook_time": "50 min",
+    "rest_time": "30 min",
+    "temperature": "Muy caliente, servido en plato de barro",
+    "servings": "4 porciones (unos 50 cappellettis por persona)",
+    "calories": "780 kcal aprox. por porción",
+    "diet_badges": [
+      "Pasta Casera",
+      "Receta de Autor",
+      "Cocina de Cantina"
+    ],
+    "image": "img/cappellettis_a_la_fiamma.jpg",
+    "url": "https://umamicraft.vercel.app/receta/cappellettis-a-la-fiamma-receta-de-autor",
+    "published": "2026-10-30",
+    "story": "Esta es mi representación del plato emblemático de la cantina El Tiburón, en la Av. Don Pedro de Mendoza 1555, frente a la ribera del Riachuelo, en el barrio de La Boca, Ciudad de Buenos Aires, en la década de 1970. Es mi primer amor culinario y la inspiración de mi amor por la cocina. De chico me llevaba mi mamá a comer a ese restaurante, y el dueño, Karam, llegaba hasta la mesa con un carrito rodante (gueridón) con calentador, como se usaba en las cantinas de La Boca, y preparaba el plato al lado del comensal. Fue una experiencia mágica.",
+    "ingredient_groups": [
+      {
+        "name": "Masa de los Cappellettis",
+        "items": [
+          "200 g de harina 0000",
+          "2 huevos",
+          "1 cucharada de aceite de oliva",
+          "1 pizca de sal fina"
+        ]
+      },
+      {
+        "name": "Relleno de Carne",
+        "items": [
+          "300 g de carne vacuna (peceto, roast beef o paleta), cocida",
+          "1/2 cebolla chica picada fina",
+          "1 huevo",
+          "40 g de queso rallado (sardo o reggianito)",
+          "1 cucharada de manteca o aceite para rehogar",
+          "Sal, pimienta negra y nuez moscada"
+        ]
+      },
+      {
+        "name": "Salsa a la Fiamma",
+        "items": [
+          "250 g de carne picada 70/30",
+          "1/2 cebolla",
+          "1 diente de ajo",
+          "1 peperoncino",
+          "1 lata de puré de tomate (aprox. 520 g)",
+          "100 g de queso Finlandia",
+          "220 cc de crema de leche",
+          "Sal y pimienta negra"
+        ]
+      },
+      {
+        "name": "Pasta y Terminación",
+        "items": [
+          "Los cappellettis armados, cocidos al dente",
+          "100 g de queso duro rallado fino (sardo o reggianito)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Relleno de Carne",
+        "steps": [
+          "Cocinar la carne en agua con sal hasta que esté bien tierna (aprox. 1 hora). Dejar enfriar.",
+          "Rehogar la cebolla picada fina en la manteca, a fuego medio, hasta que esté transparente y tierna sin dorarse. Dejar enfriar.",
+          "Procesar la carne cocida o picarla muy fina con cuchillo, hasta lograr una pasta consistente, sin hebras.",
+          "En un bol mezclar la carne procesada con la cebolla ya fría, el huevo y el queso rallado. Condimentar con sal, pimienta y una buena pizca de nuez moscada.",
+          "Debe quedar una pasta húmeda pero compacta. Reservar en la heladera mientras se prepara la masa. Si el relleno se agrega tibio, el huevo se cocina antes de tiempo."
+        ]
+      },
+      {
+        "name": "2. Masa de los Cappellettis",
+        "steps": [
+          "Sobre la mesada, formar una corona con la harina y hacer un hueco en el centro. Poner los huevos, el aceite y la sal.",
+          "Con un tenedor, batir los huevos de adentro hacia afuera, incorporando la harina de los bordes de a poco, hasta formar una pasta espesa. Integrar el resto con las manos.",
+          "Amasar con energía durante unos 10 minutos, hasta que la masa quede lisa y elástica.",
+          "Envolver en film y dejar descansar a temperatura ambiente 30 minutos. El reposo relaja el gluten y permite estirar la masa sin que se rompa."
+        ]
+      },
+      {
+        "name": "3. Armado de los Cappellettis",
+        "steps": [
+          "Dividir la masa en porciones y estirar de a una, con palote o máquina, hasta que quede fina pero resistente. Mantener el resto tapado con film para que no se seque.",
+          "Cortar cuadrados de 3 cm de lado. Ese tamaño da cappellettis chicos, de unos 1,5 cm.",
+          "Colocar en el centro de cada cuadrado una porción mínima de relleno, del tamaño de una arveja.",
+          "Doblar el cuadrado en diagonal formando un triángulo, y presionar bien los bordes para sacar el aire. Si hace falta, humedecer apenas con un dedo mojado en agua.",
+          "Tomar los dos extremos de la base del triángulo, llevarlos hacia atrás cruzándolos alrededor de la yema del dedo meñique y presionar para sellarlos, formando el anillo.",
+          "Disponerlos sobre una bandeja enharinada o con semolín, sin que se toquen. Rinden unas 200 piezas."
+        ]
+      },
+      {
+        "name": "4. Sofrito Cárnico y Reducción",
+        "steps": [
+          "En una sartén u olla chica a fuego medio, rehogar la cebolla picada y el diente de ajo junto con la carne picada 70/30 y el peperoncino. Cocinar hasta que la carne pierda el tono crudo, sin dorar en exceso para no endurecer la fibra. Salpimentar con moderación.",
+          "Volcar la lata entera de puré de tomate. Reducir a fuego bajo durante 20 minutos, hasta evaporar el agua libre, concentrar el sabor y lograr que la materia grasa suba a la superficie. Retirar el peperoncino."
+        ]
+      },
+      {
+        "name": "5. Emulsión con Minipimer",
+        "steps": [
+          "Trasladar toda la preparación caliente a un vaso alto para mixer o a un recipiente angosto.",
+          "Añadir los 100 g de queso Finlandia y la mitad de la crema de leche (aprox. 110 cc).",
+          "Apoyar el pie de la minipimer en el fondo antes de encender. Procesar en modo turbo durante 45 segundos manteniéndolo en el fondo para crear el vórtice de arrastre. Continuar con movimientos verticales lentos durante 1 minuto más, hasta desintegrar totalmente la fibra de la carne y los sólidos.",
+          "La mezcla debe quedar de textura sedosa, sin granulosidad perceptible y de un tono rosa anaranjado uniforme."
+        ]
+      },
+      {
+        "name": "6. Mantecado y Servicio",
+        "steps": [
+          "Cocer los cappellettis en agua hirviendo con sal, en tandas. Cuando floten, dejarlos 2 minutos más hasta que estén al dente. Probar un borde para confirmar que la unión esté cocida.",
+          "Volcar la salsa emulsionada en una sartén amplia a fuego vivo, hasta que rompa el primer hervor.",
+          "Incorporar los 110 cc restantes de crema de leche para calibrar la fluidez.",
+          "Añadir los cappellettis al dente directo del agua.",
+          "Apagar la hornalla, espolvorear los 100 g de queso rallado duro y mantecar en vaivén fuera del fuego, hasta ligar la salsa por completo a la pasta.",
+          "Servir en plato caliente, con pimienta negra recién molida y sin nada verde por encima."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "No dores la carne: cocinarla hasta que pierda el tono crudo la mantiene tierna y la salsa queda más sedosa al emulsionar.",
+      "Apoyá el pie de la minipimer en el fondo antes de encender, para que no salpique y se forme el vórtice que arrastra los sólidos.",
+      "Mantecá siempre fuera del fuego: el queso rallado se funde con el calor de la salsa y liga la pasta sin cortarse."
+    ],
+    "notes": "Licuá la salsa muy bien, con toda su grasa: no retires la que sube a la superficie durante la reducción. Al licuarla junto con el queso Finlandia y la crema de leche, la grasa se divide en gotas microscópicas. Las proteínas de la carne picada y la caseína del queso y de la crema actúan como emulsionantes naturales: envuelven cada gota de grasa y evitan que se junten y se separen. Eso es lo que logra la textura untuosa y sedosa de la salsa, sin harina ni espesantes."
   }
 ]
