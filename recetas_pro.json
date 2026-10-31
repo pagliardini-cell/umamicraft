@@ -8986,77 +8986,89 @@
       "Sin Lácteos",
       "Alto en Proteína"
     ],
-    "story": "El cerdo agridulce (Táng Cù Lǐjǐ / Gǔlǎoròu) es uno de los platos más célebres y universales de la gastronomía china, con raíces en la región cantonesa y fukianesa (Fujian), donde la técnica del \"hong sao\" (cocinado a rojo) y el balance dulce-ácido son señas de identidad. En la cultura china, cuando los antiguos libros de cocina mencionan la palabra \"carne\", se refieren históricamente a la carne de cerdo, valorada por su versatilidad y su capacidad de nutrir internamente. Esta receta representa la versión clásica que conquistó las cantinas de Buenos Aires y de toda América: bocados crujientes de carré o solomillo envueltos en una brillante salsa agridulce con vegetales al dente.",
+    "story": "Este popular plato está presente en casi todos los restaurantes chinos fuera de China y goza de enorme aceptación en Argentina y en toda América. En la cocina china tradicional, vinculada a las regiones de Cantón y la costa de Fujian, se destaca por el equilibrio agridulce y la técnica hong sao (cocinado a rojo). La cultura china valora la carne de cerdo no solo por su versatilidad, sino por su capacidad de nutrir internamente: cuando en los antiguos recetarios chinos se menciona carne, se hace referencia indiscutida al cerdo.",
     "ingredient_groups": [
       {
-        "name": "Para el cerdo y su marinada",
+        "name": "Cerdo y Marinado",
         "items": [
-          "600 g de bondiola o cuello de cerdo (2 filetes de 300 g)",
-          "1 1/2 cucharadas de fécula de maíz (maicena)",
-          "1 cucharada de agua fría",
-          "2 yemas de huevo ligeramente batidas",
-          "3 cucharaditas de salsa de soja ligera (light)",
-          "2 cucharaditas de aceite de sésamo",
-          "1 cucharadita de sal marina"
+          "300 g de carré de cerdo cortado en rectángulos de 2 cm x 3 cm x 0,5 cm",
+          "1 cucharada de vino de arroz (Shaoxing) o jerez seco",
+          "1 huevo batido",
+          "1 pizca de sal fina"
         ]
       },
       {
-        "name": "Para la salsa agridulce natural",
+        "name": "Rebozado Crocante y Fritura",
         "items": [
-          "750 g de ananá (piña) maduro (aprox. media fruta)",
-          "3/4 taza de vinagre de arroz",
-          "5 cucharadas de vino de arroz Shaoxing o jerez seco",
+          "2 a 3 cucharadas colmadas de harina de batata para rebozar (el secreto para una costra ultracrujiente)",
+          "Aceite abundante para freír"
+        ]
+      },
+      {
+        "name": "Salsa Agridulce de Cantina",
+        "items": [
+          "1/3 taza de ketchup",
           "1/2 taza de azúcar",
-          "1 cucharadita de sal marina",
-          "4 dientes de ajo machacados",
-          "2 cucharadas de jengibre fresco cortado en juliana (más unas tiras de zanahoria opcionales)",
-          "1 tomate perita pelado y sin semillas, cortado en láminas finas",
-          "1/2 taza de morrón amarillo o rojo cortado en juliana"
+          "1/2 taza de vinagre de arroz o de alcohol",
+          "1 cucharada de salsa de soja",
+          "1 cucharada de vino de arroz",
+          "1/2 cucharadita de sal fina",
+          "1 cucharada de almidón de maíz (maicena) o almidón de mandioca"
         ]
       },
       {
-        "name": "Para el rebozado, fritura y presentación",
+        "name": "Vegetales y Salteado",
         "items": [
-          "1/4 taza de harina de trigo común",
-          "1/4 taza de fécula de maíz (maicena)",
-          "Aceite vegetal neutro en cantidad necesaria para freír",
-          "1 pizca de sal y pimienta de Sichuan molida",
-          "1 pepino pequeño cortado en juliana fina para decorar"
+          "1/2 cebolla cortada en tiras delgadas",
+          "50 g de morrón rojo en tiras",
+          "50 g de morrón verde en tiras",
+          "50 g de zanahoria en tiras delgadas",
+          "1 diente de ajo picado finamente",
+          "2 cucharadas de aceite de girasol para saltear"
         ]
       }
     ],
     "step_groups": [
       {
-        "name": "Marinado (la noche anterior)",
+        "name": "1. Marinado y Salsa Agridulce",
         "steps": [
-          "Cortar la carne de cerdo longitudinalmente por la mitad y luego al bies en bocados pequeños.",
-          "Disolver la cucharada y media de maicena en la cucharada de agua fría dentro de un bol mediano. Incorporar las yemas de huevo, la salsa de soja, el aceite de sésamo, la sal marina y los trozos de cerdo. Mezclar bien, tapar y refrigerar durante toda la noche."
+          "En un bol, marinar el carré de cerdo con la cucharada de vino de arroz, la pizca de sal y el huevo batido durante al menos 15 minutos.",
+          "En un recipiente aparte, mezclar bien todos los ingredientes de la salsa agridulce: el ketchup, el azúcar, el vinagre, la salsa de soja, el vino de arroz, la sal y la cucharada de almidón. Reservar."
         ]
       },
       {
-        "name": "Salsa agridulce",
+        "name": "2. Rebozado en Harina de Batata y Fritura Crujiente",
         "steps": [
-          "Pelar el ananá, retirar el centro fibroso y cortarlo en trozos finos.",
-          "Colocar en una cacerola pequeña el vinagre de arroz, el vino Shaoxing, el azúcar y la sal marina; calentar a fuego bajo revolviendo hasta que el azúcar se disuelva.",
-          "Llevar a hervor, agregar el ajo machacado y el jengibre, bajar el fuego y cocinar destapado durante 10 minutos.",
-          "Añadir el ananá, el tomate en láminas y el morrón en juliana; cocinar a fuego lento otros 10 minutos hasta que el tomate se deshaga ligeramente y los sabores se equilibren. Retirar del fuego y reservar."
+          "Pasar cada trozo de cerdo marinado por la harina de batata, cubriéndolos uniformemente por todas sus caras.",
+          "Calentar abundante aceite en una sartén o wok a fuego medio-alto (aprox. 175°C). Freír los trozos rebozados en tandas durante 3 a 4 minutos hasta que queden inflados, dorados y muy crujientes.",
+          "Retirar con espumadera y escurrir sobre papel absorbente."
         ]
       },
       {
-        "name": "Doble fritura del cerdo y servicio",
+        "name": "3. Salteado de Vegetales y Ligado",
         "steps": [
-          "Mezclar la harina con el/la maicena y rebozar bien los trozos de cerdo marinados.",
-          "Calentar abundante aceite vegetal en un wok hasta que brille. Freír el cerdo por tandas: 1 minuto a fuego alto y luego 2 minutos a fuego medio hasta que esté casi cocido. Retirar con espumadera y escurrir sobre papel absorbente.",
-          "Recalentar suavemente la salsa agridulce. Mientras tanto, subir el fuego del wok y volver a freír el cerdo en el aceite bien caliente durante 3 minutos más hasta que quede dorado y muy crujiente. Escurrir.",
-          "Disponer el cerdo crocante en una fuente, espolvorear con sal y pimienta de Sichuan, decorar con el pepino en juliana y servir de inmediato acompañado con la salsa agridulce tibia."
+          "En un wok o sartén grande caliente, agregar 2 cucharadas de aceite de girasol. Saltear el ajo picado durante 10 segundos y añadir la cebolla, los morrones y la zanahoria. Cocinar a fuego vivo hasta que estén tiernos pero crocantes.",
+          "Revolver la salsa agridulce reservada y volcarla sobre las verduras en el wok. Cocinar unos segundos a fuego vivo hasta que rompa el hervor, espese y tome un brillo rojo reluciente."
+        ]
+      },
+      {
+        "name": "4. Baño del Cerdo y Servicio",
+        "steps": [
+          "Incorporar de inmediato los trozos de cerdo fritos crujientes al wok.",
+          "Saltear en vaivén rápidamente para envolver cada bocado con la salsa brillante sin ablandar el rebozado.",
+          "Servir inmediatamente bien caliente, acompañado de arroz blanco al vapor (Báifàn)."
         ]
       }
     ],
     "notes": "El gran secreto del autor para el rebozado es el uso de harina o almidón de batata: a diferencia de la harina común o la maicena simple, la harina de batata crea una costra exterior sumamente crocante, liviana y con relieve que resiste el baño de salsa agridulce caliente sin ablandarse de inmediato, conservando el crujido hasta el último bocado.",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2NfTf2yQduAIzG9ijG7c6WdbugbnawdxRhh_1b1T7MNFbI9HEiS4iVDhEfUXpV57m8werZlqHxj3OsdHNjXS0wINRwadWg_J-gfuWJQJDFE4oqNVHjSNbVSO50gf5ykGmAKtpaBNlSuSe/s1600/cerdo.jpg",
     "url": "https://recarg.blogspot.com/2010/05/cerdo-agridulce-china.html",
-    "original_title": "Cerdo Agridulce (China)",
-    "published": "2010-05-11T18:06:00.000-03:00"
+    "original_title": "Táng Cù Lǐjǐ (Cerdo Crujiente en Salsa Agridulce Tradicional)",
+    "published": "2010-05-11T18:06:00.000-03:00",
+    "chef_tips": [
+      "La harina de batata es el auténtico secreto de rebozado en las cantinas chinas: no absorbe tanto aceite como la harina de trigo y crea una costra cristalina que se mantiene crocante por más tiempo.",
+      "Añadí el cerdo frito al final de todo y salteá solo unos segundos para cubrirlo con la salsa y servirlo de inmediato."
+    ]
   },
   {
     "id": 139,
