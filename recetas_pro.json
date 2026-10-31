@@ -29306,7 +29306,7 @@
       {
         "name": "Tuco Criollo de Lenta Cocción",
         "items": [
-          "750 g de carne vacuna para estofado (roast beef, palomita o tortuguita) en trozos medianos",
+          "1 kg de peceto vacuno (entero o cortado en rodajas gruesas de 3 cm), limpio y desgrasado",
           "2 cebollas medianas picadas finas",
           "1/2 pimiento morrón rojo picado fino",
           "1 zanahoria chica rallada bien fina (para equilibrar la acidez naturalmente)",
@@ -29331,13 +29331,13 @@
     ],
     "step_groups": [
       {
-        "name": "1. El Tuco Criollo Lento",
+        "name": "1. El Tuco Criollo de Peceto",
         "steps": [
-          "En una cacerola de fondo grueso, calentar 3 cucharadas de aceite a fuego medio-alto. Sellar los trozos de carne salpimentados hasta que queden bien dorados por todos sus lados. Retirar y reservar.",
-          "En el mismo fondo de cocción, rehogar la cebolla, el morrón y la zanahoria rallada fina con una pizca de sal durante 8 a 10 minutos hasta que estén tiernos y transparentes. Añadir el ajo picado y dorar 1 minuto.",
-          "Agregar la cucharada de extracto de tomate, mezclar 30 segundos y desglasar vertiendo el vino tinto mientras se raspa el fondo de la olla con cuchara de madera. Dejar evaporar el alcohol 2 minutos.",
-          "Reincorporar la carne sellada con sus jugos, sumar el puré de tomate, las hojas de laurel, el orégano, el pimentón dulce, el ají molido y la taza de caldo caliente.",
-          "Bajar la hornalla al mínimo (fuego corona), tapar de manera entreabierta y cocinar durante 1 hora y media a 2 horas, revolviendo de tanto en tanto, hasta que la carne esté tiernísima que se desmenuza con cuchara y la salsa quede espesa, oscura y brillante. Rectificar sazón."
+          "En una cacerola de fondo grueso, calentar 3 cucharadas de aceite a fuego medio-alto. Salpimentar el peceto y sellarlo entero (o en rodajas gruesas de 3 cm) girándolo con pinzas hasta que quede profundamente dorado por todas sus caras (la caramelización exterior del peceto es la base fundamental del sabor). Retirar y reservar en un plato.",
+          "En el mismo fondo de cocción, rehogar la cebolla, el morrón y la zanahoria rallada fina con una pizca de sal durante 8 a 10 minutos hasta que estén tiernos y transparentes. Añadir el ajo picado y cocinar 1 minuto más.",
+          "Agregar la cucharada colmada de extracto de tomate, remover 30 segundos para tostarlo y desglasar vertiendo el vino tinto mientras se raspa el fondo de la olla con cuchara de madera. Dejar evaporar el alcohol 2 minutos.",
+          "Reincorporar el peceto sellado junto con sus jugos acumulados, sumar el puré de tomate, las hojas de laurel, el orégano seco, el pimentón dulce, la pizca de ají molido y la taza de caldo caliente.",
+          "Bajar la hornalla al mínimo (fuego corona), tapar de manera entreabierta y cocinar a fuego muy suave durante 1 hora y media a 2 horas, bañando la carne ocasionalmente con la salsa. El peceto quedará tiernísimo que se corta con cuchara, y el tuco reducirá a un rojo oscuro profundo y brillante."
         ]
       },
       {
@@ -29374,7 +29374,7 @@
       "La zanahoria rallada bien fina se deshace en la cocción lenta aportando dulzor natural que equilibra la acidez del tomate sin necesidad de azúcar.",
       "El oreo de 15 minutos de la masa antes de enrollar y cortar a cuchillo es fundamental: evita que las tiras se peguen al cortarlas y permite sacudirlas en el aire para que caigan perfectas."
     ],
-    "notes": "El corte a cuchillo le otorga a la pasta una rugosidad y un grosor artesanal único que retiene el tuco espeso como ningún fideo industrial. El sellado inicial de la carne y el desglasado con vino tinto generan la base profunda de sabor criollo que las abuelas lograban con paciencia y fuego lento."
+    "notes": "El peceto es el corte indiscutido y exclusivo de este tuco familiar: al ser una pieza magra y compacta, el sellado a fuego vivo sella la superficie, y la cocción lenta y sumergida en el tomate lo tierniza hasta que se desmenuza sin esfuerzo. Aporta un sabor noble y limpio al tuco sin grasa sobrante, complementando la textura porosa de los fideos cortados a cuchillo."
   },
   {
     "id": 394,
