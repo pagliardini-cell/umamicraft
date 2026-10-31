@@ -9061,7 +9061,7 @@
       }
     ],
     "notes": "El gran secreto del autor para el rebozado es el uso de harina o almidón de batata: a diferencia de la harina común o la maicena simple, la harina de batata crea una costra exterior sumamente crocante, liviana y con relieve que resiste el baño de salsa agridulce caliente sin ablandarse de inmediato, conservando el crujido hasta el último bocado.",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2NfTf2yQduAIzG9ijG7c6WdbugbnawdxRhh_1b1T7MNFbI9HEiS4iVDhEfUXpV57m8werZlqHxj3OsdHNjXS0wINRwadWg_J-gfuWJQJDFE4oqNVHjSNbVSO50gf5ykGmAKtpaBNlSuSe/s1600/cerdo.jpg",
+    "image": "img/cerdo_agridulce.jpg",
     "url": "https://recarg.blogspot.com/2010/05/cerdo-agridulce-china.html",
     "original_title": "Táng Cù Lǐjǐ (Cerdo Crujiente en Salsa Agridulce Tradicional)",
     "published": "2010-05-11T18:06:00.000-03:00",
@@ -30159,5 +30159,77 @@
       "Para arroz largo fino la proporción es 1 taza de arroz por 1 taza de agua, reduciendo 2 minutos el tiempo de fuego."
     ],
     "notes": "En la gastronomía china, el arroz al vapor no lleva sal ni aceite ni condimentos: su pureza neutra y su interior tierno limpian el paladar entre bocado y bocado, realzando la intensidad de los salteados y salsas."
+  },
+  {
+    "id": 402,
+    "title": "Alga Nori Tostada y Crujiente (Corea del Sur)",
+    "original_title": "Gim Gui (Alga Nori Tostada al Estilo Coreano con Sésamo y Sal)",
+    "country": "Corea del Sur",
+    "category": "Bocadillos & Snacks",
+    "tags": [
+      "Alga Nori",
+      "Gim",
+      "Snack Coreano",
+      "Aceite de Sésamo",
+      "Crujiente",
+      "Corea del Sur"
+    ],
+    "prep_time": "5 min",
+    "cook_time": "5 min",
+    "rest_time": "",
+    "temperature": "A temperatura ambiente, ultracrujiente",
+    "servings": "2 a 4 porciones",
+    "calories": "35 kcal por porción",
+    "diet_badges": [
+      "Vegano",
+      "Sin Gluten",
+      "Bajo en Calorías",
+      "Rápido y Fácil"
+    ],
+    "image": "img/alga_nori_tostada.jpg",
+    "url": "https://umamicraft.vercel.app/receta/alga-nori-tostada-y-crujiente-corea-del-sur",
+    "published": "2026-10-30",
+    "story": "El alga nori tostada al estilo coreano (conocida en Corea como Gim o Gim-gui) es uno de esos bocados minimalistas que transforman cualquier comida cotidiana en un festín. Se trata de láminas de alga nori pinceladas con una capa casi imperceptible de aceite de sésamo tostado y una pizca de sal fina, tostadas apenas unos segundos por lado en una sartén seca a fuego medio-bajo hasta volverse quebradizas, translúcidas y crocantes como el cristal. Es el acompañamiento perfecto para envolver bocados de arroz blanco humeante, complementar platos asiáticos, o disfrutar como snack ligero y adictivo.",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes Básicos",
+        "items": [
+          "4 a 5 láminas de alga nori (para sushi o algas deshidratadas)",
+          "1 cucharada de aceite de sésamo tostado",
+          "1 pizca de sal fina marina (mejor quedarse corto que pasarse)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Pincelado Delicado y Sazón",
+        "steps": [
+          "Verter la cucharada de aceite de sésamo en un cuenco pequeño.",
+          "Con un pincel de cocina, pintar solo una de las caras de cada lámina de alga nori con una película muy fina y homogénea de aceite (es fundamental usar muy poco aceite para que el alga quede liviana y crujiente en lugar de grasosa).",
+          "Espolvorear una pizca sutil de sal fina de manera uniforme sobre la cara aceitada. Repetir con el resto de las láminas."
+        ]
+      },
+      {
+        "name": "2. Tostado en Sartén Seca",
+        "steps": [
+          "Calentar una sartén amplia a fuego medio-bajo sin agregar nada de grasa.",
+          "Colocar una lámina de alga nori y tostar durante 45 segundos a 1 minuto por lado, vigilando atentamente para que no se queme ni tome sabor amargo. La superficie cambiará ligeramente de tono hacia un verde oscuro brillante y se volverá rígida y crocante.",
+          "Retirar y dejar enfriar completamente sobre una superficie plana o rejilla (al enfriarse es cuando alcanza su crocantez máxima)."
+        ]
+      },
+      {
+        "name": "3. Corte y Servicio",
+        "steps": [
+          "Una vez frías, apilar las láminas y cortarlas con tijera de cocina o cuchillo afilado en rectángulos de bocado (de unos 5 x 8 cm).",
+          "Servir de inmediato para acompañar arroz blanco al vapor (Báifàn), envolver pescado o comer directamente como snack crujiente."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Prepará solo la cantidad que vayas a comer en el momento: la humedad del ambiente ablanda el alga con rapidez.",
+      "Si tenés láminas de alga nori que se quedaron blandas en la alacena, este método de tostado con sartén y sésamo es el truco perfecto para revivirlas y devolverles una crocantez insuperable.",
+      "Si te sobra, guardala en un frasco de vidrio hermético con un sobrecito de gel de sílice para protegerla de la humedad."
+    ],
+    "notes": "El choque de calor suave deshidrata los azúcares y almidones naturales del alga, mientras que el aceite de sésamo tostado actúa como vehículo conductor que dora la superficie uniformemente. Es el secreto que popularizó el programa coreano Culinary War: un bocado que demuestra cómo tres ingredientes simples y precisión de fuego crean una textura inolvidable."
   }
 ]
