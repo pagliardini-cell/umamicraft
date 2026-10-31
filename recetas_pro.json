@@ -28943,5 +28943,433 @@
       "Mantecá siempre fuera del fuego: el queso rallado se funde con el calor de la salsa y liga la pasta sin cortarse."
     ],
     "notes": "Licuá la salsa muy bien, con toda su grasa: no retires la que sube a la superficie durante la reducción. Al licuarla junto con el queso Finlandia y la crema de leche, la grasa se divide en gotas microscópicas. Las proteínas de la carne picada y la caseína del queso y de la crema actúan como emulsionantes naturales: envuelven cada gota de grasa y evitan que se junten y se separen. Eso es lo que logra la textura untuosa y sedosa de la salsa, sin harina ni espesantes."
+  },
+  {
+    "id": 390,
+    "title": "Chaw Fan (China)",
+    "original_title": "Chaw Fan (Arroz Frito al Wok)",
+    "country": "China",
+    "category": "Arroces y Risottos",
+    "tags": [
+      "Chaw Fan",
+      "Arroz Frito",
+      "Wok",
+      "Cocina China",
+      "Cantina",
+      "San Telmo",
+      "Recuerdo de Infancia",
+      "China"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "10 min",
+    "rest_time": "Arroz cocido con reposo previo de 12 h en frío",
+    "temperature": "Muy caliente, recién salido del wok",
+    "servings": "4 porciones",
+    "calories": "420 kcal aprox. por porción",
+    "diet_badges": [
+      "Clásico de Cantina",
+      "Cocina al Wok"
+    ],
+    "image": "img/chaw_fan.jpg",
+    "url": "https://umamicraft.vercel.app/receta/chaw-fan-china",
+    "published": "2026-10-30",
+    "story": "Iba muy seguido a comprar a aquel restaurante chino de Defensa 1290 (esquina Cochabamba, San Telmo). El dueño casi no hablaba español y su hijo estaba casado con una argentina rubia. Me quedaba mirándolo a través del pasaplatos, esperando ansiosamente cada plato; ese fue mi verdadero paso y despertar en la cocina. Tiempo después, cuando yo tendría unos 10 años, el dueño me enseñó a hacer el arroz frito. Fue un momento que me marcó para siempre: el uso del arroz frío del día anterior bien desgranado, el fuego vivo del wok y, sobre todo, el secreto del Ajinomoto, ese toque de glutamato que despertaba el umami y le daba el sabor auténtico de la cantina china.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Arroz y Salteado",
+        "items": [
+          "400 g de arroz blanco cocido del día anterior (grano largo fino, frío de heladera y bien desgranado)",
+          "2 huevos",
+          "1 chorrito de agua fría (secreto para inflar el huevo al vapor)",
+          "2 tallos de cebolla de verdeo (parte blanca picada fina y parte verde en rodajas)",
+          "100 g de jamón cocido en cubos pequeños (o carne de cerdo cocida)",
+          "1/2 zanahoria cortada en brunoise fina, blanqueada al dente",
+          "1 diente de ajo picado fino",
+          "2 a 3 cucharadas de aceite neutro (maíz o girasol)"
+        ]
+      },
+      {
+        "name": "Condimentos y Sazón",
+        "items": [
+          "1 a 2 cucharadas de salsa de soja clara",
+          "1/2 cucharadita de Ajinomoto (glutamato monosódico)",
+          "1 cucharadita de aceite de sésamo tostado",
+          "Sal fina y pimienta blanca molida al gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Preparación del Arroz",
+        "steps": [
+          "Con las manos limpias y apenas humedecidas, desgranar pacientemente el arroz frío de heladera para separar cada grano, evitando que entren terrones al wok."
+        ]
+      },
+      {
+        "name": "2. Salteado del Huevo con Golpe de Vapor",
+        "steps": [
+          "Batir los 2 huevos con una pizca de sal. Calentar el wok a fuego máximo con una cucharada de aceite.",
+          "Verter los huevos batidos y de inmediato tirar un chorrito de agua. El choque térmico del agua contra el aceite humeante genera un golpe de vapor instantáneo que infla el huevo y hace que se separe en hilos tiernos, esponjosos y aireados. Revolver unos segundos y retirar en un plato antes de que se seque."
+        ]
+      },
+      {
+        "name": "3. Salteado de Vegetales y Jamón",
+        "steps": [
+          "En el mismo wok humeante a fuego vivo, verter otra cucharada de aceite. Añadir el ajo picado, la parte blanca del verdeo, la zanahoria y el jamón.",
+          "Saltear enérgicamente durante 1 minuto manteniendo el fuego al máximo sin dejar que se queme."
+        ]
+      },
+      {
+        "name": "4. Fritura del Arroz y Sazón",
+        "steps": [
+          "Incorporar el arroz frío desgranado al wok caliente. Saltear con movimientos envolventes, aplastando suavemente los granos contra las paredes del wok para que absorban calor directo y se doren de manera uniforme.",
+          "Verter la salsa de soja por el borde superior del wok para que descienda caramelizándose con el metal caliente.",
+          "Espolvorear el Ajinomoto, una pizca de sal y pimienta blanca molida."
+        ]
+      },
+      {
+        "name": "5. Integración y Servicio",
+        "steps": [
+          "Regresar los hilos de huevo al wok, añadir la parte verde del verdeo y rociar con el aceite de sésamo tostado.",
+          "Saltear todo junto durante 30 segundos más y servir inmediatamente bien caliente."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Utilizá siempre arroz cocido con al menos 12 horas de frío: el reposo deshidrata la superficie del grano y evita que se apelmace en el wok.",
+      "El wok debe estar bien curado y humeante antes de empezar para lograr el auténtico aroma ahumado (wok hei)."
+    ],
+    "notes": "Al saltear el huevo batido en el wok bien caliente, el gran secreto del autor es tirar un chorrito de agua inmediatamente después del batido: el vapor instantáneo que se genera al tocar el fondo a alta temperatura infla el huevo y hace que se separe en hilos tiernos, aireados y esponjosos. Además, usar arroz blanco cocido del día anterior bien desgranado y el toque justo de Ajinomoto le otorgan ese sabor y untuosidad inconfundibles de cantina china tradicional."
+  },
+  {
+    "id": 391,
+    "title": "Chaw Mien (China)",
+    "original_title": "Chaw Mien (Fideos de Trigo Salteados al Wok)",
+    "country": "China",
+    "category": "Pastas y Fideos",
+    "tags": [
+      "Chaw Mien",
+      "Fideos Salteados",
+      "Chao Mian",
+      "Wok",
+      "Cocina China",
+      "Cantina",
+      "San Telmo",
+      "China"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "10 min",
+    "rest_time": "",
+    "temperature": "Muy caliente, recién salteado al wok",
+    "servings": "4 porciones",
+    "calories": "480 kcal aprox. por porción",
+    "diet_badges": [
+      "Clásico de Cantina",
+      "Cocina al Wok"
+    ],
+    "image": "img/chaw_mien.jpg",
+    "url": "https://umamicraft.vercel.app/receta/chaw-mien-china",
+    "published": "2026-10-30",
+    "story": "El Chaw Mien era otro de los platos que me fascinaba espiar por el pasaplatos de Defensa 1290. Ver al cocinero batir el wok con una mano y voltear las hebras doradas de fideos de trigo en medio del humo aromático de la salsa de soja, el ajo y el aceite de sésamo era hipnótico. Un plato de contrastes: fideos elásticos y dorados con vegetales crujientes y ese perfume tostado inconfundible del fuego fuerte.",
+    "ingredient_groups": [
+      {
+        "name": "Fideos y Proteína",
+        "items": [
+          "300 g de fideos al huevo de trigo (hervidos al dente, escurridos y enfriados con unas gotas de aceite)",
+          "200 g de lomo de cerdo o pechuga de pollo en tiras finas",
+          "1 cucharadita de salsa de soja y 1/2 cucharadita de fécula de maíz (para marinar la carne)"
+        ]
+      },
+      {
+        "name": "Vegetales Frescos",
+        "items": [
+          "1 taza de repollo blanco cortado en juliana fina",
+          "1/2 taza de zanahoria en juliana fina",
+          "1 taza de brotes de soja frescos y crocantes",
+          "1/2 cebolla cortada en plumas finas",
+          "2 tallos de cebolla de verdeo en bastoncitos",
+          "2 dientes de ajo picados finamente"
+        ]
+      },
+      {
+        "name": "Salsa de Salteado",
+        "items": [
+          "2 cucharadas de salsa de soja clara",
+          "1 cucharada de salsa de ostras (o salsa de soja oscura)",
+          "1/2 cucharadita de Ajinomoto (glutamato monosódico)",
+          "1/2 cucharadita de azúcar",
+          "2 cucharadas de caldo suave o agua",
+          "1 cucharadita de aceite de sésamo tostado",
+          "Pimienta blanca molida y aceite neutro para saltear"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Cocción Previa de los Fideos",
+        "steps": [
+          "Hervir los fideos de trigo en agua hirviendo durante 1 minuto menos de lo que indica el paquete para dejarlos firmes al dente.",
+          "Escurrir inmediatamente, pasar por agua fría para cortar la cocción y rociar con unas gotas de aceite para que las hebras queden sueltas y secas."
+        ]
+      },
+      {
+        "name": "2. Sellado de la Carne",
+        "steps": [
+          "Mezclar las tiras de carne con la cucharadita de soja y la fécula de maíz.",
+          "Calentar el wok a fuego máximo con un hilo de aceite. Sellar la carne durante 2 minutos hasta dorarla sin sobrecocinar. Retirar y reservar jugosa."
+        ]
+      },
+      {
+        "name": "3. Salteado Crocante de Vegetales",
+        "steps": [
+          "En el mismo wok caliente, agregar otra cucharada de aceite. Incorporar el ajo, la cebolla, la zanahoria y el repollo.",
+          "Saltear enérgicamente durante 1 a 2 minutos a fuego fuerte, manteniendo los vegetales tiernos pero crocantes. Añadir los brotes de soja al final."
+        ]
+      },
+      {
+        "name": "4. Fideos y Salsa",
+        "steps": [
+          "Agregar los fideos escurridos al wok caliente sobre los vegetales.",
+          "Verter la mezcla de salsa de soja, salsa de ostras, azúcar, caldo y Ajinomoto por los laterales del wok para que se active con el calor.",
+          "Reincorporar la carne y los bastones de verdeo."
+        ]
+      },
+      {
+        "name": "5. Mantecado al Wok y Servicio",
+        "steps": [
+          "Con pinzas o palillos, levantar y voltear continuamente los fideos a fuego máximo durante 1 a 2 minutos hasta que absorban la salsa y se doren en la base del metal.",
+          "Rociar con el aceite de sésamo tostado, dar un último golpe de salteado y servir de inmediato."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "Los fideos deben ingresar al wok bien escurridos y sin agua en superficie para que se doren y no se hiervan.",
+      "El orden de los vegetales asegura que los brotes de soja conserven su frescura crujiente hasta el plato."
+    ],
+    "notes": "El secreto del chaw mien radica en saltear los fideos secos contra el metal candente untado de aceite para lograr ese tostado sutil antes de añadir la salsa. La combinación de salsa de ostras y Ajinomoto equilibra los vegetales crujientes con un fondo umami profundo."
+  },
+  {
+    "id": 392,
+    "title": "Chaw Mi Fen (China)",
+    "original_title": "Chaw Mi Fen (Fideos de Arroz Salteados al Wok)",
+    "country": "China",
+    "category": "Pastas y Fideos",
+    "tags": [
+      "Chaw Mi Fen",
+      "Fideos de Arroz",
+      "Vermicelli",
+      "Wok",
+      "Cocina China",
+      "Cantina",
+      "San Telmo",
+      "China"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "10 min",
+    "rest_time": "",
+    "temperature": "Muy caliente, recién salteado al wok",
+    "servings": "4 porciones",
+    "calories": "390 kcal aprox. por porción",
+    "diet_badges": [
+      "Clásico de Cantina",
+      "Cocina al Wok",
+      "Fideos de Arroz"
+    ],
+    "image": "img/chaw_mi_fen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/chaw-mi-fen-china",
+    "published": "2026-10-30",
+    "story": "Los finos fideos de arroz salteados (vermicelli) completaban la trilogía infaltable de aquel rincón de San Telmo. Livianos, aireados, casi translúcidos, con la capacidad única de atrapar toda la sazón del wok sin volverse pesados. Cada porción que salía por el pasaplatos salía humeante, salpicada con hebras finas de vegetales crocantes y tiras de huevo dorado.",
+    "ingredient_groups": [
+      {
+        "name": "Fideos de Arroz y Proteína",
+        "items": [
+          "200 g de fideos de arroz finos (mi fen o vermicelli)",
+          "2 huevos batidos con una pizca de sal",
+          "150 g de pechuga de pollo en tiritas o langostinos limpios"
+        ]
+      },
+      {
+        "name": "Vegetales en Hebras",
+        "items": [
+          "1/2 pimiento morrón rojo en juliana fina",
+          "1/2 zanahoria cortada en hebras finas",
+          "1 taza de repollo blanco en tiras delgadas",
+          "2 tallos de cebolla de verdeo cortados en juliana",
+          "2 dientes de ajo picados finamente",
+          "1 cucharadita de jengibre fresco rallado fino"
+        ]
+      },
+      {
+        "name": "Salsa y Aderezo",
+        "items": [
+          "2 cucharadas de salsa de soja clara",
+          "1 cucharadita de salsa de soja oscura (para aportar tono dorado)",
+          "1/2 cucharadita de Ajinomoto (glutamato monosódico)",
+          "1/2 cucharadita de azúcar",
+          "3 cucharadas de caldo suave o agua caliente",
+          "1 cucharadita de aceite de sésamo tostado",
+          "Pimienta blanca y aceite neutro para saltear"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Hidratación de los Fideos de Arroz",
+        "steps": [
+          "Colocar los fideos de arroz en un recipiente amplio y cubrirlos con agua tibia durante 15 a 20 minutos hasta que estén flexibles y dóciles, pero firmes.",
+          "Escurrir completamente en un colador y cortar con tijera de cocina en dos o tres partes para que las hebras no sean excesivamente largas al saltear."
+        ]
+      },
+      {
+        "name": "2. Tiras Finas de Huevo",
+        "steps": [
+          "En una sartén o wok con unas gotas de aceite caliente, verter los huevos batidos para hacer una tortilla muy fina.",
+          "Retirar, enrollar sobre una tabla y cortar transversalmente en tiritas finas para reservar."
+        ]
+      },
+      {
+        "name": "3. Salteado Aromático de Carnes y Verduras",
+        "steps": [
+          "Calentar el wok a fuego fuerte con una cucharada de aceite neutro. Añadir el ajo y el jengibre rallado junto con el pollo o langostinos. Saltear 2 minutos.",
+          "Sumar la zanahoria, el morrón y el repollo. Saltear a fuego vivo durante 1 minuto y medio, logrando que los vegetales se impregnen del aroma sin perder crocantez."
+        ]
+      },
+      {
+        "name": "4. Integración de los Fideos y Salsa",
+        "steps": [
+          "Incorporar los fideos de arroz hidratados y escurridos al wok.",
+          "Verter la mezcla de salsas de soja, caldo, azúcar y Ajinomoto sobre los fideos.",
+          "Con dos palillos largos o dos pinzas, levantar y airear los fideos con movimientos envolventes y continuos para que absorban todo el líquido de manera uniforme sin romperse."
+        ]
+      },
+      {
+        "name": "5. Final y Presentación",
+        "steps": [
+          "Agregar las tiritas de huevo, el verdeo en juliana y el aceite de sésamo tostado.",
+          "Saltear todo junto 30 segundos finales para integrar y servir bien caliente."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "No hiervas los fideos de arroz en agua hirviendo: el almidón de arroz se desarma con el hervor excesivo; remojarlos en agua tibia es la clave para que queden elásticos en el wok.",
+      "El movimiento de airear con palillos evita que los fideos se amontonen en el fondo del wok y se peguen."
+    ],
+    "notes": "Los fideos mi fen son de digestión liviana y absorben los aromas del salteado con muchísima facilidad. La hidratación en agua tibia y el corte con tijera garantizan que cada porción se mantenga suelta y sedosa, impregnada con el toque aromático del jengibre y el sésamo."
+  },
+  {
+    "id": 393,
+    "title": "Fideos Cortados a Cuchillo con Tuco (Receta de Autor)",
+    "original_title": "Tallarines Caseros al Huevo Cortados a Cuchillo con Tuco Argentino",
+    "country": "Receta de Autor (Argentina)",
+    "category": "Pastas Frescas & Rellenas",
+    "tags": [
+      "Fideos Caseros",
+      "Tallarines",
+      "Pastas Frescas",
+      "Tuco",
+      "Tuco Criollo",
+      "Pastalinda",
+      "Receta de Autor",
+      "Argentina",
+      "Recuerdo de Infancia"
+    ],
+    "prep_time": "1 h 15 min",
+    "cook_time": "2 h",
+    "rest_time": "45 min de reposo de masa",
+    "temperature": "Muy caliente, servido en plato hondo humeante",
+    "servings": "6 porciones abundantes",
+    "calories": "790 kcal aprox. por porción",
+    "diet_badges": [
+      "Pasta Casera",
+      "Receta de Autor",
+      "Cocina Familiar"
+    ],
+    "image": "img/fideos_cortados_a_cuchillo_con_tuco.jpg",
+    "url": "https://umamicraft.vercel.app/receta/fideos-cortados-a-cuchillo-con-tuco-receta-de-autor",
+    "published": "2026-10-30",
+    "story": "Nació de ver a mi abuela cocinar el tuco los fines de semana, dejando que el aroma a laurel, carne y tomate invadiera cada rincón de la casa. Y de verla a ella, que no tenía una sola gota de sangre italiana, pasar con devoción la masa por la máquina Pastalinda. Ese recuerdo me marcó tanto que para uno de mis cumpleaños, siendo todavía un chico, decidí cocinarles al mediodía a mis compañeros de escuela: fideos caseros al huevo amasados por mí, enrollados y cortados a cuchillo, servidos con ese tuco criollo espeso y lento de los domingos. Fue el primer banquete que preparé para amigos con mis propias manos.",
+    "ingredient_groups": [
+      {
+        "name": "Masa de los Fideos al Huevo",
+        "items": [
+          "500 g de harina 0000 (o 350 g de harina 0000 y 150 g de semolín)",
+          "5 huevos de campo a temperatura ambiente",
+          "1 cucharada de aceite neutro u oliva",
+          "1 pizca generosa de sal fina",
+          "Semolín o harina extra para espolvorear y orear"
+        ]
+      },
+      {
+        "name": "Tuco Criollo de Lenta Cocción",
+        "items": [
+          "750 g de carne vacuna para estofado (roast beef, palomita o tortuguita) en trozos medianos",
+          "2 cebollas medianas picadas finas",
+          "1/2 pimiento morrón rojo picado fino",
+          "1 zanahoria chica rallada bien fina (para equilibrar la acidez naturalmente)",
+          "2 dientes de ajo picados",
+          "2 hojas de laurel seco",
+          "1 cucharada colmada de extracto de tomate",
+          "700 g de puré de tomate triturado de buena calidad",
+          "1/2 vaso de vino tinto seco",
+          "1 taza de caldo de carne caliente",
+          "1 cucharadita de orégano seco",
+          "1 cucharadita de pimentón dulce",
+          "1 pizca de ají molido argentino",
+          "Aceite para dorar, sal gruesa y pimienta negra recién molida"
+        ]
+      },
+      {
+        "name": "Servicio y Queso",
+        "items": [
+          "Abundante queso duro rallado fino (Sardo o Reggianito estacionado)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. El Tuco Criollo Lento",
+        "steps": [
+          "En una cacerola de fondo grueso, calentar 3 cucharadas de aceite a fuego medio-alto. Sellar los trozos de carne salpimentados hasta que queden bien dorados por todos sus lados. Retirar y reservar.",
+          "En el mismo fondo de cocción, rehogar la cebolla, el morrón y la zanahoria rallada fina con una pizca de sal durante 8 a 10 minutos hasta que estén tiernos y transparentes. Añadir el ajo picado y dorar 1 minuto.",
+          "Agregar la cucharada de extracto de tomate, mezclar 30 segundos y desglasar vertiendo el vino tinto mientras se raspa el fondo de la olla con cuchara de madera. Dejar evaporar el alcohol 2 minutos.",
+          "Reincorporar la carne sellada con sus jugos, sumar el puré de tomate, las hojas de laurel, el orégano, el pimentón dulce, el ají molido y la taza de caldo caliente.",
+          "Bajar la hornalla al mínimo (fuego corona), tapar de manera entreabierta y cocinar durante 1 hora y media a 2 horas, revolviendo de tanto en tanto, hasta que la carne esté tiernísima que se desmenuza con cuchara y la salsa quede espesa, oscura y brillante. Rectificar sazón."
+        ]
+      },
+      {
+        "name": "2. Amasado y Descanso de los Fideos",
+        "steps": [
+          "Sobre la mesada limpia, formar una corona con la harina (y el semolín). Hacer un hueco en el centro y verter los huevos, la sal y la cucharada de aceite.",
+          "Con un tenedor, romper los huevos e ir integrando la harina de los bordes hacia adentro progresivamente hasta obtener una masa densa. Continuar con las manos.",
+          "Amasar enérgicamente con la palma durante 10 a 12 minutos hasta formar un bollo liso, elástico y sin grumos.",
+          "Envolver en papel film y dejar descansar a temperatura ambiente durante 30 a 45 minutos para relajar el gluten."
+        ]
+      },
+      {
+        "name": "3. Estirado, Oreo y Corte a Cuchillo",
+        "steps": [
+          "Dividir el bollo en 3 o 4 porciones. Espolvorear apenas con semolín y estirar con palote de madera (o pasar por los rodillos de la Pastalinda desde el punto más grueso hasta el punto 5 o 6) hasta lograr una lámina de 1,5 a 2 mm de espesor.",
+          "Extender las láminas sobre un mantel enharinado y dejarlas orear durante 15 minutos: deben perder humedad superficial y sentirse sedosas, no pegajosas.",
+          "Espolvorear la superficie con semolín, enrollar la masa suavemente desde los extremos hacia el centro (o en cilindro suelto sin apretar).",
+          "Con un cuchillo grande y bien afilado, cortar transversalmente tiras de 6 a 8 mm de grosor.",
+          "Pasar los dedos por debajo de los cortes y levantar las tiras al aire sacudiéndolas suavemente: los fideos se desenrollarán solos sin pegarse. Armar nidos sobre una bandeja enharinada."
+        ]
+      },
+      {
+        "name": "4. Cocción, Enlace y Servicio",
+        "steps": [
+          "Poner a hervir abundante agua con sal gruesa (10 g por litro). Cuando rompa el hervor a borbotones, echar los fideos caseros.",
+          "Cocinar durante 2 a 3 minutos: al ser frescos flotan casi de inmediato y alcanzan el punto al dente en pocos instantes.",
+          "Escurrir reservando medio cucharón del agua de cocción con almidón.",
+          "Volcar los fideos inmediatamente en una fuente caliente, añadir dos cucharadas del tuco hirviendo y el chorrito de agua de cocción para ligar la pasta.",
+          "Servir en platos hondos con un cucharón abundante de tuco espeso con trozos de carne y coronar con una lluvia generosa de queso rallado fino."
+        ]
+      }
+    ],
+    "chef_tips": [
+      "La zanahoria rallada bien fina se deshace en la cocción lenta aportando dulzor natural que equilibra la acidez del tomate sin necesidad de azúcar.",
+      "El oreo de 15 minutos de la masa antes de enrollar y cortar a cuchillo es fundamental: evita que las tiras se peguen al cortarlas y permite sacudirlas en el aire para que caigan perfectas."
+    ],
+    "notes": "El corte a cuchillo le otorga a la pasta una rugosidad y un grosor artesanal único que retiene el tuco espeso como ningún fideo industrial. El sellado inicial de la carne y el desglasado con vino tinto generan la base profunda de sabor criollo que las abuelas lograban con paciencia y fuego lento."
   }
 ]
