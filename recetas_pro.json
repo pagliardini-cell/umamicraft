@@ -28953,6 +28953,7 @@
     "tags": [
       "Chaw Fan",
       "Arroz Frito",
+      "Camarones",
       "Wok",
       "Cocina China",
       "Cantina",
@@ -28980,6 +28981,7 @@
         "items": [
           "400 g de arroz blanco cocido del día anterior (grano largo fino, frío de heladera y bien desgranado)",
           "2 huevos",
+          "150 g de camarones limpios (pelados y desvenados)",
           "1 chorrito de agua fría (secreto para inflar el huevo al vapor)",
           "2 tallos de cebolla de verdeo (parte blanca picada fina y parte verde en rodajas)",
           "100 g de jamón cocido en cubos pequeños (o carne de cerdo cocida)",
@@ -29006,10 +29008,10 @@
         ]
       },
       {
-        "name": "2. Salteado del Huevo con Golpe de Vapor",
+        "name": "2. Salteado del Huevo y Camarones",
         "steps": [
-          "Batir los 2 huevos con una pizca de sal. Calentar el wok a fuego máximo con una cucharada de aceite.",
-          "Verter los huevos batidos y de inmediato tirar un chorrito de agua. El choque térmico del agua contra el aceite humeante genera un golpe de vapor instantáneo que infla el huevo y hace que se separe en hilos tiernos, esponjosos y aireados. Revolver unos segundos y retirar en un plato antes de que se seque."
+          "Batir los 2 huevos con una pizca de sal. Calentar el wok a fuego máximo con una cucharada de aceite. Verter los huevos batidos y de inmediato tirar un chorrito de agua. El choque térmico del agua contra el aceite humeante genera un golpe de vapor instantáneo que infla el huevo y hace que se separe en hilos tiernos, esponjosos y aireados. Revolver unos segundos y retirar en un plato.",
+          "En el mismo wok humeante con apenas unas gotas de aceite, saltear los camarones limpios durante 1 a 2 minutos hasta que cambien a color rosado y estén tiernos y jugosos. Retirar y reservar junto con el huevo para no sobrecocinarlos."
         ]
       },
       {
@@ -29030,8 +29032,8 @@
       {
         "name": "5. Integración y Servicio",
         "steps": [
-          "Regresar los hilos de huevo al wok, añadir la parte verde del verdeo y rociar con el aceite de sésamo tostado.",
-          "Saltear todo junto durante 30 segundos más y servir inmediatamente bien caliente."
+          "Regresar los hilos de huevo y los camarones jugosos al wok, añadir la parte verde del verdeo y rociar con el aceite de sésamo tostado.",
+          "Saltear todo junto durante 30 segundos más para amalgamar aromas y servir inmediatamente bien caliente."
         ]
       }
     ],
@@ -29039,7 +29041,7 @@
       "Utilizá siempre arroz cocido con al menos 12 horas de frío: el reposo deshidrata la superficie del grano y evita que se apelmace en el wok.",
       "El wok debe estar bien curado y humeante antes de empezar para lograr el auténtico aroma ahumado (wok hei)."
     ],
-    "notes": "Al saltear el huevo batido en el wok bien caliente, el gran secreto del autor es tirar un chorrito de agua inmediatamente después del batido: el vapor instantáneo que se genera al tocar el fondo a alta temperatura infla el huevo y hace que se separe en hilos tiernos, aireados y esponjosos. Además, usar arroz blanco cocido del día anterior bien desgranado y el toque justo de Ajinomoto le otorgan ese sabor y untuosidad inconfundibles de cantina china tradicional."
+    "notes": "Al saltear el huevo batido en el wok bien caliente, el gran secreto del autor es tirar un chorrito de agua inmediatamente después del batido: el vapor instantáneo que se genera al tocar el fondo a alta temperatura infla el huevo y hace que se separe en hilos tiernos, aireados y esponjosos. Los camarones deben saltearse apenas 1 o 2 minutos y retirarse al instante: cocinarlos de más los vuelve gomosos, mientras que agregarlos al final los mantiene dulces, tiernos y jugosos junto con el arroz desgranado y el umami del Ajinomoto."
   },
   {
     "id": 391,
