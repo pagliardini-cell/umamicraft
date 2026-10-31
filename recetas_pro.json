@@ -28946,12 +28946,12 @@
   },
   {
     "id": 390,
-    "title": "Chaw Fan (China)",
-    "original_title": "Chaw Fan (Arroz Frito al Wok)",
+    "title": "Chow Fan (China)",
+    "original_title": "Chow Fan (Arroz Frito al Wok)",
     "country": "China",
     "category": "Arroces y Risottos",
     "tags": [
-      "Chaw Fan",
+      "Chow Fan",
       "Arroz Frito",
       "Camarones",
       "Wok",
@@ -28971,8 +28971,8 @@
       "Clásico de Cantina",
       "Cocina al Wok"
     ],
-    "image": "img/chaw_fan.jpg",
-    "url": "https://umamicraft.vercel.app/receta/chaw-fan-china",
+    "image": "img/chow_fan.jpg",
+    "url": "https://umamicraft.vercel.app/receta/chow-fan-china",
     "published": "2026-10-30",
     "story": "Iba muy seguido a comprar a aquel restaurante chino de Defensa 1290 (esquina Cochabamba, San Telmo). El dueño casi no hablaba español y su hijo estaba casado con una argentina rubia. Me quedaba mirándolo a través del pasaplatos, esperando ansiosamente cada plato; ese fue mi verdadero paso y despertar en la cocina. Tiempo después, cuando yo tendría unos 10 años, el dueño me enseñó a hacer el arroz frito. Fue un momento que me marcó para siempre: el uso del arroz frío del día anterior bien desgranado, el fuego vivo del wok y, sobre todo, el secreto del Ajinomoto, ese toque de glutamato que despertaba el umami y le daba el sabor auténtico de la cantina china.",
     "ingredient_groups": [
@@ -28983,8 +28983,7 @@
           "2 huevos",
           "150 g de camarones limpios (pelados y desvenados)",
           "1 chorrito de agua fría (secreto para inflar el huevo al vapor)",
-          "2 tallos de cebolla de verdeo (parte blanca picada fina y parte verde en rodajas)",
-          "100 g de jamón cocido en cubos pequeños (o carne de cerdo cocida)",
+          "3 a 4 tallos de cebolla de verdeo fresca (parte blanca picada fina y abundante parte verde en rodajas)",
           "1/2 zanahoria cortada en brunoise fina, blanqueada al dente",
           "1 diente de ajo picado fino",
           "2 a 3 cucharadas de aceite neutro (maíz o girasol)"
@@ -29015,9 +29014,9 @@
         ]
       },
       {
-        "name": "3. Salteado de Vegetales y Jamón",
+        "name": "3. Salteado de Vegetales",
         "steps": [
-          "En el mismo wok humeante a fuego vivo, verter otra cucharada de aceite. Añadir el ajo picado, la parte blanca del verdeo, la zanahoria y el jamón.",
+          "En el mismo wok humeante a fuego vivo, verter otra cucharada de aceite. Añadir el ajo picado, la parte blanca del verdeo y la zanahoria cortada en brunoise fina.",
           "Saltear enérgicamente durante 1 minuto manteniendo el fuego al máximo sin dejar que se queme."
         ]
       },
@@ -29032,8 +29031,8 @@
       {
         "name": "5. Integración y Servicio",
         "steps": [
-          "Regresar los hilos de huevo y los camarones jugosos al wok, añadir la parte verde del verdeo y rociar con el aceite de sésamo tostado.",
-          "Saltear todo junto durante 30 segundos más para amalgamar aromas y servir inmediatamente bien caliente."
+          "Regresar los hilos de huevo y los camarones jugosos al wok. Incorporar una generosa lluvia de la parte verde del verdeo fresco cortada en rodajitas y rociar con el aceite de sésamo tostado.",
+          "Saltear todo junto a fuego furioso durante 30 a 45 segundos para que el verdeo libere su aroma fresco sin perder su color verde vivo ni su textura crujiente. Servir inmediatamente humeante."
         ]
       }
     ],
@@ -29041,16 +29040,16 @@
       "Utilizá siempre arroz cocido con al menos 12 horas de frío: el reposo deshidrata la superficie del grano y evita que se apelmace en el wok.",
       "El wok debe estar bien curado y humeante antes de empezar para lograr el auténtico aroma ahumado (wok hei)."
     ],
-    "notes": "Al saltear el huevo batido en el wok bien caliente, el gran secreto del autor es tirar un chorrito de agua inmediatamente después del batido: el vapor instantáneo que se genera al tocar el fondo a alta temperatura infla el huevo y hace que se separe en hilos tiernos, aireados y esponjosos. Los camarones deben saltearse apenas 1 o 2 minutos y retirarse al instante: cocinarlos de más los vuelve gomosos, mientras que agregarlos al final los mantiene dulces, tiernos y jugosos junto con el arroz desgranado y el umami del Ajinomoto."
+    "notes": "Al saltear el huevo batido en el wok bien caliente, el gran secreto del autor es tirar un chorrito de agua inmediatamente después del batido: el vapor instantáneo que se genera al tocar el fondo a alta temperatura infla el huevo y hace que se separe en hilos tiernos, aireados y esponjosos. Los camarones se saltean apenas 1 o 2 minutos para mantenerlos dulces y jugosos. El verdeo abundante es el alma del plato: la parte blanca da el aroma de fondo y la parte verde fresca al final aporta ese perfume y frescura inconfundibles de cantina tradicional junto al toque de Ajinomoto."
   },
   {
     "id": 391,
-    "title": "Chaw Mien (China)",
-    "original_title": "Chaw Mien (Fideos de Trigo Salteados al Wok)",
+    "title": "Chow Mein (China)",
+    "original_title": "Chow Mein (Fideos de Trigo Salteados al Wok)",
     "country": "China",
     "category": "Pastas y Fideos",
     "tags": [
-      "Chaw Mien",
+      "Chow Mein",
       "Fideos Salteados",
       "Chao Mian",
       "Wok",
@@ -29069,17 +29068,17 @@
       "Clásico de Cantina",
       "Cocina al Wok"
     ],
-    "image": "img/chaw_mien.jpg",
-    "url": "https://umamicraft.vercel.app/receta/chaw-mien-china",
+    "image": "img/chow_mein.jpg",
+    "url": "https://umamicraft.vercel.app/receta/chow-mein-china",
     "published": "2026-10-30",
-    "story": "El Chaw Mien era otro de los platos que me fascinaba espiar por el pasaplatos de Defensa 1290. Ver al cocinero batir el wok con una mano y voltear las hebras doradas de fideos de trigo en medio del humo aromático de la salsa de soja, el ajo y el aceite de sésamo era hipnótico. Un plato de contrastes: fideos elásticos y dorados con vegetales crujientes y ese perfume tostado inconfundible del fuego fuerte.",
+    "story": "El Chow Mein era otro de los platos que me fascinaba espiar por el pasaplatos de Defensa 1290. Ver al cocinero batir el wok con una mano y voltear las hebras doradas de fideos de trigo en medio del humo aromático de la salsa de soja, el ajo y el aceite de sésamo era hipnótico. Un plato de contrastes: fideos elásticos y dorados con vegetales crujientes y ese perfume tostado inconfundible del fuego fuerte.",
     "ingredient_groups": [
       {
         "name": "Fideos y Proteína",
         "items": [
-          "300 g de fideos al huevo de trigo (hervidos al dente, escurridos y enfriados con unas gotas de aceite)",
+          "300 g de fideos al huevo de trigo para chow mein (hervidos al dente, escurridos y enfriados con unas gotas de aceite)",
           "200 g de lomo de cerdo o pechuga de pollo en tiras finas",
-          "1 cucharadita de salsa de soja y 1/2 cucharadita de fécula de maíz (para marinar la carne)"
+          "1 cucharada de salsa de ostras, 1 cucharadita de salsa de soja y 1/2 cucharadita de fécula de maíz (marinado de la carne)"
         ]
       },
       {
@@ -29096,11 +29095,13 @@
       {
         "name": "Salsa de Salteado",
         "items": [
+          "3 cucharadas generosas de salsa de ostras auténtica (ingrediente clave para sabor, brillo y untuosidad)",
+          "1 cucharadita colmada de almidón de batata disuelto en 2 cucharadas de agua fría (el gran secreto espesante de cantina)",
           "2 cucharadas de salsa de soja clara",
-          "1 cucharada de salsa de ostras (o salsa de soja oscura)",
+          "1 cucharadita de salsa de soja oscura (para color dorado intenso)",
           "1/2 cucharadita de Ajinomoto (glutamato monosódico)",
           "1/2 cucharadita de azúcar",
-          "2 cucharadas de caldo suave o agua",
+          "3 cucharadas de caldo suave de ave o agua",
           "1 cucharadita de aceite de sésamo tostado",
           "Pimienta blanca molida y aceite neutro para saltear"
         ]
@@ -29132,7 +29133,8 @@
         "name": "4. Fideos y Salsa",
         "steps": [
           "Agregar los fideos escurridos al wok caliente sobre los vegetales.",
-          "Verter la mezcla de salsa de soja, salsa de ostras, azúcar, caldo y Ajinomoto por los laterales del wok para que se active con el calor.",
+          "Verter la mezcla de abundante salsa de ostras, soja clara, oscura, azúcar, caldo y Ajinomoto por los laterales del wok para que caramelice con el metal ardiente.",
+          "Remover e incorporar el almidón de batata disuelto en agua fría en forma de hilo: con el choque de calor furioso gelatiniza al instante, creando un glaseado brillante y espeso que abraza y baña cada hebra de fideo sin apelmazar.",
           "Reincorporar la carne y los bastones de verdeo."
         ]
       },
@@ -29148,16 +29150,16 @@
       "Los fideos deben ingresar al wok bien escurridos y sin agua en superficie para que se doren y no se hiervan.",
       "El orden de los vegetales asegura que los brotes de soja conserven su frescura crujiente hasta el plato."
     ],
-    "notes": "El secreto del chaw mien radica en saltear los fideos secos contra el metal candente untado de aceite para lograr ese tostado sutil antes de añadir la salsa. La combinación de salsa de ostras y Ajinomoto equilibra los vegetales crujientes con un fondo umami profundo."
+    "notes": "El secreto maestro del autor para el Chow Mein es el uso del almidón de batata disuelto en agua fría como espesante: a diferencia de la maicena tradicional, el almidón de batata tolera las temperaturas extremas del wok sin degradarse y aporta una viscosidad brillante, translúcida y sedosa. Junto con la salsa de ostras caramelizada en los bordes del wok y el toque de Ajinomoto, logra ese laqueado perfecto e inconfundible de la auténtica cantina china."
   },
   {
     "id": 392,
-    "title": "Chaw Mi Fen (China)",
-    "original_title": "Chaw Mi Fen (Fideos de Arroz Salteados al Wok)",
+    "title": "Chow Mi Fen (China)",
+    "original_title": "Chow Mi Fen (Fideos de Arroz Salteados al Wok)",
     "country": "China",
     "category": "Pastas y Fideos",
     "tags": [
-      "Chaw Mi Fen",
+      "Chow Mi Fen",
       "Fideos de Arroz",
       "Vermicelli",
       "Wok",
@@ -29177,8 +29179,8 @@
       "Cocina al Wok",
       "Fideos de Arroz"
     ],
-    "image": "img/chaw_mi_fen.jpg",
-    "url": "https://umamicraft.vercel.app/receta/chaw-mi-fen-china",
+    "image": "img/chow_mi_fen.jpg",
+    "url": "https://umamicraft.vercel.app/receta/chow-mi-fen-china",
     "published": "2026-10-30",
     "story": "Los finos fideos de arroz salteados (vermicelli) completaban la trilogía infaltable de aquel rincón de San Telmo. Livianos, aireados, casi translúcidos, con la capacidad única de atrapar toda la sazón del wok sin volverse pesados. Cada porción que salía por el pasaplatos salía humeante, salpicada con hebras finas de vegetales crocantes y tiras de huevo dorado.",
     "ingredient_groups": [
