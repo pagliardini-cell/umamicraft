@@ -1,5 +1,5 @@
-// Service Worker de UmamiCraft (PWA v3.0 con soporte offline y navegacin Network-First)
-const CACHE_NAME = 'umamicraft-v3.0';
+// Service Worker de UmamiCraft (PWA v3.1 con soporte offline y caché renovada)
+const CACHE_NAME = 'umamicraft-v3.1';
 const STATIC_ASSETS = [
   '/',
   '/index.html',
