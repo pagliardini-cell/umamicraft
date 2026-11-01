@@ -30231,5 +30231,501 @@
       "Si te sobra, guardala en un frasco de vidrio hermético con un sobrecito de gel de sílice para protegerla de la humedad."
     ],
     "notes": "El choque de calor suave deshidrata los azúcares y almidones naturales del alga, mientras que el aceite de sésamo tostado actúa como vehículo conductor que dora la superficie uniformemente. Es el secreto que popularizó el programa coreano Culinary War: un bocado que demuestra cómo tres ingredientes simples y precisión de fuego crean una textura inolvidable."
+  },
+  {
+    "id": 403,
+    "title": "Sánguche de Milanesa Tucumano (Argentina)",
+    "country": "Argentina",
+    "category": "Sándwiches / Burgers",
+    "tags": [
+      "Argentina",
+      "Tucumán",
+      "Sánguche",
+      "Milanesa",
+      "Street Food",
+      "Carnes"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "15 min",
+    "rest_time": "1 h (marinado de la carne)",
+    "temperature": "180 °C (fritura en aceite)",
+    "servings": "4 porciones (4 sánguches gigantes)",
+    "calories": "780 kcal por sánguche completo",
+    "diet_badges": [
+      "Alto en Proteína"
+    ],
+    "story": "En San Miguel de Tucumán el sánguche de milanesa no es una comida rápida: es un culto popular, una devoción con monumento propio (la famosa escultura de Chacho Leguizamón) y hasta su propia Fiesta Nacional cada mes de marzo. Todo tucumano sabe que el verdadero sánguche no se parece a ninguno del resto del país: la carne (nalga o bola de lomo cortada finísima como una hoja) se marina con ajo, perejil y jugo de limón; se empana con pan rallado fino aplastándola con fuerza para que quede tiernísima; se fríe en aceite bien caliente y se apilan hasta tres capas de milanesas finas en un pan sanguchero único —cruza de figaza y pebete, con corteza blanda que se calienta en la tostadora o plancha sin llegar a ponerse dura—. La arquitectura del sánguche se completa con una lluvia de lechuga cortada finita como cabello de ángel, rodajas ultrafinas de tomate, mayonesa casera emulsionada al momento, una gota de mostaza y la indispensable salsa \"milagrosa\" (ají picante, cebollita y vinagre) que corona esta gloria norteña servida con gaseosa bien fría.",
+    "ingredient_groups": [
+      {
+        "name": "Para las milanesas tucumanas",
+        "items": [
+          "800 g de nalga o bola de lomo de ternera (cortada ultrafina en bifes parejos)",
+          "3 huevos de campo",
+          "2 dientes de ajo finamente picados",
+          "3 cucharadas de perejil fresco picado",
+          "1 cucharada de jugo de limón recién exprimido",
+          "Pan rallado fino c/n",
+          "Sal entrefina y pimienta negra molida a gusto",
+          "Aceite de girasol c/n (para freír a 180 °C)"
+        ]
+      },
+      {
+        "name": "Para el armado y salsas",
+        "items": [
+          "4 panes sangucheros tucumanos (o pebetes alargados de miga suave y corteza blanda)",
+          "1 planta de lechuga criolla o mantecosa (lavada, seca y cortada en juliana ultrafina tipo hilos)",
+          "2 tomates redondos maduros pero firmes (cortados en rodajas ultrafinas)",
+          "4 cucharadas colmadas de mayonesa casera (aligerada con una cucharadita de agua tibia)",
+          "2 cucharaditas de mostaza clásica",
+          "2 cucharadas de salsa criolla picante tucumana (ají locoto o ají molido picante, vinagre de alcohol, sal y cebollita de verdeo)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Marinado y empanado",
+        "steps": [
+          "Colocar los bifes entre dos hojas de papel film y aplastarlos suavemente con la maza para dejarlos de 2 a 3 milímetros de espesor uniforme.",
+          "Batir los huevos con el ajo picado, el perejil, el jugo de limón, sal y pimienta. Sumergir la carne y dejar marinar en la heladera al menos 1 hora para tiernizar y absorber los aromas.",
+          "Pasar cada bife por pan rallado fino, presionando firmemente con las palmas de las manos para lograr un empanado seco y adherido. No requiere doble apanado."
+        ]
+      },
+      {
+        "name": "Fritura y tostado",
+        "steps": [
+          "Calentar abundante aceite a 180 °C en sartén amplia. Freír las milanesas durante 1 minuto y medio por lado hasta obtener un dorado claro y parejo. Escurrir inmediatamente sobre papel absorbente.",
+          "Abrir los panes al medio sin separar las tapas por completo. Calentarlos en la plancha o tostadora unos segundos para entibiar la miga sin tostar en exceso la corteza blanda."
+        ]
+      },
+      {
+        "name": "Ensamblado al estilo sanguchería",
+        "steps": [
+          "Untar ambas tapas del pan tibio con la mayonesa y un toque sutil de mostaza.",
+          "Disponer en la base dos o tres capas de milanesa caliente recién frita (cortada a la medida del pan).",
+          "Cubrir con una generosa montaña de lechuga cortada en juliana finita y las rodajas de tomate bien delgadas.",
+          "Agregar por encima unas gotas de la salsa criolla picante tucumana, cerrar el sánguche presionando con la palma para unir los sabores, cortar al bies por la mitad y servir de inmediato."
+        ]
+      }
+    ],
+    "notes": "Consejo sanguchero: El corte de la verdura es fundamental: la lechuga jamás va en hojas enteras sino finita en 'chifonada', y el tomate en láminas casi transparentes para que no humedezca el pan ni se desarme al morder.",
+    "image": "img/sanguche_milanesa_tucumano.jpg",
+    "url": "https://recarg.blogspot.com/2026/10/sanguche-de-milanesa-tucumano-argentina.html",
+    "original_title": "Sánguche de Milanesa Tucumano (Argentina)",
+    "published": "2026-10-31T23:30:00.000-03:00"
+  },
+  {
+    "id": 404,
+    "title": "Fugazzeta Rellena Porteña (Argentina)",
+    "country": "Argentina",
+    "category": "Pizzas / Tartas / Masas",
+    "tags": [
+      "Argentina",
+      "Buenos Aires",
+      "CABA",
+      "Pizza",
+      "Muzzarella",
+      "Queso",
+      "Bodegón"
+    ],
+    "prep_time": "40 min",
+    "cook_time": "25 min",
+    "rest_time": "2 h (fermentación de la masa)",
+    "temperature": "250 °C (horno bien fuerte)",
+    "servings": "6 a 8 porciones (1 pizza grande de molde)",
+    "calories": "620 kcal por porción",
+    "diet_badges": [
+      "Vegetariano"
+    ],
+    "story": "La fugazzeta rellena es un invento 100% porteño nacido en el barrio genovés de La Boca en 1932, de la mano de Juan Banchero (hijo de Agustín Banchero, panadero de Génova). Mientras en Italia la fugassa es una simple masa de pan aceitada con cebolla, Banchero tuvo la genial idea de abrirla al medio, rellenarla con una cantidad descomunal de queso muzzarella y sellarla con una segunda capa de masa, coronándola con cebollas cortadas en pluma maceradas en aceite y orégano. La creación cautivó a los parroquianos boquenses, a los hinchas de la Bombonera y rápidamente se esparció por las míticas pizzerías de la Avenida Corrientes como El Cuartito y Los Inmortales. El secreto de su consagración reside en el contraste: una base crujiente y esponjosa de molde, un corazón lácteo ardiente y fluido que se desborda en cascada al primer corte de la pala pizzera, y una cubierta tostada de cebolla dulce y queso provolone gratinado.",
+    "ingredient_groups": [
+      {
+        "name": "Para la masa de molde (2 bollos)",
+        "items": [
+          "500 g de harina de trigo 000",
+          "320 ml de agua tibia",
+          "15 g de levadura fresca (o 5 g de levadura seca)",
+          "10 g de sal fina",
+          "2 cucharadas de aceite de oliva virgen extra"
+        ]
+      },
+      {
+        "name": "Para el relleno fundente",
+        "items": [
+          "700 g de queso muzzarella de barra (cortada en dados o fetas gruesas)",
+          "100 g de queso cuartirolo o cremoso criollo (para máxima fluidez)"
+        ]
+      },
+      {
+        "name": "Para la cubierta de cebolla y gratinado",
+        "items": [
+          "3 cebollas grandes (aprox. 700 g, cortadas en pluma finas)",
+          "100 g de queso provolone rallado grueso",
+          "4 cucharadas de aceite de oliva virgen extra",
+          "1 cucharada de orégano seco",
+          "Sal entrefina y pimienta negra recién molida a gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Amasado y leudado",
+        "steps": [
+          "Disolver la levadura en el agua tibia. En un bol grande, mezclar la harina con la sal por los bordes, volcar el agua en el centro con el aceite de oliva e integrar hasta formar una masa suave y elástica. Amasar 8 minutos.",
+          "Dividir la masa en dos bollos: uno mayor de unos 500 g (para la base) y otro menor de unos 330 g (para la tapa). Tapar con lienzo húmedo y dejar leudar al doble de su volumen (aprox. 1 hora y media a temperatura ambiente)."
+        ]
+      },
+      {
+        "name": "Maceración de la cebolla",
+        "steps": [
+          "Cortar las cebollas en pluma finas, colocarlas en un bol con 1 cucharadita de sal fina, el aceite de oliva, orégano y pimienta. Mezclar apretando suavemente con las manos y dejar macerar 20 minutos para que suelten agua y se vuelvan tiernas y dulces."
+        ]
+      },
+      {
+        "name": "Armado en molde pizzero",
+        "steps": [
+          "Aceitar generosamente una pizzera de chapa redonda de 34-36 cm. Estirar el bollo mayor con las manos aceitadas cubriendo toda la base y subiendo 2 cm por los bordes.",
+          "Distribuir en el interior la totalidad de la muzzarella mezclada con el queso cremoso en una capa uniforme y compacta.",
+          "Estirar el bollo menor bien fino, cubrir el queso y unir los bordes pellizcando y doblando la masa hacia adentro en un repulgue plano para que el queso quede herméticamente atrapado.",
+          "Pinchar la masa superior con un tenedor en 4 o 5 puntos para que escape el vapor durante la cocción.",
+          "Cubrir la superficie con toda la cebolla macerada bien escurrida y espolvorear por encima con el queso provolone rallado y un chorrito de oliva."
+        ]
+      },
+      {
+        "name": "Horneado bien fuerte",
+        "steps": [
+          "Llevar al piso del horno precalentado a máxima temperatura (250 °C) durante 15 minutos para que la base quede bien crocante y dorada.",
+          "Subir a la parte media/alta del horno otros 8 a 10 minutos hasta que la cebolla se dore con bordes tostados y el queso interior hierva burbujeante. Servir caliente cortada en 8 porciones."
+        ]
+      }
+    ],
+    "notes": "Secreto de maestro pizzero: Escurrir bien las cebollas antes de colocarlas para que el exceso de líquido no ablande la masa superior, y asegurarse de sellar el repulgue para evitar fugas del queso.",
+    "image": "img/fugazzeta_rellena_portena.jpg",
+    "url": "https://recarg.blogspot.com/2026/10/fugazzeta-rellena-portena-argentina.html",
+    "original_title": "Fugazzeta Rellena Porteña (Argentina)",
+    "published": "2026-10-31T23:31:00.000-03:00"
+  },
+  {
+    "id": 405,
+    "title": "Mbaipy Correntino de Pollo (Argentina)",
+    "country": "Argentina",
+    "category": "Guisos & Platos de Olla",
+    "tags": [
+      "Argentina",
+      "Corrientes",
+      "Litoral",
+      "Guiso",
+      "Pollo",
+      "Harina de Maíz",
+      "Queso Criollo"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "40 min",
+    "rest_time": "5 min (reposo antes de servir)",
+    "temperature": "Cocción a fuego medio-bajo",
+    "servings": "6 porciones generosas",
+    "calories": "520 kcal por porción",
+    "diet_badges": [
+      "Sin TACC / Libre de Gluten (usando harina certificada)",
+      "Alto en Proteína"
+    ],
+    "story": "El mbaipy (voz guaraní que alude a una mezcla espesa y sustanciosa) es el plato identitario por excelencia de la provincia de Corrientes, infaltable en el chamamé, las fiestas del Santo Patrono San Baltasar y las reuniones familiares del campo litoraleño. A diferencia de la polenta tradicional que se cocina vertiendo la sémola en agua hirviendo, la magia del mbaipy reside en la técnica ancestral de tostar primero la harina de maíz criolla amarilla en grasa caliente junto con el sofrito de cebollas, pimientos y carne de pollo de campo doradita. Luego se hidrata gradualmente con caldo hirviendo hasta lograr una crema densa, suave y untuosa, que al final de la cocción se corona con cubos generosos de queso criollo o cáscara colorada que se derriten lentamente, creando hebras elásticas al levantar la cuchara de madera sobre la cazuela de barro.",
+    "ingredient_groups": [
+      {
+        "name": "Para la base de pollo y sofrito",
+        "items": [
+          "1 kg de pollo de campo (pechuga y pata-muslo sin piel, cortado en presas o cubos medianos)",
+          "3 cucharadas de grasa vacuna criolla derretida (o aceite de girasol)",
+          "2 cebollas medianas picadas en cubitos chicos",
+          "1 morrón rojo picado fino",
+          "3 dientes de ajo picados",
+          "3 tallos de cebolla de verdeo (parte blanca picada para el sofrito, hojas verdes reservadas)"
+        ]
+      },
+      {
+        "name": "Para el ligue de maíz y caldo",
+        "items": [
+          "300 g de harina de maíz criolla amarilla (no instantánea)",
+          "1,5 litros de caldo casero de pollo o verduras bien caliente",
+          "1 cucharada de pimentón dulce",
+          "1/2 cucharadita de comino molido",
+          "Sal gruesa y pimienta blanca molida a gusto"
+        ]
+      },
+      {
+        "name": "Para el queso fundente y terminación",
+        "items": [
+          "350 g de queso criollo correntino (o queso cuartirolo/pategrás blando) cortado en cubos medianos",
+          "Hojas verdes de la cebolla de verdeo picadas bien finas"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Dorado del pollo y sofrito",
+        "steps": [
+          "En una olla de hierro o cacerola de fondo grueso, calentar la grasa criolla a fuego medio-alto. Dorar los trozos de pollo hasta que tomen un color dorado parejo por todos sus lados (unos 8 minutos). Salpimentar.",
+          "Incorporar a la olla la cebolla, el morrón, el ajo y la parte blanca del verdeo. Rehogar todo junto raspando los jugos del fondo con cuchara de madera hasta que las verduras queden tiernas y transparentes."
+        ]
+      },
+      {
+        "name": "Tostado de la harina y cocción",
+        "steps": [
+          "Espolvorear la harina de maíz en lluvia directa sobre el sofrito y el pollo. Mezclar de inmediato revolviendo continuamente durante 2 a 3 minutos para tostar la harina con los jugos grasos y despertar su sabor a grano seco.",
+          "Comenzar a verter el caldo hirviendo en tandas, batiendo enérgicamente con batidor o cuchara de madera para que no se formen grumos.",
+          "Bajar el fuego al mínimo y cocinar semitapado durante 25 a 30 minutos, revolviendo con frecuencia desde el fondo para que no se pegue, hasta que espese y adquiera una consistencia cremosa y homogénea.",
+          "Condimentar con el pimentón dulce, comino, y rectificar de sal y pimienta."
+        ]
+      },
+      {
+        "name": "Fundido del queso y presentación",
+        "steps": [
+          "Apagar el fuego, incorporar inmediatamente los cubos de queso criollo y mezclar suavemente solo dos vueltas para que comience a fundirse sin desarmarse por completo.",
+          "Tapar y dejar reposar 5 minutos. Servir en cazuelas de barro humeantes espolvoreando por encima con la parte verde de la cebolla de verdeo fresca recién picada."
+        ]
+      }
+    ],
+    "notes": "Secreto litoraleño: Si te gusta más líquido para tomar con cuchara sopera, podés sumar 200 ml más de caldo caliente al final; si lo preferís consistente para apoyar con tenedor y pan de campo, mantené la proporción exacta indicada.",
+    "image": "img/mbaipy_correntino.jpg",
+    "url": "https://recarg.blogspot.com/2026/10/mbaipy-correntino-pollo-argentina.html",
+    "original_title": "Mbaipy Correntino de Pollo (Argentina)",
+    "published": "2026-10-31T23:32:00.000-03:00"
+  },
+  {
+    "id": 406,
+    "title": "Tomaticán Mendocino (Argentina)",
+    "country": "Argentina",
+    "category": "Guisos & Platos de Olla",
+    "tags": [
+      "Argentina",
+      "Mendoza",
+      "Cuyo",
+      "Tomate",
+      "Carne",
+      "Guiso",
+      "Tradicional"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "25 min",
+    "rest_time": "3 min",
+    "temperature": "Cocción a fuego medio",
+    "servings": "4 porciones",
+    "calories": "460 kcal por porción",
+    "diet_badges": [
+      "Alto en Proteína",
+      "Bajo en Carbohidratos"
+    ],
+    "story": "El tomaticán es una de las preparaciones criollas más queridas y antiguas de la región de Cuyo, con raíces coloniales documentadas desde la época de los arrieros que cruzaban la cordillera de los Andes. En Mendoza, tierra del sol y del buen vino, los veranos generosos colman las huertas de tomates perita perfumados y dulces. Las familias cuyanas crearon esta receta sencilla pero magistral para aprovechar la abundancia del tomate: se doran trocitos de carne tierna vacuna en grasa con abundantes cebollas rehogadas pacientemente; se vuelcan los tomates maduros pelados picados a mano que se deshacen en una salsa densa y natural sazonada con orégano silvestre de la montaña; y finalmente se incorporan huevos de campo que se baten apenas sobre la sartén caliente, ligando la salsa en un jugo aterciopelado que pide a gritos pan de campo crocante y una copa de Malbec.",
+    "ingredient_groups": [
+      {
+        "name": "Para la base de carne y vegetales",
+        "items": [
+          "500 g de lomo, bola de lomo o nalga vacuna (cortada en tiras finas o dados chicos)",
+          "1 kg de tomates perita bien maduros (escalfados, pelados y picados en cubos con su jugo)",
+          "2 cebollas grandes (cortadas en juliana fina)",
+          "2 dientes de ajo finamente picados",
+          "2 cucharadas de grasa vacuna o aceite de oliva",
+          "1 cucharadita colmada de orégano silvestre",
+          "1/2 cucharadita de ají molido dulce o picante a gusto",
+          "Sal y pimienta negra recién molida a gusto"
+        ]
+      },
+      {
+        "name": "Para el ligue y terminación",
+        "items": [
+          "4 huevos frescos de campo",
+          "2 cucharadas de perejil fresco picado",
+          "Pan criollo de campo o galletas de campo para acompañar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Sellado de carne y sofrito",
+        "steps": [
+          "En una sartén grande de hierro o cacerola amplia, calentar la grasa o aceite a fuego fuerte. Sellar las tiras de carne durante 3 a 4 minutos hasta que doren ligeramente sin secarse. Retirar y reservar.",
+          "En la misma sartén con los jugos de la carne, bajar a fuego medio y agregar las cebollas en juliana y el ajo. Cocinar despacio durante 8 a 10 minutos revolviendo hasta que la cebolla esté blanda, transparente y levemente caramelizada."
+        ]
+      },
+      {
+        "name": "Cocción del tomate",
+        "steps": [
+          "Reincorporar la carne reservada a la sartén y volcar los tomates picados con todo su jugo.",
+          "Condimentar con el orégano silvestre, ají molido, sal y pimienta. Bajar el fuego a medio-bajo y cocinar destapado durante 15 minutos, aplastando los trozos de tomate con la cuchara de madera, hasta lograr una salsa espesa y brillante."
+        ]
+      },
+      {
+        "name": "Ligue con huevo y servicio",
+        "steps": [
+          "Batir ligeramente los huevos en un bol solo para romper la liga (sin espumar).",
+          "Verter los huevos en forma de hilo sobre el guiso hirviendo suavemente y revolver con movimientos envolventes con la cuchara de madera durante 1 a 2 minutos, hasta que el huevo cuaje en hebras suaves y cremosas que unan la salsa sin llegar a secarse.",
+          "Retirar inmediatamente del fuego, espolvorear con el perejil fresco y servir de inmediato en platos hondos con abundante pan de campo."
+        ]
+      }
+    ],
+    "notes": "Consejo cuyano: Para pelar los tomates en segundos, hacerles una cruz en la base con cuchillo, sumergirlos 30 segundos en agua hirviendo y pasarlos por agua helada; la piel saldrá entera.",
+    "image": "img/tomatican_mendocino.jpg",
+    "url": "https://recarg.blogspot.com/2026/10/tomatican-mendocino-cuyo-argentina.html",
+    "original_title": "Tomaticán Mendocino (Argentina)",
+    "published": "2026-10-31T23:33:00.000-03:00"
+  },
+  {
+    "id": 407,
+    "title": "Reviro Misionero con Huevo Frito (Argentina)",
+    "country": "Argentina",
+    "category": "Desayunos / Meriendas / Criollo",
+    "tags": [
+      "Argentina",
+      "Misiones",
+      "Litoral",
+      "Reviro",
+      "Tareferos",
+      "Huevos",
+      "Tradicional"
+    ],
+    "prep_time": "10 min",
+    "cook_time": "20 min",
+    "rest_time": "2 min",
+    "temperature": "Cocción en olla de hierro a fuego medio",
+    "servings": "4 porciones",
+    "calories": "410 kcal por porción",
+    "diet_badges": [
+      "Económico",
+      "Vegetariano"
+    ],
+    "story": "En la tierra colorada de Misiones, el reviro es mucho más que un plato: es el combustible histórico del tarefero, el trabajador cosechador de la yerba mate que se adentra en la selva desde la madrugada. La leyenda cuenta que nació en los campamentos yerbateros ante la falta de pan fresco: con solo harina de trigo, agua, sal y grasa caliente en una olla de hierro negra de tres patas, los pioneros mezclaban un bollo rústico que, a medida que se freía sobre las brasas, era golpeado y desmenuzado con la cuchara de madera en un repiqueteo inconfundible. El resultado es mágico: miles de pequeños copos dorados y crujientes por fuera, pero tiernos y vaporosos por dentro. Coronarlo con un huevo frito de campo cuya yema líquida baña los copos de reviro, acompañado por un mate amargo caliente, es el desayuno criollo definitivo de la Mesopotamia argentina.",
+    "ingredient_groups": [
+      {
+        "name": "Para el reviro tradicional",
+        "items": [
+          "500 g de harina de trigo 000",
+          "250 ml de agua tibia (aprox. 1 taza)",
+          "1 cucharada colmada de sal gruesa (disuelta en el agua tibia para hacer salmuera)",
+          "4 a 5 cucharadas de grasa vacuna o de cerdo derretida (aprox. 80 g)"
+        ]
+      },
+      {
+        "name": "Para la coronación",
+        "items": [
+          "4 huevos de campo frescos",
+          "Grasa o aceite para freír los huevos a punto babé",
+          "Pimienta negra molida o ají molido suave a gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación de la masa",
+        "steps": [
+          "Disolver bien la sal gruesa en el agua tibia para obtener una salmuera pareja.",
+          "En un bol, colocar la harina en forma de corona e incorporar la salmuera gradualmente, uniendo con las manos hasta formar un bollo rústico, blando pero no pegajoso. No requiere amasado prolongado, solo integrar."
+        ]
+      },
+      {
+        "name": "Cocción y repiqueteo en olla de hierro",
+        "steps": [
+          "En una olla de hierro o sartén de paredes altas y fondo grueso, calentar la grasa a fuego medio hasta que esté bien caliente pero sin humear.",
+          "Colocar el bollo entero de masa en el centro de la olla. Dejar dorar la base durante 2 minutos hasta que forme costra dorada.",
+          "Dar vuelta el bollo y, con el canto de una cuchara de madera resistente o espátula de hierro, comenzar a golpearlo y cortarlo enérgicamente en trozos pequeños.",
+          "Continuar revolviendo y golpeando rítmicamente contra el fondo y las paredes de la olla durante unos 12 a 15 minutos. A medida que la masa se cocina y absorbe la grasa, se desgranará en copos crocantes, tostados e irregulares con aroma a pan recién horneado."
+        ]
+      },
+      {
+        "name": "Fritura de huevos y servicio",
+        "steps": [
+          "En una sartencita aparte, freír los huevos en grasa o aceite caliente dejando la yema tierna y la clara con bordes dorados (puntilla).",
+          "Servir una montaña generosa de reviro caliente y humeante en platos o cazuelas, colocar el huevo frito por encima y servir de inmediato junto a un mate cocido o mate cebado."
+        ]
+      }
+    ],
+    "notes": "Técnica del reviro: El secreto está en la olla de hierro caliente y el picado constante con la cuchara; cuanto más se golpea la masa durante la fritura, más sueltos, livianos y crocantes quedan los granos.",
+    "image": "img/reviro_misionero.jpg",
+    "url": "https://recarg.blogspot.com/2026/10/reviro-misionero-huevo-frito-argentina.html",
+    "original_title": "Reviro Misionero con Huevo Frito (Argentina)",
+    "published": "2026-10-31T23:34:00.000-03:00"
+  },
+  {
+    "id": 408,
+    "title": "Torta Negra Galesa de Gaiman - Cacen Ddu (Chubut, Argentina)",
+    "country": "Argentina",
+    "category": "Postres & Panadería Dulce",
+    "tags": [
+      "Argentina",
+      "Chubut",
+      "Patagonia",
+      "Galesa",
+      "Torta",
+      "Postres",
+      "Tradicional"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "1 h 30 min",
+    "rest_time": "24 h (maceración previa) y 48 h (maduración poshorneado)",
+    "temperature": "150 °C (horno bajo y parejo)",
+    "servings": "12 a 14 porciones generosas",
+    "calories": "390 kcal por porción",
+    "diet_badges": [
+      "Vegetariano",
+      "Larga Conservación"
+    ],
+    "story": "La mítica Torta Negra Galesa (o Cacen Ddu en lengua galesa) no nació en Gales, sino en las costas inhóspitas y áridas de la Patagonia argentina. En 1865, los 153 colonos galeses llegaron al Golfo Nuevo a bordo del velero Mimosa. Frente a la crudeza del clima patagónico y la escasez de alimentos frescos, las mujeres galesas combinaron lo poco que tenían en sus despensas: harina, azúcar negra, manteca, frutos secos, especias aromáticas (canela, clavo de olor, nuez moscada) y abundante licor o ron para macerar las pasas. Crearon así una torta densa, fragante y oscura como el ébano, sin levadura ni conservantes artificiales, que tenía la asombrosa propiedad de madurar con el tiempo y conservarse intacta durante meses (e incluso años) en latas cerradas. Hasta hoy, en las tradicionales casas de té de Gaiman y Trevelin, la torta se sirve en rebanadas finas junto al té galés, custodiando más de 150 años de historia y fraternidad en el Valle del Chubut.",
+    "ingredient_groups": [
+      {
+        "name": "Para la maceración de frutas (24 h antes)",
+        "items": [
+          "250 g de pasas de uva negras sin semilla",
+          "150 g de pasas de uva rubias",
+          "100 g de frutas abrillantadas o confitadas finamente picadas",
+          "150 ml de ron oscuro, coñac o té negro concentrado especiado"
+        ]
+      },
+      {
+        "name": "Para la masa aromática galesa",
+        "items": [
+          "200 g de manteca a temperatura ambiente",
+          "200 g de azúcar negra (o mascabado)",
+          "4 huevos de campo a temperatura ambiente",
+          "350 g de harina de trigo 0000",
+          "1 cucharadita de polvo para hornear",
+          "1 cucharadita de canela molida",
+          "1/2 cucharadita de nuez moscada rallada",
+          "1/4 cucharadita de clavo de olor en polvo",
+          "1 cucharada de esencia de vainilla natural",
+          "Ralladura fina de 1 limón y 1 naranja",
+          "100 g de nueces picadas gruesas"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Maceración prolongada",
+        "steps": [
+          "El día anterior, colocar en un frasco o bol hermético las pasas negras, pasas rubias y frutas abrillantadas. Bañar con el ron oscuro o coñac, tapar y dejar macerar al menos 24 horas a temperatura ambiente agitando de tanto en tanto."
+        ]
+      },
+      {
+        "name": "Batido y armado de la masa",
+        "steps": [
+          "En un bol amplio, batir la manteca blanda con el azúcar negra durante 5 a 6 minutos hasta lograr una crema homogénea y bien aireada.",
+          "Incorporar los huevos de a uno, batiendo bien después de cada adición para que la emulsión no se corte. Agregar la esencia de vainilla y las ralladuras de cítricos.",
+          "Tamizar juntos la harina, el polvo de hornear y la mezcla de especias (canela, nuez moscada y clavo de olor).",
+          "Incorporar los secos tamizados a la crema en dos tandas con movimientos envolventes con espátula.",
+          "Por último, escurrir apenas las frutas maceradas (reservando cualquier jugo excedente) e integrarlas a la masa junto con las nueces picadas hasta lograr una mezcla espesa y colmada de frutos."
+        ]
+      },
+      {
+        "name": "Horneado lento y maduración",
+        "steps": [
+          "Enmantecar y enharinar un molde de budín inglés de 26 cm (o forrar con papel manteca enmantecado). Volcar la masa y alisar la superficie.",
+          "Llevar a horno precalentado a 150 °C (fuego bajo) durante 1 hora y 20 a 1 hora y 30 minutos, hasta que al insertar un palillo en el centro salga limpio y seco.",
+          "Retirar del horno, pincelar la superficie caliente con unas gotas del ron de la maceración y dejar enfriar completamente en el molde.",
+          "Desmoldar, envolver en papel manteca o film y guardar en una lata hermética en lugar fresco y oscuro durante al menos 48 horas antes de consumir para que los sabores de las especias y licores se amalgamen a la perfección."
+        ]
+      }
+    ],
+    "notes": "Secreto patagónico: Esta torta no se come recién horneada: su verdadero sabor se despierta a partir del tercer día y puede conservarse meses manteniéndose increíblemente húmeda y fragante.",
+    "image": "img/torta_negra_galesa.jpg",
+    "url": "https://recarg.blogspot.com/2026/10/torta-negra-galesa-gaiman-chubut-argentina.html",
+    "original_title": "Torta Negra Galesa de Gaiman - Cacen Ddu (Chubut, Argentina)",
+    "published": "2026-10-31T23:35:00.000-03:00"
   }
 ]

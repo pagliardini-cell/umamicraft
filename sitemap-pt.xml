@@ -2418,4 +2418,40 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://umamicraft.vercel.app/receta/sanguche-de-milanesa-tucumano-argentina?lang=pt</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://umamicraft.vercel.app/receta/fugazzeta-rellena-portena-argentina?lang=pt</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://umamicraft.vercel.app/receta/mbaipy-correntino-de-pollo-argentina?lang=pt</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://umamicraft.vercel.app/receta/tomatican-mendocino-argentina?lang=pt</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://umamicraft.vercel.app/receta/reviro-misionero-con-huevo-frito-argentina?lang=pt</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://umamicraft.vercel.app/receta/torta-negra-galesa-de-gaiman-cacen-ddu-chubut-argentina?lang=pt</loc>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
