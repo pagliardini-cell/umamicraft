@@ -30727,5 +30727,1359 @@
     "url": "https://recarg.blogspot.com/2026/10/torta-negra-galesa-gaiman-chubut-argentina.html",
     "original_title": "Torta Negra Galesa de Gaiman - Cacen Ddu (Chubut, Argentina)",
     "published": "2026-10-31T23:35:00.000-03:00"
+  },
+  {
+    "id": 409,
+    "title": "Picante de Pollo Jujeño (Jujuy, Argentina)",
+    "country": "Argentina",
+    "category": "Guisos & Platos de Olla",
+    "tags": [
+      "Argentina",
+      "Jujuy",
+      "NOA",
+      "Pollo",
+      "Guiso",
+      "Ají",
+      "Andino",
+      "Tradicional"
+    ],
+    "prep_time": "25 min",
+    "cook_time": "45 min",
+    "rest_time": "5 min",
+    "temperature": "Cocción a fuego medio-bajo",
+    "servings": "6 porciones",
+    "calories": "510 kcal por porción",
+    "diet_badges": [
+      "Alto en Proteína",
+      "Sin Lácteos"
+    ],
+    "story": "En los pueblos de la Quebrada de Humahuaca y la Puna jujeña, el 'picante' es el rey de los banquetes familiares y las celebraciones de la Pachamama. Este guisado prehispánico andino fusiona la ternura de la presa de pollo de campo doradita con una salsa densa y profundamente aromática elaborada con ají mirasol (ají amarillo deshidratado al sol andino) despepitado, hervido y licuado hasta formar una pasta roja brillante sin acidez. Se acompaña tradicionalmente con chuño (papa deshidratada por la helada puneña rehidratada y hervida), papines andinos y arroz graneado suelto, logrando un equilibrio mágico entre el picor amable que calienta el cuerpo en las noches frías y la sutileza de las hierbas de altura.",
+    "ingredient_groups": [
+      {
+        "name": "Para el pollo y sofrito quebradeño",
+        "items": [
+          "1 pollo de campo trozado en 8 presas (con hueso, sin exceso de piel)",
+          "3 cucharadas de grasa vacuna criolla derretida",
+          "2 cebollas medianas picadas en cubitos chicos",
+          "1 zanahoria mediana rallada o en cubitos finos",
+          "3 dientes de ajo picados",
+          "1 taza de arvejas frescas cocidas"
+        ]
+      },
+      {
+        "name": "Para la pasta de ají y cocción",
+        "items": [
+          "4 ajíes mirasol secos (o pasta de ají amarillo criollo 3 cucharadas colmadas)",
+          "750 ml de caldo casero de verduras o pollo caliente",
+          "1 cucharadita de comino molido",
+          "1 cucharada de pimentón dulce",
+          "Sal entrefina y pimienta negra a gusto"
+        ]
+      },
+      {
+        "name": "Guarnición tradicional andina",
+        "items": [
+          "300 g de papines andinos o papas chicas hervidas con piel",
+          "150 g de chuño rehidratado y hervido (opcional según disponibilidad)",
+          "3 tazas de arroz blanco graneado cocido",
+          "Cebollita de verdeo y perejil fresco picado para terminar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación de la pasta de ají",
+        "steps": [
+          "Limpiar los ajíes secos retirando cabos y semillas. Hervirlos en agua durante 15 minutos para hidratar y suavizar su picor.",
+          "Escurrir y procesar con 1/2 taza del agua de cocción hasta obtener una pasta untuosa, brillante y homogénea."
+        ]
+      },
+      {
+        "name": "Dorado del pollo y estofado",
+        "steps": [
+          "En una olla de hierro o cazuela profunda, calentar la grasa criolla y dorar las presas de pollo salpimentadas por ambos lados. Retirar y reservar.",
+          "En la misma grasa rehogar la cebolla, el ajo y la zanahoria a fuego medio hasta transparentar.",
+          "Sumar la pasta de ají mirasol y sofreír durante 3 minutos revolviendo con cuchara de madera para despertar los aromas.",
+          "Reincorporar las presas de pollo, volcar el caldo caliente, comino y pimentón. Cocinar a fuego suave semitapado durante 30 a 35 minutos hasta que la salsa espese y el pollo esté sumamente tierno.",
+          "Agregar las arvejas frescas y los papines hervidos, cocinar 5 minutos más para integrar sabores y rectificar sal."
+        ]
+      },
+      {
+        "name": "Servicio jujeño",
+        "steps": [
+          "Servir en platos hondos de barro con una porción de arroz blanco graneado al costado y las presas bañadas con abundante salsa roja, espolvoreando con verdeo y perejil fresco."
+        ]
+      }
+    ],
+    "notes": "Secreto jujeño: Hervir previamente los ajíes secos y descartar la primera agua suaviza el picor ardiente, dejando únicamente el perfume frutal y el color rojo vivo característico.",
+    "image": "img/picante_de_pollo_jujeno.jpg",
+    "url": "https://recarg.blogspot.com/2026/10/picante-de-pollo-jujeno-argentina.html",
+    "original_title": "Picante de Pollo Jujeño (Jujuy, Argentina)",
+    "published": "2026-10-31T23:40:00.000-03:00"
+  },
+  {
+    "id": 410,
+    "title": "Empanadas Santiagueñas Auténticas (Santiago del Estero, Argentina)",
+    "country": "Argentina",
+    "category": "Pizzas / Tartas / Masas",
+    "tags": [
+      "Argentina",
+      "Santiago del Estero",
+      "NOA",
+      "Empanadas",
+      "Carne",
+      "Tradicional",
+      "Horno de Barro"
+    ],
+    "prep_time": "45 min",
+    "cook_time": "15 min",
+    "rest_time": "4 h (reposo del picadillo en frío)",
+    "temperature": "250 °C (horno bien caliente)",
+    "servings": "6 porciones (rinde 24 empanadas)",
+    "calories": "580 kcal por porción (4 empanadas)",
+    "diet_badges": [
+      "Sin Lácteos",
+      "Alto en Proteína"
+    ],
+    "story": "En la 'Madre de Ciudades', las empanadas santiagueñas tienen una personalidad inconfundible que las diferencia de las salteñas y tucumanas: su secreto supremo reside en el escalfado previo de la carne cortada a cuchillo en caldo hirviendo con grasa criolla, lo que garantiza que jamás queden secas. Se cocinan con abundante cebolla rehogada en grasa de pella, comino santiagueño silvestre y pimentón dulce. Al momento de armar las empanadas, el relleno frío se combina con huevos duros camperos picados y cebolla de verdeo cruda. Horneadas a fuego infernal en horno de barro con leña de quebracho o algarrobo, se inflan en pocos minutos con ampollas doradas y crujientes, liberando un torrente de jugo sabroso al primer mordisco.",
+    "ingredient_groups": [
+      {
+        "name": "Para la masa criolla santiagueña",
+        "items": [
+          "500 g de harina de trigo 000",
+          "100 g de grasa vacuna de pella derretida y tibia",
+          "200 ml de salmuera tibia (agua con 1 cucharada de sal gruesa disuelta)"
+        ]
+      },
+      {
+        "name": "Para el picadillo jugoso santiagueño",
+        "items": [
+          "1 kg de sobaco (aguja tierna), bola de lomo o nalga cortada a cuchillo en cubitos finos",
+          "750 g de cebolla blanca picada finamente",
+          "150 g de grasa vacuna de pella",
+          "1 taza de caldo hirviendo de carne casero",
+          "1 cucharada colmada de pimentón dulce",
+          "1 cucharadita de comino en grano recién molido",
+          "1/2 cucharadita de ají molido criollo",
+          "3 huevos duros picados",
+          "3 tallos de cebolla de verdeo picados finos (hojas verdes crudas)",
+          "Sal entrefina y pimienta a gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Elaboración de la masa",
+        "steps": [
+          "Hacer una corona con la harina, volcar la grasa derretida tibia en el centro e ir integrando con la salmuera hasta obtener una masa lisa, consistente y firme. Amasar 5 minutos.",
+          "Tapar y dejar descansar 30 minutos. Luego estirar con palote a 2 mm de espesor y cortar discos de 13 cm de diámetro."
+        ]
+      },
+      {
+        "name": "Preparación del recado santiagueño",
+        "steps": [
+          "Pasar la carne cortada a cuchillo por un colador sumergiéndola apenas 1 minuto en caldo hirviendo con grasa para sellarla y tiernizarla (técnica de escalfado santiagueña). Escurrir reservando el caldo.",
+          "En una olla amplia, derretir la grasa de pella y rehogar la cebolla picada con una pizca de sal a fuego medio hasta que esté transparente pero no dorada.",
+          "Incorporar la carne escalfada, el pimentón, comino molido, ají molido y una taza del caldo caliente reservado. Cocinar apenas 3 minutos, apagar el fuego y salpimentar.",
+          "Dejar enfriar a temperatura ambiente y luego llevar a la heladera al menos 4 horas (la grasa solidificará y retendrá todo el caldo)."
+        ]
+      },
+      {
+        "name": "Armado y horneado",
+        "steps": [
+          "Antes de rellenar, sumar al picadillo frío los huevos duros picados y la cebolla de verdeo fresca.",
+          "Colocar una cucharada colmada de relleno en el centro de cada disco, humedecer apenas los bordes con agua, cerrar expulsando el aire y hacer 13 repulgues bien firmes.",
+          "Disponer sobre placas limpias y hornear a 250 °C durante 10 a 12 minutos hasta que la masa esté dorada y ampollada. Servir bien calientes."
+        ]
+      }
+    ],
+    "notes": "Costumbre santiagueña: Para comer una verdadera empanada de Santiago del Estero hay que abrir las piernas hacia adelante para no mancharse con el jugo que brota inmediatamente al hincar el diente.",
+    "image": "img/empanadas_santiaguenas.jpg",
+    "url": "https://recarg.blogspot.com/2026/10/empanadas-santiaguenas-autenticas-argentina.html",
+    "original_title": "Empanadas Santiagueñas Auténticas (Santiago del Estero, Argentina)",
+    "published": "2026-10-31T23:41:00.000-03:00"
+  },
+  {
+    "id": 411,
+    "title": "Jigote Catamarqueño (Catamarca, Argentina)",
+    "country": "Argentina",
+    "category": "Guisos & Platos de Olla",
+    "tags": [
+      "Argentina",
+      "Catamarca",
+      "NOA",
+      "Jigote",
+      "Carne",
+      "Papas",
+      "Queso Criollo",
+      "Tradicional"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "35 min",
+    "rest_time": "5 min",
+    "temperature": "200 °C (horno medio-fuerte para gratinar)",
+    "servings": "6 porciones abundantes",
+    "calories": "590 kcal por porción",
+    "diet_badges": [
+      "Alto en Proteína",
+      "Sin TACC / Libre de Gluten"
+    ],
+    "story": "El jigote es el estandarte gastronómico indiscutido de Catamarca, particularmente de la ciudad de Belén, donde cada año se celebra la Fiesta Nacional del Jigote. Nacido como una ingeniosa reinterpretación criolla de las recetas de capas coloniales, este manjar campesino se arma intercalando estratos de carne vacuna picada o a cuchillo sofrita con cebolla y pimentón, rodajas finas de papas criollas hervidas, huevos duros desgranados, trocitos de pan casero o acelga según la casa familiar, y abundante queso criollo catamarqueño. Todo se hidrata con un caldo sabroso y se lleva al horno de barro o asadera de fundición hasta que el queso de la superficie se dora y se funde entre las capas, creando un bocado untuoso, suave y entrañable que reconforta el alma.",
+    "ingredient_groups": [
+      {
+        "name": "Para el picadillo de carne",
+        "items": [
+          "700 g de carne vacuna magra (nalga o roast beef) picada a cuchillo o molida gruesa",
+          "3 cebollas medianas picadas en cubitos finos",
+          "1 morrón rojo picado fino",
+          "3 cucharadas de grasa vacuna o aceite criollo",
+          "1 cucharada de pimentón dulce catamarqueño",
+          "1 cucharadita de comino molido",
+          "Sal y pimienta negra a gusto",
+          "200 ml de caldo de carne caliente"
+        ]
+      },
+      {
+        "name": "Para las capas de papa, huevo y queso",
+        "items": [
+          "800 g de papas medianas (peladas, hervidas al dente y cortadas en rodajas de 5 mm)",
+          "4 huevos duros picados",
+          "400 g de queso criollo catamarqueño (o queso cuartirolo/tybo de campo) cortado en fetas o cubos",
+          "3 tallos de cebolla de verdeo picados finos",
+          "Orégano seco y pimentón extra para espolvorear"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Cocción del picadillo",
+        "steps": [
+          "En una sartén grande, derretir la grasa criolla y sofreír la cebolla picada y el morrón hasta que estén bien tiernos y transparentes.",
+          "Agregar la carne, subir el fuego y cocinar removiendo hasta que cambie de color sin secarse. Condimentar con el pimentón dulce, comino, sal y pimienta.",
+          "Agregar el caldo caliente, cocinar 5 minutos a fuego suave para integrar los jugos y apagar el fuego. Debe quedar húmedo y con jugo sabroso."
+        ]
+      },
+      {
+        "name": "Armado por capas en cazuela",
+        "steps": [
+          "En una fuente térmica o cazuela grande de barro engrasada, disponer en la base una capa uniforme de rodajas de papa hervida.",
+          "Cubrir con la mitad del picadillo de carne con sus jugos, espolvorear con huevo duro picado y distribuir una capa de queso criollo.",
+          "Repetir colocando otra capa de papas, el resto de la carne, más huevo duro picado y cebolla de verdeo.",
+          "Coronar toda la superficie con abundante queso criollo, un toque de pimentón dulce y orégano."
+        ]
+      },
+      {
+        "name": "Gratinado y reposo",
+        "steps": [
+          "Llevar al horno precalentado a 200 °C durante 20 a 25 minutos, hasta que el queso burbujee vigorosamente y adquiera un atractivo gratinado dorado.",
+          "Retirar, dejar reposar 5 minutos para que asiente y servir cortando porciones cuadradas con espátula bien caliente."
+        ]
+      }
+    ],
+    "notes": "Variante de Belén: En algunas familias tradicionales de Belén se intercala una capa fina de hojas tiernas de acelga blanqueada entre las papas y la carne, aportando humedad y frescura vegetal al plato.",
+    "image": "img/jigote_catamarqueno.jpg",
+    "url": "https://recarg.blogspot.com/2026/10/jigote-catamarqueno-argentina.html",
+    "original_title": "Jigote Catamarqueño (Catamarca, Argentina)",
+    "published": "2026-10-31T23:42:00.000-03:00"
+  },
+  {
+    "id": 412,
+    "title": "Cabrito Riojano al Torrontés (La Rioja, Argentina)",
+    "country": "Argentina",
+    "category": "Carnes & Parrilla",
+    "tags": [
+      "Argentina",
+      "La Rioja",
+      "Cuyo",
+      "Cabrito",
+      "Torrontés",
+      "Vino",
+      "Horno",
+      "Tradicional"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "1 h 30 min",
+    "rest_time": "2 h (maceración previa)",
+    "temperature": "170 °C (cocción lenta al horno)",
+    "servings": "6 porciones",
+    "calories": "540 kcal por porción",
+    "diet_badges": [
+      "Sin Gluten / Sin TACC",
+      "Alto en Proteína"
+    ],
+    "story": "En los valles secos y soleados de La Rioja, el cabrito lechal criado con pastos serranos y jarilla es una de las mayores joyas cárnicas del país. La cocina riojana encontró su maridaje perfecto aunando esta carne magra y delicadísima con el vino emblema de la provincia: el Torrontés Riojano, cepa blanca de aromas florales cautivantes. La pieza de cabrito se macera con vino Torrontés, cabezas de ajo machacadas, romero silvestre y ají molido. Luego se hornea lentamente en fuente de barro bañándolo periódicamente en sus propios jugos reducidos, logrando una carne tan tierna que se desprende con la cuchara y una costra dorada irresistible, servido junto a papitas rústicas doradas al horno.",
+    "ingredient_groups": [
+      {
+        "name": "Para el cabrito y maceración",
+        "items": [
+          "2 kg de cabrito lechal trozado en piezas medianas (costillar, paleta y cuarto)",
+          "500 ml de vino blanco Torrontés riojano",
+          "6 dientes de ajo aplastados con su piel",
+          "3 ramitas de romero fresco",
+          "2 hojas de laurel",
+          "1 cucharada de ají molido riojano dulce",
+          "4 cucharadas de aceite de oliva virgen extra riojano",
+          "Sal gruesa y pimienta negra en grano machacada"
+        ]
+      },
+      {
+        "name": "Para la guarnición horneada",
+        "items": [
+          "1 kg de papas chicas cortadas al medio con piel bien lavada",
+          "2 cebollas moradas cortadas en cuartos",
+          "Aceite de oliva y pimentón para las papas"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Maceración aromática",
+        "steps": [
+          "Acomodar los trozos de cabrito en una fuente grande. Frotar la carne con la sal gruesa, pimienta y el ají molido.",
+          "Añadir los ajos machacados, las hierbas (romero y laurel), el aceite de oliva y bañar con todo el vino Torrontés riojano.",
+          "Tapar y dejar marinar en la heladera durante al menos 2 horas (o toda la noche) dándolo vuelta una vez."
+        ]
+      },
+      {
+        "name": "Horneado lento y glaseado",
+        "steps": [
+          "Precalentar el horno a 170 °C. Pasar el cabrito con todos los ajos y aromáticas a una asadera profunda de barro o hierro.",
+          "Acomodar alrededor las papas y cebollas en cuartos sazonadas con sal y oliva.",
+          "Cubrir con papel aluminio y hornear durante 1 hora. Luego retirar el papel, subir el horno a 200 °C y continuar la cocción otros 30 minutos.",
+          "Durante la última media hora, bañar la carne 3 o 4 veces con los jugos concentrados del fondo para lograr un glaseado dorado, crujiente y aromático."
+        ]
+      },
+      {
+        "name": "Presentación",
+        "steps": [
+          "Servir las piezas de cabrito doradas en la misma fuente rústica con las papas doraditas y una salsera con la reducción de Torrontés caliente, acompañado de pan criollo de campo."
+        ]
+      }
+    ],
+    "notes": "Maridaje riojano: Acompañar el plato en la mesa con una copa bien fría del mismo vino Torrontés utilizado en la cocción para resaltar las notas frutales y florales de la marinada.",
+    "image": "img/cabrito_riojano_torrontes.jpg",
+    "url": "https://recarg.blogspot.com/2026/10/cabrito-riojano-al-torrontes-argentina.html",
+    "original_title": "Cabrito Riojano al Torrontés (La Rioja, Argentina)",
+    "published": "2026-10-31T23:43:00.000-03:00"
+  },
+  {
+    "id": 413,
+    "title": "Pacú Frito con Mandioca (Chaco, Argentina)",
+    "country": "Argentina",
+    "category": "Pescados & Mariscos",
+    "tags": [
+      "Argentina",
+      "Chaco",
+      "NEA",
+      "Pescado",
+      "Pacú",
+      "Mandioca",
+      "Fritura",
+      "Río",
+      "Tradicional"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "15 min",
+    "rest_time": "10 min",
+    "temperature": "180 °C (fritura dorada)",
+    "servings": "4 porciones",
+    "calories": "520 kcal por porción",
+    "diet_badges": [
+      "Sin Gluten / Sin TACC (usando harina de maíz)",
+      "Alto en Proteína"
+    ],
+    "story": "En las costas chaqueñas bañadas por los ríos Paraná y Bermejo, el pacú es el pez más codiciado de la gastronomía fluvial. Su carne blanca, jugosa y de alto tenor graso natural lo hace perfecto para las famosas 'costillitas de pacú' o postas fritas. La tradición chaqueña manda marinar el pescado con abundante jugo de limón fresco, ajo picado y sal gruesa, rebozarlo en una mezcla liviana de harina de maíz o fécula de mandioca, y freírlo en grasa criolla o aceite bien caliente hasta lograr una cubierta crocante y dorada que encierra una carne mantecosa. La compañía obligatoria e insustituible son los bastones de mandioca chaqueña hervida y luego frita, tiernos por dentro como puré y crujientes por fuera.",
+    "ingredient_groups": [
+      {
+        "name": "Para el pacú crocante",
+        "items": [
+          "1,2 kg de pacú fresco trozado en costillitas o postas de 3 cm",
+          "Jugo recién exprimido de 2 limones",
+          "3 dientes de ajo picados fino",
+          "1 taza de harina de maíz fina o harina de trigo (o almidón de mandioca para versión sin TACC)",
+          "1 cucharadita de pimentón dulce",
+          "Sal entrefina y pimienta blanca a gusto",
+          "Aceite de girasol o grasa para freír c/n"
+        ]
+      },
+      {
+        "name": "Para las mandiocas fritas y gajos de limón",
+        "items": [
+          "800 g de raíz de mandioca fresca (pelada y cortada en bastones gruesos)",
+          "Sal gruesa para el agua de hervor",
+          "2 limones cortados en cuartos para exprimir al servir"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Cocción de la mandioca",
+        "steps": [
+          "Colocar los bastones de mandioca en una cacerola con abundante agua fría y sal gruesa. Llevar a hervor y cocinar durante 25 a 30 minutos hasta que estén tiernos al pincharlos con un tenedor.",
+          "Escurrir bien, retirar la fibra central leñosa si la hubiera y dejar enfriar sobre una rejilla para que sequen la superficie."
+        ]
+      },
+      {
+        "name": "Marinado y rebozado del pescado",
+        "steps": [
+          "Disponer las postas de pacú en un recipiente, rociar con el jugo de limón, el ajo picado, sal y pimienta. Dejar marinar 15 minutos.",
+          "Pasar cada presa escurrida por la harina de maíz sazonada con el pimentón, sacudiendo el exceso para que quede una película fina y pareja."
+        ]
+      },
+      {
+        "name": "Fritura perfecta",
+        "steps": [
+          "Calentar abundante aceite a 180 °C en una sartén profunda o paila.",
+          "Freír primero los bastones de mandioca hasta que adquieran un dorado crujiente y escurrir.",
+          "Luego, freír las piezas de pacú durante 4 a 5 minutos por lado hasta que estén profundamente doradas y crocantes.",
+          "Escurrir sobre papel absorbente y servir de inmediato en tabla rústica con gajos de limón fresco y salsa criolla."
+        ]
+      }
+    ],
+    "notes": "Consejo de pescador: El pacú posee grasa intramuscular natural muy noble; freírlo con fuego constante y seco permite que la piel quede crujiente y la carne extremadamente jugosa.",
+    "image": "img/pacu_frito_mandioca.jpg",
+    "url": "https://recarg.blogspot.com/2026/10/pacu-frito-con-mandioca-chaco-argentina.html",
+    "original_title": "Pacú Frito con Mandioca (Chaco, Argentina)",
+    "published": "2026-10-31T23:44:00.000-03:00"
+  },
+  {
+    "id": 414,
+    "title": "Bori Bori de Gallina (Formosa, Argentina)",
+    "country": "Argentina",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Argentina",
+      "Formosa",
+      "NEA",
+      "Sopa",
+      "Gallina",
+      "Vori Vori",
+      "Maíz",
+      "Queso Criollo"
+    ],
+    "prep_time": "25 min",
+    "cook_time": "50 min",
+    "rest_time": "5 min",
+    "temperature": "Hervor suave y parejo",
+    "servings": "6 porciones reconfortantes",
+    "calories": "480 kcal por porción",
+    "diet_badges": [
+      "Sin Gluten / Sin TACC",
+      "Alto en Proteína"
+    ],
+    "story": "En Formosa, tierra de confluencia fluvial y raíces compartidas con la cultura guaraní, el Bori Bori (o Vori Vori de gallina) es el plato por excelencia para reunir a la familia y celebrar los días frescos de invierno. Se trata de un caldo suculento y dorado donde se cocina lentamente una buena gallina o pollo de campo con hortalizas tiernas. Lo que vuelve único al bori bori son sus albóndigas artesanales (los vori): pequeñas esferas doradas modeladas a mano con harina de maíz criolla, abundante queso cáscara colorada rallado y caldo hirviendo de la misma olla. Al cocinarse flotando dentro del caldo durante los últimos minutos, las bolitas absorben todo el sabor del guiso mientras desprenden parte de su almidón, espesando la sopa hasta dejarla sedosa, caliente y profundamente nutritiva.",
+    "ingredient_groups": [
+      {
+        "name": "Para el caldo y las presas de gallina",
+        "items": [
+          "1 gallina o pollo de campo trozado en presas chicas",
+          "2 cebollas medianas picadas en cubitos",
+          "1 morrón rojo picado fino",
+          "2 zanahorias cortadas en rodajas",
+          "2 tallos de apio picados",
+          "2 hojas de laurel",
+          "1 cucharada de pimentón dulce",
+          "2,5 litros de agua o caldo casero",
+          "2 cucharadas de grasa o aceite criollo",
+          "Sal gruesa y pimienta blanca a gusto"
+        ]
+      },
+      {
+        "name": "Para los vori vori (bolitas de maíz y queso)",
+        "items": [
+          "300 g de harina de maíz criolla amarilla (no polenta instantánea)",
+          "200 g de queso criollo o cáscara colorada rallado fino",
+          "1 taza de caldo hirviendo extraído de la misma olla",
+          "1 cucharada de grasa tibia o manteca",
+          "Sal fina a gusto"
+        ]
+      },
+      {
+        "name": "Terminación fresca",
+        "items": [
+          "3 tallos de cebolla de verdeo fresca recién picada",
+          "Perejil fresco picado"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Cocción del caldo de gallina",
+        "steps": [
+          "En una olla grande, dorar las presas de ave con la grasa criolla hasta sellar. Incorporar la cebolla, el morrón, el apio y la zanahoria.",
+          "Rehogar 5 minutos y agregar los 2,5 litros de agua o caldo con el laurel y el pimentón. Cocinar a fuego medio-bajo durante 40 minutos hasta que la carne esté muy tierna y el caldo colmado de sabor."
+        ]
+      },
+      {
+        "name": "Modelado de los vori vori",
+        "steps": [
+          "En un bol, mezclar la harina de maíz con el queso rallado y la cucharada de grasa.",
+          "Tomar una taza del caldo hirviendo de la olla e incorporarlo poco a poco a la harina mientras se mezcla con tenedor hasta formar una masa maleable, húmeda pero firme.",
+          "Formar con las palmas de las manos bolitas pequeñas del tamaño de una nuez o canica grande, asegurándose de que queden compactas para que no se desarmen al hervir."
+        ]
+      },
+      {
+        "name": "Hervor final y servicio",
+        "steps": [
+          "Echar las bolitas de vori una a una con cuidado dentro del caldo hirviendo suavemente.",
+          "Cocinar durante 10 a 12 minutos sin revolver bruscamente. Las bolitas subirán a la superficie señalando que están perfectamente cocidas y el caldo habrá espesado con un brillo apetitoso.",
+          "Apagar el fuego, sumar la cebolla de verdeo y el perejil fresco picado, reposar 5 minutos y servir en platos soperos con una presa de gallina y abundantes vori vori."
+        ]
+      }
+    ],
+    "notes": "Costumbre formoseña: El queso criollo madurado es fundamental porque aporta un toque salino y graso que amalgama la harina de maíz sin necesidad de agregar huevo.",
+    "image": "img/bori_bori_formoseno.jpg",
+    "url": "https://recarg.blogspot.com/2026/10/bori-bori-gallina-formosa-argentina.html",
+    "original_title": "Bori Bori de Gallina (Formosa, Argentina)",
+    "published": "2026-10-31T23:45:00.000-03:00"
+  },
+  {
+    "id": 415,
+    "title": "Boga a la Parrilla con Chimichurri Entrerriano (Entre Ríos, Argentina)",
+    "country": "Argentina",
+    "category": "Pescados & Mariscos",
+    "tags": [
+      "Argentina",
+      "Entre Ríos",
+      "Litoral",
+      "Pescado",
+      "Boga",
+      "Parrilla",
+      "Río",
+      "Tradicional"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "30 min",
+    "rest_time": "5 min",
+    "temperature": "Brasas moderadas a fuego de leña",
+    "servings": "4 porciones generosas",
+    "calories": "460 kcal por porción",
+    "diet_badges": [
+      "Sin Gluten / Sin TACC",
+      "Alto en Proteína",
+      "Bajo en Carbohidratos"
+    ],
+    "story": "En las riberas entrerrianas de los ríos Paraná y Uruguay, la boga despinada asada a la parrilla es una verdadera liturgia comunitaria. El secreto que todo asador entrerriano guarda celosamente consiste en asar la boga abierta en mariposa apoyada únicamente del lado de las escamas sobre la parrilla a fuego suave de leña de espinillo. Las escamas actúan como un escudo térmico natural que impide que la carne se queme, cociéndose en sus propios vapores mientras la piel queda acorazada y crocante. Durante toda la cocción sobre las brasas, la carne blanca y delicada se pincela generosamente con el chimichurri entrerriano a base de jugo de limón y naranja agria, ajos machacados, orégano silvestre y pimentón, logrando un pescado jugoso que se come desgranándolo con el tenedor directamente sobre una tabla de madera.",
+    "ingredient_groups": [
+      {
+        "name": "Para la boga de río",
+        "items": [
+          "1 boga fresca de río de 1,8 a 2 kg (abierta en mariposa al medio por el lomo, limpia y despinada, manteniendo sus escamas)",
+          "Sal entrefina parrillera a gusto"
+        ]
+      },
+      {
+        "name": "Para el chimichurri cítrico entrerriano",
+        "items": [
+          "Jugo colado de 2 limones y 1 naranja dulce",
+          "4 dientes de ajo finamente picados",
+          "3 cucharadas de perejil fresco picado",
+          "1 cucharada colmada de orégano seco",
+          "1 cucharadita de ají molido dulce",
+          "100 ml de aceite de oliva o girasol",
+          "Sal entrefina y pimienta negra recién molida"
+        ]
+      },
+      {
+        "name": "Guarnición parrillera",
+        "items": [
+          "2 limones cortados al medio (para dorar en la parrilla)",
+          "Pan casero de campo crocante"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación del chimichurri",
+        "steps": [
+          "En un cuenco o frasco, mezclar el jugo de los cítricos con el ajo picado, el perejil, el orégano, el ají molido, sal y pimienta.",
+          "Batir incorporando el aceite hasta emulsionar ligeramente y dejar reposar 15 minutos para que se amalgamen los aromas."
+        ]
+      },
+      {
+        "name": "Cocción sobre las brasas",
+        "steps": [
+          "Preparar un buen fuego con leña y distribuir una capa pareja de brasas medianas bajo la parrilla limpia.",
+          "Secar la boga con papel absorbente, salar la carne y colocar la pieza entera con el lado de las escamas hacia abajo sobre los hierros calientes.",
+          "Pincelar inmediatamente toda la superficie de la carne con una generosa capa de chimichurri cítrico.",
+          "Cocinar pacientemente a fuego medio-bajo durante 25 a 30 minutos sin dar vuelta el pescado jamás; las escamas se tostarán protegiendo la carne.",
+          "Pincelar con más chimichurri cada 8 minutos para que la carne se mantenga permanentemente húmeda y glaseada."
+        ]
+      },
+      {
+        "name": "Terminación y servicio",
+        "steps": [
+          "Colocar los medios limones con la pulpa sobre la parrilla los últimos 5 minutos hasta marcarlos.",
+          "Cuando la carne blanca se desprenda fácilmente de los huesos al tocarla con un tenedor, retirar la boga con pala de asador sobre una tabla larga de madera.",
+          "Rociar con el jugo de los limones asados y servir al centro de la mesa con pan de campo."
+        ]
+      }
+    ],
+    "notes": "Regla de oro entrerriana: Jamás se da vuelta la boga en la parrilla; el calor que transmiten las escamas cocina la carne de abajo hacia arriba conservando intactos todos sus jugos naturales.",
+    "image": "img/boga_a_la_parrilla_entrerriana.jpg",
+    "url": "https://recarg.blogspot.com/2026/10/boga-a-la-parrilla-con-chimichurri-entrerrios-argentina.html",
+    "original_title": "Boga a la Parrilla con Chimichurri Entrerriano (Entre Ríos, Argentina)",
+    "published": "2026-10-31T23:46:00.000-03:00"
+  },
+  {
+    "id": 416,
+    "title": "Punta de Espalda Sanjuanina a las Brasas (San Juan, Argentina)",
+    "country": "Argentina",
+    "category": "Carnes & Parrilla",
+    "tags": [
+      "Argentina",
+      "San Juan",
+      "Cuyo",
+      "Carne",
+      "Parrilla",
+      "Punta de Espalda",
+      "Tradicional"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "1 h 15 min",
+    "rest_time": "10 min",
+    "temperature": "Brasas moderadas constantes",
+    "servings": "6 a 8 porciones",
+    "calories": "610 kcal por porción",
+    "diet_badges": [
+      "Sin Gluten / Sin TACC",
+      "Alto en Proteína",
+      "Bajo en Carbohidratos"
+    ],
+    "story": "La punta de espalda es el corte vacuno más emblemático y autóctono de la provincia de San Juan, con fiesta provincial y hasta una forma geográfica triangular que los sanjuaninos comparan con el mapa de su propia provincia. Ubicado sobre las costillas y debajo del matambre, es un corte que solo los carniceros sanjuaninos despostan con maestría: posee una capa de grasa exterior firme que, al cocinarse despacio a las brasas de jarilla y algarrobo, se transforma en una costra crujiente y dorada parecida al chicharrón, mientras su carne interior permanece extraordinariamente jugosa, suave y tierna. Acompañada de una salmuera caliente con hierbas aromáticas cuyanas y una copa de Syrah sanjuanino, es la cima del asado de Cuyo.",
+    "ingredient_groups": [
+      {
+        "name": "Para la carne sanjuanina",
+        "items": [
+          "1 pieza entera de punta de espalda de 2,2 a 2,5 kg (con su capa de grasa pareja intacta)",
+          "Sal entrefina parrillera a gusto"
+        ]
+      },
+      {
+        "name": "Para la salmuera cuyana de rociado",
+        "items": [
+          "500 ml de agua tibia",
+          "2 cucharadas colmadas de sal gruesa",
+          "4 dientes de ajo machacados",
+          "2 ramitas de romero fresco o jarilla",
+          "1 cucharada de orégano seco",
+          "1 cucharadita de ají molido suave"
+        ]
+      },
+      {
+        "name": "Acompañamiento tradicional",
+        "items": [
+          "Pan criollo sanjuanino de grasa",
+          "Chimichurri casero con orégano y ají molido"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación de la salmuera y encendido",
+        "steps": [
+          "En una botella o frasco con pico vertedor, disolver la sal gruesa en el agua tibia junto a los ajos machacados, romero, orégano y ají molido. Agitar y dejar asentar.",
+          "Preparar un buen fuego a leña y distribuir brasas moderadas y parejas bajo la parrilla a unos 15 cm de altura."
+        ]
+      },
+      {
+        "name": "Asado paciente",
+        "steps": [
+          "Hacer cortes superficiales en forma de rombo solo sobre la capa de grasa de la punta de espalda (sin tocar la carne) para que desgrase mejor y dore crocante.",
+          "Salar con sal entrefina y colocar la pieza entera en la parrilla con la grasa hacia arriba durante los primeros 40 minutos a fuego medio constante, rociando ocasionalmente con la salmuera tibia.",
+          "Dar vuelta la pieza colocando la capa de grasa hacia abajo sobre las brasas durante otros 35 minutos hasta que la grasa se dore profundamente y quede crujiente como una galleta.",
+          "Rociar nuevamente con salmuera por el lado de la carne antes de retirar."
+        ]
+      },
+      {
+        "name": "Reposo y corte",
+        "steps": [
+          "Retirar la pieza de la parrilla y dejar reposar 10 minutos sobre una tabla de madera antes de cortarla para que los jugos internos se redistribuyan.",
+          "Cortar en bifes transversales de 1,5 cm de grosor mostrando el punto rosado y jugoso en el centro y la corona de grasa crocante arriba. Servir de inmediato."
+        ]
+      }
+    ],
+    "notes": "Secreto de asador sanjuanino: El corte en rombo de la grasa permite que el calor penetre uniformemente y que el exceso de grasa se funda lentamente sobre la carne dándole un sabor incomparable.",
+    "image": "img/punta_de_espalda_sanjuanina.jpg",
+    "url": "https://recarg.blogspot.com/2026/10/punta-de-espalda-sanjuanina-a-las-brasas-argentina.html",
+    "original_title": "Punta de Espalda Sanjuanina a las Brasas (San Juan, Argentina)",
+    "published": "2026-10-31T23:47:00.000-03:00"
+  },
+  {
+    "id": 417,
+    "title": "Chivito Puntano al Horno con Chanfaina (San Luis, Argentina)",
+    "country": "Argentina",
+    "category": "Carnes & Parrilla",
+    "tags": [
+      "Argentina",
+      "San Luis",
+      "Cuyo",
+      "Chivito",
+      "Chanfaina",
+      "Horno de Barro",
+      "Serrano",
+      "Tradicional"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "1 h 30 min",
+    "rest_time": "1 h (adobo)",
+    "temperature": "180 °C (horno medio)",
+    "servings": "6 porciones",
+    "calories": "560 kcal por porción",
+    "diet_badges": [
+      "Sin Gluten / Sin TACC",
+      "Alto en Proteína"
+    ],
+    "story": "En las Sierras de San Luis, el chivito puntano alimentado con pasturas aromáticas y jarilla de las laderas es motivo de orgullo y de fiesta nacional en la localidad de Santa Rosa del Conlara. La usanza tradicional puntana cocina el chivito adobado con salmuera serrana, ajos y pimentón al horno de barro con leña de espinillo hasta que la carne se desprende sola del hueso. Lo que convierte este plato en un festín criollo completo es su guarnición ancestral: la chanfaina, una preparación campesina que aprovecha los menudos del chivito cocidos con cebolla sofrita, harina de maíz tostada y sangre sazonada con orégano y comino, logrando un guisado denso y exquisito que los lugareños comen junto a papas doradas y pan casero.",
+    "ingredient_groups": [
+      {
+        "name": "Para el chivito serrano",
+        "items": [
+          "2 kg de chivito lechal trozado (paletas, cuartos y costillas)",
+          "4 dientes de ajo machacados",
+          "2 ramitas de tomillo y romero serrano",
+          "1 cucharada de pimentón dulce",
+          "3 cucharadas de grasa criolla derretida o aceite de oliva",
+          "Sal entrefina y pimienta negra a gusto",
+          "1 taza de vino blanco criollo o caldo"
+        ]
+      },
+      {
+        "name": "Para la tradicional chanfaina puntana",
+        "items": [
+          "Menudos limpios del chivito (hígado, corazón y riñones picados chiquitos)",
+          "2 cebollas picadas finas",
+          "1 cucharada colmada de harina de maíz tostada",
+          "1 cucharadita de comino molido y ají molido",
+          "2 cucharadas de grasa vacuna",
+          "Sal y caldo caliente c/n"
+        ]
+      },
+      {
+        "name": "Guarnición",
+        "items": [
+          "1 kg de papas rústicas doradas al horno",
+          "Gajos de limón para acompañar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Adobo y horneado del chivito",
+        "steps": [
+          "Untar las piezas de chivito con la grasa derretida, ajo machacado, pimentón, romero, sal y pimienta. Dejar reposar 1 hora.",
+          "Acomodar en una asadera profunda con el vino blanco y las papas cortadas al medio.",
+          "Hornear a 180 °C durante 1 hora y 20 minutos, salseando con los propios jugos cada 20 minutos hasta que la superficie esté doradita y la carne sumamente tierna."
+        ]
+      },
+      {
+        "name": "Elaboración de la chanfaina",
+        "steps": [
+          "En una ollita de hierro, derretir la grasa y dorar las cebollas picadas.",
+          "Sumar los menudos picados muy chicos y saltear 5 minutos a fuego vivo. Agregar el comino y ají molido.",
+          "Espolvorear la harina de maíz tostada, mezclar y verter 1 taza de caldo caliente revolviendo hasta formar un guisadito espeso y untuoso. Cocinar 10 minutos y rectificar sal."
+        ]
+      },
+      {
+        "name": "Presentación puntana",
+        "steps": [
+          "Servir el chivito caliente con las papas doradas y una generosa cazuelita de chanfaina al lado para acompañar cada bocado con pan de campo."
+        ]
+      }
+    ],
+    "notes": "Costumbre serrana: Si no se consiguen los menudos para la chanfaina, el chivito al horno de barro acompañado de papas doradas y salsa criolla serrana es por sí solo un manjar sublime.",
+    "image": "img/chivito_puntano.jpg",
+    "url": "https://recarg.blogspot.com/2026/10/chivito-puntano-al-horno-con-chanfaina-argentina.html",
+    "original_title": "Chivito Puntano al Horno con Chanfaina (San Luis, Argentina)",
+    "published": "2026-10-31T23:48:00.000-03:00"
+  },
+  {
+    "id": 418,
+    "title": "Empanadas Cordobesas Tradicionales (Córdoba, Argentina)",
+    "country": "Argentina",
+    "category": "Pizzas / Tartas / Masas",
+    "tags": [
+      "Argentina",
+      "Córdoba",
+      "Centro",
+      "Empanadas",
+      "Carne",
+      "Azúcar Impalpable",
+      "Pasas",
+      "Tradicional"
+    ],
+    "prep_time": "40 min",
+    "cook_time": "15 min",
+    "rest_time": "2 h (enfriado del relleno)",
+    "temperature": "230 °C (horno bien caliente)",
+    "servings": "6 porciones (rinde 24 empanadas)",
+    "calories": "550 kcal por porción (4 empanadas)",
+    "diet_badges": [
+      "Alto en Proteína"
+    ],
+    "story": "La empanada cordobesa es célebre y única en toda la geografía argentina por su audaz y exquisito equilibrio agridulce: recién horneadas y bien calientes, se espolvorean con una lluvia fina de azúcar impalpable que se funde sutilmente sobre la masa crocante. Su relleno tradicional lleva carne de ternera hervida o picada gruesa rehogada con cebolla en grasa de pella, papa hervida cortada en cubitos milimétricos, huevo duro, y dos toques dulces característicos: pasas de uva rubias sin semilla y una cucharadita de azúcar en el sofrito. Al morder, el contraste entre la masa salada y dorada, el azúcar que acaricia los labios y el relleno jugoso y especiado con comino, desata una experiencia inolvidable que define la identidad de las sierras cordobesas.",
+    "ingredient_groups": [
+      {
+        "name": "Para la masa criolla cordobesa",
+        "items": [
+          "500 g de harina de trigo 000",
+          "100 g de grasa vacuna de pella derretida tibia",
+          "200 ml de salmuera tibia (agua con 1 cucharada de sal fina)",
+          "1 cucharadita de azúcar"
+        ]
+      },
+      {
+        "name": "Para el relleno tradicional cordobés",
+        "items": [
+          "600 g de carne vacuna magra (nalga, bola de lomo o cuadril picada gruesa o a cuchillo)",
+          "500 g de cebolla blanca finamente picada",
+          "2 papas medianas hervidas al dente (cortadas en cubitos de 5 mm)",
+          "100 g de grasa de pella",
+          "3 huevos duros picados",
+          "80 g de pasas de uva rubias sin semilla (hidratadas en agua tibia)",
+          "1 cucharada colmada de pimentón dulce",
+          "1 cucharadita de comino molido",
+          "1 cucharada de azúcar",
+          "Sal entrefina y pimienta negra a gusto"
+        ]
+      },
+      {
+        "name": "Para el toque final cordobés",
+        "items": [
+          "4 cucharadas de azúcar impalpable (para espolvorear al salir del horno)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación de la masa y discos",
+        "steps": [
+          "Formar una corona con la harina, agregar la grasa derretida, el azúcar y la salmuera. Amasar 5 minutos hasta lograr un bollo elástico y suave.",
+          "Tapar y reposar 30 minutos. Estirar fina y cortar 24 discos de 12 a 13 cm."
+        ]
+      },
+      {
+        "name": "Elaboración del relleno agridulce",
+        "steps": [
+          "En una cacerola, derretir la grasa y dorar la cebolla picada con una pizca de sal y la cucharada de azúcar hasta que esté tierna y brillante.",
+          "Agregar la carne, subir el fuego y cocinar 3 a 4 minutos removiendo. Retirar del fuego mientras esté jugosa.",
+          "Condimentar con el pimentón dulce, comino molido, sal y pimienta. Sumar los cubitos de papa hervida y las pasas de uva escurridas.",
+          "Dejar enfriar totalmente en la heladera durante al menos 2 horas."
+        ]
+      },
+      {
+        "name": "Armado, horneado y toque de azúcar",
+        "steps": [
+          "Incorporar al relleno frío los huevos duros picados.",
+          "Rellenar los discos de masa, humedecer el borde y cerrar con el repulgue tradicional.",
+          "Acomodar en placas aceitadas y hornear a 230 °C durante 12 a 15 minutos hasta que estén bien doradas.",
+          "Retirar del horno e inmediatamente, en caliente, espolvorear con una lluvia de azúcar impalpable a través de un colador fino. Servir tibias."
+        ]
+      }
+    ],
+    "notes": "Sello cordobés: El azúcar impalpable debe agregarse apenas retiradas del horno para que el calor la fije a la masa sin disolverla por completo, creando una costra sutilmente dulce.",
+    "image": "img/empanadas_cordobesas.jpg",
+    "url": "https://recarg.blogspot.com/2026/10/empanadas-cordobesas-tradicionales-argentina.html",
+    "original_title": "Empanadas Cordobesas Tradicionales (Córdoba, Argentina)",
+    "published": "2026-10-31T23:49:00.000-03:00"
+  },
+  {
+    "id": 419,
+    "title": "El Carlitos Especial Rosarino (Santa Fe, Argentina)",
+    "country": "Argentina",
+    "category": "Sándwiches / Burgers",
+    "tags": [
+      "Argentina",
+      "Santa Fe",
+      "Rosario",
+      "Sándwich",
+      "Carlitos",
+      "Tostado",
+      "Kétchup",
+      "Bar",
+      "Tradicional"
+    ],
+    "prep_time": "10 min",
+    "cook_time": "8 min",
+    "rest_time": "1 min",
+    "temperature": "Plancha o tostadora carlitera bien caliente",
+    "servings": "2 porciones (2 sándwiches generosos cortados en triángulos)",
+    "calories": "580 kcal por sándwich",
+    "diet_badges": [
+      "Rápido y Fácil"
+    ],
+    "story": "Nacido en la década de 1950 en el legendario bar 'El Resorte' de la ciudad de Rosario (creado por Rubén Ramírez), el Carlitos es el sándwich de bar más famoso e indiscutido de Santa Fe, declarado patrimonio cultural gastronómico de la ciudad. A simple vista parece un tostado de jamón y queso, pero encierra una alquimia única: se elabora entre dos rebanadas finas de pan de miga blanco untadas por fuera con generosa manteca, relleno con abundante queso muzzarella o tybo fundente, jamón cocido de primera y el elemento consagratorio: un abundante chorro de salsa kétchup distribuido en el interior antes de tostar. En su versión 'Carlitos Especial', se le suma pollo desmenuzado a la plancha o lomo fino, prensado en la carlitera de hierro hasta que la manteca dore el pan de manera uniforme y el queso con kétchup desborde humeante por los bordes.",
+    "ingredient_groups": [
+      {
+        "name": "Para el armado del sándwich rosarino",
+        "items": [
+          "4 rebanadas de pan de miga blanco (tipo sándwich de miga, corte parejo)",
+          "150 g de queso muzzarella o queso barra Tybo cortado en fetas",
+          "100 g de jamón cocido natural en fetas",
+          "100 g de pechuga de pollo cocida y desmenuzada (o en fetas finas a la plancha para el 'Especial')",
+          "4 cucharadas colmadas de salsa kétchup de buena calidad",
+          "40 g de manteca a temperatura ambiente (para untar las caras exteriores)"
+        ]
+      },
+      {
+        "name": "Para servir",
+        "items": [
+          "Papas fritas bastón crocantes",
+          "Cerveza bien helada (el clásico liso santafesino)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Montaje del Carlitos",
+        "steps": [
+          "Disponer dos rebanadas de pan de miga sobre una tabla.",
+          "Colocar una capa generosa de queso muzzarella, luego las fetas de jamón cocido y el pollo desmenuzado.",
+          "Bañar en zigzag con abundante salsa kétchup cubriendo de borde a borde.",
+          "Tapar con más queso muzzarella para que al fundirse atrape los ingredientes, y cerrar con las tapas de pan de miga."
+        ]
+      },
+      {
+        "name": "Prensado y tostado en carlitera",
+        "steps": [
+          "Untar ambas caras exteriores del pan con una capa fina pero pareja de manteca blanda.",
+          "Colocar en la carlitera (tostadora doble de hierro) o sandwichera precalentada a fuego medio-alto.",
+          "Prensar suavemente y cocinar durante 3 a 4 minutos por lado hasta que el pan adquiera un color dorado brillante y una textura crocante que cruja al tacto, con el queso completamente derretido."
+        ]
+      },
+      {
+        "name": "Corte y servicio",
+        "steps": [
+          "Retirar sobre una tabla y cortar inmediatamente en 4 triángulos o rectángulos.",
+          "Servir en plato playo con papas fritas y disfrutar bien caliente."
+        ]
+      }
+    ],
+    "notes": "Secreto rosarino: El secreto del Carlitos es no escatimar kétchup y usar manteca de verdad por fuera; el calor de la plancha carameliza los azúcares del kétchup y la manteca dando ese sabor agridulce y crocante único.",
+    "image": "img/carlitos_rosarino.jpg",
+    "url": "https://recarg.blogspot.com/2026/10/el-carlitos-especial-rosarino-santa-fe-argentina.html",
+    "original_title": "El Carlitos Especial Rosarino (Santa Fe, Argentina)",
+    "published": "2026-10-31T23:50:00.000-03:00"
+  },
+  {
+    "id": 420,
+    "title": "Pastel de Carne Pampeano Braseado al Caldén (La Pampa, Argentina)",
+    "country": "Argentina",
+    "category": "Carnes & Tartas",
+    "tags": [
+      "Argentina",
+      "La Pampa",
+      "Patagonia",
+      "Carne",
+      "Pastel",
+      "Braseado",
+      "Tradicional"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "1 h 15 min",
+    "rest_time": "10 min",
+    "temperature": "190 °C (horno medio-fuerte)",
+    "servings": "6 porciones",
+    "calories": "590 kcal por porción",
+    "diet_badges": [
+      "Alto en Proteína"
+    ],
+    "story": "En el corazón del monte pampeano, bajo la sombra del caldén (el árbol autóctono de la provincia), la gastronomía de La Pampa se nutrió tanto del pastoreo de ganado de excelencia como de la caza silvestre y las colonias de inmigrantes. El Pastel Pampeano es un monumento de los hogares rurales: la carne vacuna (o de ciervo/liebre según la temporada) se brasea largamente en cazuela con cebollas, zanahorias, vino tinto pampeano y hierbas silvestres hasta que se desarma sola en hebras. Luego se acomoda en una fuente de barro, se cubre con una masa criolla rústica y hojaldrada hecha con grasa vacuna, y se hornea hasta que la tapa se infla dorada y crujiente, sellando en su interior los vapores de un estofado sustancioso que es puro calor campero.",
+    "ingredient_groups": [
+      {
+        "name": "Para el braseado de carne pampeana",
+        "items": [
+          "1 kg de carne vacuna tierna (roast beef, osobuco o paleta) cortada en cubos medianos",
+          "3 cebollas medianas picadas en cubos",
+          "2 zanahorias cortadas en rodajas",
+          "2 ramas de apio picadas",
+          "3 dientes de ajo picados",
+          "300 ml de vino tinto robusto pampeano o malbec",
+          "500 ml de caldo de carne casero",
+          "3 cucharadas de grasa vacuna criolla",
+          "1 cucharadita de tomillo y laurel",
+          "Sal gruesa y pimienta negra en grano a gusto"
+        ]
+      },
+      {
+        "name": "Para la cubierta de masa criolla",
+        "items": [
+          "300 g de harina de trigo 000",
+          "80 g de grasa vacuna de pella derretida",
+          "120 ml de salmuera tibia",
+          "1 yema batida con una cucharadita de leche para pintar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Braseado de la carne al vino",
+        "steps": [
+          "En una olla de hierro o cazuela profunda, calentar la grasa criolla a fuego vivo y sellar los cubos de carne hasta dorar bien. Retirar y reservar.",
+          "En el mismo fondo dorar la cebolla, la zanahoria, el apio y el ajo durante 8 minutos.",
+          "Volcar el vino tinto raspando el fondo para desglasar los jugos caramelizados y dejar evaporar el alcohol 3 minutos.",
+          "Reincorporar la carne, añadir el caldo caliente, tomillo, laurel, sal y pimienta. Bajar el fuego al mínimo, tapar y cocinar despacio durante 1 hora hasta que la carne esté tiernísima y el caldo espese como salsa oscura."
+        ]
+      },
+      {
+        "name": "Masa criolla de tapa",
+        "steps": [
+          "Unir la harina con la grasa derretida y la salmuera. Amasar 3 minutos hasta formar un bollo liso. Dejar descansar 20 minutos.",
+          "Estirar con palote de 3 a 4 mm de espesor calculando 2 cm más del diámetro de la fuente de horno."
+        ]
+      },
+      {
+        "name": "Montaje y horneado",
+        "steps": [
+          "Volcar la carne braseada humeante en una fuente de cerámica o barro profunda.",
+          "Pintar el borde de la fuente con agua y colocar la masa por encima sellando los bordes con un repulgue contra el recipiente.",
+          "Hacer una pequeña chimenea en el centro con un cuchillo para dejar escapar el vapor y pintar toda la masa con la yema batida.",
+          "Llevar a horno precalentado a 190 °C durante 25 a 30 minutos hasta que la masa esté dorada, ampollada y crujiente. Servir al centro de la mesa rompiendo la costra con cuchara sopera."
+        ]
+      }
+    ],
+    "notes": "Variante de caza: En las estancias de La Pampa este mismo pastel se elabora tradicionalmente con carne de ciervo colorado o liebre marinada previamente en vino tinto y bayas de enebro.",
+    "image": "img/pastel_pampeano.jpg",
+    "url": "https://recarg.blogspot.com/2026/10/pastel-de-carne-pampeano-la-pampa-argentina.html",
+    "original_title": "Pastel de Carne Pampeano Braseado al Caldén (La Pampa, Argentina)",
+    "published": "2026-10-31T23:51:00.000-03:00"
+  },
+  {
+    "id": 421,
+    "title": "Trucha Patagónica a la Manteca de Almendras (Neuquén, Argentina)",
+    "country": "Argentina",
+    "category": "Pescados & Mariscos",
+    "tags": [
+      "Argentina",
+      "Neuquén",
+      "Patagonia",
+      "Trucha",
+      "Almendras",
+      "Manteca",
+      "Pescado",
+      "Tradicional"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "15 min",
+    "rest_time": "2 min",
+    "temperature": "Cocción a fuego medio-alto en sartén",
+    "servings": "4 porciones elegantes",
+    "calories": "480 kcal por porción",
+    "diet_badges": [
+      "Sin Gluten / Sin TACC",
+      "Alto en Proteína",
+      "Bajo en Carbohidratos"
+    ],
+    "story": "En los lagos cristalinos y ríos de deshielo cordilleranos de Neuquén (desde San Martín de los Andes hasta Villa La Angostura), la trucha arcoíris es el emblema gastronómico supremo de la Patagonia andina. Su carne rosada, tierna y suave se realza con una de las preparaciones clásicas más exquisitas creadas en las hosterías de montaña: a la plancha dorada en oliva y terminada con una 'beurre noisette' (manteca avellanada espumosa) donde se tuestan finas láminas de almendras y unas hojitas de romero fresco cordillerano. El contraste entre la piel crocante de la trucha, el perfume a nuez de la manteca tostada y el crujido de las almendras, acompañado por papitas al vapor con perejil, es la máxima expresión de la elegancia culinaria patagónica.",
+    "ingredient_groups": [
+      {
+        "name": "Para las truchas patagónicas",
+        "items": [
+          "4 filetes de trucha arcoíris fresca con piel (despinados, de unos 200 g cada uno)",
+          "2 cucharadas de aceite de oliva",
+          "Sal marina y pimienta blanca recién molida a gusto",
+          "1 cucharadita de jugo de limón recién exprimido"
+        ]
+      },
+      {
+        "name": "Para la manteca de almendras y romero",
+        "items": [
+          "80 g de manteca de buena calidad",
+          "60 g de almendras fileteadas o en láminas finas",
+          "1 ramita de romero fresco (solo las hojitas)",
+          "1 cucharada de jugo de limón recién exprimido",
+          "1 cucharada de perejil fresco finamente picado"
+        ]
+      },
+      {
+        "name": "Guarnición clásica",
+        "items": [
+          "600 g de papines patagónicos o papas chicas hervidas al vapor",
+          "Manteca extra y perejil picado"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Cocción de la trucha",
+        "steps": [
+          "Secar muy bien los filetes de trucha con papel absorbente. Salpimentar suavemente de ambos lados.",
+          "Calentar el aceite de oliva en una sartén amplia a fuego medio-alto.",
+          "Apoyar los filetes con la piel hacia abajo presionando suavemente con espátula los primeros 10 segundos para que no se arqueen.",
+          "Cocinar 3 a 4 minutos hasta que la piel esté bien dorada y crujiente. Dar vuelta con cuidado y cocinar solo 1 a 2 minutos más para que el centro quede jugoso. Retirar a una fuente tibia."
+        ]
+      },
+      {
+        "name": "Elaboración de la manteca avellanada",
+        "steps": [
+          "En la misma sartén limpia a fuego medio-bajo, derretir la manteca.",
+          "Cuando empiece a espumar, incorporar las almendras fileteadas y las hojitas de romero.",
+          "Cocinar agitando la sartén durante 2 a 3 minutos hasta que la manteca tome un color dorado avellana con aroma tostado y las almendras se doren.",
+          "Retirar del fuego de inmediato para cortar la cocción, añadir la cucharada de jugo de limón (chisporroteará) y el perejil fresco picado."
+        ]
+      },
+      {
+        "name": "Emplatado",
+        "steps": [
+          "Disponer los filetes de trucha en platos tibios junto a las papitas al vapor.",
+          "Bañar generosamente la carne de cada trucha con la manteca espumosa de almendras tostadas y servir de inmediato."
+        ]
+      }
+    ],
+    "notes": "Punto de cocción: La trucha es un pescado de cocción rápida; cuidá no secarla. El centro debe mostrar un tono rosado translúcido y abrirse en láminas tiernas al toque del tenedor.",
+    "image": "img/trucha_patagonica.jpg",
+    "url": "https://recarg.blogspot.com/2026/10/trucha-patagonica-a-la-manteca-de-almendras-neuquen-argentina.html",
+    "original_title": "Trucha Patagónica a la Manteca de Almendras (Neuquén, Argentina)",
+    "published": "2026-10-31T23:52:00.000-03:00"
+  },
+  {
+    "id": 422,
+    "title": "Cordero Patagónico al Asador con Salmuera de Romero (Río Negro, Argentina)",
+    "country": "Argentina",
+    "category": "Carnes & Parrilla",
+    "tags": [
+      "Argentina",
+      "Río Negro",
+      "Patagonia",
+      "Cordero",
+      "Asador",
+      "Parrilla",
+      "Salmuera",
+      "Tradicional"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "2 h 30 min",
+    "rest_time": "15 min",
+    "temperature": "Cocción lenta a la cruz o asador con leña",
+    "servings": "8 a 10 porciones",
+    "calories": "620 kcal por porción",
+    "diet_badges": [
+      "Sin Gluten / Sin TACC",
+      "Alto en Proteína",
+      "Bajo en Carbohidratos"
+    ],
+    "story": "En las inmensas mesetas y valles de Río Negro, el cordero patagónico asado a la cruz es el ritual culinario más sagrado y trascendente del sur argentino. Alimentado en pastizales secos con coirón y jarilla, el cordero de la estepa posee una carne de textura prieta, sabor noble y grasa limpia. La técnica patagónica no admite prisas: se sujeta la pieza en cruz de hierro a una distancia prudente de un fuego calmo de leña de piquillín o sauce, recibiendo un calor constante durante más de dos horas. Durante toda la ceremonia, se rocía periódicamente con una salmuera tibia preparada con agua de manantial, sal gruesa, cabezas de ajo machacadas, romero silvestre y un toque de vinagre de manzana del Alto Valle, logrando un cuero crocante como pergamino y una carne jugosa que perfuma toda la estepa.",
+    "ingredient_groups": [
+      {
+        "name": "Para el cordero al asador",
+        "items": [
+          "1/2 cordero patagónico o pieza entera de costillar y cuarto (aprox. 5 a 6 kg)",
+          "Leña seca de monte (o carbón de leña abundante)"
+        ]
+      },
+      {
+        "name": "Para la salmuera tibia rionegrina",
+        "items": [
+          "1 litro de agua tibia",
+          "3 cucharadas colmadas de sal gruesa",
+          "1 cabeza de ajo cortada al medio",
+          "4 ramitas de romero fresco patagónico",
+          "2 ramitas de tomillo",
+          "50 ml de vinagre de manzana o vino blanco",
+          "1 cucharada de pimienta negra en grano machacada"
+        ]
+      },
+      {
+        "name": "Para la mesa",
+        "items": [
+          "Pan de campo recién horneado",
+          "Ensalada de hojas verdes y cebolla morada",
+          "Vino Pinot Noir o Malbec de la Patagonia"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación de la salmuera y cruz",
+        "steps": [
+          "En una botella o cacerolita, mezclar el agua con la sal, ajos, hierbas aromáticas, vinagre y pimienta. Mantener tibia cerca del fuego.",
+          "Ensartar firmemente la pieza de cordero en la cruz o espadín de asador, asegurando las patas y costillas con alambre para que no ceda con el calor."
+        ]
+      },
+      {
+        "name": "Cocción lenta a la leña",
+        "steps": [
+          "Clavar la cruz con una inclinación de unos 70 grados, exponiendo primero el lado de los huesos (la parte interna) hacia el fuego a unos 80 cm de las brasas.",
+          "Cocinar pacientemente durante 1 hora y media a fuego suave y constante, rociando cada 20 minutos con la salmuera tibia usando una rama de romero a modo de pincel.",
+          "Girar la cruz para exponer el lado de la piel y cuero hacia el fuego durante los últimos 45 a 60 minutos, intensificando apenas las brasas para dorar y dejar la superficie crujiente."
+        ]
+      },
+      {
+        "name": "Servicio de campo",
+        "steps": [
+          "Descolgar la cruz sobre una tabla grande de madera, reposar 10 minutos y cortar las porciones con cuchillo afilado de asador.",
+          "Servir inmediatamente humeante, crujiente por fuera y jugoso por dentro."
+        ]
+      }
+    ],
+    "notes": "Regla patagónica: El primer 70% de la cocción se hace siempre del lado del hueso para cocinar la carne hasta el centro sin arrebatar el cuero externo.",
+    "image": "img/cordero_patagonico_asador.jpg",
+    "url": "https://recarg.blogspot.com/2026/10/cordero-patagonico-al-asador-rio-negro-argentina.html",
+    "original_title": "Cordero Patagónico al Asador con Salmuera de Romero (Río Negro, Argentina)",
+    "published": "2026-10-31T23:53:00.000-03:00"
+  },
+  {
+    "id": 423,
+    "title": "Guiso de Cordero Patagónico con Hongos de Pino (Santa Cruz, Argentina)",
+    "country": "Argentina",
+    "category": "Guisos & Platos de Olla",
+    "tags": [
+      "Argentina",
+      "Santa Cruz",
+      "Patagonia",
+      "Guiso",
+      "Cordero",
+      "Hongos de Pino",
+      "Cerveza Negra",
+      "Tradicional"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "1 h 20 min",
+    "rest_time": "10 min",
+    "temperature": "Cocción lenta a fuego bajo",
+    "servings": "6 porciones calientes",
+    "calories": "580 kcal por porción",
+    "diet_badges": [
+      "Alto en Proteína"
+    ],
+    "story": "En el confín austral de Santa Cruz, entre los glaciares milenarios y los vientos implacables de la estepa, los pioneros y puesteros de estancia crearon este guisado legendario para devolverle el calor al cuerpo tras largas jornadas a la intemperie. La cazuela combina dados de cordero patagónico dorados en olla de hierro con vegetales de huerta fría (papas, puerros, zanahorias) y los tesoros de los bosques andino-patagónicos: hongos de pino secos rehidratados, que aportan un caldo oscuro, terroso y profundo. La magia se completa con un generoso chorro de cerveza negra artesanal patagónica que desglasa el fondo de cocción, logrando una salsa untuosa y oscura que abraza la carne tierna que se deshace sola al contacto con la cuchara.",
+    "ingredient_groups": [
+      {
+        "name": "Para el guiso de cordero",
+        "items": [
+          "1,2 kg de cordero patagónico (paleta o pierna deshuesada) cortado en cubos de 3 cm",
+          "50 g de hongos de pino secos patagónicos",
+          "330 ml de cerveza negra artesanal (Stout o Porter)",
+          "2 cebollas medianas picadas en cubos",
+          "2 tallos de puerro picados en rodajas (parte blanca y verde clara)",
+          "2 zanahorias cortadas en rodajas gruesas",
+          "3 dientes de ajo picados",
+          "3 papas medianas cortadas en cubos grandes",
+          "3 cucharadas de aceite o grasa criolla",
+          "750 ml de caldo de carne caliente (junto con el agua de hidratar los hongos)",
+          "1 ramita de romero y 2 hojas de laurel",
+          "Sal entrefina y pimienta negra recién molida a gusto"
+        ]
+      },
+      {
+        "name": "Para la terminación",
+        "items": [
+          "2 cucharadas de perejil fresco picado",
+          "Pan de campo rústico tostado"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Hidratación de hongos y sellado",
+        "steps": [
+          "Colocar los hongos de pino en un bol con 1 taza de agua tibia durante 20 minutos. Luego colar filtrando el líquido con colador fino y reservar tanto los hongos picados como su caldo aromático.",
+          "En una olla de hierro pesada, calentar la grasa o aceite y dorar los cubos de cordero en tandas a fuego fuerte hasta que tomen buen color. Retirar y reservar."
+        ]
+      },
+      {
+        "name": "Sofrito y estofado con cerveza negra",
+        "steps": [
+          "En la misma olla, dorar las cebollas, el puerro, el ajo y las zanahorias durante 8 minutos a fuego medio.",
+          "Volcar la cerveza negra raspando el fondo para incorporar los sabores caramelizados de la carne y dejar hervir 3 minutos.",
+          "Reincorporar el cordero con sus jugos, sumar los hongos de pino picados, el caldo de hongos reservado, el caldo de carne, laurel y romero.",
+          "Bajar el fuego al mínimo, tapar y cocinar despacio durante 45 minutos."
+        ]
+      },
+      {
+        "name": "Papas y punto final",
+        "steps": [
+          "Incorporar los cubos de papa a la olla y cocinar otros 25 minutos hasta que las papas estén tiernas y la salsa adquiera cuerpo y brillo oscuro.",
+          "Rectificar de sal y pimienta, retirar del fuego y dejar reposar 10 minutos tapado.",
+          "Espolvorear con perejil fresco y servir en cazuelas de barro calientes con pan de campo."
+        ]
+      }
+    ],
+    "notes": "Secreto del sur: El líquido de hidratación de los hongos de pino es oro líquido culinario; al colarlo y sumarlo al guiso le confiere un color ébano y un sabor ahumado a bosque inigualable.",
+    "image": "img/guiso_cordero_hongos.jpg",
+    "url": "https://recarg.blogspot.com/2026/10/guiso-de-cordero-con-hongos-de-pino-santa-cruz-argentina.html",
+    "original_title": "Guiso de Cordero Patagónico con Hongos de Pino (Santa Cruz, Argentina)",
+    "published": "2026-10-31T23:54:00.000-03:00"
+  },
+  {
+    "id": 424,
+    "title": "Centolla Fueguina Gratinada al Parmesano (Tierra del Fuego, Argentina)",
+    "country": "Argentina",
+    "category": "Pescados & Mariscos",
+    "tags": [
+      "Argentina",
+      "Tierra del Fuego",
+      "Ushuaia",
+      "Patagonia",
+      "Centolla",
+      "Mariscos",
+      "Gratinado",
+      "Tradicional"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "15 min",
+    "rest_time": "3 min",
+    "temperature": "220 °C (gratinado fuerte)",
+    "servings": "4 porciones delicadas",
+    "calories": "420 kcal por porción",
+    "diet_badges": [
+      "Sin Gluten / Sin TACC",
+      "Alto en Proteína"
+    ],
+    "story": "En el confín del mundo, en las aguas gélidas y prístinas del Canal Beagle en Ushuaia, habita el crustáceo más codiciado y exquisito de la gastronomía austral: la centolla fueguina (Lithodes santolla). Su carne dulce, tierna y perfumada es un tesoro extraído artesanalmente con trampas por pescadores de Almanza y Ushuaia. En las mesas fueguinas se sirve tanto al natural con limón como en esta sublime versión gratinada al horno: la carne desmenuzada de las patas se saltea apenas con manteca, echalotes y vino blanco, se liga con una crema liviana con gotas de limón y estragón o nuez moscada, y se acomoda en cazuelitas individuales o en el propio caparazón del crustáceo, coronada con queso parmesano rallado que se gratina al horno hasta formar una costra dorada que cruje antes de revelar la extrema delicadeza marina.",
+    "ingredient_groups": [
+      {
+        "name": "Para la centolla del Canal Beagle",
+        "items": [
+          "500 g de carne limpia de centolla fueguina fresca (o congelada de primera calidad)",
+          "40 g de manteca",
+          "2 echalotes o 1 cebolla blanca chica picada finísima",
+          "50 ml de vino blanco seco o espumante brut",
+          "150 ml de crema de leche espesa",
+          "1 cucharadita de jugo de limón recién exprimido",
+          "1 pizca de nuez moscada rallada",
+          "Sal marina y pimienta blanca molida a gusto"
+        ]
+      },
+      {
+        "name": "Para el gratinado crocante",
+        "items": [
+          "80 g de queso parmesano o reggianito rallado fino",
+          "1 cucharadita de pimentón dulce para color",
+          "Hojitas de ciboulette fresca picada para terminar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Salteado aromático suave",
+        "steps": [
+          "En una sartén a fuego medio, derretir la manteca y rehogar los echalotes picados durante 3 a 4 minutos sin que tomen color, solo hasta quedar transparentes.",
+          "Subir el fuego, volcar el vino blanco y dejar evaporar el alcohol 1 minuto.",
+          "Incorporar con delicadeza la carne de centolla desmenuzada en trozos generosos, salteando suavemente 1 minuto para que absorba los jugos sin romperla."
+        ]
+      },
+      {
+        "name": "Ligado con crema",
+        "steps": [
+          "Bajar el fuego e incorporar la crema de leche, el jugo de limón, una pizca de nuez moscada, sal y pimienta blanca.",
+          "Cocinar a fuego muy suave durante 2 minutos hasta que la crema reduzca y envuelva la centolla como una salsa untuosa. Retirar del fuego."
+        ]
+      },
+      {
+        "name": "Gratinado de horno",
+        "steps": [
+          "Distribuir la mezcla en cazuelas individuales aptas para horno o conchas marinas.",
+          "Cubrir la superficie con una capa pareja de queso parmesano rallado y una pizca de pimentón dulce.",
+          "Llevar al grill o parte alta del horno precalentado a 220 °C durante 6 a 8 minutos, hasta que el queso esté dorado, burbujeante y crocante.",
+          "Retirar, espolvorear con ciboulette fresca picada y servir inmediatamente acompañado de tostadas finas y vino blanco frío."
+        ]
+      }
+    ],
+    "notes": "Pura delicadeza: La carne de centolla es muy noble y tierna; el salteado debe ser breve para que no pierda su textura sedosa ni su dulzor natural característico del mar austral.",
+    "image": "img/centolla_fueguina.jpg",
+    "url": "https://recarg.blogspot.com/2026/10/centolla-fueguina-gratinada-tierra-del-fuego-argentina.html",
+    "original_title": "Centolla Fueguina Gratinada al Parmesano (Tierra del Fuego, Argentina)",
+    "published": "2026-10-31T23:55:00.000-03:00"
   }
 ]
