@@ -33921,5 +33921,102 @@
       }
     ],
     "notes": "¿Por qué NO se hace al vapor? En la gastronomía china existen dos tipos de masas de primavera: 1) Chūnbǐng (春饼): masa amasada con harina y agua caliente, estirada en discos finos aceitados y cocida al vapor en torre dentro de vaporeras de bambú; son crepes suaves, flexibles y húmedas destinadas a consumirse directamente frescas envolviendo pato Pekín. 2) Chūnjuǎn Pí (春卷皮): láminas líquidas secadas a la plancha o sartén tibia; no reciben humedad de vapor para asegurar que la masa quede deshidratada y, al sumergirse en el aceite hirviendo, reviente en micro-ampollas crujientes sin absorber grasa ni quedar chiclosa."
+  },
+  {
+    "id": 451,
+    "title": "Empanadas Chinas a la Sartén (Guotie / Dumplings Tradicionales)",
+    "category": "Entrada / Plato Principal",
+    "country": "China",
+    "prep_time": "35 min",
+    "cook_time": "15 min",
+    "servings": "4 porciones (24 empanaditas)",
+    "calories": "290 kcal por porción",
+    "story": "Las empanaditas chinas a la sartén (conocidas como Guotie 锅贴 o potstickers) son uno de los manjares más celebrados de la gastronomía callejera y festiva de China. Su magia radica en la doble cocción combinada: primero se doran a la plancha o sartén para lograr una base crujiente, y luego se agrega agua o caldo con tapa para que el vapor cocine la masa y deje el relleno de cerdo y vegetales extraordinariamente tierno y jugoso. El gran secreto de los maestros cocineros consiste en hidratar la carne con una infusión tibia de anís estrellado y pimienta de Sichuan, logrando una emulsión aromática que estalla de sabor en cada bocado.",
+    "image": "img/empanadas_chinas_sarten.jpg?v=4.0",
+    "tags": [
+      "Empanadas Chinas",
+      "Dumplings",
+      "Guotie",
+      "China",
+      "Cerdo",
+      "Sartén",
+      "Street Food"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Masa Casera Tradicional (24 unidades)",
+        "items": [
+          "300 g de harina de trigo 0000 (sin leudante)",
+          "160 ml de agua caliente (a unos 65 °C, relaja el gluten para estirar fino)",
+          "1/2 cucharadita de sal fina",
+          "Almidón de maíz o harina extra para espolvorear la mesada"
+        ]
+      },
+      {
+        "name": "Relleno Jugoso de Cerdo y Especias",
+        "items": [
+          "350 g de carne de cerdo picada (con un 20% de grasa para máxima jugosidad)",
+          "60 ml de agua tibia para la infusión",
+          "1 anís estrellado entero",
+          "1 cucharadita de pimienta de Sichuan (o pimienta negra machacada)",
+          "2 ramitas de cebolla de verdeo picadas muy finitas",
+          "1 taza de repollo blanco o col china picada fina (salada 10 min y bien escurrida)",
+          "1 cucharadita de jengibre fresco recién rallado",
+          "1 diente de ajo rallado fino",
+          "1 cucharada colmada de salsa de ostras",
+          "1 cucharada de salsa de soja tradicional",
+          "1 cucharada de aceite de sésamo tostado",
+          "1/2 cucharadita de azúcar rubia o blanca",
+          "Sal y pimienta blanca al gusto"
+        ]
+      },
+      {
+        "name": "Cocción en Sartén y Salsa de Dip",
+        "items": [
+          "2 cucharadas de aceite neutro o de sésamo para dorar la base",
+          "100 ml de agua o caldo suave (opcional: con 1 cdita de harina para costra crujiente)",
+          "Para la salsa: 4 cucharadas de salsa de soja, 2 cucharadas de vinagre negro de arroz (o aceto suave), 1 cucharadita de aceite de chile (chili crisp) y verdeo picado fresco"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Preparación de la Masa Casera",
+        "steps": [
+          "Disponer la harina y la sal en un bowl hondo. Hacer un hueco en el centro y verter el agua caliente.",
+          "Mezclar con palillos o cuchara hasta formar grumos húmedos y volcar sobre la mesada limpia. Amasar durante 6 a 8 minutos hasta lograr un bollo tierno, homogéneo y suave.",
+          "Cubrir la masa con papel film o paño húmedo y dejar reposar 30 minutos a temperatura ambiente para relajar el gluten.",
+          "Dividir en porciones de unos 15 a 18 gramos, formar bollitos y estirar con palo de amasar discos finos de 8 a 9 cm dejando el centro apenas más grueso que los bordes."
+        ]
+      },
+      {
+        "name": "2. Elaboración del Relleno Emulsionado",
+        "steps": [
+          "Infusión aromática: en un pocillo colocar los 60 ml de agua tibia con el anís estrellado y la pimienta de Sichuan machacada. Dejar reposar 10 minutos y colar.",
+          "Colocar el cerdo picado en un bowl amplio, verter la infusión colada y batir enérgicamente con palillos o cuchara en un solo sentido circular durante 3 minutos hasta que la carne absorba todo el líquido y se vuelva sedosa y elástica.",
+          "Incorporar el jengibre, el ajo, el verdeo, el repollo escurrido, la salsa de ostras, la salsa de soja, el aceite de sésamo y el azúcar. Integrar bien y refrigerar 15 minutos."
+        ]
+      },
+      {
+        "name": "3. Armado y Repulgue Tradicional",
+        "steps": [
+          "Colocar una cucharada generosa de relleno en el centro de cada disco.",
+          "Humedecer apenas los bordes con agua. Doblar el disco al medio uniendo el punto medio superior.",
+          "Hacer 3 pliegues hacia la derecha y 3 hacia la izquierda desde el centro, presionando con firmeza para expulsar el aire y sellar herméticamente.",
+          "Apoyar cada empanadita sobre la tabla presionando levemente para formar una base plana y dejar el lomo plisado hacia arriba."
+        ]
+      },
+      {
+        "name": "4. Cocción Doble en Sartén (Dorado + Vapor)",
+        "steps": [
+          "Calentar una sartén amplia a fuego medio con 1 a 2 cucharadas de aceite.",
+          "Acomodar las empanaditas en círculo o en hileras bien pegadas entre sí tocándose los costados. Dorar a fuego medio 2 minutos hasta que la base esté rubia y crocante.",
+          "Verter los 100 ml de agua, tapar herméticamente de inmediato y dejar cocinar al vapor durante 6 a 7 minutos hasta que el relleno esté perfectamente cocido.",
+          "Destapar para que evapore el agua residual, agregar unas gotas de aceite de sésamo por los bordes para que queden bien crocantes y desmoldar en círculo sobre una fuente.",
+          "Servir bien calientes acompañadas con el cuenco de salsa de soja, vinagre negro y verdeo picado."
+        ]
+      }
+    ],
+    "notes": "La técnica de hidratar el cerdo con la infusión de anís y pimienta de Sichuan mediante batido en un solo sentido es el secreto milenario para que el relleno quede tierno, jugoso y con caldo interno sin necesidad de exceso de grasa."
   }
 ]
