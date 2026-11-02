@@ -32973,67 +32973,91 @@
   },
   {
     "id": 438,
-    "title": "Empanadas Puntanas de Carne y Orégano Serrano (San Luis, Argentina)",
+    "title": "Empanadas Puntanas Tradicionales Fritas (San Luis, Argentina)",
     "category": "Plato Principal",
     "country": "Argentina",
     "prep_time": "40 min",
-    "cook_time": "20 min",
-    "servings": "12 empanadas (4 porciones)",
-    "calories": "280 kcal por unidad",
-    "story": "En las sierras de San Luis, la empanada puntana ostenta una identidad sobria y robusta: se utiliza una proporción muy alta de carne de novillo o chivo cortada a cuchillo con menor cantidad de cebolla que en otras provincias, generosa cantidad de orégano silvestre recolectado en las sierras centrales y un toque de ají molido cuyano.",
+    "cook_time": "15 min",
+    "servings": "12 a 14 empanadas (4 porciones)",
+    "calories": "285 kcal por unidad",
+    "story": "En San Luis, la empanada puntana ostenta una identidad propia inconfundible y profundamente diferente a sus pares cuyanas, como documentó el INTI de Villa Mercedes para el Concurso de la Empanada Serrana. Su principal secreto radica en la masa elaborada tradicionalmente con grasa de cerdo (chancho) y salmuera tibia, lo que le da un sabor característico y una costra dorada crocante insuperable. Su cocción obligada es frita en grasa. El relleno lleva carne vacuna magra molida fina (pasada 2 a 3 veces por la máquina, tapa de asado o nalga) rehogada en grasa de cerdo con cebolla equilibrada, morrón, orégano serrano, comino y ají molido, coronada con huevos duros rallados finos y aceitunas picadas. Además, guarda en la memoria de las familias serranas el entrañable recurso de montar el relleno sobre puré de papas para hacerlas más sustanciosas en épocas difíciles.",
     "image": "img/empanadas_puntanas.jpg?v=4.0",
     "tags": [
       "Empanadas",
       "Argentina",
       "San Luis",
       "Puntana",
+      "Fritas",
+      "Grasa de Cerdo",
       "Carne",
-      "Orégano",
+      "Tradicional",
       "Sierras"
     ],
     "ingredient_groups": [
       {
-        "name": "Masa Criolla",
+        "name": "Masa Tradicional con Grasa de Cerdo",
         "items": [
-          "500 g de harina 000",
-          "100 g de grasa de pella derretida",
-          "200 ml de salmuera tibia"
+          "500 g de harina de trigo 0000",
+          "100 g de grasa de cerdo (chancho) a temperatura ambiente",
+          "200 ml de agua caliente con 8 g de sal gruesa (salmuera disuelta)"
         ]
       },
       {
-        "name": "Recado Puntano de Carne",
+        "name": "Relleno Serrano Auténtico",
         "items": [
-          "600 g de carne vacuna de novillo cortada a cuchillo fino",
-          "300 g de cebolla picada chica",
-          "80 g de grasa de pella",
-          "2 cucharadas colmadas de orégano serrano seco",
-          "1 cucharadita de ají molido",
+          "500 g de carne vacuna magra molida (pasada 2 a 3 veces, tapa de asado o nalga)",
+          "350 g de cebolla finamente picada",
+          "50 g de morrón verde o rojo picado chiquito",
+          "75 g de grasa de cerdo para el rehogado",
+          "3 huevos duros finamente rallados",
+          "50 g de aceitunas verdes picadas",
+          "1 cucharadita al ras de orégano serrano seco",
           "1 cucharadita de pimentón dulce",
-          "3 huevos duros picados",
-          "Sal fina y pimienta negra molida",
-          "1 cucharón de caldo concentrado de carne"
+          "1/2 cucharadita de comino molido",
+          "1/2 cucharadita de ají molido",
+          "1/2 cucharada de azúcar común (toque tradicional)",
+          "Sal fina y pimienta negra al gusto",
+          "Opcional histórico: 2 cucharadas de puré de papas casero firme para ligar"
+        ]
+      },
+      {
+        "name": "Para la Fritura",
+        "items": [
+          "Grasa vacuna o de cerdo abundante para freír a 180 °C"
         ]
       }
     ],
     "step_groups": [
       {
-        "name": "1. Recado Puntano",
+        "name": "1. Masa Serrana con Grasa de Cerdo",
         "steps": [
-          "En una cacerola fundir la grasa y sudar la cebolla sin que tome color.",
-          "Añadir la carne a cuchillo, sellar a fuego fuerte y sazonar con el orégano serrano, pimentón, ají molido y sal.",
-          "Verter el cucharón de caldo, apagar el fuego y dejar enfriar en frío. Sumar los huevos picados."
+          "Preparar la salmuera disolviendo la sal gruesa en el agua bien caliente. Incorporar la grasa de cerdo blanda para que se funda parcialmente.",
+          "Disponer la harina en un bol o mesada formando una corona, verter la salmuera con la grasa de cerdo en el centro y amasar con ganas durante 8 a 10 minutos hasta obtener una masa sedosa, lisa y elástica que se despegue de las manos.",
+          "Cubrir con un paño y dejar descansar a temperatura ambiente durante 30 minutos."
         ]
       },
       {
-        "name": "2. Armado y Horneado",
+        "name": "2. Elaboración del Recado Puntano",
         "steps": [
-          "Amasar y estirar discos de 13 cm.",
-          "Rellenar y armar el repulgue tradicional puntano.",
-          "Cocinar en horno fuerte a 240 °C durante 12-14 minutos hasta que la masa esté tostada y crocante."
+          "En una sartén amplia o disco a fuego medio, fundir la grasa de cerdo y rehogar la cebolla picada con una pizca de sal hasta que quede translúcida.",
+          "Añadir el morrón picado, cocinar 2 minutos e incorporar los condimentos: pimentón dulce, orégano serrano, comino, ají molido, pimienta negra y el toque de azúcar.",
+          "Subir el fuego a vivo, incorporar la carne molida fina y mezclar enérgicamente para que se cocine pareja y suelta durante 4 a 5 minutos, solo hasta que cambie de color.",
+          "Pasar de inmediato el relleno a una fuente limpia para frenar la cocción y dejar enfriar por completo en la heladera.",
+          "Una vez frío, incorporar los huevos duros rallados (el detalle auténtico puntano) y las aceitunas picadas."
+        ]
+      },
+      {
+        "name": "3. Armado y Fritura Crujiente",
+        "steps": [
+          "Estirar la masa a 2 mm de espesor y cortar discos de 12 a 13 cm de diámetro (tamaño tradicional mediano-pequeño).",
+          "Colocar una porción generosa de recado en el centro, humedecer apenas los bordes, cerrar expulsando el aire y hacer el repulgue criollo apretado.",
+          "Calentar abundante grasa a 180 °C en una cacerola profunda o sartén de hierro.",
+          "Freír las empanadas de a tandas cortas durante 3 a 4 minutos, dándolas vuelta hasta que tomen un dorado uniforme y ampollen con crocancia.",
+          "Escurrir sobre papel absorbente y servir bien calientes."
         ]
       }
     ],
-    "notes": "El orégano serrano puntano es el alma del plato: frotalo entre las palmas de las manos antes de agregarlo al recado para despertar todos sus aceites esenciales."
+    "notes": "El uso de grasa de cerdo en la masa y en el sofrito es el rasgo distintivo que separa a la empanada puntana de cualquier otra de la región cuyana. Rallar el huevo duro en vez de picarlo permite que se integre homogéneamente en cada bocado sin tapar la carne."
   },
   {
     "id": 439,
