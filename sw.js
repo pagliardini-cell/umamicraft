@@ -1,14 +1,14 @@
-// Service Worker de UmamiCraft (PWA v3.1 con soporte offline y caché renovada)
-const CACHE_NAME = 'umamicraft-v3.1';
+// Service Worker de UmamiCraft (PWA v4.0 - Network First para imágenes para forzar actualización en móviles)
+const CACHE_NAME = 'umamicraft-v4.0';
 const STATIC_ASSETS = [
   '/',
   '/index.html',
-  '/manifest.json?v=3',
-  '/icon-192.png?v=3',
-  '/icon-512.png?v=3',
-  '/apple-touch-icon.png?v=3',
-  '/favicon.svg?v=3',
-  '/favicon.png?v=3',
+  '/manifest.json?v=4',
+  '/icon-192.png?v=4',
+  '/icon-512.png?v=4',
+  '/apple-touch-icon.png?v=4',
+  '/favicon.svg?v=4',
+  '/favicon.png?v=4',
   '/recetas_pro.json'
 ];
 
@@ -26,6 +26,7 @@ self.addEventListener('activate', (event) => {
       return Promise.all(
         keys.map((key) => {
           if (key !== CACHE_NAME) {
+            console.log('[PWA] Eliminando caché obsoleta:', key);
             return caches.delete(key);
           }
         })
@@ -46,7 +47,7 @@ self.addEventListener('fetch', (event) => {
     return;
   }
 
-  // 1. Navegacin y Documentos HTML (Deep links y rutas limpias /receta/*): Red Primero (Network-First)
+  // 1. Navegación y Documentos HTML (Deep links y rutas limpias /receta/*): Red Primero (Network-First)
   if (req.mode === 'navigate' || req.destination === 'document' || url.pathname.startsWith('/receta/') || url.pathname.startsWith('/r/')) {
     event.respondWith(
       fetch(req)
@@ -64,7 +65,7 @@ self.addEventListener('fetch', (event) => {
     return;
   }
 
-  // 2. recetas_pro.json: Red primero, respaldo en cach para modo offline
+  // 2. recetas_pro.json: Red primero, respaldo en caché para modo offline
   if (url.pathname.includes('recetas_pro.json')) {
     event.respondWith(
       fetch(req)
@@ -78,24 +79,23 @@ self.addEventListener('fetch', (event) => {
     return;
   }
 
-  // 3. Imgenes: Cach primero con actualizacin en segundo plano
+  // 3. Imágenes: RED PRIMERO (Network-First) para que el celular siempre muestre la foto actualizada
   if (req.destination === 'image' || url.pathname.match(/\.(jpg|jpeg|png|webp|svg|ico)$/i)) {
     event.respondWith(
-      caches.match(req).then((cached) => {
-        if (cached) return cached;
-        return fetch(req).then((networkRes) => {
+      fetch(req)
+        .then((networkRes) => {
           if (networkRes && networkRes.status === 200) {
             const clone = networkRes.clone();
             caches.open(CACHE_NAME).then((cache) => cache.put(req, clone));
           }
           return networkRes;
-        }).catch(() => cached);
-      })
+        })
+        .catch(() => caches.match(req))
     );
     return;
   }
 
-  // 4. Otros estticos: Cach primero con fallback a red
+  // 4. Otros estáticos: Caché primero con fallback a red
   event.respondWith(
     caches.match(req).then((cached) => {
       return cached || fetch(req).then((networkRes) => {
