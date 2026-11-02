@@ -33231,65 +33231,86 @@
   },
   {
     "id": 442,
-    "title": "Empanadas Rionegrinas de Pulpito Tehuelche Costero (Río Negro, Argentina)",
+    "title": "Empanadas Rionegrinas Oficiales de Capón y Tomillo Alimonado - Receta \"Franca\" (Río Negro, Argentina)",
     "category": "Plato Principal",
     "country": "Argentina",
     "prep_time": "45 min",
     "cook_time": "20 min",
     "servings": "12 empanadas (4 porciones)",
-    "calories": "250 kcal por unidad",
-    "story": "En el golfo San Matías, Las Grutas y San Antonio Oeste, las mareas descubren las restingas donde los pescadores artesanales recolectan el pulpito tehuelche (Octopus tehuelchus). Tierno, aromático y con un sabor marino exquisito, se saltea con cebollitas tiernas, pimientos, perejil y vino blanco de las bodegas del Alto Valle de Río Negro.",
+    "calories": "295 kcal por unidad",
+    "story": "Consagrada como la empanada oficial de la Provincia de Río Negro en el certamen provincial impulsado en Bariloche a la Carta, la receta \"Franca\" fue creada por la cocinera Carla Jaramillo, oriunda del oasis de Valcheta en plena Línea Sur y al pie de la Meseta de Somuncurá. Bautizada en honor a su abuela Francisca, esta empanada rinde homenaje a la milenaria cultura ovina patagónica: se elabora con carne del cuarto trasero de capón rionegrino cortada a cuchillo en daditos, cebolla dulce, morrón, la magia aromática del tomillo alimonado silvestre, un toque fresco de menta y el secreto supremo de su jugosidad: caracú de capón fundido en el calor residual del recado. Una verdadera obra de arte gastronómica patagónica que representó a la provincia en la Exposición Rural de Palermo.",
     "image": "img/empanadas_rionegrinas.jpg?v=4.0",
     "tags": [
       "Empanadas",
       "Argentina",
       "Río Negro",
-      "Pulpo",
-      "Mariscos",
-      "Costa",
-      "Patagonia"
+      "Capón",
+      "Cordero",
+      "Valcheta",
+      "Línea Sur",
+      "Oficial",
+      "Patagonia",
+      "Tradicional"
     ],
     "ingredient_groups": [
       {
-        "name": "Masa de Manteca Hojaldrada",
+        "name": "Masa Casera Rionegrina",
         "items": [
-          "500 g de harina 000",
-          "100 g de manteca",
-          "200 ml de agua tibia con sal fina"
+          "400 g de harina de trigo 000",
+          "100 g de harina leudante (el secreto para una masa tierna y quebradiza)",
+          "60 g de grasa vacuna refinada o de capón fundida",
+          "40 ml de aceite de oliva del Alto Valle de Río Negro",
+          "200 ml de salmuera caliente (agua caliente con 1 cucharada de sal gruesa)"
         ]
       },
       {
-        "name": "Relleno Marino de Pulpito",
+        "name": "Relleno Oficial \"Franca\" de Capón",
         "items": [
-          "500 g de pulpitos tehuelches limpios hervidos 20 min en caldo aromático y cortados en anillitos",
-          "350 g de cebolla picada",
-          "1 morrón rojo picado",
-          "2 dientes de ajo picados",
-          "1 chorro de vino blanco de Río Negro",
-          "3 cucharadas de aceite de oliva",
-          "1 cucharada de pimentón dulce",
-          "Perejil fresco picado, 3 huevos duros picados, sal y pimienta blanca"
+          "600 g de carne de capón (cuarto trasero / pierna) cortada a cuchillo en daditos de 5 mm",
+          "500 g de cebolla común picada en brunoise",
+          "1 morrón rojo y 1 verde picados finitos",
+          "3 tallos de cebolla de verdeo (verde reservado para el final)",
+          "2 huesos con caracú de capón (médula ósea fresca)",
+          "2 cucharaditas de tomillo alimonado fresco o seco (el sello aromático de Valcheta)",
+          "1 cucharada de hojas de menta fresca finamente picada",
+          "1 hoja de laurel",
+          "1 cucharada de pimentón dulce seleccionado",
+          "1 cucharadita de pimienta negra partida en mortero",
+          "3 huevos duros picados",
+          "60 g de grasa para rehogar y sal gruesa al gusto",
+          "Grasa vacuna o de capón abundante para freír (o pincelado de huevo para horno a 240 °C)"
         ]
       }
     ],
     "step_groups": [
       {
-        "name": "1. Relleno de Pulpito Tehuelche",
+        "name": "1. Elaboración del Recado Oficial de Capón y Caracú",
         "steps": [
-          "Hervir los pulpitos limpios en agua con laurel 20 minutos hasta tiernizar; cortar en trozos pequeños.",
-          "En una sartén calentar aceite de oliva, rehogar cebolla, morrón y ajo.",
-          "Añadir el pulpo cortado, el vino blanco, pimentón, sal y pimienta. Dejar evaporar 3 minutos y apagar. Enfriar y sumar perejil y huevo duro."
+          "En una cacerola de hierro, fundir la grasa y dorar a fuego medio la cebolla común, los morrones y la parte blanca del verdeo con la hoja de laurel y una pizca de sal gruesa hasta que estén tiernos y transparentes.",
+          "Subir el fuego a vivo, incorporar los daditos de capón cortados a cuchillo y sellar rápidamente durante 4 a 5 minutos para que la carne conserve todos sus jugos sin secarse.",
+          "Condimentar con el tomillo alimonado, la pimienta negra machacada en mortero, el pimentón dulce y sal. Retirar inmediatamente del fuego.",
+          "Extraer el caracú (médula) de los huesos de capón y mezclarlo en caliente dentro del recado para que se funda por completo; este paso otorga la untuosidad y jugosidad mantecosa característica de la receta de Valcheta. Incorporar la menta fresca picada.",
+          "Dejar enfriar el recado tapado en la heladera por un mínimo de 4 horas para que los sabores maduren y la grasa solidifique. Antes de armar, mezclar la parte verde del verdeo y los huevos duros picados."
         ]
       },
       {
-        "name": "2. Armado y Horneado",
+        "name": "2. Masa y Armado",
         "steps": [
-          "Estirar discos de 13 cm, rellenar y repulgar prolijamente.",
-          "Hornear a 220 °C durante 14 minutos hasta que doren de manera crujiente."
+          "En un bol o mesada, integrar la harina 000 y la harina leudante. Hacer un hueco central y verter la grasa tibia, el aceite de oliva rionegrino y la salmuera caliente.",
+          "Amasar con energía durante 8 a 10 minutos hasta lograr un bollo elástico, terso y suave. Dejar reposar tapado 30 minutos a temperatura ambiente.",
+          "Estirar la masa a 2 mm de espesor y cortar discos de 13 a 14 cm de diámetro.",
+          "Disponer una porción generosa de recado de capón en el centro, humedecer apenas los bordes y cerrar haciendo un repulgue criollo apretado."
+        ]
+      },
+      {
+        "name": "3. Cocción Tradicional",
+        "steps": [
+          "Freír en abundante grasa de capón o vacuna bien caliente a 180 °C hasta que doren de manera uniforme y la masa forme ampollitas crujientes, o colocarlas en placa aceitada y hornear a 240 °C durante 12-14 minutos.",
+          "Servir calientes con una copa de Pinot Noir o Merlot de los valles rionegrinos."
         ]
       }
     ],
-    "notes": "Hervir el pulpito tehuelche previamente asegura que conserve una textura tiernísima como manteca dentro de la empanada."
+    "notes": "El tomillo alimonado y la menta fresca cortan la intensidad grasa del capón patagónico aportando una frescura herbal inigualable, mientras que el caracú derretido garantiza que la empanada sea un estallido de jugo en cada bocado."
   },
   {
     "id": 443,
