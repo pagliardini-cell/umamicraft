@@ -32447,71 +32447,74 @@
   },
   {
     "id": 430,
-    "title": "Empanadas Chaqueñas de Dorado y Masa de Mandioca (Chaco, Argentina)",
+    "title": "Empanadas Chaqueñas",
     "category": "Plato Principal",
     "country": "Argentina",
-    "prep_time": "40 min",
+    "prep_time": "35 min",
     "cook_time": "20 min",
     "servings": "12 empanadas (4 porciones)",
-    "calories": "260 kcal por unidad",
-    "story": "A orillas de los grandes ríos chaqueños Paraná y Bermejo, los pescadores y familias criollas crearon empanadas soberbias a base de dorado fresco o pacú de río. La carne blanca y gustosa del pez se desmenuza sin espinas y se saltea con vegetales dulces de huerta y cebolla de verdeo, a menudo envuelta en masas con harina de mandioca.",
+    "calories": "265 kcal por unidad",
+    "story": "La empanada chaqueña por excelencia es un homenaje a las aguas y riberas del Chaco, donde el pacú o dorado de río se convierte en un bocado de culto gastronómico. Su carne blanca, firme y sabrosa se sofríe con cebollas dulces, morrón, echalotes y tomate, desglasada con vino blanco y perfumada con el toque distintivo de curry suave, laurel y tomillo de monte, rematada con aceituna y huevo duro.",
     "image": "img/empanadas_chaquenas.jpg?v=4.0",
     "tags": [
       "Empanadas",
       "Argentina",
       "Chaco",
+      "Pacú",
       "Pescado",
-      "Dorado",
-      "Mandioca",
-      "Río"
+      "Litoral",
+      "Tradicional"
     ],
     "ingredient_groups": [
       {
-        "name": "Masa Criolla con Mandioca",
+        "name": "Masa Criolla Chaqueña",
         "items": [
-          "350 g de harina 000",
-          "150 g de almidón de mandioca",
-          "90 g de grasa vacuna o manteca derretida",
-          "200 ml de agua tibia con sal fina"
+          "500 g de harina de trigo 0000",
+          "120 g de grasa vacuna o manteca derretida",
+          "220 ml de agua templada con 1 cucharadita de sal fina"
         ]
       },
       {
-        "name": "Relleno de Dorado del Litoral",
+        "name": "Relleno Auténtico Chaqueño",
         "items": [
-          "500 g de filete de dorado o pacú fresco, limpio y sin espinas",
-          "350 g de cebolla picada",
-          "1 morrón rojo y 1 verde en cubitos finos",
-          "2 dientes de ajo picados",
-          "2 cucharadas de aceite o grasa",
-          "1 cucharadita de pimentón dulce",
-          "1 pizca de comino y orégano",
-          "3 huevos duros picados",
-          "Cebollita de verdeo fresca picada",
-          "Sal y pimienta negra recién molida"
+          "500 g de pacú o dorado fresco (limpio, sin piel ni espinas, desmenuzado)",
+          "1 cebolla grande finamente picada",
+          "1 morrón rojo picado en cubitos",
+          "2 echalotes o tallos de cebolla de verdeo picados",
+          "1 tomate perita pelado sin semillas en cubitos",
+          "150 ml de vino blanco seco",
+          "1 cucharada de pimentón dulce",
+          "1 cucharadita al ras de curry suave (el toque del Litoral)",
+          "1 cucharada de tomillo fresco picado y 2 hojas de laurel",
+          "12 aceitunas negras o verdes descarozadas",
+          "2 huevos duros picados",
+          "Aceite o grasa para sofreír, sal y pimienta negra al gusto"
         ]
       }
     ],
     "step_groups": [
       {
-        "name": "1. Cocción del Dorado y Recado",
+        "name": "1. Sofrito y Cocción del Pescado",
         "steps": [
-          "Picar el filete de dorado en dados pequeños revisando meticulosamente que no quede ninguna espina.",
-          "En una sartén amplia dorar la cebolla, morrones y ajo en aceite hasta tiernizar.",
-          "Agregar el pescado, cocinar durante 4 minutos a fuego moderado; soltará sus jugos naturales.",
-          "Sazonar con pimentón, pizca de comino, orégano, sal y pimienta. Retirar y dejar enfriar.",
-          "Mezclar con los huevos duros y la cebolla de verdeo."
+          "En una cacerola o sartén profunda con un chorro de aceite o grasa, rehogar la cebolla, el morrón, los echalotes y el tomate hasta que estén tiernos y transparentes.",
+          "Añadir el pimentón dulce y el tomillo picado.",
+          "Incorporar el pacú o dorado desmenuzado, mezclar con suavidad y desglasar con el vino blanco donde previamente se disolvió la cucharadita de curry.",
+          "Sumar las hojas de laurel, sal y pimienta. Cocinar a fuego mínimo tapado durante 15 minutos hasta que reduzca el líquido.",
+          "Retirar el laurel y dejar enfriar por completo en la heladera antes de armar."
         ]
       },
       {
-        "name": "2. Armado y Cocción",
+        "name": "2. Masa, Armado y Cocción",
         "steps": [
-          "Formar la masa combinando harina, almidón de mandioca, grasa y agua tibia con sal. Dejar reposar.",
-          "Estirar discos de 13 cm, rellenar generosamente y cerrar con repulgue prolijo.",
-          "Freír en aceite o grasa limpia a 180 °C hasta que tomen un dorado suave y crocante."
+          "Integrar la harina con la grasa derretida y el agua con sal hasta lograr una masa lisa y tierna. Reposar 20 minutos.",
+          "Estirar a 2 mm y cortar discos de 13 cm.",
+          "Colocar una porción de relleno frío en cada disco, sumar un trocito de huevo duro y una aceituna.",
+          "Cerrar con repulgue tradicional.",
+          "Cocinar en horno a 230 °C sobre placa aceitada durante 12-15 minutos hasta dorar, o freír en grasa bien caliente."
         ]
       }
     ],
-    "notes": "El dorado es un pez de carne firme pero muy delicada: cuidá de no sobrecocinarlo en la sartén para que la empanada conserve todo su jugo."
+    "notes": "El pacú es considerado el 'lechoncito de río' por su grasa noble que hace que la empanada sea extremadamente jugosa. En las zonas del interior chaqueño también es muy popular la variante de carne vacuna a cuchillo con cebolla y una pizca de azúcar."
   },
   {
     "id": 431,
