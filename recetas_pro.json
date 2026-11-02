@@ -33526,5 +33526,328 @@
       }
     ],
     "notes": "La centolla es sumamente delicada: no necesita cocción prolongada, solo un salteado suave en manteca para que mantenga toda su humedad y sabor a mar puro del fin del mundo."
+  },
+  {
+    "id": 446,
+    "title": "Puré de Papas Perfecto de Heston Blumenthal",
+    "category": "Guarnición",
+    "country": "Inglaterra",
+    "prep_time": "30 min",
+    "cook_time": "35 min",
+    "servings": "4 a 6 porciones",
+    "calories": "310 kcal por porción",
+    "story": "El chef 3 estrellas Michelin Heston Blumenthal (The Fat Duck) revolucionó la gastronomía doméstica en su libro 'Heston at Home' al aplicar la ciencia culinaria a un clásico humilde: el puré de papas. Su método resuelve el gran defecto del puré casero: la textura gomosa. Al cocinar primero las papas a 72 °C se gelatiniza el almidón sin romper las células; luego se enfrían y lavan con agua para eliminar todo el almidón libre superficial. Finalmente se hierven, se tamizan dos veces y se emulsionan con manteca fría al 40% y leche tibia infusionada con las propias cáscaras tostadas de las papas para un sabor concentrado y una sedosidad aterciopelada insuperable.",
+    "image": "img/pure_papas_heston.jpg?v=4.0",
+    "tags": [
+      "Heston Blumenthal",
+      "Puré de Papas",
+      "Guarnición",
+      "Técnica",
+      "Michelin",
+      "Inglaterra",
+      "Gourmet"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Papas y Cocción Científica",
+        "items": [
+          "1 kg de papas harinosas (Spunta, Russet o Maris Piper) peladas (reservar las cáscaras lavadas)",
+          "Agua abundante y sal fina (10 g por litro)"
+        ]
+      },
+      {
+        "name": "Infusión Láctea y Emulsión",
+        "items": [
+          "300 g de manteca sin sal bien fría, cortada en cubitos pequeños de 1 cm",
+          "150 ml de leche entera",
+          "Cáscaras de las papas lavadas y secas",
+          "Sal marina en escamas y pimienta blanca molida",
+          "2 cucharadas de ciboulette fresco finamente picado para decorar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Escaldado a 72 °C y Lavado de Almidón",
+        "steps": [
+          "Cortar las papas peladas en rodajas parejas de 2,5 cm de grosor.",
+          "Colocarlas en una olla con abundante agua tibia y llevarla a 72 °C (controlar con termómetro de cocina). Mantener a esa temperatura entre 70 °C y 72 °C durante 30 minutos. Esto gelatiniza el almidón dentro de las células vegetales sin romperlas.",
+          "Retirar las papas y enfriarlas inmediatamente bajo un chorro de agua fría corriente durante 5 minutos para frenar la cocción y lavar todo el almidón superficial libre que causa la textura pegajosa."
+        ]
+      },
+      {
+        "name": "2. Cocción Final e Infusión de Cáscaras",
+        "steps": [
+          "Volver a colocar las papas en agua limpia fría con sal (10 g por litro). Llevar a hervor suave y cocinar hasta que estén completamente tiernas y se deshagan al pincharlas con la punta de un cuchillo (aprox. 15-20 minutos).",
+          "En paralelo, en una cacerolita tostar apenas las cáscaras de papa limpias en seco, agregar la leche entera y calentar a fuego mínimo sin que hierva durante 20 minutos para que la leche absorba todo el sabor a papa asada. Colar y reservar tibia."
+        ]
+      },
+      {
+        "name": "3. Tamizado y Emulsión de Manteca",
+        "steps": [
+          "Escurrir las papas muy bien y dejarlas en la olla tibia durante 2 minutos a fuego mínimo para que evapore toda la humedad residual.",
+          "Pasar las papas en caliente por un pisapapas fino o prensapapas, y luego por un tamiz fino de malla metálica presionando con una espátula de goma flexible para lograr una textura lisa sin ningún grumo.",
+          "Poner el puré en una olla a fuego muy bajo. Con un batidor o espátula, incorporar los cubitos de manteca bien fría de a poco, batiendo vigorosamente para que la grasa emulsione con el agua natural de la papa.",
+          "Verter la leche tibia infusionada en hilo mientras se bate hasta alcanzar la textura cremosa, sedosa y brillante.",
+          "Ajustar de sal marina y servir de inmediato con un pocito de manteca fundida y ciboulette picado."
+        ]
+      }
+    ],
+    "notes": "El contraste térmico entre el puré tibio y la manteca cortada en cubos helada es el secreto de la emulsión perfecta: si la manteca está tibia o derretida, el puré se separará en grasa líquida en lugar de quedar como una crema aterciopelada."
+  },
+  {
+    "id": 447,
+    "title": "Risotto Cacio e Pepe al Estilo Heston Blumenthal",
+    "category": "Plato Principal",
+    "country": "Italia / Inglaterra",
+    "prep_time": "20 min",
+    "cook_time": "25 min",
+    "servings": "4 porciones",
+    "calories": "420 kcal por porción",
+    "story": "En su constante búsqueda de la pureza de sabor, Heston Blumenthal reinterpretó el tradicional Cacio e Pepe romano en formato de risotto de alta gastronomía. Su genialidad consiste en no usar caldos de carne o pollo que enmascaren los lácteos: en su lugar elabora un caldo cristalino de queso infusionando las cortezas duras de Parmigiano Reggiano y Pecorino Romano en agua a 85 °C para extraer todo el ácido glutámico natural sin romper la grasa. Tuesta la pimienta negra en granos enteros para liberar los compuestos terpénicos florales antes de machacarla, y finaliza con una mantecatura ácida con manteca fría y una lluvia etérea de queso.",
+    "image": "img/risotto_cacio_pepe_heston.jpg?v=4.0",
+    "tags": [
+      "Heston Blumenthal",
+      "Risotto",
+      "Cacio e Pepe",
+      "Arroz",
+      "Parmesano",
+      "Pecorino",
+      "Gourmet",
+      "Italia"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Caldo de Cortezas de Queso (El Secreto de Heston)",
+        "items": [
+          "200 g de cortezas limpias de queso Parmigiano Reggiano o Grana Padano",
+          "100 g de cortezas de Pecorino Romano",
+          "1,2 litros de agua mineral",
+          "1 hoja pequeña de laurel"
+        ]
+      },
+      {
+        "name": "Arroz y Tostado de Pimienta",
+        "items": [
+          "320 g de arroz Carnaroli o Vialone Nano",
+          "2 cucharadas de pimienta negra en granos enteros (Tellicherry o Malabar)",
+          "1 chalota pequeña finamente picada en brunoise",
+          "80 ml de vino blanco seco",
+          "2 cucharadas de aceite de oliva virgen extra suave"
+        ]
+      },
+      {
+        "name": "Mantecatura y Emulsión Final",
+        "items": [
+          "80 g de manteca sin sal muy fría en cubitos",
+          "70 g de queso Pecorino Romano rallado con microplane (nube fina)",
+          "50 g de queso Parmigiano Reggiano de 24 meses rallado fino",
+          "1 cucharadita de jugo de limón fresco (para brillo y acidez)",
+          "Sal marina fina al gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Elaboración del Caldo de Queso",
+        "steps": [
+          "Colocar las cortezas de queso limpias y el laurel en una olla con el agua mineral. Calentar a fuego medio hasta alcanzar 85 °C (no debe hervir a borbotones).",
+          "Mantener a fuego mínimo tapado durante 45 minutos para extraer todo el umami de los quesos madurados. Colar el caldo y mantenerlo caliente a fuego mínimo."
+        ]
+      },
+      {
+        "name": "2. Tostado de la Pimienta y Nacarado del Arroz",
+        "steps": [
+          "En una sartén de fondo grueso en seco, tostar los granos enteros de pimienta negra durante 2 minutos hasta que desprendan un perfume floral intenso. Pasar a un mortero y machacarlos de forma gruesa.",
+          "En una cacerola amplia, calentar el aceite de oliva y sudar la chalota durante 3 minutos sin que tome color.",
+          "Agregar el arroz Carnaroli en seco y nacarar revolviendo durante 2 a 3 minutos hasta que los granos estén translúcidos en los bordes y calientes al tacto.",
+          "Desglasar con el vino blanco y dejar evaporar el alcohol por completo."
+        ]
+      },
+      {
+        "name": "3. Cocción del Risotto y Mantecatura All'Onda",
+        "steps": [
+          "Comenzar a verter el caldo caliente de queso de a cucharones, manteniendo un hervor alegre y revolviendo con frecuencia para liberar el almidón del arroz durante unos 15 a 16 minutos, hasta que el grano esté al dente.",
+          "Incorporar la mitad de la pimienta negra tostada machacada.",
+          "Retirar la cacerola del fuego: este paso es crucial. Dejar reposar 1 minuto.",
+          "Mantecatura: agregar los cubitos de manteca helada, el Pecorino, el Parmigiano y las gotas de jugo de limón. Batir enérgicamente en círculos y sacudir la cacerola para emulsionar el almidón, la grasa y el queso hasta lograr una crema fluida 'all'onda' (que hace olas).",
+          "Servir de inmediato en platos hondos atemperados, espolvoreando con el resto de la pimienta negra tostada en grano grueso."
+        ]
+      }
+    ],
+    "notes": "Nunca dejes hervir el caldo con las cortezas a más de 90 °C: a temperatura controlada el queso libera sus aminoácidos sin que la grasa se separe, creando un fondo brillante y perfumado."
+  },
+  {
+    "id": 448,
+    "title": "Steak Tartare Clásico de Autor al Estilo Heston Blumenthal",
+    "category": "Plato Principal",
+    "country": "Inglaterra / Francia",
+    "prep_time": "25 min",
+    "cook_time": "0 min (en crudo)",
+    "servings": "2 a 4 porciones",
+    "calories": "340 kcal por porción",
+    "story": "El steak tartare suele arruinarse cuando la carne se pica en procesadora, transformándose en una pasta densa y oxidada. Heston Blumenthal perfeccionó la técnica doméstica en 'Heston at Home': la carne fresca de lomo se lleva a frío intenso (casi congelada) durante 20 minutos para endurecer sus fibras y permitir un corte a cuchillo afilado milimétrico en cubitos limpios de 4 mm. La carne se aliña en el último instante con una emulsión sedosa de yema, mostaza inglesa picante, Worcestershire y Tabasco, equilibrada con el crocante ácido de las alcaparras baby y los pepinillos franceses.",
+    "image": "img/steak_tartare_heston.jpg?v=4.0",
+    "tags": [
+      "Heston Blumenthal",
+      "Steak Tartare",
+      "Carne Cruda",
+      "Lomo",
+      "Gourmet",
+      "Bistró",
+      "Francia",
+      "Inglaterra"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Carne Vacuna de Máxima Frescura",
+        "items": [
+          "400 g de lomo vacuno fresco (centro del lomo) totalmente limpio de grasa y tejido conectivo",
+          "2 yemas de huevo de campo pasteurizadas bien frescas"
+        ]
+      },
+      {
+        "name": "Aliño y Emulsión de Chef",
+        "items": [
+          "1 yema de huevo adicional (para la emulsión base)",
+          "1 cucharadita colmada de mostaza de Dijon o inglesa en pasta",
+          "1 cucharadita de salsa inglesa Worcestershire",
+          "4 a 5 gotas de salsa Tabasco roja",
+          "2 cucharadas de aceite de oliva virgen extra de perfil suave",
+          "1 cucharadita de salsa ketchup natural o puré de tomate concentrado"
+        ]
+      },
+      {
+        "name": "Aromáticos y Crocantes",
+        "items": [
+          "1 chalota pequeña picada en brunoise milimétrica",
+          "2 cucharadas de alcaparras baby escurridas y picadas toscas",
+          "3 pepinillos en vinagre (cornichons) cortados en cubitos diminutos",
+          "2 cucharadas de ciboulette fresco finamente picado",
+          "Sal marina en escamas y pimienta negra recién molida",
+          "Tostadas finas crocantes (Melba toasts) o pan de masa madre tostado para acompañar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Corte Milimétrico en Frío",
+        "steps": [
+          "Envolver el lomo limpio en film transparente y llevarlo al freezer durante 20 a 25 minutos para que tome firmeza sin llegar a congelarse del todo.",
+          "Con un cuchillo de chef muy afilado, cortar la carne primero en láminas finas de 4 mm, luego en bastoncitos finos y finalmente en cubitos limpios de 4 mm. No repasar ni picar de más para no magullar la fibra.",
+          "Colocar la carne picada en un bol apoyado sobre otro bol con hielo para mantenerla a temperatura impecable de 4 °C."
+        ]
+      },
+      {
+        "name": "2. Emulsión del Aliño",
+        "steps": [
+          "En un cuenco mediano batir la yema de huevo con la mostaza, las gotas de Tabasco, la salsa Worcestershire y el ketchup.",
+          "Añadir el aceite de oliva en hilo fino batiendo con un batidor pequeño hasta obtener una emulsión cremosa parecida a una mayonesa ligera.",
+          "Incorporar a la emulsión la chalota picada, los pepinillos, las alcaparras y el ciboulette."
+        ]
+      },
+      {
+        "name": "3. Integración y Emplatado de Bistró",
+        "steps": [
+          "Justo antes de servir, mezclar la carne fría con el aliño emulsionado usando una cuchara con movimientos suaves y envolventes. Sazonar con sal en escamas y pimienta negra recién molida.",
+          "Disponer un aro metálico de repostería de 8 cm en el centro de platos individuales fríos, rellenar con el tartare sin presionar en exceso para conservar ligereza y retirar el aro.",
+          "Hacer una pequeña hendidura en la parte superior y posar delicadamente una yema de huevo cruda intacta y brillante.",
+          "Servir inmediatamente acompañado de tostadas Melba crocantes."
+        ]
+      }
+    ],
+    "notes": "La regla de oro de Blumenthal: nunca mezcles la carne con el aderezo con anticipación; el ácido de la mostaza y los encurtidos comenzaría a 'cocinar' químicamente la carne y cambiaría su textura sedosa."
+  },
+  {
+    "id": 449,
+    "title": "Langostinos con Tres Salsas para Dipear (Prawns Trio Dips)",
+    "category": "Entrada / Plato Principal",
+    "country": "Australia",
+    "prep_time": "25 min",
+    "cook_time": "5 min",
+    "servings": "4 a 6 porciones",
+    "calories": "280 kcal por porción",
+    "story": "En las mesas costeras australianas, las celebraciones estivales y la Nochebuena frente al mar tienen un rey indiscutido popularizado por publicaciones como Taste.com.au: la fuente generosa de langostinos cocidos bien fríos sobre una cama de hielo picado, acompañados por un trío de salsas caseras que recorren tres perfiles gustativos contrastantes: la clásica salsa rosa cóctel (Marie Rose) con un toque cítrico, la vibrante salsa sweet chilli tailandesa con lima y cilantro, y un alioli cremoso de ajo suave asado.",
+    "image": "img/langostinos_tres_salsas.jpg?v=4.0",
+    "tags": [
+      "Mariscos",
+      "Langostinos",
+      "Australia",
+      "Taste.com.au",
+      "Salsas",
+      "Dips",
+      "Fresco",
+      "Verano"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Langostinos y Presentación",
+        "items": [
+          "1 kg de langostinos enteros cocidos de gran tamaño (o colas de langostinos peladas con cola intacta)",
+          "Abundante hielo picado para la base de la fuente",
+          "2 limones y 2 limas cortados en gajos",
+          "Ramitas de eneldo fresco o perejil rizado para decorar"
+        ]
+      },
+      {
+        "name": "Salsa 1: Cóctel Clásica Australiana (Marie Rose)",
+        "items": [
+          "150 g de mayonesa de huevo entero de buena calidad",
+          "2 cucharadas de salsa de tomate kétchup natural",
+          "1 cucharadita de salsa inglesa Worcestershire",
+          "1 cucharada de jugo fresco de limón",
+          "1 pizca de pimentón dulce ahumado y gotas de Tabasco al gusto"
+        ]
+      },
+      {
+        "name": "Salsa 2: Sweet Chilli, Lima y Cilantro Fresco",
+        "items": [
+          "120 ml de salsa sweet chilli tailandesa (agridulce picante)",
+          "Jugo y ralladura fina de 1 lima verde",
+          "1 cucharadita de salsa de pescado asiática (nam pla)",
+          "2 cucharadas colmadas de cilantro fresco recién picado",
+          "1 chile rojo pequeño sin semillas en rodajitas finas (opcional para más picor)"
+        ]
+      },
+      {
+        "name": "Salsa 3: Alioli Cremoso de Ajo Asado y Hierbas",
+        "items": [
+          "150 g de mayonesa cremosa o alioli casero",
+          "3 dientes de ajo asados al horno (o 1 diente fresco rallado muy fino)",
+          "1 cucharadita de mostaza Dijon",
+          "2 cucharadas de ciboulette o cebollín picado fino",
+          "Sal marina y pimienta negra recién molida"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Preparación de los Langostinos",
+        "steps": [
+          "Si los langostinos están crudos, hervirlos en agua con sal marina y laurel durante 2 a 3 minutos hasta que tomen su color rosado intenso; pasarlos de inmediato a un baño de agua con hielo para frenar la cocción y mantener su carne crocante.",
+          "Pelar los cuerpos dejando la cola intacta para facilitar el dipeo, y retirar el tracto intestinal con una pequeña incisión en el lomo si no viene limpio."
+        ]
+      },
+      {
+        "name": "2. Elaboración del Trío de Salsas",
+        "steps": [
+          "Salsa Cóctel: En un cuenco mezclar la mayonesa con el kétchup, la salsa inglesa, el jugo de limón, el pimentón y el toque de Tabasco hasta lograr una crema rosa homogénea.",
+          "Salsa Sweet Chilli: En otro cuenco combinar la salsa agridulce con el jugo y ralladura de lima, la salsa de pescado y el cilantro fresco picado.",
+          "Alioli de Ajo Asado: Pisar los dientes de ajo asados hasta hacerlos puré, mezclar con la mayonesa, la mostaza Dijon, el ciboulette picado, sal y pimienta.",
+          "Refrigerar las tres salsas tapadas durante al menos 20 minutos para que los sabores se amalgamen."
+        ]
+      },
+      {
+        "name": "3. Montaje y Servicio Festivo",
+        "steps": [
+          "Disponer una capa generosa de hielo picado en una bandeja o fuente grande de loza blanca.",
+          "Acomodar los langostinos en abanico circular sobre el hielo con las colas hacia afuera.",
+          "Colocar los tres cuencos con las salsas en el centro o alrededor de la fuente.",
+          "Intercalar con los gajos de limón y lima frescos y ramitas de eneldo.",
+          "Servir de inmediato para dipear cada langostino frío en la salsa preferida."
+        ]
+      }
+    ],
+    "notes": "Tener tres salsas con perfiles bien diferenciados (una cremosa tradicional, una agridulce cítrica picante y una aromática de ajo) convierte un plato simple de mariscos en una experiencia interactiva y gourmet."
   }
 ]
