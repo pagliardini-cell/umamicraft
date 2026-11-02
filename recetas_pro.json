@@ -33849,5 +33849,77 @@
       }
     ],
     "notes": "Tener tres salsas con perfiles bien diferenciados (una cremosa tradicional, una agridulce cítrica picante y una aromática de ajo) convierte un plato simple de mariscos en una experiencia interactiva y gourmet."
+  },
+  {
+    "id": 450,
+    "title": "Masa Casera para Arrolladitos Primavera (Spring Roll Wrappers)",
+    "category": "Básicos / Masas y Panes",
+    "country": "China",
+    "prep_time": "20 min",
+    "cook_time": "25 min",
+    "servings": "18 a 20 tapas (20 cm)",
+    "calories": "45 kcal por unidad",
+    "story": "La masa para arrolladitos primavera fritos (conocida en China como Chūnjuǎn Pí, 春卷皮) es una joya de la técnica culinaria tradicional. A diferencia de las crepes al vapor (Chūnbǐng) utilizadas frescas para el pato Pekín, la verdadera masa para arrolladitos fritos no se cocina al vapor: se realiza mediante una cocción en seco ultrafina y rápida a la sartén o plancha con pincel de cocina (o con el ancestral método del pellizco elástico). Este contacto directo y seco deshidrata la masa lo justo para que quede flexible y translúcida como papel de seda, logrando que al sumergirse en el aceite caliente se llene de micro-burbujas crujientes y no absorba ni una gota de grasa de más.",
+    "image": "img/masa_arrolladitos_primavera.jpg?v=4.0",
+    "tags": [
+      "Masas",
+      "Arrolladitos Primavera",
+      "China",
+      "Crocante",
+      "Tapas",
+      "Fritos",
+      "Técnica",
+      "Básicos"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Base del Batido Líquido",
+        "items": [
+          "140 g (1 taza) de harina de trigo 0000 o común (baja en proteína)",
+          "30 g (2 cucharadas soperas colmadas) de almidón de maíz (Maicena) — vital para la textura vidriosa y quebradiza al freír",
+          "300 ml (1 taza y 1/4) de agua fría",
+          "1/2 cucharadita de sal fina",
+          "1 cucharadita de aceite vegetal neutro (girasol o maíz)"
+        ]
+      },
+      {
+        "name": "Para Separar, Armar y Sellar",
+        "items": [
+          "Almidón de maíz extra para espolvorear entre lámina y lámina",
+          "1 cucharada de harina disuelta en 2 cucharadas de agua tibia (engrudo para sellar el cierre final)",
+          "Relleno a elección (repollo en juliana, zanahoria, carne picada o cerdo y brotes bien escurridos y fríos)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Preparación y Reposo del Batido Líquido",
+        "steps": [
+          "Tamizar en un bowl hondo la harina 0000 junto con el almidón de maíz y la sal fina.",
+          "Verter el agua fría gradualmente mientras se bate con batidor de alambre hasta obtener una mezcla homogénea, muy fluida y sin grumos (más líquida que la masa de panqueques comunes). Incorporar la cucharadita de aceite.",
+          "Pasar obligatoriamente la mezcla por un colador de malla fina para atrapar cualquier mínimo grumo restante.",
+          "Cubrir el bowl y dejar reposar en la heladera durante 20 a 30 minutos; este reposo relaja el gluten y permite una hidratación perfecta del almidón, evitando que las tapas se quiebren o se encojan en la sartén."
+        ]
+      },
+      {
+        "name": "2. Cocción a la Sartén con el Método del Pincel (¡En Seco, Sin Vapor!)",
+        "steps": [
+          "Calentar una sartén antiadherente amplia o crepera a fuego mínimo/bajo. Untar apenas con un papel absorbente humedecido en una gota de aceite (solo la primera vez).",
+          "Retirar la sartén del fuego por unos segundos para controlar la temperatura. Con un pincel de cocina de silicona o cerda suave, mojar en el batido y pintar la superficie de la sartén con pinceladas rápidas y cruzadas hasta formar un disco parejo y ultrafino de 20 cm, sin dejar huecos.",
+          "Regresar la sartén a fuego bajo durante 40 a 50 segundos. A medida que el calor seca la masa, pasará de blanco lechoso a translúcida y los bordes comenzarán a despegarse y curvarse solos hacia arriba.",
+          "¡No dar vuelta ni dorar! En cuanto los bordes se levanten y el centro no se pegue al tacto, tomar con la punta de los dedos y retirar la lámina de un solo tirón suave."
+        ]
+      },
+      {
+        "name": "3. Enfriado, Apilado y Fritura Crujiente",
+        "steps": [
+          "Apoyar la lámina sobre un plato o tabla limpia. Dejar enfriar un minuto antes de apoyar la siguiente.",
+          "Espolvorear una pizca casi invisible de almidón de maíz sobre cada tapa antes de apilar la siguiente para evitar que se adhieran entre sí.",
+          "Para armar: colocar una porción del relleno frío en el tercio inferior de la tapa, doblar la solapa inferior cubriendo el relleno, plegar los dos extremos laterales hacia el centro, enrollar ajustado y pincelar el último centímetro con el engrudo de harina y agua para sellar herméticamente.",
+          "Freír en abundante aceite caliente (180 °C) durante 3 a 4 minutos hasta que adquieran un tono dorado claro y la masa se llene de burbujas crujientes. Escurrir sobre papel absorbente y servir calientes."
+        ]
+      }
+    ],
+    "notes": "¿Por qué NO se hace al vapor? En la gastronomía china existen dos tipos de masas de primavera: 1) Chūnbǐng (春饼): masa amasada con harina y agua caliente, estirada en discos finos aceitados y cocida al vapor en torre dentro de vaporeras de bambú; son crepes suaves, flexibles y húmedas destinadas a consumirse directamente frescas envolviendo pato Pekín. 2) Chūnjuǎn Pí (春卷皮): láminas líquidas secadas a la plancha o sartén tibia; no reciben humedad de vapor para asegurar que la masa quede deshidratada y, al sumergirse en el aceite hirviendo, reviente en micro-ampollas crujientes sin absorber grasa ni quedar chiclosa."
   }
 ]
