@@ -1657,6 +1657,18 @@
       to { transform: translateY(0); opacity: 1; }
     }
   </style>
+  <script>
+    // Limpieza forzada de cache antigua en PWA instalada en celulares
+    if ('caches' in window) {
+      caches.keys().then(function(keys) {
+        keys.forEach(function(key) {
+          if (key !== 'umamicraft-v4.0') {
+            caches.delete(key);
+          }
+        });
+      });
+    }
+  </script>
 </head>
 <body>
 
