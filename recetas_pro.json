@@ -34018,5 +34018,91 @@
       }
     ],
     "notes": "La técnica de hidratar el cerdo con la infusión de anís y pimienta de Sichuan mediante batido en un solo sentido es el secreto milenario para que el relleno quede tierno, jugoso y con caldo interno sin necesidad de exceso de grasa."
+  },
+  {
+    "id": 452,
+    "title": "Pizza a la Parrilla al Estilo Bob Blumer (Técnica de Fuego Directo y Coberturas Clásicas)",
+    "category": "Pizzas / Parrilla",
+    "country": "Canadá / Internacional",
+    "prep_time": "30 min",
+    "cook_time": "10 min",
+    "servings": "4 porciones (3 pizzas medianas)",
+    "calories": "320 kcal por porción",
+    "story": "Creada y perfeccionada por el chef y récord Guinness Bob Blumer en su aclamado libro Pizza on the Grill, esta técnica revolucionó la forma de cocinar pizza al aire libre. En lugar de utilizar asaderas o piedras refractarias, la masa estirada exclusivamente con aceite de oliva se deposita directamente sobre los fierros al rojo vivo. El calor violento de las brasas (superior a los 350 °C) genera un inflado instantáneo de burbujas de aire y un piso crocante ahumado insuperable. El toque distintivo de autor consiste en frotar un diente de ajo crudo sobre la masa tostada caliente apenas sale del primer golpe de fuego, absorbiendo todo su aroma antes de gratinar los quesos con la parrilla tapada.",
+    "image": "img/pizza_parrilla_bob_blumer.jpg?v=4.0",
+    "tags": [
+      "Pizza",
+      "Parrilla",
+      "Bob Blumer",
+      "Asado",
+      "Masa Casera",
+      "Mozzarella",
+      "Rúcula",
+      "Fugazzeta"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Masa Parrillera de Alta Elasticidad",
+        "items": [
+          "500 g de harina de trigo 0000 o 000",
+          "300 ml de agua tibia (60% de hidratación)",
+          "5 g de levadura seca (o 15 g de levadura fresca)",
+          "10 g de sal fina (1 cucharadita colmada)",
+          "2 cucharadas de aceite de oliva virgen extra para la masa",
+          "Abundante aceite de oliva extra para estirar y pincelar (no usar harina suelta)"
+        ]
+      },
+      {
+        "name": "Aromatizado y Base de Queso",
+        "items": [
+          "1 diente de ajo grande pelado y partido al medio (para frotar sobre la masa caliente)",
+          "1 taza de tomate triturado condimentado con sal marina, pimienta y oliva",
+          "400 g de queso mozzarella rallado grueso o en cubos chicos"
+        ]
+      },
+      {
+        "name": "Opciones de Rellenos y Coberturas Populares",
+        "items": [
+          "Opción Rúcula y Jamón Crudo: 120 g de jamón crudo en fetas finas, 1 atado de rúcula fresca lavada y seca, virutas de queso parmesano o sardo y pimienta negra molida",
+          "Opción Fugazzeta: 1 cebolla grande cortada en pluma fina macerada con orégano y oliva, 100 g de jamón cocido en tiras y 50 g de queso provolone rallado",
+          "Opción Calabresa: 100 g de longaniza calabresa en rodajas finas, 1/2 morrón asado en tiras y aceitunas negras descarozadas"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Preparación de la Masa y Fuego de Dos Zonas",
+        "steps": [
+          "En un bowl grande integrar la harina con la sal. Disolver la levadura en el agua tibia con el aceite de oliva, verter sobre la harina y amasar durante 8 a 10 minutos hasta lograr un bollo elástico, suave y homogéneo.",
+          "Dividir la masa en 3 bollos iguales, colocar en una bandeja apenas aceitada, tapar y dejar levar durante 1 hora a temperatura ambiente hasta que dupliquen su volumen.",
+          "Preparar la parrilla configurando dos zonas de temperatura: una mitad con brasas vivas a fuego medio-alto (zona directa) y la otra mitad sin brasas o con rescoldo mínimo (zona indirecta). Limpiar a fondo los fierros y aceitarlos con un paño."
+        ]
+      },
+      {
+        "name": "2. Estirado con Aceite y Primer Golpe de Fuego",
+        "steps": [
+          "Aceitar bien las manos y la superficie de trabajo. Estirar cada bollo con las palmas y yemas de los dedos formando discos delgados de 25 a 30 cm. Evitar el uso de harina suelta para estirar, ya que se quema sobre las brasas y aporta sabor amargo.",
+          "Tomar el disco de masa con ambas manos y depositarlo directamente sobre los fierros calientes en la zona de fuego directo.",
+          "Cocinar durante 60 a 90 segundos. La masa comenzará a inflar grandes ampollas de aire y la base tomará marcas tostadas definidas. En cuanto se despegue con facilidad, retirar con espátula o pinza hacia una tabla de madera."
+        ]
+      },
+      {
+        "name": "3. El Secreto del Ajo y Armado",
+        "steps": [
+          "Apoyar la masa sobre la tabla con la cara tostada hacia arriba.",
+          "Frotar con firmeza la mitad del diente de ajo crudo sobre toda la superficie tostada rugosa; el calor y la textura actuarán como un rallador fino absorbiendo los aceites aromáticos del ajo. Pincelar de inmediato con unas gotas de aceite de oliva.",
+          "Distribuir una capa delgada de salsa de tomate o base blanca, seguida por la mozzarella y los ingredientes de cocción (cebolla macerada, jamón cocido o longaniza calabresa). Mantener las coberturas ligeras para no sobrecargar la masa."
+        ]
+      },
+      {
+        "name": "4. Golpe Final Tapado y Servicio",
+        "steps": [
+          "Llevar la pizza armada a la zona de calor indirecto de la parrilla (lejos del fuego directo debajo).",
+          "Cubrir la pizza con la tapa de la parrilla (o con una asadera metálica invertida) durante 3 a 4 minutos. El calor envolvente derretirá los quesos a la perfección mientras la base termina de quedar crocante.",
+          "Retirar a la tabla. Para la versión con rúcula y jamón crudo, colocar las fetas sobre el queso hirviendo, agregar el colchón de rúcula fresca, las lascas de parmesano y un hilo de aceite de oliva crudo. Cortar y servir de inmediato."
+        ]
+      }
+    ],
+    "notes": "El método de dos zonas de calor y el estirado exclusivo con aceite de oliva son las claves del chef Bob Blumer para lograr una masa con burbujas aireadas y fondo crujiente, evitando que la base se queme antes de que el queso se funda por completo."
   }
 ]
