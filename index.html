@@ -3075,20 +3075,48 @@
         notesBox.style.display = 'none';
       }
 
-      // Related Recipes
-      const related = recipes
-        .filter(x => x.id !== r.id && (getCategory(x) === category || getCountry(x) === country))
-        .slice(0, 3);
+      // Related Recipes con afinidad inteligente (tags, categoría, país y título)
+      const rTags = (r.tags || []).map(t => String(t).toLowerCase());
+      const rTitleWords = (r.title || '').toLowerCase().replace(/[,()\/]+/g, ' ').split(/\s+/).filter(w => w.length > 3);
+      const scored = recipes
+        .filter(x => x.id !== r.id)
+        .map(x => {
+          let score = 0;
+          if (getCategory(x) === category) score += 4;
+          if (getCountry(x) === country) score += 2;
+          const xTags = (x.tags || []).map(t => String(t).toLowerCase());
+          const commonTags = rTags.filter(t => xTags.includes(t));
+          score += commonTags.length * 3;
+          const xTitle = (x.title || '').toLowerCase();
+          const commonWords = rTitleWords.filter(w => xTitle.includes(w));
+          score += commonWords.length * 4;
+          return { recipe: x, score };
+        })
+        .filter(item => item.score > 0)
+        .sort((a, b) => b.score - a.score);
+
+      let related = scored.slice(0, 3).map(item => item.recipe);
+      if (related.length < 3) {
+        const fallbacks = recipes.filter(x => x.id !== r.id && !related.some(rel => rel.id === x.id));
+        related = related.concat(fallbacks.slice(0, 3 - related.length));
+      }
+
+      const relSection = document.getElementById('modalRelatedSection');
       const relGrid = document.getElementById('modalRelatedGrid');
-      relGrid.innerHTML = related.map(rel => `
-        <div class="related-mini-card" onclick="openModal(${rel.id})">
-          <img src="${rel.image}" alt="${rel.title}">
-          <div>
-            <div style="font-size:0.72rem; color:var(--primary); font-weight:700;">${getCountryBadgeHtml(getCountry(rel))}</div>
-            <div style="font-size:0.88rem; font-weight:700; line-height:1.25;">${rel.title}</div>
+      if (related.length) {
+        if (relSection) relSection.style.display = 'block';
+        relGrid.innerHTML = related.map(rel => `
+          <div class="related-mini-card" onclick="openModal(${rel.id})">
+            <img src="${rel.image}" alt="${rel.title}">
+            <div>
+              <div style="font-size:0.72rem; color:var(--primary); font-weight:700;">${getCountryBadgeHtml(getCountry(rel))}</div>
+              <div style="font-size:0.88rem; font-weight:700; line-height:1.25;">${rel.title}</div>
+            </div>
           </div>
-        </div>
-      `).join('');
+        `).join('');
+      } else if (relSection) {
+        relSection.style.display = 'none';
+      }
 
       document.getElementById('recipeModal').classList.add('open');
       document.body.style.overflow = 'hidden';
