@@ -16993,15 +16993,15 @@
     "servings": "4 a 6 porciones",
     "calories": "510 kcal aprox. por porción",
     "diet_badges": [],
-    "story": "A pesar de su nombre italiano, los sorrentinos son una creación 100% argentina: nacieron en la Trattoria Sorrento de Mar del Plata (de la familia Véspoli, originaria de Sorrento) y en su célebre local porteño de la Avenida Corrientes 668. Son pastas rellenas redondas tipo sombrero, más grandes que un raviol o agnolotti, tradicionalmente rellenas con muzzarella, jamón cocido y quesos.",
+    "story": "A pesar de su nombre italiano, los sorrentinos son una creación 100% argentina: nacieron en Mar del Plata de la mano de la familia Véspoli (inmigrantes originarios de Sorrento) en su histórica Trattoria Napolitana Véspoli de la calle 3 de Febrero, la primera sorrentinería de Argentina. Inspirados en recetas de la nonna María Gracia, crearon esta pasta redonda rellena de jamón y queso con forma de sombrero, utilizando su clásica masa elástica de agua hirviendo sin huevo.",
     "ingredient_groups": [
       {
-        "name": "Para la masa",
+        "name": "Para la masa tradicional (sin huevo, método agua hirviendo)",
         "items": [
-          "450 g de harina de trigo 0000",
-          "2 huevos (o chorrito de aceite según versión)",
-          "Agua caliente c/n (aprox. 150 a 200 ml, agregando de a poco hasta tomar la masa)",
-          "1 cucharadita de sal fina"
+          "500 g de harina de trigo 0000",
+          "250 a 280 ml de agua hirviendo",
+          "2 cucharadas de aceite neutro o de oliva",
+          "1 cucharadita colmada de sal fina"
         ]
       },
       {
@@ -17020,7 +17020,7 @@
       {
         "name": "Masa, relleno y armado",
         "steps": [
-          "Colocar la harina en un bol grande en forma de corona, disponer en el centro la sal y los huevos (o aceite) e ir incorporando el agua caliente de a poco mientras se mezcla con cuchara de madera hasta unir.",
+          "Para la masa sin huevo (técnica tradicional de agua hirviendo): colocar la harina en un bol en forma de corona con la sal y las 2 cucharadas de aceite. Verter el agua hirviendo en el centro y mezclar rápidamente con cuchara de madera o espátula hasta que la harina absorba el líquido. Cuando baje apenas la temperatura, volcar a la mesada y amasar enérgicamente 8 a 10 minutos hasta lograr un bollo liso, suave y elástico. Tapar y dejar reposar 30 minutos (el agua hirviendo precocina el almidón y relaja el gluten, logrando una masa dócil que no se rompe al hervir).",
           "Pasar el bollo a la mesada enharinada y amasar durante unos 10 minutos hasta obtener una masa elástica y sedosa. Estirar bien fina con palote o máquina de pastas y cortar discos redondos (o forrar una sorrentinera).",
           "Unir los recortes de masa (humedeciendo apenas si hiciera falta), volver a amasar, estirar y cortar más discos.",
           "En un bol mediano, mezclar la muzzarella picada, el jamón cocido picado, el queso rallado, la manteca, los huevos, sal, pimienta y nuez moscada hasta integrar una pasta homogénea.",
