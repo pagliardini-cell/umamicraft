@@ -14576,17 +14576,20 @@
   },
   {
     "id": 219,
-    "title": "La Panzanella Toscana (Italia)",
+    "title": "La Panzanella Marchigiana al Estilo de Borgo Pace (Italia)",
     "country": "Italia",
     "category": "Ensaladas",
     "tags": [
       "Italia",
+      "Borgo Pace",
+      "Pesaro e Urbino",
+      "Marche",
       "Toscana",
       "Panzanella",
       "Ensalada",
       "Tomate",
-      "Pan",
-      "Cocina"
+      "Pan Sciapo",
+      "Cocina Campesina"
     ],
     "prep_time": "15 min",
     "cook_time": "0 min",
@@ -14599,34 +14602,37 @@
       "Vegano",
       "Sin Lácteos"
     ],
-    "story": "La Panzanella es la célebre ensalada campesina de verano de la Toscana, mencionada ya en el siglo XVI por el pintor y poeta florentino Bronzino. Nacida para aprovechar el pan toscano sin sal (pane sciocco) que endurece rápido, hidrata los cubos de pan de campo con agua fresca, vinagre, jugo de tomates maduros, pepino, cebolla morada, albahaca y un generoso aceite de oliva virgen extra.",
+    "story": "En la frontera tripartita donde se abrazan Las Marcas, la Toscana y Umbría, y muy especialmente en pueblos apeninos como Borgo Pace, la Panzanella es la reina absoluta de la mesa campesina de verano. Nacida de la más noble cucina povera para aprovechar el tradicional pane sciapo (pan de campo rústico horneado a la leña y sin sal, que al segundo día endurece como una piedra), esta ensalada refrescante hidrata la miga con agua fresca y un chorro de vinagre de vino, para luego desmenuzarla a mano y casarla con tomates maduros de huerta, cebolla morada en pluma fina, hojas de albahaca fresca y el crocante indispensable del apio (sedano), bañada con un generoso hilo de aceite de oliva virgen extra de los valles del Metauro.",
     "ingredient_groups": [
       {
-        "name": "Ingredientes",
+        "name": "Ingredientes Principales",
         "items": [
-          "8 rodajas de pan de campo del día anterior (preferentemente firme), cortado en cubos de 2 cm",
-          "500 g de tomates bien maduros",
-          "1 pepino mediano",
-          "1 cebolla mediana (preferentemente morada)",
-          "1 manojo de hojas de albahaca fresca a gusto",
-          "Aceite de oliva virgen extra de buena calidad c/n",
-          "Vinagre de vino blanco c/n",
-          "Sal y pimienta negra recién molida"
+          "350 g de pan de campo rústico del día anterior (idealmente pane sciapo sin sal de costra gruesa y miga densa)",
+          "500 g de tomates perita o corazón de buey bien maduros y jugosos",
+          "1 tallo de apio fresco con sus hojas más tiernas, cortado en rodajitas finas (el toque clásico de Las Marcas)",
+          "1 cebolla morada mediana cortada en pluma fina",
+          "1 pepino mediano firme, pelado y cortado en rodajas delgadas",
+          "1 manojo generoso de hojas frescas de albahaca (rotas a mano)",
+          "4 cucharadas de aceite de oliva virgen extra de primera presión",
+          "2 a 3 cucharadas de buen vinagre de vino tinto o blanco artesanal",
+          "Sal marina fina y pimienta negra recién molida a gusto",
+          "Agua fresca c/n para remojar el pan"
         ]
       }
     ],
     "step_groups": [
       {
-        "name": "Preparación",
+        "name": "Preparación Tradicional",
         "steps": [
-          "Humedecer ligeramente los cubos de pan seco en agua fría solo hasta que se ablanden apenas por fuera; escurrirlos enseguida apretándolos con las manos para que queden esponjosos y no empapados.",
-          "Cortar los tomates en gajos o dados (conservando todos sus jugos), pelar y cortar el pepino en rodajas finas y la cebolla morada en pluma fina.",
-          "Reunir el pan y los vegetales en una ensaladera amplia, sumar las hojas de albahaca rasgadas con la mano y condimentar generosamente con aceite de oliva virgen extra, vinagre blanco, sal y pimienta.",
-          "Llevar a la heladera durante un par de horas para que el pan absorba los jugos del tomate y el aliño. Servir bien fresca."
+          "Preparar la cebolla y el pan: cortar la cebolla morada en pluma bien fina y sumergirla en un bol con agua helada durante 15 minutos para suavizar su potencia. Cortar o quebrar el pan duro en trozos medianos y colocarlos en una fuente amplia.",
+          "El Secreto del Remojo y Estrujado: rociar el pan con agua fresca mezclada con una cucharada de vinagre. Dejar reposar apenas 1 a 2 minutos hasta que la miga se ablande pero sin transformarse en papilla. Tomar porciones de pan con las manos y estrujarlas con fuerza para escurrir todo el exceso de líquido. Desmigajar el pan rústico con los dedos dentro de una ensaladera grande.",
+          "Incorporar los Vegetales y Aromas: cortar los tomates en trozos medianos sobre la misma ensaladera para no perder ni una gota de su jugo natural. Añadir el pepino en rodajas, el apio crocante con sus hojas tiernas picadas y la cebolla morada escurrida.",
+          "Condimentar y Reposar: rasgar las hojas de albahaca fresca con las manos sobre el bol. Sazonar con sal marina, pimienta negra recién molida, el resto del vinagre de vino y un abundante chorro de aceite de oliva virgen extra.",
+          "El Toque Final de Frío: mezclar todo suavemente con cuchara de madera para que la miga absorba los jugos del tomate y el aliño. Llevar a la heladera tapada por lo menos 1 a 2 horas antes de servir para que los sabores se amalgamen. Servir bien fresca."
         ]
       }
     ],
-    "notes": "Usar siempre pan rústico de miga firme del día anterior (nunca pan lactal tierno, ya que se desharía al contacto con el agua y el jugo del tomate).",
+    "notes": "El secreto de la auténtica panzanella apenina es jamás usar pan blando o lactal, sino pan de leña de miga compacta y estrujarlo muy bien: la miga debe quedar suelta y esponjosa, absorbiendo luego el jugo fresco y ácido del tomate maduro y el aceite de oliva virgen extra.",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOwO0CwUoKV1KFrChPfwgez-SAucrLbOppK2dZwowEvY_9S7EwZ6-T6L3NSWzto_AXrTqkaw6Ss5ggsCbcLTS8BXwsutYPxmFPfgJZAHojp5bxaIZoEfFBBZdoUeYtrGuz5jd319Xjz1vv/s1600/La+Panzanella+(Italia).jpg",
     "url": "https://recarg.blogspot.com/2010/02/la-panzanella-italia.html",
     "original_title": "La Panzanella (Italia)",
@@ -34270,5 +34276,432 @@
       }
     ],
     "notes": "La cocción en grasa de pato aporta una profundidad de sabor y un tostado crujiente insuperables gracias a su alto punto de humo y perfil graso. Al combinarse con la frescura sedosa de la burrata y la acidez dulce del tomate seco, transforma un clásico popular en una experiencia de alta gastronomía."
+  },
+  {
+    "id": 455,
+    "title": "Il Crostolo di Sompiano alla Brace (Italia)",
+    "country": "Italia",
+    "category": "Panes y Masas",
+    "tags": [
+      "Italia",
+      "Borgo Pace",
+      "Sompiano",
+      "Pesaro e Urbino",
+      "Marche",
+      "Patata Rossa",
+      "Crostolo",
+      "Parrilla",
+      "Cocina Campesina",
+      "Massa Trabaria"
+    ],
+    "prep_time": "35 min",
+    "cook_time": "15 min",
+    "rest_time": "30 min",
+    "temperature": "Brasas medias o plancha a fuego medio",
+    "servings": "4 porciones (4 crostoli grandes)",
+    "calories": "430 kcal aprox. por unidad",
+    "diet_badges": [
+      "Casero",
+      "Cocina a la Brasa",
+      "Tradicional"
+    ],
+    "story": "En la pintoresca fracción de Sompiano, dentro del municipio apenino de Borgo Pace, se celebra cada año la célebre Festa della Patata Rossa. La estrella indiscutida y orgullo culinario del pueblo es el 'Crostolo di Sompiano': una masa rústica muy fina estirada a mano, rellena con un suave puré de patata roja local, salchicha artesanal de cerdo desmenuzada con aroma a hinojo silvestre y queso fundente Caciotta d'Urbino o scamorza. Tradicionalmente se cocina sobre una rejilla posada sobre las brasas vivas de carbón vegetal ('carbonella'), elaborado por los históricos carbonai de Borgo Pace, logrando una costra crocante y tostada con un corazón fundido irresistible.",
+    "ingredient_groups": [
+      {
+        "name": "Masa Rústica del Crostolo",
+        "items": [
+          "350 g de harina de trigo 00 (o común de buena fuerza)",
+          "180 ml de agua tibia",
+          "30 g de manteca de cerdo (strutto) a temperatura ambiente o 3 cucharadas de aceite de oliva virgen extra",
+          "1 cucharadita de sal fina marina"
+        ]
+      },
+      {
+        "name": "Relleno Campesino de Sompiano",
+        "items": [
+          "400 g de patatas rojas (idealmente Patata Rossa di Sompiano o papas de cáscara roja y pulpa firme)",
+          "250 g de salchicha parrillera artesanal de cerdo fresca (desmenuzada sin piel, aromatizada con ajo y semillas de hinojo)",
+          "180 g de queso Caciotta d'Urbino DOP o scamorza blanca (cortada en cubitos o láminas finas)",
+          "1 cucharada de aceite de oliva virgen extra",
+          "Sal marina fina, pimienta negra recién molida y una pizca de nuez moscada rallada"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Elaboración de la Masa",
+        "steps": [
+          "Formar una corona con la harina sobre la mesada y colocar en el centro la sal, el agua tibia y la manteca de cerdo (o el aceite de oliva). Integrar con un tenedor y luego amasar con las manos durante 8 a 10 minutos hasta lograr un bollo elástico, suave y homogéneo.",
+          "Envolver el bollo en film transparente o cubrirlo con un paño limpio y dejar reposar 30 minutos a temperatura ambiente para que el gluten se relaje."
+        ]
+      },
+      {
+        "name": "2. Preparación del Relleno",
+        "steps": [
+          "Lavar las patatas rojas y cocinarlas enteras con piel en abundante agua hirviendo con sal durante 25 minutos hasta que estén tiernas al pincharlas. Pelar en caliente y pisarlas con pisapapas dentro de un bol amplio hasta obtener un puré rústico y seco.",
+          "En una sartén con un hilo de aceite de oliva, dorar a fuego medio la salchicha desmenuzada durante 5 minutos, rompiendo los trozos con cuchara de madera hasta que esté cocida y apenas dorada. Retirar escurriendo el exceso de grasa e incorporar de inmediato al puré de patatas. Mezclar bien, salpimentar y sumar la nuez moscada."
+        ]
+      },
+      {
+        "name": "3. Armado y Sellado",
+        "steps": [
+          "Dividir la masa reposada en 4 bollos iguales. Estirar cada bollo con palote sobre la mesada ligeramente enharinada hasta formar un círculo fino de unos 2 a 3 mm de espesor y 22 cm de diámetro.",
+          "Distribuir sobre una de las mitades de cada disco una capa generosa del puré con salchicha templado y cubrir con los cubos de queso Caciotta d'Urbino. Doblar la masa formando una media luna y presionar firmemente los bordes con los dedos, sellando con un repulgue fino o marcando el borde con los dientes de un tenedor para que el relleno no escape."
+        ]
+      },
+      {
+        "name": "4. Cocción a la Brasa o a la Plancha",
+        "steps": [
+          "Cocinar sobre una parrilla con brasas suaves de leña o sobre una plancha de hierro fundido bien caliente a fuego medio durante 4 a 5 minutos por lado, dándolo vuelta con espátula una vez que la masa se infle con motas tostadas y crocantes.",
+          "Servir recién salido del fuego, cortado al medio con el queso fundido desbordando y el aroma ahumado de las brasas."
+        ]
+      }
+    ],
+    "notes": "El secreto del Crostolo es la finura de la masa y la cocción seca: la masa debe quedar ampollada y crocante como una piadina o calzone a la chapa, mientras que el puré de patata roja absorbe la grasa especiada de la salchicha y mantiene el relleno jugoso.",
+    "image": "img/crostolo_sompiano_alla_brace.jpg",
+    "url": "https://umamicraft.vercel.app/r/455.html",
+    "original_title": "Il Crostolo di Sompiano alla Brace (Italia)",
+    "published": "2026-11-04"
+  },
+  {
+    "id": 456,
+    "title": "Polenta rustica dei Carbonai di Borgo Pace (Italia)",
+    "country": "Italia",
+    "category": "Guisos y Cazuelas",
+    "tags": [
+      "Italia",
+      "Borgo Pace",
+      "Massa Trabaria",
+      "Pesaro e Urbino",
+      "Marche",
+      "Carbonai",
+      "Polenta",
+      "Cerdo",
+      "Cocina de Montaña"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "1 h 15 min",
+    "temperature": "Fuego lento / Cocción prolongada",
+    "servings": "4 a 6 porciones",
+    "calories": "580 kcal aprox. por porción",
+    "diet_badges": [
+      "Sin Gluten",
+      "Cocina de Montaña",
+      "Plato Único"
+    ],
+    "story": "En los densos bosques de hayas y robles del Alpe della Luna que circundan Borgo Pace, los carboneros vivían durante meses en campamentos de montaña manteniendo encendidas las 'carbonaie'. Su plato comunal por excelencia era la polenta cocida en calderas de cobre sobre el fuego de leña. Una vez lista, se volcaba de golpe en el centro de una larga tabla de madera ('spianatora') alrededor de la cual se sentaban todos con cucharas de madera, y se coronaba con un ragù concentrado y espeso de costillitas de cerdo, salchichas campesinas, panceta, hierbas del bosque y abundante vino tinto.",
+    "ingredient_groups": [
+      {
+        "name": "Polenta Rústica",
+        "items": [
+          "400 g de harina de maíz de molienda gruesa (bramata o rústica)",
+          "1,6 litros de agua",
+          "1 cucharada de sal gruesa",
+          "2 cucharadas de aceite de oliva o manteca de cerdo"
+        ]
+      },
+      {
+        "name": "Ragù dei Carbonai",
+        "items": [
+          "500 g de costillitas de cerdo cortadas en trozos individuales pequeños",
+          "3 salchichas frescas de cerdo campesinas desmenuzadas",
+          "100 g de panceta curada cortada en cubos pequeños",
+          "1 cebolla dorada, 1 zanahoria y 1 tallo de apio picados finos",
+          "2 dientes de ajo aplastados",
+          "1 rama de romero fresco y 2 hojas de laurel",
+          "150 ml de vino tinto con cuerpo (Sangiovese o Rosso Conero)",
+          "600 g de tomates triturados pelati o passata rústica",
+          "Aceite de oliva virgen extra, sal y abundante pimienta negra molida",
+          "100 g de queso Pecorino marchigiano o Parmigiano rallado"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. El Ragù de los Carboneros",
+        "steps": [
+          "En una cacerola pesada o de hierro fundido, dorar la panceta en 2 cucharadas de aceite de oliva a fuego medio. Agregar las costillitas de cerdo y la salchicha desmenuzada, sellando a fuego vivo hasta que la carne esté bien dorada en todas sus caras (unos 10 minutos).",
+          "Incorporar la cebolla, la zanahoria, el apio, los ajos, el romero y el laurel. Cocinar durante 8 minutos hasta que los vegetales estén tiernos y fragantes.",
+          "Verter el vino tinto y raspar el fondo de la cacerola con cuchara de madera para levantar todos los jugos caramelizados. Dejar evaporar el alcohol por completo (3 a 4 minutos).",
+          "Añadir los tomates triturados, salpimentar generosamente, tapar y bajar el fuego al mínimo. Dejar cocinar despacio a fuego muy lento durante 50 a 60 minutos, revolviendo ocasionalmente, hasta que la salsa esté oscura, espesa y la carne de las costillitas se desprenda del hueso."
+        ]
+      },
+      {
+        "name": "2. Cocción de la Polenta",
+        "steps": [
+          "Poner a hervir el agua en una cacerola grande con la sal gruesa y el aceite. Cuando rompa el hervor, verter la harina de maíz en forma de lluvia fina mientras se bate enérgicamente con batidor de alambre para evitar grumos.",
+          "Cambiar a cuchara de madera y cocinar a fuego bajo durante 40 a 45 minutos, revolviendo con frecuencia, hasta que la polenta esté suave, espesa y se despegue de los bordes de la olla."
+        ]
+      },
+      {
+        "name": "3. Servicio Tradicional",
+        "steps": [
+          "Volcar la polenta humeante directamente sobre una tabla grande de madera ('spianatora') o una fuente amplia, alisando la superficie.",
+          "Verter en el centro el ragù caliente con las costillitas y salchichas, espolvorear con abundante queso pecorino rallado y servir de inmediato."
+        ]
+      }
+    ],
+    "notes": "Para una experiencia auténtica de Borgo Pace, no uses polenta instantánea: la molienda gruesa cocida lentamente durante 45 minutos desarrolla el sabor a cereal tostado indispensable para sostener la contundencia del ragù de cerdo y romero.",
+    "image": "img/polenta_rustica_carbonai_borgo_pace.jpg",
+    "url": "https://umamicraft.vercel.app/r/456.html",
+    "original_title": "Polenta rustica dei Carbonai di Borgo Pace (Italia)",
+    "published": "2026-11-04"
+  },
+  {
+    "id": 457,
+    "title": "Patata Rossa di Sompiano al Gratin con Porcini e Caciotta d'Urbino (Italia)",
+    "country": "Italia",
+    "category": "Guarniciones y Verduras",
+    "tags": [
+      "Italia",
+      "Borgo Pace",
+      "Sompiano",
+      "Pesaro e Urbino",
+      "Marche",
+      "Patata Rossa",
+      "Hongos",
+      "Porcini",
+      "Gratinado",
+      "Caciotta"
+    ],
+    "prep_time": "25 min",
+    "cook_time": "45 min",
+    "temperature": "180 °C a 200 °C",
+    "servings": "4 a 6 porciones",
+    "calories": "360 kcal aprox. por porción",
+    "diet_badges": [
+      "Vegetariano",
+      "Sin Gluten",
+      "Cocina de Montaña"
+    ],
+    "story": "Este gratinado es el plato de confort invernal más querido en las fondas y trattorias de montaña de Borgo Pace y Lamoli. Combina los dos grandes estandartes del terruño apenino: la 'Patata Rossa di Sompiano' —famosa por su piel rubí y su pulpa densa que no se deshace en cocciones largas— con los hongos porcini silvestres recolectados en los bosques del Alpe della Luna y la untuosidad de la Caciotta d'Urbino DOP, resultando en capas tiernas, perfumadas y con una costra dorada burbujeante.",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes del Gratin",
+        "items": [
+          "800 g de patatas rojas firmes (idealmente variedad Sompiano o papas rojas de montaña)",
+          "350 g de hongos porcini frescos cortados en láminas (o 40 g de porcini secos hidratados en agua tibia)",
+          "200 g de queso Caciotta d'Urbino DOP o Scamorza cortada en fetas finas o rallada gruesa",
+          "2 dientes de ajo finamente picados",
+          "2 cucharadas de perejil fresco picado",
+          "250 ml de crema de leche fresca (o nata líquida)",
+          "150 ml de caldo de verduras suave caliente",
+          "40 g de manteca de campo",
+          "40 g de queso Parmigiano o Pecorino rallado fino",
+          "Nuez moscada recién rallada, sal marina fina y pimienta negra recién molida"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Salteado de los Porcini",
+        "steps": [
+          "En una sartén amplia, derretir 20 g de manteca con un hilo de aceite de oliva. Agregar los ajos picados y, cuando comiencen a aromatizar sin quemarse, sumar los hongos porcini en láminas. Saltear a fuego vivo durante 4 a 5 minutos hasta que se doren y evaporen su agua. Salpimentar, espolvorear con el perejil fresco y reservar."
+        ]
+      },
+      {
+        "name": "2. Preparación de las Patatas",
+        "steps": [
+          "Lavar y pelar las patatas rojas. Cortarlas en rodajas muy finas y uniformes de 2 mm de espesor utilizando una mandolina. Secar ligeramente con un paño limpio para retirar el exceso de humedad."
+        ]
+      },
+      {
+        "name": "3. Armado del Gratinado",
+        "steps": [
+          "Enmantecar generosamente una fuente para horno de cerámica o hierro esmaltado. Mezclar en una jarra la crema de leche con el caldo de verduras caliente, una pizca de nuez moscada, sal y pimienta.",
+          "Disponer una primera capa de rodajas de patata encimadas como escamas. Colocar por encima la mitad de los porcini salteados y una capa de láminas de Caciotta d'Urbino. Repetir con otra capa de patatas, el resto de los hongos y más queso. Terminar con una capa superior prolija de patatas.",
+          "Verter la mezcla de crema y caldo lentamente sobre la fuente para que penetre entre todas las capas (debe llegar justo al nivel de la última capa sin taparla por completo). Espolvorear la superficie con el queso Parmigiano rallado y distribuir copos de manteca restantes."
+        ]
+      },
+      {
+        "name": "4. Horneado y Gratinado",
+        "steps": [
+          "Cubrir la fuente con papel aluminio y hornear a 180 °C durante 30 minutos.",
+          "Retirar el papel aluminio y hornear 15 minutos más a 200 °C con el grill encendido hasta que la superficie esté intensamente dorada, crujiente y burbujeante, y las patatas estén tiernas al atravesarlas con un cuchillo. Dejar asentar 10 minutos antes de servir."
+        ]
+      }
+    ],
+    "notes": "La piel y pulpa firme de la patata roja es fundamental: una papa blanca común con exceso de agua se convertiría en puré, mientras que la papa roja de Sompiano conserva intactas sus capas lámina por lámina.",
+    "image": "img/patata_rossa_sompiano_gratin_porcini.jpg",
+    "url": "https://umamicraft.vercel.app/r/457.html",
+    "original_title": "Patata Rossa di Sompiano al Gratin con Porcini e Caciotta d'Urbino (Italia)",
+    "published": "2026-11-04"
+  },
+  {
+    "id": 458,
+    "title": "Tagliatelle al Tartufo Bianco del Metauro e Burro Nocciola (Italia)",
+    "country": "Italia",
+    "category": "Pastas",
+    "tags": [
+      "Italia",
+      "Borgo Pace",
+      "Metauro",
+      "Pesaro e Urbino",
+      "Marche",
+      "Tartufo Bianco",
+      "Tagliatelle",
+      "Pasta Casera",
+      "Gourmet"
+    ],
+    "prep_time": "40 min",
+    "cook_time": "10 min",
+    "servings": "4 porciones",
+    "calories": "490 kcal aprox. por porción",
+    "diet_badges": [
+      "Vegetariano",
+      "Gourmet",
+      "Pasta Casera"
+    ],
+    "story": "En Borgo Pace convergen los torrentes Meta y Auro para dar nacimiento al río Metauro, irrigando uno de los ecosistemas truferos más codiciados del planeta. Los bosques de robles, sauces y álamos de la Massa Trabaria albergan en otoño el prestigioso 'Tartufo Bianco Pregiato' (Tuber magnatum pico). En la cocina de los Apeninos, este regalo de la tierra se trata con la máxima pureza: sobre una pasta fresca casera al huevo estirada a mano al mattarello, manteca de tambo dorada con notas de avellana, un toque de caldo y una lluvia de láminas finísimas de trufa blanca fresca laminada al momento en la mesa.",
+    "ingredient_groups": [
+      {
+        "name": "Masa de Tagliatelle al Huevo",
+        "items": [
+          "400 g de harina 00 o harina de trigo especial para pasta",
+          "4 huevos grandes de campo a temperatura ambiente",
+          "1 pizca de sal fina"
+        ]
+      },
+      {
+        "name": "Emulsión y Condimento",
+        "items": [
+          "80 g de manteca de campo de excelente calidad",
+          "30 g de trufa blanca fresca (Tartufo Bianco del Metauro / Acqualagna / Borgo Pace)",
+          "60 g de queso Parmigiano Reggiano de 24 meses rallado al momento",
+          "3 cucharadas de caldo suave de carne o agua de cocción de la pasta",
+          "Pimienta blanca recién molida a gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Elaboración de las Tagliatelle",
+        "steps": [
+          "Formar un volcán con la harina sobre la tabla de madera y romper los huevos en el centro. Batir con tenedor incorporando la harina de los bordes y luego amasar con las palmas durante 10 minutos hasta lograr un bollo liso y sedoso. Dejar reposar envuelto en un paño durante 30 minutos.",
+          "Estirar con palote de madera (mattarello) hasta dejar la masa fina pero con textura rústica y porosa (alrededor de 1 mm). Enharinar ligeramente, enrollar sobre sí misma sin apretar y cortar tiras de 7 mm de ancho con cuchillo afilado. Desenrollar de inmediato formando nidos y espolvorear con semolín."
+        ]
+      },
+      {
+        "name": "2. Preparación del Burro Nocciola",
+        "steps": [
+          "Limpiar cuidadosamente la trufa blanca en seco con un cepillito de cerdas suaves para quitar cualquier rastro de tierra (jamás lavarla bajo el chorro de agua). Cortar con mandolina de trufas unas pocas virutas finas dentro de un cuenco para perfumar la manteca.",
+          "En una sartén amplia a fuego suave, derretir la manteca hasta que comience a espumar y adquiera un color dorado avellanado con un aroma tostado irresistible (burro nocciola). Retirar del fuego y sumar dos cucharadas de caldo caliente para frenar la cocción y crear una emulsión mantecosa."
+        ]
+      },
+      {
+        "name": "3. Cocción y Mantecatura",
+        "steps": [
+          "Hervir las tagliatelle en abundante agua con sal durante apenas 2 a 3 minutos (al dente). Escurrir con pinzas directamente a la sartén con la manteca tibia a fuego apagado.",
+          "Añadir el Parmigiano Reggiano rallado fino y un par de cucharadas de agua de cocción con almidón. Mover la sartén enérgicamente y mezclar con pinzas hasta lograr un glaseado brillante, sedoso y cremoso que cubra cada cinta de pasta."
+        ]
+      },
+      {
+        "name": "4. El Ritual de la Trufa en la Mesa",
+        "steps": [
+          "Servir los nidos de tagliatelle de inmediato en platos hondos precalentados.",
+          "Utilizar una mandolina especial de trufas para laminar el Tartufo Bianco fresco directamente sobre cada plato, dejando caer delicadas virutas que al contacto con el calor de la pasta desprendan todo su embriagador perfume."
+        ]
+      }
+    ],
+    "notes": "Regla sagrada del Tartufo Bianco: jamás se cocina ni se expone al fuego directo, ya que sus compuestos aromáticos volátiles se destruyen con el calor excesivo. Se añade siempre en crudo al final sobre la pasta tibia.",
+    "image": "img/tagliatelle_tartufo_bianco_metauro.jpg",
+    "url": "https://umamicraft.vercel.app/r/458.html",
+    "original_title": "Tagliatelle al Tartufo Bianco del Metauro e Burro Nocciola (Italia)",
+    "published": "2026-11-04"
+  },
+  {
+    "id": 459,
+    "title": "Il Bostrengo del Montefeltro (Italia)",
+    "country": "Italia",
+    "category": "Postres",
+    "tags": [
+      "Italia",
+      "Borgo Pace",
+      "Montefeltro",
+      "Pesaro e Urbino",
+      "Marche",
+      "Bostrengo",
+      "Postres",
+      "Arroz",
+      "Chocolate",
+      "Frutos Secos",
+      "Navidad"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "55 min",
+    "temperature": "175 °C",
+    "servings": "8 a 10 porciones",
+    "calories": "320 kcal aprox. por porción",
+    "diet_badges": [
+      "Vegetariano",
+      "Tradicional",
+      "Cocina Campesina"
+    ],
+    "story": "El Bostrengo (o 'Bustreng') es el dulce campesino más antiguo y enigmático de la comarca del Montefeltro y los valles del Metauro, tradicionalmente preparado para celebrar la cosecha otoñal y las fiestas de fin de año en los caseríos de Borgo Pace. Nacido para no desperdiciar nada del huerto ni del bosque, es una torta rústica densa y húmeda que reúne arroz cocido en leche con cacao amargo, nueces cosechadas en los Apeninos, higos secos, pasas de uva, manzanas ralladas y un toque de Mistrà (el clásico destilado de anís marchigiano).",
+    "ingredient_groups": [
+      {
+        "name": "Base de Arroz y Leche",
+        "items": [
+          "150 g de arroz tipo Arborio, Carnaroli o de grano redondo",
+          "600 ml de leche entera de campo",
+          "1 tira de piel de limón y 1 rama de canela",
+          "1 pizca de sal"
+        ]
+      },
+      {
+        "name": "Cuerpo y Frutos de la Montaña",
+        "items": [
+          "100 g de nueces de montaña picadas gruesas",
+          "80 g de pasas de uva hidratadas en agua tibia o vino dulce",
+          "80 g de higos secos picados en cubitos",
+          "2 manzanas medianas peladas y ralladas gruesas",
+          "80 g de azúcar rubia o común",
+          "40 g de miel de flores silvestres del Apenino",
+          "40 g de cacao amargo en polvo de buena calidad",
+          "80 g de harina de maíz de grano fino (o mezcla de polenta fina y harina de trigo)",
+          "2 huevos de campo batidos",
+          "40 ml de aceite de oliva virgen extra suave o manteca fundida",
+          "30 ml de licor de anís seco (Mistrà o Anisetta marchigiana)",
+          "Ralladura de 1 naranja y 1 cucharadita de canela molida"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Cocción del Arroz Aromático",
+        "steps": [
+          "En una cacerola, poner a calentar la leche con la pizca de sal, la rama de canela y la piel de limón. Cuando comience a hervir, agregar el arroz y cocinar a fuego bajo durante 15 a 18 minutos, revolviendo con frecuencia, hasta que el arroz esté tierno y haya absorbido casi toda la leche, quedando cremoso. Retirar la canela y la piel de limón, y dejar entibiar."
+        ]
+      },
+      {
+        "name": "2. Amalgama de Ingredientes Campesinos",
+        "steps": [
+          "En un bol grande, mezclar el arroz tibio con el azúcar, la miel y el cacao amargo tamizado hasta obtener una pasta chocolatosa homogénea.",
+          "Incorporar los huevos batidos, el aceite de oliva, el licor de anís (Mistrà), la ralladura de naranja y la canela molida. Mezclar bien.",
+          "Sumar las manzanas ralladas, las nueces picadas, los higos secos en cubos y las pasas de uva escurridas.",
+          "Agregar por último la harina de maíz o mezcla de harinas, integrando con espátula hasta formar una masa espesa, pesada y fragante."
+        ]
+      },
+      {
+        "name": "3. Horneado Tradicional",
+        "steps": [
+          "Enmantecar y enharinar (preferentemente con polenta fina) un molde redondo de 24 cm de diámetro o una tortera baja de barro/chapa.",
+          "Verter la preparación y nivelar la superficie con una espátula (el bostrengo debe tener unos 2 a 3 cm de grosor, es una torta que no lleva leudante y queda densa y húmeda).",
+          "Hornear en horno precalentado a 175 °C durante unos 50 a 55 minutos hasta que la superficie esté firme y ligeramente crujiente, mientras el interior se mantenga húmedo y tierno. Dejar enfriar por completo antes de desmoldar."
+        ]
+      },
+      {
+        "name": "4. Servicio",
+        "steps": [
+          "Cortar en cuadrados o rombos rústicos.",
+          "Servir a temperatura ambiente acompañado de una copita de vino santo, vino cocido o café recién colado."
+        ]
+      }
+    ],
+    "notes": "El Bostrengo es un postre que mejora con el paso de las horas: al día siguiente los aromas a canela, anís, chocolate e higos se concentran maravillosamente. Se conserva perfecto durante una semana en un recipiente tapado.",
+    "image": "img/il_bostrengo_del_montefeltro.jpg",
+    "url": "https://umamicraft.vercel.app/r/459.html",
+    "original_title": "Il Bostrengo del Montefeltro (Italia)",
+    "published": "2026-11-04"
   }
 ]
