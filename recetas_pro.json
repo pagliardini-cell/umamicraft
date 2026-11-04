@@ -34703,5 +34703,552 @@
     "url": "https://umamicraft.vercel.app/r/459.html",
     "original_title": "Il Bostrengo del Montefeltro (Italia)",
     "published": "2026-11-04"
+  },
+  {
+    "id": 460,
+    "title": "La Cade Toulonnaise (Francia)",
+    "country": "Francia",
+    "category": "Panes y Masas",
+    "tags": [
+      "Francia",
+      "Toulon",
+      "Provenza",
+      "Cade",
+      "Harina de Garbanzos",
+      "Street Food",
+      "Farinata",
+      "Faina",
+      "Sin Gluten"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "15 min",
+    "rest_time": "2 h a 3 h (reposo imprescindible)",
+    "temperature": "250 °C - 280 °C (horno máximo con grill)",
+    "servings": "6 porciones",
+    "calories": "220 kcal aprox. por porción",
+    "diet_badges": [
+      "Vegetariano",
+      "Vegano",
+      "Sin Gluten",
+      "Sin Lácteos",
+      "Street Food"
+    ],
+    "story": "En la ciudad portuaria de Toulon, la Cade es el alimento callejero más venerado desde principios del siglo XIX, cuando carpinteros y obreros navales genoveses arribaron al Arsenal militar de Napoleón trayendo consigo la receta de la farinata ligur. Su nombre deriva del provenzal 'cado' (del latín calidus, caliente). Los vendedores tradicionales recorrían el mercado de Cours Lafayette con carritos de tres ruedas gritando «Cado, cado, la cado caudo!». A diferencia de la socca nizarda que es casi un crepe delgado, la Cade de Toulon es más gruesa (cerca de 1 cm), con una corteza dorada y ampollada por fuera y un centro húmedo, suave y cremoso que recuerda a nuestro fainá rioplatense, siempre servida recién salida del horno y espolvoreada con abundante pimienta negra.",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes Principales",
+        "items": [
+          "250 g de harina de garbanzos de molienda fina",
+          "550 ml de agua fresca a temperatura ambiente",
+          "4 cucharadas de aceite de oliva virgen extra (2 para la masa y 2 para aceitar la bandeja)",
+          "1 cucharadita colmada de sal marina fina",
+          "Abundante pimienta negra recién molida para el servicio",
+          "Opcional: 1 pizca de pimentón dulce o romero picado (variante moderna)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Preparación del Batido",
+        "steps": [
+          "Tamizar la harina de garbanzos dentro de un bol grande.",
+          "Verter el agua fresca poco a poco mientras se bate enérgicamente con batidor de alambre para disolver cualquier grumo y lograr un líquido homogéneo y fluido.",
+          "Incorporar 2 cucharadas de aceite de oliva virgen extra y la sal marina fina. Mezclar bien.",
+          "Cubrir el bol con un paño y dejar reposar a temperatura ambiente entre 2 y 3 horas. Este reposo es fundamental: permite que las partículas de harina se hidraten por completo y el almidón se relaje."
+        ]
+      },
+      {
+        "name": "2. Precalentado y Horneado al Máximo",
+        "steps": [
+          "Precalentar el horno a la temperatura máxima posible (250 °C a 280 °C), idealmente con la función grill superior encendida.",
+          "Colocar dentro del horno una fuente redonda grande para pizza o tarta (preferentemente de cobre, hierro fundido o chapa gruesa) untada generosamente con 2 cucharadas de aceite de oliva virgen extra para que tome temperatura durante 10 minutos.",
+          "Retirar con una cuchara la espuma blanca que se haya formado en la superficie del batido tras el reposo.",
+          "Con mucho cuidado, retirar la bandeja bien caliente del horno y verter el batido de garbanzos de golpe (debe chisporrotear al contacto con el aceite caliente, formando una capa de unos 8 mm a 10 mm de espesor)."
+        ]
+      },
+      {
+        "name": "3. Cocción y Servicio",
+        "steps": [
+          "Llevar inmediatamente al horno en la parte más alta (cerca del grill) durante 12 a 15 minutos, hasta que la superficie esté intensamente dorada, ampollada y con motas crocantes tostadas, mientras el corazón permanezca tierno.",
+          "Retirar del horno, cortar con cuchillo o espátula metálica en trozos irregulares o rombos, espolvorear con generosa pimienta negra recién molida y comer bien caliente con las manos sobre papel manteca, acompañada por un vino blanco o rosé provenzal."
+        ]
+      }
+    ],
+    "notes": "El secreto de la auténtica Cade toulonnaise está en el choque térmico: la bandeja debe estar humeante con su aceite al momento de volcar la masa; esto sella una base crujiente instantánea y evita que se pegue.",
+    "image": "img/la_cade_toulonnaise.jpg",
+    "url": "https://umamicraft.vercel.app/r/460.html",
+    "original_title": "La Cade Toulonnaise (Francia)",
+    "published": "2026-11-04"
+  },
+  {
+    "id": 461,
+    "title": "Le Chanteclair de Toulon (Francia)",
+    "country": "Francia",
+    "category": "Postres",
+    "tags": [
+      "Francia",
+      "Toulon",
+      "Provenza",
+      "Chanteclair",
+      "Postres",
+      "Merengue",
+      "Café",
+      "Praliné",
+      "Pastelería"
+    ],
+    "prep_time": "45 min",
+    "cook_time": "2 h 30 min (secado de merengue)",
+    "rest_time": "6 h (congelación)",
+    "temperature": "95 °C a 100 °C (horno bajo para merengue)",
+    "servings": "8 porciones",
+    "calories": "390 kcal aprox. por porción",
+    "diet_badges": [
+      "Vegetariano",
+      "Postre Helado",
+      "Pastelería Fina"
+    ],
+    "story": "Creado alrededor de 1935 por el pastelero Monsieur Calvi en el corazón de Toulon, el Chanteclair es el dulce helado insignia de la ciudad naval. Su nombre y la tradicional silueta de un gallo estarcida en su superficie homenajean a la célebre obra teatral 'Chantecler' del dramaturgo Edmond Rostand. Es un postre semifrío de alta pastelería que combina discos de merengue crujiente y liviano con una sedosa crema chantilly aromatizada con moka (café) y praliné de avellanas, recubierto de avellanas tostadas picadas y un manto níveo de azúcar glas.",
+    "ingredient_groups": [
+      {
+        "name": "Discos de Merengue Suizo",
+        "items": [
+          "3 claras de huevos de campo a temperatura ambiente (aprox. 90 g)",
+          "180 g de azúcar blanco fino",
+          "1 pizca de sal"
+        ]
+      },
+      {
+        "name": "Crema Moka-Praliné",
+        "items": [
+          "500 ml de crema de leche fresca bien fría (mínimo 35% tenor graso)",
+          "100 g de azúcar impalpable (azúcar glas)",
+          "2 cucharadas de extracto o concentrado de café moka de buena calidad",
+          "2 cucharadas de pasta pura de praliné de avellanas"
+        ]
+      },
+      {
+        "name": "Decoración y Cobertura",
+        "items": [
+          "100 g de avellanas tostadas y almendras fileteadas picadas gruesas",
+          "Azúcar impalpable para espolvorear la superficie",
+          "Cacao amargo en polvo (o plantilla con la silueta de un gallo para estarcir)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Preparación de los Discos de Merengue",
+        "steps": [
+          "En un cuenco resistente al calor, mezclar las claras con el azúcar y la pizca de sal. Llevar a baño María suave mientras se bate con batidor de mano hasta que el azúcar se disuelva por completo y la mezcla esté caliente al tacto (unos 55 °C).",
+          "Retirar del baño María y batir de inmediato con batidora eléctrica a velocidad alta durante 8 a 10 minutos hasta lograr un merengue firme, brillante y completamente frío (meringue suisse).",
+          "Colocar el merengue en manga pastelera y trazar en espiral dos discos de 20 cm de diámetro sobre placas de horno cubiertas con papel manteca.",
+          "Secar en el horno precalentado a 95 °C - 100 °C durante 2 horas y media, con la puerta apenas entreabierta con una cuchara de madera, hasta que los discos estén secos y crujientes sin dorarse. Dejar enfriar por completo."
+        ]
+      },
+      {
+        "name": "2. Elaboración de la Crema Moka y Praliné",
+        "steps": [
+          "En un bol previamente enfriado, batir la crema de leche fría a velocidad media. Cuando empiece a montar, añadir el azúcar impalpable tamizado en forma de lluvia.",
+          "Sumar el extracto de café moka y la pasta de praliné de avellanas, batiendo unos segundos más hasta obtener una crema chantilly firme y untuosa con aroma tostado."
+        ]
+      },
+      {
+        "name": "3. Armado y Congelado",
+        "steps": [
+          "Colocar un aro de pastelería sobre una fuente y disponer en el fondo el primer disco de merengue crujiente.",
+          "Cubrir con la mitad de la crema chantilly moka-praliné. Apoyar el segundo disco de merengue presionando con delicadeza.",
+          "Cubrir la parte superior y los laterales con el resto de la crema, alisando prolijamente con espátula pastelera.",
+          "Adherir las avellanas y almendras tostadas por todo el contorno lateral de la torta.",
+          "Llevar al congelador durante al menos 6 horas (o de un día para el otro) para que adquiera la consistencia perfecta de postre helado."
+        ]
+      },
+      {
+        "name": "4. Decoración y Servicio",
+        "steps": [
+          "Retirar del congelador 15 minutos antes de cortar. Espolvorear la parte superior con un velo tupido de azúcar impalpable.",
+          "Colocar una plantilla con la silueta de un gallo en el centro y espolvorear delicadamente con cacao amargo para estarcir la figura clásica del Chanteclair.",
+          "Servir en porciones con un cuchillo tibio acompañado de un café expreso."
+        ]
+      }
+    ],
+    "notes": "El Chanteclair se conserva en el congelador. El contraste entre el merengue seco que cruje en cada bocado y la crema moka helada que se funde en el paladar es el secreto de su éxito casi centenario en Toulon.",
+    "image": "img/le_chanteclair_de_toulon.jpg",
+    "url": "https://umamicraft.vercel.app/r/461.html",
+    "original_title": "Le Chanteclair de Toulon (Francia)",
+    "published": "2026-11-04"
+  },
+  {
+    "id": 462,
+    "title": "La Bourride Toulonnaise (Francia)",
+    "country": "Francia",
+    "category": "Sopas y Cremas",
+    "tags": [
+      "Francia",
+      "Toulon",
+      "Provenza",
+      "Bourride",
+      "Pescados",
+      "Rape",
+      "Aioli",
+      "Mariscos",
+      "Sopas"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "35 min",
+    "temperature": "Hervor suave / Emulsión a fuego apagado",
+    "servings": "4 porciones",
+    "calories": "520 kcal aprox. por porción",
+    "diet_badges": [
+      "Sin Gluten",
+      "Pescados y Mariscos",
+      "Cocina Marinera"
+    ],
+    "story": "Si Marsella es famosa por su Bouillabaisse, Toulon es el reino indiscutido de la Bourride. Este guiso marinero tradicional del puerto reúne cortes gruesos de pescados blancos de roca (principalmente rape o lotte, lubina o dorada) pochados suavemente en un caldo aromatizado con vino blanco seco, puerro, hinojo silvestre y cáscara de naranja. El rasgo genial de la cocina de Toulon ocurre al final: el caldo de cocción hirviendo se liga y emulsiona batiéndolo con un generoso aïoli casero con yemas de huevo, transformándose en una crema dorada, aterciopelada y potente que se vierte sobre el pescado y sobre tostadas de baguette frotadas con ajo.",
+    "ingredient_groups": [
+      {
+        "name": "Pescados y Caldo Aromático",
+        "items": [
+          "1 kg de rape fresco (lotte) cortado en rodajas gruesas (o mezcla de rape con lubina o merluza de roca)",
+          "1 cabeza o espinazo de pescado blanco para enriquecer el fumet",
+          "2 puerros medianos picados en rodajas (solo la parte blanca)",
+          "1 bulbo de hinojo picado fino",
+          "1 cebolla grande y 2 dientes de ajo",
+          "200 ml de vino blanco seco provenzal",
+          "800 ml de caldo de pescado ligero (fumet)",
+          "1 tira de piel de naranja seca",
+          "1 bouquet garni (tomillo fresco, laurel, perejil)",
+          "Aceite de oliva virgen extra, sal marina y pimienta blanca"
+        ]
+      },
+      {
+        "name": "Aïoli Casero para la Emulsión",
+        "items": [
+          "6 dientes de ajo pelados y machacados a pasta en mortero",
+          "2 yemas de huevo de campo a temperatura ambiente",
+          "200 ml de aceite de oliva virgen extra suave",
+          "1 cucharadita de jugo de limón y 1 pizca de sal"
+        ]
+      },
+      {
+        "name": "Acompañamiento",
+        "items": [
+          "1 baguette de campo cortada en rodajas y tostada",
+          "1 diente de ajo para frotar el pan",
+          "Perejil fresco picado"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Elaboración del Aïoli Provenzal",
+        "steps": [
+          "En un mortero tradicional de mármol o piedra, machacar los 6 dientes de ajo con una pizca de sal marina hasta lograr una pasta fina y traslúcida.",
+          "Añadir las 2 yemas de huevo e integrar con la mano del mortero.",
+          "Verter el aceite de oliva gota a gota al principio y luego en hilo fino mientras se bate con energía y constancia en el mismo sentido, hasta obtener una emulsión espesa, densa y brillante. Añadir unas gotas de jugo de limón y reservar una tercera parte en un cuenco para servir en la mesa."
+        ]
+      },
+      {
+        "name": "2. Cocción del Fumet y los Pescados",
+        "steps": [
+          "En una cazuela amplia de fondo grueso, calentar 2 cucharadas de aceite de oliva y rehogar los puerros, el hinojo y la cebolla picados a fuego suave durante 10 minutos sin que tomen color.",
+          "Sumar los ajos, el bouquet garni y la tira de piel de naranja. Verter el vino blanco y dejar reducir a la mitad.",
+          "Añadir el caldo de pescado, sazonar con sal y pimienta blanca, y hervir a fuego medio durante 15 minutos para concentrar los sabores.",
+          "Introducir las rodajas de rape y los trozos de pescado en el caldo hirviendo suavemente. Cocinar durante 7 a 8 minutos hasta que el pescado esté blanco, tierno y jugoso. Retirar el pescado con espumadera y mantenerlo tapado en una fuente tibia."
+        ]
+      },
+      {
+        "name": "3. Ligado de la Salsa y Servicio",
+        "steps": [
+          "Colar el caldo caliente (descartando las hierbas).",
+          "En una cacerola pequeña fuera del fuego, colocar los dos tercios restantes del aïoli. Verter un cucharón de caldo caliente sobre el aïoli mientras se bate enérgicamente con batidor de alambre para atemperar.",
+          "Continuar agregando el caldo caliente gradualmente mientras se bate. Llevar la cacerola a fuego muy bajo (o baño María) batiendo sin parar hasta que la salsa espese sutilmente y adquiera una textura aterciopelada y dorada (cuidar que no hierva jamás para que el huevo no corte).",
+          "Disponer los trozos de pescado en platos hondos precalentados, bañar con la crema dorada humeante y coronar con perejil fresco. Servir acompañado de las rebanadas de pan tostadas untadas con más aïoli."
+        ]
+      }
+    ],
+    "notes": "El punto crítico de la Bourride es el ligado final: la temperatura del caldo debe ser caliente pero el fuego debe ser mínimo al emulsionar con el aïoli para evitar que las yemas cuajen en grumos.",
+    "image": "img/la_bourride_toulonnaise.jpg",
+    "url": "https://umamicraft.vercel.app/r/462.html",
+    "original_title": "La Bourride Toulonnaise (Francia)",
+    "published": "2026-11-04"
+  },
+  {
+    "id": 463,
+    "title": "La Daube Provençale al Estilo de Toulon (Francia)",
+    "country": "Francia",
+    "category": "Guisos y Cazuelas",
+    "tags": [
+      "Francia",
+      "Toulon",
+      "Provenza",
+      "Daube",
+      "Carne",
+      "Ternera",
+      "Vino Tinto",
+      "Cocina Campesina"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "3 h 30 min",
+    "rest_time": "24 h (marinado)",
+    "temperature": "Fuego muy suave / Chup-chup",
+    "servings": "6 porciones",
+    "calories": "620 kcal aprox. por porción",
+    "diet_badges": [
+      "Sin Gluten",
+      "Tradicional",
+      "Cocina de Cazuela"
+    ],
+    "story": "La Daube es el guiso por excelencia de las mesas provenzales y de los barrios obreros de Toulon. Cocinada tradicionalmente en una cazuela panzuda de barro esmaltado llamada 'daubière' o en una cocotte de hierro fundido, trozos generosos de carne de ternera (aguja y carrillera) se marinan durante un día entero en un vino tinto robusto de la región (como el célebre vino de Bandol, vecino a Toulon). La cocción a fuego lentísimo transforma los colágenos en gelatina pura, aromatizada con el sello inconfundible de la costa: una tira de cáscara de naranja amarga seca y aceitunas negras arrugadas.",
+    "ingredient_groups": [
+      {
+        "name": "Carne y Marinada",
+        "items": [
+          "1,2 kg de carne vacuna para guiso cortada en cubos grandes de 5 cm (paleta, aguja o carrillera)",
+          "1 botella (750 ml) de vino tinto con cuerpo (Bandol, Côtes de Provence o Syrah/Garnacha)",
+          "150 g de panceta salada o tocino curado cortado en lardones",
+          "3 zanahorias cortadas en rodajas gruesas",
+          "2 cebollas doradas cortadas en cuartos",
+          "4 dientes de ajo aplastados",
+          "1 rama de apio en trozos",
+          "1 tira de 5 cm de cáscara de naranja seca (sin la parte blanca)",
+          "1 bouquet garni (tomillo, 2 hojas de laurel, romero)",
+          "1 cucharada de vinagre de vino tinto",
+          "Pimienta negra en grano machacada y sal marina gruesa"
+        ]
+      },
+      {
+        "name": "Cocción y Toque Final",
+        "items": [
+          "100 g de aceitunas negras provenzales arrugadas (tipo Nyons)",
+          "2 cucharadas de concentrado de tomate",
+          "3 cucharadas de aceite de oliva virgen extra",
+          "1 cucharada de harina de trigo (opcional para espesar)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. El Marinado Tradicional de 24 Horas",
+        "steps": [
+          "En una fuente de loza o vidrio, colocar los trozos de carne con las zanahorias, las cebollas, los ajos, el apio, el bouquet garni, los granos de pimienta y la cáscara de naranja seca.",
+          "Verter toda la botella de vino tinto y la cucharada de vinagre. Cubrir y refrigerar durante 24 horas, removiendo un par de veces para que la carne se impregne de los taninos y aromas del vino."
+        ]
+      },
+      {
+        "name": "2. Sellado y Armado de la Daubière",
+        "steps": [
+          "Retirar la carne de la marinada y secar muy bien cada trozo con papel de cocina (colar y reservar todo el vino y los vegetales por separado).",
+          "En una cocotte de hierro o cacerola pesada, dorar la panceta con el aceite de oliva a fuego medio hasta que suelte su grasa. Retirar la panceta.",
+          "En la misma grasa caliente, sellar los cubos de carne por tandas a fuego fuerte hasta que estén bien dorados por todas sus caras. Retirar.",
+          "Rehogar los vegetales de la marinada durante 5 minutos en el fondo de la olla. Añadir el concentrado de tomate y mezclar bien.",
+          "Reincorporar la carne y la panceta doradas. Verter el vino de la marinada colado y sumar el bouquet garni y la cáscara de naranja. Sazonar con sal marina."
+        ]
+      },
+      {
+        "name": "3. Cocción Lentísima",
+        "steps": [
+          "Llevar a ebullición suave, tapar herméticamente la cacerola y bajar el fuego al mínimo absoluto (o llevar al horno a 130 °C).",
+          "Cocinar durante 3 horas a fuego lentísimo sin destapar casi la olla, permitiendo que los jugos se condensen en una salsa aterciopelada y oscura.",
+          "A los 30 minutos finales de cocción, incorporar las aceitunas negras provenzales para que aporten su sabor salino y untuoso. La carne debe cortarse con cuchara."
+        ]
+      },
+      {
+        "name": "4. Servicio de Tradición",
+        "steps": [
+          "La daube es infinitamente mejor recalentada al día siguiente. Servir bien caliente acompañada tradicionalmente de polenta cremosa, puré de papas casero o pasta fresca provenzal (macarrones al jugo)."
+        ]
+      }
+    ],
+    "notes": "La tira de cáscara de naranja es el alma de la daube provenzale: sus aceites esenciales cortan la pesadez del vino tinto y le otorgan ese perfume mediterráneo inconfundible.",
+    "image": "img/la_daube_provencale_toulon.jpg",
+    "url": "https://umamicraft.vercel.app/r/463.html",
+    "original_title": "La Daube Provençale al Estilo de Toulon (Francia)",
+    "published": "2026-11-04"
+  },
+  {
+    "id": 464,
+    "title": "Les Pieds et Paquets Provençaux (Francia)",
+    "country": "Francia",
+    "category": "Guisos y Cazuelas",
+    "tags": [
+      "Francia",
+      "Toulon",
+      "Marsella",
+      "Provenza",
+      "Pieds et Paquets",
+      "Cordero",
+      "Tradicional",
+      "Cocina Obrera"
+    ],
+    "prep_time": "50 min",
+    "cook_time": "4 h",
+    "temperature": "Cocción lenta y prolongada",
+    "servings": "6 porciones",
+    "calories": "590 kcal aprox. por porción",
+    "diet_badges": [
+      "Sin Gluten",
+      "Cocina Tradicional",
+      "Casero"
+    ],
+    "story": "Nacido a finales del siglo XIX en los barrios obreros portuarios de Marsella y Toulon, Les Pieds et Paquets es el plato más representativo de la gran cocina popular provenzal. Consiste en 'paquets' (cuadraditos de tripa de cordero cuidadosamente rellenos de tocino de cerdo salado, ajo y perejil, atados primorosamente) cocinados junto a 'pieds' (manitas de cordero tiernas que aportan una textura gelatinosa sublime) a fuego muy lento durante más de cuatro horas en una salsa suculenta de tomates maduros, vino blanco seco, tocino ahumado, clavos de olor y hierbas aromáticas de la garriga.",
+    "ingredient_groups": [
+      {
+        "name": "Carnes Principales",
+        "items": [
+          "12 'paquets' de tripa de cordero (o tripa de cordero limpia cortada en cuadrados de 8 cm)",
+          "4 manitas (patitas) de cordero blanqueadas y limpias",
+          "150 g de tocino salado de cerdo picado fino",
+          "3 dientes de ajo y 1 manojo de perejil picados (para el relleno de los paquets)"
+        ]
+      },
+      {
+        "name": "Salsa Provenzal de Cocción",
+        "items": [
+          "150 g de panceta ahumada cortada en dados (lardons)",
+          "800 g de tomates triturados maduros (o passata rústica)",
+          "350 ml de vino blanco seco de Provenza",
+          "2 cebollas doradas picadas y 4 dientes de ajo enteros aplastados",
+          "2 zanahorias cortadas en rodajas",
+          "2 clavos de olor clavados en media cebolla",
+          "1 bouquet garni generoso (tomillo, laurel, romero)",
+          "3 cucharadas de aceite de oliva virgen extra",
+          "Sal marina gruesa y abundante pimienta negra molida",
+          "Agua o caldo suave c/n"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Preparación y Relleno de los Paquets",
+        "steps": [
+          "Si se preparan en casa: colocar en el centro de cada cuadrado de tripa de cordero una porción del picadillo de tocino, ajo y perejil con pimienta.",
+          "Doblar la tripa formando un pequeño paquete rectangular y cerrarlo haciendo una pequeña incisión en una de las solapas para pasar el extremo, o atarlo con hilo de cocina para que quede bien cerrado durante la cocción larga."
+        ]
+      },
+      {
+        "name": "2. Armado de la Cacerola",
+        "steps": [
+          "En una cazuela grande de hierro fundido o barro esmaltado, dorar los dados de panceta en el aceite de oliva a fuego medio durante 5 minutos.",
+          "Añadir las cebollas picadas, las zanahorias y los ajos enteros. Rehogar hasta que las verduras se ablanden.",
+          "Acomodar en la cacerola las manitas de cordero y los 'paquets' intercalados de forma prolija y apretada.",
+          "Verter el vino blanco seco y raspar el fondo con cuchara de madera. Dejar evaporar el alcohol durante 4 minutos.",
+          "Incorporar los tomates triturados, la media cebolla con los clavos de olor, el bouquet garni, sal gruesa y pimienta negra. Añadir caldo o agua tibia hasta cubrir apenas los ingredientes."
+        ]
+      },
+      {
+        "name": "3. La Gran Cocción Lenta de 4 Horas",
+        "steps": [
+          "Llevar a ebullición suave, tapar muy bien y bajar el fuego al mínimo absoluto.",
+          "Cocinar durante 4 horas completas a fuego extremadamente lento (o en horno a 140 °C).",
+          "Durante la cocción, los colágenos de las manitas de cordero se disolverán en el tomate y el vino, creando una salsa espesa, untuosa y gelatinosa que bañará cada paquetito.",
+          "Verificar el punto: la carne de las manitas debe desprenderse casi sola del hueso y los paquets deben estar tiernísimos al pincharlos."
+        ]
+      },
+      {
+        "name": "4. Servicio Tradicional",
+        "steps": [
+          "Servir bien caliente en platos hondos con un par de paquets y media patita de cordero por persona, napados con la abundante salsa reducida.",
+          "Acompañar con papas hervidas al vapor o rebanadas de pan rústico de corteza crujiente para mojar en la salsa."
+        ]
+      }
+    ],
+    "notes": "Les Pieds et Paquets es el arquetipo del plato que mejora tras el reposo: al enfriarse se solidifica en una gelatina perfecta; al recalentarse al día siguiente a fuego suave, los sabores alcanzan su punto culminante.",
+    "image": "img/les_pieds_et_paquets_provencaux.jpg",
+    "url": "https://umamicraft.vercel.app/r/464.html",
+    "original_title": "Les Pieds et Paquets Provençaux (Francia)",
+    "published": "2026-11-04"
+  },
+  {
+    "id": 465,
+    "title": "La Pizza Rossini de Pesaro (Marche, Italia)",
+    "country": "Italia",
+    "category": "Pizzas y Empanadas",
+    "tags": [
+      "Italia",
+      "Pesaro",
+      "Pesaro e Urbino",
+      "Marche",
+      "Borgo Pace",
+      "Pizza Rossini",
+      "Mayonesa",
+      "Huevos Duros",
+      "Gioachino Rossini"
+    ],
+    "prep_time": "25 min",
+    "cook_time": "10 min",
+    "rest_time": "8 h (fermentación de masa)",
+    "temperature": "250 °C a 300 °C (máximo de horno sobre piedra)",
+    "servings": "2 pizzas medianas (4 porciones)",
+    "calories": "780 kcal aprox. por pizza individual",
+    "diet_badges": [
+      "Vegetariano",
+      "Icono Regional",
+      "Casero"
+    ],
+    "story": "La Pizza Rossini es el mayor símbolo de identidad gastronómica de la ciudad costera de Pesaro, capital de la provincia de Pesaro e Urbino (a la que pertenece Borgo Pace), en la región de Las Marcas. Creada a mediados del siglo XX en las pastelerías y bares locales y extendida masivamente en los años 60, rinde tributo al genial compositor Gioachino Rossini (pesarese natal y célebre gastrónomo sibarita). La audaz combinación parte de una base de masa fermentada con passata de tomate y mozzarella fundida, sobre la cual, apenas salida del horno hirviendo, se disponen rodajas de huevo duro y una generosa espiral de mayonesa densa y consistente. Se consume a toda hora —incluso de desayuno en formato pizzetta de bar— y se marida habitualmente con el fresco vino blanco de las colinas locales, el Bianchello del Metauro.",
+    "ingredient_groups": [
+      {
+        "name": "Masa de Pizza Fermentada",
+        "items": [
+          "500 g de harina de trigo 00 o de fuerza",
+          "325 ml de agua tibia",
+          "3 g de levadura seca (o 10 g de levadura fresca)",
+          "12 g de sal marina fina",
+          "1 cucharada de aceite de oliva virgen extra"
+        ]
+      },
+      {
+        "name": "Base de Tomate y Mozzarella",
+        "items": [
+          "250 g de passata o tomate triturado italiano condimentado con sal, oliva y orégano",
+          "300 g de queso mozzarella fior di latte bien escurrido y rallado grueso"
+        ]
+      },
+      {
+        "name": "La Corona Rossini (Huevos y Mayonesa Densa)",
+        "items": [
+          "4 huevos grandes de campo cocidos duros (hervidos 9 minutos), enfriados y pelados",
+          "150 g de mayonesa de alta densidad y consistencia firme (casera o artesanal, con huevos, aceite suave y toque de limón)",
+          "Pimienta negra recién molida opcional"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Masa y Fermentación",
+        "steps": [
+          "Disolver la levadura en el agua tibia. En un bol amplio, mezclar la harina con el agua hasta formar una masa rústica. Añadir la sal y el aceite de oliva, y amasar sobre la mesada durante 10 minutos hasta obtener un bollo elástico, suave y sedoso.",
+          "Colocar en un recipiente aceitado, tapar y dejar levar a temperatura ambiente durante 2 horas. Dividir en 2 bollos de unos 420 g, colocarlos en una bandeja enharinada, tapar herméticamente y dejar madurar en la heladera entre 8 y 24 horas (o 3 horas a temperatura ambiente) para lograr una masa ligera y bien fermentada."
+        ]
+      },
+      {
+        "name": "2. Estirado y Cubierta Base",
+        "steps": [
+          "Precalentar el horno a la temperatura máxima posible (250 °C a 300 °C), idealmente con piedra para pizza o bandeja de hierro en el estante inferior.",
+          "Estirar cada bollo con las yemas de los dedos desde el centro hacia afuera sobre semolín o harina de maíz fina, dejando un borde aireado (cornicione).",
+          "Esparcir un cucharón generoso de passata de tomate sobre la masa y distribuir la mozzarella fior di latte rallada."
+        ]
+      },
+      {
+        "name": "3. Horneado",
+        "steps": [
+          "Hornear durante 7 a 9 minutos hasta que los bordes estén inflados, dorados y crujientes con pequeñas motas tostadas, y el queso esté completamente fundido y burbujeante."
+        ]
+      },
+      {
+        "name": "4. El Montaje Rossini al Minuto",
+        "steps": [
+          "Cortar los huevos duros fríos en rodajas parejas de 5 mm de grosor con un cortador de alambre o cuchillo fino.",
+          "Apenas la pizza sale del horno humeante, disponer de inmediato las rodajas de huevo duro cubriendo armónicamente toda la superficie.",
+          "Con una manga pastelera o biberón dosificador, aplicar de inmediato una generosa cantidad de mayonesa densa trazando una espiral continua desde el centro hacia los bordes (o un enrejado) sobre los huevos.",
+          "Servir al instante: la mayonesa debe acariciar el calor de la pizza sin fundirse en aceite líquido, creando un contraste cremoso, ácido y salado único. Acompañar con una copa bien fría de Bianchello del Metauro."
+        ]
+      }
+    ],
+    "notes": "Especificación técnica fundamental de Pesaro: la mayonesa debe ser de consistencia muy densa y firme (con buen porcentaje de grasa emulsionada). Si se usa una mayonesa líquida o industrial liviana, el calor de la pizza la desarmará en aceite. En Pesaro, la densidad es sagrada.",
+    "image": "img/pizza_rossini_pesaro.jpg",
+    "url": "https://umamicraft.vercel.app/r/465.html",
+    "original_title": "La Pizza Rossini de Pesaro (Marche, Italia)",
+    "published": "2026-11-04"
   }
 ]
