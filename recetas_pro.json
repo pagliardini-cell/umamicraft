@@ -34104,5 +34104,170 @@
       }
     ],
     "notes": "El método de dos zonas de calor y el estirado exclusivo con aceite de oliva son las claves del chef Bob Blumer para lograr una masa con burbujas aireadas y fondo crujiente, evitando que la base se queme antes de que el queso se funda por completo."
+  },
+  {
+    "id": 453,
+    "title": "Milanesa Napolitana al Fior di Latte con Emulsión de Tomates Secos y Papas Soufflé (Estilo Palacio de la Papa Frita)",
+    "category": "Carnes / Bodegón Gourmet",
+    "country": "Argentina",
+    "prep_time": "35 min",
+    "cook_time": "20 min",
+    "servings": "4 porciones",
+    "calories": "650 kcal por porción",
+    "story": "Homenaje de alta gastronomía al clásico porteño por excelencia. Esta versión sustituye la muzzarella industrial por auténtico queso Fior di Latte fresco de vaca, cuya masa hilada gratina en una película elástica y dorada sin desprender suero ni aceite pesado. En lugar de salsa acuosa que ablanda la carne, lleva una densa emulsión de tomates secos rehidratados al aceite de oliva virgen extra y albahaca, resguardando la textura crujiente del apanado de panko y masa madre. Se corona con la guarnición más mítica de la calle Corrientes: las auténticas papas soufflé infladas por vapor en doble baño de aceite, tal como se inmortalizaron desde 1952 en El Palacio de la Papa Frita.",
+    "image": "img/milanesa_napolitana_fior_di_latte_sufle.jpg?v=4.0",
+    "tags": [
+      "Milanesa",
+      "Napolitana",
+      "Fior di Latte",
+      "Papas Soufflé",
+      "Palacio de la Papa Frita",
+      "Argentina",
+      "Gourmet",
+      "Bodegón"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Ojo de Bife y Rebozado Crocante",
+        "items": [
+          "4 bifes de ojo de bife o bife de chorizo de 200 a 250 g cada uno (1,5 cm de altura)",
+          "Harina 0000 para el sellado seco inicial",
+          "3 huevos de campo batidos con 1 cucharada de mostaza de Dijon, 1 diente de ajo rallado fino, ralladura de 1/2 limón, perejil picado, sal y pimienta",
+          "Mix de apanado: 200 g de Panko japonés, 100 g de pan de masa madre rallado grueso y 50 g de queso parmesano rallado fino",
+          "Aceite neutro para freír a 175 °C"
+        ]
+      },
+      {
+        "name": "Licuado de Tomates Secos (Base Umami)",
+        "items": [
+          "100 g de tomates secos hidratados en 200 ml de agua tibia durante 20 minutos",
+          "4 a 5 cucharadas de aceite de oliva virgen extra",
+          "1 diente de ajo asado suave",
+          "5 hojas de albahaca fresca y 3 cucharadas del agua de hidratación",
+          "Pizca de sal marina y gotas de aceto balsámico"
+        ]
+      },
+      {
+        "name": "Cobertura Napolitana",
+        "items": [
+          "4 fetas de jamón cocido natural braseado",
+          "250 g de queso Fior di Latte escurrido y cortado en láminas",
+          "Orégano seco de campo y aceite de oliva crudo"
+        ]
+      },
+      {
+        "name": "Papas Soufflé (El Secreto de Buenos Aires)",
+        "items": [
+          "1 kg de papas blancas o negras de forma regular y buen almidón",
+          "Abundante aceite para freír en dos sartenes o etapas",
+          "Sal fina para espolvorear al salir"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Elaboración del Licuado y Apanado de la Carne",
+        "steps": [
+          "Licuar los tomates secos hidratados con el aceite de oliva, el ajo asado, la albahaca, sal, aceto y un chorrito del agua de remojo hasta lograr una crema roja lisa, densa y brillante.",
+          "Pasar los bifes de ojo de bife por harina sacudiendo el sobrante, sumergir en el huevo condimentado con mostaza de Dijon y perejil, y presionar firmemente en la mezcla de panko, masa madre y parmesano. Enfriar 20 minutos en heladera para asentar la costra."
+        ]
+      },
+      {
+        "name": "2. Técnica Legendaria de las Papas Soufflé (Doble Baño)",
+        "steps": [
+          "Pelar las papas y cortar con mandolina en rodajas de 3 mm exactos. Lavar bajo el chorro de agua fría para quitar el almidón superficial y secar exhaustivamente una por una con un paño limpio (no debe quedar rastro de agua).",
+          "Primer baño a 135 °C: calentar una sartén profunda con abundante aceite a temperatura media. Colocar las rodajas de papa y agitar la sartén constantemente en movimientos de vaivén u olas durante 4 a 5 minutos. Este movimiento continuo cocina la papa por dentro y sella una piel externa elástica e impermeable en ambas caras sin que tome color. Retirar y reposar 5 minutos en una bandeja.",
+          "Segundo baño a 185-190 °C: calentar otra sartén con aceite muy caliente. Volcar las papas precocidas; al contacto térmico, el agua interna se transformará de golpe en vapor de presión y las rodajas se inflarán instantáneamente como almohaditas doradas y huecas. Escurrir con espumadera y salar de inmediato."
+        ]
+      },
+      {
+        "name": "3. Fritura, Gratinado y Servicio",
+        "steps": [
+          "Freír las milanesas en aceite a 175 °C durante 2 minutos por lado hasta que estén doradas y crocantes. Disponer en una fuente ovalada de acero inoxidable.",
+          "Untar con el licuado de tomates secos, colocar la feta de jamón braseado y cubrir con las láminas de Fior di Latte. Llevar a horno a temperatura máxima con grill durante 3 minutos hasta fundir y dorar el queso.",
+          "Espolvorear con orégano de campo, rociar con oliva y servir inmediatamente acompañada por la montaña de papas soufflé crocantes."
+        ]
+      }
+    ],
+    "notes": "El éxito de las papas soufflé depende de dos factores innegociables: el grosor milimétrico de 3 mm cortado a mandolina y el movimiento en olas durante el primer baño a 135 °C para formar la membrana de almidón que luego se infla en el aceite hirviendo a 185 °C."
+  },
+  {
+    "id": 454,
+    "title": "Milanesa Gourmet de Autor con Burrata Fresca, Albahaca y Papas en Grasa de Pato",
+    "category": "Carnes / Bodegón Gourmet",
+    "country": "Argentina",
+    "prep_time": "35 min",
+    "cook_time": "20 min",
+    "servings": "4 porciones",
+    "calories": "680 kcal por porción",
+    "story": "La vanguardia gastronómica de los bistrós porteños reinventa la milanesa con una propuesta de contrastes térmicos y texturas memorables. Sobre una base de ojo de bife con crujiente rebozado de panko, se aplica una intensa emulsión de tomates secos y hojas de albahaca fresca. En lugar de queso derretido al horno, el plato se corona en la mesa con una auténtica burrata fresca entera cortada al medio, permitiendo que su corazón cremoso de stracciatella fluya tibio sobre la carne crujiente. Como escolta de lujo, se acompaña con papas fritas rústicas de triple cocción doradas en grasa de pato (duck fat fries), técnica que logra una costra de vidrio y un interior aterciopelado.",
+    "image": "img/milanesa_burrata_grasa_pato.jpg?v=4.0",
+    "tags": [
+      "Milanesa",
+      "Burrata",
+      "Gourmet",
+      "Grasa de Pato",
+      "Duck Fat Fries",
+      "Argentina",
+      "Tomates Secos",
+      "Albahaca"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Ojo de Bife y Rebozado Panko",
+        "items": [
+          "4 bifes de ojo de bife de 200 a 250 g cada uno (1,5 cm de grosor)",
+          "Harina 0000 para enharinado fino",
+          "3 huevos de campo batidos con mostaza de Dijon, ajo picado, perejil y ralladura de limón",
+          "200 g de Panko japonés mezclado con 100 g de pan de masa madre y 50 g de parmesano",
+          "Aceite para freír a 175 °C"
+        ]
+      },
+      {
+        "name": "Licuado de Tomates Secos y Cobertura",
+        "items": [
+          "100 g de tomates secos rehidratados procesados con 4 cdas de aceite de oliva virgen extra, 1 diente de ajo asado, albahaca y sal",
+          "1 manojo de hojas frescas de albahaca verde seleccionada",
+          "2 unidades de Burrata fresca de excelente calidad (a temperatura ambiente, 1/2 por milanesa)",
+          "Aceite de oliva virgen extra crudo, escamas de sal marina y pimienta negra recién molida"
+        ]
+      },
+      {
+        "name": "Papas Fritas Triple Cocción en Grasa de Pato",
+        "items": [
+          "1 kg de papas cortadas en bastones gruesos de 1,5 cm",
+          "2 cucharadas de vinagre de alcohol y 1 cucharada de sal gruesa para el agua",
+          "500 g de grasa de pato pura para freír",
+          "Ramitas de romero fresco y escamas de sal marina"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Preparación de las Papas en Grasa de Pato (Triple Cocción)",
+        "steps": [
+          "Hervir los bastones de papa en abundante agua con sal y el vinagre durante 7 a 8 minutos hasta que los bordes comiencen a quebrarse apenas (el vinagre preserva la estructura interna). Escurrir y enfriar por completo en heladera sobre rejilla para secar toda la humedad.",
+          "Primera fritura (confitado): calentar la grasa de pato a 130 °C. Sumergir las papas durante 6 a 7 minutos hasta que estén tiernas y cocidas por dentro sin tomar color. Retirar y escurrir.",
+          "Segunda fritura (crujiente): calentar la grasa de pato a 180-185 °C. Sumergir las papas durante 3 a 4 minutos hasta lograr un dorado caoba profundo, súper crujiente y aromático. Escurrir, mezclar con romero fresco y espolvorear con sal marina en escamas."
+        ]
+      },
+      {
+        "name": "2. Apanado y Fritura del Ojo de Bife",
+        "steps": [
+          "Procesar los tomates secos con el aceite de oliva, ajo y albahaca hasta formar una emulsión roja espesa.",
+          "Apanar los bifes pasando por harina, huevo condimentado y el mix de panko con masa madre. Freír a 175 °C durante 2 minutos por lado hasta dorar perfectamente manteniendo el centro rosado y jugoso."
+        ]
+      },
+      {
+        "name": "3. Montaje y Emplatado de Autor",
+        "steps": [
+          "Disponer la milanesa caliente en la fuente ovalada o plato de servicio.",
+          "Pintar la superficie con 2 cucharadas colmadas de la emulsión de tomates secos y acomodar las hojas frescas de albahaca verde.",
+          "Colocar media burrata fresca en el centro de la milanesa y realizar un corte en cruz con la punta del cuchillo: la stracciatella interior fluirá sobre la carne caliente creando una crema untuosa deliciosa.",
+          "Terminar con un hilo de aceite de oliva virgen extra, escamas de sal marina sobre la burrata y pimienta negra molida. Servir al instante junto al cuenco humeante de papas en grasa de pato."
+        ]
+      }
+    ],
+    "notes": "La cocción en grasa de pato aporta una profundidad de sabor y un tostado crujiente insuperables gracias a su alto punto de humo y perfil graso. Al combinarse con la frescura sedosa de la burrata y la acidez dulce del tomate seco, transforma un clásico popular en una experiencia de alta gastronomía."
   }
 ]
