@@ -2140,16 +2140,22 @@
     const COUNTRY_FLAGS = {
       'Italia': 'it',
       'Japón': 'jp',
+      'Japon': 'jp',
       'China': 'cn',
       'Argentina': 'ar',
       'Receta de Autor (Argentina)': 'ar',
       'España': 'es',
+      'Espana': 'es',
       'Francia': 'fr',
       'Estados Unidos': 'us',
+      'EE. UU.': 'us',
       'Tailandia': 'th',
       'Reino Unido': 'gb',
       'Inglaterra': 'gb',
+      'Escocia': 'gb-sct',
+      'Gales': 'gb-wls',
       'México': 'mx',
+      'Mexico': 'mx',
       'Vietnam': 'vn',
       'Rusia': 'ru',
       'Corea del Sur': 'kr',
@@ -2157,7 +2163,9 @@
       'India': 'in',
       'Grecia': 'gr',
       'Turquía': 'tr',
+      'Turquia': 'tr',
       'Perú': 'pe',
+      'Peru': 'pe',
       'Alemania': 'de',
       'Irlanda': 'ie',
       'Suecia': 'se',
@@ -2167,24 +2175,61 @@
       'Armenia': 'am',
       'Venezuela': 've',
       'Sudáfrica': 'za',
+      'Sudafrica': 'za',
       'Marruecos': 'ma',
       'Bélgica': 'be',
+      'Belgica': 'be',
       'Cuba': 'cu',
       'Líbano / Siria': 'lb',
+      'Líbano': 'lb',
+      'Libano': 'lb',
+      'Siria': 'sy',
       'Medio Oriente': 'lb',
       'Palestina': 'ps',
-      'Escocia': 'gb-sct',
       'Singapur': 'sg',
       'Taiwán': 'tw',
+      'Taiwan': 'tw',
       'Afganistán': 'af',
-      'Caribe': 'cu'
+      'Afganistan': 'af',
+      'Caribe': 'cu',
+      'Puerto Rico': 'pr',
+      'Brasil': 'br',
+      'Australia': 'au',
+      'Canadá': 'ca',
+      'Canada': 'ca',
+      'Canadá / Internacional': 'ca',
+      'Chile': 'cl',
+      'Uruguay': 'uy',
+      'Bolivia': 'bo',
+      'Portugal': 'pt',
+      'Hungría': 'hu',
+      'Hungria': 'hu',
+      'Indonesia': 'id',
+      'Balcanes': 'rs',
+      'Fusión': 'un',
+      'Fusión Internacional': 'un'
     };
 
     function getCountryFlagImg(country) {
-      const code = COUNTRY_FLAGS[country];
+      if (!country) return '<span class="notranslate" translate="no">🌍</span>';
+      let code = COUNTRY_FLAGS[country];
+      if (!code && country.includes('/')) {
+        const first = country.split('/')[0].trim();
+        code = COUNTRY_FLAGS[first];
+      }
+      if (!code) {
+        const clean = country.normalize("NFD").replace(/[\u0300-\u036f]/g, "").trim();
+        code = COUNTRY_FLAGS[clean];
+        if (!code && clean.includes('/')) {
+          const firstClean = clean.split('/')[0].trim();
+          code = COUNTRY_FLAGS[firstClean];
+        }
+      }
       if (code) {
         return `<img src="https://flagcdn.com/w40/${code}.png" srcset="https://flagcdn.com/w80/${code}.png 2x" width="18" height="13" alt="${country}" class="flag-img notranslate" translate="no">`;
       }
+      return '<span class="notranslate" translate="no">🌍</span>';
+    }
       return '<span class="notranslate" translate="no">🌍</span>';
     }
 
