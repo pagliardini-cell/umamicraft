@@ -35363,5 +35363,289 @@
     "url": "https://umamicraft.vercel.app/r/466.html",
     "original_title": "Pancakes Japoneses Soufflé (Fluffy Soufflé Pancakes)",
     "published": "2026-11-04"
+  },
+  {
+    "id": 467,
+    "title": "Margarita Clásica (México)",
+    "country": "México",
+    "category": "Cocktails & Tragos",
+    "tags": [
+      "México",
+      "Tequila",
+      "Margarita",
+      "Cocktails & Tragos",
+      "Tragos",
+      "Cointreau",
+      "Lima",
+      "Clásico"
+    ],
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "temperature": "Muy frío / Servido en copa escarchada",
+    "servings": "1 copa cocktail o coupe",
+    "calories": "170 kcal aprox. por copa",
+    "diet_badges": [
+      "Vegano",
+      "Vegetariano",
+      "Sin Gluten",
+      "Sin Lácteos"
+    ],
+    "story": "Nacida en las cantinas y bares de la frontera y costas mexicanas entre los años 1930 y 1940 (con leyendas repartidas entre Tijuana, Ciudad Juárez y Ensenada), la Margarita es el cóctel a base de tequila más famoso y celebrado del mundo. Su balance perfecto combina la fuerza vegetal del tequila blanco 100% de agave azul, el dulzor cítrico y perfumado del licor de naranja (Cointreau o Triple Sec) y la acidez viva del jugo fresco de lima recién exprimido, todo enmarcado por el contraste indispensable del borde escarchado con sal marina fina.",
+    "ingredient_groups": [
+      {
+        "name": "Para el Cóctel",
+        "items": [
+          "50 ml (aprox. 1 3/4 oz) de Tequila blanco 100% de agave",
+          "25 ml (aprox. 3/4 oz) de licor de naranja Cointreau o Triple Sec de calidad",
+          "25 ml (aprox. 3/4 oz) de jugo de lima fresco recién exprimido",
+          "1 cucharadita (5 ml) de jarabe de agave o almíbar simple (opcional, para equilibrar según la acidez de la fruta)",
+          "Abundante hielo en cubos compactos para la coctelera"
+        ]
+      },
+      {
+        "name": "Escarchado y Decoración",
+        "items": [
+          "Sal marina fina o en escamas",
+          "1 cuña o rodaja de lima fresca"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Escarchado de la Copa",
+        "steps": [
+          "Pasar una cuña de lima fresca por la mitad exterior del borde de una copa coupe o copa Margarita (escarchar solo la mitad permite al bebedor alternar tragos con y sin sal).",
+          "Apoyar suavemente el borde sobre un plato plano con sal marina fina, girando la copa para que la sal quede adherida de manera prolija. Sacudir el exceso."
+        ]
+      },
+      {
+        "name": "2. Batido en Coctelera",
+        "steps": [
+          "Llenar la coctelera con abundante hielo en cubos grandes.",
+          "Verter el tequila blanco, el Cointreau, el jugo fresco de lima y el toque opcional de jarabe de agave.",
+          "Cerrar la coctelera y agitar vigorosamente durante 12 a 15 segundos hasta que el exterior del metal esté completamente escarchado y frío."
+        ]
+      },
+      {
+        "name": "3. Servido y Presentación",
+        "steps": [
+          "Colar el cóctel utilizando un colador de oruga (Hawthorne) y un colador de malla fina directamente sobre la copa escarchada previamente enfriada.",
+          "Decorar el borde con una rodaja fina de lima fresca y servir de inmediato."
+        ]
+      }
+    ],
+    "notes": "Regla de oro de la coctelería mexicana: jamás uses jugo envasado ni mezclas industriales ácidas. La diferencia entre una Margarita ordinaria y una sublime reside enteramente en el jugo de lima exprimido al momento y un buen tequila 100% agave.",
+    "image": "img/margarita_clasica.jpg",
+    "url": "https://umamicraft.vercel.app/r/467.html",
+    "original_title": "Margarita Clásica (México)",
+    "published": "2026-11-05"
+  },
+  {
+    "id": 468,
+    "title": "Fernet con Cola / \"Fernandito\" (Argentina)",
+    "country": "Argentina",
+    "category": "Cocktails & Tragos",
+    "tags": [
+      "Argentina",
+      "Córdoba",
+      "Fernet",
+      "Fernet Branca",
+      "Coca Cola",
+      "Cocktails & Tragos",
+      "Tragos",
+      "Popular",
+      "Ritual"
+    ],
+    "prep_time": "3 min",
+    "cook_time": "0 min",
+    "temperature": "Extremadamente frío con hielo de roca",
+    "servings": "1 vaso largo o vaso viajero",
+    "calories": "240 kcal aprox. por vaso",
+    "diet_badges": [
+      "Vegano",
+      "Vegetariano",
+      "Sin Gluten",
+      "Sin Lácteos"
+    ],
+    "story": "Más que un simple trago, el 'Fernet con Coca' (popularmente bautizado como 'Fernandito') es el ritual de amistad, sobremesa y celebración más arraigado de la cultura popular argentina. Nacido como costumbre cotidiana en los bares y peñas de la provincia de Córdoba en los años 1970 y expandido a lo largo y ancho del país, transformó a la Argentina en la mayor consumidora mundial de este amargo licor de hierbas milanés. Su magia radica en el contraste entre el amargor botánico, mentolado y resinoso del Fernet y el dulzor burbujeante de la gaseosa cola, alcanzando su perfección técnica en la famosa proporción '70/30' con mucho hielo y una corona de espuma densa que no se desborda.",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes y Proporciones Sagradas",
+        "items": [
+          "1 parte (30% del vaso, aprox. 60 a 70 ml) de Fernet-Branca original",
+          "2 a 3 partes (70% del vaso, aprox. 180 a 200 ml) de gaseosa cola clásica (idealmente Coca-Cola original de botella de vidrio o lata bien fría)",
+          "Abundante hielo en rocas grandes y compactas (el vaso debe colmarse de hielo hasta el borde)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. El Hielo Primero",
+        "steps": [
+          "Llenar un vaso largo (tubo de vidrio grueso, vaso de trago largo o tradicional 'vaso viajero' cortado de botella) con cubos de hielo grandes hasta el tope superior. La abundancia de hielo mantiene la mezcla helada sin que se derrita rápidamente."
+        ]
+      },
+      {
+        "name": "2. Medir el Fernet",
+        "steps": [
+          "Verter el Fernet directamente sobre los hielos hasta alcanzar visualmente el 30% del volumen del vaso (la clásica proporción cordobesa 70/30, o 80/20 para quien prefiere una versión más suave)."
+        ]
+      },
+      {
+        "name": "3. El Servicio de la Coca y la Creación de la Corona",
+        "steps": [
+          "Inclinar el vaso unos 45 grados y verter la gaseosa cola lentamente deslizándola por la pared de cristal para no perder el gas.",
+          "A medida que el líquido asciende, enderezar el vaso; el contacto de las burbujas con las hierbas y aceites aromáticos del Fernet formará de manera natural una corona de espuma densa, cremosa y de dos dedos de altura.",
+          "Dar un suave movimiento vertical de abajo hacia arriba con una cuchara de bar o sorbete para integrar sin romper la efervescencia. Servir de inmediato."
+        ]
+      }
+    ],
+    "notes": "El secreto indispensable: tanto el Fernet como la Coca-Cola deben estar a temperatura de heladera antes de servir. Si la gaseosa está tibia, la espuma explota incontrolablemente fuera del vaso y derrite el hielo al instante aguando el trago.",
+    "image": "img/fernet_con_coca.jpg",
+    "url": "https://umamicraft.vercel.app/r/468.html",
+    "original_title": "Fernet con Cola / \"Fernandito\" (Argentina)",
+    "published": "2026-11-05"
+  },
+  {
+    "id": 469,
+    "title": "Caipirinha Tradicional de Cachaça (Brasil)",
+    "country": "Brasil",
+    "category": "Cocktails & Tragos",
+    "tags": [
+      "Brasil",
+      "Cachaça",
+      "Caipirinha",
+      "Cocktails & Tragos",
+      "Tragos",
+      "Lima",
+      "Playa",
+      "Clásico"
+    ],
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "temperature": "Helado / Con hielo roto o en cubos",
+    "servings": "1 vaso bajo tipo Old Fashioned",
+    "calories": "210 kcal aprox. por vaso",
+    "diet_badges": [
+      "Vegano",
+      "Vegetariano",
+      "Sin Gluten",
+      "Sin Lácteos"
+    ],
+    "story": "Reconocida por ley federal como la bebida nacional y patrimonio cultural inmaterial de Brasil, la Caipirinha nació en el campo del interior del estado de São Paulo hacia principios del siglo XX, evolucionando de un remedio popular con limón y aguardiente a la reina indiscutida de las playas y botecos brasileños. Se elabora exclusivamente con Cachaça (el destilado autóctono de jugo fresco de caña de azúcar fermentado), lima macerada directamente en el vaso con azúcar blanca y abundante hielo, creando una explosión refrescante de aceites esenciales cítricos, dulzor y notas herbáceas puras de la caña.",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes Tradicionales",
+        "items": [
+          "1 lima fresca entera de piel fina, lisa y brillante (limão tahiti)",
+          "2 cucharaditas colmadas (aprox. 15 a 20 g) de azúcar blanco refinado (o azúcar demerara suave)",
+          "60 ml (2 oz) de Cachaça blanca tradicional de buena calidad",
+          "Abundante hielo roto o cubos de hielo medianos"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. El Corte de la Lima (Sin Amargor)",
+        "steps": [
+          "Lavar muy bien la lima. Cortar los dos polos y cortarla al medio a lo largo.",
+          "Retirar con un corte en V la nervadura blanca central (albedo) de cada mitad, ya que contiene los taninos que amargan el trago.",
+          "Cortar cada mitad en 4 trozos parejos (8 gajos en total)."
+        ]
+      },
+      {
+        "name": "2. Macerado en el Vaso",
+        "steps": [
+          "Disponer los trozos de lima dentro de un vaso bajo de boca ancha con la pulpa hacia arriba y la piel contra el fondo.",
+          "Espolvorear el azúcar blanco sobre las limas.",
+          "Con un pisador o mortero de madera, presionar con firmeza girando la muñeca para extraer todo el jugo y disolver los cristales de azúcar con los aceites de la cáscara (presionar sin destrozar la cáscara para no desprender notas amargas)."
+        ]
+      },
+      {
+        "name": "3. Enfriado y Servido",
+        "steps": [
+          "Llenar el vaso hasta el borde con hielo roto o cubos.",
+          "Verter la Cachaça sobre el hielo.",
+          "Remover enérgicamente de abajo hacia arriba con cuchara de bar (o batir brevemente en coctelera) para que el azúcar del fondo se emulsione y enfríe por completo el cóctel. Servir con sorbetes cortos."
+        ]
+      }
+    ],
+    "notes": "Diferencia fundamental con la Caipiroska: la Caipirinha auténtica se hace siempre con Cachaça. Su sabor vegetal a caña viva es inimitable. Para que no amargue, retirar siempre el filamento blanco central de la lima antes de machacar.",
+    "image": "img/caipirinha_tradicional.jpg",
+    "url": "https://umamicraft.vercel.app/r/469.html",
+    "original_title": "Caipirinha Tradicional de Cachaça (Brasil)",
+    "published": "2026-11-05"
+  },
+  {
+    "id": 470,
+    "title": "Piña Colada Clásica (Puerto Rico)",
+    "country": "Puerto Rico",
+    "category": "Cocktails & Tragos",
+    "tags": [
+      "Puerto Rico",
+      "Caribe",
+      "Ron",
+      "Piña Colada",
+      "Coco",
+      "Cocktails & Tragos",
+      "Tragos",
+      "Tropical",
+      "Clásico"
+    ],
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "temperature": "Textura frozen cremosa y helada",
+    "servings": "1 copa Huracán (Hurricane glass) o vaso alto",
+    "calories": "290 kcal aprox. por copa",
+    "diet_badges": [
+      "Vegetariano",
+      "Sin Gluten",
+      "Sin Lácteos",
+      "Tropical"
+    ],
+    "story": "Declarada bebida oficial de Puerto Rico en 1978, la Piña Colada fue creada en San Juan en la década de 1950 (con disputa histórica entre el bartender Ramón 'Monchito' Marrero del Hotel Caribe Hilton y el restaurante Barrachina). Es el emblema máximo de la coctelería tiki y caribeña. Combina la calidez del ron blanco puertorriqueño con la sedosa densidad de la crema de coco (Coco López) y la acidez aromática del jugo de piña madura colada, logrando una textura cremosa, helada y aterciopelada que evoca las playas del trópico.",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes del Cóctel",
+        "items": [
+          "60 ml (2 oz) de Ron blanco puertorriqueño o caribeño",
+          "60 ml (2 oz) de crema de coco espesa endulzada (tipo Coco López)",
+          "90 ml (3 oz) de jugo natural de piña madura recién colado",
+          "1 chorrito (15 ml) de jugo fresco de lima (el balance secreto para cortar el exceso de dulzor)",
+          "1 taza de hielo picado"
+        ]
+      },
+      {
+        "name": "Decoración Tropical",
+        "items": [
+          "1 triángulo de piña fresca con cáscara",
+          "1 cereza al marrasquino",
+          "Sombrillita de papel opcional"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Licuado Frozen",
+        "steps": [
+          "En el vaso de la licuadora, verter el ron blanco, la crema de coco espesa, el jugo de piña colado y el toque de jugo de lima.",
+          "Agregar la taza de hielo picado.",
+          "Licuar a velocidad máxima durante 15 a 20 segundos hasta obtener una textura 'frozen' lisa, cremosa, sedosa y sin trozos grandes de hielo."
+        ]
+      },
+      {
+        "name": "2. Servido y Presentación",
+        "steps": [
+          "Verter la mezcla densa y espumosa en una copa Huracán (o vaso alto) previamente enfriada.",
+          "Adornar el borde con un triángulo de piña fresca encajado en la copa y una cereza al marrasquino sujeta con un palillo.",
+          "Servir con sorbete y disfrutar inmediatamente bien helada."
+        ]
+      }
+    ],
+    "notes": "El gran error en la Piña Colada es usar leche de coco líquida en lugar de 'crema de coco' (que contiene el tenor graso y azúcar necesarios para esa textura aterciopelada de ensueño). El chorrito de jugo de lima es el secreto de los mejores bartenders de San Juan para realzar los sabores y evitar que empalague.",
+    "image": "img/pina_colada_clasica.jpg",
+    "url": "https://umamicraft.vercel.app/r/470.html",
+    "original_title": "Piña Colada Clásica (Puerto Rico)",
+    "published": "2026-11-05"
   }
 ]
