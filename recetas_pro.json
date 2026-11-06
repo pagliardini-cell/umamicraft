@@ -36287,7 +36287,7 @@
   },
   {
     "id": 477,
-    "title": "Empanadas de Pino Tradicionales (Chile)",
+    "title": "Empanadas de Pino (Chile)",
     "country": "Chile",
     "category": "Empanadas",
     "tags": [
@@ -36299,7 +36299,8 @@
       "Fiestas Patrias",
       "Carne Picada",
       "Ají de Color",
-      "Aceitunas y Pasas"
+      "Aceitunas y Pasas",
+      "Empanadas de Pino Tradicionales"
     ],
     "prep_time": "45 min",
     "cook_time": "30 min",
@@ -36380,12 +36381,12 @@
     "notes": "El pino debe prepararse obligatoriamente la noche anterior: el frío solidifica los jugos facilitando el cerrado y previene que la masa se ablande. Para una auténtica experiencia chilena, acompañar con pebre fresco recién picado.",
     "image": "img/empanadas_de_pino_chile.jpg",
     "url": "https://recetas.mamicraft.com/empanadas-de-pino-chile",
-    "original_title": "Empanadas de Pino Tradicionales (Chile)",
+    "original_title": "Empanadas de Pino (Chile)",
     "published": "2026-11-06"
   },
   {
     "id": 478,
-    "title": "Chau Fan Clásico de Restaurante Chino - Shau Fan (China)",
+    "title": "Chow Fan - Arroz Frito al Wok (China)",
     "country": "China",
     "category": "Arroces",
     "tags": [
@@ -36397,7 +36398,27 @@
       "Cerdo Char Siu",
       "Aceite de Sésamo",
       "Salsa de Soja",
-      "Comida China Tradicional"
+      "Comida China Tradicional",
+      "chaw fan",
+      "shau fan",
+      "chau fan",
+      "chow fan",
+      "chao fan",
+      "shao fan",
+      "arroz chaw fan",
+      "arroz shau fan",
+      "arroz chau fan",
+      "arroz chow fan",
+      "arroz chao fan",
+      "arroz frito chino",
+      "chaufan",
+      "chowfan",
+      "shaufan",
+      "chawfan",
+      "arroz chaufa",
+      "wok hei",
+      "arroz frito cantones",
+      "arroz de cantina china"
     ],
     "prep_time": "15 min",
     "cook_time": "10 min",
@@ -36410,7 +36431,7 @@
       "Aroma Wok Hei",
       "Arroz Frito Cantonés"
     ],
-    "story": "El arroz frito cantonés (Chǎo Fàn / Shau Fan) es una de las mayores joyas culinarias de la cocina china, perfeccionado en cantinas familiares y restaurantes de dim sum en todo el mundo. La maestría detrás del chau fan de restaurante no reside en añadir muchos condimentos, sino en dos pilares absolutos: el uso de arroz blanco cocido del día anterior bien frío (granos desgranados y secos) y el 'Wok Hei' o aliento del wok, esa cocción veloz a fuego abrasador donde los granos de arroz saltan, caramelizan su almidón exterior con salsa de soja oscura y aceite de sésamo tostado, manteniendo cada grano suelto, masticable y jamás pastoso.",
+    "story": "El auténtico arroz frito cantonés —buscado popularmente bajo fonéticas como chow fan, chau fan, chaw fan o shau fan— es el plato insignia de las cantinas chinas tradicionales. Su magia no depende de salsas complejas, sino del arroz frío del día anterior bien desgranado, el fuego vivo del wok y un secreto magistral: un chorrito de agua fría apenas batido el huevo en el wok caliente para que el vapor instantáneo lo infle en hebras tiernas y esponjosas, sellado al final con un toque de aceite de sésamo y el inconfundible umami de cantina.",
     "ingredient_groups": [
       {
         "name": "La Base de Arroz y Proteínas",
@@ -36471,10 +36492,10 @@
         ]
       }
     ],
-    "notes": "Regla de oro: usar arroz grano largo cocido el día previo y enfriado sin tapar en heladera para evaporar la humedad. Saltear siempre en tandas con wok muy caliente para no enfriar el metal.",
+    "notes": "Búsquedas y variantes fonéticas: chaw fan, shau fan, chau fan, chow fan o chao fan. Secreto del chef: usar siempre arroz cocido frío de la víspera bien desgranado a mano y tirar un chorrito de agua al huevo en el wok para inflarlo al vapor antes de saltear con el arroz a fuego vivo.",
     "image": "img/chau_fan_chino.jpg",
     "url": "https://recetas.mamicraft.com/chau-fan-clasico-chino-shau-fan",
-    "original_title": "Chau Fan Clásico de Restaurante Chino - Shau Fan (China)",
+    "original_title": "Chow Fan - Arroz Frito al Wok (China)",
     "published": "2026-11-06"
   },
   {
@@ -36672,7 +36693,7 @@
   },
   {
     "id": 481,
-    "title": "Kassler Tradicional con Chucrut (Alemania)",
+    "title": "Kassler con Chucrut (Alemania)",
     "country": "Alemania",
     "category": "Carnes",
     "tags": [
@@ -36684,7 +36705,8 @@
       "Chuletas Ahumadas",
       "Enebro y Manzana",
       "Puré de Papas",
-      "Cocina Alemana Tradicional"
+      "Cocina Alemana Tradicional",
+      "Kassler Tradicional"
     ],
     "prep_time": "20 min",
     "cook_time": "45 min",
@@ -36762,12 +36784,12 @@
     "notes": "El kassler ya viene curado en salmuera, por lo que no es necesario agregar sal adicional al guiso. Las bayas de enebro y la manzana rallada son indispensables para redondear y suavizar la acidez de la fermentación.",
     "image": "img/kassler_chucrut_alemania.jpg",
     "url": "https://recetas.mamicraft.com/kassler-tradicional-chucrut-alemania",
-    "original_title": "Kassler Tradicional con Chucrut (Alemania)",
+    "original_title": "Kassler con Chucrut (Alemania)",
     "published": "2026-11-06"
   },
   {
     "id": 482,
-    "title": "Pastel Mandi'o - Empanadas Paraguayas de Mandioca (Paraguay)",
+    "title": "Pastel Mandi'o - Empanadas de Mandioca (Paraguay)",
     "country": "Paraguay",
     "category": "Empanadas",
     "tags": [
@@ -36779,7 +36801,8 @@
       "Fiesta de San Juan",
       "So'o Ku'i",
       "Carne Molida Guisada",
-      "Cocina Guaraní Tradicional"
+      "Cocina Guaraní Tradicional",
+      "Pastel Mandio Tradicional"
     ],
     "prep_time": "40 min",
     "cook_time": "25 min",
@@ -36860,7 +36883,7 @@
     "notes": "Es fundamental pisar la mandioca mientras aún está caliente para evitar que se formen hilos gomosos. La harina de maíz le otorga a la masa la solidez necesaria para manipular y freír sin que se rompa.",
     "image": "img/pastel_mandio_paraguay.jpg",
     "url": "https://recetas.mamicraft.com/pastel-mandio-empanadas-paraguayas-mandioca",
-    "original_title": "Pastel Mandi'o - Empanadas Paraguayas de Mandioca (Paraguay)",
+    "original_title": "Pastel Mandi'o - Empanadas de Mandioca (Paraguay)",
     "published": "2026-11-06"
   },
   {
@@ -36948,7 +36971,7 @@
   },
   {
     "id": 484,
-    "title": "Roti Tradicional - Pan Plano en Sartén sin Horno (India)",
+    "title": "Roti - Pan Plano en Sartén (India)",
     "country": "India",
     "category": "Panes",
     "tags": [
@@ -37026,12 +37049,12 @@
     "notes": "La sartén debe estar muy caliente para que el agua de la masa se convierta en vapor instantáneo y lo infle. Mantener los rotis cocidos envueltos en un paño de algodón para que permanezcan tiernos y flexibles durante toda la comida.",
     "image": "img/roti_pan_plano_indio.jpg",
     "url": "https://recetas.mamicraft.com/roti-pan-plano-sarten-sin-horno",
-    "original_title": "Roti Tradicional - Pan Plano en Sartén sin Horno (India)",
+    "original_title": "Roti - Pan Plano en Sartén (India)",
     "published": "2026-11-06"
   },
   {
     "id": 485,
-    "title": "Arepas Tradicionales de Masa Casera de Maíz (Venezuela)",
+    "title": "Arepas Caseras de Maíz (Venezuela)",
     "country": "Venezuela",
     "category": "Panes",
     "tags": [
@@ -37110,7 +37133,7 @@
     "notes": "Poner siempre el agua primero en el bol y verter la harina de maíz en lluvia evita los grumos. El sonido hueco al golpearla con los nudillos indica que la miga interna terminó de cocerse a la perfección.",
     "image": "img/arepas_tradicionales_maiz.jpg",
     "url": "https://recetas.mamicraft.com/arepas-tradicionales-masa-casera-maiz",
-    "original_title": "Arepas Tradicionales de Masa Casera de Maíz (Venezuela)",
+    "original_title": "Arepas Caseras de Maíz (Venezuela)",
     "published": "2026-11-06"
   },
   {
@@ -37212,7 +37235,7 @@
   },
   {
     "id": 487,
-    "title": "Okonomiyaki Tradicional de Osaka a la Plancha (Japón)",
+    "title": "Okonomiyaki de Osaka a la Plancha (Japón)",
     "country": "Japón",
     "category": "Especialidades",
     "tags": [
@@ -37225,7 +37248,8 @@
       "Mayonesa Kewpie",
       "Comida Callejera de Osaka",
       "Teppanyaki Casero",
-      "Comida Japonesa Tradicional"
+      "Comida Japonesa Tradicional",
+      "Okonomiyaki Tradicional"
     ],
     "prep_time": "20 min",
     "cook_time": "15 min",
@@ -37305,12 +37329,12 @@
     "notes": "No aplastar el okonomiyaki con la espátula durante la cocción: al dejarlo esponjoso el vapor del repollo cocina el interior de forma tierna y jugosa mientras la panceta exterior queda crocante.",
     "image": "img/okonomiyaki_tradicional_osaka.jpg",
     "url": "https://recetas.mamicraft.com/okonomiyaki-tradicional-osaka-plancha",
-    "original_title": "Okonomiyaki Tradicional de Osaka a la Plancha (Japón)",
+    "original_title": "Okonomiyaki de Osaka a la Plancha (Japón)",
     "published": "2026-11-06"
   },
   {
     "id": 488,
-    "title": "Rogan Josh Tradicional de Cordero al Fuego Lento (India)",
+    "title": "Rogan Josh de Cordero (India)",
     "country": "India",
     "category": "Guisos",
     "tags": [
@@ -37323,7 +37347,8 @@
       "Slow Cook",
       "Chile de Cachemira",
       "Cocina de Cachemira",
-      "Ghee"
+      "Ghee",
+      "Rogan Josh Tradicional"
     ],
     "prep_time": "25 min",
     "cook_time": "90 min",
@@ -37406,7 +37431,7 @@
     "notes": "El auténtico Kashmiri Rogan Josh obtiene su color exclusivamente del pimentón/chile de Cachemira, no del tomate. El jengibre seco (sonth) y el hinojo (saunf) son las dos especias de identidad obligatorias que definen su aroma.",
     "image": "img/rogan_josh_cordero.jpg",
     "url": "https://recetas.mamicraft.com/rogan-josh-tradicional-cordero-lento",
-    "original_title": "Rogan Josh Tradicional de Cordero al Fuego Lento (India)",
+    "original_title": "Rogan Josh de Cordero (India)",
     "published": "2026-11-06"
   },
   {
