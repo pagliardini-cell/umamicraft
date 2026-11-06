@@ -35647,5 +35647,1131 @@
     "url": "https://umamicraft.vercel.app/r/470.html",
     "original_title": "Piña Colada Clásica (Puerto Rico)",
     "published": "2026-11-05"
+  },
+  {
+    "id": 471,
+    "title": "Postre Chajá Tradicional de Paysandú (Uruguay)",
+    "country": "Uruguay",
+    "category": "Postres",
+    "tags": [
+      "Uruguay",
+      "Paysandú",
+      "Postre Chajá",
+      "Postres",
+      "Merengue",
+      "Dulce de Leche",
+      "Chantilly",
+      "Duraznos",
+      "Clásicos Rioplatenses",
+      "Repostería Tradicional"
+    ],
+    "prep_time": "45 min",
+    "cook_time": "30 min",
+    "rest_time": "4 h (refrigeración)",
+    "temperature": "170 °C (horno)",
+    "servings": "10 a 12 porciones",
+    "calories": "395 kcal por porción",
+    "diet_badges": [
+      "Vegetariano",
+      "Clásico Rioplatense",
+      "Patrimonio Gastronómico"
+    ],
+    "story": "El Postre Chajá es el emblema dulce más célebre de la República Oriental del Uruguay, creado el 23 de mayo de 1927 por don Orlando Rivera, maestro confitero y propietario de la mítica Confitería Las Familias en la ciudad de Paysandú. Rivera concibió un postre que desafiara la pesadez de la pastelería colonial de la época, inspirándose en la fisonomía del 'chajá' (Chauna torquata), ave autóctona de los humedales del litoral del río Uruguay conocida por su abundante y vaporoso plumaje grisáceo y su cuerpo llamativamente liviano al vuelo. La genialidad de Rivera radicó en combinar tres pilares: un bizcochuelo genovés sumamente esponjoso y aireado humedecido con almíbar suave, una doble capa untuosa de dulce de leche repostero y crema chantilly perfumada con vainilla y trozos de duraznos en almíbar, y una cobertura exterior completa tapizada de merengue seco casero quebrado a mano. Al degustarlo, el contraste es sublime: la fragilidad crujiente del merengue se funde de inmediato con la sedosidad de la crema, la acidez frutal del durazno y la profundidad láctea y acaramelada del dulce de leche.",
+    "ingredient_groups": [
+      {
+        "name": "Bizcochuelo Genovés Clásico",
+        "ingredients": [
+          {
+            "name": "Huevos grandes a temperatura ambiente",
+            "amount": "4 unidades",
+            "notes": "Clave batir a punto cinta o letra"
+          },
+          {
+            "name": "Azúcar común refinada",
+            "amount": "120 g",
+            "notes": "Agregada en forma de lluvia"
+          },
+          {
+            "name": "Harina de trigo 0000 tamizada",
+            "amount": "120 g",
+            "notes": "Integrada con espátula y movimientos envolventes"
+          },
+          {
+            "name": "Esencia pura de vainilla",
+            "amount": "1 cdta",
+            "notes": "Aromatizante"
+          },
+          {
+            "name": "Pizca de sal",
+            "amount": "1 g",
+            "notes": "Para estabilizar el batido"
+          }
+        ]
+      },
+      {
+        "name": "Almíbar Ligero de Humectación",
+        "ingredients": [
+          {
+            "name": "Almíbar de la lata de duraznos",
+            "amount": "150 ml",
+            "notes": "Aporta aroma frutal directo"
+          },
+          {
+            "name": "Agua mineral",
+            "amount": "50 ml",
+            "notes": "Para aligerar dulzor"
+          },
+          {
+            "name": "Cognac o ron añejo (opcional)",
+            "amount": "1 cda",
+            "notes": "Toque tradicional de confitería"
+          }
+        ]
+      },
+      {
+        "name": "Rellenos y Fruta",
+        "ingredients": [
+          {
+            "name": "Dulce de leche repostero uruguayo",
+            "amount": "400 g",
+            "notes": "Denso y de corte limpio"
+          },
+          {
+            "name": "Crema de leche fresca (tenor graso >36%)",
+            "amount": "600 ml",
+            "notes": "Bien fría para montar firme"
+          },
+          {
+            "name": "Azúcar impalpable (glas)",
+            "amount": "90 g",
+            "notes": "Para endulzar la chantilly"
+          },
+          {
+            "name": "Esencia de vainilla",
+            "amount": "1 cdta",
+            "notes": "Para la crema"
+          },
+          {
+            "name": "Duraznos amarillos en almíbar escurridos",
+            "amount": "400 g",
+            "notes": "Cortados en cubos pequeños (reservar 2 mitades para decorar)"
+          }
+        ]
+      },
+      {
+        "name": "Cobertura de Merengue Crocante",
+        "ingredients": [
+          {
+            "name": "Discos o merenguitos secos caseros",
+            "amount": "250 g",
+            "notes": "Merengue seco tradicional al horno bajo, desgranado toscamente con las manos"
+          }
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "title": "1. Elaboración del Bizcochuelo Genovés",
+        "steps": [
+          {
+            "instruction": "Enmantecar y enharinar un molde desmontable de 22 cm de diámetro. En un bol amplio, batir con batidora eléctrica los 4 huevos con el azúcar y la pizca de sal durante 8 a 10 minutos continuos hasta alcanzar el 'punto letra' (la masa triplica su volumen, adquiere un tono marfil claro y al levantar las varillas se puede escribir una letra que no se borra por 5 segundos).",
+            "tip": "La elasticidad del batido es el único leudante; no necesita polvo de hornear.",
+            "time_min": 10,
+            "temperature": "Ambiente"
+          },
+          {
+            "instruction": "Incorporar la esencia de vainilla. Añadir la harina tamizada en tres tandas, mezclando con una espátula de goma mediante movimientos envolventes lentos desde el fondo hacia los bordes, cuidando de no desinflar el aire atrapado.",
+            "tip": "Gira el bol mientras mueves la espátula en círculos envolventes.",
+            "time_min": 4,
+            "temperature": "Ambiente"
+          },
+          {
+            "instruction": "Verter la preparación en el molde y hornear a 170 °C durante 25 a 30 minutos, hasta que al insertar un palillo en el centro salga completamente seco y la superficie esté dorada. Retirar, dejar entibiar 10 minutos sobre rejilla, desmoldar y dejar enfriar por completo. Luego cortar horizontalmente en 3 discos parejos.",
+            "tip": "Es ideal preparar el bizcochuelo el día anterior para que al cortarlo no se desmigue.",
+            "time_min": 30,
+            "temperature": "170 °C"
+          }
+        ]
+      },
+      {
+        "title": "2. Crema Chantilly y Preparación de Rellenos",
+        "steps": [
+          {
+            "instruction": "Colocar el bol y las paletas de la batidora en el congelador durante 15 minutos. Verter la crema de leche bien fría junto con el azúcar impalpable tamizado y la vainilla. Batir a velocidad media-alta hasta obtener una crema chantilly de picos sostenidos y textura densa, deteniendo inmediatamente para evitar que se corte en manteca.",
+            "tip": "Separar un tercio de la chantilly para el relleno y los dos tercios restantes para cubrir el exterior.",
+            "time_min": 5,
+            "temperature": "Frío (4 °C)"
+          },
+          {
+            "instruction": "Picar los duraznos escurridos en cubos de 1 cm y secarlos ligeramente con papel absorbente para que no desprendan exceso de líquido sobre la crema. En un recipiente aparte, mezclar el almíbar de durazno con el agua y el licor.",
+            "tip": "Secar los duraznos evita que la crema pierda consistencia con las horas.",
+            "time_min": 5,
+            "temperature": "Ambiente"
+          }
+        ]
+      },
+      {
+        "title": "3. Montaje y Embebido",
+        "steps": [
+          {
+            "instruction": "Colocar el primer disco de bizcochuelo en el plato de presentación o aro contenedor. Pincelar generosamente con el almíbar. Extender una capa uniforme y abundante de dulce de leche repostero (aprox. 300 g). Sobre el dulce de leche, esparcir una capa de trozos de merengue seco quebrado para aportar crujido interno.",
+            "tip": "Una manga pastelera facilita esparcir el dulce de leche sin arrastrar el bizcochuelo.",
+            "time_min": 6,
+            "temperature": "Ambiente"
+          },
+          {
+            "instruction": "Disponer el segundo disco de bizcochuelo y presionar con suavidad. Pincelar con almíbar. Extender una capa generosa de crema chantilly mezclada con los cubos de durazno escurridos. Cubrir con el tercer disco de bizcochuelo y humedecer la superficie con la última tanda de almíbar.",
+            "tip": "Nivelar bien la parte superior para que el pastel quede perfectamente recto.",
+            "time_min": 6,
+            "temperature": "Ambiente"
+          }
+        ]
+      },
+      {
+        "title": "4. Cobertura Emplumada al Estilo Chajá",
+        "steps": [
+          {
+            "instruction": "Con una espátula de repostería, cubrir toda la superficie y los laterales de la torta con la crema chantilly reservada, alisando con una capa de al menos medio centímetro.",
+            "tip": "La chantilly actúa como adhesivo para fijar el merengue.",
+            "time_min": 8,
+            "temperature": "Ambiente"
+          },
+          {
+            "instruction": "Tomar los merengues secos y quebrarlos con los dedos en trozos medianos y pequeños, combinando polvo y pedazos crujientes. Con las palmas de las manos, adherir los trozos de merengue presionando con delicadeza por todos los laterales y cubriendo por completo la corona superior, logrando el icónico aspecto plumoso del chajá.",
+            "tip": "Llevar a heladera un mínimo de 4 horas (preferentemente de un día para el otro) antes de cortar.",
+            "time_min": 7,
+            "temperature": "Frío (4 °C)"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "El secreto de Paysandú: Los merengues deben estar bien secos y crujientes (horneados a 90-100 °C durante 2 horas) para que mantengan su textura crocante en contacto con la crema durante las primeras 24 horas.",
+      "Variante con frutillas: En temporada de primavera y verano uruguayo, es muy popular intercalar frutillas frescas fileteadas junto a los duraznos.",
+      "Conservación: Guardar siempre refrigerado entre 2 °C y 5 °C. Se conserva impecable hasta por 72 horas."
+    ],
+    "image": "img/postre_chaja_uruguay.jpg",
+    "url": "",
+    "original_title": "Postre Chajá Tradicional de Paysandú",
+    "published": "2026-11-05"
+  },
+  {
+    "id": 472,
+    "title": "Postre Massini Tradicional (Uruguay)",
+    "country": "Uruguay",
+    "category": "Postres",
+    "tags": [
+      "Uruguay",
+      "Montevideo",
+      "Confitería Carrera",
+      "Massini",
+      "Postres",
+      "Chantilly",
+      "Yema Quemada",
+      "Pionono",
+      "Repostería Tradicional",
+      "Clásicos Rioplatenses"
+    ],
+    "prep_time": "40 min",
+    "cook_time": "25 min",
+    "rest_time": "3 h (enfriamiento)",
+    "temperature": "190 °C (pionono)",
+    "servings": "8 a 10 porciones",
+    "calories": "340 kcal por porción",
+    "diet_badges": [
+      "Vegetariano",
+      "Alta Pastelería",
+      "Clásico Rioplatense"
+    ],
+    "story": "El Postre Massini es una de las mayores glorias de la pastelería fina de Montevideo, inmortalizado por la emblemática Confitería Carrera, fundada en 1944. Aunque sus orígenes remotos se vinculan con una creación catalana dedicada al célebre tenor italiano Angelo Masini en el siglo XIX, los maestros pasteleros uruguayos reformularon por completo su concepto hasta convertirlo en una pieza de culto nacional: un sándwich de postre de corte milimétrico formado por dos láminas finísimas y etéreas de pionono dorado, un relleno denso, frío y generoso de crema chantilly de máxima pureza, y una cubierta superior untada con sabayón de yema cocida dulce caramelizada a soplete o con pala de hierro al rojo vivo ('yema quemada'). El secreto de un Massini perfecto reside en la frescura extrema de sus láminas de pionono humectadas sutilmente y en el contraste térmico y gustativo: la crema chantilly fría y etérea contra la capa crujiente y tibia de caramelo que se quiebra al primer contacto con la cuchara.",
+    "ingredient_groups": [
+      {
+        "name": "Pionono Fino y Elástico (2 placas de 30x20 cm)",
+        "ingredients": [
+          {
+            "name": "Huevos frescos",
+            "amount": "3 unidades",
+            "notes": "A temperatura ambiente"
+          },
+          {
+            "name": "Azúcar común",
+            "amount": "30 g",
+            "notes": "10 g por huevo"
+          },
+          {
+            "name": "Miel de abejas",
+            "amount": "1 cdta (10 g)",
+            "notes": "Aporta elasticidad y retención de humedad"
+          },
+          {
+            "name": "Harina de trigo 0000",
+            "amount": "30 g",
+            "notes": "Tamizada dos veces"
+          },
+          {
+            "name": "Pizca de sal",
+            "amount": "1 pizca",
+            "notes": "Realce"
+          }
+        ]
+      },
+      {
+        "name": "Relleno de Chantilly Firme de Confitería",
+        "ingredients": [
+          {
+            "name": "Crema de leche doble (>38% materia grasa)",
+            "amount": "600 ml",
+            "notes": "Muy fría"
+          },
+          {
+            "name": "Azúcar impalpable (glas)",
+            "amount": "80 g",
+            "notes": "Tamizada"
+          },
+          {
+            "name": "Gelatina sin sabor en polvo",
+            "amount": "5 g (1 cdta)",
+            "notes": "Hidratada en 25 ml de agua tibia, asegura el corte neto de confitería"
+          },
+          {
+            "name": "Esencia pura de vainilla",
+            "amount": "1 cdta",
+            "notes": "Aroma clásico"
+          }
+        ]
+      },
+      {
+        "name": "Cubierta de Yema Quemada Caramelizada",
+        "ingredients": [
+          {
+            "name": "Yemas de huevo frescas",
+            "amount": "4 unidades",
+            "notes": "Coladas para retirar la telilla"
+          },
+          {
+            "name": "Azúcar común refinada",
+            "amount": "90 g",
+            "notes": "Para el almíbar y caramelizado"
+          },
+          {
+            "name": "Agua",
+            "amount": "30 ml",
+            "notes": "Para disolver el azúcar"
+          },
+          {
+            "name": "Almidón de maíz (maicena)",
+            "amount": "1 cdta (5 g)",
+            "notes": "Disuelto en una cucharada de agua fría"
+          },
+          {
+            "name": "Azúcar extra para espolvorear y quemar",
+            "amount": "3 cdas",
+            "notes": "Para formar la costra de caramelo"
+          }
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "title": "1. Horneado de las Placas de Pionono",
+        "steps": [
+          {
+            "instruction": "En un bol, batir los huevos con los 30 g de azúcar y la cucharadita de miel durante 8 minutos a máxima velocidad hasta lograr un batido espeso y sostenido. Tamizar la harina con la pizca de sal e incorporar con espátula de goma en movimientos envolventes suaves.",
+            "tip": "La miel garantiza que la masa permanezca flexible y no se quiebre.",
+            "time_min": 10,
+            "temperature": "Ambiente"
+          },
+          {
+            "instruction": "Forrar dos bandejas para horno de 30x20 cm con papel manteca enmantecado. Distribuir la masa en capas finas de apenas 4 mm de espesor y alisar con espátula. Hornear a 190 °C durante solo 6 a 8 minutos, hasta que tomen un dorado tenue y apenas resistente al tacto. Retirar, cubrir con un paño limpio y dejar enfriar.",
+            "tip": "No sobrecocinar para evitar que el pionono se seque.",
+            "time_min": 8,
+            "temperature": "190 °C"
+          }
+        ]
+      },
+      {
+        "title": "2. Elaboración de la Crema de Yema",
+        "steps": [
+          {
+            "instruction": "En una cacerolita, hervir el agua con 90 g de azúcar hasta formar un almíbar ligero (105 °C, unos 3 minutos de hervor). Retirar del fuego y templar 2 minutos. En un bol, batir las 4 yemas con el almidón de maíz diluido. Verter el almíbar tibio en hilo fino sobre las yemas batiendo constantemente.",
+            "tip": "Verter el almíbar en hilo previene que las yemas cuajen de golpe.",
+            "time_min": 5,
+            "temperature": "Fuego medio-bajo"
+          },
+          {
+            "instruction": "Regresar la mezcla a la cacerola a fuego muy bajo, revolviendo continuamente con cuchara de madera o batidor de alambre hasta que espese y adquiera la consistencia de una natilla brillante y densa. Retirar, verter en un bol, cubrir con film al contacto y dejar enfriar por completo.",
+            "tip": "Nunca dejar hervir intensamente para que conserve una textura aterciopelada sin grumos.",
+            "time_min": 5,
+            "temperature": "Fuego bajo"
+          }
+        ]
+      },
+      {
+        "title": "3. Crema Chantilly Estabilizada y Montaje",
+        "steps": [
+          {
+            "instruction": "Hidratar la gelatina en 25 ml de agua y calentarla 10 segundos en microondas hasta que quede transparente y líquida. Batir la crema de leche fría con el azúcar impalpable y la vainilla a medio punto. Añadir la gelatina tibia en hilo mientras se bate a baja velocidad, y luego batir a punto firme.",
+            "tip": "La micro-adición de gelatina permite que el Massini se corte en rectángulos perfectos sin deformarse.",
+            "time_min": 6,
+            "temperature": "Frío (4 °C)"
+          },
+          {
+            "instruction": "En un marco rectangular de pastelería de 30x20 cm, colocar la primera placa de pionono. Extender la crema chantilly de forma uniforme, emparejando la superficie con espátula acodada (debe tener unos 3 a 4 cm de altura). Cubrir con la segunda placa de pionono y presionar suavemente.",
+            "tip": "Llevar a heladera o freezer durante 2 horas para que tome firmeza estructural antes de cortar y caramelizar.",
+            "time_min": 10,
+            "temperature": "Frío (0 a 4 °C)"
+          }
+        ]
+      },
+      {
+        "title": "4. Porcionado y Caramelizado al Fuego",
+        "steps": [
+          {
+            "instruction": "Retirar el marco. Extender una capa delgada y regular de la crema de yema sobre la superficie del pionono superior. Con un cuchillo largo y afilado sumergido en agua caliente y secado, cortar en porciones rectangulares individuales de unos 5x10 cm.",
+            "tip": "Limpiar el cuchillo con un paño húmedo entre cada corte garantiza filos impecables.",
+            "time_min": 6,
+            "temperature": "Ambiente"
+          },
+          {
+            "instruction": "Justo antes de servir, espolvorear generosamente con azúcar común cada porción y aplicar el soplete de cocina o pala de hierro al rojo vivo hasta caramelizar el azúcar en un color ámbar oscuro crujiente.",
+            "tip": "Servir inmediatamente para gozar del contraste entre el caramelo tibio y crujiente y la crema helada.",
+            "time_min": 5,
+            "temperature": "Llama directa"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "El toque Carrera: La confitería Carrera de Montevideo ofrece el Massini tradicional y también una versión con baño de chocolate en los laterales, pero la versión canónica pura es la de yema tostada.",
+      "Consistencia de la yema: Debe ser untuosa, similar a la crema de los tradicionales 'pastéis de nata' o de la tarta San Marcos española de la que desciende.",
+      "Conservación: Mantener tapado en heladera hasta por 48 horas. Si no se consume enseguida, es mejor caramelizar solo las porciones que se van a servir."
+    ],
+    "image": "img/postre_massini_uruguay.jpg",
+    "url": "",
+    "original_title": "Postre Massini Tradicional",
+    "published": "2026-11-05"
+  },
+  {
+    "id": 473,
+    "title": "Postre Martín Fierro con Reducción de Tannat y Nueces Crocantes (Uruguay)",
+    "country": "Uruguay",
+    "category": "Postres",
+    "tags": [
+      "Uruguay",
+      "Martín Fierro",
+      "Postres",
+      "Queso Colonia",
+      "Dulce de Membrillo",
+      "Tannat",
+      "Nueces",
+      "Clásicos Rioplatenses",
+      "Bistró de Autor"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "15 min",
+    "rest_time": "10 min",
+    "temperature": "Ambiente / Fuego bajo",
+    "servings": "4 porciones",
+    "calories": "310 kcal por porción",
+    "diet_badges": [
+      "Vegetariano",
+      "Sin Gluten",
+      "Tradición Rioplatense"
+    ],
+    "story": "El Martín Fierro es una de las instituciones más queridas de la mesa uruguaya, bautizado en honor al inmortal poema gauchesco de José Hernández. Mientras en Argentina el matrimonio entre queso y dulce suele llamarse genéricamente 'postre vigilante' y variar con dulce de batata, en Uruguay la fórmula es innegociable e identitaria: queso semiduro artesanal tipo Colonia (creado a mediados del siglo XIX por inmigrantes suizos y piamonteses en el departamento de Colonia del Sacramento) maridado exclusivamente con dulce de membrillo rubio firme de pulpa compacta. En los modernos bodegones y bistrós de autor de Montevideo y Punta del Este, esta joya se reinterpreta elevando la nobleza de sus ingredientes: lingotes geométricos de queso Colonia atemperado para exaltar su cremosidad y notas mantecosas, dulce de membrillo de textura untuosa, una reducción balsámica brillante de vino Tannat uruguayo con especias que equilibra el dulzor con acidez y taninos amables, y mitades de nueces criollas tostadas que aportan un crujido terroso inolvidable.",
+    "ingredient_groups": [
+      {
+        "name": "Queso y Dulce de Membrillo (Base Tradicional)",
+        "ingredients": [
+          {
+            "name": "Auténtico Queso Colonia uruguayo artesanal",
+            "amount": "300 g",
+            "notes": "Corte de pasta semidura con ojos medianos regulares, a temperatura ambiente (18-20 °C)"
+          },
+          {
+            "name": "Dulce de membrillo rubio firme",
+            "amount": "300 g",
+            "notes": "Elaborado con pulpa pura de membrillo y azúcar, de corte limpio y color rubí"
+          }
+        ]
+      },
+      {
+        "name": "Reducción de Vino Tannat Uruguayo de Autor",
+        "ingredients": [
+          {
+            "name": "Vino Tannat uruguayo (Canelones o Maldonado)",
+            "amount": "200 ml",
+            "notes": "Vino tinto estructurado con notas de frutos negros e higos"
+          },
+          {
+            "name": "Azúcar morena o mascabo",
+            "amount": "40 g",
+            "notes": "Para balancear la acidez"
+          },
+          {
+            "name": "Rama pequeña de canela",
+            "amount": "1 unidad",
+            "notes": "Aromatizante sutil"
+          },
+          {
+            "name": "Cáscara de naranja",
+            "amount": "1 tira fina",
+            "notes": "Sin la parte blanca amarga"
+          }
+        ]
+      },
+      {
+        "name": "Crocante de Frutos Secos y Guarnición",
+        "ingredients": [
+          {
+            "name": "Nueces mariposa criollas o pecán",
+            "amount": "60 g",
+            "notes": "Tostadas ligeramente en sartén seca"
+          },
+          {
+            "name": "Hojas de menta fresca o brotes",
+            "amount": "Para decorar",
+            "notes": "Aporte de frescura visual"
+          },
+          {
+            "name": "Flor de sal marina (opcional)",
+            "amount": "1 pizca",
+            "notes": "Un grano sobre el dulce para intensificar contrastes"
+          }
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "title": "1. Reducción Especiada de Vino Tannat",
+        "steps": [
+          {
+            "instruction": "En una cacerolita esmaltada o de acero inoxidable, combinar el vino Tannat, el azúcar mascabo, la ramita de canela y la tira de piel de naranja. Llevar a ebullición suave a fuego medio-bajo.",
+            "tip": "El Tannat aporta una tanicidad y color borgoña intenso inigualables.",
+            "time_min": 5,
+            "temperature": "Fuego medio"
+          },
+          {
+            "instruction": "Cocinar a fuego lento durante 10 a 12 minutos hasta que el líquido reduzca a una tercera parte de su volumen original, adquiriendo una consistencia de jarabe brillante que napa la cuchara. Retirar la canela y la piel de naranja, y dejar enfriar a temperatura ambiente.",
+            "tip": "Al enfriar tomará más consistencia, por lo que no debe espesarse en exceso en caliente.",
+            "time_min": 12,
+            "temperature": "Fuego bajo"
+          }
+        ]
+      },
+      {
+        "title": "2. Tostado de Nueces y Acondicionamiento del Queso",
+        "steps": [
+          {
+            "instruction": "En una sartén limpia a fuego medio sin grasa, tostar las mitades de nuez durante 3 a 4 minutos agitando la sartén con frecuencia hasta que desprendan sus aceites aromáticos. Retirar inmediatamente a un plato para cortar la cocción y dejar enfriar.",
+            "tip": "El tostado acentúa las notas tostadas y elimina cualquier humedad residual.",
+            "time_min": 4,
+            "temperature": "Fuego medio"
+          },
+          {
+            "instruction": "Retirar el queso Colonia de la heladera al menos 30 minutos antes del emplatado. Cortar la corteza y porcionar el queso en lingotes regulares o prismas rectangulares de 1,5 cm de espesor y unos 7 cm de largo.",
+            "tip": "Servir el queso Colonia frío inhibe sus aromas lácticos y su cremosidad; a 18-20 °C libera toda su plenitud.",
+            "time_min": 5,
+            "temperature": "Ambiente (18-20 °C)"
+          }
+        ]
+      },
+      {
+        "title": "3. Corte y Presentación de Vanguardia",
+        "steps": [
+          {
+            "instruction": "Cortar el dulce de membrillo con un cuchillo fino y ligeramente aceitado en lingotes de dimensiones idénticas a las del queso Colonia para lograr una armonía geométrica absoluta.",
+            "tip": "Untar una gota de aceite neutro en la hoja del cuchillo evita que el dulce se pegue al filo.",
+            "time_min": 4,
+            "temperature": "Ambiente"
+          },
+          {
+            "instruction": "En platos individuales de cerámica artesanal o pizarra, trazar una lágrima o espiral de reducción de Tannat en la base. Disponer intercalados los lingotes de queso Colonia y dulce de membrillo (en forma de dominó o escalonados). Coronar con las mitades de nueces crocantes, una pizca casi imperceptible de flor de sal sobre el membrillo y una hoja tierna de menta.",
+            "tip": "El comensal debe cortar un trozo exacto de queso junto con membrillo y pasarlo por la reducción de vino en cada bocado.",
+            "time_min": 5,
+            "temperature": "Ambiente"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "El porqué del Queso Colonia: Es el queso emblemático uruguayo, de pasta semidura lavada, sabor láctico suave, mantecoso y ligeramente dulce con un dejo a avellana, que hace un contrapunto perfecto con el dulce de membrillo sin invadirlo.",
+      "Versión tradicional campera: En pulperías y hogares uruguayos, se sirve simplemente cortado en rodajas rústicas gruesas apoyadas sobre pan galleta de campaña o galletas criollas.",
+      "Maridaje sugerido: Acompañar con una copa de licor de Tannat o una infusión caliente de café arábica recién molido."
+    ],
+    "image": "img/postre_martin_fierro_uruguay.jpg",
+    "url": "",
+    "original_title": "Postre Martín Fierro Tradicional y Gourmet",
+    "published": "2026-11-05"
+  },
+  {
+    "id": 474,
+    "title": "Capeletis a la Caruso Tradicionales (Montevideo, Uruguay)",
+    "country": "Uruguay",
+    "category": "Pastas",
+    "tags": [
+      "Uruguay",
+      "Montevideo",
+      "Capeletis",
+      "Pastas",
+      "Salsa Caruso",
+      "Champiñones",
+      "Jamón Cocido",
+      "Crema",
+      "Patrimonio Gastronómico"
+    ],
+    "prep_time": "25 min",
+    "cook_time": "20 min",
+    "rest_time": "5 min",
+    "temperature": "Fuego medio",
+    "servings": "4 porciones",
+    "calories": "580 kcal por porción",
+    "diet_badges": [
+      "Plato Tradicional",
+      "Patrimonio Nacional",
+      "Clásico Rioplatense"
+    ],
+    "story": "La Salsa Caruso es la mayor contribución culinaria de la República Oriental del Uruguay a la cocina internacional, creada en 1954 por el chef piamontés Raymundo Monti en el célebre restaurante 'Mario y Alberto', ubicado en la calle Constituyente de Montevideo. Monti concibió esta salsa en homenaje al legendario tenor napolitano Enrico Caruso, quien había deslumbrado al público montevideano en sus históricas presentaciones en el Teatro Solís en 1915 y 1917. Declarada formalmente patrimonio de interés cultural y gastronómico de Uruguay por la Asociación de Hoteles y Restaurantes del Uruguay (AHRU), la salsa fue diseñada expresamente para bañar capeletis frescos rellenos. Su fórmula canónica prescinde de tomate y cebolla; su magia reside en la emulsión aterciopelada de crema de leche fresca con manteca, champiñones salteados, jamón cocido en cubitos, abundante queso rallado uruguayo y el ingrediente secreto indispensable: una cucharadita de extracto concentrado de carne (heredero directo del mítico extracto Liebig fabricado en Fray Bentos, Uruguay), que le otorga su inconfundible tonalidad dorada y una profundidad de sabor umami absolutamente extraordinaria.",
+    "ingredient_groups": [
+      {
+        "name": "Pasta Fresca",
+        "ingredients": [
+          {
+            "name": "Capeletis frescos caseros rellenos de carne o queso y jamón",
+            "amount": "600 g",
+            "notes": "Pasta fresca de calidad"
+          },
+          {
+            "name": "Agua para hervir",
+            "amount": "4 litros",
+            "notes": "Abundante agua"
+          },
+          {
+            "name": "Sal gruesa",
+            "amount": "30 g",
+            "notes": "Para salar el agua de cocción"
+          }
+        ]
+      },
+      {
+        "name": "Auténtica Salsa Caruso de Montevideo",
+        "ingredients": [
+          {
+            "name": "Manteca vacuna de buena calidad",
+            "amount": "40 g",
+            "notes": "Para dorar los hongos"
+          },
+          {
+            "name": "Champiñones frescos de París",
+            "amount": "250 g",
+            "notes": "Limpios, sin piel residual y cortados en láminas regulares de 3 mm"
+          },
+          {
+            "name": "Jamón cocido de primera calidad",
+            "amount": "150 g",
+            "notes": "Cortado en cubitos pequeños o juliana fina"
+          },
+          {
+            "name": "Extracto concentrado de carne (tipo Liebig o Bovril)",
+            "amount": "1 cdta colmada (10 g)",
+            "notes": "El sello distintivo uruguayo; si no se consigue, usar un glace de viande oscuro muy reducido"
+          },
+          {
+            "name": "Crema de leche fresca (tenor graso >36%)",
+            "amount": "400 ml",
+            "notes": "Espesa y a temperatura ambiente"
+          },
+          {
+            "name": "Queso parmesano o reggianito uruguayo estacionado",
+            "amount": "80 g",
+            "notes": "Rallado fino para fundir dentro de la salsa"
+          },
+          {
+            "name": "Nuez moscada recién rallada",
+            "amount": "1/4 cdta",
+            "notes": "Aporte aromático cálido"
+          },
+          {
+            "name": "Sal fina y pimienta negra recién molida",
+            "amount": "A gusto",
+            "notes": "Ajustar con cuidado ya que el extracto de carne y jamón aportan salinidad"
+          }
+        ]
+      },
+      {
+        "name": "Para Emplatar",
+        "ingredients": [
+          {
+            "name": "Queso parmesano rallado extra",
+            "amount": "50 g",
+            "notes": "Para espolvorear en la mesa"
+          },
+          {
+            "name": "Hojas de perejil crespo fresco",
+            "amount": "Para decorar",
+            "notes": "Toque de color"
+          }
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "title": "1. Salteado y Dorado de Champiñones y Jamón",
+        "steps": [
+          {
+            "instruction": "En una sartén grande y profunda o cacerola de fondo grueso, fundir la manteca a fuego medio. Incorporar los champiñones laminados y saltearlos durante 4 a 5 minutos sin remover en exceso, permitiendo que evaporen su agua vegetativa y comiencen a dorarse en los bordes.",
+            "tip": "No salar los champiñones al inicio para que no hiervan en sus propios jugos.",
+            "time_min": 5,
+            "temperature": "Fuego medio"
+          },
+          {
+            "instruction": "Añadir el jamón cocido en cubitos a la sartén junto con los champiñones dorados. Saltear durante 2 minutos más para que el jamón tome temperatura y desprenda sus aromas en la manteca.",
+            "tip": "Un salteado breve evita que el jamón cocido se endurezca o reseque.",
+            "time_min": 2,
+            "temperature": "Fuego medio"
+          }
+        ]
+      },
+      {
+        "title": "2. Creación de la Emulsión Caruso",
+        "steps": [
+          {
+            "instruction": "Disolver la cucharadita de extracto de carne en un par de cucharadas de agua tibia o en dos cucharadas de la propia crema caliente. Verter la mezcla en la sartén sobre los champiñones y el jamón, revolviendo con cuchara de madera para impregnar todos los ingredientes con el glaseado oscuro.",
+            "tip": "Disolver el extracto previamente asegura una distribución homogénea sin grumos concentrados.",
+            "time_min": 2,
+            "temperature": "Fuego bajo"
+          },
+          {
+            "instruction": "Incorporar la totalidad de la crema de leche fresca. Bajar el fuego al mínimo y cocinar a hervor imperceptible durante 5 a 6 minutos, revolviendo suavemente con frecuencia hasta que la crema tome cuerpo y adquiera un apetitoso tono marfil avellanado.",
+            "tip": "Mantener fuego muy suave para no separar la grasa de la crema.",
+            "time_min": 6,
+            "temperature": "Fuego bajo"
+          },
+          {
+            "instruction": "Retirar la sartén momentáneamente del fuego. Incorporar el queso parmesano rallado fino, la nuez moscada y una pizca de pimienta negra molida. Mezclar enérgicamente con batidor o cuchara hasta que el queso se funda completamente en una salsa sedosa y untuosa. Probar y rectificar sal si fuera necesario.",
+            "tip": "El queso debe incorporarse fuera del fuego directo para no crear texturas gomosas.",
+            "time_min": 2,
+            "temperature": "Fuera del fuego"
+          }
+        ]
+      },
+      {
+        "title": "3. Cocción de los Capeletis y Emplatado",
+        "steps": [
+          {
+            "instruction": "Llevar los 4 litros de agua con la sal gruesa a ebullición franca en una olla grande. Echar los capeletis frescos con cuidado. Cocinar durante 3 a 4 minutos (o el tiempo indicado según el grosor de la masa) hasta que suban a la superficie y la pasta esté al dente.",
+            "tip": "Retirar con espumadera para no quebrar las uniones de la pasta rellena.",
+            "time_min": 4,
+            "temperature": "Ebullición viva (100 °C)"
+          },
+          {
+            "instruction": "Escurrir los capeletis e introducirlos inmediatamente dentro de la sartén con la salsa Caruso caliente. Mantecar a fuego mínimo durante 1 minuto realizando movimientos envolventes con la sartén para que la pasta quede enteramente napada por la crema espesa y aromática.",
+            "tip": "Si la salsa estuviera demasiado densa, agregar 2 cucharadas del agua de cocción de la pasta.",
+            "time_min": 1,
+            "temperature": "Fuego mínimo"
+          },
+          {
+            "instruction": "Servir de inmediato en platos hondos precalentados. Coronar con una lluvia extra de queso parmesano rallado, una vuelta de molinillo de pimienta negra y una hojita de perejil crespo.",
+            "tip": "Acompañar con una copa de vino Tannat uruguayo con crianza en roble.",
+            "time_min": 2,
+            "temperature": "Inmediato"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Autenticidad histórica: La receta original registrada de Raymundo Monti no lleva ni cebolla ni ajo ni vino blanco; la simpleza y nobleza del cuarteto manteca-crema-champiñones-extracto de carne es su firma de pureza.",
+      "Relleno de los capeletis: En los restaurantes montevideanos se sirven tanto con relleno de carne vacuna braseada como de ricota, jamón y nueces; ambas combinaciones maridan a la perfección con la riqueza de la salsa.",
+      "Conservación: La salsa Caruso se consume preferentemente al momento, pero puede refrigerarse por 24 horas y recalentarse a baño maría suave con un chorrito de crema fresca."
+    ],
+    "image": "img/capeletis_a_la_caruso_uruguay.jpg",
+    "url": "",
+    "original_title": "Capeletis a la Caruso Tradicionales",
+    "published": "2026-11-05"
+  },
+  {
+    "id": 475,
+    "title": "Milanesa a la Suiza Tradicional de Bodegón con Bechamel y Queso Gratinado (Uruguay)",
+    "country": "Uruguay",
+    "category": "Carnes",
+    "tags": [
+      "Uruguay",
+      "Milanesas",
+      "Carnes",
+      "Bodegón",
+      "Minutas",
+      "Salsa Bechamel",
+      "Papas Fritas",
+      "Queso Gratinado",
+      "Clásicos Rioplatenses"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "20 min",
+    "rest_time": "15 min (macerado)",
+    "temperature": "220 °C (gratinado)",
+    "servings": "4 porciones",
+    "calories": "680 kcal por porción",
+    "diet_badges": [
+      "Minuta Clásica",
+      "Comida Confort",
+      "Plato de Bodegón"
+    ],
+    "story": "La Milanesa a la Suiza es el contrapunto noble de la Napolitana en las cantinas y bodegones tradicionales de Montevideo y el Río de la Plata. Mientras la Napolitana se define por su salsa de tomate y jamón, la versión a la Suiza prescinde del tomate para entregarse a una combinación pura y sedosa: un generoso bife de carne vacuna frita con rebozado crujiente, cubierto por una densa y untuosa salsa bechamel aromatizada con nuez moscada y una abundante corona de queso muzzarella y gruyère/provolone fundido, gratinado a fuego abrasador de horno o salamandra hasta formar una apetitosa costra dorada con motas tostadas y burbujeantes. Servida con una clásica montaña de papas fritas bastón caseras doradas y secas, es uno de los platos más aclamados de la cocina de minutas rioplatense.",
+    "ingredient_groups": [
+      {
+        "name": "Milanesas de Carne Vacuna",
+        "ingredients": [
+          {
+            "name": "Bifes de ternera tierna (nalga, peceto o bife de lomo)",
+            "amount": "4 bifes grandes (aprox. 180 g c/u)",
+            "notes": "Finitos y tiernizados con maza"
+          },
+          {
+            "name": "Huevos frescos",
+            "amount": "3 unidades",
+            "notes": "Batidos con sal y pimienta"
+          },
+          {
+            "name": "Dientes de ajo",
+            "amount": "2 unidades",
+            "notes": "Picados muy finos"
+          },
+          {
+            "name": "Perejil fresco picado",
+            "amount": "3 cdas",
+            "notes": "Aromatizante del batido"
+          },
+          {
+            "name": "Mostaza tradicional",
+            "amount": "1 cda",
+            "notes": "Aporta ternura y sabor a la carne"
+          },
+          {
+            "name": "Pan rallado fino de panadería",
+            "amount": "300 g",
+            "notes": "Para un apanado firme y crujiente"
+          },
+          {
+            "name": "Aceite de girasol para freír",
+            "amount": "Abundante",
+            "notes": "A 180 °C"
+          }
+        ]
+      },
+      {
+        "name": "Salsa Bechamel de Bodegón (Salsa Blanca Cremosa)",
+        "ingredients": [
+          {
+            "name": "Manteca vacuna",
+            "amount": "50 g",
+            "notes": "Para el roux"
+          },
+          {
+            "name": "Harina de trigo 0000",
+            "amount": "50 g",
+            "notes": "Partes iguales con la manteca"
+          },
+          {
+            "name": "Leche entera caliente",
+            "amount": "500 ml",
+            "notes": "Agregada gradualmente sin grumos"
+          },
+          {
+            "name": "Nuez moscada recién rallada",
+            "amount": "1/2 cdta",
+            "notes": "El alma de la bechamel tradicional"
+          },
+          {
+            "name": "Pimienta blanca molida y sal fina",
+            "amount": "A gusto",
+            "notes": "Para sazonar suavemente"
+          }
+        ]
+      },
+      {
+        "name": "Gratinado y Cubierta de Quesos",
+        "ingredients": [
+          {
+            "name": "Queso muzzarella uruguayo rallado grueso",
+            "amount": "250 g",
+            "notes": "Para fundido elástico"
+          },
+          {
+            "name": "Queso gruyère o provolone rallado fino",
+            "amount": "100 g",
+            "notes": "Para gratinado dorado y notas tostadas"
+          },
+          {
+            "name": "Perejil picado seco o fresco",
+            "amount": "1 pizca",
+            "notes": "Para espolvorear sobre el gratinado"
+          }
+        ]
+      },
+      {
+        "name": "Guarnición de Papas Fritas Bastón",
+        "ingredients": [
+          {
+            "name": "Papas monalisa o negras",
+            "amount": "1 kg",
+            "notes": "Peladas y cortadas en bastones regulares"
+          },
+          {
+            "name": "Aceite para freír",
+            "amount": "Cantidad necesaria",
+            "notes": "Fritura en dos tiempos para máxima crocancia"
+          },
+          {
+            "name": "Sal fina",
+            "amount": "A gusto",
+            "notes": "Colocada inmediatamente al retirar del aceite"
+          }
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "title": "1. Macerado y Doble Apanado Crujiente",
+        "steps": [
+          {
+            "instruction": "Aplastar los bifes de carne entre papel film hasta lograr 4 mm de espesor parejo. Sumergirlos en el batido de huevos con ajo picado, perejil, mostaza, sal y pimienta. Dejar macerar 15 minutos en heladera.",
+            "tip": "El macerado tierniza la carne e impregna los sabores.",
+            "time_min": 15,
+            "temperature": "Frío (4 °C)"
+          },
+          {
+            "instruction": "Pasar cada bife por el pan rallado presionando con fuerza. Para que la milanesa resista la humedad de la bechamel sin ablandarse, pasar nuevamente por huevo y dar un segundo apanado firme.",
+            "tip": "El doble apanado crea un escudo crujiente protector.",
+            "time_min": 10,
+            "temperature": "Ambiente"
+          }
+        ]
+      },
+      {
+        "title": "2. Elaboración de la Bechamel y Fritura",
+        "steps": [
+          {
+            "instruction": "Fundir la manteca en una cacerola, incorporar la harina y cocinar el roux 2 minutos. Verter la leche caliente en hilo batiendo enérgicamente. Cocinar a fuego bajo hasta que espese con cuerpo brillante. Sazonar con nuez moscada, sal y pimienta blanca.",
+            "tip": "La salsa debe quedar espesa para que no se escurra de la milanesa.",
+            "time_min": 8,
+            "temperature": "Fuego bajo"
+          },
+          {
+            "instruction": "Freír las milanesas en abundante aceite a 180 °C durante 2 a 3 minutos por lado hasta que estén doradas y crocantes. Retirar sobre papel absorbente.",
+            "tip": "No sobrecocinar para mantener la jugosidad interna.",
+            "time_min": 6,
+            "temperature": "180 °C"
+          }
+        ]
+      },
+      {
+        "title": "3. Montaje, Gratinado a Fuego Vivo y Servicio",
+        "steps": [
+          {
+            "instruction": "Disponer las milanesas en una asadera de horno. Extender una generosa capa de salsa bechamel sobre cada una, cubrir con la muzzarella rallada y coronar con el queso gruyère o provolone.",
+            "tip": "Llevar el queso casi hasta los bordes pero dejando asomar un milímetro de empanado crujiente.",
+            "time_min": 4,
+            "temperature": "Ambiente"
+          },
+          {
+            "instruction": "Gratinar en horno precalentado al máximo (220-240 °C) bajo el grill o salamandra durante 5 a 6 minutos, hasta que el queso esté completamente derretido y con motas doradas tostadas.",
+            "tip": "El golpe de calor debe ser rápido para no secar la carne.",
+            "time_min": 6,
+            "temperature": "220-240 °C (Grill)"
+          },
+          {
+            "instruction": "Servir de inmediato espolvoreada con una pizca de perejil picado, acompañada de una porción abundante de papas fritas bastón crocantes.",
+            "tip": "Servir recién salida del horno para disfrutar del queso burbujeante.",
+            "time_min": 2,
+            "temperature": "Servicio inmediato"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Diferencia clave con la Napolitana: La Napolitana lleva salsa de tomate, jamón y queso. La Suiza prescinde del tomate y se corona con una bechamel untuosa con nuez moscada y mezcla de quesos gratinados.",
+      "Variante Suiza Cordon Bleu europea: En Suiza la milanesa suele ir rellena en su interior (Cordon Bleu) con la proporción clásica de 50 g de queso Gruyère y 40 g de jamón cocido envueltos dentro de la carne.",
+      "Maridaje recomendado: Cerveza rubia bien helada o un vino tinto joven uruguayo."
+    ],
+    "image": "img/milanesa_a_la_suiza_uruguay.jpg",
+    "url": "",
+    "original_title": "Milanesa a la Suiza Tradicional de Bodegón",
+    "published": "2026-11-05"
+  },
+  {
+    "id": 476,
+    "title": "Auténtica Milanesa Suiza Rellena (Cordon Bleu Tradicional con 50 g de Queso y 40 g de Jamón)",
+    "country": "Suiza",
+    "category": "Carnes",
+    "tags": [
+      "Suiza",
+      "Cordon Bleu",
+      "Milanesa Suiza",
+      "Carnes",
+      "Milanesas",
+      "Queso Gruyère",
+      "Jamón Cocido",
+      "Fritura Crujiente",
+      "Clásicos Europeos"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "15 min",
+    "rest_time": "10 min (enfriamiento para sellado)",
+    "temperature": "170 °C (fritura a fuego medio)",
+    "servings": "4 porciones",
+    "calories": "640 kcal por porción",
+    "diet_badges": [
+      "Plato Europeo Clásico",
+      "Comida Confort",
+      "Alta Técnica de Relleno"
+    ],
+    "story": "Nacida en el cantón suizo de Valais (en la ciudad de Brig) en la primera mitad del siglo XX, la auténtica milanesa suiza —popularizada mundialmente bajo la denominación Cordon Bleu— representa una lección magistral de equilibrio cárnico y quesero. A diferencia de la versión uruguaya gratinada por encima con bechamel, la tradición helvética sella el relleno herméticamente en el corazón de la carne. Como destaca la célebre reseña gastronómica de TN, el secreto del éxito radica en una precisión matemática innegociable: exactamente 50 gramos de queso suizo de óptimo fundido (Gruyère o Raclette artesanal) y 40 gramos de jamón cocido seleccionado por cada bife fino. Esta proporción exacta evita que el queso explote o rompa el empanado durante la cocción, logrando una coraza exterior hipercrocante y un interior volcánico, suave y sedoso que fluye elegantemente al corte diagonal.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Carne y Relleno Matemático (Por Porción)",
+        "ingredients": [
+          {
+            "name": "Bifes de ternera tierna (nalga, lomo o peceto) o suprema de pollo",
+            "amount": "4 unidades (aprox. 150 g c/u)",
+            "notes": "Cortes muy finos, estirados y emparejados a maza"
+          },
+          {
+            "name": "Queso suizo fundente (Gruyère, Raclette o Emmental)",
+            "amount": "200 g en total (exactos 50 g por milanesa)",
+            "notes": "Fetas regulares o bastón grueso que funda parejo"
+          },
+          {
+            "name": "Jamón cocido natural de primera calidad",
+            "amount": "160 g en total (exactos 40 g por milanesa)",
+            "notes": "Fetas finas dobladas sobre el queso"
+          }
+        ]
+      },
+      {
+        "name": "Rebozado Crujiente en Tres Pasos",
+        "ingredients": [
+          {
+            "name": "Harina de trigo 0000",
+            "amount": "100 g",
+            "notes": "Primer sellado para atrapar la humedad y adherir el huevo"
+          },
+          {
+            "name": "Huevos camperos frescos",
+            "amount": "2 unidades",
+            "notes": "Batidos enérgicamente con una pizca de sal y pimienta negra"
+          },
+          {
+            "name": "Pan rallado fino de panadería (o mezcla con panko)",
+            "amount": "200 g",
+            "notes": "Para una costra seca, dorada y ultracrocante"
+          },
+          {
+            "name": "Sal fina y pimienta negra molida",
+            "amount": "A gusto",
+            "notes": "Para salpimentar la carne antes del rebozado"
+          }
+        ]
+      },
+      {
+        "name": "Cocción y Acompañamiento",
+        "ingredients": [
+          {
+            "name": "Aceite de girasol o maíz",
+            "amount": "Abundante para fritura semi-profunda",
+            "notes": "A 170 °C para dorar y fundir simultáneamente"
+          },
+          {
+            "name": "Papas doradas crocantes o auténtico Rösti suizo",
+            "amount": "Para acompañar",
+            "notes": "Guarnición clásica"
+          },
+          {
+            "name": "Gajos de limón fresco y perejil picado",
+            "amount": "Para servir",
+            "notes": "Aporte cítrico"
+          }
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "title": "1. Estirado Milimétrico y Armado del Relleno",
+        "steps": [
+          {
+            "instruction": "Colocar cada bife entre dos láminas de papel film y golpear suavemente con maza de cocina lisa desde el centro hacia afuera hasta alcanzar un grosor ultrafino y homogéneo de unos 3 a 4 mm. Salpimentar ligeramente ambos lados.",
+            "tip": "El grosor parejo es indispensable para que la carne se cocine al mismo tiempo que el queso se derrite.",
+            "time_min": 8,
+            "temperature": "Ambiente"
+          },
+          {
+            "instruction": "Pesar los 40 gramos de jamón cocido y envolver con él los 50 gramos de queso suizo, formando un paquete compacto. Disponer el paquete en una mitad del bife, dejando al menos 1,5 cm de margen libre en todos los bordes.",
+            "tip": "Envolver el queso dentro del jamón actúa como una barrera térmica que evita fugas prematuras.",
+            "time_min": 5,
+            "temperature": "Ambiente"
+          },
+          {
+            "instruction": "Doblar la otra mitad de la carne sobre el relleno como si fuera una empanadilla (o colocar otro bife fino encima). Presionar los bordes con firmeza con la yema de los dedos o el canto de la mano para sellar por completo el bolsillo.",
+            "tip": "Si notas algún borde rebelde, puedes fijarlo con un palillo de madera que retirarás antes de servir.",
+            "time_min": 4,
+            "temperature": "Ambiente"
+          }
+        ]
+      },
+      {
+        "title": "2. Empanado en Tres Tiempos",
+        "steps": [
+          {
+            "instruction": "Pasar la pieza rellena primero por la harina de trigo, sacudiendo el exceso para dejar solo una película fina. La harina sella la superficie cárnica y asegura una adherencia perfecta del ligue.",
+            "tip": "Asegúrate de que la harina cubra bien las uniones laterales.",
+            "time_min": 3,
+            "temperature": "Ambiente"
+          },
+          {
+            "instruction": "Sumergir la pieza en el huevo batido salpimentado asegurando que quede totalmente impregnada. Pasar de inmediato por el pan rallado, presionando suavemente con la palma de la mano para compactar la cobertura.",
+            "tip": "Para un blindaje extra contra fugas, puedes realizar un segundo paso rápido por huevo y pan rallado en los bordes.",
+            "time_min": 4,
+            "temperature": "Ambiente"
+          },
+          {
+            "instruction": "Llevar las milanesas armadas a la heladera durante 10 a 15 minutos antes de cocinar. Este reposo en frío asienta el pan rallado y compacta el queso.",
+            "tip": "El frío previo garantiza que el rebozado no se desprenda al entrar al aceite.",
+            "time_min": 15,
+            "temperature": "Frío (4 °C)"
+          }
+        ]
+      },
+      {
+        "title": "3. Fritura Perfecta a Fuego Medio y Emplatado",
+        "steps": [
+          {
+            "instruction": "Calentar abundante aceite limpio en una sartén profunda a 165-170 °C (fuego medio-moderado). Introducir las milanesas suavemente.",
+            "tip": "Si el aceite está demasiado caliente, el pan se quemará antes de que los 50 g de queso se fundan; si está frío, absorberá grasa.",
+            "time_min": 2,
+            "temperature": "170 °C"
+          },
+          {
+            "instruction": "Cocinar durante 4 a 5 minutos por lado, bañando ocasionalmente la superficie con el aceite caliente usando una cuchara, hasta lograr un color dorado ámbar uniforme y una textura crujiente al tacto.",
+            "tip": "Al levantar con pinzas, la pieza debe sentirse ligera y ligeramente hinchada por el vapor del queso fundido.",
+            "time_min": 9,
+            "temperature": "170 °C"
+          },
+          {
+            "instruction": "Retirar y reposar 2 minutos sobre papel absorbente. Cortar la milanesa en diagonal a 45 grados para revelar la cascada de queso fundido y jamón, sirviendo inmediatamente con papas doradas, rösti y un gajo de limón.",
+            "tip": "El reposo de 2 minutos permite que los jugos internos se estabilicen antes del corte sin que se desparrame el queso.",
+            "time_min": 2,
+            "temperature": "Servicio inmediato"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "La regla matemática de oro: Menos de 50 g de queso deja la milanesa seca; más de 50 g desborda y rompe el rebozado en la sartén. Con 40 g de jamón se logra el balance salino y graso exacto.",
+      "Diferencia con la versión de bodegón uruguaya: En Uruguay la Milanesa a la Suiza se gratina por encima con salsa bechamel cremosa y quesos al horno. En Suiza, el Cordon Bleu es una milanesa herméticamente rellena en su interior.",
+      "Maridaje sugerido: Cerveza artesanal rubia fresca o un vino blanco seco tipo Fendant suizo o Sauvignon Blanc."
+    ],
+    "image": "img/milanesa_a_la_suiza_rellena.jpg",
+    "url": "https://tn.com.ar/cocina/recetas/2026/07/09/suiza-le-da-una-leccion-a-la-argentina-la-mejor-milanesa-lleva-50-g-de-queso-y-40-g-de-jamon/",
+    "original_title": "Auténtica Milanesa Suiza Rellena (Cordon Bleu)",
+    "published": "2026-11-05"
   }
 ]
