@@ -2892,7 +2892,7 @@
               <div class="step-item ${isDone ? 'done' : ''}" id="step-item-${sIdx}" onclick="toggleStepCheck(${sIdx})">
                 <span id="paso-${sIdx + 1}"></span>
                 <div class="step-num">${sIdx + 1}</div>
-                <div>${st}</div>
+                <div>${(typeof st === 'object' && st !== null) ? ((st.instruction || st.text || '') + (st.tip ? ' (Consejo: ' + st.tip + ')' : '')) : st}</div>
               </div>
             `;
           }).join('')}
@@ -3110,7 +3110,12 @@
       injectRecipeSchema(r);
 
       // Notes
-      const notesText = r.notes || r.chef_tips || '';
+      let notesText = r.notes || r.chef_tips || '';
+      if (Array.isArray(notesText)) {
+        notesText = notesText.join('\n\n');
+      } else {
+        notesText = String(notesText || '');
+      }
       const notesBox = document.getElementById('modalNotesBox');
       if (notesText.trim()) {
         notesBox.style.display = 'block';
