@@ -15320,7 +15320,7 @@
       }
     ],
     "notes": "Si se desea rellenar al estilo de San Pedro (con crema pastelera o dulce de leche repostero), abrir al medio con cuchillo de sierra una vez fría o colocar un cordón de relleno antes de enrollar la masa.",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr_qHK6IYa7r5vTfFL8e7MXjiHZXOB61MI2_SU0lehK_0PQL_-zm5OPTyte-NTxybXgKElbBe525IKyTGN2tPfSTqO3GzApN58mgSCrjbeqAlZ6u_Hnx-gIjzf4yIqRlHpp4P73N7MXEW1/s1600/Ensaimada+(Espa%C3%B1a).jpg",
+    "image": "img/ensaimada_mallorquina.jpg",
     "url": "https://recarg.blogspot.com/2010/02/ensaimada-espana.html",
     "original_title": "Ensaimada (España)",
     "published": "2010-02-11T20:12:00.001-03:00"
@@ -37729,6 +37729,102 @@
     "image": "img/niku_dango_albondigas_cerdo.jpg",
     "url": "https://recetas.mamicraft.com/niku-dango-albondigas-japonesas-cerdo",
     "original_title": "Niku Dango - Albóndigas Japonesas de Cerdo (Japón)",
+    "published": "2026-11-06"
+  },
+  {
+    "id": 492,
+    "title": "Cerdo Salteado con Lechuga al Wok (China)",
+    "country": "China",
+    "category": "Carnes",
+    "tags": [
+      "China",
+      "Cerdo Salteado con Lechuga",
+      "Saang Coi Caau Juk Pin",
+      "Wok Hei",
+      "Velveting",
+      "Cocina Cantonesa",
+      "Salteado Rápido",
+      "Cenas Rápidas",
+      "Lechuga Iceberg",
+      "Comida China Casera"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "5 min",
+    "rest_time": "15 min (marinado y velveting)",
+    "temperature": "Fuego abrasador extremo (Wok Hei)",
+    "servings": "2 a 3 porciones",
+    "calories": "310 kcal por porción",
+    "diet_badges": [
+      "Técnica Cantonesa de Velveting",
+      "Salteado Ultrarrápido en Wok",
+      "Bajo en Carbohidratos (Low Carb)"
+    ],
+    "story": "Plato clásico de la gastronomía casera cantonesa (生菜炒肉片 / Saang Coi Caau Juk Pin), basado en la técnica de salteado ultrarrápido a temperatura extrema (wok hei). Está diseñado para caramelizar las proteínas mediante velveting —la técnica tradicional de macerar la carne con almidón, vino de arroz y clara o aceite para crear una película protectora sedosa— y mantener intacta la estructura celular turgente y crujiente de la lechuga sin que desprenda agua libre ni ablande el salteado.",
+    "ingredient_groups": [
+      {
+        "name": "Carne de Cerdo y Marinado Velveting",
+        "items": [
+          "350 g de Lomo, solomillo o bondiola magra de cerdo (cortada en láminas ultrafinas al bies de 2 mm)",
+          "1 cucharada sopera de Salsa de soja clara (Light Soy Sauce)",
+          "1 cucharada sopera de Vino de arroz Shaoxing (o jerez seco)",
+          "1 cucharada de Fécula de maíz / maicena (clave absoluta del velveting para retener jugos)",
+          "1 cucharadita de Aceite de sésamo tostado",
+          "1/4 cucharadita de Azúcar blanco y una pizca de pimienta blanca molida",
+          "1 cucharada de Aceite vegetal neutro (para sellar la marinada antes de freír)"
+        ]
+      },
+      {
+        "name": "Vegetales y Aromáticos del Wok",
+        "items": [
+          "1 planta mediana de Lechuga arrepollada / Iceberg o lechuga romana tierna (lavada, rigurosamente seca y troceada a mano en bocados grandes)",
+          "3 dientes de Ajo laminados finos",
+          "1 trozo de Jengibre fresco de 2 cm cortado en juliana fina",
+          "2 tallos de Cebolla de verdeo (cortados en tramos de 3 cm al bies)",
+          "2 cucharadas soperas de Aceite de maní o maíz de alto punto de humo"
+        ]
+      },
+      {
+        "name": "Salsa Ligera de Wok y Remate",
+        "items": [
+          "1 cucharada sopera de Salsa de ostras cantonesa (o salsa de soja espesa)",
+          "1/2 cucharadita de Aceite de sésamo para perfumar al final",
+          "2 cucharadas de Caldo claro de pollo o agua con 1/2 cucharadita de maicena disuelta"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Corte Milimétrico y Técnica de Velveting",
+        "title": "1. Corte Milimétrico y Técnica de Velveting",
+        "steps": [
+          "Cortar la carne de cerdo en láminas ultrafinas de 2 mm transversalmente a la veta muscular (en contra de la fibra).",
+          "En un bol colocar la carne con la salsa de soja, el vino Shaoxing, el azúcar, la pimienta y la fécula de maíz. Masajear enérgicamente con la mano durante 2 minutos hasta que la carne absorba todo el líquido y se vuelva pegajosa.",
+          "Añadir la cucharada de aceite vegetal neutro y mezclar suavemente. El aceite recubre cada lámina, impidiendo que se peguen entre sí al tocar el wok caliente. Dejar reposar 15 minutos."
+        ]
+      },
+      {
+        "name": "2. Sellado Ultrarrápido de la Carne",
+        "title": "2. Sellado Ultrarrápido de la Carne",
+        "steps": [
+          "Calentar el wok a fuego máximo hasta que comience a desprender un hilo fino de humo blanco. Verter 1 cucharada de aceite girando el wok para cubrir las paredes.",
+          "Añadir las láminas de cerdo esparciéndolas en una sola capa sobre el metal ardiente. Dejar dorar sin mover durante 30 segundos para que la maicena selle una costra dorada y suave.",
+          "Saltear enérgicamente durante 60 segundos más hasta que la carne cambie de color (85% cocida pero hiperjugosa). Retirar la carne a un plato y reservar los jugos."
+        ]
+      },
+      {
+        "name": "3. Salteado Explosivo de la Lechuga e Integración",
+        "title": "3. Salteado Explosivo de la Lechuga e Integración",
+        "steps": [
+          "En el mismo wok humeante a fuego vivo agregar la otra cucharada de aceite. Echar el ajo laminado, el jengibre y el verdeo; saltear 15 segundos hasta que liberen su aroma sin quemarse.",
+          "Volcar de golpe los trozos de lechuga completamente secos. Saltear a fuego abrasador agitando el wok durante exactamente 30 a 40 segundos: las hojas deben absorber el aroma ahumado del wok hei y quedar brillantes y translúcidas pero enteras y crujientes, sin soltar líquido.",
+          "Reincorporar la carne de cerdo reservada junto con la salsa de ostras y el caldo con maicena disuelta. Saltear todo junto a máxima potencia durante 30 segundos para emulsionar los jugos. Apagar el fuego, rociar con unas gotas de aceite de sésamo y servir de inmediato."
+        ]
+      }
+    ],
+    "notes": "Regla de oro: la lechuga debe estar completamente seca (ideal pasarla por centrifugadora de vegetales). Si entra con agua, enfriará el wok y se convertirá en un guiso acuoso en vez de un salteado crujiente con wok hei.",
+    "image": "img/cerdo_salteado_lechuga_wok.jpg",
+    "url": "https://recetas.mamicraft.com/cerdo-salteado-lechuga-wok",
+    "original_title": "Cerdo Salteado con Lechuga al Wok (China)",
     "published": "2026-11-06"
   }
 ]
