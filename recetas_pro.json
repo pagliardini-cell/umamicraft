@@ -8302,7 +8302,7 @@
   },
   {
     "id": 127,
-    "title": "Kibbeh Crudo (Kibbeh Nayyeh) Tradicional (Líbano / Siria)",
+    "title": "Keppe Crudo - Kibbeh Nayyeh (Líbano / Siria)",
     "country": "Líbano / Siria",
     "category": "Carnes",
     "tags": [
@@ -8311,7 +8311,17 @@
       "Carne",
       "Trigo",
       "Kibbeh",
-      "Keppe"
+      "Keppe",
+      "Keppe Crudo",
+      "Kibbeh Nayyeh",
+      "kibbeh nayeh",
+      "Queppe Crudo",
+      "Trigo Burgol",
+      "Hierbabuena",
+      "Aceite de Oliva Extra Virgen",
+      "Comida Árabe",
+      "Cocina Libanesa",
+      "Mezze"
     ],
     "prep_time": "25 min",
     "cook_time": "0 min",
@@ -8359,9 +8369,9 @@
       }
     ],
     "notes": "Por seguridad bromatológica, comprar el lomo entero en una carnicería de confianza, limpiar toda membrana en casa, mantenerlo refrigerado a menos de 4 °C y picarlo o procesarlo minutos antes de preparar y servir el plato.",
-    "image": "http://farm3.static.flickr.com/2650/3956053927_1149e66781_t.jpg",
+    "image": "img/keppe_crudo_kibbeh_nayyeh.jpg",
     "url": "https://recarg.blogspot.com/2010/06/kibbeh-crudo-arabe.html",
-    "original_title": "Kibbeh Crudo (Kibbeh Nayyeh) Tradicional (Líbano / Siria)",
+    "original_title": "Keppe Crudo - Kibbeh Nayyeh (Líbano / Siria)",
     "published": "2010-06-04T05:08:00.003-03:00"
   },
   {
@@ -22566,8 +22576,8 @@
   },
   {
     "id": 319,
-    "title": "Locro Criollo Tradicional — Guisado Patrio de Maíz y Carnes (Argentina)",
-    "original_title": "Locro Criollo Argentino con Salsa Quiquirimichi",
+    "title": "Locro Criollo (Argentina)",
+    "original_title": "Locro Criollo (Argentina)",
     "country": "Argentina",
     "category": "Guisos & Platos de Olla",
     "tags": [
@@ -22677,8 +22687,8 @@
   },
   {
     "id": 320,
-    "title": "Pastel de Papas Clásico — Carne a Cuchillo y Puré Gratinado (Argentina)",
-    "original_title": "Pastel de Papas Tradicional Porteño",
+    "title": "Pastel de Papas (Argentina)",
+    "original_title": "Pastel de Papas (Argentina)",
     "country": "Argentina",
     "category": "Carnes & Tartas",
     "tags": [
@@ -22772,8 +22782,8 @@
   },
   {
     "id": 321,
-    "title": "Matambre a la Pizza a la Parrilla — Tierno con Fileto y Muzzarella (Argentina)",
-    "original_title": "Matambre a la Pizza Parrillero Tradicional",
+    "title": "Matambre a la Pizza a la Parrilla (Argentina)",
+    "original_title": "Matambre a la Pizza a la Parrilla (Argentina)",
     "country": "Argentina",
     "category": "Carnes & Parrilla",
     "tags": [
@@ -22863,8 +22873,8 @@
   },
   {
     "id": 322,
-    "title": "Provoleta a la Parrilla — Costra Crocante y Corazón Fundente (Argentina)",
-    "original_title": "Provoleta Argentina a las Brasas al Estilo Bodegón",
+    "title": "Provoleta a la Parrilla (Argentina)",
+    "original_title": "Provoleta a la Parrilla (Argentina)",
     "country": "Argentina",
     "category": "Entradas & Parrilla",
     "tags": [
@@ -22947,8 +22957,8 @@
   },
   {
     "id": 323,
-    "title": "Vitel Toné Tradicional — Peceto Feteado con Salsa de Atún y Alcaparras (Argentina)",
-    "original_title": "Vitel Toné Porteño Clásico de las Fiestas",
+    "title": "Vitel Toné (Argentina)",
+    "original_title": "Vitel Toné (Argentina)",
     "country": "Argentina",
     "category": "Carnes Frías & Entradas",
     "tags": [
@@ -23052,8 +23062,8 @@
   },
   {
     "id": 324,
-    "title": "Carbonada Criolla en Zapallo — Guisado Tradicional de Carne y Frutas (Argentina)",
-    "original_title": "Carbonada Criolla Argentina en Zapallo Cabutiá",
+    "title": "Carbonada Criolla en Zapallo (Argentina)",
+    "original_title": "Carbonada Criolla en Zapallo (Argentina)",
     "country": "Argentina",
     "category": "Guisos & Platos de Olla",
     "tags": [
@@ -23149,8 +23159,8 @@
   },
   {
     "id": 325,
-    "title": "Humita a la Olla Tradicional — Choclos Rallados, Zapallo y Cuartirolo Fundente (Argentina)",
-    "original_title": "Humita Norteña a la Olla con Queso Cuartirolo",
+    "title": "Humita a la Olla (Argentina)",
+    "original_title": "Humita a la Olla (Argentina)",
     "country": "Argentina",
     "category": "Guisos & Platos de Olla",
     "tags": [
@@ -23238,8 +23248,8 @@
   },
   {
     "id": 326,
-    "title": "Choripán de Costanera — Con Chimichurri Parrillero y Salsa Criolla (Argentina)",
-    "original_title": "Choripán Clásico Argentino con Chimi y Criolla",
+    "title": "Choripán de Costanera (Argentina)",
+    "original_title": "Choripán de Costanera (Argentina)",
     "country": "Argentina",
     "category": "Sándwiches & Parrilla",
     "tags": [
@@ -23334,8 +23344,8 @@
   },
   {
     "id": 327,
-    "title": "Alfajores de Maicena Tradicionales — Miga que se Deshace y Dulce de Leche (Argentina)",
-    "original_title": "Alfajores Clásicos de Maicena con Dulce de Leche y Coco",
+    "title": "Alfajores de Maicena (Argentina)",
+    "original_title": "Alfajores de Maicena (Argentina)",
     "country": "Argentina",
     "category": "Postres & Panadería Dulce",
     "tags": [
@@ -23425,8 +23435,8 @@
   },
   {
     "id": 328,
-    "title": "Pastafrola Clásica de Membrillo — Masa Frolla Mantecosa y Enrejado Tradicional (Argentina)",
-    "original_title": "Pastafrola Artesanal Argentina de Dulce de Membrillo",
+    "title": "Pastafrola de Membrillo (Argentina)",
+    "original_title": "Pastafrola de Membrillo (Argentina)",
     "country": "Argentina",
     "category": "Postres & Panadería Dulce",
     "tags": [
@@ -23516,8 +23526,8 @@
   },
   {
     "id": 329,
-    "title": "Flan Mixto Porteño — Casero con Agujeritos, Dulce de Leche y Crema (Argentina)",
-    "original_title": "Flan Mixto al Estilo Bodegón de Buenos Aires",
+    "title": "Flan Mixto Porteño (Argentina)",
+    "original_title": "Flan Mixto Porteño (Argentina)",
     "country": "Argentina",
     "category": "Postres & Dulces Tradicionales",
     "tags": [
@@ -23617,8 +23627,8 @@
   },
   {
     "id": 330,
-    "title": "Tacos de Birria de Res con Consomé — Braseada en Chiles con Queso Fundido (México)",
-    "original_title": "Quesabirrias de Res Tradicionales con Consomé de Birria",
+    "title": "Tacos de Birria de Res con Consomé (México)",
+    "original_title": "Tacos de Birria de Res con Consomé (México)",
     "country": "México",
     "category": "Carnes & Street Food",
     "tags": [
@@ -23721,8 +23731,8 @@
   },
   {
     "id": 331,
-    "title": "Pulpo a la Gallega — Polbo á Feira Tradicional con Cachelos y Pimentón (España)",
-    "original_title": "Polbo á Feira Tradicional Galego",
+    "title": "Pulpo a la Gallega (España)",
+    "original_title": "Pulpo a la Gallega (España)",
     "country": "España",
     "category": "Pescados & Mariscos",
     "tags": [
@@ -23810,8 +23820,8 @@
   },
   {
     "id": 332,
-    "title": "Paella Valenciana Tradicional — Con Pollo, Conejo, Garrofó y Socarrat (España)",
-    "original_title": "Paella Valenciana Auténtica Tradicional",
+    "title": "Paella Valenciana (España)",
+    "original_title": "Paella Valenciana (España)",
     "country": "España",
     "category": "Arroces & Mariscos",
     "tags": [
@@ -23903,8 +23913,8 @@
   },
   {
     "id": 333,
-    "title": "Goulash Húngaro Tradicional — Estofado de Ternera a la Páprika con Spätzle (Hungría)",
-    "original_title": "Gulyás / Pörkölt Tradicional de Ternera con Nokedli Spätzle",
+    "title": "Goulash Húngaro (Hungría)",
+    "original_title": "Goulash Húngaro (Hungría)",
     "country": "Hungría",
     "category": "Guisos & Platos de Olla",
     "tags": [
@@ -23998,8 +24008,8 @@
   },
   {
     "id": 334,
-    "title": "Ceviche Peruano Clásico — Pesca Fresca, Leche de Tigre, Camote y Cancha (Perú)",
-    "original_title": "Ceviche Tradicional Peruano de Pescado del Día",
+    "title": "Ceviche Peruano (Perú)",
+    "original_title": "Ceviche Peruano (Perú)",
     "country": "Perú",
     "category": "Pescados & Mariscos",
     "tags": [
@@ -24026,7 +24036,7 @@
       "Alto en Proteínas",
       "Patrimonio de la Humanidad UNESCO"
     ],
-    "image": "img/ceviche_peruano_clasico.jpg",
+    "image": "img/ceviche_peruano_clasico.jpg?v=2",
     "url": "r/334-ceviche-peruano-clasico.html",
     "published": "2026-10-29T03:15:00-03:00",
     "story": "Declarado Patrimonio Cultural Inmaterial de la Humanidad por la UNESCO, el ceviche peruano es la obra cumbre de la cocina marina de la costa del Pacífico. La técnica moderna peruana rompió con las antiguas maceraciones largas de horas: hoy el pescado blanco fresquísimo se cura al instante en apenas dos minutos con jugo fresco de lima recién exprimido a mano suavemente (para no amargar con los aceites de la cáscara), sal marina, ají limo aromático y culantro. La emulsión resultante entre los jugos del pescado y el cítrico forma la mítica 'leche de tigre', servida sobre una cama de cebolla morada crujiente en pluma, choclo tierno desgranado, maíz cancha tostado crujiente y una rodaja de camote glaseado que equilibra la acidez.",
@@ -24087,8 +24097,8 @@
   },
   {
     "id": 335,
-    "title": "Ají de Gallina Tradicional — Pechuga Desmenuzada en Crema de Ají Amarillo y Nueces (Perú)",
-    "original_title": "Ají de Gallina Criollo Limeño Tradicional",
+    "title": "Ají de Gallina (Perú)",
+    "original_title": "Ají de Gallina (Perú)",
     "country": "Perú",
     "category": "Pollo & Aves",
     "tags": [
@@ -24187,8 +24197,8 @@
   },
   {
     "id": 336,
-    "title": "Carne Gobernada de Oviedo — Guisado Tradicional al Vino Blanco y Cebolla Confitada (España)",
-    "original_title": "Carne Gobernada de Oviedo — Guisado Tradicional al Vino Blanco y Cebolla Confitada (España)",
+    "title": "Carne Gobernada de Oviedo (España)",
+    "original_title": "Carne Gobernada de Oviedo (España)",
     "country": "España",
     "category": "Carnes & Guisos",
     "tags": [
@@ -24270,8 +24280,8 @@
   },
   {
     "id": 337,
-    "title": "Solomillo al Queso Cabrales — Ternera Asturiana con Salsa de Queso Azul y Sidra (España)",
-    "original_title": "Solomillo al Queso Cabrales — Ternera Asturiana con Salsa de Queso Azul y Sidra (España)",
+    "title": "Solomillo al Queso Cabrales (España)",
+    "original_title": "Solomillo al Queso Cabrales (España)",
     "country": "España",
     "category": "Carnes & Parrilla",
     "tags": [
@@ -24356,8 +24366,8 @@
   },
   {
     "id": 338,
-    "title": "Fabada Asturiana Tradicional — Con Fabes de la Granja IGP y Compango Ahumado (España)",
-    "original_title": "Fabada Asturiana Tradicional — Con Fabes de la Granja IGP y Compango Ahumado (España)",
+    "title": "Fabada Asturiana (España)",
+    "original_title": "Fabada Asturiana (España)",
     "country": "España",
     "category": "Guisos & Platos de Olla",
     "tags": [
@@ -24449,8 +24459,8 @@
   },
   {
     "id": 339,
-    "title": "Tortos de Maíz Asturianos — Con Picadillo de Matanza y Huevos Fritos (España)",
-    "original_title": "Tortos de Maíz Asturianos — Con Picadillo de Matanza y Huevos Fritos (España)",
+    "title": "Tortos de Maíz Asturianos (España)",
+    "original_title": "Tortos de Maíz Asturianos (España)",
     "country": "España",
     "category": "Entradas & Tapas",
     "tags": [
@@ -24533,8 +24543,8 @@
   },
   {
     "id": 340,
-    "title": "Arroz con Leche a la Asturiana — Ultra Cremoso con Azúcar Requemado a Fuego (España)",
-    "original_title": "Arroz con Leche a la Asturiana — Ultra Cremoso con Azúcar Requemado a Fuego (España)",
+    "title": "Arroz con Leche a la Asturiana (España)",
+    "original_title": "Arroz con Leche a la Asturiana (España)",
     "country": "España",
     "category": "Postres & Dulces Tradicionales",
     "tags": [
@@ -24621,8 +24631,8 @@
   },
   {
     "id": 341,
-    "title": "Frixuelos Tradicionales Asturianos — Crepes Finos y Suaves con Aroma a Limón y Anís (España)",
-    "original_title": "Frixuelos Tradicionales Asturianos — Crepes Finos y Suaves con Aroma a Limón y Anís (España)",
+    "title": "Frixuelos Asturianos (España)",
+    "original_title": "Frixuelos Asturianos (España)",
     "country": "España",
     "category": "Postres & Panadería Dulce",
     "tags": [
@@ -24708,8 +24718,8 @@
   },
   {
     "id": 342,
-    "title": "Casadielles Asturianas — Empanadillas Crujientes de Nuez, Miel y Anís (España)",
-    "original_title": "Casadielles Asturianas — Empanadillas Crujientes de Nuez, Miel y Anís (España)",
+    "title": "Casadielles Asturianas (España)",
+    "original_title": "Casadielles Asturianas (España)",
     "country": "España",
     "category": "Postres & Panadería Dulce",
     "tags": [
@@ -24808,8 +24818,8 @@
   },
   {
     "id": 343,
-    "title": "Guasacaca Tradicional Venezolana — Salsa Criolla de Aguacate, Pimentón Verde y Vinagre (Venezuela)",
-    "original_title": "Guasacaca Venezolana",
+    "title": "Guasacaca Venezolana (Venezuela)",
+    "original_title": "Guasacaca Venezolana (Venezuela)",
     "country": "Venezuela",
     "category": "Salsas y Aderezos",
     "tags": [
@@ -25012,7 +25022,7 @@
   {
     "id": 345,
     "title": "Hakodate Shio Ramen (Japón)",
-    "original_title": "函館塩ラーメン (Hakodate Shio Ramen)",
+    "original_title": "Hakodate Shio Ramen (Japón)",
     "country": "Japón",
     "category": "Sopas y Potajes",
     "tags": [
@@ -25204,7 +25214,7 @@
   {
     "id": 347,
     "title": "Tonkotsu Ramen (Japón)",
-    "original_title": "Hakata Tonkotsu Ramen (豚骨ラーメン)",
+    "original_title": "Tonkotsu Ramen (Japón)",
     "country": "Japón",
     "category": "Sopas y Potajes",
     "tags": [
@@ -32695,7 +32705,7 @@
   },
   {
     "id": 433,
-    "title": "Pirok Entrerriano - Empanadas Rusas Alemanas de Carne y Repollo (Argentina)",
+    "title": "Pirok Entrerriano (Argentina)",
     "category": "Plato Principal",
     "country": "Argentina",
     "prep_time": "50 min",
@@ -32762,7 +32772,7 @@
       }
     ],
     "notes": "El repollo debe quedar bien pochado y tierno en manteca para que no largue agua durante el horneado. El aroma de la masa leudada recién horneada es inconfundible.",
-    "original_title": "Pirok Entrerriano - Empanadas Rusas Alemanas de Carne y Repollo (Argentina)"
+    "original_title": "Pirok Entrerriano (Argentina)"
   },
   {
     "id": 434,
@@ -34172,7 +34182,7 @@
   },
   {
     "id": 453,
-    "title": "Milanesa Napolitana al Fior di Latte con Emulsión de Tomates Secos y Papas Soufflé - Estilo Palacio de la Papa Frita (Argentina)",
+    "title": "Milanesa Napolitana - Estilo Palacio de la Papa Frita (Argentina)",
     "category": "Carnes / Bodegón Gourmet",
     "country": "Argentina",
     "prep_time": "35 min",
@@ -34256,7 +34266,7 @@
       }
     ],
     "notes": "El secreto absoluto de las papas soufflé del Palacio de la Papa Frita: además del corte parejo a 3 mm con mandolina, el punto crítico es dejar enfriar y otear las papas tras el primer baño. Al enfriarse, el almidón de la superficie se cristaliza (retrogradación) y deshidrata, creando una cápsula impermeable que atrapa el vapor al entrar al segundo aceite a 185 °C, obligando a la papa a inflarse como un globo hueco sin desinflarse.",
-    "original_title": "Milanesa Napolitana al Fior di Latte con Emulsión de Tomates Secos y Papas Soufflé - Estilo Palacio de la Papa Frita (Argentina)"
+    "original_title": "Milanesa Napolitana - Estilo Palacio de la Papa Frita (Argentina)"
   },
   {
     "id": 454,
