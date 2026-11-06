@@ -633,7 +633,8 @@
       "Huevos",
       "Umami",
       "Autor",
-      "Fusion"
+      "Fusion",
+      "Receta de Autor"
     ],
     "prep_time": "10 min",
     "cook_time": "0 min",
@@ -954,7 +955,8 @@
       "Miel",
       "Soja",
       "China",
-      "Mi Receta"
+      "Mi Receta",
+      "Receta de Autor"
     ],
     "prep_time": "15 min",
     "cook_time": "25 min",
@@ -1408,7 +1410,8 @@
       "Ajo",
       "Oliva",
       "Parmesano",
-      "Autor"
+      "Autor",
+      "Receta de Autor"
     ],
     "prep_time": "10 min",
     "cook_time": "40 min",
@@ -3986,7 +3989,8 @@
       "Lenteja",
       "Panceta",
       "Guiso",
-      "Olla"
+      "Olla",
+      "Receta de Autor"
     ],
     "prep_time": "25 min",
     "cook_time": "3 horas",
@@ -4241,7 +4245,8 @@
       "Picada",
       "Alcaparras",
       "Esparragos",
-      "Autor"
+      "Autor",
+      "Receta de Autor"
     ],
     "prep_time": "10 min",
     "cook_time": "3 min exactos",
@@ -5666,7 +5671,8 @@
       "Vermut",
       "Pomelo",
       "Autor",
-      "Tragos"
+      "Tragos",
+      "Receta de Autor"
     ],
     "prep_time": "5 min",
     "cook_time": "0 min",
@@ -5986,7 +5992,7 @@
   },
   {
     "id": 92,
-    "title": "Hiroshimana Onigiri (Japón)",
+    "title": "Hiroshimana Onigiri - Técnica de Arroz Grano Largo (Japón)",
     "country": "Japón",
     "category": "Arroces y Risottos",
     "tags": [
@@ -5996,7 +6002,14 @@
       "Japon",
       "Onigiri",
       "Sardinas",
-      "Sésamo"
+      "Sésamo",
+      "how to make onigiri with long grain rice",
+      "long grain rice onigiri",
+      "onigiri con arroz largo",
+      "onigiri arroz comun",
+      "como hacer onigiri",
+      "onigiri recipe",
+      "japanese rice ball"
     ],
     "prep_time": "15 min (estimado)",
     "cook_time": "15 min (estimado)",
@@ -6033,10 +6046,10 @@
         ]
       }
     ],
-    "notes": "Secar muy bien las hojas de hakusai con papel absorbente después de blanquearlas permite que se adhieran al arroz y sean fáciles de sostener con la mano en una vianda bento.",
+    "notes": "TRUCO MAESTRO: Cómo hacer Onigiri con arroz de grano largo común (How to make onigiri with long grain rice without falling apart): El onigiri tradicional usa arroz corto glutinoso, pero si solo tienes arroz de grano largo común en casa, sigue estos 3 pasos infalibles para que no se desarme: 1) Lavado superficial: lava el arroz largo solo 1 vez suavemente sin frotar para no perder el almidón de la superficie. 2) Proporción y reposo: cocina 1 taza de arroz largo con 1 taza y media de agua (un 20% más de agua que lo habitual) con una pizca de sal. Al terminar la cocción, no destapes: deja reposar tapado 15 minutos fuera del fuego para que la amilosa gelifique y el arroz quede compacto y moldeable. 3) Moldeado en tibio: compacta los triángulos o bolas mientras el arroz aún esté tibio (no frío) apretando con firmeza con las manos humedecidas en salmuera o envuelto en papel film transparente. Secar muy bien las hojas de col o alga nori antes de envolver.",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5bUA3wB6KS7r6QwLv5AHGLqhc6N2VJXQaB-v6-YiDY6h7t6csQQACHN7ouC0hZfV3GrZg-l5_8ZjEVn57zb7LWOlytPnYtU3EO_ChlbWbGZccTzuMFxqytAn1Bliz6qeGnvznEB-DeUwh/s1600/hiroshimana.JPG",
     "url": "https://recarg.blogspot.com/2010/08/hiroshimana-onigiri-japon.html",
-    "original_title": "Hiroshimana Onigiri (Japon)",
+    "original_title": "Hiroshimana Onigiri - Técnica de Arroz Grano Largo (Japón)",
     "published": "2010-08-25T10:49:00.001-03:00"
   },
   {
@@ -7283,7 +7296,8 @@
       "Picante",
       "Pollo",
       "Soja",
-      "Autor"
+      "Autor",
+      "Receta de Autor"
     ],
     "prep_time": "15 min",
     "cook_time": "25 min",
@@ -8422,7 +8436,8 @@
       "Sidra",
       "Tragos",
       "Autor",
-      "Familiar"
+      "Familiar",
+      "Receta de Autor"
     ],
     "prep_time": "10 min",
     "cook_time": "0 min",
@@ -12257,7 +12272,8 @@
       "Yogurt",
       "Casero",
       "Fermentación",
-      "Lácteos"
+      "Lácteos",
+      "Receta de Autor"
     ],
     "prep_time": "15 min",
     "cook_time": "5 min",
@@ -13391,7 +13407,8 @@
       "Cerveza Negra",
       "Costillas",
       "Hongos",
-      "Autor"
+      "Autor",
+      "Receta de Autor"
     ],
     "prep_time": "15 min",
     "cook_time": "25 min",
@@ -14025,7 +14042,8 @@
       "Cordero",
       "Vino Tinto",
       "Autor",
-      "Cocina"
+      "Cocina",
+      "Receta de Autor"
     ],
     "prep_time": "45 min (estimado)",
     "cook_time": "5 h 15 min",
@@ -14842,7 +14860,8 @@
       "Carne a Cuchillo",
       "Carne",
       "Autor",
-      "Cocina"
+      "Cocina",
+      "Receta de Autor"
     ],
     "prep_time": "45 min",
     "cook_time": "30 min",
@@ -15089,7 +15108,8 @@
       "Osobuco",
       "Fondo Oscuro",
       "Autor",
-      "Cocina"
+      "Cocina",
+      "Receta de Autor"
     ],
     "prep_time": "30 min",
     "cook_time": "10 a 14 h (2 h de horneado + 8 a 12 h de hervor lento)",
@@ -15166,7 +15186,8 @@
       "Anis Estrellado",
       "Jengibre",
       "Autor",
-      "Cocina"
+      "Cocina",
+      "Receta de Autor"
     ],
     "prep_time": "20 min",
     "cook_time": "4 h 30 min a 5 h 30 min",
@@ -15914,7 +15935,8 @@
       "receta",
       "Tallarines",
       "Pollo",
-      "Autor"
+      "Autor",
+      "Receta de Autor"
     ],
     "prep_time": "10 min",
     "cook_time": "15 min",
@@ -16735,7 +16757,8 @@
       "receta",
       "Repollo",
       "Wrap",
-      "Rapiditas"
+      "Rapiditas",
+      "Receta de Autor"
     ],
     "prep_time": "10 min",
     "cook_time": "1 min",
@@ -17133,7 +17156,7 @@
   },
   {
     "id": 258,
-    "title": "Uovo in Raviolo \"San Domenico\" con Burro Nocciola e Parmigiano (Italia)",
+    "title": "Uovo in Raviolo de Nino Bergese - San Domenico (Italia)",
     "country": "Italia",
     "category": "Pastas",
     "tags": [
@@ -17144,7 +17167,15 @@
       "raviolo con uovo",
       "michelin",
       "alta cocina",
-      "pasta fresca"
+      "pasta fresca",
+      "Ravioli Nino Bergese",
+      "Nino Bergese",
+      "Raviolo Nino Bergese",
+      "Ravioli San Domenico",
+      "Ravioli con Domenico",
+      "Uovo in Raviolo",
+      "Raviolo con Yema",
+      "Pasta Rellena Italiana"
     ],
     "prep_time": "35 min",
     "cook_time": "2 min 30 seg",
@@ -17156,7 +17187,7 @@
       "Vegetariano"
     ],
     "published": "2024-03-12T13:45:00.000-03:00",
-    "story": "Creado en 1970 en el prestigioso Ristorante San Domenico de Imola por el maestro Nino Bergese y el chef Valentino Marcattilii, el 'Uovo in raviolo' es una de las mayores cumbres de la gastronomía italiana. La genialidad técnica radica en su precisión quirúrgica: un gran disco de pasta fresca fina encierra una corona de ricotta de oveja y espinacas, dentro de la cual reposa una yema de huevo entera cruda. Al sumergirse exactamente 2 minutos y medio en agua hirviendo sobre papel manteca, la pasta y el relleno se cocinan a la perfección mientras la yema permanece líquida y sedosa, estallando en el plato para fundirse con la manteca avellanada, el Parmigiano Reggiano y las trufas.",
+    "story": "Creado en 1970 en el prestigioso Ristorante San Domenico de Imola por el célebre chef Nino Bergese (conocido como 'el cocinero de los reyes') junto a Valentino Marcattilii, el célebre 'Ravioli Nino Bergese' (Uovo in raviolo) es considerado una de las cumbres absolutas de la alta cocina italiana. La técnica legendaria de Nino Bergese radica en su precisión quirúrgica: un gran disco de pasta fresca artesanal encierra una corona de ricotta de oveja y espinacas con nuez moscada, en cuyo centro descansa una yema de huevo entera cruda. Al sumergirse exactamente 2 minutos y 15 segundos en agua hirviendo, la pasta se cocina al dente mientras la yema permanece líquida y cremosa, estallando en el plato al primer corte para fundirse con manteca avellanada (burro nocciola), queso Parmigiano Reggiano DOP y láminas de trufa negra.",
     "ingredient_groups": [
       {
         "name": "Para la masa al huevo (Sfoglia sottile)",
@@ -17231,7 +17262,7 @@
     "notes": "El secreto absoluto del plato es la frescura de los huevos (la membrana de la yema debe estar firme) y el tiempo exacto de reloj: si se pasa de 2 minutos y medio la yema se coagula y se pierde la magia del volcán líquido.",
     "image": "img/raviolo_uovo.jpg",
     "url": "https://recarg.blogspot.com/2024/03/uovo-in-raviolo-san-domenico.html",
-    "original_title": "Uovo in Raviolo San Domenico"
+    "original_title": "Uovo in Raviolo de Nino Bergese - San Domenico (Italia)"
   },
   {
     "id": 259,
@@ -34246,7 +34277,8 @@
       "Duck Fat Fries",
       "Argentina",
       "Tomates Secos",
-      "Albahaca"
+      "Albahaca",
+      "Receta de Autor"
     ],
     "ingredient_groups": [
       {
@@ -35898,7 +35930,7 @@
       "Tannat",
       "Nueces",
       "Clásicos Rioplatenses",
-      "Bistró de Autor"
+      "Bistró Rioplatense"
     ],
     "prep_time": "20 min",
     "cook_time": "15 min",
@@ -36252,5 +36284,1312 @@
     "url": "https://tn.com.ar/cocina/recetas/2026/07/09/suiza-le-da-una-leccion-a-la-argentina-la-mejor-milanesa-lleva-50-g-de-queso-y-40-g-de-jamon/",
     "original_title": "Auténtica Milanesa Suiza Rellena - Cordon Bleu (Suiza)",
     "published": "2026-11-05"
+  },
+  {
+    "id": 477,
+    "title": "Empanadas de Pino Tradicionales (Chile)",
+    "country": "Chile",
+    "category": "Empanadas",
+    "tags": [
+      "Chile",
+      "Empanadas de Pino",
+      "Empanadas Chilenas",
+      "Pino Tradicional",
+      "Masa al Horno",
+      "Fiestas Patrias",
+      "Carne Picada",
+      "Ají de Color",
+      "Aceitunas y Pasas"
+    ],
+    "prep_time": "45 min",
+    "cook_time": "30 min",
+    "rest_time": "12 horas (reposo del pino de víspera)",
+    "temperature": "200 °C (horno medio-alto)",
+    "servings": "12 empanadas grandes",
+    "calories": "420 kcal por unidad",
+    "diet_badges": [
+      "Patrimonio Gastronómico Chileno",
+      "Cocción al Horno",
+      "Relleno Reposado de Víspera"
+    ],
+    "story": "La empanada de pino es el estandarte culinario indiscutido de Chile y el corazón de las Fiestas Patrias. Su nombre deriva del mapudungún 'pinu', que significa trozos o picadillo de carne cocida. El auténtico secreto de las maestras empanaderas criollas radica en cocinar el pino el día anterior: al enfriarse durante la noche, la cebolla cristalizada en grasa y sazonada con ají de color (pimentón dulce) y comino absorbe y amalgama todos los jugos de la carne sin fermentar ni soltar agua, garantizando un bocado jugoso, aromático y untuoso que jamás humedece la masa.",
+    "ingredient_groups": [
+      {
+        "name": "Pino Tradicional de Víspera",
+        "items": [
+          "800 g de Posta negra, posta rosada o sobrecostilla vacuna (picada a cuchillo en cubitos finos de 5 mm, no molida)",
+          "1 kg de Cebollas blancas (picadas en cubos pequeños brunoise regular)",
+          "60 g de Grasa de pella vacuna o manteca de cerdo (para el sofrito criollo)",
+          "2 cucharadas soperas de Ají de color (pimentón dulce chileno de primera calidad)",
+          "1 cucharadita de Comino molido fresco",
+          "1/2 cucharadita de Orégano seco frotado a mano",
+          "1 cucharada sopera colmada de Harina de trigo (para ligar los jugos del pino)",
+          "150 ml de Caldo de carne casero o agua caliente",
+          "Sal gruesa y pimienta negra recién molida a gusto"
+        ]
+      },
+      {
+        "name": "Masa Criolla Mantecosa",
+        "items": [
+          "1 kg de Harina de trigo común 000",
+          "120 g de Grasa vacuna fundida tibia o manteca",
+          "400 ml de Salmuera tibia (agua caliente con 20 g de sal disuelta)",
+          "2 yemas de huevo fresco (para flexibilidad y color dorado)",
+          "50 ml de Vino blanco seco (secreto tradicional para una masa aireada y crocante)"
+        ]
+      },
+      {
+        "name": "Ensamblado y Sellado",
+        "items": [
+          "12 aceitunas negras del valle de Azapa con carozo (1 por empanada)",
+          "50 g de Pasas de uva rubias o morenas (remojadas en agua tibia)",
+          "3 huevos duros cocidos a punto (cortados en cuartos longitudinales)",
+          "1 huevo batido con 1 cucharada de leche (doradura para pintar)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Elaboración y Reposo del Pino Criollo",
+        "title": "1. Elaboración y Reposo del Pino Criollo",
+        "steps": [
+          "En una olla de hierro o sartén grande calentar la grasa de pella y sellar la carne picada a cuchillo a fuego vivo hasta que cambie de color y libere sus jugos, unos 6-8 minutos. Retirar la carne y reservar con sus jugos. (Consejo: Picar la carne a cuchillo en vez de molerla retiene el colágeno y da la textura mordible auténtica).",
+          "En la misma olla agregar la cebolla picada con una pizca de sal. Cocinar a fuego bajo-medio durante 25 a 30 minutos, revolviendo con cuchara de madera hasta que la cebolla esté tierna, translúcida y dorada suavemente sin llegar a quemarse. (Consejo: La cocción prolongada de la cebolla elimina la acidez natural y evita la indigestión).",
+          "Reincorporar la carne reservada, agregar el ají de color, comino, orégano, sal y pimienta. Verter el caldo y espolvorear la cucharada de harina, revolviendo 3 minutos hasta que tome consistencia untuosa. Retirar del fuego, dejar enfriar a temperatura ambiente y guardar tapado en la heladera hasta el día siguiente. (Consejo: El pino NUNCA debe rellenarse caliente porque arruina la masa)."
+        ]
+      },
+      {
+        "name": "2. Masa Elástica y Amasado",
+        "title": "2. Masa Elástica y Amasado",
+        "steps": [
+          "Disponer la harina en forma de corona sobre la mesada. En el hueco central verter la grasa derretida tibia, las yemas de huevo y el vino blanco. Comenzar a integrar incorporando la salmuera tibia gradualmente.",
+          "Amasar enérgicamente durante 10 minutos hasta obtener una masa lisa, flexible y ligeramente tibia. Tapar con un paño limpio y dejar reposar 30 minutos.",
+          "Dividir la masa en 12 bollos iguales de aproximadamente 120 gramos cada uno. Estirar con palote sobre superficie enharinada formando discos ovalados de 20 cm de diámetro y 2 a 3 mm de espesor."
+        ]
+      },
+      {
+        "name": "3. Armado, Repulgue Cuadrado y Horneado",
+        "title": "3. Armado, Repulgue Cuadrado y Horneado",
+        "steps": [
+          "Colocar en el centro de cada disco 2 a 3 cucharadas colmadas de pino frío, un cuarto de huevo duro, una aceituna negra y 3 pasas de uva. Humedecer el contorno del disco con un poco de salmuera o agua con la yema del dedo.",
+          "Doblar la masa cubriendo el relleno formando una media luna. Presionar con firmeza el borde para expulsar el aire. Doblar los dos extremos laterales hacia adentro y luego la solapa superior hacia el centro, formando el clásico pliegue rectangular o trapezoidal de la empanada chilena de horno.",
+          "Disponer las empanadas sobre placas engrasadas. Pinchar suavemente con un palillo en dos puntos para liberar vapor durante la cocción. Pintar con la doradura de huevo y leche. Hornear a 200 °C durante 25 a 30 minutos hasta que luzcan bien doradas y brillantes. Servir tibias con pebre criollo y una copa de Carmenère."
+        ]
+      }
+    ],
+    "notes": "El pino debe prepararse obligatoriamente la noche anterior: el frío solidifica los jugos facilitando el cerrado y previene que la masa se ablande. Para una auténtica experiencia chilena, acompañar con pebre fresco recién picado.",
+    "image": "img/empanadas_de_pino_chile.jpg",
+    "url": "https://recetas.mamicraft.com/empanadas-de-pino-chile",
+    "original_title": "Empanadas de Pino Tradicionales (Chile)",
+    "published": "2026-11-06"
+  },
+  {
+    "id": 478,
+    "title": "Chau Fan Clásico de Restaurante Chino - Shau Fan (China)",
+    "country": "China",
+    "category": "Arroces",
+    "tags": [
+      "China",
+      "Chau Fan",
+      "Shau Fan",
+      "Arroz Frito",
+      "Wok Hei",
+      "Cerdo Char Siu",
+      "Aceite de Sésamo",
+      "Salsa de Soja",
+      "Comida China Tradicional"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "10 min",
+    "rest_time": "12 horas (enfriado del arroz cocido en heladera)",
+    "temperature": "Fuego muy vivo (Wok ardiente)",
+    "servings": "4 porciones abundantes",
+    "calories": "480 kcal por porción",
+    "diet_badges": [
+      "Técnica de Wok Auténtica",
+      "Aroma Wok Hei",
+      "Arroz Frito Cantonés"
+    ],
+    "story": "El arroz frito cantonés (Chǎo Fàn / Shau Fan) es una de las mayores joyas culinarias de la cocina china, perfeccionado en cantinas familiares y restaurantes de dim sum en todo el mundo. La maestría detrás del chau fan de restaurante no reside en añadir muchos condimentos, sino en dos pilares absolutos: el uso de arroz blanco cocido del día anterior bien frío (granos desgranados y secos) y el 'Wok Hei' o aliento del wok, esa cocción veloz a fuego abrasador donde los granos de arroz saltan, caramelizan su almidón exterior con salsa de soja oscura y aceite de sésamo tostado, manteniendo cada grano suelto, masticable y jamás pastoso.",
+    "ingredient_groups": [
+      {
+        "name": "La Base de Arroz y Proteínas",
+        "items": [
+          "600 g de Arroz blanco cocido del día anterior (grano largo fino o jazmín, refrigerado destapado para secar)",
+          "150 g de Cerdo char siu laqueado (o pollo marinado / panceta magra salteada en tiritas)",
+          "100 g de Langostinos limpios picados o jamón cocido en cubitos pequeños",
+          "3 huevos frescos de campo (ligeramente batidos con unas gotas de aceite de sésamo)"
+        ]
+      },
+      {
+        "name": "Vegetales y Aromáticos del Wok",
+        "items": [
+          "3 tallos de Cebolla de verdeo / cebollín chino (separar la parte blanca picada fina de las hojas verdes en rodajas)",
+          "2 dientes de Ajo rallados o finamente picados",
+          "1 cucharadita de Jengibre fresco rallado",
+          "80 g de Brotes de soja frescos (dientes de dragón lavados y escurridos)",
+          "60 g de Arvejas verdes tiernas (blanqueadas o descongeladas)"
+        ]
+      },
+      {
+        "name": "Condimentos y Salsas de Fuego Vivo",
+        "items": [
+          "3 cucharadas soperas de Aceite vegetal neutro (maní o maíz para soportar alta temperatura)",
+          "2 cucharadas soperas de Salsa de soja clara (Light Soy Sauce para sabor y salinidad)",
+          "1 cucharadita de Salsa de soja oscura (Dark Soy Sauce para el característico tono ámbar brillante)",
+          "1 cucharadita de Vino de arroz Shaoxing (o jerez seco)",
+          "1 cucharadita de Aceite de sésamo tostado puro (para el toque aromático final)",
+          "1/2 cucharadita de Azúcar blanco y pimienta blanca molida al gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Preparación de Ingredientes (Mise en Place)",
+        "title": "1. Preparación de Ingredientes (Mise en Place)",
+        "steps": [
+          "Sacar el arroz cocido de la heladera. Con las manos limpias o un tenedor húmedo, desgranar suavemente todos los bloques de arroz hasta que cada grano quede suelto individualmente. (Consejo: Si el arroz está caliente o recién hecho liberará vapor en el wok y se convertirá en puré pegajoso).",
+          "Cortar el cerdo char siu (o jamón/pollo) en cubitos de 5 mm. Picar la parte blanca del verdeo y reservar las hojas verdes para el final. Batir los huevos con una pizca de sal y pimienta blanca."
+        ]
+      },
+      {
+        "name": "2. El Salteado de Huevos y Proteínas",
+        "title": "2. El Salteado de Huevos y Proteínas",
+        "steps": [
+          "Calentar el wok a fuego máximo hasta que comience a desprender un hilito sutil de humo. Añadir 1 cucharada de aceite girando el wok para cubrir las paredes.",
+          "Verter los huevos batidos; se inflarán de inmediato en segundos. Remover rápidamente con la espátula para romperlos en copos esponjosos dorados y retirarlos a un plato apenas cocidos. (Consejo: No sobrecocinar los huevos para que mantengan su jugosidad sedosa).",
+          "En el mismo wok humeante, añadir otra cucharada de aceite y saltear a fuego vivo la parte blanca del verdeo, ajo y jengibre por 20 segundos. Incorporar el char siu y langostinos, dorando durante 1 a 2 minutos hasta perfumar todo el ambiente."
+        ]
+      },
+      {
+        "name": "3. Fritura del Arroz y Toque Maestro de Salsas",
+        "title": "3. Fritura del Arroz y Toque Maestro de Salsas",
+        "steps": [
+          "Añadir el arroz desgranado al wok ardiente. Presionar suavemente con el dorso de la espátula contra las paredes del wok y saltear vigorosamente durante 3 a 4 minutos hasta escuchar el crepitar de los granos tostarse.",
+          "Bañar el arroz por los bordes externos del wok (no directamente en el centro) con el vino Shaoxing, la salsa de soja clara y la salsa de soja oscura. El contacto del líquido con el metal al rojo vivo carameliza instantáneamente las salsas aportando el legendario aroma Wok Hei.",
+          "Reincorporar los huevos en copos, las arvejas y los brotes de soja. Saltear 1 minuto más mezclando todo enérgicamente. Apagar el fuego, rociar con el aceite de sésamo tostado y espolvorear la parte verde del verdeo picado. Servir humeante de inmediato."
+        ]
+      }
+    ],
+    "notes": "Regla de oro: usar arroz grano largo cocido el día previo y enfriado sin tapar en heladera para evaporar la humedad. Saltear siempre en tandas con wok muy caliente para no enfriar el metal.",
+    "image": "img/chau_fan_chino.jpg",
+    "url": "https://recetas.mamicraft.com/chau-fan-clasico-chino-shau-fan",
+    "original_title": "Chau Fan Clásico de Restaurante Chino - Shau Fan (China)",
+    "published": "2026-11-06"
+  },
+  {
+    "id": 479,
+    "title": "Buta Bara Niku - Panceta Glaseada Japonesa (Japón)",
+    "country": "Japón",
+    "category": "Carnes",
+    "tags": [
+      "Japón",
+      "Buta Bara Niku",
+      "Panceta Japonesa",
+      "Kakuni",
+      "Chashu",
+      "Tare Glaseado",
+      "Mirin y Sake",
+      "Izakaya",
+      "Cocina Japonesa Tradicional"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "90 min",
+    "rest_time": "20 min (asentamiento de glaseado)",
+    "temperature": "Cocción lenta a fuego bajo (95 °C)",
+    "servings": "4 a 6 porciones",
+    "calories": "580 kcal por porción",
+    "diet_badges": [
+      "Técnica Clásica de Izakaya",
+      "Glaseado Umami Reducido",
+      "Cocción Lenta Tradicional"
+    ],
+    "story": "El Buta Bara Niku (豚ばら肉) es el corte rey de la panceta de cerdo en la cocina japonesa. Protagonista tanto en brochetas yakitori al carbón binchotan en las tabernas izakaya como en los fondos braseados estilo Kakuni o Chashu de ramen, su encanto radica en la transformación de las vetas de grasa y carne mediante un estofado meticuloso en caldo dashi aromático, seguido de un laqueado con salsa Tare elaborada con mirin, sake, soja fermentada y jengibre fresco. El resultado es una carne tierna que se deshace con la presión de los palillos, equilibrada por una reducción brillante cargada de umami puro.",
+    "ingredient_groups": [
+      {
+        "name": "Panceta y Aromáticos de Hervor",
+        "items": [
+          "1 kg de Panceta de cerdo fresca en una pieza entera (pork belly con capas parejas de carne y grasa)",
+          "1 trozo de Jengibre fresco de 5 cm (cortado en rodajas gruesas sin pelar)",
+          "2 tallos de Puerro o cebollín japonés (parte verde gruesa para aromatizar)",
+          "3 dientes de Ajo aplastados",
+          "Agua limpia o agua de lavado de arroz (técnica tradicional 'togijiru' para desgrasar la panceta)"
+        ]
+      },
+      {
+        "name": "Salsa Tare de Braseado y Glaseado",
+        "items": [
+          "150 ml de Salsa de soja japonesa (shoyu de fermentación natural)",
+          "120 ml de Mirin dulce japonés (vino de arroz de cocina)",
+          "100 ml de Sake tradicional japonés para cocinar",
+          "3 cucharadas soperas de Azúcar moreno o azúcar de caña",
+          "350 ml de Caldo Dashi casero (o agua de la cocción filtrada)",
+          "1 cucharadita de Aceite de sésamo tostado"
+        ]
+      },
+      {
+        "name": "Guarnición y Emplatado Tradicional",
+        "items": [
+          "4 cuencos de Arroz gohan japonés al vapor",
+          "Para decorar de Mostaza picante japonesa Karashi",
+          "Parte blanca del puerro cortada en hilos finísimos 'shiraga negi' remojados en agua helada",
+          "Semillas de sésamo tostado blanco"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Sellado y Blanqueado Inicial",
+        "title": "1. Sellado y Blanqueado Inicial",
+        "steps": [
+          "Cortar la panceta entera en dados grandes de 4x4 cm (estilo Kakuni) o en rebanadas gruesas de 1 cm si se va a glasear en sartén.",
+          "Dorar las piezas en una sartén seca a fuego medio-alto sellando primero el lado de la grasa hasta que suelte su exceso de aceite y tome un tono dorado uniforme, unos 5 minutos.",
+          "Transferir la panceta a una olla profunda con abundante agua hirviendo, las rodajas de jengibre y las hojas verdes de puerro. Cocinar a hervor muy suave durante 45 minutos retirando con una espumadera las impurezas que suban a la superficie. Escurrir y enjuagar las piezas con agua tibia. (Consejo: Este paso elimina el exceso de grasa pesada manteniendo la carne suave y sedosa)."
+        ]
+      },
+      {
+        "name": "2. Cocción Lenta en Salsa Tare",
+        "title": "2. Cocción Lenta en Salsa Tare",
+        "steps": [
+          "En una cacerola limpia colocar el caldo dashi, el sake, el mirin y el azúcar. Llevar a hervor suave hasta que el azúcar se disuelva por completo.",
+          "Acomodar los trozos de panceta blanqueados con la grasa hacia arriba. Tapar con un 'otoshibuta' (tapa circular más pequeña que flota sobre los alimentos, o un disco de papel vegetal con un orificio en el centro) para repartir el calor y los jugos de manera homogénea.",
+          "Cocinar a fuego mínimo durante 40 minutos. Retirar el otoshibuta, añadir la salsa de soja y cocinar 20 minutos adicionales con la olla destapada hasta que el líquido reduzca a una consistencia de jarabe espeso y cubra la carne con un brillo lacado."
+        ]
+      },
+      {
+        "name": "3. Glaseado Final y Servicio Izakaya",
+        "title": "3. Glaseado Final y Servicio Izakaya",
+        "steps": [
+          "Pintar generosamente las piezas de panceta con la reducción concentrada de tare, dándoles vuelta para que queden completamente caramelizadas y brillantes.",
+          "Servir en cuencos sobre una cama de arroz blanco al vapor (Butadon) o en plato llano como aperitivo de izakaya.",
+          "Coronar con una porción de mostaza Karashi en el lateral, una nube de hilos de puerro crujiente 'shiraga negi' y una lluvia de sésamo tostado."
+        ]
+      }
+    ],
+    "notes": "El secreto de la textura untuosa sin exceso graso es el hervor previo con jengibre y puerro. El otoshibuta (disco de papel vegetal perforado) mantiene la panceta sumergida en los vapores del sake y mirin.",
+    "image": "img/buta_bara_niku.jpg",
+    "url": "https://recetas.mamicraft.com/buta-bara-niku-panceta-japonesa",
+    "original_title": "Buta Bara Niku - Panceta Glaseada Japonesa (Japón)",
+    "published": "2026-11-06"
+  },
+  {
+    "id": 480,
+    "title": "Roghani Murgh - Curry de Pollo del Norte de India (India)",
+    "country": "India",
+    "category": "Guisos",
+    "tags": [
+      "India",
+      "Roghani Murgh",
+      "Curry del Norte de India",
+      "Ghee",
+      "Azafrán y Cardamomo",
+      "Yogur Especiado",
+      "Cocina Mughlai",
+      "Kashmiri Mirch",
+      "Pollo al Curry Tradicional"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "45 min",
+    "rest_time": "60 min (marinado del pollo en yogur y especias)",
+    "temperature": "Cocción a fuego lento (Dum o fuego corona)",
+    "servings": "4 porciones generosas",
+    "calories": "520 kcal por porción",
+    "diet_badges": [
+      "Herencia Culinaria Mughlai",
+      "Cocción en Manteca Ghee",
+      "Aroma de Azafrán y Cardamomo"
+    ],
+    "story": "El Roghani Murgh es una de las creaciones más refinadas de la cocina cortesana imperial Mughlai del norte de la India y Cachemira. Su nombre combina 'roghan' (aceite enriquecido o manteca clarificada especiada que flota en la superficie con un tono rubí) y 'murgh' (pollo de granja tierno). A diferencia de los currys occidentales sobrecargados de crema de leche o tomate en exceso, el auténtico Roghani Murgh obtiene su opulencia y sedosidad de una pasta de cebollas profundamente doradas (birista), yogur batido a temperatura ambiente, cardamomo verde, macis y una infusión de azafrán en leche tibia, brindando una experiencia aromática majestuosa e inolvidable.",
+    "ingredient_groups": [
+      {
+        "name": "Marinado del Pollo",
+        "items": [
+          "900 g de Pollo de campo cortado en presas con hueso (muslos y contramuslos desgrasados con incisiones superficiales)",
+          "200 g de Yogur natural entero espeso (estilo griego o dahi batido sin suero)",
+          "1 cucharada sopera de Pasta de jengibre y ajo frescos (partes iguales trituradas)",
+          "1 cucharadita de Chile de Cachemira en polvo (Kashmiri Lal Mirch, da color rojo intenso sin picante agresivo)",
+          "1/2 cucharadita de Cúrcuma molida pura",
+          "1 cucharadita de Sal fina marina"
+        ]
+      },
+      {
+        "name": "Aromáticos y Base Roghani",
+        "items": [
+          "60 g de Manteca clarificada pura Ghee (o mezcla de ghee y aceite vegetal)",
+          "3 cebollas grandes (cortadas en pluma muy fina para dorar estilo Birista)",
+          "1 rama de Canela en rama de Ceilán (5 cm)",
+          "4 vainas de Cardamomo verde ligeramente abiertas",
+          "2 vainas de Cardamomo negro grande (aporta fondo ahumado noble)",
+          "4 clavos de olor enteros y 1 flor de macis (mace)",
+          "2 hojas de Laurel indio (Tejpatta)"
+        ]
+      },
+      {
+        "name": "Infusión Imperial y Remate",
+        "items": [
+          "1 dedal de Hebras de azafrán puro (remojadas en 4 cucharadas de leche tibia entera por 20 minutos)",
+          "1 cucharadita de Garam Masala real tostado casero",
+          "1 cucharadita de Semillas de hinojo en polvo",
+          "1 cucharada de Jugo de limón recién exprimido",
+          "Hojas de cilantro fresco picado y juliana de jengibre fresco para terminar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Marinado y Dorado de Cebollas (Birista)",
+        "title": "1. Marinado y Dorado de Cebollas (Birista)",
+        "steps": [
+          "En un recipiente amplio masajear el pollo con la pasta de jengibre y ajo, cúrcuma, ají de Cachemira, sal y el yogur batido. Tapar y dejar marinar en heladera al menos 1 hora (ideal 4 horas) para ablandar las fibras cárnicas.",
+          "En una cazuela pesada o handi de cobre calentar el ghee a fuego medio. Agregar las cebollas fileteadas finas con una pizca de sal y cocinar revolviendo constantemente durante 15 a 18 minutos hasta que adquieran un color castaño dorado uniforme y crujiente (Birista).",
+          "Retirar la mitad de las cebollas doradas y triturarlas en mortero con dos cucharadas de agua tibia para formar una pasta untuosa que espesará el curry."
+        ]
+      },
+      {
+        "name": "2. Tostado de Especias y Sellado del Pollo",
+        "title": "2. Tostado de Especias y Sellado del Pollo",
+        "steps": [
+          "En el mismo ghee aromatizado con la cebolla, echar las especias enteras: cardamomo verde y negro, canela, clavos de olor, macis y laurel. Dejar chisporrotear durante 40 segundos a fuego moderado hasta que liberen sus aceites esenciales.",
+          "Añadir las presas de pollo escurridas de su exceso de marinada (reservando el líquido del bol). Subir el fuego y dorar el pollo durante 6 a 8 minutos sellando todas sus caras en el ghee.",
+          "Incorporar la pasta de cebolla dorada triturada, el hinojo en polvo y el resto de la marinada de yogur, bajando el fuego al mínimo y revolviendo continuamente para evitar que el yogur se corte."
+        ]
+      },
+      {
+        "name": "3. Cocción a Fuego Lento (Dum) y Toque de Azafrán",
+        "title": "3. Cocción a Fuego Lento (Dum) y Toque de Azafrán",
+        "steps": [
+          "Añadir 150 ml de agua caliente o caldo suave. Tapar la cazuela herméticamente (al estilo Dum tradicional) y cocinar a fuego muy suave durante 25 a 30 minutos hasta que el pollo esté tierno y la grasa ghee aromática (el roghan) flote limpia y roja en la superficie.",
+          "Destapar, verter la infusión de azafrán con su leche dorada y espolvorear el garam masala y unas gotas de limón. Mover la cazuela con movimientos circulares sin romper las presas.",
+          "Servir en cuenco hondo decorando con la cebolla crujiente reservada, cilantro fresco picado y juliana de jengibre. Acompañar con pan naan recién horneado con manteca y arroz basmati aromático."
+        ]
+      }
+    ],
+    "notes": "No sustituir el ghee: es el alma del plato que absorbe los aceites esenciales del cardamomo y azafrán. El ají de Cachemira (Kashmiri chili) aporta el tono carmesí característico con un picor sumamente balanceado y amable.",
+    "image": "img/roghani_murgh.jpg",
+    "url": "https://recetas.mamicraft.com/roghani-murgh-curry-pollo-india",
+    "original_title": "Roghani Murgh - Curry de Pollo del Norte de India (India)",
+    "published": "2026-11-06"
+  },
+  {
+    "id": 481,
+    "title": "Kassler Tradicional con Chucrut (Alemania)",
+    "country": "Alemania",
+    "category": "Carnes",
+    "tags": [
+      "Alemania",
+      "Kassler",
+      "Kasseler Rippenspeer",
+      "Chucrut Casero",
+      "Sauerkraut",
+      "Chuletas Ahumadas",
+      "Enebro y Manzana",
+      "Puré de Papas",
+      "Cocina Alemana Tradicional"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "45 min",
+    "rest_time": "10 min",
+    "temperature": "Cocción suave tapada (160 °C)",
+    "servings": "4 porciones completas",
+    "calories": "560 kcal por porción",
+    "diet_badges": [
+      "Clásico Gastronómico Alemán",
+      "Ahumado Artesanal al Haya",
+      "Guarnición Probiótica Tradicional"
+    ],
+    "story": "El Kassler (o Kasseler Rippenspeer) es una de las instituciones más queridas de la gastronomía de Berlín y de toda Alemania, atribuido históricamente al maestro carnicero berlinés Cassel en el siglo XIX. Consiste en chuletas o carré de cerdo curadas en salmuera suave y delicadamente ahumadas con madera de haya. Cocinadas tradicionalmente sobre un lecho de chucrut (Sauerkraut) estofado lentamente con grasa de tocino, bayas de enebro, vino blanco Riesling y manzana rallada, la carne adquiere una terneza jugosa y una armonía inigualable entre el perfume ahumado y la fresca acidez de la col fermentada.",
+    "ingredient_groups": [
+      {
+        "name": "Chuletas de Cerdo Ahumadas",
+        "items": [
+          "4 chuletas de Kassler ahumadas gruesas con hueso (aprox. 250 g cada una, corte de carré curado)",
+          "30 g de Manteca o grasa de cerdo (Schmalz) para dorar",
+          "1 cebolla amarilla grande (picada en brunoise fina)",
+          "1 diente de ajo aplastado",
+          "Pimienta negra recién molida (el kassler ya aporta su propio punto de sal curada)"
+        ]
+      },
+      {
+        "name": "Chucrut Estofado Tradicional (Sauerkraut)",
+        "items": [
+          "800 g de Sauerkraut / Chucrut natural fermentado (escurrido suavemente)",
+          "80 g de Panceta o tocino ahumado en tiritas (Speck)",
+          "1 manzana ácida (Granny Smith o Boskoop) pelada y rallada gruesa",
+          "6 bayas de Enebro (Wacholderbeeren) ligeramente aplastadas",
+          "2 hojas de Laurel seco",
+          "1/2 cucharadita de Semillas de alcaravea (Kümmel / comino alemán)",
+          "150 ml de Vino blanco seco (Riesling alemán o Pinot Blanc)",
+          "200 ml de Caldo de verduras o carne claro"
+        ]
+      },
+      {
+        "name": "Acompañamiento Clásico",
+        "items": [
+          "Puré de papas casero aterciopelado con manteca y nuez moscada (Kartoffelpüree)",
+          "Mostaza alemana dulce o picante estilo Mittelscharf al gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Base del Sauerkraut Aromático",
+        "title": "1. Base del Sauerkraut Aromático",
+        "steps": [
+          "En una cazuela de hierro esmaltado o cacerola ancha, dorar el tocino ahumado en tiritas con una cucharada de manteca a fuego medio hasta que quede crujiente y suelte su grasa.",
+          "Añadir la cebolla picada y el ajo. Cocinar durante 5 a 6 minutos hasta que la cebolla se vuelva transparente y dulce.",
+          "Incorporar el chucrut escurrido, aflojando las hebras con dos tenedores. Agregar la manzana rallada, las bayas de enebro aplastadas, las semillas de alcaravea y las hojas de laurel. Mezclar todo bien durante 3 minutos."
+        ]
+      },
+      {
+        "name": "2. Braseado del Chucrut y el Kassler",
+        "title": "2. Braseado del Chucrut y el Kassler",
+        "steps": [
+          "Desglasar la cazuela vertiendo el vino blanco seco y dejar hervir 2 minutos para que el alcohol se evapore. Verter el caldo tibio hasta cubrir parcialmente la col.",
+          "Tapar la cazuela y cocinar a fuego bajo durante 20 minutos para que el chucrut se ablande e impregne de los aromas del enebro y la manzana.",
+          "En una sartén aparte calentar el resto de la manteca y sellar rápidamente las chuletas de Kassler 2 minutos por lado sólo para dorar la superficie. Acomodar las chuletas selladas directamente sobre el lecho de chucrut caliente, tapar la cazuela y continuar la cocción a fuego muy suave durante 15 a 20 minutos más. (Consejo: La cocción sobre el vapor del chucrut mantiene el kassler hiperjugoso sin resecarlo)."
+        ]
+      },
+      {
+        "name": "3. Montaje y Servicio Alemán",
+        "title": "3. Montaje y Servicio Alemán",
+        "steps": [
+          "Retirar las hojas de laurel. Probar el chucrut y rectificar de pimienta negra.",
+          "Disponer en cada plato una generosa porción de chucrut estofado humeante, coronar con la chuleta de Kassler con su hueso dorada y jugosa.",
+          "Acompañar al lado con una buena porción de puré de papas recién batido con nuez moscada y una cucharada de mostaza alemana Mittelscharf."
+        ]
+      }
+    ],
+    "notes": "El kassler ya viene curado en salmuera, por lo que no es necesario agregar sal adicional al guiso. Las bayas de enebro y la manzana rallada son indispensables para redondear y suavizar la acidez de la fermentación.",
+    "image": "img/kassler_chucrut_alemania.jpg",
+    "url": "https://recetas.mamicraft.com/kassler-tradicional-chucrut-alemania",
+    "original_title": "Kassler Tradicional con Chucrut (Alemania)",
+    "published": "2026-11-06"
+  },
+  {
+    "id": 482,
+    "title": "Pastel Mandi'o - Empanadas Paraguayas de Mandioca (Paraguay)",
+    "country": "Paraguay",
+    "category": "Empanadas",
+    "tags": [
+      "Paraguay",
+      "Pastel Mandi'o",
+      "Empanadas Paraguayas",
+      "Masa de Mandioca",
+      "Harina de Maíz",
+      "Fiesta de San Juan",
+      "So'o Ku'i",
+      "Carne Molida Guisada",
+      "Cocina Guaraní Tradicional"
+    ],
+    "prep_time": "40 min",
+    "cook_time": "25 min",
+    "rest_time": "20 min (enfriado del puré para amasar)",
+    "temperature": "180 °C (fritura en aceite caliente abundante)",
+    "servings": "10 a 12 empanadas",
+    "calories": "390 kcal por unidad",
+    "diet_badges": [
+      "Patrimonio Gastronómico de Paraguay",
+      "Masa Tradicional de Mandioca",
+      "Clásico de San Juan Ára"
+    ],
+    "story": "El Pastel Mandi'o es el tesoro más entrañable de la gastronomía paraguaya y el rey indiscutido de las fiestas populares de San Juan (San Juan Ára). Su rasgo singular e irrepetible reside en su masa: elaborada a base de mandioca hervida y machacada en mortero, combinada con harina de maíz criolla, grasa de cerdo y queso Paraguay artesanal. Esta masa rústica pero elástica encierra un sabroso relleno de carne guisada con cebolla, pimientos, ajo y huevo duro picado ('so'o ku'i'). Al freírse en grasa o aceite abundante, la corteza adquiere un tono dorado tostado crujiente irresistible mientras el interior conserva una textura tierna, húmeda y de profundo arraigo guaraní.",
+    "ingredient_groups": [
+      {
+        "name": "Masa Autóctona de Mandioca y Harina de Maíz",
+        "items": [
+          "1 kg de Mandioca tierna (pelada, cocida en agua con sal hasta que esté blanda y sin fibras centrales)",
+          "250 g de Harina de maíz paraguaya fina (no polenta instantánea, sino harina de maíz molida tradicional)",
+          "2 cucharadas soperas de Grasa vacuna o de cerdo pura (a temperatura ambiente)",
+          "1 huevo de campo fresco",
+          "100 g de Queso Paraguay fresco desmenuzado (o queso criollo / cuartirolo firme)",
+          "1 cucharadita de Sal fina"
+        ]
+      },
+      {
+        "name": "Relleno Criollo Tradicional (So'o Ku'i)",
+        "items": [
+          "500 g de Carne vacuna tierna (bola de lomo o cuadril picado muy fino o molido)",
+          "2 cebollas medianas picadas en cubitos pequeños",
+          "1/2 pimiento morrón rojo o verde picado fino",
+          "2 dientes de ajo finamente picados",
+          "2 cucharadas de Grasa o aceite para dorar",
+          "3 huevos duros cocidos (picados chicos)",
+          "2 tallos de Cebollita de verdeo (parte verde picada fresca)",
+          "1 cucharadita de Comino molido y orégano",
+          "Sal y pimienta negra al gusto"
+        ]
+      },
+      {
+        "name": "Cocción y Servicio",
+        "items": [
+          "Abundante aceite o grasa limpia para freír",
+          "Para acompañar de Salsa picante casera ky'ỹi o mandioca hervida caliente"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Elaboración del Relleno de Carne (So'o Ku'i)",
+        "title": "1. Elaboración del Relleno de Carne (So'o Ku'i)",
+        "steps": [
+          "En una sartén calentar las 2 cucharadas de grasa o aceite y saltear la cebolla, el morrón y el ajo con una pizca de sal a fuego medio hasta transparentar, unos 6 minutos.",
+          "Agregar la carne vacuna, subiendo el fuego para sellar y desgranar con cuchara de madera. Condimentar con sal, pimienta y comino. Cocinar 8 a 10 minutos hasta que la carne esté cocida y sus jugos reducidos pero húmedos.",
+          "Retirar del fuego, dejar enfriar e incorporar los huevos duros picados y la cebollita de verdeo verde fresca. Mezclar bien y reservar frío."
+        ]
+      },
+      {
+        "name": "2. Preparación de la Masa de Mandioca",
+        "title": "2. Preparación de la Masa de Mandioca",
+        "steps": [
+          "Pasar la mandioca caliente recién hervida y escurrida por la máquina de moler carne o pisarla enérgicamente en caliente con pisapapas o mortero tradicional hasta lograr un puré fino sin grumos ni hebras leñosas. Dejar entibiar.",
+          "Sobre la mesada colocar el puré de mandioca tibio, hacer un hueco central y colocar el huevo, la grasa, la sal, el queso Paraguay desmenuzado y la harina de maíz en tandas.",
+          "Amasar con las manos enérgicamente durante 8 a 10 minutos hasta integrar por completo todos los ingredientes. Se obtendrá una masa compacta, dócil, que no se pega en las manos. Dejar reposar 15 minutos tapada con film."
+        ]
+      },
+      {
+        "name": "3. Armado, Repulgue con Tenedor y Fritura Dorada",
+        "title": "3. Armado, Repulgue con Tenedor y Fritura Dorada",
+        "steps": [
+          "Tomar porciones de masa del tamaño de una pelota de golf (aprox. 60-70 gramos). Estirar cada porción con palote entre dos hojas de plástico o papel film enharinado con harina de maíz hasta formar discos redondos de 12 a 14 cm de diámetro y 4 mm de espesor.",
+          "Colocar una cucharada generosa de relleno en el centro. Doblar el disco por la mitad con la ayuda del plástico para unir los bordes formando una empanada.",
+          "Presionar los bordes con firmeza y sellar haciendo el clásico repulgue presionando con los dientes de un tenedor enharinado en todo el perímetro.",
+          "Calentar abundante aceite limpio en una sartén profunda o paila a 180 °C. Freír los pastel mandi'o de a 2 o 3 unidades a la vez durante 3 a 4 minutos por lado hasta que la masa adquiera un color dorado profundo y una costra crujiente. Escurrir sobre papel absorbente y servir bien calientes."
+        ]
+      }
+    ],
+    "notes": "Es fundamental pisar la mandioca mientras aún está caliente para evitar que se formen hilos gomosos. La harina de maíz le otorga a la masa la solidez necesaria para manipular y freír sin que se rompa.",
+    "image": "img/pastel_mandio_paraguay.jpg",
+    "url": "https://recetas.mamicraft.com/pastel-mandio-empanadas-paraguayas-mandioca",
+    "original_title": "Pastel Mandi'o - Empanadas Paraguayas de Mandioca (Paraguay)",
+    "published": "2026-11-06"
+  },
+  {
+    "id": 483,
+    "title": "Bizcochuelo Casero Esponjoso de Vainilla - Receta Fácil (Argentina)",
+    "country": "Argentina",
+    "category": "Postres",
+    "tags": [
+      "Argentina",
+      "Bizcocho Esponjoso",
+      "Receta Fácil Bizcochuelo",
+      "Vainilla Clásica",
+      "Sin Manteca",
+      "Merienda Tradicional",
+      "Repostería Casera",
+      "Pastelería Fácil",
+      "Miga Aireada"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "40 min",
+    "rest_time": "15 min (enfriado sobre rejilla)",
+    "temperature": "160 °C (horno moderado constante)",
+    "servings": "8 a 10 porciones",
+    "calories": "220 kcal por porción",
+    "diet_badges": [
+      "Clásico de Merienda Casera",
+      "Masa Batida Aireada (Genoise)",
+      "Sin Grasa Agregada (Sin Manteca)"
+    ],
+    "story": "El auténtico bizcochuelo casero tradicional es el rey indiscutido de las meriendas rioplatenses y la base canónica de las tortas de cumpleaños. Su extraordinaria altura y textura algodonosa no dependen de polvos químicos en exceso, sino del noble método genovés: el batido enérgico y prolongado de huevos enteros con azúcar hasta alcanzar el 'punto letra' o 'punto cinta', donde el aire queda atrapado físicamente en la matriz proteica. Al incorporar la harina tamizada con movimientos envolventes suaves, se obtiene una miga elástica, ligera y perfumada a vainilla que jamás se aplasta.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Masa Batida Tradicional",
+        "items": [
+          "6 huevos frescos medianos a temperatura ambiente (imprescindible que no estén fríos de heladera)",
+          "200 g de Azúcar blanco común",
+          "200 g de Harina de trigo leudante tamizada (o harina 0000 con 1 cucharadita de polvo de hornear)",
+          "1 cucharadita de Extracto puro de vainilla de buena calidad",
+          "Ralladura fina de 1/2 limón (opcional, para realzar el aroma cítrico)",
+          "1 pizca de Sal fina (para equilibrar y estabilizar el batido)"
+        ]
+      },
+      {
+        "name": "Molde y Acabado",
+        "items": [
+          "Manteca pomada y harina extra para encamisar el molde de 24 cm con chimenea central o desmontable",
+          "Azúcar impalpable (azúcar glas) para espolvorear en la superficie antes de servir"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. El Batido a Punto Letra",
+        "title": "1. El Batido a Punto Letra",
+        "steps": [
+          "Precalentar el horno a 160 °C (fuego medio-bajo regular). Enmantecar y enharinar prolijamente un molde de 24 cm de diámetro (o colocar un disco de papel manteca en la base).",
+          "En un bol amplio y limpio colocar los 6 huevos a temperatura ambiente junto con los 200 gramos de azúcar y la pizca de sal. Batir con batidora eléctrica a velocidad media-alta durante 10 a 12 minutos continuos.",
+          "El batido debe triplicar su volumen original, volverse de un color marfil muy pálido, espeso y cremoso. Estará listo cuando al levantar las varillas puedas 'dibujar' una letra sobre la superficie y el trazo permanezca visible durante varios segundos sin hundirse (punto letra)."
+        ]
+      },
+      {
+        "name": "2. Incorporación Envolvente de Secos",
+        "title": "2. Incorporación Envolvente de Secos",
+        "steps": [
+          "Añadir el extracto de vainilla y la ralladura de limón, mezclando 5 segundos.",
+          "Tamizar la harina leudante directamente sobre el batido en 3 tandas sucesivas. Con una espátula de goma flexible o batidor de alambre, integrar la harina realizando movimientos circulares y envolventes desde el fondo hacia arriba girando el bol con la otra mano.",
+          "(Consejo de oro: No batir ni apurarse. El movimiento debe ser pausado y delicado para que la harina se humedezca sin perder ni una burbuja del aire atrapado)."
+        ]
+      },
+      {
+        "name": "3. Horneado Parejo y Desmolde",
+        "title": "3. Horneado Parejo y Desmolde",
+        "steps": [
+          "Verter la mezcla en el molde desde poca altura para no romper las burbujas de aire. Alisar suavemente la superficie con la espátula.",
+          "Hornear a 160 °C durante 35 a 40 minutos en el estante medio del horno. (Regla estricta: Jamás abrir la puerta del horno durante los primeros 30 minutos, ya que el choque de temperatura baja la estructura).",
+          "Estará cocido cuando al presionar suavemente el centro con la yema del dedo vuelva elásticamente a su posición y al insertar un palillo en el centro salga completamente seco y limpio. Retirar, dejar reposar 10 minutos dentro del molde y desmoldar sobre una rejilla de alambre. Espolvorear con azúcar impalpable una vez tibio o frío."
+        ]
+      }
+    ],
+    "notes": "Los huevos deben estar a temperatura ambiente para captar el triple de aire. El secreto de un bizcochuelo que no se baja es batir hasta el auténtico punto letra (10-12 min) e incorporar la harina con movimientos envolventes lentos.",
+    "image": "img/bizcochuelo_esponjoso_casero.jpg",
+    "url": "https://recetas.mamicraft.com/bizcochuelo-casero-esponjoso-vainilla",
+    "original_title": "Bizcochuelo Casero Esponjoso de Vainilla - Receta Fácil (Argentina)",
+    "published": "2026-11-06"
+  },
+  {
+    "id": 484,
+    "title": "Roti Tradicional - Pan Plano en Sartén sin Horno (India)",
+    "country": "India",
+    "category": "Panes",
+    "tags": [
+      "India",
+      "Roti Tradicional",
+      "Chapati",
+      "Pan Plano",
+      "Sin Horno",
+      "En Sartén",
+      "Sin Levadura",
+      "Manteca Ghee",
+      "Cenas Rápidas",
+      "Harina Integral Atta"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "10 min",
+    "rest_time": "20 min (reposo de la masa para hidratación)",
+    "temperature": "Sartén de hierro o Tawa a fuego vivo",
+    "servings": "8 a 10 panes planos",
+    "calories": "110 kcal por unidad",
+    "diet_badges": [
+      "Pan Plano Milenario Sin Levadura",
+      "Cocción Rápida en Sartén (Sin Horno)",
+      "Apto Vegano / Vegetariano"
+    ],
+    "story": "El Roti (o Chapati) es el alimento fundamental diario de cientos de millones de personas a lo largo de todo el subcontinente indio. Elaborado exclusivamente con harina de trigo integral finamente molida (Atta), agua tibia y una pizca de sal, no lleva ningún tipo de levadura ni agente leudante químico. Su magia ocurre sobre una sartén de hierro fundido (tawa): al calentarse, la humedad interna de la masa se convierte en vapor presurizado que hace que el pan se infle como un globo en cuestión de segundos, creando dos capas ultrafinas y tiernas que luego se untan con manteca clarificada (ghee) derretida.",
+    "ingredient_groups": [
+      {
+        "name": "Masa de Roti Tradicional",
+        "items": [
+          "300 g de Harina de trigo integral fina (harina Atta tradicional india o harina integral ultrafina 000)",
+          "180 a 200 ml de Agua tibia a caliente (según la absorción de la harina)",
+          "1/2 cucharadita de Sal marina fina",
+          "1 cucharadita de Aceite vegetal o manteca ghee (opcional, para dar elasticidad al amasado)"
+        ]
+      },
+      {
+        "name": "Estirado y Untado Final",
+        "items": [
+          "50 g de Harina extra para espolvorear la mesada al estirar",
+          "2 a 3 cucharadas de Manteca Ghee pura tibia derretida (para pincelar los rotis humeantes)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Amasado y Descanso Hidratante",
+        "title": "1. Amasado y Descanso Hidratante",
+        "steps": [
+          "En un recipiente amplio colocar la harina integral y la sal. Añadir el agua tibia de a chorritos mientras se mezcla con una mano.",
+          "Amasar con los nudillos durante 7 a 8 minutos hasta formar una masa suave, flexible y homogénea que no se pegue en las manos. Si está seca, mojarse los dedos y seguir amasando.",
+          "Untar la superficie con unas gotas de aceite o ghee, tapar con un paño húmedo limpio y dejar reposar 20 minutos. (Consejo: El reposo relaja el gluten y permite estirar discos finos sin que se contraigan)."
+        ]
+      },
+      {
+        "name": "2. Porcionado y Estirado Redondo",
+        "title": "2. Porcionado y Estirado Redondo",
+        "steps": [
+          "Dividir la masa reposada en 8 a 10 bollitos del tamaño de una pelota de golf (aprox. 45-50 g cada uno). Rodar entre las palmas para dejarlos perfectamente esféricos.",
+          "Pasar un bollito por harina extra, colocarlo sobre la mesada y estirar con palote girándolo constantemente en cuartos de vuelta para formar un disco parejo y circular de unos 16 a 18 cm de diámetro y 1,5 a 2 mm de grosor.",
+          "Sacudir suavemente el disco entre las palmas de las manos para retirar cualquier exceso de harina seca."
+        ]
+      },
+      {
+        "name": "3. Cocción en Sartén Tawa e Inflado al Vapor",
+        "title": "3. Cocción en Sartén Tawa e Inflado al Vapor",
+        "steps": [
+          "Calentar una sartén de hierro o tawa a fuego medio-alto hasta que esté bien caliente (una gota de agua debe evaporarse al instante). Colocar el roti estirado.",
+          "Cocinar durante 30 a 40 segundos hasta que comiencen a aparecer pequeñas burbujitas en la superficie. Dar vuelta con pinzas o espátula.",
+          "Cocinar la segunda cara durante 45 segundos hasta que aparezcan manchitas tostadas marrones. Con la ayuda de un paño doblado o una espátula de madera, presionar suavemente los bordes del pan: el vapor interno se expandirá e inflará el roti por completo como un globo redondo.",
+          "Retirar de la sartén, colocar en una canasta forrada con tela y pincelar inmediatamente con manteca ghee derretida. Servir caliente acompañando currys, lentejas dal o guisados."
+        ]
+      }
+    ],
+    "notes": "La sartén debe estar muy caliente para que el agua de la masa se convierta en vapor instantáneo y lo infle. Mantener los rotis cocidos envueltos en un paño de algodón para que permanezcan tiernos y flexibles durante toda la comida.",
+    "image": "img/roti_pan_plano_indio.jpg",
+    "url": "https://recetas.mamicraft.com/roti-pan-plano-sarten-sin-horno",
+    "original_title": "Roti Tradicional - Pan Plano en Sartén sin Horno (India)",
+    "published": "2026-11-06"
+  },
+  {
+    "id": 485,
+    "title": "Arepas Tradicionales de Masa Casera de Maíz (Venezuela)",
+    "country": "Venezuela",
+    "category": "Panes",
+    "tags": [
+      "Venezuela",
+      "Arepas Tradicionales",
+      "Masa Casera de Maíz",
+      "Pan Plano",
+      "Sin Horno",
+      "En Budare",
+      "Queso Blanco",
+      "Desayuno Criollo",
+      "Sin Gluten",
+      "Harina PAN"
+    ],
+    "prep_time": "10 min",
+    "cook_time": "20 min",
+    "rest_time": "5 min (asentamiento de la masa)",
+    "temperature": "Budare o plancha a fuego medio (180 °C)",
+    "servings": "6 arepas medianas",
+    "calories": "210 kcal por arepa sola",
+    "diet_badges": [
+      "Patrimonio Gastronómico Venezolano",
+      "Naturalmente Sin Gluten (Gluten Free)",
+      "Pan Diario Tradicional"
+    ],
+    "story": "La arepa es el alma de la mesa venezolana, consumida desde épocas precolombinas por los pueblos indígenas cumanagotos. Elaborada a base de harina de maíz blanco precocida, su sencillez esconde una técnica precisa: lograr el punto exacto de hidratación en la masa para que no se agriete al moldearse y forme una costra crocante al tostarse en el 'budare' (plancha de hierro fundido), conservando una miga tierna, vaporosa y reconfortante. Al abrirse como un bolsillo humeante, recibe rellenos icónicos como queso blanco llanero, perico, carne mechada o reina pepiada.",
+    "ingredient_groups": [
+      {
+        "name": "Masa Auténtica de Maíz",
+        "items": [
+          "300 g de Harina de maíz blanco precocida (tipo Harina P.A.N.)",
+          "450 a 500 ml de Agua tibia limpia",
+          "1 cucharadita de Sal marina fina",
+          "1 cucharadita de Aceite de maíz o mantequilla derretida (secreto tradicional para suavidad extra de la miga)"
+        ]
+      },
+      {
+        "name": "Cocción y Relleno Clásico",
+        "items": [
+          "1 cucharada de Aceite vegetal para engrasar el budare o sartén",
+          "Mantequilla cremosa con sal para untar en caliente",
+          "250 g de Queso blanco rallado (queso llanero, queso paisa o queso feta/fresco firme)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Hidratación y Punto Perfecto de la Masa",
+        "title": "1. Hidratación y Punto Perfecto de la Masa",
+        "steps": [
+          "En un bol verter primero el agua tibia con la sal y la cucharadita de aceite. Remover con la mano para disolver la sal.",
+          "Añadir la harina de maíz precocida en forma de lluvia continua mientras se mezcla con los dedos para evitar la formación de grumos.",
+          "Amasar durante 2 a 3 minutos hasta obtener una masa suave, homogénea y moldeable. Dejar reposar 5 minutos para que el almidón del maíz termine de absorber el agua. (Consejo de oro: La masa debe sentirse como plastilina suave; si al formar una bolita los bordes se agrietan, agregar 2 cucharadas más de agua tibia y amasar nuevamente)."
+        ]
+      },
+      {
+        "name": "2. Boleado y Formado en Disco",
+        "title": "2. Boleado y Formado en Disco",
+        "steps": [
+          "Dividir la masa en 6 porciones iguales (aprox. 120-130 g cada una). Rodar cada porción entre las dos palmas de las manos formando una bola lisa sin grietas.",
+          "Aplastar suavemente la bola entre las palmas girándola con los bordes de los dedos para darle su clásica forma de disco redondeado con grosor parejo de 1,5 cm.",
+          "Alisar los bordes con los dedos húmedos para que la arepa quede completamente sellada."
+        ]
+      },
+      {
+        "name": "3. Tostado en Budare y Sellado",
+        "title": "3. Tostado en Budare y Sellado",
+        "steps": [
+          "Calentar el budare o una sartén de fondo grueso a fuego medio y engrasar ligeramente con una servilleta de papel con aceite.",
+          "Colocar las arepas y cocinar durante 6 a 8 minutos por lado sin moverlas, hasta que se forme una costra tostada, dorada y crocante con manchitas oscuras.",
+          "(Toque maestro: Para asegurar que la miga quede bien cocida por dentro, transferir las arepas marcadas a horno a 180 °C durante 8 a 10 minutos adicionales hasta que al darles un golpecito con los nudillos suenen 'huecas' como un tamborcito).",
+          "Abrir longitudinalmente con un cuchillo de sierra sin cortar del todo el fondo, untar con abundante mantequilla y rellenar con queso blanco rallado. Servir humeante de inmediato."
+        ]
+      }
+    ],
+    "notes": "Poner siempre el agua primero en el bol y verter la harina de maíz en lluvia evita los grumos. El sonido hueco al golpearla con los nudillos indica que la miga interna terminó de cocerse a la perfección.",
+    "image": "img/arepas_tradicionales_maiz.jpg",
+    "url": "https://recetas.mamicraft.com/arepas-tradicionales-masa-casera-maiz",
+    "original_title": "Arepas Tradicionales de Masa Casera de Maíz (Venezuela)",
+    "published": "2026-11-06"
+  },
+  {
+    "id": 486,
+    "title": "Yakitori de Pollo y Salsa Tare a la Plancha (Japón)",
+    "country": "Japón",
+    "category": "Carnes",
+    "tags": [
+      "Japón",
+      "Yakitori",
+      "Yakimono",
+      "Salsa Tare Casera",
+      "Pollo a la Plancha",
+      "Negima",
+      "Izakaya",
+      "Brochetas Japonesas",
+      "Cenas Rápidas",
+      "Sake y Mirin"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "15 min",
+    "rest_time": "30 min (remojo de brochetas de madera en agua)",
+    "temperature": "Plancha o parrilla a fuego vivo (220 °C)",
+    "servings": "4 porciones (8 a 10 brochetas)",
+    "calories": "320 kcal por porción",
+    "diet_badges": [
+      "Clásico de Izakaya Japonés",
+      "Yakimono Tradicional a la Plancha",
+      "Salsa Tare Reducida Artesanal"
+    ],
+    "story": "El Yakitori (焼き鳥) es el emperador de las tabernas izakaya y de los puestos callejeros yatai de Japón. La versión más icónica es el 'Negima': bocados jugosos de contramuslo de pollo intercalados con tallos dulces de cebolla de verdeo japonesa (negi o puerro fino). El gran secreto de los maestros parrilleros nipones reside en la salsa 'Tare': una reducción densa y caramelizada de shoyu (soja), sake, mirin y azúcar de caña enriquecida con los propios jugos del pollo tostado. Al dorarse sobre la plancha o brasas, la brocheta se sumerge repetidamente en el tare, creando un laqueado brillante de sabor umami profundo.",
+    "ingredient_groups": [
+      {
+        "name": "Brochetas Negima de Pollo",
+        "items": [
+          "600 g de Pata y contramuslo de pollo deshuesado sin piel (cortado en dados uniformes de 2,5 cm)",
+          "3 tallos gruesos de Cebolla de verdeo / puerro fino (cortados en cilindros de 2,5 cm de largo)",
+          "8 a 10 brochetas de bambú de 15 cm (remojadas en agua fría 30 minutos antes para que no se quemen)",
+          "1 cucharada de Aceite vegetal neutro para la plancha",
+          "Sal marina fina y pimienta blanca molida"
+        ]
+      },
+      {
+        "name": "Auténtica Salsa Tare de Izakaya",
+        "items": [
+          "100 ml de Salsa de soja japonesa (shoyu de fermentación natural)",
+          "100 ml de Mirin dulce japonés",
+          "60 ml de Sake tradicional para cocinar",
+          "3 cucharadas soperas de Azúcar moreno o azúcar blanco",
+          "1 trozo de jengibre fresco de 2 cm (machacado)",
+          "1 diente de ajo aplastado",
+          "1 trocito de cebollín tostado (opcional, aporta fondo ahumado)"
+        ]
+      },
+      {
+        "name": "Condimentos para Servir",
+        "items": [
+          "1 limón cortado en gajos frescos",
+          "Shichimi Togarashi (mezcla japonesa de siete especias con chile y sésamo) para espolvorear a gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Reducción de la Salsa Tare",
+        "title": "1. Reducción de la Salsa Tare",
+        "steps": [
+          "En una cacerola pequeña colocar el sake, el mirin, la salsa de soja, el azúcar, el jengibre machacado y el ajo aplastado.",
+          "Llevar a hervor a fuego medio y luego bajar a fuego suave. Cocinar durante 10 a 12 minutos hasta que reduzca a la mitad y adquiera una consistencia melosa y brillante que napa la cuchara.",
+          "Colar la salsa en un recipiente angosto y profundo apto para sumergir o pincelar las brochetas. Reservar tibia."
+        ]
+      },
+      {
+        "name": "2. Armado de las Brochetas Negima",
+        "title": "2. Armado de las Brochetas Negima",
+        "steps": [
+          "Remojar las brochetas de bambú en agua durante 30 minutos.",
+          "Insertar alternadamente un dado de pollo, un trozo de cebolla de verdeo, otro de pollo, otro de verdeo y rematar con pollo (aprox. 3 dados de pollo y 2 de verdeo por brocheta).",
+          "Aplanar suavemente cada brocheta con la palma de la mano para que el contacto con la plancha sea completamente parejo. Salpimentar ligeramente."
+        ]
+      },
+      {
+        "name": "3. Cocción a la Plancha y Doble Glaseado Tare",
+        "title": "3. Cocción a la Plancha y Doble Glaseado Tare",
+        "steps": [
+          "Calentar una plancha de hierro fundido o sartén gruesa a fuego medio-alto y pincelar con unas gotas de aceite vegetal.",
+          "Acomodar las brochetas y dorar durante 3 a 4 minutos por lado hasta que el pollo cambie de color y el verdeo adquiera marcas tostadas.",
+          "Con un pincel de cocina, barnizar generosamente las brochetas con la salsa tare por ambos lados. Cocinar 1 minuto más; el azúcar de la salsa caramelizará al instante soltando un aroma ahumado irresistible.",
+          "Repetir un segundo pincelado con la salsa tare para sellar un brillo laqueado intenso. Retirar inmediatamente de la plancha para no quemar el azúcar.",
+          "Disponer sobre plato cerámico oscuro, acompañar con un gajo de limón fresco y espolvorear con shichimi togarashi al gusto."
+        ]
+      }
+    ],
+    "notes": "Usar preferentemente carne de contramuslo en vez de pechuga: su tenor graso mantiene la brocheta jugosa a fuego vivo. Pincelar el tare en los minutos finales para que caramelice sin quemarse.",
+    "image": "img/yakitori_pollo_tare.jpg",
+    "url": "https://recetas.mamicraft.com/yakitori-pollo-salsa-tare-plancha",
+    "original_title": "Yakitori de Pollo y Salsa Tare a la Plancha (Japón)",
+    "published": "2026-11-06"
+  },
+  {
+    "id": 487,
+    "title": "Okonomiyaki Tradicional de Osaka a la Plancha (Japón)",
+    "country": "Japón",
+    "category": "Especialidades",
+    "tags": [
+      "Japón",
+      "Okonomiyaki",
+      "Yakimono",
+      "A la Plancha",
+      "Repollo y Panceta",
+      "Katsuobushi",
+      "Mayonesa Kewpie",
+      "Comida Callejera de Osaka",
+      "Teppanyaki Casero",
+      "Comida Japonesa Tradicional"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "15 min",
+    "rest_time": "5 min",
+    "temperature": "Plancha o sartén a 190 °C (fuego medio)",
+    "servings": "2 okonomiyakis grandes",
+    "calories": "510 kcal por unidad",
+    "diet_badges": [
+      "Plato Insignia de Osaka (Kansai)",
+      "Técnica Teppanyaki a la Plancha",
+      "Rico en Vegetales y Umami"
+    ],
+    "story": "El Okonomiyaki (お好み焼き) es el alma de la cultura gastronómica de Osaka y de la región de Kansai. Su nombre se compone de 'okonomi' (lo que te guste) y 'yaki' (asado/a la plancha). A menudo denominado la 'pizza japonesa' o panqueque salado, se elabora con una masa ligera aromatizada con caldo dashi que une una montaña de repollo fresco finamente picado, huevo y jengibre beni shoga, coronada con tiras de panceta fresca de cerdo que se tuestan crujientes sobre la plancha. Al servirse se corona con una danza hipnótica de copos de bonito seco (katsuobushi), alga aonori, salsa okonomiyaki espesa y mayonesa japonesa en zig zag.",
+    "ingredient_groups": [
+      {
+        "name": "Masa de Okonomiyaki estilo Kansai",
+        "items": [
+          "150 g de Harina de trigo común 0000",
+          "160 ml de Caldo Dashi frío (o agua con 1 cucharadita de dashi en polvo instantáneo)",
+          "1 cucharadita de Polvo de hornear (para esponjosidad)",
+          "1 cucharadita de Azúcar blanco y 1/4 cucharadita de sal fina",
+          "1 trozo de Yamaimo o papa blanca muy finamente rallada (aporta la clásica untuosidad interna)"
+        ]
+      },
+      {
+        "name": "Relleno del Panqueque",
+        "items": [
+          "350 g de Repollo blanco / col fresca (cortado en dados pequeños o juliana fina de 3 mm)",
+          "2 huevos grandes frescos",
+          "2 tallos de Cebolla de verdeo (picada fina)",
+          "1 cucharada de Jengibre rojo encurtido japonés (Beni Shoga) picado fino",
+          "2 cucharadas de Copos de tempura fritos (Tenkasu) para textura crujiente",
+          "6 a 8 tiras finas de Panceta de cerdo fresca (pork belly slices sin salmuera)"
+        ]
+      },
+      {
+        "name": "Salsas y Cobertura Tradicional",
+        "items": [
+          "3 cucharadas de Salsa Okonomiyaki (o mezcla de kétchup, salsa Worcestershire, soja y miel)",
+          "2 cucharadas de Mayonesa japonesa Kewpie (con pico fino para decorar)",
+          "1 puñado de Copos de bonito seco ahumado (Katsuobushi)",
+          "1 cucharada de Alga verde seca en polvo (Aonori)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Mezcla de la Masa y los Vegetales",
+        "title": "1. Mezcla de la Masa y los Vegetales",
+        "steps": [
+          "En un bol batir la harina con el polvo de hornear, sal, azúcar, caldo dashi frío y la papa/yamaimo rallada hasta lograr una masa fluida sin grumos. Dejar reposar 10 minutos.",
+          "Para armar cada okonomiyaki individualmente (clave de la textura): en un cuenco colocar la mitad del repollo picado, la mitad de la cebolla de verdeo, el beni shoga, el tenkasu y 1 huevo entero.",
+          "Verter la mitad de la masa líquida por encima. Con una cuchara mezclar de abajo hacia arriba con movimientos de aireación durante 20 segundos. (Consejo de oro: No sobrebatir ni aplastar el repollo; debe quedar bañado pero suelto para que el calor circule)."
+        ]
+      },
+      {
+        "name": "2. Cocción a la Plancha Teppan",
+        "title": "2. Cocción a la Plancha Teppan",
+        "steps": [
+          "Calentar una plancha antiadherente o sartén gruesa a fuego medio (aprox. 180-190 °C) y engrasar ligeramente con una fina capa de aceite.",
+          "Volcar la mezcla en el centro formando un montículo circular grueso de unos 16 a 18 cm de diámetro y 2,5 cm de alto. Acomodar los bordes suavemente sin presionar hacia abajo.",
+          "Disponer 3 o 4 tiras de panceta de cerdo cruda cubriendo toda la superficie superior.",
+          "Tapar la sartén y cocinar a fuego medio durante 4 a 5 minutos hasta que la base esté firme y dorada."
+        ]
+      },
+      {
+        "name": "3. El Giro Perfecto y Decorado Final",
+        "title": "3. El Giro Perfecto y Decorado Final",
+        "steps": [
+          "Con dos espátulas metálicas, dar vuelta el okonomiyaki con un movimiento decidido de muñeca, de modo que la panceta quede en contacto con la plancha caliente.",
+          "Volver a tapar y cocinar 5 minutos más hasta que la grasa de la panceta se derrita, se ponga crocante y el vapor cocine el repollo en el centro.",
+          "Destapar, dar vuelta una última vez (panceta hacia arriba) durante 1 minuto para evaporar humedad residual.",
+          "Pincelar generosamente la superficie caliente con salsa okonomiyaki marrón. Trazar líneas cruzadas finas de mayonesa Kewpie. Espolvorear con una lluvia de alga aonori y coronar con un puñado generoso de katsuobushi (los copos bailarán con el vapor caliente). Cortar en porciones cuadradas con la espátula y servir de inmediato."
+        ]
+      }
+    ],
+    "notes": "No aplastar el okonomiyaki con la espátula durante la cocción: al dejarlo esponjoso el vapor del repollo cocina el interior de forma tierna y jugosa mientras la panceta exterior queda crocante.",
+    "image": "img/okonomiyaki_tradicional_osaka.jpg",
+    "url": "https://recetas.mamicraft.com/okonomiyaki-tradicional-osaka-plancha",
+    "original_title": "Okonomiyaki Tradicional de Osaka a la Plancha (Japón)",
+    "published": "2026-11-06"
+  },
+  {
+    "id": 488,
+    "title": "Rogan Josh Tradicional de Cordero al Fuego Lento (India)",
+    "country": "India",
+    "category": "Guisos",
+    "tags": [
+      "India",
+      "Rogan Josh",
+      "Cordero Especiado",
+      "Curry del Norte de India",
+      "Estofado Lento",
+      "Guisado Profundo",
+      "Slow Cook",
+      "Chile de Cachemira",
+      "Cocina de Cachemira",
+      "Ghee"
+    ],
+    "prep_time": "25 min",
+    "cook_time": "90 min",
+    "rest_time": "15 min (asentamiento de sabores)",
+    "temperature": "Cocción suave tapada a fuego bajo (100 °C)",
+    "servings": "4 a 6 porciones",
+    "calories": "590 kcal por porción",
+    "diet_badges": [
+      "Plato Insignia del Banquete Wazwan",
+      "Guisado Lento Aromático",
+      "Cocción Tradicional en Manteca Ghee"
+    ],
+    "story": "El Rogan Josh es la cumbre insuperable de los guisados de Cachemira y la joya central del célebre festín Wazwan de 36 platos. Su nombre evoca dos conceptos poéticos: 'rogan' (aceite o manteca clarificada brillante teñida de rojo) y 'josh' (pasión o fervor del hervor lento). A diferencia de las adaptaciones apresuradas de restaurantes comerciales, el auténtico Rogan Josh no lleva pasta de tomate comercial ni crema pesada: su color rubí profundo y su salsa sedosa provienen del Kashmiri Lal Mirch (chile dulce aromático de Cachemira), del hinojo molido (saunf), del jengibre seco (sonth) y del yogur emulsionado con paciencia en manteca ghee.",
+    "ingredient_groups": [
+      {
+        "name": "Carne de Cordero y Sellado en Ghee",
+        "items": [
+          "1 kg de Paleta o pierna de cordero con hueso (cortada en trozos medianos de 4 cm)",
+          "4 cucharadas colmadas de Manteca clarificada pura Ghee (o mezcla con aceite de mostaza)",
+          "2 hojas de Laurel indio (Tejpatta)",
+          "1 rama de Canela de Ceilán (5 cm)",
+          "4 vainas de Cardamomo negro grande (aplastadas para liberar semillas)",
+          "6 vainas de Cardamomo verde",
+          "5 clavos de olor enteros",
+          "1 pizca de Asafétida pura (Hing, para el aroma base tradicional)"
+        ]
+      },
+      {
+        "name": "Emulsión Especiada de Yogur y Cachemira",
+        "items": [
+          "200 g de Yogur natural entero sin suero (bien batido hasta quedar sedoso a temperatura ambiente)",
+          "2 cucharadas soperas de Chile de Cachemira molido (Kashmiri Mirch en polvo puro)",
+          "1 cucharada sopera de Semillas de hinojo en polvo fino (Saunf)",
+          "1 cucharadita de Jengibre seco en polvo (Sonth)",
+          "1 cucharadita de Semillas de comino tostadas molidas",
+          "1 cucharadita de Garam masala casero",
+          "1 cucharadita colmada de Sal marina fina",
+          "400 ml de Caldo de cordero suave o agua tibia"
+        ]
+      },
+      {
+        "name": "Guarnición y Presentación Imperial",
+        "items": [
+          "Bastoncitos finos de jengibre fresco pelado",
+          "Hojas de cilantro fresco recién picado",
+          "Arroz Basmati al vapor aromatizado con cardamomo y pan Naan o Roti caliente"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Tostado de Especias y Sellado del Cordero",
+        "title": "1. Tostado de Especias y Sellado del Cordero",
+        "steps": [
+          "En una cazuela de hierro fundido o handi hondo calentar la manteca ghee a fuego medio. Agregar la asafétida (hing), el laurel, la canela, los cardamomos negros y verdes, y los clavos de olor. Sofreír 40 segundos hasta que desprendan su perfume.",
+          "Añadir los trozos de cordero en tandas para no bajar la temperatura. Dorar la carne durante 8 a 10 minutos a fuego vivo, sellando todos los lados hasta que adquieran un color tostado profundo.",
+          "Disolver el chile de Cachemira molido en 3 cucharadas de agua tibia formando una pasta suave y volcarla sobre la carne, revolviendo 1 minuto para teñir el cordero de un rojo carmesí brillante."
+        ]
+      },
+      {
+        "name": "2. La Emulsión del Yogur y Especias de Cachemira",
+        "title": "2. La Emulsión del Yogur y Especias de Cachemira",
+        "steps": [
+          "Bajar el fuego al mínimo absoluto. Incorporar el yogur batido a temperatura ambiente cucharada a cucharada, revolviendo continuamente en una sola dirección con cuchara de madera.",
+          "(Consejo vital: Si el fuego está alto o el yogur está frío de heladera, la salsa se cortará. Revolver sin pausa hasta que el yogur se integre en una emulsión cremosa y homogénea).",
+          "Añadir el hinojo en polvo (saunf), el jengibre seco (sonth) y la sal. Mezclar durante 3 minutos hasta que el ghee comience a separarse en los bordes."
+        ]
+      },
+      {
+        "name": "3. Cocción Lenta Tapada y Reposo Roghan",
+        "title": "3. Cocción Lenta Tapada y Reposo Roghan",
+        "steps": [
+          "Verter el agua tibia o caldo de cordero y llevar a un hervor muy suave. Tapar la cazuela herméticamente.",
+          "Cocinar a fuego muy bajo (simmer suave) durante 60 a 75 minutos, revolviendo cada tanto, hasta que la carne de cordero esté tan tierna que se desprenda del hueso con una cuchara.",
+          "Destapar, espolvorear el garam masala y cocinar destapado 5 minutos más para concentrar los jugos. Apagar el fuego y dejar reposar 10 minutos: verás cómo la capa de manteca especiada roja rubí ('roghan') sube a la superficie creando su apariencia icónica.",
+          "Servir caliente en un cuenco handi con juliana de jengibre y cilantro fresco, acompañado de arroz basmati y roti recién hecho."
+        ]
+      }
+    ],
+    "notes": "El auténtico Kashmiri Rogan Josh obtiene su color exclusivamente del pimentón/chile de Cachemira, no del tomate. El jengibre seco (sonth) y el hinojo (saunf) son las dos especias de identidad obligatorias que definen su aroma.",
+    "image": "img/rogan_josh_cordero.jpg",
+    "url": "https://recetas.mamicraft.com/rogan-josh-tradicional-cordero-lento",
+    "original_title": "Rogan Josh Tradicional de Cordero al Fuego Lento (India)",
+    "published": "2026-11-06"
+  },
+  {
+    "id": 489,
+    "title": "Kimchi Jjigae - Estofado Picante Casero (Corea del Sur)",
+    "country": "Corea del Sur",
+    "category": "Guisos",
+    "tags": [
+      "Corea del Sur",
+      "Kimchi Jjigae",
+      "Jjigae Coreano",
+      "Estofado Picante",
+      "Panceta y Tofu",
+      "Gochujang",
+      "Slow Cook",
+      "Comfort Food Coreano",
+      "Cocina Coreana Tradicional",
+      "Gochugaru"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "30 min",
+    "rest_time": "5 min (reposo en olla ttukbaegi)",
+    "temperature": "Hervor vivo y luego fuego medio (100 °C)",
+    "servings": "3 a 4 porciones",
+    "calories": "380 kcal por porción",
+    "diet_badges": [
+      "Plato Nacional Confort de Corea",
+      "Rico en Probióticos y Umami Fermentado",
+      "Cocción en Olla de Barro Tradicional"
+    ],
+    "story": "El Kimchi Jjigae (김치찌개) es el plato reconfortante por excelencia de los hogares en Corea del Sur. La clave culinaria que todo cocinero coreano conoce es emplear 'shin kimchi': kimchi bien maduro y añejado (al menos 3 a 4 semanas de fermentación en heladera), cuyas notas ácidas y picantes se han suavizado y concentrado. Al saltearse con tiras tiernas de panceta de cerdo fresca y aceite de sésamo, la acidez del repollo fermentado se funde en un caldo escarlata profundo cargado de umami, enriquecido con bloques de tofu sedoso, cebolla de verdeo y una base de caldo de anchoas y alga kombu.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Cerdo y Kimchi Añejado",
+        "items": [
+          "350 g de Kimchi bien fermentado (ácido y maduro, picado en trozos medianos)",
+          "80 ml del jugo de kimchi del frasco (líquido fermentado concentrado)",
+          "250 g de Panceta de cerdo fresca o bondiola (samgyeopsal cortada en bocados de 1 cm)",
+          "1 cucharada de Aceite de sésamo tostado puro (para saltear)",
+          "3 dientes de Ajo rallados o picados fino",
+          "1/2 cebolla blanca mediana fileteada en pluma"
+        ]
+      },
+      {
+        "name": "Caldo y Condimentos Rojos",
+        "items": [
+          "500 ml de Caldo tradicional coreano de anchoas secas y alga kombu (o caldo de pollo/agua limpia)",
+          "1 cucharada de Gochugaru (hojuelas de chile rojo coreano)",
+          "1 cucharadita de Pasta de chile fermentada Gochujang",
+          "1 cucharada de Salsa de soja coreana para sopa (Gukganjang) o salsa de soja clara",
+          "1/2 cucharadita de Azúcar blanco (neutraliza la acidez excesiva del kimchi maduro)"
+        ]
+      },
+      {
+        "name": "Acabado y Acompañamiento",
+        "items": [
+          "200 g de Tofu firme o semisedoso (cortado en rectángulos gruesos de 1,5 cm)",
+          "2 tallos de Cebolla de verdeo / cebollín coreano (cortados en rodajas diagonales al bies)",
+          "Cuencos de arroz blanco al vapor (bap) caliente"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Salteado Aromático de Kimchi y Panceta",
+        "title": "1. Salteado Aromático de Kimchi y Panceta",
+        "steps": [
+          "En una olla tradicional de barro negro (ttukbaegi) o en una cazuela de fondo grueso calentar el aceite de sésamo a fuego medio.",
+          "Añadir la panceta de cerdo en trozos y dorar durante 3 a 4 minutos hasta que empiece a soltar su grasa natural.",
+          "Incorporar el kimchi maduro picado, la cebolla fileteada, el ajo rallado y la 1/2 cucharadita de azúcar. Saltear todo junto a fuego medio-alto durante 5 minutos; el kimchi cambiará de color volviéndose más traslúcido y caramelizado."
+        ]
+      },
+      {
+        "name": "2. Hervor del Caldo y Concentración de Sabores",
+        "title": "2. Hervor del Caldo y Concentración de Sabores",
+        "steps": [
+          "Verter el caldo de anchoas/kombu junto con el jugo concentrado de kimchi reservado.",
+          "Añadir el gochugaru, la pasta gochujang y la salsa de soja. Mezclar bien con cuchara y llevar a hervor vivo.",
+          "Una vez que rompa el hervor, tapar la olla y bajar a fuego medio-bajo. Dejar hervir suavemente durante 20 minutos para que el colágeno del cerdo se desprenda y el caldo adquiera una textura densa y un color rojo rubí profundo."
+        ]
+      },
+      {
+        "name": "3. Incorporación del Tofu y Servicio Humeante",
+        "title": "3. Incorporación del Tofu y Servicio Humeante",
+        "steps": [
+          "Destapar la olla y acomodar delicadamente los rectángulos de tofu blanco sobre la superficie del guiso, presionándolos apenas con la cuchara para que se bañen en el caldo hirviendo.",
+          "Cocinar 5 minutos más para que el tofu absorba los sabores picantes y aromáticos sin romperse.",
+          "Espolvorear con la cebolla de verdeo verde cortada al bies por encima y apagar el fuego. Servir inmediatamente con la olla aún burbujeante en el centro de la mesa, acompañada de cuencos de arroz blanco caliente y una cuchara metálica coreana (sujeo)."
+        ]
+      }
+    ],
+    "notes": "Es imprescindible usar kimchi bien maduro y ácido (shin kimchi): el kimchi recién hecho no aporta el cuerpo ni la profundidad ácida que caracteriza a este estofado. La pizca de azúcar equilibra la acidez de la fermentación.",
+    "image": "img/kimchi_jjigae_coreano.jpg",
+    "url": "https://recetas.mamicraft.com/kimchi-jjigae-estofado-picante-coreano",
+    "original_title": "Kimchi Jjigae - Estofado Picante Casero (Corea del Sur)",
+    "published": "2026-11-06"
+  },
+  {
+    "id": 490,
+    "title": "Cookies Gruesas Rellenas Estilo Crumbl (Estados Unidos)",
+    "country": "Estados Unidos",
+    "category": "Postres",
+    "tags": [
+      "Estados Unidos",
+      "Cookies Gruesas",
+      "Estilo Crumbl",
+      "Cookies Rellenas Estilo Americano",
+      "Chips de Chocolate",
+      "Galletas Caseras",
+      "Repostería Fácil",
+      "Centro Fundente",
+      "Sal Marina en Escamas"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "12 min",
+    "rest_time": "30 min (congelado de masa antes de hornear)",
+    "temperature": "200 °C (horno alto para sellar exterior)",
+    "servings": "6 a 8 cookies gigantes de panadería",
+    "calories": "460 kcal por cookie",
+    "diet_badges": [
+      "Tendencia Bakery Viral Americana",
+      "Centro Meloso y Fundente (Gooey Center)",
+      "Chocolate Semiamargo en Charcos (Puddles)"
+    ],
+    "story": "Las cookies gruesas gigantes de estilo americano —popularizadas globalmente por pastelerías de culto como Crumbl y Levain Bakery en Nueva York— rompieron con el concepto de la galleta plana y seca. Su secreto de diseño radica en dos principios: una masa fría y compacta con alto porcentaje de azúcar rubio y manteca fría en dados (que no se bate para no incorporar aire en exceso) y un horneado a alta temperatura durante pocos minutos. Esto sella una costra exterior dorada, quebradiza y crujiente, mientras el núcleo permanece tierno, espeso y con ríos de chocolate fundido al partirse al medio.",
+    "ingredient_groups": [
+      {
+        "name": "Masa de Galleta Rústica y Pesada",
+        "items": [
+          "250 g de Harina de trigo común 0000",
+          "100 g de Almidón de maíz (maicena, secreto indispensable para un interior suave y meloso)",
+          "150 g de Manteca fría cortada en cubos de 1 cm (recién salida de la heladera)",
+          "130 g de Azúcar moreno o mascabo húmedo (aporta humedad y notas a caramelo)",
+          "70 g de Azúcar blanco común",
+          "2 huevos frescos grandes fríos (1 huevo entero + 1 yema)",
+          "1 cucharadita de Polvo de hornear y 1/2 cucharadita de bicarbonato de sodio",
+          "1 cucharadita de Sal fina marina y 1 cucharadita de extracto de vainilla"
+        ]
+      },
+      {
+        "name": "Relleno y Cobertura de Chocolate",
+        "items": [
+          "250 g de Chocolate semiamargo cobertura de calidad (picado en trozos rústicos grandes de 1 cm, no chips pequeños)",
+          "100 g de Crema de chocolate con avellanas (Nutella) o ganache espesa para el centro relleno",
+          "Cristales de sal marina en escamas (Maldon o similar) para coronar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Formado de la Masa sin Batido",
+        "title": "1. Formado de la Masa sin Batido",
+        "steps": [
+          "En un bol grande colocar la harina, el almidón de maíz, el polvo de hornear, el bicarbonato y la sal fina. Mezclar con batidor de alambre.",
+          "Añadir los cubos de manteca fría junto con el azúcar moreno y el azúcar blanco. Con una espátula rígida o la punta de los dedos trabajar rápidamente hasta formar un arenado grueso donde aún se perciban trocitos de manteca del tamaño de arvejas. (Regla de oro: No cremar ni derretir la manteca).",
+          "Agregar el huevo entero, la yema y la vainilla. Integrar solo hasta que la masa se una en una masa pesada. Volcar los trozos grandes de chocolate y repartir suavemente."
+        ]
+      },
+      {
+        "name": "2. Armado de los Bollos Rellenos y Frío Extremo",
+        "title": "2. Armado de los Bollos Rellenos y Frío Extremo",
+        "steps": [
+          "Dividir la masa en 6 u 8 porciones gigantes de unos 120 a 140 gramos cada una.",
+          "Tomar una porción, aplastarla ligeramente en la mano, colocar en el centro una cucharada colmada de crema de chocolate/ganache y cerrar la masa envolviéndola formando una bola rústica y alta (más alta que ancha, con textura rugosa arriba).",
+          "Acomodar los bollos sobre una bandeja con papel manteca y llevar al freezer/congelador durante 30 a 45 minutos obligatorios. (Consejo de oro: Hornear la masa congelada es lo que evita que se aplane y garantiza que el centro quede fundente)."
+        ]
+      },
+      {
+        "name": "3. Horneado a Alta Temperatura y Reposo",
+        "title": "3. Horneado a Alta Temperatura y Reposo",
+        "steps": [
+          "Precalentar el horno a 200 °C con calor arriba y abajo.",
+          "Disponer los bollos congelados bien separados entre sí (máximo 4 o 5 por placa) sobre papel manteca.",
+          "Hornear a 200 °C durante exactamente 11 a 13 minutos. La superficie debe verse dorada y crujiente, pero al tacto suave en el centro.",
+          "Retirar del horno e inmediatamente espolvorear unos cristales de sal marina en escamas sobre el chocolate derretido.",
+          "Dejar reposar sobre la placa caliente durante 10 minutos para que la base se afirme y transferir a una rejilla. Servir tibia: al abrirla al medio se revela una cascada cremosa de chocolate fundido."
+        ]
+      }
+    ],
+    "notes": "Hornear la masa bien fría o congelada a alta temperatura (200 °C) es el secreto maestro para que la cookie no se expanda y conserve su icónico centro espeso, suave y fundente.",
+    "image": "img/cookies_rellenas_estilo_crumbl.jpg",
+    "url": "https://recetas.mamicraft.com/cookies-gruesas-rellenas-estilo-crumbl",
+    "original_title": "Cookies Gruesas Rellenas Estilo Crumbl (Estados Unidos)",
+    "published": "2026-11-06"
   }
 ]

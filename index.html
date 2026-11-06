@@ -1743,6 +1743,7 @@
       <div class="quick-chips-row" id="quickChipsBar">
         <span class="chip-label">Colecciones:</span>
         <button class="chip active" onclick="setQuickTag('all')">✨ Todas <span class="chip-count" id="totalCountChip"></span></button>
+        <button class="chip" onclick="setQuickTag('Autor')">👨‍🍳 De Autor</button>
         <button class="chip" onclick="setQuickTag('Burgers')">🍔 Burgers & Sándwiches</button>
         <button class="chip" onclick="setQuickTag('Ramen')">🍜 Ramen</button>
         <button class="chip" onclick="setQuickTag('Cocktails & Tragos')">🍸 Cocktails</button>
@@ -2389,6 +2390,7 @@
     function updateChips() {
       document.querySelectorAll('.chip').forEach(c => {
         const isAll = currentQuickTag === 'all' && c.textContent.includes('Todas');
+        const isAutor = currentQuickTag === 'Autor' && c.textContent.includes('Autor');
         const isBurgers = (currentQuickTag === 'Burgers' || currentQuickTag === 'Burgers & Sándwiches') && (c.textContent.includes('Burger') || c.textContent.includes('Sándwich'));
         const isRamen = currentQuickTag === 'Ramen' && c.textContent.trim().startsWith('🍜 Ramen');
         const isCocktail = currentQuickTag === 'Cocktails & Tragos' && c.textContent.includes('Cocktails');
@@ -2396,7 +2398,7 @@
         const isPollo = currentQuickTag === 'Pollo / Aves' && c.textContent.includes('Aves');
         const isPostre = currentQuickTag === 'Postres y Dulces' && c.textContent.includes('Postres');
         const isMatch = c.textContent.includes(currentQuickTag);
-        c.classList.toggle('active', isAll || isBurgers || isRamen || isCocktail || isSopa || isPollo || isPostre || (currentQuickTag !== 'all' && isMatch));
+        c.classList.toggle('active', isAll || isAutor || isBurgers || isRamen || isCocktail || isSopa || isPollo || isPostre || (currentQuickTag !== 'all' && isMatch));
       });
     }
 
@@ -2455,7 +2457,12 @@
         if (selectedDiet !== 'all' && !diets.includes(selectedDiet)) return false;
 
         if (currentQuickTag !== 'all') {
-          if (currentQuickTag === 'Ramen') {
+          if (currentQuickTag === 'Autor') {
+            const isAutor = (r.tags || []).some(t => String(t).toLowerCase().includes('autor')) ||
+                            (r.country || '').toLowerCase().includes('autor') ||
+                            [11, 16, 22, 61, 65, 87, 112, 129, 185, 202, 211, 223, 227, 228, 240, 252, 346, 389, 393, 454].includes(r.id);
+            if (!isAutor) return false;
+          } else if (currentQuickTag === 'Ramen') {
             const titleLower = (r.title || '').toLowerCase();
             const tagsLower = (r.tags || []).map(t => String(t).toLowerCase());
             const isRamen = titleLower.includes('ramen') ||
