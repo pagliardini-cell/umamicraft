@@ -37826,5 +37826,91 @@
     "url": "https://recetas.mamicraft.com/cerdo-salteado-lechuga-wok",
     "original_title": "Cerdo Salteado con Lechuga al Wok (China)",
     "published": "2026-11-06"
+  },
+  {
+    "id": 493,
+    "title": "Bistecca alla Fiorentina (Italia)",
+    "country": "Italia",
+    "category": "Carnes",
+    "tags": [
+      "Italia",
+      "Bistecca alla Fiorentina",
+      "T-Bone Toscano",
+      "Parrilla y Brasa",
+      "Al Sangue",
+      "Tagliata",
+      "Cocina Toscana",
+      "Romero y Aceite de Oliva",
+      "Carnes Rojas",
+      "Chianina"
+    ],
+    "prep_time": "10 min",
+    "cook_time": "15 min",
+    "rest_time": "4 horas (atemperado obligatorio de la carne)",
+    "temperature": "Brasas muy vivas de carbón o leña",
+    "servings": "3 a 4 personas",
+    "calories": "520 kcal por porción",
+    "diet_badges": [
+      "Patrimonio Gastronómico de la Toscana",
+      "Cocción al Fuego de Leña / Brasas",
+      "Punto Canónico Al Sangue"
+    ],
+    "story": "La Bistecca alla Fiorentina es el templo y el estandarte culinario indiscutido de Florencia y de toda la Toscana. Consiste en un corte monumental de lomo y bife de chorizo unidos por su característico hueso en T (T-Bone / Porterhouse), con un grosor canónico de 'tres o cuatro dedos' (mínimo 4 a 5 cm y entre 1,2 y 1,5 kg). Asada a fuego vivo sobre brasas aromáticas de encina o sarmientos, la bistecca se sirve en la mesa cortada en finas láminas ('tagliata') manteniendo su corazón rojo, tierno y sumamente jugoso ('al sangue'), sazonada únicamente con sal marina en escamas, pimienta recién molida, romero fresco y el mejor aceite de oliva virgen extra toscano crudo.",
+    "ingredient_groups": [
+      {
+        "name": "Corte Monumental y Aromáticos",
+        "items": [
+          "1 pieza de Bistecca con hueso en T (T-Bone toscano de 1,2 a 1,5 kg y 4 a 5 cm de grosor)",
+          "3 a 4 ramas de Romero fresco silvestre (ligeramente machacadas para liberar aceites)",
+          "Sal marina gruesa en escamas (tipo sal toscana o sal Maldon)",
+          "Pimienta negra entera de molinillo grueso recién molida",
+          "4 cucharadas de Aceite de oliva virgen extra toscano de primera prensada en frío",
+          "Brasas bien formadas de carbón vegetal duro o leña de encina"
+        ]
+      },
+      {
+        "name": "Maridaje Tradicional",
+        "items": [
+          "Pan toscano sin sal de corteza crujiente (Pane Sciocco)",
+          "Vino tinto italiano con cuerpo (Chianti Classico DOCG o Brunello di Montalcino)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. El Atemperado Obligatorio (Paso Crucial)",
+        "title": "1. El Atemperado Obligatorio (Paso Crucial)",
+        "steps": [
+          "Retirar la pieza de bistecca de la heladera entre 3 y 4 horas antes de cocinarla. (Regla de oro toscana: Si la carne entra fría al fuego, el centro quedará helado y duro mientras el exterior se quema; debe alcanzar temperatura ambiente en todo su espesor).",
+          "Secar exhaustivamente toda la superficie de la carne con papel absorbente por ambas caras para eliminar cualquier rastro de humedad superficial y garantizar un sellado crujiente al contacto con el fuego.",
+          "No añadir sal, aceite ni condimentos antes de ir a las brasas."
+        ]
+      },
+      {
+        "name": "2. Los Tres Movimientos en la Brasa",
+        "title": "2. Los Tres Movimientos en la Brasa",
+        "steps": [
+          "Preparar brasas muy vivas, de color blanco-grisáceo uniforme y sin llama abierta. Colocar la parrilla a unos 8 a 10 cm del calor.",
+          "Primer movimiento: apoyar la bistecca y cocinar durante exactamente 5 minutos sin moverla ni tocarla, sellando una costra caramelizada y oscura con marcadas líneas de parrilla.",
+          "Segundo movimiento: dar vuelta la carne usando pinzas (jamás pincharla con tenedor para no perder los jugos). Cocinar la otra cara durante 4 a 5 minutos más.",
+          "Tercer movimiento (el secreto florentino): parar la bistecca verticalmente sobre la base plana del hueso en T durante 5 a 6 minutos. El hueso actúa como un conductor térmico vertical que calienta el corazón de la carne sin sobrecocinarla, manteniendo el punto 'al sangue' perfecto."
+        ]
+      },
+      {
+        "name": "3. Reposo, Corte en Tagliata y Emplatado",
+        "title": "3. Reposo, Corte en Tagliata y Emplatado",
+        "steps": [
+          "Retirar la carne y dejarla reposar durante 4 a 5 minutos sobre una tabla de madera tibia antes del corte. Este breve reposo estabiliza la presión interna y redistribuye los jugos.",
+          "Con un cuchillo afilado de hoja lisa, separar limpiamente los dos bloques de carne (el lomo y el solomillo) del hueso en T.",
+          "Cortar ambos bloques transversalmente en lonchas gruesas de 1 cm (estilo tagliata).",
+          "Recomponer la bistecca en la tabla redonda de madera junto al hueso. Coronar con las ramas de romero fresco, espolvorear generosamente con sal marina en escamas y pimienta negra molida, y rociar con un abundante hilo de aceite de oliva virgen extra toscano crudo. Servir de inmediato con una copa de Chianti."
+        ]
+      }
+    ],
+    "notes": "El punto auténtico es estrictamente 'al sangue': la carne debe estar caliente y tierna como manteca en su interior, pero de color rojo vivo. Nunca se condimenta antes del fuego; la salazón y el aceite toscano en crudo se aplican inmediatamente después de rebanar en la tabla.",
+    "image": "img/bistecca_alla_fiorentina.jpg",
+    "url": "https://recetas.mamicraft.com/bistecca-alla-fiorentina",
+    "original_title": "Bistecca alla Fiorentina (Italia)",
+    "published": "2026-11-06"
   }
 ]
