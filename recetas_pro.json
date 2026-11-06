@@ -37922,5 +37922,98 @@
     "url": "https://recetas.mamicraft.com/bistecca-alla-fiorentina",
     "original_title": "Bistecca alla Fiorentina (Italia)",
     "published": "2026-11-06"
+  },
+  {
+    "id": 494,
+    "title": "Spaghetti alla Carbonara (Italia)",
+    "country": "Italia",
+    "category": "Pastas",
+    "tags": [
+      "Italia",
+      "Spaghetti alla Carbonara",
+      "Carbonara",
+      "Pasta Romana",
+      "Guanciale",
+      "Pecorino Romano",
+      "Pastas",
+      "Carbocrema",
+      "Cenas Rápidas",
+      "Cocina Italiana",
+      "Sin Crema de Leche"
+    ],
+    "prep_time": "10 min",
+    "cook_time": "15 min",
+    "rest_time": "2 min (emulsión fuera del fuego)",
+    "temperature": "Cocción de pasta al dente y emulsión a 65 °C",
+    "servings": "4 porciones",
+    "calories": "580 kcal por porción",
+    "diet_badges": [
+      "Patrimonio Gastronómico Romano",
+      "Emulsión Auténtica Fuera del Fuego",
+      "100% Sin Crema de Leche (Senza Panna)"
+    ],
+    "story": "La Carbonara es uno de los cuatro grandes pilares sagrados de la cocina de los pastores de Roma (junto a la Gricia, la Amatriciana y el Cacio e Pepe). Su maestría absoluta radica en la pureza de sus ingredientes y en una técnica de física culinaria: la emulsión fuera del fuego. La auténtica tradición romana prohíbe terminantemente el uso de crema de leche, manteca, ajo o cebolla. Toda su cremosidad aterciopelada y untuosa proviene exclusivamente de la unión entre las yemas frescas de huevo, el queso Pecorino Romano rallado finísimo, la grasa caliente fundida del guanciale tostado y el agua de cocción de la pasta rica en almidón, coronada con pimienta negra recién machacada.",
+    "ingredient_groups": [
+      {
+        "name": "Pasta y Guanciale Crujiente",
+        "items": [
+          "400 g de Spaghetti de sémola de trigo duro (preferentemente trefilados al bronce para absorber la salsa)",
+          "180 g de Guanciale de cerdo curado de calidad (cortado en bastones de 1 cm de grosor por 2 cm de largo)",
+          "Sal gruesa para el agua de la pasta (usar con moderación, ya que el guanciale y el pecorino aportan buena sazón)"
+        ]
+      },
+      {
+        "name": "La Crema de Yemas y Queso (Il Carbocrema)",
+        "items": [
+          "4 yemas de huevos de campo frescos grandes + 1 huevo entero fresco (balance óptimo de densidad y ligereza)",
+          "100 g de Queso Pecorino Romano DOP rallado muy fino (o mezcla de 80 g de Pecorino y 20 g de Parmigiano Reggiano)",
+          "2 cucharaditas colmadas de Pimienta negra en grano entera (tostada en sartén seca y machacada gruesa en mortero)",
+          "1 cucharón de Agua de cocción de la pasta hirviendo con abundante almidón (para la emulsión)"
+        ]
+      },
+      {
+        "name": "Acabado y Servicio",
+        "items": [
+          "Pecorino Romano extra recién rallado para espolvorear en la mesa",
+          "Pimienta negra recién molida al gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Tostado de la Pimienta y Dorado del Guanciale",
+        "title": "1. Tostado de la Pimienta y Dorado del Guanciale",
+        "steps": [
+          "En una sartén amplia sin aceite, tostar los granos de pimienta negra machacados a fuego medio durante 1 minuto hasta que desprendan sus aceites esenciales aromáticos.",
+          "Añadir los bastones de guanciale a la sartén. Cocinar a fuego medio-bajo durante 7 a 8 minutos sin apurar: la grasa blanca debe derretirse y volverse translúcida, dejando los dados de carne dorados y crujientes por fuera y tiernos por dentro.",
+          "Retirar los trozos de guanciale con una espumadera y reservarlos en un plato. Apagar el fuego y reservar la sartén con la grasa líquida caliente aromática."
+        ]
+      },
+      {
+        "name": "2. Cocción de la Pasta y Batido del Carbocrema",
+        "title": "2. Cocción de la Pasta y Batido del Carbocrema",
+        "steps": [
+          "Poner a hervir abundante agua en una olla grande con una pizca moderada de sal gruesa. Agregar los spaghetti y cocinar hasta dejarlos 2 minutos antes del punto 'al dente' de paquete.",
+          "En un bol amplio batir enérgicamente con tenedor las 4 yemas, el huevo entero, la mayor parte del Pecorino Romano rallado y la mitad de la pimienta negra tostada hasta formar una pasta amarilla densa y homogénea ('carbocrema').",
+          "Añadir al bol 2 cucharadas soperas de la grasa líquida tibia del guanciale, batiendo continuamente para atemperar el huevo y comenzar a crear la emulsión cremosa."
+        ]
+      },
+      {
+        "name": "3. La Emulsión Fuera del Fuego y Mantecatura",
+        "title": "3. La Emulsión Fuera del Fuego y Mantecatura",
+        "steps": [
+          "Con pinzas de cocina, transferir los spaghetti directamente de la olla a la sartén con el resto de la grasa del guanciale a fuego medio, añadiendo medio cucharón de agua de cocción hirviendo. Saltear 1 minuto revolviendo vigorosamente para que el almidón cree una base lechosa.",
+          "PASO CRUCIAL: RETIRAR LA SARTÉN POR COMPLETO DEL FUEGO. Dejar reposar 30 segundos fuera del calor para que la temperatura baje a unos 65-70 °C (si está demasiado caliente, el huevo se coagulará formando un revuelto seco).",
+          "Volcar de golpe la mezcla de yemas y queso sobre la pasta caliente, junto con dos tercios del guanciale crujiente. Mover la sartén enérgicamente en círculos y mezclar con las pinzas: el calor residual fundirá el queso y emulsionará las yemas con el agua de almidón en una crema aterciopelada y brillante que napa cada spaghetti.",
+          "(Consejo: Si notas que la salsa está muy espesa, agregar 1 o 2 cucharadas más de agua de cocción caliente para lograr la fluidez justa).",
+          "Servir de inmediato en platos hondos calientes, coronar con el resto del guanciale crujiente, una lluvia de Pecorino Romano recién rallado y una pasada final de pimienta negra machacada."
+        ]
+      }
+    ],
+    "notes": "La regla sagrada de Roma: jamás agregar crema de leche, ajo ni cebolla. La cremosidad se logra exclusivamente por la emulsión fuera del fuego entre las yemas, el pecorino y el agua con almidón de la pasta a 65 °C.",
+    "image": "img/spaghetti_alla_carbonara.jpg",
+    "url": "https://recetas.mamicraft.com/spaghetti-alla-carbonara",
+    "original_title": "Spaghetti alla Carbonara (Italia)",
+    "published": "2026-11-06"
   }
 ]
