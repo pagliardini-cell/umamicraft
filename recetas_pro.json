@@ -36135,7 +36135,7 @@
   },
   {
     "id": 476,
-    "title": "Auténtica Milanesa Suiza Rellena (Cordon Bleu Tradicional con 50 g de Queso y 40 g de Jamón)",
+    "title": "Auténtica Milanesa Suiza Rellena (Cordon Bleu Tradicional)",
     "country": "Suiza",
     "category": "Carnes",
     "tags": [
@@ -36160,10 +36160,10 @@
       "Comida Confort",
       "Alta Técnica de Relleno"
     ],
-    "story": "Nacida en el cantón suizo de Valais (en la ciudad de Brig) en la primera mitad del siglo XX, la auténtica milanesa suiza —popularizada mundialmente bajo la denominación Cordon Bleu— representa una lección magistral de equilibrio cárnico y quesero. A diferencia de la versión uruguaya gratinada por encima con bechamel, la tradición helvética sella el relleno herméticamente en el corazón de la carne. Como destaca la célebre reseña gastronómica de TN, el secreto del éxito radica en una precisión matemática innegociable: exactamente 50 gramos de queso suizo de óptimo fundido (Gruyère o Raclette artesanal) y 40 gramos de jamón cocido seleccionado por cada bife fino. Esta proporción exacta evita que el queso explote o rompa el empanado durante la cocción, logrando una coraza exterior hipercrocante y un interior volcánico, suave y sedoso que fluye elegantemente al corte diagonal.",
+    "story": "Nacida en el cantón suizo de Valais (en la ciudad de Brig) en la primera mitad del siglo XX, la auténtica milanesa suiza —popularizada mundialmente bajo la denominación Cordon Bleu— representa una lección magistral de equilibrio cárnico y quesero. A diferencia de la versión uruguaya gratinada por encima con bechamel, la tradición helvética sella el relleno herméticamente en el corazón de la carne con una combinación armónica de queso suizo de óptimo fundido (Gruyère o Raclette artesanal) y jamón cocido seleccionado por cada bife fino. Esta técnica evita que el queso se escape o rompa el empanado durante la cocción, logrando una coraza exterior hipercrocante y un interior suave, fundente y sedoso al primer corte.",
     "ingredient_groups": [
       {
-        "name": "Base de Carne y Relleno Matemático (Por Porción)",
+        "name": "Carne y Relleno",
         "items": [
           "4 unidades (aprox. 150 g c/u) de Bifes de ternera tierna (nalga, lomo o peceto) o suprema de pollo (Cortes muy finos, estirados y emparejados a maza)",
           "200 g en total (exactos 50 g por milanesa) de Queso suizo fundente (Gruyère, Raclette o Emmental) (Fetas regulares o bastón grueso que funda parejo)",
@@ -36217,10 +36217,10 @@
         "name": "3. Fritura Perfecta a Fuego Medio y Emplatado"
       }
     ],
-    "notes": "La regla matemática de oro: Menos de 50 g de queso deja la milanesa seca; más de 50 g desborda y rompe el rebozado en la sartén. Con 40 g de jamón se logra el balance salino y graso exacto. Diferencia con la versión de bodegón uruguaya: En Uruguay la Milanesa a la Suiza se gratina por encima con salsa bechamel cremosa y quesos al horno. En Suiza, el Cordon Bleu es una milanesa herméticamente rellena en su interior. Maridaje sugerido: Cerveza artesanal rubia fresca o un vino blanco seco tipo Fendant suizo o Sauvignon Blanc.",
+    "notes": "Proporción ideal de relleno: con 50 g de queso y 40 g de jamón por porción se logra la cremosidad exacta sin desbordar la milanesa en la sartén. Acompañar tradicionalmente con rösti o papas doradas y limón.",
     "image": "img/milanesa_a_la_suiza_rellena.jpg",
     "url": "https://tn.com.ar/cocina/recetas/2026/07/09/suiza-le-da-una-leccion-a-la-argentina-la-mejor-milanesa-lleva-50-g-de-queso-y-40-g-de-jamon/",
-    "original_title": "Auténtica Milanesa Suiza Rellena (Cordon Bleu)",
+    "original_title": "Auténtica Milanesa Suiza Rellena (Cordon Bleu Tradicional)",
     "published": "2026-11-05"
   }
 ]
