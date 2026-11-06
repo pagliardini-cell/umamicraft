@@ -37616,5 +37616,119 @@
     "url": "https://recetas.mamicraft.com/cookies-gruesas-rellenas-estilo-crumbl",
     "original_title": "Cookies Gruesas Rellenas Estilo Crumbl (Estados Unidos)",
     "published": "2026-11-06"
+  },
+  {
+    "id": 491,
+    "title": "Niku Dango - Albóndigas Japonesas de Cerdo (Japón)",
+    "country": "Japón",
+    "category": "Carnes",
+    "tags": [
+      "Japón",
+      "Niku Dango",
+      "Niku Dango Recipe",
+      "Nikudango",
+      "Albóndigas Japonesas",
+      "Cerdo Picado",
+      "Salsa Agridulce",
+      "Salsa Tare",
+      "Izakaya",
+      "Bento",
+      "Fritura Crujiente",
+      "Katakuriko",
+      "Comida Japonesa"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "20 min",
+    "rest_time": "10 min",
+    "temperature": "170 °C (fritura dorada a fuego medio)",
+    "servings": "3 a 4 porciones (20 a 24 albóndigas)",
+    "calories": "390 kcal por porción",
+    "diet_badges": [
+      "Clásico de Bento e Izakaya",
+      "Doble Opción de Glaseado Tradicional",
+      "Textura Jugosa y Coraza Dorada"
+    ],
+    "story": "El Niku Dango (肉団子) es uno de los platos más populares y queridos de la cocina casera y de las tabernas izakaya de Japón, así como un elemento infaltable en las viandas bento escolares. A diferencia de las albóndigas occidentales cocidas directamente en salsa de tomate, las niku dango se amasan con jengibre fresco rallado, sake y fécula para desarrollar una textura elástica y jugosa ('mochi-mochi'). Primero se fríen suavemente para crear una corteza externa crocante que sella todos los jugos internos, y luego se bañan en una sartén caliente con dos glaseados emblemáticos: una salsa agridulce traslúcida (Amazu-an) o un tare dulce de soja, mirin y fondo dashi concentrado.",
+    "ingredient_groups": [
+      {
+        "name": "Albóndigas de Cerdo Jugosas",
+        "items": [
+          "500 g de Carne picada de cerdo fresca (con 20% de grasa para máxima jugosidad)",
+          "1 cebolla mediana picada muy finamente",
+          "1 trozo de jengibre fresco de 3 cm (rallado fino con su jugo)",
+          "1 cucharada sopera de Sake japonés de cocina",
+          "1 huevo fresco mediano",
+          "2 cucharadas soperas de Fécula de maíz o fécula de papa (Katakuriko)",
+          "1 cucharadita de Sal marina fina y pimienta blanca molida al gusto",
+          "Abundante aceite vegetal neutro (girasol o maíz) para freír"
+        ]
+      },
+      {
+        "name": "Opción 1: Salsa Agridulce Traslúcida (Amazu-an)",
+        "items": [
+          "2 cucharadas soperas de Salsa de soja japonesa (shoyu)",
+          "2 cucharadas soperas de Mirin dulce japonés",
+          "2 cucharadas soperas de Sake",
+          "2 cucharadas soperas de Vinagre de arroz japonés",
+          "2 cucharadas soperas de Azúcar blanco",
+          "1 cucharada sopera de Fécula de maíz disuelta en 3 cucharadas de agua fría (ligue)"
+        ]
+      },
+      {
+        "name": "Opción 2: Salsa Tare Dulce de Soja y Dashi",
+        "items": [
+          "2 cucharadas soperas de Salsa de soja",
+          "2 cucharadas soperas de Mirin dulce",
+          "2 cucharadas soperas de Sake",
+          "1 cucharada sopera de Azúcar",
+          "3 cucharadas soperas de Caldo Dashi casero",
+          "1 cucharada de Fécula de maíz disuelta en 2 cucharadas de agua fría"
+        ]
+      },
+      {
+        "name": "Guarnición y Emplatado",
+        "items": [
+          "Parte blanca de la cebolla de verdeo cortada en hilos finísimos 'shiraga negi'",
+          "1 cucharada de Semillas de sésamo blanco tostado",
+          "Cuencos de arroz gohan al vapor recién hecho"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Amasado y Boleado de la Masa",
+        "title": "1. Amasado y Boleado de la Masa",
+        "steps": [
+          "En un bol amplio colocar la carne picada de cerdo, la cebolla picada fina, el jengibre rallado con sus jugos, el sake, el huevo, la sal, la pimienta y la fécula de maíz.",
+          "Amasar con las manos enérgicamente en círculos durante 3 a 4 minutos hasta que la mezcla cambie de color a un tono más pálido y se vuelva pegajosa y elástica. (Consejo de oro: Desarrollar la proteína de la carne amasando bien es el secreto japonés para que queden tiernas y no se desarmen).",
+          "Humedecerse las palmas de las manos con agua para que la carne no se adhiera y formar pequeñas bolitas parejas de unos 3,5 cm de diámetro (saldrán unas 20 a 24 albóndigas). Acomodarlas sobre una bandeja."
+        ]
+      },
+      {
+        "name": "2. Fritura Dorada y Crujiente",
+        "title": "2. Fritura Dorada y Crujiente",
+        "steps": [
+          "Calentar abundante aceite en una sartén profunda o wok a 170 °C (fuego medio).",
+          "Introducir las albóndigas en tandas de 8 a 10 unidades para no enfriar el aceite.",
+          "Freír durante 4 a 5 minutos, haciéndolas rodar suavemente con palillos o espumadera para que se doren de forma pareja. Estarán listas cuando adquieran un color dorado tostado profundo y floten en la superficie.",
+          "Retirar y escurrir sobre papel absorbente o rejilla metálica."
+        ]
+      },
+      {
+        "name": "3. Glaseado con Salsa y Servicio",
+        "title": "3. Glaseado con Salsa y Servicio",
+        "steps": [
+          "En una sartén limpia o wok agregar los ingredientes líquidos de la salsa elegida (la opción agridulce Amazu-an o la opción Tare con dashi). Llevar a hervor suave.",
+          "Remover la fécula disuelta en agua y verterla en la sartén hirviendo, batiendo continuamente con cuchara de madera durante 30 segundos hasta que espese y se vuelva una salsa traslúcida y brillante.",
+          "Volcar de inmediato las albóndigas fritas calientes en la salsa y saltear a fuego vivo durante 1 minuto haciendo movimientos envolventes para que queden completamente laqueadas y brillantes.",
+          "Servir inmediatamente en un plato cerámico japonés, coronar con hilos de puerro blanco shiraga negi y una lluvia de sésamo tostado, acompañando con arroz al vapor."
+        ]
+      }
+    ],
+    "notes": "Amasar la carne hasta lograr una textura casi de pasta elástica garantiza albóndigas jugosas que no pierden su humedad al freír. La doble opción de salsa permite elegir entre el perfil agridulce cantonés-japonés (amazu) o el perfil umami clásico de teriyaki/izakaya.",
+    "image": "img/niku_dango_albondigas_cerdo.jpg",
+    "url": "https://recetas.mamicraft.com/niku-dango-albondigas-japonesas-cerdo",
+    "original_title": "Niku Dango - Albóndigas Japonesas de Cerdo (Japón)",
+    "published": "2026-11-06"
   }
 ]
