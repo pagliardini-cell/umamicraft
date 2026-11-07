@@ -39136,7 +39136,7 @@
       "Vegetariano",
       "Clásico de Cafetería Porteña"
     ],
-    "story": "El submarino es una de las instituciones más tiernas y entrañables de la cafetería argentina, símbolo absoluto de las meriendas de invierno y de las charlas en los Cafés Notables de Buenos Aires. Su nombre responde a una metáfora gráfica e ingeniosa: la tableta alargada de chocolate para taza (tradicionalmente chocolate Águila) se 'sumerge' en el fondo de un vaso alto de leche hirviendo como si fuera un submarino adentrándose en el océano blanco, disolviéndose al compás de la cuchara larga de metal hasta teñir la leche de un marrón espeso y reconfortante.",
+    "story": "El submarino es una de las instituciones más entrañables de la cafetería argentina y uruguaya, emblema de las tardes frías y de las charlas en los Cafés Notables de Buenos Aires. Su nombre responde a un ritual visual: la barrita alargada de chocolate para taza se sumerge verticalmente dentro del vaso de leche casi hirviendo, reposando en el fondo como un submarino antes de fundirse al compás de la cuchara larga hasta teñir la leche de un marrón espeso y perfumado.",
     "ingredient_groups": [
       {
         "name": "Componentes del Submarino",
@@ -39185,5 +39185,248 @@
     "url": "",
     "original_title": "Submarino",
     "published": "2026-11-07T02:00:00-03:00"
+  },
+  {
+    "id": 508,
+    "title": "Chocolate a la Taza (España)",
+    "country": "España",
+    "category": "Cocktails & Tragos",
+    "tags": [
+      "España",
+      "Madrid",
+      "Chocolate",
+      "Chocolate con Churros",
+      "Bebidas",
+      "Sin Alcohol",
+      "Churrería",
+      "Merienda",
+      "Desayuno",
+      "Invierno"
+    ],
+    "prep_time": "5 min",
+    "cook_time": "10 min",
+    "rest_time": "0 min",
+    "temperature": "85 °C (espeso, muy caliente y humeante)",
+    "servings": "4 tazas generosas",
+    "calories": "310 kcal por taza",
+    "diet_badges": [
+      "Sin Alcohol",
+      "Vegetariano",
+      "Repostería Clásica"
+    ],
+    "story": "El chocolate a la taza es uno de los legados gastronómicos más celebrados de España, refinado a partir de la llegada del cacao del Nuevo Mundo en el siglo XVI y popularizado en las chocolaterías y churrerías de Madrid como San Ginés. A diferencia del cacao soluble ligero anglosajón, el chocolate a la taza español es denso, untuoso, oscuro y aterciopelado, con una consistencia espesa pensada específicamente para que los churros o porras recién fritos se sumerjan y queden impregnados de chocolate.",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes del Chocolate",
+        "items": [
+          "200 g de chocolate negro de cobertura (mínimo 60% o 70% de cacao)",
+          "800 ml de leche entera de vaca fresca",
+          "15 g (1 cucharada sopera) de almidón de maíz (maicena)",
+          "2 cucharadas de azúcar (al gusto según el amargor del chocolate)",
+          "1 pizca pequeña de canela molida o sal marina (opcional, para realzar el cacao)"
+        ]
+      },
+      {
+        "name": "Servicio",
+        "items": [
+          "Tazas de loza blanca o cerámica gruesa que retengan el calor",
+          "Churros o porras recién hechos para acompañar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Disolución de la Maicena",
+        "title": "1. Disolución de la Maicena",
+        "steps": [
+          "Separar medio vaso de la leche fría y disolver completamente la cucharada de almidón de maíz sin que queden grumos; reservar."
+        ]
+      },
+      {
+        "name": "2. Fundido del Chocolate",
+        "title": "2. Fundido del Chocolate",
+        "steps": [
+          "Picar el chocolate en trozos pequeños parejos.",
+          "En una cacerola mediana a fuego medio-bajo, calentar el resto de la leche junto con el azúcar y la pizca de sal o canela.",
+          "Cuando la leche esté bien caliente (sin llegar a hervir), incorporar el chocolate picado y revolver con batidor de alambre hasta que se funda por completo y se integre de manera homogénea."
+        ]
+      },
+      {
+        "name": "3. Espesado y Emplatado",
+        "title": "3. Espesado y Emplatado",
+        "steps": [
+          "Verter la leche con la maicena disuelta en forma de hilo continuo dentro de la cacerola, sin dejar de revolver.",
+          "Cocinar a fuego suave sin parar de batir durante 3 a 5 minutos, hasta que rompa un hervor suave y espese alcanzando una consistencia cremosa, densa y brillante como terciopelo.",
+          "Retirar de inmediato y servir humeante en tazas gruesas junto a los churros."
+        ]
+      }
+    ],
+    "notes": "Al enfriarse continuará espesando; si se desea más líquido se puede aligerar con un chorrito de leche caliente, o agregar 5 gramos más de maicena si se prefiere una densidad ultra espesa.",
+    "image": "img/chocolate_a_la_taza.jpg",
+    "url": "",
+    "original_title": "Chocolate a la Taza",
+    "published": "2026-11-07T02:15:00-03:00"
+  },
+  {
+    "id": 509,
+    "title": "Champurrado (México)",
+    "country": "México",
+    "category": "Cocktails & Tragos",
+    "tags": [
+      "México",
+      "Champurrado",
+      "Atole",
+      "Chocolate",
+      "Maíz",
+      "Bebidas",
+      "Sin Alcohol",
+      "Masa Nixtamalizada",
+      "Piloncillo",
+      "Canela"
+    ],
+    "prep_time": "10 min",
+    "cook_time": "20 min",
+    "rest_time": "0 min",
+    "temperature": "80 °C (caliente y reconfortante)",
+    "servings": "4 a 6 porciones",
+    "calories": "260 kcal por jarrito",
+    "diet_badges": [
+      "Sin Gluten",
+      "Sin Alcohol",
+      "Bebida Prehispánica"
+    ],
+    "story": "El champurrado es la bebida de chocolate más sagrada y antigua de México, una evolución del atole prehispánico que los pueblos originarios mesoamericanos elaboraban a base de masa de maíz nixtamalizado y agua. Con la introducción de la caña de azúcar (piloncillo) y la canela en la época virreinal, el atole de chocolate tomó su forma definitiva: una bebida reconfortante, de cuerpo espeso y textura sedosa que aromatiza las mañanas y noches frías de todo México, tradicionalmente servida en jarritos de barro cocido acompañando tamales o churros.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Maíz y Chocolate",
+        "items": [
+          "150 g de masa fresca de maíz nixtamalizado (o 100 g de harina de maíz tipo Maseca disuelta en agua tibia)",
+          "1 litro de leche entera (o mezcla de 500 ml de agua y 500 ml de leche)",
+          "2 tabletas (unos 180 g) de chocolate de mesa mexicano (estilo Abuelita o chocolate de metate artesanal de Oaxaca)",
+          "1 cono de piloncillo oscuro (unos 100 g) o azúcar mascabado",
+          "1 rama gruesa de canela de Ceilán",
+          "1 pizca pequeña de sal"
+        ]
+      },
+      {
+        "name": "Servicio Tradicional",
+        "items": [
+          "Jarritos de barro tradicionales mexicanos o tazas rústicas de cerámica"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Infusión de Canela y Piloncillo",
+        "title": "1. Infusión de Canela y Piloncillo",
+        "steps": [
+          "En una olla de barro o cacerola grande, poner a calentar medio litro de agua con la rama de canela y el piloncillo a fuego medio durante 8 a 10 minutos, hasta que el piloncillo se disuelva completamente formando una miel ligera aromática.",
+          "Agregar las tabletas de chocolate de mesa cortadas en trozos y revolver hasta que se fundan totalmente en el líquido caliente."
+        ]
+      },
+      {
+        "name": "2. Disolución de la Masa",
+        "title": "2. Disolución de la Masa",
+        "steps": [
+          "En un bol o vaso de licuadora, licuar o desmenuzar la masa fresca de maíz con los 500 ml restantes de leche o agua tibia hasta que quede un líquido completamente fino y sin grumos.",
+          "Colar la mezcla de masa a través de un colador de malla fina directamente sobre la olla con el chocolate caliente."
+        ]
+      },
+      {
+        "name": "3. Espesado Lento al Estilo Tradicional",
+        "title": "3. Espesado Lento al Estilo Tradicional",
+        "steps": [
+          "Cocinar a fuego bajo removiendo constantemente en círculos con una cuchara de madera o molinillo artesanal durante 12 a 15 minutos, cuidando que la masa no se asiente en el fondo ni se queme.",
+          "Cuando el champurrado tome cuerpo, adquiera una textura aterciopelada y espese cubriendo el dorso de la cuchara, retirar la rama de canela.",
+          "Batir vigorosamente unos segundos con molinillo de madera para levantar una ligera espuma y servir de inmediato en jarritos de barro bien calientes."
+        ]
+      }
+    ],
+    "notes": "Remover continuamente durante la cocción es el único secreto para evitar que la masa de maíz se pegue al fondo de la olla.",
+    "image": "img/champurrado.jpg",
+    "url": "",
+    "original_title": "Champurrado",
+    "published": "2026-11-07T02:15:00-03:00"
+  },
+  {
+    "id": 510,
+    "title": "Bicerin (Italia)",
+    "country": "Italia",
+    "category": "Cocktails & Tragos",
+    "tags": [
+      "Italia",
+      "Turín",
+      "Bicerin",
+      "Cafetería",
+      "Chocolate",
+      "Café",
+      "Espresso",
+      "Bebidas",
+      "Sin Alcohol",
+      "Piamonte",
+      "Histórico"
+    ],
+    "prep_time": "10 min",
+    "cook_time": "5 min",
+    "rest_time": "0 min",
+    "temperature": "Contraste de capas (chocolate caliente en la base y crema fría arriba)",
+    "servings": "1 copa de degustación",
+    "calories": "290 kcal",
+    "diet_badges": [
+      "Sin Gluten",
+      "Sin Alcohol",
+      "Patrimonio Culinario Italiano"
+    ],
+    "story": "Nacido en el siglo XVIII en el mítico Caffè Al Bicerin de la plaza della Consolata en Turín (inaugurado en 1763), el Bicerin es una de las mayores joyas de la confitería piamontesa, admirado por personajes como Camillo Cavour, Alejandro Dumas y Ernest Hemingway. Su magia reside en tres capas perfectas y contrastadas que se sirven en una copa de vidrio redondeada sin pie: en la base un denso chocolate negro fundido caliente, en el centro un espresso italiano recién extraído, y en la cúspide una densa capa de crema de leche fría ligeramente batida. El ritual exige beberlo sin revolver, permitiendo que el café y el chocolate caliente se filtren a través de la crema fría en cada sorbo.",
+    "ingredient_groups": [
+      {
+        "name": "Las Tres Capas Clásicas",
+        "items": [
+          "50 ml de chocolate negro espeso artesanal caliente (preparado con chocolate 70% fundido con leche)",
+          "50 ml de café espresso italiano recién hecho, concentrado y bien caliente",
+          "40 ml de crema de leche fresca líquida bien fría",
+          "1 cucharadita de azúcar (opcional, para la crema o el café)"
+        ]
+      },
+      {
+        "name": "Servicio Tradicional",
+        "items": [
+          "Vaso o copa pequeña de vidrio transparente resistente al calor (bicerin)",
+          "Platito de metal o loza con cucharita"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Preparación de la Crema y la Base de Chocolate",
+        "title": "1. Preparación de la Crema y la Base de Chocolate",
+        "steps": [
+          "En un bol frío, batir la crema de leche fresca unos segundos con batidor de mano hasta que tome cuerpo semimontado (debe quedar untuosa y densa pero aún fluida, no crema chantilly dura).",
+          "En una cacerolita fundir el chocolate negro con un chorrito de leche hasta obtener una salsa de chocolate caliente densa y untuosa.",
+          "Verter el chocolate caliente en la base del vaso de vidrio transparente llenando el primer tercio."
+        ]
+      },
+      {
+        "name": "2. Incorporación del Espresso en Capa",
+        "title": "2. Incorporación del Espresso en Capa",
+        "steps": [
+          "Extraer el espresso recién hecho bien caliente.",
+          "Colocar una cuchara de bar invertida rozando la superficie del chocolate y verter el espresso lentamente sobre el dorso de la cuchara para que repose sobre el chocolate sin mezclarse del todo."
+        ]
+      },
+      {
+        "name": "3. Corona de Crema Fría y Servicio",
+        "title": "3. Corona de Crema Fría y Servicio",
+        "steps": [
+          "Con la misma técnica de la cuchara invertida, deslizar suavemente la crema semimontada fría sobre el café hasta coronar el vaso.",
+          "Servir de inmediato para disfrutar del contraste térmico y visual de las tres capas. Recordar no mezclar con la cuchara al beber."
+        ]
+      }
+    ],
+    "notes": "La regla de oro de Turín: no usar cuchara para mezclar las capas; se bebe directamente del vaso para que la calidez del chocolate y el café se filtre a través del frescor de la crema.",
+    "image": "img/bicerin.jpg",
+    "url": "",
+    "original_title": "Bicerin",
+    "published": "2026-11-07T02:15:00-03:00"
   }
 ]
