@@ -5362,8 +5362,11 @@
     "id": 82,
     "title": "Licuado de Banana a la Pimienta de Jamaica (Caribe)",
     "country": "Caribe",
-    "category": "Postres y Dulces",
+    "category": "Cocktails & Tragos",
     "tags": [
+      "Cocktails & Tragos",
+      "Bebidas",
+      "Licuados",
       "Banana",
       "Leche",
       "Postre",
@@ -6056,8 +6059,11 @@
     "id": 93,
     "title": "Beer Float (Estados Unidos)",
     "country": "Estados Unidos",
-    "category": "Postres y Dulces",
+    "category": "Cocktails & Tragos",
     "tags": [
+      "Cocktails & Tragos",
+      "Tragos",
+      "Bebidas",
       "Cerveza",
       "EEUU",
       "Helado",
@@ -9774,12 +9780,13 @@
     "id": 148,
     "title": "New York Egg Cream (Estados Unidos)",
     "country": "Estados Unidos",
-    "category": "Postres y Dulces",
+    "category": "Cocktails & Tragos",
     "tags": [
+      "Cocktails & Tragos",
       "Bebidas",
+      "Soda",
       "Chocolate",
       "Dulces",
-      "Soda",
       "Nueva York",
       "Brooklyn"
     ],
@@ -19182,7 +19189,8 @@
     ],
     "notes": "El secreto de la textura reside en la mayonesa Kewpie (que usa solo yemas de huevo y glutamato natural) y el pan Shokupan cortado sin corteza.",
     "image": "img/tamago_sando.jpg",
-    "url": "https://umamicraft.vercel.app/?receta=tamago-sando-sandwich-japones-de-huevo-japon"
+    "url": "https://umamicraft.vercel.app/?receta=tamago-sando-sandwich-japones-de-huevo-japon",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 281,
@@ -19252,7 +19260,8 @@
     ],
     "notes": "Si se le agrega un huevo frito a caballo encima del gratinado, se convierte automáticamente en el célebre 'Croque Madame'.",
     "image": "img/croque_monsieur.jpg",
-    "url": "https://umamicraft.vercel.app/?receta=croque-monsieur-tradicional-gratinado-francia"
+    "url": "https://umamicraft.vercel.app/?receta=croque-monsieur-tradicional-gratinado-francia",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 282,
@@ -19320,7 +19329,8 @@
     ],
     "notes": "El cuero del cerdo ('crosta' o chicharrón crocante) es imprescindible: aporta el quiebre sonoro y textura inconfundible del auténtico panino romano.",
     "image": "img/panino_porchetta.jpg",
-    "url": "https://umamicraft.vercel.app/?receta=panino-con-porchetta-y-salsa-verde-italia"
+    "url": "https://umamicraft.vercel.app/?receta=panino-con-porchetta-y-salsa-verde-italia",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 283,
@@ -19391,7 +19401,8 @@
     ],
     "notes": "El secreto del Reuben es secar exhaustivamente el chucrut: cualquier exceso de humedad arruina el tostado crocante de la manteca sobre el centeno.",
     "image": "img/reuben_sandwich.jpg",
-    "url": "https://umamicraft.vercel.app/?receta=reuben-sandwich-con-pastrami-y-chucrut-estados-unidos"
+    "url": "https://umamicraft.vercel.app/?receta=reuben-sandwich-con-pastrami-y-chucrut-estados-unidos",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 284,
@@ -19464,7 +19475,8 @@
     ],
     "notes": "Tostar suavemente el polvo de curry antes de mezclarlo con la mayonesa elimina el sabor a especia cruda y aporta una profundidad aromática exquisita.",
     "image": "img/coronation_chicken.jpg",
-    "url": "https://umamicraft.vercel.app/?receta=coronation-chicken-sandwich-tradicional-reino-unido"
+    "url": "https://umamicraft.vercel.app/?receta=coronation-chicken-sandwich-tradicional-reino-unido",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 285,
@@ -19543,7 +19555,8 @@
     ],
     "notes": "Secar los calamares antes de enharinarlos y no pasarse de los 2 minutos de fritura garantiza que queden mantequilla por dentro y no gomosos.",
     "image": "img/bocadillo_calamares.jpg",
-    "url": "https://umamicraft.vercel.app/?receta=bocadillo-de-calamares-con-alioli-casero-espana"
+    "url": "https://umamicraft.vercel.app/?receta=bocadillo-de-calamares-con-alioli-casero-espana",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 286,
@@ -19622,7 +19635,8 @@
     ],
     "notes": "El birote salado de Jalisco tiene fermentación de masa madre especial que soporta el caldo hirviendo sin ablandarse en exceso.",
     "image": "img/torta_ahogada.jpg",
-    "url": "https://umamicraft.vercel.app/?receta=torta-ahogada-con-carnitas-de-cerdo-mexico"
+    "url": "https://umamicraft.vercel.app/?receta=torta-ahogada-con-carnitas-de-cerdo-mexico",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 287,
@@ -19700,7 +19714,8 @@
     ],
     "notes": "El zumaque (sumac) aporta una acidez afrutada sin humedecer la cebolla, cortando a la perfección la riqueza grasa natural de la caballa.",
     "image": "img/balik_ekmek.jpg",
-    "url": "https://umamicraft.vercel.app/?receta=balik-ekmek-sandwich-turco-de-pescado-a-la-plancha-turquia"
+    "url": "https://umamicraft.vercel.app/?receta=balik-ekmek-sandwich-turco-de-pescado-a-la-plancha-turquia",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 288,
@@ -19778,7 +19793,8 @@
     ],
     "notes": "La salsa debe servirse hirviendo: es la que funde de manera definitiva las capas de queso y unifica los jugos de las cuatro carnes.",
     "image": "img/francesinha.jpg",
-    "url": "https://umamicraft.vercel.app/?receta=francesinha-tradicional-con-salsa-de-cerveza-portugal"
+    "url": "https://umamicraft.vercel.app/?receta=francesinha-tradicional-con-salsa-de-cerveza-portugal",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 289,
@@ -19858,7 +19874,8 @@
     ],
     "notes": "Cortar el vacío en diagonal a contramano de la fibra muscular es la clave para que cada bocado se corte sin esfuerzo dentro del pan.",
     "image": "img/sandwich_vacio.jpg",
-    "url": "https://umamicraft.vercel.app/?receta=sandwich-de-vacio-a-la-parrilla-con-chimichurri-argentina"
+    "url": "https://umamicraft.vercel.app/?receta=sandwich-de-vacio-a-la-parrilla-con-chimichurri-argentina",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 290,
@@ -19925,7 +19942,8 @@
     ],
     "notes": "El corte de carne debe ser lomo vacuno muy fino golpeado con mazo: se cocina en menos de dos minutos y se funde en la boca junto al queso.",
     "image": "img/chivito_uruguayo.jpg",
-    "url": "https://umamicraft.vercel.app/?receta=chivito-uruguayo-completo-al-pan-uruguay"
+    "url": "https://umamicraft.vercel.app/?receta=chivito-uruguayo-completo-al-pan-uruguay",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 291,
@@ -19992,7 +20010,8 @@
     ],
     "notes": "El arenque Bismarck marinado en vinagre suave y laurel aporta un balance salino y ácido inconfundible que no requiere ninguna cocción.",
     "image": "img/fischbrotchen.jpg",
-    "url": "https://umamicraft.vercel.app/?receta=fischbrotchen-con-arenque-marinado-y-cebolla-alemania"
+    "url": "https://umamicraft.vercel.app/?receta=fischbrotchen-con-arenque-marinado-y-cebolla-alemania",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 292,
@@ -20084,7 +20103,8 @@
     ],
     "notes": "El chutney seco de ajo tostado y coco rallado frito es la firma aromática inconfundible que diferencia al auténtico Vada Pav callejero de Mumbai.",
     "image": "img/vada_pav.jpg",
-    "url": "https://umamicraft.vercel.app/?receta=vada-pav-sandwich-callejero-de-croqueta-de-papa-india"
+    "url": "https://umamicraft.vercel.app/?receta=vada-pav-sandwich-callejero-de-croqueta-de-papa-india",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 293,
@@ -20191,7 +20211,8 @@
     ],
     "notes": "El secreto para que el kebab quede firme sin necesidad de agregar pan rallado ni huevo está en el amasado continuo durante 5 minutos y el reposo en frío. Si lo cocinas a la parrilla de carbón, puedes ensartarlos en pinchos planos de acero.",
     "image": "img/sandwich_kebab.jpg",
-    "url": "https://umamicraft.vercel.app/receta/sandwich-de-kebab-a-la-parrilla-con-cebollas-al-sumac-y-salsa-de-ajo-medio-oriente"
+    "url": "https://umamicraft.vercel.app/receta/sandwich-de-kebab-a-la-parrilla-con-cebollas-al-sumac-y-salsa-de-ajo-medio-oriente",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 294,
@@ -20270,7 +20291,8 @@
     ],
     "notes": "Hervir el cerdo primero garantiza que la carne quede mantecosa y deshebra fácil, mientras que freírlo en su propia grasa al final le da el crocante perfecto.",
     "image": "img/sanguche_chicharron.jpg",
-    "url": "https://umamicraft.vercel.app/?receta=sanguche-de-chicharron-con-camote-frito-y-salsa-criolla-peru"
+    "url": "https://umamicraft.vercel.app/?receta=sanguche-de-chicharron-con-camote-frito-y-salsa-criolla-peru",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 295,
@@ -20347,7 +20369,8 @@
     ],
     "notes": "Los 5 orificios son el secreto patentado por White Castle en 1954: actúan como chimeneas térmicas que cocinan la hamburguesa en tiempo récord sin perder terneza.",
     "image": "img/slider_white_castle.jpg",
-    "url": "https://umamicraft.vercel.app/?receta=slider-estilo-white-castle-al-vapor-con-cebolla-estados-unidos"
+    "url": "https://umamicraft.vercel.app/?receta=slider-estilo-white-castle-al-vapor-con-cebolla-estados-unidos",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 296,
@@ -20420,7 +20443,8 @@
     ],
     "notes": "Cortar la cebolla con mandolina ultra delgada es indispensable: solo así se integra físicamente a la carne al aplastarla y se carameliza en menos de dos minutos.",
     "image": "img/oklahoma_onion_smash.jpg",
-    "url": "https://umamicraft.vercel.app/?receta=oklahoma-onion-smash-burger-con-cebolla-a-la-plancha-estados-unidos"
+    "url": "https://umamicraft.vercel.app/?receta=oklahoma-onion-smash-burger-con-cebolla-a-la-plancha-estados-unidos",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 297,
@@ -20500,7 +20524,8 @@
     ],
     "notes": "Usar papel manteca entre la espátula y la carne cruda permite aplastar con máxima fuerza sin que la carne se adhiera a la herramienta.",
     "image": "img/doble_smash_cheeseburger.jpg",
-    "url": "https://umamicraft.vercel.app/?receta=doble-smash-cheeseburger-clasica-con-costra-crocante-estados-unidos"
+    "url": "https://umamicraft.vercel.app/?receta=doble-smash-cheeseburger-clasica-con-costra-crocante-estados-unidos",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 298,
@@ -20576,7 +20601,8 @@
     ],
     "notes": "En los diners tradicionales de Wisconsin se sirve un trozo de manteca fresca directamente sobre el pan caliente justo antes de servir, de modo que se derrita frente a los ojos del comensal.",
     "image": "img/wisconsin_butter_burger.jpg",
-    "url": "https://umamicraft.vercel.app/?receta=wisconsin-butter-burger-con-cebolla-y-queso-cheddar-estados-unidos"
+    "url": "https://umamicraft.vercel.app/?receta=wisconsin-butter-burger-con-cebolla-y-queso-cheddar-estados-unidos",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 299,
@@ -20655,7 +20681,8 @@
     ],
     "notes": "Cocinarlo a fuego medio-bajo es fundamental: permite que el pan de centeno se tueste despacio en la manteca sin quemarse mientras los tres pisos de queso se funden por completo.",
     "image": "img/patty_melt.jpg",
-    "url": "https://umamicraft.vercel.app/?receta=patty-melt-tradicional-en-pan-de-centeno-y-queso-suizo-estados-unidos"
+    "url": "https://umamicraft.vercel.app/?receta=patty-melt-tradicional-en-pan-de-centeno-y-queso-suizo-estados-unidos",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 300,
@@ -20751,7 +20778,8 @@
     ],
     "notes": "Para versión en Air Fryer: Precalienta a 190°C, rocía generosamente las piezas rebozadas con aceite en spray y cocina durante 22-25 minutos volteando a mitad de tiempo. En horno convencional: Hornea sobre rejilla a 200°C por 35-40 minutos.",
     "image": "img/pollo_frito_kfc_11_especias.jpg",
-    "url": "https://umamicraft.vercel.app/receta/pollo-frito-estilo-kentucky-kfc-con-11-hierbas-y-especias-estados-unidos"
+    "url": "https://umamicraft.vercel.app/receta/pollo-frito-estilo-kentucky-kfc-con-11-hierbas-y-especias-estados-unidos",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 301,
@@ -20837,7 +20865,8 @@
     ],
     "notes": "No dejes hervir la salsa a fuego alto porque el cottage puede desuerarse; caliéntala suavemente al mínimo aprovechando el calor residual de la pasta recién cocida.",
     "image": "img/pasta_salsa_cremosa_cottage.jpg",
-    "url": "https://umamicraft.vercel.app/receta/pasta-con-salsa-cremosa-de-queso-cottage-y-albahaca-italia"
+    "url": "https://umamicraft.vercel.app/receta/pasta-con-salsa-cremosa-de-queso-cottage-y-albahaca-italia",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 302,
@@ -20921,7 +20950,8 @@
     ],
     "notes": "El secreto está en el pan: un pan de miga aireada y corteza dura de masa madre evita que la humedad del cottage ablande la base antes de disfrutarlo.",
     "image": "img/tostada_cottage_palta_huevo.jpg",
-    "url": "https://umamicraft.vercel.app/receta/tostada-de-masa-madre-con-queso-cottage-palta-y-huevo-australia"
+    "url": "https://umamicraft.vercel.app/receta/tostada-de-masa-madre-con-queso-cottage-palta-y-huevo-australia",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 303,
@@ -21004,7 +21034,8 @@
     ],
     "notes": "Cocínalos a fuego medio-bajo; al tener proteínas de huevo y cottage, necesitan cocinarse con suavidad para que el centro quede cocido y esponjoso sin quemar la superficie dorada.",
     "image": "img/panqueques_cottage_avena.jpg",
-    "url": "https://umamicraft.vercel.app/receta/panqueques-esponjosos-de-cottage-y-avena-estados-unidos"
+    "url": "https://umamicraft.vercel.app/receta/panqueques-esponjosos-de-cottage-y-avena-estados-unidos",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 304,
@@ -21111,8 +21142,9 @@
     "title": "Sake Casero Tradicional — Licor de Arroz Japonés (Japón)",
     "original_title": "Sake Casero Tradicional — Nihonshu (Japón)",
     "country": "Japón",
-    "category": "Cocktails & Bebidas",
+    "category": "Cocktails & Tragos",
     "tags": [
+      "Cocktails & Tragos",
       "Japón",
       "Sake",
       "Nihonshu",
@@ -28694,7 +28726,8 @@
       "Vierte el primer chorro de agua hirviendo en forma de hilo continuo batiendo al mismo tiempo para atemperar el huevo y evitar que se formen grumos cocidos."
     ],
     "notes": "El secreto definitivo para convertir un ramen instantáneo de despensa en una sopa rica y cremosa digna de un local tokiota.",
-    "url": "https://umamicraft.vercel.app/receta/ramen-instantaneo-cremoso-con-mayonesa-japonesa-y-huevo-japon"
+    "url": "https://umamicraft.vercel.app/receta/ramen-instantaneo-cremoso-con-mayonesa-japonesa-y-huevo-japon",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 387,
@@ -28779,7 +28812,8 @@
       "No mezcles todo el queso al principio: come los fideos arrastrando un poco de queso fundido para disfrutar el contraste entre el lácteo cremoso y la sopa ardiente de chile."
     ],
     "notes": "La versión reina de las noches de invierno y resacas en Seúl: picante, crujiente, ahumado y reconfortante.",
-    "url": "https://umamicraft.vercel.app/receta/shin-ramyun-gourmet-con-panceta-y-queso-corea-del-sur"
+    "url": "https://umamicraft.vercel.app/receta/shin-ramyun-gourmet-con-panceta-y-queso-corea-del-sur",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 388,
@@ -28870,7 +28904,8 @@
       "El toque de maíz dulce aporta un chasquido tierno y dulzón que corta maravillosamente la riqueza de la manteca avellanada."
     ],
     "notes": "Una explosión aromática de taberna japonesa hecha con ingredientes cotidianos en menos de 10 minutos.",
-    "url": "https://umamicraft.vercel.app/receta/ramen-instantaneo-al-ajo-tostado-y-manteca-japon"
+    "url": "https://umamicraft.vercel.app/receta/ramen-instantaneo-al-ajo-tostado-y-manteca-japon",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 389,
@@ -32223,7 +32258,8 @@
       }
     ],
     "notes": "El gran secreto jujeño es hervir la papa entera con piel, pelarla recién al enfriar y cortarla en cubitos chicos para que no se desarme en el relleno. Nunca cocines de más la carne; el calor residual del enfriado y la cocción final la dejarán tiernísima.",
-    "original_title": "Empanadas Jujeñas de Carne y Papa con Llajua (Argentina)"
+    "original_title": "Empanadas Jujeñas de Carne y Papa con Llajua (Argentina)",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 426,
@@ -32299,7 +32335,8 @@
       }
     ],
     "notes": "En Tucumán se dice que la empanada debe comerse con las piernas abiertas para no mancharse con el jugo torrencial que desprende al primer bocado. Servir con gajos de limón fresco para exprimir por dentro.",
-    "original_title": "Empanadas Tucumanas Tradicionales de Matambre (Argentina)"
+    "original_title": "Empanadas Tucumanas Tradicionales de Matambre (Argentina)",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 427,
@@ -32368,7 +32405,8 @@
       }
     ],
     "notes": "Las pasas deben hidratarse previamente para que queden carnosas y liberen su dulzura en cada bocado sin absorber los jugos del sofrito.",
-    "original_title": "Empanadas Catamarqueñas Agridulces (Argentina)"
+    "original_title": "Empanadas Catamarqueñas Agridulces (Argentina)",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 428,
@@ -32436,7 +32474,8 @@
       }
     ],
     "notes": "Para lograr la auténtica textura riojana, la papa debe estar firme y agregarse fuera del fuego para que no se haga puré con el movimiento de la cuchara.",
-    "original_title": "Empanadas Riojanas Criollas Jugosas (Argentina)"
+    "original_title": "Empanadas Riojanas Criollas Jugosas (Argentina)",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 429,
@@ -32504,7 +32543,8 @@
       }
     ],
     "notes": "El almidón de mandioca en la masa le otorga un dorado crocante y una textura quebradiza superior al freírla en grasa bien caliente.",
-    "original_title": "Empanadas Formoseñas de Charqui y Ají (Argentina)"
+    "original_title": "Empanadas Formoseñas de Charqui y Ají (Argentina)",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 430,
@@ -32576,7 +32616,8 @@
       }
     ],
     "notes": "El pacú es considerado el 'lechoncito de río' por su grasa noble que hace que la empanada sea extremadamente jugosa. En las zonas del interior chaqueño también es muy popular la variante de carne vacuna a cuchillo con cebolla y una pizca de azúcar.",
-    "original_title": "Empanadas Chaqueñas (Argentina)"
+    "original_title": "Empanadas Chaqueñas (Argentina)",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 431,
@@ -32643,7 +32684,8 @@
       }
     ],
     "notes": "Esta masa no contiene gluten naturalmente gracias a la nobleza de la mandioca. Debe freírse en aceite bien caliente para que la costra exterior quede crocante y no absorba grasa.",
-    "original_title": "Empanadas Correntinas con Masa de Mandioca (Argentina)"
+    "original_title": "Empanadas Correntinas con Masa de Mandioca (Argentina)",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 432,
@@ -32710,7 +32752,8 @@
       }
     ],
     "notes": "El lomo de surubí es ideal por su textura compacta y suave tenor graso, lo que garantiza una empanada de pescado sumamente jugosa.",
-    "original_title": "Empanadas Misioneras de Surubí y Masa de Mandioca (Argentina)"
+    "original_title": "Empanadas Misioneras de Surubí y Masa de Mandioca (Argentina)",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 433,
@@ -32781,7 +32824,8 @@
       }
     ],
     "notes": "El repollo debe quedar bien pochado y tierno en manteca para que no largue agua durante el horneado. El aroma de la masa leudada recién horneada es inconfundible.",
-    "original_title": "Pirok Entrerriano (Argentina)"
+    "original_title": "Pirok Entrerriano (Argentina)",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 434,
@@ -32847,7 +32891,8 @@
       }
     ],
     "notes": "El toque de jugo de limón en la sartén equilibra los sabores de la grasa del pescado de río y aporta un aroma sumamente fresco.",
-    "original_title": "Empanadas Santafesinas de Pescado de Río (Argentina)"
+    "original_title": "Empanadas Santafesinas de Pescado de Río (Argentina)",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 435,
@@ -32914,7 +32959,8 @@
       }
     ],
     "notes": "El secreto bonaerense es la cebolla rehogada a fuego lento hasta quedar dulce y caramelizada, que se amalgama con la grasa para una jugosidad insuperable.",
-    "original_title": "Empanadas Criollas Bonaerenses al Horno o Fritas (Argentina)"
+    "original_title": "Empanadas Criollas Bonaerenses al Horno o Fritas (Argentina)",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 436,
@@ -32976,7 +33022,8 @@
       }
     ],
     "notes": "Para que no revienten en el horno, asegurate de expulsar bien el aire al cerrar y hornearlas a temperatura alta para que la masa dore antes de que el queso hierva en exceso.",
-    "original_title": "Empanadas Porteñas de Jamón Cocido y Muzzarella (Argentina)"
+    "original_title": "Empanadas Porteñas de Jamón Cocido y Muzzarella (Argentina)",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 437,
@@ -33041,7 +33088,8 @@
       }
     ],
     "notes": "El azúcar en caliente carameliza sutilmente sobre la masa crocante frita en grasa de vaca, logrando el sabor característico de las fiestas gauchas pampeanas.",
-    "original_title": "Empanadas Pampeanas con Azúcar (Argentina)"
+    "original_title": "Empanadas Pampeanas con Azúcar (Argentina)",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 438,
@@ -33130,7 +33178,8 @@
       }
     ],
     "notes": "El uso de grasa de cerdo en la masa y en el sofrito es el rasgo distintivo que separa a la empanada puntana de cualquier otra de la región cuyana. Rallar el huevo duro en vez de picarlo permite que se integre homogéneamente en cada bocado sin tapar la carne.",
-    "original_title": "Empanadas Puntanas Tradicionales Fritas (Argentina)"
+    "original_title": "Empanadas Puntanas Tradicionales Fritas (Argentina)",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 439,
@@ -33197,7 +33246,8 @@
       }
     ],
     "notes": "El alcohol del vino blanco se evapora por completo en la cocción, dejando una masa crujiente, liviana y sutilmente perfumada que no se ablanda con el jugo.",
-    "original_title": "Empanadas Sanjuaninas con Masa al Vino Blanco (Argentina)"
+    "original_title": "Empanadas Sanjuaninas con Masa al Vino Blanco (Argentina)",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 440,
@@ -33263,7 +33313,8 @@
       }
     ],
     "notes": "Una empanada mendocina clásica siempre se acompaña con una copa de buen vino Malbec o Cabernet de la cordillera.",
-    "original_title": "Empanadas Mendocinas de Carne y Mucha Cebolla (Argentina)"
+    "original_title": "Empanadas Mendocinas de Carne y Mucha Cebolla (Argentina)",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 441,
@@ -33327,7 +33378,8 @@
       }
     ],
     "notes": "El merkén aporta un ahumado profundo y un picor gentil que complementa a la perfección la riqueza grasa del cordero patagónico.",
-    "original_title": "Empanadas Neuquinas de Cordero al Merkén Patagónico (Argentina)"
+    "original_title": "Empanadas Neuquinas de Cordero al Merkén Patagónico (Argentina)",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 442,
@@ -33411,7 +33463,8 @@
       }
     ],
     "notes": "El tomillo alimonado y la menta fresca cortan la intensidad grasa del capón patagónico aportando una frescura herbal inigualable, mientras que el caracú derretido garantiza que la empanada sea un estallido de jugo en cada bocado.",
-    "original_title": "Empanadas Rionegrinas Oficiales de Capón y Tomillo Alimonado - Receta \"Franca\" (Argentina)"
+    "original_title": "Empanadas Rionegrinas Oficiales de Capón y Tomillo Alimonado - Receta \"Franca\" (Argentina)",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 443,
@@ -33473,7 +33526,8 @@
       }
     ],
     "notes": "Los mariscos patagónicos exigen cocción corta para mantener su textura jugosa y dulzor marino característico.",
-    "original_title": "Empanadas Chubutenses de Vieiras y Mariscos del Golfo (Argentina)"
+    "original_title": "Empanadas Chubutenses de Vieiras y Mariscos del Golfo (Argentina)",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 444,
@@ -33538,7 +33592,8 @@
       }
     ],
     "notes": "Los hongos de pino patagónicos le otorgan una nota amaderada y profunda que realza el carácter del cordero santacruceño.",
-    "original_title": "Empanadas Santacruceñas de Cordero Braseado al Romero (Argentina)"
+    "original_title": "Empanadas Santacruceñas de Cordero Braseado al Romero (Argentina)",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 445,
@@ -33602,7 +33657,8 @@
       }
     ],
     "notes": "La centolla es sumamente delicada: no necesita cocción prolongada, solo un salteado suave en manteca para que mantenga toda su humedad y sabor a mar puro del fin del mundo.",
-    "original_title": "Empanadas Fueguinas de Centolla del Canal Beagle (Argentina)"
+    "original_title": "Empanadas Fueguinas de Centolla del Canal Beagle (Argentina)",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 446,
@@ -33671,7 +33727,8 @@
       }
     ],
     "notes": "El contraste térmico entre el puré tibio y la manteca cortada en cubos helada es el secreto de la emulsión perfecta: si la manteca está tibia o derretida, el puré se separará en grasa líquida en lugar de quedar como una crema aterciopelada.",
-    "original_title": "Puré de Papas Perfecto de Heston Blumenthal (Inglaterra)"
+    "original_title": "Puré de Papas Perfecto de Heston Blumenthal (Inglaterra)",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 447,
@@ -33754,7 +33811,8 @@
       }
     ],
     "notes": "Nunca dejes hervir el caldo con las cortezas a más de 90 °C: a temperatura controlada el queso libera sus aminoácidos sin que la grasa se separe, creando un fondo brillante y perfumado.",
-    "original_title": "Risotto Cacio e Pepe al Estilo Heston Blumenthal (Inglaterra / Italia)"
+    "original_title": "Risotto Cacio e Pepe al Estilo Heston Blumenthal (Inglaterra / Italia)",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 448,
@@ -33836,7 +33894,8 @@
       }
     ],
     "notes": "La regla de oro de Blumenthal: nunca mezcles la carne con el aderezo con anticipación; el ácido de la mostaza y los encurtidos comenzaría a 'cocinar' químicamente la carne y cambiaría su textura sedosa.",
-    "original_title": "Steak Tartare Clásico de Autor al Estilo Heston Blumenthal (Inglaterra / Francia)"
+    "original_title": "Steak Tartare Clásico de Autor al Estilo Heston Blumenthal (Inglaterra / Francia)",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 449,
@@ -33929,7 +33988,8 @@
       }
     ],
     "notes": "Tener tres salsas con perfiles bien diferenciados (una cremosa tradicional, una agridulce cítrica picante y una aromática de ajo) convierte un plato simple de mariscos en una experiencia interactiva y gourmet.",
-    "original_title": "Langostinos con Tres Salsas para Dipear - Prawns Trio Dips (Australia)"
+    "original_title": "Langostinos con Tres Salsas para Dipear - Prawns Trio Dips (Australia)",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 450,
@@ -34002,7 +34062,8 @@
       }
     ],
     "notes": "¿Por qué NO se hace al vapor? En la gastronomía china existen dos tipos de masas de primavera: 1) Chūnbǐng (春饼): masa amasada con harina y agua caliente, estirada en discos finos aceitados y cocida al vapor en torre dentro de vaporeras de bambú; son crepes suaves, flexibles y húmedas destinadas a consumirse directamente frescas envolviendo pato Pekín. 2) Chūnjuǎn Pí (春卷皮): láminas líquidas secadas a la plancha o sartén tibia; no reciben humedad de vapor para asegurar que la masa quede deshidratada y, al sumergirse en el aceite hirviendo, reviente en micro-ampollas crujientes sin absorber grasa ni quedar chiclosa.",
-    "original_title": "Masa Casera para Arrolladitos Primavera - Spring Roll Wrappers (China)"
+    "original_title": "Masa Casera para Arrolladitos Primavera - Spring Roll Wrappers (China)",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 451,
@@ -34100,7 +34161,8 @@
       }
     ],
     "notes": "La técnica de hidratar el cerdo con la infusión de anís y pimienta de Sichuan mediante batido en un solo sentido es el secreto milenario para que el relleno quede tierno, jugoso y con caldo interno sin necesidad de exceso de grasa.",
-    "original_title": "Empanadas Chinas a la Sartén - Guotie (China)"
+    "original_title": "Empanadas Chinas a la Sartén - Guotie (China)",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 452,
@@ -34187,7 +34249,8 @@
       }
     ],
     "notes": "El método de dos zonas de calor y el estirado exclusivo con aceite de oliva son las claves del chef Bob Blumer para lograr una masa con burbujas aireadas y fondo crujiente, evitando que la base se queme antes de que el queso se funda por completo.",
-    "original_title": "Pizza a la Parrilla al Estilo Bob Blumer (Canadá / Internacional)"
+    "original_title": "Pizza a la Parrilla al Estilo Bob Blumer (Canadá / Internacional)",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 453,
@@ -34275,7 +34338,8 @@
       }
     ],
     "notes": "El secreto absoluto de las papas soufflé del Palacio de la Papa Frita: además del corte parejo a 3 mm con mandolina, el punto crítico es dejar enfriar y otear las papas tras el primer baño. Al enfriarse, el almidón de la superficie se cristaliza (retrogradación) y deshidrata, creando una cápsula impermeable que atrapa el vapor al entrar al segundo aceite a 185 °C, obligando a la papa a inflarse como un globo hueco sin desinflarse.",
-    "original_title": "Milanesa Napolitana - Estilo Palacio de la Papa Frita (Argentina)"
+    "original_title": "Milanesa Napolitana - Estilo Palacio de la Papa Frita (Argentina)",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 454,
@@ -34356,7 +34420,8 @@
       }
     ],
     "notes": "La cocción en grasa de pato aporta una profundidad de sabor y un tostado crujiente insuperables gracias a su alto punto de humo y perfil graso. Al combinarse con la frescura sedosa de la burrata y la acidez dulce del tomate seco, transforma un clásico popular en una experiencia de alta gastronomía.",
-    "original_title": "Milanesa Gourmet de Autor con Burrata Fresca, Albahaca y Papas en Grasa de Pato (Argentina)"
+    "original_title": "Milanesa Gourmet de Autor con Burrata Fresca, Albahaca y Papas en Grasa de Pato (Argentina)",
+    "published": "2026-11-07T01:00:00-03:00"
   },
   {
     "id": 455,
@@ -38120,5 +38185,539 @@
     "url": "https://recetas.mamicraft.com/arroz-con-pollo-olla-presion",
     "original_title": "Arroz con Pollo en Olla a Presión (España)",
     "published": "2026-11-06"
+  },
+  {
+    "id": 496,
+    "title": "Suprema Maryland (Argentina)",
+    "country": "Argentina",
+    "category": "Pollo / Aves",
+    "tags": [
+      "Argentina",
+      "Bodegón",
+      "Suprema Maryland",
+      "Milanesa Maryland",
+      "Pollo",
+      "Banana Frita",
+      "Crema de Choclo",
+      "Papas Pay",
+      "Panceta",
+      "Agridulce",
+      "Clásicos Porteños",
+      "Buenos Aires",
+      "Milanesa de Pollo",
+      "Receta de Bodegón",
+      "Fritura Crujiente",
+      "Pechuga Rebozada"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "25 min",
+    "rest_time": "10 min",
+    "temperature": "180 °C (fritura dorada crujiente)",
+    "servings": "2 porciones abundantes de bodegón",
+    "calories": "780 kcal por porción",
+    "diet_badges": [
+      "Aves",
+      "Fritura Casera",
+      "Plato de Bodegón"
+    ],
+    "story": "La Suprema Maryland es uno de los platos más extravagantes y queridos de los tradicionales bodegones y restaurantes clásicos de Buenos Aires. Nacida como una reinterpretación porteña del 'Chicken Maryland' estadounidense popularizado en los grandes salones de principios del siglo XX, la gastronomía argentina la transformó en una fiesta de contrastes agridulces inconfundibles: una generosa suprema de pechuga de pollo empanada y frita al punto justo, escoltada por una banana frita rebozada de corazón suave y dulce, una cazuela de crema de choclo cremosa y tibia, tiras de panceta ahumada crujiente, morrón asado y una montaña de papas pay doradas y crocantes. Un emblema de las cartas porteñas desde El Tropezón y El Imparcial hasta el viejo bodegón de barrio.",
+    "ingredient_groups": [
+      {
+        "name": "Supremas de Pollo y Rebozado",
+        "items": [
+          "2 pechugas de pollo enteras (deshuesadas, limpias y abiertas en mariposa para suprema de 1 cm de grosor)",
+          "2 huevos grandes camperos",
+          "1 diente de ajo picado finamente",
+          "2 cucharadas soperas de perejil fresco picado",
+          "1 cucharadita de mostaza clásica o Dijon",
+          "300 g de pan rallado fino (o mezcla de 70% pan rallado y 30% panko para mayor crocancia)",
+          "Sal marina fina y pimienta negra recién molida al gusto",
+          "Aceite de girasol abundante para freír"
+        ]
+      },
+      {
+        "name": "Bananas Fritas Rebozadas",
+        "items": [
+          "2 bananas firmes (maduras pero que no estén blandas ni manchadas)",
+          "1 huevo batido",
+          "3 cucharadas soperas de harina común",
+          "60 g de pan rallado fino",
+          "1 pizca de sal"
+        ]
+      },
+      {
+        "name": "Crema de Choclo Aterciopelada",
+        "items": [
+          "1 lata de choclo cremoso amarillo (o 300 g de granos de choclo procesados con un chorrito de leche)",
+          "1/2 taza de granos de choclo enteros para aportar textura",
+          "1 cucharada colmada de manteca",
+          "1/2 cebolla chica picada muy finita",
+          "1 cucharada rasa de harina de trigo (o almidón de maíz)",
+          "150 ml de leche tibia",
+          "Nuez moscada recién rallada, sal y pimienta blanca al gusto",
+          "1 cucharada de queso crema o parmesano rallado fino (para mayor untuosidad)"
+        ]
+      },
+      {
+        "name": "Guarnición y Armado de Bodegón",
+        "items": [
+          "4 fetas de panceta ahumada (doradas a la plancha hasta quedar crocantes)",
+          "1 pimiento morrón rojo asado cortado en tiras anchas",
+          "200 g de papas pay caseras finitas y crujientes (o papas bastón fritas bien doradas)",
+          "Gajos de limón fresco para servir"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Preparación y Rebozado de las Supremas",
+        "title": "1. Preparación y Rebozado de las Supremas",
+        "steps": [
+          "Limpiar las pechugas de pollo retirando el exceso de grasa. Abrirlas con un corte longitudinal (estilo mariposa) sin separarlas del todo para que queden parejas de unos 8 mm a 1 cm de espesor.",
+          "En un bol amplio, batir los huevos junto con el ajo picado, el perejil fresco, la cucharadita de mostaza, una buena pizca de sal marina y pimienta negra.",
+          "Pasar las pechugas por la mezcla de huevo asegurándose de que queden bien empapadas (dejar marinar unos 10 a 15 minutos en la heladera para que absorban sabor).",
+          "Pasar cada suprema por el pan rallado, presionando con la palma de la mano sobre ambas caras para que el rebozado quede compacto, uniforme y bien adherido. Sacudir el exceso."
+        ]
+      },
+      {
+        "name": "2. Crema de Choclo y Panceta Crocante",
+        "title": "2. Crema de Choclo y Panceta Crocante",
+        "steps": [
+          "En una cacerolita a fuego medio, fundir la manteca y rehogar la cebolla picada durante 4 minutos hasta transparentar sin dorar.",
+          "Agregar la cucharada de harina y cocinar removiendo durante 1 minuto (roux rubio). Incorporar poco a poco la leche tibia revolviendo enérgicamente con batidor para evitar grumos.",
+          "Añadir el choclo cremoso y los granos enteros. Cocinar a fuego suave durante 4 a 5 minutos hasta que tome consistencia aterciopelada y espesa. Condimentar con nuez moscada, sal, pimienta blanca y la cucharada de queso crema. Mantener tibia.",
+          "En una sartén bien caliente sin aceite, dorar las tiras de panceta de ambos lados hasta que estén bien crocantes. Retirar sobre papel absorbente."
+        ]
+      },
+      {
+        "name": "3. Fritura de las Supremas y las Bananas",
+        "title": "3. Fritura de las Supremas y las Bananas",
+        "steps": [
+          "Pelar las bananas enteras. Pasarlas suavemente primero por harina, luego por el huevo batido y finalmente por pan rallado fino.",
+          "En una sartén profunda con abundante aceite limpio a 175-180 °C, freír las bananas rebozadas durante 2 a 3 minutos girándolas suavemente hasta que luzcan doradas y crocantes por fuera y tiernas por dentro. Retirar sobre papel absorbente.",
+          "En el mismo aceite caliente, freír las supremas de pollo durante 3 a 4 minutos por lado hasta lograr un dorado intenso y una costra crujiente perfecta, cuidando que el pollo quede completamente cocido pero bien jugoso en su centro. Escurrir sobre papel absorbente."
+        ]
+      },
+      {
+        "name": "4. Emplatado Clásico de Bodegón",
+        "title": "4. Emplatado Clásico de Bodegón",
+        "steps": [
+          "En una fuente ovalada de metal o plato playo amplio bien caliente, disponer la suprema de pollo crujiente en el centro.",
+          "Coronar la suprema con las tiras de panceta crocante y las tiras de morrón asado.",
+          "Acomodar a un lado la banana frita dorada y una cazuelita con la crema de choclo caliente.",
+          "Completar el otro lateral con una generosa montaña de papas pay crocantes. Servir de inmediato bien caliente, acompañado de gajos de limón fresco."
+        ]
+      }
+    ],
+    "notes": "Para que la banana no se desarme en la sartén, elegí bananas que estén maduras pero bien firmes al tacto. Si preferís no freír la banana con pan rallado, podés dorarla simplemente en una sartén con un toque de manteca y una cucharadita de azúcar para caramelizarla al estilo bodegón porteño de antaño.",
+    "image": "img/suprema_maryland.jpg",
+    "url": "",
+    "original_title": "Suprema Maryland (Argentina)",
+    "published": "2026-11-07T01:00:00-03:00"
+  },
+  {
+    "id": 497,
+    "title": "Corpse Reviver Nº 1 (Reino Unido)",
+    "country": "Reino Unido",
+    "category": "Cocktails & Tragos",
+    "tags": [
+      "Reino Unido",
+      "Savoy",
+      "Corpse Reviver",
+      "Cocktails & Tragos",
+      "Tragos Clásicos",
+      "Cognac",
+      "Calvados",
+      "Vermut",
+      "Coctelería Histórica",
+      "Harry Craddock"
+    ],
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "rest_time": "0 min",
+    "temperature": "Servir a 4 °C (muy frío y refrescado)",
+    "servings": "1 cóctel",
+    "calories": "185 kcal por copa",
+    "diet_badges": [
+      "Sin Gluten",
+      "Clásico de Autor",
+      "Digestivo"
+    ],
+    "story": "Inmortalizado en 1930 por Harry Craddock en 'The Savoy Cocktail Book' de Londres, el Corpse Reviver Nº 1 es el ancestro cálido y espirituoso de la célebre saga. Creado originalmente como un tónico reconstituyente para despertar el cuerpo tras noches agitadas, prescinde de cítricos y apuesta por una untuosa armonía entre la nobleza del cognac, la manzana madura del calvados normando y la complejidad aromática del vermut rosso dulce. Craddock dejó asentado en su recetario con humor inglés: 'Tomar antes de las 11:00 de la mañana, o cuando se requiera vapor y energía inmediata en el espíritu'.",
+    "ingredient_groups": [
+      {
+        "name": "Espirituosos y Aromas",
+        "items": [
+          "45 ml de Cognac o Brandy francés VSOP",
+          "25 ml de Calvados (brandy de manzana de Normandía)",
+          "25 ml de Vermouth rosso dulce italiano (tipo Carpano Antica Formula o Punt e Mes)",
+          "1 dash (gotas) de bitter de naranja (opcional para resaltar notas cítricas)",
+          "Abundante hielo en cubos macizos para refrescar"
+        ]
+      },
+      {
+        "name": "Servicio y Presentación",
+        "items": [
+          "1 twist fino y aceitoso de piel de naranja fresca",
+          "Copa Nick & Nora o copa cóctel vintage previamente enfriada"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Enfriado de Copa y Mise en Place",
+        "title": "1. Enfriado de Copa y Mise en Place",
+        "steps": [
+          "Llenar la copa Nick & Nora con cubos de hielo y un poco de agua fría para acondicionar el cristal mientras se prepara el trago."
+        ]
+      },
+      {
+        "name": "2. Refrescado en Vaso Mezclador",
+        "title": "2. Refrescado en Vaso Mezclador",
+        "steps": [
+          "En un vaso mezclador (mixing glass), verter el cognac, el calvados y el vermut dulce.",
+          "Agregar hielo macizo hasta tres cuartos del vaso mezclador.",
+          "Remover con cuchara imperial de bar de forma circular y continua durante 25 a 30 segundos, cuidando de enfriar e integrar los destilados sin quebrar el hielo para mantener el líquido cristalino y brillante."
+        ]
+      },
+      {
+        "name": "3. Servicio y Aromatización",
+        "title": "3. Servicio y Aromatización",
+        "steps": [
+          "Descartar el agua y hielo de la copa.",
+          "Colar la mezcla con colador Julep vertiendo el líquido ámbar brillante dentro de la copa fría.",
+          "Tomar el twist de naranja sobre la superficie del cóctel, presionarlo entre los dedos para que sus aceites esenciales bañen el trago y frotar suavemente el borde de la copa antes de colocarlo como decoración."
+        ]
+      }
+    ],
+    "notes": "Al ser un trago 100% de destilados y vermut, jamás debe batirse en coctelera para no airear ni enturbiar su textura; el refrescado suave en vaso mezclador le confiere la densidad aterciopelada perfecta.",
+    "image": "img/corpse_reviver_no1.jpg",
+    "url": "",
+    "original_title": "Corpse Reviver No. 1",
+    "published": "2026-11-07T01:50:00-03:00"
+  },
+  {
+    "id": 498,
+    "title": "Corpse Reviver Nº 2 (Reino Unido)",
+    "country": "Reino Unido",
+    "category": "Cocktails & Tragos",
+    "tags": [
+      "Reino Unido",
+      "Savoy",
+      "Corpse Reviver",
+      "Cocktails & Tragos",
+      "Gin",
+      "Tragos Ácidos",
+      "Lillet Blanc",
+      "Cointreau",
+      "Absenta",
+      "Coctelería Histórica",
+      "Harry Craddock"
+    ],
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "rest_time": "0 min",
+    "temperature": "Servir a -2 °C (muy frío y recién batido)",
+    "servings": "1 cóctel",
+    "calories": "170 kcal por copa",
+    "diet_badges": [
+      "Sin Gluten",
+      "Súper Ácido",
+      "Trago de Culto"
+    ],
+    "story": "El Corpse Reviver Nº 2 es indiscutiblemente la cúspide de la coctelería ácida clásica y uno de los tragos en partes iguales más perfectos jamás diseñados. Publicado en 1930 por Harry Craddock en The Savoy Cocktail Book, este brebaje fue pensado para 'despertar a los muertos' con una ráfaga helada de cítricos, hierbas botánicas de gin, la dulzura de la naranja y el misterio anisado de la absenta. La advertencia legendaria de Craddock acompaña para siempre la receta: 'Cuatro de estos tomados en rápida sucesión volverán a matar al cadáver sin contemplación'.",
+    "ingredient_groups": [
+      {
+        "name": "Fórmula Clásica en Partes Iguales (25 ml c/u)",
+        "items": [
+          "25 ml de London Dry Gin (con marcado perfil a enebro)",
+          "25 ml de Lillet Blanc (o Cocchi Americano)",
+          "25 ml de Cointreau o licor triple sec de naranja de calidad",
+          "25 ml de jugo fresco de limón amarillo colado (recién exprimido)",
+          "1 dash (o enjuague / spray) de Absenta auténtica (5 ml para bañar la copa)",
+          "Hielo abundante para coctelera"
+        ]
+      },
+      {
+        "name": "Guarnición",
+        "items": [
+          "1 cereza marrasquino de coctelería (al fondo de la copa)",
+          "1 twist fino de piel de limón amarillo",
+          "Copa Coupé de cristal fino enfriada en freezer"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Enjuague de Absenta (Absinthe Rinse)",
+        "title": "1. Enjuague de Absenta (Absinthe Rinse)",
+        "steps": [
+          "Verter la absenta en la copa Coupé fría, hacerla girar cubriendo todas las paredes internas del cristal para impregnar su aroma anisado y descartar el sobrante (o beberlo como hacían los antiguos bármanes)."
+        ]
+      },
+      {
+        "name": "2. Batido Enérgico en Coctelera",
+        "title": "2. Batido Enérgico en Coctelera",
+        "steps": [
+          "En la coctelera, verter el gin, el Lillet Blanc, el Cointreau y el jugo fresco de limón recién colado.",
+          "Llenar la coctelera con hielo abundante hasta el tope y cerrar herméticamente.",
+          "Batir con fuerza rítmica durante 12 a 15 segundos hasta que el metal de la coctelera se congele y forme una escarcha blanca exterior."
+        ]
+      },
+      {
+        "name": "3. Doble Colado y Decoración",
+        "title": "3. Doble Colado y Decoración",
+        "steps": [
+          "Servir con doble colado (usando colador Hawthorne y colador fino de malla) dentro de la copa perfumada, logrando una textura sedosa, opalescente y sin astillas de hielo.",
+          "Dejar caer una cereza marrasquino en el fondo y aromatizar con el twist de limón en el borde."
+        ]
+      }
+    ],
+    "notes": "El secreto supremo de este cóctel está en usar jugo de limón amarillo colado muy fresco y respetar el balance 1:1:1:1. El toque de absenta en la copa aporta una dimensión aromática en nariz que transforma completamente la experiencia.",
+    "image": "img/corpse_reviver_no2.jpg",
+    "url": "",
+    "original_title": "Corpse Reviver No. 2",
+    "published": "2026-11-07T01:50:00-03:00"
+  },
+  {
+    "id": 499,
+    "title": "Corpse Reviver Nº 3 (Reino Unido)",
+    "country": "Reino Unido",
+    "category": "Cocktails & Tragos",
+    "tags": [
+      "Reino Unido",
+      "Café Royal",
+      "Corpse Reviver",
+      "Cocktails & Tragos",
+      "Brandy",
+      "Champagne",
+      "Menta",
+      "Efervescente",
+      "Trago Festivo"
+    ],
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "rest_time": "0 min",
+    "temperature": "Servir a 3 °C (fresco y burbujeante)",
+    "servings": "1 cóctel",
+    "calories": "190 kcal por copa",
+    "diet_badges": [
+      "Sin Gluten",
+      "Efervescente",
+      "Alta Coctelería"
+    ],
+    "story": "Documentado en las prestigiosas barras de Londres en la década de 1930 y recogido en compilaciones como la del Café Royal Cocktail Book (1937) de William J. Tarling, el Corpse Reviver Nº 3 elevó el concepto del trago matutino con la majestuosidad de las burbujas francesas. Combina una base de brandy aromatizada con menta blanca fresca, jugo de limón astringente y un sutil toque anisado, coronado con un golpe efervescente de Champagne brut bien helado que despierta los sentidos al instante.",
+    "ingredient_groups": [
+      {
+        "name": "Base del Cóctel",
+        "items": [
+          "35 ml de Brandy o Cognac francés",
+          "20 ml de jugo fresco de limón amarillo recién exprimido",
+          "15 ml de Crema de menta blanca (o cordial de menta fresca)",
+          "1 gota (dash) de Absenta o Pernod",
+          "Hielo para coctelera"
+        ]
+      },
+      {
+        "name": "Terminación y Corona",
+        "items": [
+          "60 ml de Champagne brut o Vino Espumoso método tradicional muy frío",
+          "1 hojita de menta fresca limpia",
+          "1 espiral de piel de limón",
+          "Copa flauta o copa Coupé alta bien fría"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Batido de la Base Cítrica",
+        "title": "1. Batido de la Base Cítrica",
+        "steps": [
+          "En una coctelera con hielo, agregar el brandy, el jugo de limón, la crema de menta blanca y la gota de absenta.",
+          "Batir enérgicamente durante 10 segundos para enfriar e integrar los componentes cítricos y mentolados."
+        ]
+      },
+      {
+        "name": "2. Filtrado en Copa Flauta",
+        "title": "2. Filtrado en Copa Flauta",
+        "steps": [
+          "Colar la mezcla con colador fino dentro de la copa flauta o coupe fría, llenándola hasta la mitad."
+        ]
+      },
+      {
+        "name": "3. Tope de Burbujas y Decoración",
+        "title": "3. Tope de Burbujas y Decoración",
+        "steps": [
+          "Completar lentamente con el Champagne brut helado vertido sobre una cuchara de bar para mantener vivas las columnas de burbujas.",
+          "Decorar con una espiral de limón y una hojita de menta flotando sobre la espuma."
+        ]
+      }
+    ],
+    "notes": "La efervescencia del espumante y la frescura de la menta actúan como digestivo natural y revitalizador, convirtiéndolo en un cóctel festivo y aromático inolvidable.",
+    "image": "img/corpse_reviver_no3.jpg",
+    "url": "",
+    "original_title": "Corpse Reviver No. 3",
+    "published": "2026-11-07T01:50:00-03:00"
+  },
+  {
+    "id": 500,
+    "title": "Corpse Reviver Blue (Nueva Zelanda)",
+    "country": "Nueva Zelanda",
+    "category": "Cocktails & Tragos",
+    "tags": [
+      "Nueva Zelanda",
+      "Corpse Reviver",
+      "Cocktails & Tragos",
+      "Gin",
+      "Blue Curaçao",
+      "Tragos Modernos",
+      "Tragos Ácidos",
+      "Jacob Briars",
+      "Coctelería Contemporánea"
+    ],
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "rest_time": "0 min",
+    "temperature": "Servir a -2 °C (helado)",
+    "servings": "1 cóctel",
+    "calories": "175 kcal por copa",
+    "diet_badges": [
+      "Sin Gluten",
+      "Color Neón",
+      "Cítrico y Vibrante"
+    ],
+    "story": "Creado en 2007 por el renombrado bartender neozelandés Jacob Briars, el Corpse Reviver Blue nació como un audaz homenaje irreverente y sofisticado a la receta del Savoy de 1930. Briars reemplazó el Cointreau transparente por Blue Curaçao artesanal de naranja amarga de Curazao, logrando un hipnótico color azul zafiro eléctrico sin perder un milímetro de la clásica acidez cortante y el balance herbal del gin con la absenta. Hoy es uno de los tragos de autor modernos más aclamados y fotografiados en las grandes barras del mundo.",
+    "ingredient_groups": [
+      {
+        "name": "Componentes en Proporción Equilibrada (25 ml c/u)",
+        "items": [
+          "25 ml de London Dry Gin artesanal",
+          "25 ml de Blue Curaçao de alta graduación (licor de naranja amarga)",
+          "25 ml de Lillet Blanc o Cocchi Americano",
+          "25 ml de jugo fresco de limón amarillo colado",
+          "1 dash (enjuague en spray) de Absenta",
+          "Hielo en rocas para batir"
+        ]
+      },
+      {
+        "name": "Presentación",
+        "items": [
+          "1 twist fino de limón amarillo (el contraste amarillo/azul es espectacular)",
+          "Copa Coupé de cristal bien transparente y fría"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Acondicionado de la Copa",
+        "title": "1. Acondicionado de la Copa",
+        "steps": [
+          "Rociar o enjuagar la copa Coupé con un dash de absenta y descartar el excedente."
+        ]
+      },
+      {
+        "name": "2. Batido del Cóctel Zafiro",
+        "title": "2. Batido del Cóctel Zafiro",
+        "steps": [
+          "Verter el gin, el Blue Curaçao, el Lillet Blanc y el jugo fresco de limón dentro de la coctelera.",
+          "Añadir hielo en abundancia y batir vigorosamente durante 12 segundos hasta lograr una emulsión azul luminosa y súper fría."
+        ]
+      },
+      {
+        "name": "3. Doble Colado y Presentación",
+        "title": "3. Doble Colado y Presentación",
+        "steps": [
+          "Doble colar sobre la copa fría. El trago lucirá un color turquesa/zafiro brillante con una fina aureola de microburbujas.",
+          "Coronar con un twist de piel de limón enrollado en el borde."
+        ]
+      }
+    ],
+    "notes": "Elegir un Blue Curaçao de calidad premium que aporte notas cítricas genuinas de cáscara de naranja amarga de Laraha para que el trago mantenga el nivel de alta coctelería del Nº 2 original.",
+    "image": "img/corpse_reviver_blue.jpg",
+    "url": "",
+    "original_title": "Corpse Reviver Blue",
+    "published": "2026-11-07T01:50:00-03:00"
+  },
+  {
+    "id": 501,
+    "title": "Oaxacan Corpse Reviver (México)",
+    "country": "México",
+    "category": "Cocktails & Tragos",
+    "tags": [
+      "México",
+      "Oaxaca",
+      "Corpse Reviver",
+      "Cocktails & Tragos",
+      "Mezcal",
+      "Tragos Ahumados",
+      "Tragos Ácidos",
+      "Coctelería de Autor",
+      "Agave",
+      "Artesanal"
+    ],
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "rest_time": "0 min",
+    "temperature": "Servir a -2 °C",
+    "servings": "1 cóctel",
+    "calories": "180 kcal por copa",
+    "diet_badges": [
+      "Sin Gluten",
+      "Ahumado",
+      "Trago de Autor"
+    ],
+    "story": "Nacido en la vanguardia de la coctelería contemporánea inspirada en los espirituosos de agave, el Oaxacan Corpse Reviver toma la estructura sagrada del cóctel de Harry Craddock y reemplaza el gin botánico por un mezcal espadín artesanal de los valles centrales de Oaxaca. El humo característico de la cocción en pozo de tierra de los corazones de agave se funde con el licor de naranja, el vino aperitivo Lillet, la acidez cortante del limón y los matices amargos de la absenta, logrando una de las combinaciones agridulces y ahumadas más complejas y fascinantes de la coctelería actual.",
+    "ingredient_groups": [
+      {
+        "name": "Mezcla de Agave y Cítricos (Partes Iguales)",
+        "items": [
+          "25 ml de Mezcal espadín artesanal (con notas minerales y humo suave)",
+          "25 ml de Cointreau o Triple Sec francés",
+          "25 ml de Lillet Blanc",
+          "25 ml de jugo fresco de limón amarillo recién exprimido y filtrado",
+          "1 dash generoso de Absenta artesanal",
+          "Hielo en cubos para la coctelera"
+        ]
+      },
+      {
+        "name": "Borde y Decoración Oaxaqueña",
+        "items": [
+          "1 pizca fina de sal de gusano o sal con chile tajín en un tercio del borde exterior de la copa",
+          "1 rodaja de limón deshidratado o twist de pomelo",
+          "Copa Coupé artesanal o tallada"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Ribeteado Sutil de la Copa",
+        "title": "1. Ribeteado Sutil de la Copa",
+        "steps": [
+          "Humedecer un tercio del borde exterior de la copa Coupé con una gota de limón y apoyar suavemente sobre sal de gusano o sal especiada (solo un toque para no invadir el paladar).",
+          "Enjuagar el interior de la copa con el dash de absenta."
+        ]
+      },
+      {
+        "name": "2. Batido en Coctelera",
+        "title": "2. Batido en Coctelera",
+        "steps": [
+          "Incorporar en la coctelera el mezcal espadín, el Cointreau, el Lillet Blanc y el jugo de limón recién exprimido.",
+          "Llenar con hielo y batir enérgicamente durante 12 a 15 segundos hasta que la coctelera condense frío intenso."
+        ]
+      },
+      {
+        "name": "3. Servicio y Degustación",
+        "title": "3. Servicio y Degustación",
+        "steps": [
+          "Doble colar en la copa preparada. Acomodar la rodaja de limón deshidratado flotando en el centro.",
+          "Disfrutar apreciando primero las notas ahumadas en nariz y luego la explosión cítrica y anisada en boca."
+        ]
+      }
+    ],
+    "notes": "El ahumado del mezcal debe ser equilibrado (preferir un espadín de perfil frutal/mineral y humo medio). La sal de gusano en el borde resalta los toques terrosos y potencia la acidez del limón.",
+    "image": "img/oaxacan_corpse_reviver.jpg",
+    "url": "",
+    "original_title": "Oaxacan Corpse Reviver",
+    "published": "2026-11-07T01:50:00-03:00"
   }
 ]
