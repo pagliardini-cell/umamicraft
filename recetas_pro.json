@@ -38024,5 +38024,101 @@
     "url": "https://recetas.mamicraft.com/spaghetti-alla-carbonara",
     "original_title": "Spaghetti alla Carbonara (Italia)",
     "published": "2026-11-06"
+  },
+  {
+    "id": 495,
+    "title": "Arroz con Pollo en Olla a Presión (España)",
+    "country": "España",
+    "category": "Arroces",
+    "tags": [
+      "España",
+      "Arroz con Pollo",
+      "Olla a Presión",
+      "Olla Rápida",
+      "Morrones",
+      "Puré de Tomate",
+      "Arroces",
+      "Cenas Rápidas",
+      "Cocina Casera",
+      "Azafrán"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "15 min",
+    "rest_time": "5 min (despresurización natural fuera del fuego)",
+    "temperature": "Fuego medio-bajo una vez alcanzada la presión (7 minutos exactos)",
+    "servings": "4 porciones generosas",
+    "calories": "460 kcal por porción",
+    "diet_badges": [
+      "Cocción Exprés en Olla a Presión",
+      "Arroz Meloso en 7 Minutos",
+      "Cocina Casera Española"
+    ],
+    "story": "El arroz con pollo en olla a presión (u olla rápida) es uno de los mayores aliados de la cocina casera diaria de España. Frente a las cocciones lentas de paella de fin de semana, este método logra concentrar los jugos del pollo, la dulzura del pimiento morrón y la acidez justa del puré de tomate en un tiempo récord. La gran maestría técnica de este plato consiste en respetar con precisión milimétrica la proporción líquida (1 parte y media de caldo caliente por 1 de arroz) y los 7 minutos estrictos de cocción bajo presión: al retirarla del fuego y dejar que la válvula baje sola, el grano absorbe todo el fondo y queda suelto, tierno y con un sabor profundo inigualable.",
+    "ingredient_groups": [
+      {
+        "name": "Pollo y Sofrito Enriquecido",
+        "items": [
+          "600 g de Pollo troceado (contramuslos deshuesados y sin piel, o muslitos limpios cortados en bocados)",
+          "1 pimiento morrón rojo grande (cortado en tiras medianas o cubos regulares)",
+          "4 cucharadas soperas colmadas de Puré de tomate concentrado (o tomate frito casero)",
+          "1 cebolla mediana picada finamente",
+          "2 dientes de ajo laminados finos",
+          "3 cucharadas soperas de Aceite de oliva virgen extra",
+          "Sal marina fina y pimienta negra recién molida al gusto"
+        ]
+      },
+      {
+        "name": "Arroz, Caldo y Sazón",
+        "items": [
+          "300 g de Arroz de grano largo o grano redondo clásico (aprox. 1 taza y media)",
+          "450 ml de Caldo de pollo o verduras bien caliente (proporción exacta de 1,5 de líquido por 1 de arroz)",
+          "1 sobre de sazonador Paellero Carmencita (o unas hebras de azafrán con 1/2 cdita. de pimentón dulce de la Vera)"
+        ]
+      },
+      {
+        "name": "Guarnición y Emplatado",
+        "items": [
+          "1 limón cortado en cuartos para exprimir en la mesa",
+          "Unas hojas de perejil fresco picado para terminar",
+          "Ensalada verde de hojas crujientes para acompañar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Dorado del Pollo y Sofrito de Tomate y Morrones",
+        "title": "1. Dorado del Pollo y Sofrito de Tomate y Morrones",
+        "steps": [
+          "Salpimentar los trozos de pollo. En la olla a presión destapada, calentar las 3 cucharadas de aceite de oliva a fuego medio-alto.",
+          "Añadir el pollo y dorar durante 4 a 5 minutos por todos sus lados hasta que tome un buen color dorado y selle sus jugos. Retirar el pollo a un plato reservándolo con sus jugos.",
+          "En la misma grasa de la olla, incorporar el pimiento morrón rojo cortado en tiras, la cebolla picada y el ajo. Rehogar a fuego medio durante 4 minutos hasta que el morrón empiece a ablandarse.",
+          "Agregar el puré de tomate concentrado. Remover con cuchara de madera durante 2 minutos a fuego vivo para sofreír el tomate, reducir su acidez y caramelizar los azúcares naturales."
+        ]
+      },
+      {
+        "name": "2. Nacarado del Arroz con Paellero",
+        "title": "2. Nacarado del Arroz con Paellero",
+        "steps": [
+          "Reincorporar el pollo dorado junto con los jugos que haya soltado en el plato.",
+          "Volcar el arroz crudo y el sobre de sazonador Paellero (o el azafrán con pimentón). Rehogar todo junto a fuego medio durante 1 a 2 minutos, mezclando con cuidado para que los granos se impregnen del aceite aromatizado, el tomate y los morrones (nacarado).",
+          "Verter los 450 ml de caldo de pollo hirviendo (o agua caliente con sal). Probar el caldo y rectificar el punto de sal si fuera necesario."
+        ]
+      },
+      {
+        "name": "3. Cocción a Presión (7 Minutos Exactos) y Reposo",
+        "title": "3. Cocción a Presión (7 Minutos Exactos) y Reposo",
+        "steps": [
+          "Cerrar la olla a presión herméticamente y poner el fuego al máximo hasta que suba la válvula o comience a liberar vapor continuo (señal de máxima presión).",
+          "En ese instante exacto, bajar el fuego a medio-bajo y cronometrar estrictamente 7 minutos (la olla debe mantener un suave susurro de presión constante sin perder fuerza).",
+          "Cumplidos los 7 minutos, apagar el fuego y retirar la olla del quemador caliente. REGLA FUNDAMENTAL: No forzar la salida del vapor. Dejar que la presión descienda sola de forma natural durante 4 a 5 minutos hasta que la válvula baje.",
+          "Abrir la olla: el arroz habrá terminado de absorber el fondo vaporoso, quedando en su punto perfecto de grano entero, tierno y jugoso con los morrones y el pollo integrados. Dejar airear 2 minutos y servir bien caliente con gajos de limón."
+        ]
+      }
+    ],
+    "notes": "La proporción para la olla a presión es rigurosamente de 1 parte de arroz por 1,5 de caldo (a diferencia de la paella abierta que pide el doble o triple), ya que al estar cerrada herméticamente casi no hay evaporación de líquido. Los 7 minutos de presión más el reposo natural logran un arroz perfecto que nunca se pasa.",
+    "image": "img/arroz_con_pollo_olla_presion.jpg",
+    "url": "https://recetas.mamicraft.com/arroz-con-pollo-olla-presion",
+    "original_title": "Arroz con Pollo en Olla a Presión (España)",
+    "published": "2026-11-06"
   }
 ]
