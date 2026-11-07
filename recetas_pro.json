@@ -2073,7 +2073,9 @@
       "Cocktail",
       "Pomelo",
       "Romero",
-      "Vodka"
+      "Vodka",
+      "Cocktails & Tragos",
+      "Bebidas"
     ],
     "prep_time": "10 min",
     "cook_time": "5 min (almíbar)",
@@ -3250,7 +3252,9 @@
       "Tragos",
       "Cocktail",
       "Naranja",
-      "Aperitivo"
+      "Aperitivo",
+      "Cocktails & Tragos",
+      "Bebidas"
     ],
     "prep_time": "3 min",
     "cook_time": "0 min",
@@ -4112,7 +4116,9 @@
       "Sake",
       "Tragos",
       "Cocktail",
-      "Izakaya"
+      "Izakaya",
+      "Cocktails & Tragos",
+      "Bebidas"
     ],
     "prep_time": "2 min",
     "cook_time": "0 min",
@@ -5372,7 +5378,9 @@
       "Postre",
       "Helado",
       "Pimienta de Jamaica",
-      "Batido"
+      "Batido",
+      "Tragos",
+      "Cocktail"
     ],
     "prep_time": "5 min (estimado)",
     "cook_time": "0 min",
@@ -5489,7 +5497,9 @@
       "Gin",
       "Lima",
       "Tonic",
-      "Tragos"
+      "Tragos",
+      "Cocktails & Tragos",
+      "Bebidas"
     ],
     "prep_time": "3 min",
     "cook_time": "0 min",
@@ -5546,7 +5556,9 @@
       "Vermut",
       "Drambuie",
       "Cassis",
-      "Tragos"
+      "Tragos",
+      "Cocktails & Tragos",
+      "Bebidas"
     ],
     "prep_time": "3 min",
     "cook_time": "0 min",
@@ -5599,7 +5611,9 @@
       "Mojito",
       "Ron",
       "Menta",
-      "Tragos"
+      "Tragos",
+      "Cocktails & Tragos",
+      "Bebidas"
     ],
     "prep_time": "10 min",
     "cook_time": "3 min",
@@ -5675,7 +5689,9 @@
       "Pomelo",
       "Autor",
       "Tragos",
-      "Receta de Autor"
+      "Receta de Autor",
+      "Cocktails & Tragos",
+      "Bebidas"
     ],
     "prep_time": "5 min",
     "cook_time": "0 min",
@@ -6068,7 +6084,8 @@
       "EEUU",
       "Helado",
       "Postre",
-      "Vainilla"
+      "Vainilla",
+      "Cocktail"
     ],
     "prep_time": "3 min",
     "cook_time": "0 min",
@@ -6114,7 +6131,9 @@
       "Champagne",
       "Cocktail",
       "Stout",
-      "Tragos"
+      "Tragos",
+      "Cocktails & Tragos",
+      "Bebidas"
     ],
     "prep_time": "3 min",
     "cook_time": "0 min",
@@ -6228,7 +6247,9 @@
       "Kahlúa",
       "Tia Maria",
       "Tragos",
-      "Vodka"
+      "Vodka",
+      "Cocktails & Tragos",
+      "Bebidas"
     ],
     "prep_time": "2 min",
     "cook_time": "0 min",
@@ -6279,7 +6300,9 @@
       "Sprite",
       "Sweet and Sour",
       "Tragos",
-      "Vodka"
+      "Vodka",
+      "Cocktails & Tragos",
+      "Bebidas"
     ],
     "prep_time": "10 min",
     "cook_time": "5 min (para el Sweet & Sour casero)",
@@ -6350,7 +6373,9 @@
       "Kahlúa",
       "Tia Maria",
       "Tragos",
-      "Vodka"
+      "Vodka",
+      "Cocktails & Tragos",
+      "Bebidas"
     ],
     "prep_time": "5 min",
     "cook_time": "0 min",
@@ -8453,7 +8478,9 @@
       "Tragos",
       "Autor",
       "Familiar",
-      "Receta de Autor"
+      "Receta de Autor",
+      "Cocktails & Tragos",
+      "Bebidas"
     ],
     "prep_time": "10 min",
     "cook_time": "0 min",
@@ -9788,7 +9815,9 @@
       "Chocolate",
       "Dulces",
       "Nueva York",
-      "Brooklyn"
+      "Brooklyn",
+      "Tragos",
+      "Cocktail"
     ],
     "prep_time": "3 min",
     "cook_time": "0 min",
@@ -21155,7 +21184,9 @@
       "Artesanal",
       "Tradicional",
       "Izakaya",
-      "Sin Gluten"
+      "Sin Gluten",
+      "Tragos",
+      "Cocktail"
     ],
     "prep_time": "1 hora y 15 min (remojo y vapor inicial)",
     "cook_time": "50 min (cocción al vapor) + 5 min (pasteurización)",
@@ -35523,7 +35554,9 @@
       "Tragos",
       "Cointreau",
       "Lima",
-      "Clásico"
+      "Clásico",
+      "Cocktail",
+      "Bebidas"
     ],
     "prep_time": "5 min",
     "cook_time": "0 min",
@@ -35600,7 +35633,9 @@
       "Cocktails & Tragos",
       "Tragos",
       "Popular",
-      "Ritual"
+      "Ritual",
+      "Cocktail",
+      "Bebidas"
     ],
     "prep_time": "3 min",
     "cook_time": "0 min",
@@ -35665,7 +35700,9 @@
       "Tragos",
       "Lima",
       "Playa",
-      "Clásico"
+      "Clásico",
+      "Cocktail",
+      "Bebidas"
     ],
     "prep_time": "5 min",
     "cook_time": "0 min",
@@ -35736,7 +35773,9 @@
       "Cocktails & Tragos",
       "Tragos",
       "Tropical",
-      "Clásico"
+      "Clásico",
+      "Cocktail",
+      "Bebidas"
     ],
     "prep_time": "5 min",
     "cook_time": "0 min",
@@ -38330,7 +38369,10 @@
       "Calvados",
       "Vermut",
       "Coctelería Histórica",
-      "Harry Craddock"
+      "Harry Craddock",
+      "Tragos",
+      "Cocktail",
+      "Bebidas"
     ],
     "prep_time": "5 min",
     "cook_time": "0 min",
@@ -38409,7 +38451,10 @@
       "Cointreau",
       "Absenta",
       "Coctelería Histórica",
-      "Harry Craddock"
+      "Harry Craddock",
+      "Tragos",
+      "Cocktail",
+      "Bebidas"
     ],
     "prep_time": "5 min",
     "cook_time": "0 min",
@@ -38487,7 +38532,10 @@
       "Champagne",
       "Menta",
       "Efervescente",
-      "Trago Festivo"
+      "Trago Festivo",
+      "Tragos",
+      "Cocktail",
+      "Bebidas"
     ],
     "prep_time": "5 min",
     "cook_time": "0 min",
@@ -38564,7 +38612,10 @@
       "Blue Curaçao",
       "Tragos Modernos",
       "Tragos Ácidos",
-      "Jacob Briars"
+      "Jacob Briars",
+      "Tragos",
+      "Cocktail",
+      "Bebidas"
     ],
     "prep_time": "5 min",
     "cook_time": "0 min",
@@ -38640,7 +38691,10 @@
       "Mezcal",
       "Tragos Ahumados",
       "Tragos Ácidos",
-      "Coctelería de Autor"
+      "Coctelería de Autor",
+      "Tragos",
+      "Cocktail",
+      "Bebidas"
     ],
     "prep_time": "5 min",
     "cook_time": "0 min",
@@ -38965,7 +39019,10 @@
       "Cítricos",
       "Coctelería Histórica",
       "Lima",
-      "Trago Bandera"
+      "Trago Bandera",
+      "Tragos",
+      "Cocktail",
+      "Bebidas"
     ],
     "prep_time": "5 min",
     "cook_time": "0 min",
@@ -39043,7 +39100,10 @@
       "Pomelo",
       "Cítricos",
       "Efervescente",
-      "Coctelería Mexicana"
+      "Coctelería Mexicana",
+      "Tragos",
+      "Cocktail",
+      "Bebidas"
     ],
     "prep_time": "5 min",
     "cook_time": "0 min",
@@ -39123,7 +39183,10 @@
       "Bebidas",
       "Merienda",
       "Café Notable",
-      "Invierno"
+      "Invierno",
+      "Cocktails & Tragos",
+      "Tragos",
+      "Cocktail"
     ],
     "prep_time": "5 min",
     "cook_time": "5 min",
@@ -39201,7 +39264,10 @@
       "Churrería",
       "Merienda",
       "Desayuno",
-      "Invierno"
+      "Invierno",
+      "Cocktails & Tragos",
+      "Tragos",
+      "Cocktail"
     ],
     "prep_time": "5 min",
     "cook_time": "10 min",
@@ -39282,7 +39348,10 @@
       "Sin Alcohol",
       "Masa Nixtamalizada",
       "Piloncillo",
-      "Canela"
+      "Canela",
+      "Cocktails & Tragos",
+      "Tragos",
+      "Cocktail"
     ],
     "prep_time": "10 min",
     "cook_time": "20 min",
@@ -39364,7 +39433,10 @@
       "Bebidas",
       "Sin Alcohol",
       "Piamonte",
-      "Histórico"
+      "Histórico",
+      "Cocktails & Tragos",
+      "Tragos",
+      "Cocktail"
     ],
     "prep_time": "10 min",
     "cook_time": "5 min",
