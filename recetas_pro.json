@@ -38703,5 +38703,487 @@
     "url": "",
     "original_title": "Oaxacan Corpse Reviver",
     "published": "2026-11-07T01:50:00-03:00"
+  },
+  {
+    "id": 502,
+    "title": "Churros Madrileños (España)",
+    "country": "España",
+    "category": "Postres y Dulces",
+    "tags": [
+      "España",
+      "Madrid",
+      "Churros",
+      "Desayuno",
+      "Merienda",
+      "Chocolate con Churros",
+      "Masa Frita",
+      "Churrería",
+      "Postres y Dulces",
+      "Crujiente"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "15 min",
+    "rest_time": "10 min",
+    "temperature": "190 °C (aceite bien caliente)",
+    "servings": "4 porciones (16 a 20 churros en lazo)",
+    "calories": "320 kcal por ración",
+    "diet_badges": [
+      "Vegetariano",
+      "Fritura Crujiente",
+      "Repostería Tradicional"
+    ],
+    "story": "El churro madrileño en forma de lazo es uno de los rituales más sagrados de los desayunos y meriendas de Madrid desde el siglo XIX, inmortalizado por churrerías históricas como San Ginés. A diferencia de las porras o los churros latinoamericanos, el auténtico churro madrileño es fino, muy ligero y de masa austera y crujiente: solo harina, agua hirviendo y sal. No lleva azúcar ni levadura en la masa, logrando una corteza dorada y crocante con estrías marcadas que absorbe con devoción el chocolate a la taza caliente y espeso.",
+    "ingredient_groups": [
+      {
+        "name": "Masa de Churros Madrileños",
+        "items": [
+          "250 g de harina de trigo común (000 o todo uso)",
+          "250 ml de agua mineral limpia",
+          "1 cucharadita rasa de sal fina (5 g)",
+          "Abundante aceite de oliva suave o girasol para freír"
+        ]
+      },
+      {
+        "name": "Para Servir",
+        "items": [
+          "Azúcar común para espolvorear (opcional, al gusto)",
+          "1 taza de chocolate caliente espeso a la taza para chopear"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Escaldado de la Masa",
+        "title": "1. Escaldado de la Masa",
+        "steps": [
+          "Tamizar la harina en un bol amplio resistente al calor.",
+          "En una cacerola, llevar a ebullición los 250 ml de agua con la sal. En cuanto rompa a hervir a borbotones vivos, verter el agua de golpe sobre la harina.",
+          "Remover de inmediato y enérgicamente con cuchara de madera resistente durante unos 2 minutos hasta formar una masa compacta, pegajosa y sin restos de harina seca (choux simple sin grasa). Dejar templar 5 minutos tapada con paño."
+        ]
+      },
+      {
+        "name": "2. Carga de la Churrera y Formado",
+        "title": "2. Carga de la Churrera y Formado",
+        "steps": [
+          "Colocar la masa tibia dentro de una churrera metálica o manga pastelera con boquilla estrellada de boca fina y resistente (es fundamental expulsar bien todo el aire al presionar la masa para que no exploten al freír).",
+          "Extruir tiras de unos 12 a 15 cm sobre un papel vegetal o paño limpio y unir los dos extremos formando el clásico lazo madrileño."
+        ]
+      },
+      {
+        "name": "3. Fritura Dorada y Escurrido",
+        "title": "3. Fritura Dorada y Escurrido",
+        "steps": [
+          "Calentar abundante aceite en una sartén profunda o freidora a 190 °C.",
+          "Freír los lazos de churros en tandas pequeñas de 3 o 4 unidades para no bajar la temperatura del aceite, durante 2 a 3 minutos por lado hasta que estén bien dorados y crujientes.",
+          "Retirar con espumadera sobre papel absorbente y servir de inmediato bien calientes junto a la taza de chocolate humeante."
+        ]
+      }
+    ],
+    "notes": "El secreto de la seguridad y crocancia del churro español: usar siempre churrera o boquilla con ranuras estrelladas bien marcadas, y asegurar que la masa esté bien apretada sin bolsas de aire para evitar salpicaduras al entrar en el aceite caliente.",
+    "image": "img/churros_madrilenos.jpg",
+    "url": "",
+    "original_title": "Churros Madrileños",
+    "published": "2026-11-07T02:00:00-03:00"
+  },
+  {
+    "id": 503,
+    "title": "Churros con Dulce de Leche (Argentina)",
+    "country": "Argentina",
+    "category": "Postres y Dulces",
+    "tags": [
+      "Argentina",
+      "Churros",
+      "Dulce de Leche",
+      "Merienda",
+      "Playa",
+      "Costa Atlántica",
+      "Masa Frita",
+      "Postres y Dulces",
+      "Churrería",
+      "Clásicos Argentinos"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "15 min",
+    "rest_time": "15 min",
+    "temperature": "180 °C (fritura dorada profunda)",
+    "servings": "4 a 6 porciones (12 churros gruesos rellenos)",
+    "calories": "390 kcal por unidad rellena",
+    "diet_badges": [
+      "Vegetariano",
+      "Fritura Casera",
+      "Bocado Dulce Porteño"
+    ],
+    "story": "Inseparables de las tardes de mate en la playa de Villa Gesell, Pinamar o Mar del Plata, y de las paradas obligadas de merienda en las churrerías de barrio, los churros argentinos tienen una identidad única: son más gruesos y crujientes por fuera, con una cavidad tubular central generosa que se rellena a presión con el más espeso y brillante dulce de leche repostero. Rebozados en azúcar común recién salidos de la paila, combinan la costra salina y crocante de la masa con el corazón cremoso y goloso del dulce nacional.",
+    "ingredient_groups": [
+      {
+        "name": "Masa de Churros Criollos",
+        "items": [
+          "300 g de harina de trigo 000",
+          "300 ml de agua",
+          "1 cucharadita de manteca o aceite de girasol",
+          "1 cucharadita de sal fina (5 g)",
+          "1 cucharadita de esencia de vainilla (opcional)",
+          "Aceite abundante de girasol o grasa para freír"
+        ]
+      },
+      {
+        "name": "Relleno y Cobertura",
+        "items": [
+          "350 g de dulce de leche repostero firme y de buena consistencia",
+          "150 g de azúcar común para rebozar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Masa Escaldada al Estilo Argentino",
+        "title": "1. Masa Escaldada al Estilo Argentino",
+        "steps": [
+          "Hervir el agua junto con la sal, la cucharadita de manteca y la vainilla.",
+          "Añadir la harina de un solo golpe con el fuego apagado y revolver con vigor con cuchara de madera hasta que la masa se despegue de los bordes de la olla y forme una bola firme y homogénea.",
+          "Volcar la masa sobre la mesada limpia y amasar cuidadosamente durante 2 minutos para desgasificarla y asegurar que no queden burbujas de aire internas."
+        ]
+      },
+      {
+        "name": "2. Extrusión Hueca y Fritura",
+        "title": "2. Extrusión Hueca y Fritura",
+        "steps": [
+          "Colocar la masa tibia en una churrera provista de pico para churro relleno (pico estrellado con vástago hueco central).",
+          "Cortar bastones rectos de unos 14 a 15 cm de largo sobre la mesada enharinada.",
+          "Freír en abundante aceite caliente a 180 °C durante unos 4 a 5 minutos, girándolos para que alcancen un dorado castaño parejo y una corteza bien rígida y crocante. Escurrir sobre papel absorbente."
+        ]
+      },
+      {
+        "name": "3. Relleno con Dulce de Leche y Azucarado",
+        "title": "3. Relleno con Dulce de Leche y Azucarado",
+        "steps": [
+          "Cargar una manga pastelera provista de pico largo y fino para rellenar con el dulce de leche repostero.",
+          "Introducir el pico por ambos extremos del churro tibio e inyectar generosamente hasta que el dulce de leche desborde por las puntas.",
+          "Hacer rodar de inmediato los churros por una fuente con azúcar común para que se adhiera al exterior caliente y servir al momento acompañando el mate."
+        ]
+      }
+    ],
+    "notes": "Es imprescindible utilizar dulce de leche repostero (no el tradicional untable) para que con el calor del churro recién frito mantenga su cuerpo y consistencia sin derretirse ni licuarse.",
+    "image": "img/churros_dulce_de_leche.jpg",
+    "url": "",
+    "original_title": "Churros con Dulce de Leche",
+    "published": "2026-11-07T02:00:00-03:00"
+  },
+  {
+    "id": 504,
+    "title": "Churros con Canela (México)",
+    "country": "México",
+    "category": "Postres y Dulces",
+    "tags": [
+      "México",
+      "Churros",
+      "Canela",
+      "Antojitos Dulces",
+      "Churrería",
+      "Postres y Dulces",
+      "Masa Frita",
+      "Coyoacán",
+      "Merienda Mexicana"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "15 min",
+    "rest_time": "10 min",
+    "temperature": "185 °C (aceite caliente para costra rápida)",
+    "servings": "4 porciones (16 bastones crocantes)",
+    "calories": "330 kcal por ración",
+    "diet_badges": [
+      "Vegetariano",
+      "Especiado",
+      "Antojito Tradicional"
+    ],
+    "story": "Herederos del encuentro culinario hispanomexicano y elevados a arte popular en esquinas coloniales como la emblemática Churrería El Moro en la Ciudad de México y los portales de Coyoacán, los churros mexicanos se distinguen por su gloriosa cobertura: recién salidos de la manteca o aceite hirviendo, se revuelcan inmediatamente en una nube espesa de azúcar rubia o blanca perfumada con canela de Ceilán molida fresca. Su exterior sumamente crocante contrasta con un corazón tierno y aromático, tradicionalmente disfrutados con una taza de chocolate caliente espumoso o cajeta.",
+    "ingredient_groups": [
+      {
+        "name": "Masa de Churros a la Mexicana",
+        "items": [
+          "250 g de harina de trigo",
+          "250 ml de agua",
+          "20 g de manteca vegetal o mantequilla",
+          "1/2 cucharadita de sal fina",
+          "1 cucharadita de azúcar",
+          "Aceite abundante para freír"
+        ]
+      },
+      {
+        "name": "Rebozado Aromático de Canela",
+        "items": [
+          "120 g de azúcar común",
+          "2 cucharadas soperas colmadas de canela en polvo fresca (preferentemente canela mexicana en rama recién molida)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Preparación de la Mezcla y Masa",
+        "title": "1. Preparación de la Mezcla y Masa",
+        "steps": [
+          "En una fuente honda amplia, mezclar el azúcar con las 2 cucharadas de canela molida hasta obtener un rebozado uniforme y aromático; reservar cerca de la sartén.",
+          "Llevar a hervor el agua con la manteca, la sal y la cucharadita de azúcar.",
+          "Volcar de golpe la harina tamizada y mover enérgicamente con cuchara de madera hasta que la masa quede suave, brillante y elástica."
+        ]
+      },
+      {
+        "name": "2. Formado de los Bastones",
+        "title": "2. Formado de los Bastones",
+        "steps": [
+          "Pasar la masa aún caliente a una churrera con pico estrella de boca media.",
+          "Formar bastones rectos de unos 15 cm de largo, cortando con cuchillo o tijera sobre una bandeja."
+        ]
+      },
+      {
+        "name": "3. Fritura y Rebozado Inmediato",
+        "title": "3. Fritura y Rebozado Inmediato",
+        "steps": [
+          "Freír en aceite caliente a 185 °C en tandas de 3 a 4 minutos hasta lograr un color dorado rojizo uniforme y una piel bien crujiente.",
+          "Escurrir apenas 10 segundos en papel absorbente y, mientras estén aún calientes y aceitados, volcarlos en la fuente de azúcar y canela, haciéndolos rodar para que queden completamente cubiertos por todas sus estrías.",
+          "Servir al instante en canastitas de papel o platos de barro."
+        ]
+      }
+    ],
+    "notes": "El secreto indispensable: rebozarlos en la canela y azúcar en el instante exacto en que salen del aceite; si se enfrían, el azúcar no se adherirá a las ranuras crocantes.",
+    "image": "img/churros_con_canela.jpg",
+    "url": "",
+    "original_title": "Churros con Canela",
+    "published": "2026-11-07T02:00:00-03:00"
+  },
+  {
+    "id": 505,
+    "title": "Pisco Sour (Perú)",
+    "country": "Perú",
+    "category": "Cocktails & Tragos",
+    "tags": [
+      "Perú",
+      "Pisco",
+      "Pisco Sour",
+      "Cocktails & Tragos",
+      "Tragos Ácidos",
+      "Cítricos",
+      "Coctelería Histórica",
+      "Lima",
+      "Trago Bandera"
+    ],
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "rest_time": "0 min",
+    "temperature": "Servir a -2 °C (helado con espuma densa)",
+    "servings": "1 cóctel",
+    "calories": "180 kcal por copa",
+    "diet_badges": [
+      "Sin Gluten",
+      "Súper Cítrico",
+      "Patrimonio Cultural"
+    ],
+    "story": "Declarado Patrimonio Cultural de la Nación en Perú, el Pisco Sour fue creado a inicios de la década de 1920 en el histórico Morris Bar del centro de Lima por el estadounidense Victor Morris, y perfeccionado luego en el bar del Hotel Maury. Su fórmula respeta la clásica regla dorada de oro '3-1-1': tres partes de pisco puro (habitualmente uva Quebranta), una parte de jugo fresco de limón sutil peruano y una parte de jarabe de goma, con una clara de huevo fresca que genera al batir una espuma blanca y untuosa de terciopelo coronada por tres gotas de amargo de Angostura.",
+    "ingredient_groups": [
+      {
+        "name": "Fórmula Tradicional 3-1-1",
+        "items": [
+          "60 ml (2 oz) de Pisco peruano puro Quebranta de buena calidad",
+          "30 ml (1 oz) de jugo fresco de limón sutil peruano recién exprimido y colado",
+          "30 ml (1 oz) de jarabe de goma o almíbar simple (1:1)",
+          "1 clara de huevo fresca (o 20 ml de clara pasteurizada)",
+          "4 a 5 cubos de hielo macizo para batir"
+        ]
+      },
+      {
+        "name": "Aromas y Presentación",
+        "items": [
+          "3 gotas de amargo de Angostura (o amargo Chuncho peruano)",
+          "Vaso kero o copa de pisco sour de cristal fino previamente enfriada"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Carga de la Coctelera",
+        "title": "1. Carga de la Coctelera",
+        "steps": [
+          "En una coctelera, verter primero el pisco quebranta, el jugo fresco de limón sutil colado y el jarabe de goma.",
+          "Añadir la clara de huevo y 4 o 5 cubos de hielo macizo."
+        ]
+      },
+      {
+        "name": "2. Batido Enérgico",
+        "title": "2. Batido Enérgico",
+        "steps": [
+          "Tapar firmemente la coctelera y batir vigorosamente con ritmo constante durante 15 a 18 segundos para emulsionar la clara de huevo, enfriar la mezcla y generar una espuma consistente y cremosa."
+        ]
+      },
+      {
+        "name": "3. Servicio y Gotas de Amargo",
+        "title": "3. Servicio y Gotas de Amargo",
+        "steps": [
+          "Servir en dos tiempos en la copa fría para permitir que el líquido verde lima se asiente en la base y la corona blanca de espuma se eleve en la parte superior.",
+          "Dejar caer 3 gotas de amargo de Angostura en el centro de la espuma; su función aromática mitiga el olor del huevo y aporta notas especiadas al acercar la copa a la nariz."
+        ]
+      }
+    ],
+    "notes": "Exprimir los limones con suavidad y a mano; apretar la cáscara en exceso libera aceites amargos que estropean la acidez fresca y limpia del trago.",
+    "image": "img/pisco_sour.jpg",
+    "url": "",
+    "original_title": "Pisco Sour",
+    "published": "2026-11-07T02:00:00-03:00"
+  },
+  {
+    "id": 506,
+    "title": "Paloma (México)",
+    "country": "México",
+    "category": "Cocktails & Tragos",
+    "tags": [
+      "México",
+      "Tequila",
+      "Paloma",
+      "Cocktails & Tragos",
+      "Tragos Ácidos",
+      "Pomelo",
+      "Cítricos",
+      "Efervescente",
+      "Coctelería Mexicana"
+    ],
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "rest_time": "0 min",
+    "temperature": "Servir a 0 °C (con hielo abundante en vaso alto)",
+    "servings": "1 cóctel",
+    "calories": "165 kcal por vaso",
+    "diet_badges": [
+      "Sin Gluten",
+      "Refrescante",
+      "Cítrico Natural"
+    ],
+    "story": "La Paloma es el trago más popular y bebido en todo México, superando con creces a la Margarita en las cantinas y reuniones familiares de Jalisco y Tequila. Su origen popular se remonta a mediados del siglo XX en Tequila, Jalisco, atribuido frecuentemente a Don Javier Delgado Corona, dueño del legendario bar La Capilla. El secreto de su éxito es su simpleza magistral: la fuerza vegetal del tequila blanco suavizada por el jugo de lima fresca, la acidez burbujeante del refresco de pomelo rosado y el borde escarchado en sal marina que exalta todos los matices cítricos.",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes de la Paloma",
+        "items": [
+          "60 ml de Tequila blanco 100% de agave",
+          "15 ml de jugo fresco de lima recién exprimido",
+          "100 ml de refresco de toronja / pomelo rosado (tipo Squirt, Jarritos o jugo natural de pomelo con soda y un toque de almíbar)",
+          "1 pizca de sal marina en el trago",
+          "Abundante hielo en cubos transparentes"
+        ]
+      },
+      {
+        "name": "Escarchado y Guarnición",
+        "items": [
+          "Sal marina gruesa o sal con chile tajín para el borde",
+          "1 media luna de pomelo rosado fresco",
+          "Vaso alto (highball) bien frío"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Escarchado del Vaso",
+        "title": "1. Escarchado del Vaso",
+        "steps": [
+          "Pasar una rodaja de lima por el borde exterior de un vaso alto y apoyarlo sobre un plato con sal marina para formar una media luna escarchada."
+        ]
+      },
+      {
+        "name": "2. Integración en el Vaso",
+        "title": "2. Integración en el Vaso",
+        "steps": [
+          "Llenar el vaso con cubos de hielo macizo hasta el tope.",
+          "Verter el tequila blanco, el jugo fresco de lima y una pizca milimétrica de sal marina."
+        ]
+      },
+      {
+        "name": "3. Completado con Pomelo y Decoración",
+        "title": "3. Completado con Pomelo y Decoración",
+        "steps": [
+          "Rellenar lentamente con el refresco de pomelo rosado bien frío y revolver suavemente una sola vez con cuchara de bar para integrar sin romper la efervescencia.",
+          "Decorar con la media luna de pomelo rosado en el borde y servir de inmediato."
+        ]
+      }
+    ],
+    "notes": "Para una versión artesanal de mayor categoría gastronómica, se puede reemplazar la gaseosa por 60 ml de jugo natural de pomelo rosado recién exprimido, 15 ml de almíbar simple y 60 ml de agua con gas o soda.",
+    "image": "img/paloma.jpg",
+    "url": "",
+    "original_title": "Paloma",
+    "published": "2026-11-07T02:00:00-03:00"
+  },
+  {
+    "id": 507,
+    "title": "Submarino (Argentina)",
+    "country": "Argentina",
+    "category": "Cocktails & Tragos",
+    "tags": [
+      "Argentina",
+      "Submarino",
+      "Chocolate",
+      "Cafetería",
+      "Buenos Aires",
+      "Sin Alcohol",
+      "Bebidas",
+      "Merienda",
+      "Café Notable",
+      "Invierno"
+    ],
+    "prep_time": "5 min",
+    "cook_time": "5 min",
+    "rest_time": "0 min",
+    "temperature": "80 °C (leche muy caliente y humeante)",
+    "servings": "1 porción",
+    "calories": "280 kcal",
+    "diet_badges": [
+      "Sin Alcohol",
+      "Vegetariano",
+      "Clásico de Cafetería Porteña"
+    ],
+    "story": "El submarino es una de las instituciones más tiernas y entrañables de la cafetería argentina, símbolo absoluto de las meriendas de invierno y de las charlas en los Cafés Notables de Buenos Aires. Su nombre responde a una metáfora gráfica e ingeniosa: la tableta alargada de chocolate para taza (tradicionalmente chocolate Águila) se 'sumerge' en el fondo de un vaso alto de leche hirviendo como si fuera un submarino adentrándose en el océano blanco, disolviéndose al compás de la cuchara larga de metal hasta teñir la leche de un marrón espeso y reconfortante.",
+    "ingredient_groups": [
+      {
+        "name": "Componentes del Submarino",
+        "items": [
+          "250 ml de leche entera de vaca fresca (debe estar casi a punto de hervor)",
+          "1 tableta entera (unos 40 a 50 g) de chocolate semiamargo especial para taza (estilo Águila)",
+          "1 cucharadita de azúcar común (opcional, al gusto del comensal)"
+        ]
+      },
+      {
+        "name": "Cristalería y Presentación Clásica",
+        "items": [
+          "Vaso largo cilíndrico de vidrio templado encastrado en soporte metálico plateado con asa",
+          "Platito metálico base",
+          "Cuchara metálica de mango largo"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Calentado de la Leche",
+        "title": "1. Calentado de la Leche",
+        "steps": [
+          "En una jarrita lechera a fuego medio, calentar la leche entera hasta que empiece a humear profusamente y asomen las primeras burbujas en los bordes (unos 80-85 °C), sin dejar que hierva del todo ni forme nata gruesa.",
+          "Si se cuenta con vaporizador de máquina express o batidor espumador de leche manual, batir unos segundos para generar una ligera capa de espuma cremosa blanca en la superficie."
+        ]
+      },
+      {
+        "name": "2. Servicio en Vaso Térmico",
+        "title": "2. Servicio en Vaso Térmico",
+        "steps": [
+          "Verter la leche humeante dentro del vaso alto de vidrio templado con su soporte metálico, llenándolo hasta un dedo por debajo del borde."
+        ]
+      },
+      {
+        "name": "3. Inmersión y Ceremonia de Fusión",
+        "title": "3. Inmersión y Ceremonia de Fusión",
+        "steps": [
+          "Servir inmediatamente en la mesa junto a la tableta de chocolate entera apoyada sobre el platito.",
+          "Introducir la tableta de chocolate en el vaso para sumergirla hasta el fondo y comenzar a revolver en círculos continuos con la cuchara de mango largo durante 1 a 2 minutos hasta que el chocolate se funda por completo, formando una leche chocolatada densa, perfumada y tibia."
+        ]
+      }
+    ],
+    "notes": "Para que el chocolate se derrita a la perfección en la mesa, es crucial que la leche llegue bien caliente. En los cafés tradicionales, algunos bármanes colocan un toque de canela o una gota de esencia de vainilla al calentar la leche.",
+    "image": "img/submarino.jpg",
+    "url": "",
+    "original_title": "Submarino",
+    "published": "2026-11-07T02:00:00-03:00"
   }
 ]
