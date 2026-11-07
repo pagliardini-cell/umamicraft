@@ -38314,5 +38314,394 @@
     "url": "",
     "original_title": "Suprema Maryland (Argentina)",
     "published": "2026-11-07T01:00:00-03:00"
+  },
+  {
+    "id": 497,
+    "title": "Corpse Reviver Nº 1 (Reino Unido)",
+    "country": "Reino Unido",
+    "category": "Cocktails & Tragos",
+    "tags": [
+      "Reino Unido",
+      "Savoy",
+      "Corpse Reviver",
+      "Cocktails & Tragos",
+      "Tragos Clásicos",
+      "Cognac",
+      "Calvados",
+      "Vermut",
+      "Coctelería Histórica",
+      "Harry Craddock"
+    ],
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "rest_time": "0 min",
+    "temperature": "Servir a 4 °C (muy frío y refrescado)",
+    "servings": "1 cóctel",
+    "calories": "185 kcal por copa",
+    "diet_badges": [
+      "Sin Gluten",
+      "Clásico de Autor",
+      "Digestivo"
+    ],
+    "story": "Inmortalizado en 1930 por Harry Craddock en The Savoy Cocktail Book de Londres, el Corpse Reviver Nº 1 es el ancestro cálido y espirituoso de la célebre saga. Creado originalmente como un tónico reconstituyente matutino, prescinde de cítricos y apuesta por una untuosa armonía entre la nobleza del cognac, la manzana madura del calvados normando y la complejidad aromática del vermut rosso dulce.",
+    "ingredient_groups": [
+      {
+        "name": "Espirituosos y Aromas",
+        "items": [
+          "45 ml de Cognac o Brandy francés VSOP",
+          "25 ml de Calvados (brandy de manzana de Normandía)",
+          "25 ml de Vermouth rosso dulce italiano",
+          "1 dash (gotas) de bitter de naranja (opcional)",
+          "Abundante hielo en cubos macizos para refrescar"
+        ]
+      },
+      {
+        "name": "Servicio y Presentación",
+        "items": [
+          "1 twist fino y aceitoso de piel de naranja fresca",
+          "Copa Nick & Nora o copa cóctel vintage previamente enfriada"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Enfriado de Copa",
+        "title": "1. Enfriado de Copa",
+        "steps": [
+          "Llenar la copa cóctel con cubos de hielo y un poco de agua fría para acondicionar el cristal mientras se prepara el trago."
+        ]
+      },
+      {
+        "name": "2. Refrescado en Vaso Mezclador",
+        "title": "2. Refrescado en Vaso Mezclador",
+        "steps": [
+          "En un vaso mezclador, verter el cognac, el calvados y el vermut dulce.",
+          "Agregar hielo macizo hasta tres cuartos y remover con cuchara de bar durante 25 a 30 segundos sin quebrar el hielo para mantener el líquido brillante y cristalino."
+        ]
+      },
+      {
+        "name": "3. Servicio y Aromatización",
+        "title": "3. Servicio y Aromatización",
+        "steps": [
+          "Descartar el hielo de la copa, colar con colador Julep y expresar los aceites esenciales del twist de naranja sobre la superficie del cóctel antes de colocarlo como decoración."
+        ]
+      }
+    ],
+    "notes": "Al ser un trago 100% de destilados y vermut, jamás debe batirse en coctelera para no airear ni enturbiar su textura.",
+    "image": "img/corpse_reviver_no1.jpg",
+    "url": "",
+    "original_title": "Corpse Reviver No. 1",
+    "published": "2026-11-07T01:50:00-03:00"
+  },
+  {
+    "id": 498,
+    "title": "Corpse Reviver Nº 2 (Reino Unido)",
+    "country": "Reino Unido",
+    "category": "Cocktails & Tragos",
+    "tags": [
+      "Reino Unido",
+      "Savoy",
+      "Corpse Reviver",
+      "Cocktails & Tragos",
+      "Gin",
+      "Tragos Ácidos",
+      "Lillet Blanc",
+      "Cointreau",
+      "Absenta",
+      "Coctelería Histórica",
+      "Harry Craddock"
+    ],
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "rest_time": "0 min",
+    "temperature": "Servir a -2 °C (muy frío y recién batido)",
+    "servings": "1 cóctel",
+    "calories": "170 kcal por copa",
+    "diet_badges": [
+      "Sin Gluten",
+      "Súper Ácido",
+      "Trago de Culto"
+    ],
+    "story": "El Corpse Reviver Nº 2 es indiscutiblemente la cúspide de la coctelería ácida clásica y uno de los tragos en partes iguales más perfectos jamás diseñados. Publicado en 1930 en The Savoy Cocktail Book, fue ideado para despertar los sentidos con una ráfaga helada de cítricos, hierbas botánicas de gin, dulzura de naranja y el misterio anisado de la absenta.",
+    "ingredient_groups": [
+      {
+        "name": "Fórmula Clásica en Partes Iguales (25 ml c/u)",
+        "items": [
+          "25 ml de London Dry Gin",
+          "25 ml de Lillet Blanc (o Cocchi Americano)",
+          "25 ml de Cointreau o licor triple sec de naranja",
+          "25 ml de jugo fresco de limón amarillo colado",
+          "1 dash (enjuague / spray) de Absenta auténtica",
+          "Hielo abundante para coctelera"
+        ]
+      },
+      {
+        "name": "Guarnición",
+        "items": [
+          "1 cereza marrasquino de coctelería al fondo de la copa",
+          "1 twist fino de piel de limón amarillo",
+          "Copa Coupé de cristal fino enfriada"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Enjuague de Absenta",
+        "title": "1. Enjuague de Absenta",
+        "steps": [
+          "Verter la absenta en la copa Coupé fría, girarla cubriendo todas las paredes internas del cristal y descartar el sobrante."
+        ]
+      },
+      {
+        "name": "2. Batido en Coctelera",
+        "title": "2. Batido en Coctelera",
+        "steps": [
+          "En la coctelera verter el gin, el Lillet Blanc, el Cointreau y el jugo fresco de limón. Añadir hielo hasta el tope y batir con fuerza durante 12 a 15 segundos."
+        ]
+      },
+      {
+        "name": "3. Doble Colado",
+        "title": "3. Doble Colado",
+        "steps": [
+          "Servir con doble colado fino dentro de la copa perfumada, colocar la cereza al fondo y perfumar con el twist de limón."
+        ]
+      }
+    ],
+    "notes": "Respetar la proporción exacta 1:1:1:1 con jugo de limón recién exprimido y colado para el equilibrio ácido perfecto.",
+    "image": "img/corpse_reviver_no2.jpg",
+    "url": "",
+    "original_title": "Corpse Reviver No. 2",
+    "published": "2026-11-07T01:50:00-03:00"
+  },
+  {
+    "id": 499,
+    "title": "Corpse Reviver Nº 3 (Reino Unido)",
+    "country": "Reino Unido",
+    "category": "Cocktails & Tragos",
+    "tags": [
+      "Reino Unido",
+      "Café Royal",
+      "Corpse Reviver",
+      "Cocktails & Tragos",
+      "Brandy",
+      "Champagne",
+      "Menta",
+      "Efervescente",
+      "Trago Festivo"
+    ],
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "rest_time": "0 min",
+    "temperature": "Servir a 3 °C (fresco y burbujeante)",
+    "servings": "1 cóctel",
+    "calories": "190 kcal por copa",
+    "diet_badges": [
+      "Sin Gluten",
+      "Efervescente",
+      "Alta Coctelería"
+    ],
+    "story": "Documentado en los bares de Londres en la década de 1930 y recogido en compilaciones como la del Café Royal Cocktail Book (1937), combina una base cítrica y mentolada de brandy con un golpe efervescente de Champagne brut helado.",
+    "ingredient_groups": [
+      {
+        "name": "Base del Cóctel",
+        "items": [
+          "35 ml de Brandy o Cognac francés",
+          "20 ml de jugo fresco de limón amarillo",
+          "15 ml de Crema de menta blanca",
+          "1 gota (dash) de Absenta o Pernod",
+          "Hielo para coctelera"
+        ]
+      },
+      {
+        "name": "Terminación y Corona",
+        "items": [
+          "60 ml de Champagne brut o Vino Espumoso método tradicional muy frío",
+          "1 hojita de menta fresca limpia",
+          "1 espiral de piel de limón",
+          "Copa flauta o copa Coupé alta"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Batido de la Base Cítrica",
+        "title": "1. Batido de la Base Cítrica",
+        "steps": [
+          "En una coctelera con hielo, agregar el brandy, el jugo de limón, la crema de menta y la gota de absenta. Batir 10 segundos."
+        ]
+      },
+      {
+        "name": "2. Filtrado y Burbujas",
+        "title": "2. Filtrado y Burbujas",
+        "steps": [
+          "Colar en la copa flauta fría hasta la mitad y completar lentamente con el Champagne brut helado."
+        ]
+      },
+      {
+        "name": "3. Decoración",
+        "title": "3. Decoración",
+        "steps": [
+          "Decorar con una espiral de limón y una hojita de menta flotando sobre la espuma."
+        ]
+      }
+    ],
+    "notes": "La efervescencia del espumante y la frescura de la menta actúan como revitalizador y digestivo natural.",
+    "image": "img/corpse_reviver_no3.jpg",
+    "url": "",
+    "original_title": "Corpse Reviver No. 3",
+    "published": "2026-11-07T01:50:00-03:00"
+  },
+  {
+    "id": 500,
+    "title": "Corpse Reviver Blue (Nueva Zelanda)",
+    "country": "Nueva Zelanda",
+    "category": "Cocktails & Tragos",
+    "tags": [
+      "Nueva Zelanda",
+      "Corpse Reviver",
+      "Cocktails & Tragos",
+      "Gin",
+      "Blue Curaçao",
+      "Tragos Modernos",
+      "Tragos Ácidos",
+      "Jacob Briars"
+    ],
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "rest_time": "0 min",
+    "temperature": "Servir a -2 °C (helado)",
+    "servings": "1 cóctel",
+    "calories": "175 kcal por copa",
+    "diet_badges": [
+      "Sin Gluten",
+      "Color Neón",
+      "Cítrico y Vibrante"
+    ],
+    "story": "Creado en 2007 por el bartender neozelandés Jacob Briars, es una audaz reinterpretación moderna que reemplaza el Cointreau por Blue Curaçao, logrando un color azul zafiro eléctrico manteniendo la acidez cortante y el perfil del original.",
+    "ingredient_groups": [
+      {
+        "name": "Componentes en Partes Iguales (25 ml c/u)",
+        "items": [
+          "25 ml de London Dry Gin",
+          "25 ml de Blue Curaçao de alta graduación",
+          "25 ml de Lillet Blanc o Cocchi Americano",
+          "25 ml de jugo fresco de limón amarillo colado",
+          "1 dash (spray) de Absenta",
+          "Hielo en rocas para batir"
+        ]
+      },
+      {
+        "name": "Presentación",
+        "items": [
+          "1 twist fino de limón amarillo",
+          "Copa Coupé de cristal transparente fría"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Enjuague de Absenta",
+        "title": "1. Enjuague de Absenta",
+        "steps": [
+          "Rociar la copa Coupé con un dash de absenta y descartar el exceso."
+        ]
+      },
+      {
+        "name": "2. Batido Cítrico Azul",
+        "title": "2. Batido Cítrico Azul",
+        "steps": [
+          "Verter el gin, el Blue Curaçao, el Lillet y el jugo de limón en la coctelera. Batir enérgicamente con hielo abundante durante 12 segundos."
+        ]
+      },
+      {
+        "name": "3. Doble Colado",
+        "title": "3. Doble Colado",
+        "steps": [
+          "Doble colar sobre la copa fría logrando el color azul zafiro y decorar con el twist de limón amarillo."
+        ]
+      }
+    ],
+    "notes": "Elegir un Blue Curaçao seco y de calidad para no agregar dulzor excesivo y preservar la acidez.",
+    "image": "img/corpse_reviver_blue.jpg",
+    "url": "",
+    "original_title": "Corpse Reviver Blue",
+    "published": "2026-11-07T01:50:00-03:00"
+  },
+  {
+    "id": 501,
+    "title": "Oaxacan Corpse Reviver (México)",
+    "country": "México",
+    "category": "Cocktails & Tragos",
+    "tags": [
+      "México",
+      "Oaxaca",
+      "Corpse Reviver",
+      "Cocktails & Tragos",
+      "Mezcal",
+      "Tragos Ahumados",
+      "Tragos Ácidos",
+      "Coctelería de Autor"
+    ],
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "rest_time": "0 min",
+    "temperature": "Servir a -2 °C",
+    "servings": "1 cóctel",
+    "calories": "180 kcal por copa",
+    "diet_badges": [
+      "Sin Gluten",
+      "Ahumado",
+      "Trago de Autor"
+    ],
+    "story": "Variación de autor contemporánea que sustituye el gin por mezcal espadín artesanal oaxaqueño. El humo característico de la cocción del agave se funde con el licor de naranja, el Lillet y la acidez del limón con notas de absenta.",
+    "ingredient_groups": [
+      {
+        "name": "Mezcla de Agave y Cítricos (25 ml c/u)",
+        "items": [
+          "25 ml de Mezcal espadín artesanal",
+          "25 ml de Cointreau o Triple Sec",
+          "25 ml de Lillet Blanc",
+          "25 ml de jugo fresco de limón amarillo recién exprimido",
+          "1 dash generoso de Absenta artesanal",
+          "Hielo en cubos para coctelera"
+        ]
+      },
+      {
+        "name": "Borde y Decoración",
+        "items": [
+          "1 pizca fina de sal de gusano en un tercio del borde exterior de la copa",
+          "1 rodaja de limón deshidratado",
+          "Copa Coupé tallada"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Borde de Sal de Gusano",
+        "title": "1. Borde de Sal de Gusano",
+        "steps": [
+          "Humedecer un tercio del borde exterior con limón y pasar por sal de gusano. Enjuagar el interior con absenta."
+        ]
+      },
+      {
+        "name": "2. Batido en Coctelera",
+        "title": "2. Batido en Coctelera",
+        "steps": [
+          "Verter el mezcal, el Cointreau, el Lillet y el jugo de limón con abundante hielo. Batir 12 a 15 segundos."
+        ]
+      },
+      {
+        "name": "3. Doble Colado",
+        "title": "3. Doble Colado",
+        "steps": [
+          "Doble colar en la copa y colocar la rodaja de limón deshidratado en el centro."
+        ]
+      }
+    ],
+    "notes": "El humo del mezcal y la sal de gusano resaltan los toques terrosos y potencian la acidez del limón.",
+    "image": "img/oaxacan_corpse_reviver.jpg",
+    "url": "",
+    "original_title": "Oaxacan Corpse Reviver",
+    "published": "2026-11-07T01:50:00-03:00"
   }
 ]
