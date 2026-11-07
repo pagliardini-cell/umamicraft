@@ -39804,7 +39804,7 @@
   },
   {
     "id": 514,
-    "title": "Vieiras con Morcilla Vasca y Puré de Manzana (Argentina)",
+    "title": "Vieiras con Morcilla Vasca (Argentina)",
     "country": "Argentina",
     "category": "Plato Principal",
     "tags": [
@@ -39814,87 +39814,78 @@
       "Mar y Montaña",
       "Vieiras Patagónicas",
       "Morcilla Vasca",
-      "Manzana Verde",
-      "Río Negro",
+      "Golfo San Matías",
+      "Chubut",
       "Patagonia",
       "Gourmet"
     ],
-    "prep_time": "25 min",
-    "cook_time": "20 min",
-    "rest_time": "5 min",
-    "temperature": "Fuego vivo (sellado rápido)",
+    "prep_time": "15 min",
+    "cook_time": "10 min",
+    "rest_time": "2 min",
+    "temperature": "Fuego vivo (plancha bien caliente)",
     "servings": "2 porciones de autor como plato principal",
-    "calories": "520 kcal por porción",
+    "calories": "440 kcal por porción",
     "diet_badges": [
       "Pescados y Mariscos",
       "Cocina de Autor",
       "Plato Principal"
     ],
-    "story": "En la gastronomía contemporánea argentina, el maridaje de 'Mar y Montaña' alcanza su máxima expresión al unir el litoral patagónico con la tradición chacinera criolla: generosas vieiras del Golfo San Matías y Chubut selladas con manteca, escoltadas por medallones crocantes de morcilla vasca dulce argentina —con su inconfundible corazón enriquecido con nueces picadas y pasas de uva—. Para equilibrar la grasa fundente y el dulzor especiado de la morcilla, se asienta sobre un puré aterciopelado de manzanas verdes Granny Smith del Alto Valle de Río Negro cocidas con sidra natural y manteca. Un plato principal sofisticado, contundente y con una armonía de contrastes inolvidable.",
+    "story": "En la gastronomía contemporánea argentina, el maridaje de 'Mar y Montaña' alcanza una pureza absoluta en este bocado de autor: generosas vieiras carnosas de las costas patagónicas (Golfo San Matías o Chubut) selladas a fuego vivo con manteca, montadas directamente sobre medallones gruesos y crujientes de morcilla vasca dulce argentina —con su inconfundible corazón de sangre especiada, nueces crocantes y pasas de uva—. Sin cremas ni intermediarios: únicamente el choque térmico y gustativo del marisco blanco, tierno y yodado frente a la potencia untuosa, dulce y tostada de la morcilla criolla, coronado con brotes tiernos y sal marina en escamas.",
     "ingredient_groups": [
       {
         "name": "Vieiras Patagónicas y Morcilla Vasca",
         "items": [
-          "8 vieiras patagónicas grandes y carnosas (limpias, sin concha, bien secas)",
-          "2 morcillas vascas dulces argentinas de carnicería (con nueces y pasas de uva)",
-          "2 cucharadas soperas de manteca de buena calidad",
-          "1 cucharada de aceite de oliva virgen extra",
-          "Sal marina en escamas de la Patagonia y pimienta negra recién molida"
+          "6 a 8 vieiras patagónicas grandes y carnosas (limpias, sin concha, minuciosamente secas)",
+          "2 morcillas vascas dulces artesanales (con nueces y pasas de uva)",
+          "2 cucharadas soperas de manteca de campo",
+          "1 cucharada de aceite de oliva virgen extra de primera prensada",
+          "Sal marina en escamas de la Patagonia",
+          "Pimienta negra recién molida"
         ]
       },
       {
-        "name": "Puré Fino de Manzanas del Alto Valle a la Sidra",
+        "name": "Decoración y Pase de Autor",
         "items": [
-          "3 manzanas verdes Granny Smith del Alto Valle de Río Negro (peladas y en cubos)",
-          "50 ml de sidra natural de manzana (o vino blanco seco)",
-          "25 g de manteca fría en cubitos",
-          "1 cucharadita de jugo de limón fresco",
-          "1 pizca de sal marina fina (potencia la acidez y dulzor)"
-        ]
-      },
-      {
-        "name": "Reducción de Sidra y Emplatado",
-        "items": [
-          "150 ml de sidra natural reducida a fuego lento hasta textura de jarabe brillante",
-          "Brotes verdes tiernos o microgreens para contraste visual"
+          "Un puñado de brotes tiernos de arveja, rabanito o microgreens frescos",
+          "Unas gotas de reducción de vino blanco o aceite de oliva virgen para abrillantar"
         ]
       }
     ],
     "step_groups": [
       {
-        "name": "1. Puré Aterciopelado de Manzana Verde",
-        "title": "1. Puré Aterciopelado de Manzana Verde",
+        "name": "1. Corte y Sellado Crocante de la Morcilla Vasca",
+        "title": "1. Corte y Sellado Crocante de la Morcilla Vasca",
         "steps": [
-          "En una cacerolita a fuego medio, colocar los cubos de manzana verde junto con la sidra y el jugo de limón.",
-          "Tapar y cocinar a fuego suave durante 12 a 15 minutos hasta que las manzanas estén completamente tiernas y hayan absorbido los aromas de la sidra.",
-          "Retirar del fuego y procesar con minipimer o licuadora incorporando los cubitos de manteca fría y una pizca de sal hasta lograr un puré fino, liso, brillante y de textura sedosa. Mantener tibio tapado."
-        ]
-      },
-      {
-        "name": "2. Dorado de la Morcilla Vasca y Reducción",
-        "title": "2. Dorado de la Morcilla Vasca y Reducción",
-        "steps": [
-          "Cortar las morcillas vascas en rodajas gruesas de 2 cm (medallones).",
+          "Con un cuchillo afilado, cortar las morcillas vascas en rodajas cilíndricas gruesas de 2 a 2,5 cm de alto para que hagan de base firme.",
           "Calentar una sartén antiadherente o plancha a fuego medio con unas gotas de aceite de oliva.",
-          "Dorar los medallones de morcilla durante 2 minutos por lado hasta que formen una costra firme y crujiente por fuera pero mantengan el centro cremoso. Retirar con cuidado sobre papel absorbente.",
-          "En un sartencito pequeño, reducir los 150 ml de sidra a fuego vivo durante 5 minutos hasta que espese formando un glaseado brillante."
+          "Acomodar los medallones de morcilla y dorar durante 2 minutos por lado hasta que la superficie forme una costrita firme, tostada y crocante sin que se desarme el interior cremoso. Retirar con espátula sobre papel absorbente."
         ]
       },
       {
-        "name": "3. Sellado Perfecto de las Vieiras y Emplatado de Autor",
-        "title": "3. Sellado Perfecto de las Vieiras y Emplatado de Autor",
+        "name": "2. Sellado Vivo de las Vieiras Patagónicas",
+        "title": "2. Sellado Vivo de las Vieiras Patagónicas",
         "steps": [
-          "REGLA DE ORO: Secar minuciosamente las vieiras con papel de cocina. Si tienen humedad superficial se hervirán en vez de dorarse.",
-          "Calentar una sartén de fondo grueso a fuego muy vivo con 1 cucharada de aceite de oliva y 2 cucharadas de manteca hasta que comience a espumar con aroma avellanado.",
-          "Colocar las vieiras sin amontonar. Sellar estrictamente durante 1 minuto a 1 minuto y medio por lado sin moverlas, hasta lograr un dorado caramelo intenso por fuera y un corazón nacarado, tibio y tierno por dentro. Retirar de inmediato.",
-          "Emplatado: En dos platos amplios tibios, trazar una lágrima generosa de puré de manzana verde. Disponer 4 medallones de morcilla vasca y apoyar sobre cada uno una vieira sellada. Salpimentar el marisco con escamas de sal marina, salpicar con gotas de reducción de sidra y coronar con brotes tiernos."
+          "SECRETO VITAL: Secar perfectamente los medallones de vieira con papel de cocina por todas sus caras. La superficie debe estar completamente seca para caramelizar.",
+          "Poner una sartén de hierro o fondo grueso a fuego fuerte. Añadir la manteca y la cucharada de aceite de oliva.",
+          "Cuando la manteca deje de chisporrotear y tome un suave tono dorado avellanado, colocar las vieiras.",
+          "Sellar durante 1 minuto exacto de un lado sin moverlas para lograr un dorado intenso. Dar vuelta y cocinar 45 segundos más del otro lado, bañándolas con la manteca caliente. El interior debe quedar nacarado, tibio y súper jugoso. Retirar inmediatamente."
+        ]
+      },
+      {
+        "name": "3. Montaje y Emplatado de Autor",
+        "title": "3. Montaje y Emplatado de Autor",
+        "steps": [
+          "En un plato de cerámica artesanal (idealmente turquesa o tono piedra para resaltar el contraste cromático), disponer los medallones de morcilla vasca dorados.",
+          "Apoyar sobre cada medallón una vieira recién sellada con su cara más dorada hacia arriba.",
+          "Espolvorear el marisco con escamas de sal marina patagónica y una pizca sutil de pimienta negra.",
+          "Distribuir los brotes frescos alrededor y entre las piezas, y dejar caer unas gotas de aceite de oliva virgen extra. Servir de inmediato."
         ]
       }
     ],
-    "notes": "Secretos del Chef: La morcilla vasca criolla aporta la untuosidad y el punto crujiente de las nueces que marida a la perfección con la carne blanca y dulce de la vieira. Nunca sobrecocines la vieira: apenas el centro pasa de translúcido a blanco nacarado (apenas 2 minutos totales de fuego vivo), debe salir de la sartén para conservar su jugosidad incomparable.",
-    "image": "img/vieiras_morcilla_vasca_manzana.jpg",
+    "notes": "Consejo del Chef: Al prescindir de purés, el protagonismo recae al 100% en la calidad del marisco y el punto de cocción. La morcilla vasca argentina aporta toda la complejidad necesaria: el toque crocante de las nueces y el dulzor de las pasas dialogan a la perfección con la carne dulce de la vieira patagónica.",
+    "image": "img/vieiras_morcilla_vasca_manzana.jpg?v=2",
     "url": "",
-    "original_title": "Vieiras con Morcilla Vasca y Puré de Manzana (Argentina)",
+    "original_title": "Vieiras con Morcilla Vasca (Argentina)",
     "published": true
   },
   {
@@ -39992,6 +39983,615 @@
     "image": "img/vieiras_morcilla_coliflor_trufada.jpg",
     "url": "",
     "original_title": "Vieiras con Crujiente de Morcilla y Crema de Coliflor Trufada (Argentina)",
+    "published": true
+  },
+  {
+    "id": 516,
+    "title": "Tortilla de Papas Chips de José Andrés (España)",
+    "country": "España",
+    "category": "Tapas / Picoteo",
+    "tags": [
+      "España",
+      "José Andrés",
+      "Tortilla Española",
+      "Papas Chips",
+      "Tapas",
+      "Huevos",
+      "Cocina Viral",
+      "Plato de Autor",
+      "Técnica Culinaria"
+    ],
+    "prep_time": "5 min",
+    "cook_time": "6 min",
+    "rest_time": "3 min",
+    "temperature": "Fuego medio-bajo en sartén antiadherente",
+    "servings": "4 porciones de picoteo",
+    "calories": "280 kcal por porción",
+    "diet_badges": [
+      "Vegetariano",
+      "Cocina de Autor",
+      "Tapas"
+    ],
+    "story": "La tortilla de papas chips es la creación más popular, democrática y divulgada del célebre chef asturiano José Andrés. Popularizada en televisión internacional y en sus libros de cocina, nació de una genialidad técnica: utilizar papas fritas de paquete de excelente calidad (fritas en aceite de oliva) para hidratarlas en huevo batido durante unos minutos antes de cuajar. El almidón de la papa chip absorbe el huevo, ablandándose hasta adquirir la textura exacta de una papa pochada lentamente en aceite, pero con una salazón perfecta y un dorado uniforme en menos de diez minutos.",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes Base",
+        "items": [
+          "6 huevos grandes camperos (a temperatura ambiente)",
+          "100 g de papas fritas chips clásicas de buena calidad (preferiblemente fritas en aceite de oliva virgen extra)",
+          "2 cucharadas soperas de aceite de oliva virgen extra",
+          "Pimienta negra recién molida y una pizca leve de sal (las papas chips ya aportan salazón)",
+          "Opcional: 1 cucharada de cebolla frita crujiente o cebolla caramelizada"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Hidratación de las Papas Chips",
+        "title": "1. Hidratación de las Papas Chips",
+        "steps": [
+          "En un bol amplio, batir enérgicamente los 6 huevos hasta que espumen ligeramente.",
+          "Añadir una pizca de pimienta negra.",
+          "Incorporar las papas chips rompiéndolas groseramente con las manos (no hacerlas polvo, deben quedar trozos visibles de 1 a 2 cm).",
+          "Mezclar suavemente para que todo el huevo cubra las papas. SECRETO DE JOSÉ ANDRÉS: Dejar reposar la mezcla exactamente entre 3 y 5 minutos. Las papas absorberán el huevo líquido, ablandándose como papas tiernas pochadas pero conservando sabor y cuerpo."
+        ]
+      },
+      {
+        "name": "2. Cuajado y Vuelta en Sartén",
+        "title": "2. Cuajado y Vuelta en Sartén",
+        "steps": [
+          "Calentar una sartén antiadherente de 20 o 22 cm a fuego medio con las 2 cucharadas de aceite de oliva virgen extra.",
+          "Cuando el aceite esté caliente, volcar toda la mezcla de huevo y papas.",
+          "Con una espátula de silicona, remover el centro durante 30 segundos como si fuera un revuelto para generar cremosidad uniforme.",
+          "Bajar el fuego a medio-bajo y redondear los bordes con la espátula. Cocinar durante 2 a 3 minutos hasta que la base esté dorada y firme.",
+          "Colocar un plato llano aceitado sobre la sartén, dar la vuelta con un movimiento firme y seguro, y deslizar la tortilla nuevamente hacia la sartén.",
+          "Cocinar 1 o 2 minutos más por el segundo lado cuidando que el centro quede jugoso (estilo 'babé'). Deslizar a un plato y dejar reposar 2 minutos antes de cortar."
+        ]
+      }
+    ],
+    "notes": "Tip del Chef José Andrés: Si te gusta la tortilla con cebolla, podés sumar una cucharada colmada de cebolla caramelizada casera a la mezcla de huevos y papas. La calidad de la papa chip es clave: elegí papas gruesas y fritas en aceite de oliva.",
+    "image": "img/tortilla_papas_chips_jose_andres.jpg",
+    "url": "",
+    "original_title": "Tortilla de Papas Chips de José Andrés (España)",
+    "published": true
+  },
+  {
+    "id": 517,
+    "title": "Omelette al Microondas con Mayonesa (España)",
+    "country": "España",
+    "category": "Huevos / Desayunos",
+    "tags": [
+      "España",
+      "José Andrés",
+      "Omelette",
+      "Microondas",
+      "Mayonesa",
+      "Desayuno",
+      "Cocina Viral",
+      "Técnica Rápida"
+    ],
+    "prep_time": "3 min",
+    "cook_time": "2 min",
+    "rest_time": "1 min",
+    "temperature": "Potencia media (600 W - 800 W) en microondas",
+    "servings": "1 porción individual esponjosa",
+    "calories": "240 kcal por porción",
+    "diet_badges": [
+      "Vegetariano",
+      "Desayuno Rápido",
+      "Cocina de Autor"
+    ],
+    "story": "El chef José Andrés causó sensación en redes sociales y medios internacionales al afirmar que el mejor omelette rápido del mundo no se hace en una sartén tradicional de cobre, sino en el microondas y con un ingrediente secreto: una cucharada de mayonesa. Al batir la mayonesa —que es una emulsión estable de huevo y aceite— junto con los huevos crudos, las grasas emulsionadas protegen a las proteínas del huevo de la sobrecocción de las microondas, logrando un cuajado sumamente esponjoso, aireado como un soufflé y de color amarillo pálido perfecto, sin bordes tostados ni resecamiento.",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes Principales",
+        "items": [
+          "2 huevos frescos grandes camperos",
+          "1 cucharada sopera colmada de mayonesa clásica de buena calidad (o casera)",
+          "1 cucharadita de manteca o aceite de oliva (para lubricar el recipiente)",
+          "1 pizca de sal fina y pimienta blanca recién molida",
+          "1 cucharada de cebollino fresco picado fino para terminar",
+          "Opcional: 20 g de queso Gruyère o fontina rallado"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Emulsión y Batido de Autor",
+        "title": "1. Emulsión y Batido de Autor",
+        "steps": [
+          "En un bol pequeño apto para microondas (o molde cerámico de fondo plano), untar las paredes y el fondo con la cucharadita de manteca.",
+          "En otro cuenco, romper los dos huevos y añadir la cucharada de mayonesa, una pizca de sal y pimienta blanca.",
+          "Batir enérgicamente con batidor de alambre o tenedor durante 1 minuto completo hasta que la mayonesa se disuelva por completo y la mezcla quede homogénea, lisa y llena de microburbujas de aire.",
+          "Volcar la mezcla en el recipiente enmantecado."
+        ]
+      },
+      {
+        "name": "2. Cocción por Intervalos al Microondas",
+        "title": "2. Cocción por Intervalos al Microondas",
+        "steps": [
+          "Llevar el bol al microondas a potencia media (aprox. 700 W). Cocinar durante 45 a 50 segundos.",
+          "Abrir: los bordes habrán inflado y el centro estará aún líquido. Remover delicadamente el centro con un tenedor trayendo lo cocido de los bordes hacia adentro.",
+          "(Si se usa queso rallado, espolvorearlo en el centro en este momento).",
+          "Volver al microondas durante 30 a 45 segundos más hasta que haya inflado de manera uniforme y el centro esté apenas tembloroso y cuajado.",
+          "Retirar con cuidado. Con la ayuda de una espátula de silicona, doblar el omelette en dos (media luna). Dejar reposar 1 minuto (el calor residual terminará de asentar la textura soufflé). Espolvorear con cebollino fresco y servir con tostadas."
+        ]
+      }
+    ],
+    "notes": "Secreto de la Técnica: La mayonesa actúa como aislante térmico microscópico. El aceite emulsionado impide que la albúmina se coagule bruscamente y expulse agua, dando una textura etérea de hotel 5 estrellas sin ensuciar sartenes.",
+    "image": "img/omelette_microondas_mayonesa.jpg",
+    "url": "",
+    "original_title": "Omelette al Microondas con Mayonesa (España)",
+    "published": true
+  },
+  {
+    "id": 518,
+    "title": "Philly Cheesesteak en Airbread (Estados Unidos)",
+    "country": "Estados Unidos",
+    "category": "Plato Principal",
+    "tags": [
+      "Estados Unidos",
+      "José Andrés",
+      "minibar",
+      "Alta Cocina",
+      "Cocina de Vanguardia",
+      "Airbread",
+      "Wagyu",
+      "Cheddar",
+      "Gourmet",
+      "Plato de Autor"
+    ],
+    "prep_time": "40 min",
+    "cook_time": "20 min",
+    "rest_time": "10 min",
+    "temperature": "220 °C (horneado de airbread)",
+    "servings": "6 piezas de alta cocina",
+    "calories": "260 kcal por pieza",
+    "diet_badges": [
+      "Cocina de Vanguardia",
+      "Alta Cocina",
+      "Plato de Autor"
+    ],
+    "story": "El Philly Cheesesteak en Airbread es la obra cumbre de la cocina tecno-emocional de José Andrés en su legendario restaurante con dos estrellas Michelin, 'minibar by José Andrés' en Washington D.C. Reinterpretando el clásico sándwich callejero de Filadelfia, José Andrés creó una estructura de 'pan de aire' (airbread): un cilindro hueco, etéreo y crujiente de masa soplada, inyectado en su interior con una espuma tibia y fundente de queso cheddar y provolone, coronado con láminas ultrafinas de carne Wagyu sellada al soplete y cebolla caramelizada. Una explosión de sabor que desborda el paladar en un solo bocado crujiente y caliente.",
+    "ingredient_groups": [
+      {
+        "name": "Masa de Airbread (Pan de Aire)",
+        "items": [
+          "200 g de harina 0000 de gran fuerza",
+          "110 ml de agua tibia",
+          "5 g de levadura fresca",
+          "4 g de sal fina",
+          "10 ml de aceite de oliva virgen extra"
+        ]
+      },
+      {
+        "name": "Espuma Caliente de Queso Cheddar y Provolone",
+        "items": [
+          "150 g de queso cheddar blanco curado de calidad rallado",
+          "50 g de queso Provolone suave rallado",
+          "150 ml de crema de leche espesa",
+          "100 ml de leche entera",
+          "1 pizca de nuez moscada y sal al gusto",
+          "(Se utiliza un sifón de cocina con 1 o 2 cargas de N2O, o manga pastelera fina)"
+        ]
+      },
+      {
+        "name": "Carne Wagyu y Cebolla Confitada",
+        "items": [
+          "150 g de bife de chorizo Wagyu (o lomo vacuno de pastura madurado), cortado en lonchas casi transparentes (estilo carpaccio fino)",
+          "1 cebolla dulce cortada en juliana fina y confitada lentamente en manteca",
+          "Sal en escamas Maldon y microbrotes para decorar",
+          "Aceite de trufa o pimienta negra para aromatizar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Elaboración del Airbread (Pan Inflado Hueco)",
+        "title": "1. Elaboración del Airbread (Pan Inflado Hueco)",
+        "steps": [
+          "Amasar la harina con el agua, levadura, sal y aceite hasta obtener una masa lisa y elástica. Dejar reposar 1 hora.",
+          "Estirar la masa con máquina de pastas o palote hasta dejarla finísima (aprox. 1 mm de espesor).",
+          "Cortar rectángulos de 6x10 cm. Enrollarlos ligeramente sobre tubos metálicos o colocarlos sobre piedra caliente de horno precalentado a 220 °C.",
+          "Hornear durante 5 a 6 minutos: la masa se inflará de golpe como un globo hueco y dorado, creando una cápsula crujiente y vacía por dentro. Dejar enfriar sobre rejilla."
+        ]
+      },
+      {
+        "name": "2. Crema Caliente de Queso Fundido",
+        "title": "2. Crema Caliente de Queso Fundido",
+        "steps": [
+          "En una cacerolita, calentar la leche y la crema de leche sin hervir.",
+          "Incorporar los quesos rallados removiendo constantemente hasta fundir y emulsionar una crema lisa sin grumos.",
+          "Colar por tamiz fino y verter en un sifón térmico con 1 carga de gas (o mantener tibia en manga con boquilla fina)."
+        ]
+      },
+      {
+        "name": "3. Relleno, Sellado de la Carne y Montaje",
+        "title": "3. Relleno, Sellado de la Carne y Montaje",
+        "steps": [
+          "Hacer una pequeña perforación en la base o extremo de cada cápsula de airbread.",
+          "Inyectar la espuma tibia de queso fundido dentro del pan hueco hasta que se sienta pesado y relleno.",
+          "Disponer sobre la parte superior de cada airbread una capa sutil de cebolla caramelizada.",
+          "Cubrir con las láminas ultrafinas de carne Wagyu. Dar un toque rápido con soplete gastronómico para fundir la grasa de la carne y sellarla en segundos.",
+          "Terminar con escamas de sal marina, pimienta y microbrotes. Servir de inmediato mientras el pan está crocante y el queso fluye tibio al morder."
+        ]
+      }
+    ],
+    "notes": "Técnica de minibar: La magia de este plato es el contraste de temperaturas y texturas: el pan cruje como vidrio, la carne tibia y grasa se deshace en la lengua y el queso caliente estalla inundando la boca en una sola experiencia sensorial.",
+    "image": "img/philly_cheesesteak_airbread.jpg",
+    "url": "",
+    "original_title": "Philly Cheesesteak en Airbread (Estados Unidos)",
+    "published": true
+  },
+  {
+    "id": 519,
+    "title": "Croquetas Cremosas de Pollo de Jaleo (España)",
+    "country": "España",
+    "category": "Tapas / Picoteo",
+    "tags": [
+      "España",
+      "José Andrés",
+      "Jaleo",
+      "Croquetas de Pollo",
+      "Tapas",
+      "Bechamel",
+      "Fritura Crujiente",
+      "Clásicos Españoles",
+      "Cocina de Autor"
+    ],
+    "prep_time": "45 min",
+    "cook_time": "20 min",
+    "rest_time": "4 h (enfriado riguroso de bechamel)",
+    "temperature": "180 °C (aceite abundante)",
+    "servings": "20 croquetas gourmet",
+    "calories": "95 kcal por croqueta",
+    "diet_badges": [
+      "Tapas",
+      "Cocina Tradicional Española",
+      "Plato de Autor"
+    ],
+    "story": "Las croquetas de pollo son el buque insignia absoluto y el producto de mayor facturación en los restaurantes Jaleo y The Bazaar de José Andrés. Famosas por servirse lúdicamente dentro de una réplica de zapatilla de porcelana, su secreto radica en una bechamel cocinada pacientemente durante más de media hora a fuego mínimo con leche infusionada y caldo de pollo concentrado, logrando un porcentaje de líquido tan alto que la masa en caliente parece líquida y solo se puede bolear tras horas de frío riguroso. Al freírlas, la costra exterior queda finísima y crujiente, mientras que el interior explota en una crema semilíquida e hiper sabrosa.",
+    "ingredient_groups": [
+      {
+        "name": "Pollo y Fondo de Sabor",
+        "items": [
+          "250 g de carne de pollo cocida (muslos y pechuga asados o de caldo, desmenuzados en hebras finitas)",
+          "50 g de jamón serrano picado muy fino",
+          "1/2 cebolla dulce picada diminuta (brunoise fina)",
+          "3 cucharadas de aceite de oliva virgen extra"
+        ]
+      },
+      {
+        "name": "Bechamel Fluida de Autor",
+        "items": [
+          "80 g de manteca de buena calidad",
+          "85 g de harina de trigo 0000",
+          "750 ml de leche entera caliente (infusionada con una hoja de laurel)",
+          "250 ml de caldo de pollo casero concentrado caliente",
+          "Nuez moscada recién rallada, sal y pimienta blanca al gusto"
+        ]
+      },
+      {
+        "name": "Rebozado Crujiente y Fritura",
+        "items": [
+          "2 huevos camperos batidos",
+          "150 g de pan rallado fino (o mezcla de 70% pan rallado y 30% panko molido)",
+          "50 g de harina común para el primer pase",
+          "Abundante aceite de oliva virgen o girasol para freír"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Sofrito y Roux de Alta Cocina",
+        "title": "1. Sofrito y Roux de Alta Cocina",
+        "steps": [
+          "En una cazuela amplia, calentar el aceite de oliva y pochar la cebolla a fuego muy bajo durante 8 minutos sin que tome color.",
+          "Añadir el pollo deshebrado y el jamón picado. Saltear 2 minutos para soltar aromas y reservar en un plato.",
+          "En la misma cazuela, fundir los 80 g de manteca a fuego medio. Agregar la harina y cocinar con batidor de alambre durante 2 a 3 minutos para tostarla (roux rubio sin sabor a crudo)."
+        ]
+      },
+      {
+        "name": "2. Elaboración de la Bechamel Líquida",
+        "title": "2. Elaboración de la Bechamel Líquida",
+        "steps": [
+          "Incorporar la leche caliente y el caldo de pollo en un hilo continuo sin dejar de batir enérgicamente para evitar grumos.",
+          "Bajar el fuego al mínimo y cocinar la bechamel durante 25 a 30 minutos, revolviendo continuamente con cuchara de madera o espátula hasta que la harina cocine completamente y la salsa tome una textura aterciopelada y brillante.",
+          "Incorporar el pollo y jamón reservados. Condimentar con nuez moscada, sal y pimienta blanca. Cocinar 2 minutos más.",
+          "Volcar la bechamel en una fuente plana, cubrir con film en contacto directo con la superficie y refrigerar mínimo 4 horas (idealmente de un día para el otro) para que la masa gelatinice y tome consistencia moldeable."
+        ]
+      },
+      {
+        "name": "3. Formado, Rebozado y Fritura Perfecta",
+        "title": "3. Formado, Rebozado y Fritura Perfecta",
+        "steps": [
+          "Tomar porciones con dos cucharas o con las manos enharinadas y dar forma cilíndrica clásica.",
+          "Pasar cada croqueta delicadamente por harina (sacudiendo el exceso), luego por huevo batido y finalmente por pan rallado fino.",
+          "Calentar abundante aceite limpio a 180 °C en sartén profunda.",
+          "Freír las croquetas en tandas pequeñas de 4 o 5 unidades durante 1 minuto y medio a 2 minutos hasta que luzcan doradas y crujientes.",
+          "Escurrir sobre papel absorbente y servir bien calientes para disfrutar de su corazón semilíquido."
+        ]
+      }
+    ],
+    "notes": "Secreto de Jaleo: La combinación de caldo de pollo concentrado con leche en la bechamel otorga una profundidad de sabor que la leche sola jamás alcanza. El reposo en frío es sagrado para poder manipular una masa con tanta proporción de líquido.",
+    "image": "img/croquetas_pollo_jaleo.jpg",
+    "url": "",
+    "original_title": "Croquetas Cremosas de Pollo de Jaleo (España)",
+    "published": true
+  },
+  {
+    "id": 520,
+    "title": "Boeuf Bourguignon de Les Halles (Francia)",
+    "country": "Francia",
+    "category": "Guisos y Cazuelas",
+    "tags": [
+      "Francia",
+      "Anthony Bourdain",
+      "Les Halles",
+      "Boeuf Bourguignon",
+      "Estofado Francés",
+      "Carne de Res",
+      "Vino Borgoña",
+      "Bistró",
+      "Plato Insignia",
+      "Cocina Clásica"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "3 h",
+    "rest_time": "12 h (marinado previo recomendado)",
+    "temperature": "150 °C (braseado lento al horno)",
+    "servings": "6 porciones generosas de bistró",
+    "calories": "680 kcal por porción",
+    "diet_badges": [
+      "Plato Principal",
+      "Cocina Clásica Francesa",
+      "Guisos Tradicionales"
+    ],
+    "story": "El Boeuf Bourguignon fue el estandarte culinario indiscutido de Anthony Bourdain durante sus años como chef ejecutivo en la célebre brasserie 'Les Halles' de Manhattan. En su libro 'Anthony Bourdain's Les Halles Cookbook', el chef desnudó la técnica clásica sin pretensiones: cubos grandes y firmes de aguja o garrón vacuno braseados pacientemente en vino tinto con un fondo oscuro de res y bouquet garni. Su gran lección técnica fue la terminación: las cebollitas perla glaseadas y los champiñones salteados en manteca se incorporan recién al final para evitar que se degraden en el estofado, logrando una salsa oscura, brillante y con una concentración aromática sublime.",
+    "ingredient_groups": [
+      {
+        "name": "Carne, Panceta y Aromáticos de Base",
+        "items": [
+          "1,5 kg de aguja, paleta o garrón vacuno (beef chuck o shank), cortado en cubos grandes de 5x5 cm",
+          "200 g de panceta ahumada (lardons) cortada en bastones gruesos",
+          "2 zanahorias grandes cortadas en rodajas de 2 cm",
+          "1 cebolla grande picada groseramente",
+          "3 dientes de ajo machacados",
+          "2 cucharadas soperas colmadas de harina de trigo común",
+          "1 botella entera (750 ml) de buen vino tinto seco (preferentemente Pinot Noir o Borgoña)",
+          "500 ml de caldo oscuro de res concentrado (fondo oscuro casero)",
+          "1 bouquet garni (tomillo fresco, laurel y perejil atados con hilo de cocina)"
+        ]
+      },
+      {
+        "name": "Guarnición de Bourdain (Champignones y Cebollitas Perla)",
+        "items": [
+          "250 g de cebollitas perla peladas enteras",
+          "250 g de champiñones frescos limpios (cortados en mitades o enteros si son pequeños)",
+          "40 g de manteca de buena calidad",
+          "1 cucharadita de azúcar común",
+          "Perejil plano fresco picado fino para terminar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Dorado Riguroso de Panceta y Carne",
+        "title": "1. Dorado Riguroso de Panceta y Carne",
+        "steps": [
+          "En una cacerola de hierro fundido (tipo cocotte), dorar la panceta ahumada a fuego medio durante 6 a 8 minutos hasta que esté crocante y haya soltado toda su grasa. Retirar la panceta reservando la grasa en la olla.",
+          "REGLA DE BOURDAIN: Secar minuciosamente los cubos de carne con papel absorbente. Salpimentar.",
+          "En la grasa caliente de la panceta a fuego vivo, dorar la carne por tandas (sin amontonar) durante 3 a 4 minutos por lado hasta lograr una costra marrón oscura y profunda. Retirar la carne a un recipiente.",
+          "En la misma grasa restante, saltear las zanahorias y la cebolla picada durante 5 minutos hasta que tomen color dorado. Agregar el ajo machacado y cocinar 1 minuto más."
+        ]
+      },
+      {
+        "name": "2. Desglasado y Braseado Lento (3 Horas)",
+        "title": "2. Desglasado y Braseado Lento (3 Horas)",
+        "steps": [
+          "Reincorporar la carne dorada y la panceta a la olla. Espolvorear las 2 cucharadas de harina y remover durante 2 minutos a fuego medio para tostarla.",
+          "Verter la botella entera de vino tinto y raspar con cuchara de madera el fondo de la olla para desprender todos los jugos caramelizados (fond).",
+          "Añadir el caldo de res caliente y el bouquet garni. Llevar a hervor suave.",
+          "Tapar la cacerola y transferir al horno precalentado a 150 °C (o a fuego ultra bajo sobre el fuego) durante 2 horas y media a 3 horas, hasta que la carne esté tan tierna que ceda al pinchazo de un tenedor sin desarmarse."
+        ]
+      },
+      {
+        "name": "3. Glaseado de Cebollitas, Champiñones y Terminación",
+        "title": "3. Glaseado de Cebollitas, Champiñones y Terminación",
+        "steps": [
+          "En una sartén separada, derretir 20 g de manteca con una pizca de sal, una cucharadita de azúcar y 3 cucharadas de agua. Añadir las cebollitas perla y cocinar tapadas a fuego suave 15 minutos hasta que estén tiernas y glaseadas.",
+          "En otra sartén con 20 g de manteca a fuego vivo, saltear los champiñones durante 5 minutos hasta que doren intensamente.",
+          "Retirar la cacerola del horno. Descartar el bouquet garni. Si la salsa está muy líquida, retirar la carne y reducir la salsa a fuego vivo durante 8 minutos hasta que nape el dorso de la cuchara brillante y espesa.",
+          "Incorporar las cebollitas glaseadas y los champiñones salteados al estofado. Cocinar todo junto a hervor suave durante 5 minutos finales. Servir bien caliente espolvoreado con perejil fresco y acompañado de papas al vapor o fideos al huevo."
+        ]
+      }
+    ],
+    "notes": "Filosofía Bourdain: Este plato no se apura. La carne debe estar cortada grande (5 cm) para que no se seque, y el sellado debe ser agresivo y por tandas. El secreto maestro de Bourdain es incorporar los champiñones y las cebollitas perla recién al final: de ese modo cada vegetal conserva su forma, sabor y textura intactos dentro de la salsa aterciopelada.",
+    "image": "img/boeuf_bourguignon_bourdain.jpg",
+    "url": "",
+    "original_title": "Boeuf Bourguignon de Les Halles (Francia)",
+    "published": true
+  },
+  {
+    "id": 521,
+    "title": "Steak Frites con Manteca Maître d'Hôtel (Francia)",
+    "country": "Francia",
+    "category": "Carnes",
+    "tags": [
+      "Francia",
+      "Anthony Bourdain",
+      "Les Halles",
+      "Steak Frites",
+      "Entrecot",
+      "Bife de Chorizo",
+      "Papas Fritas",
+      "Doble Cocción",
+      "Manteca Compuesta",
+      "Bistró"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "25 min",
+    "rest_time": "8 min (reposo de carne obligatorio)",
+    "temperature": "Sartén de hierro humeante y aceite a 150 °C / 190 °C",
+    "servings": "2 porciones de bistró",
+    "calories": "820 kcal por porción",
+    "diet_badges": [
+      "Carnes",
+      "Clásicos de Brasserie",
+      "Plato Principal"
+    ],
+    "story": "El Steak Frites fue el motor económico y el plato de mayor volumen de despacho en la carrera de Anthony Bourdain en Les Halles. Un clásico absoluto de la bistronomía francesa que no admite atajos: un corte de res madurado de primera calidad (entrecot o bife de chorizo de 3 cm de grosor) sellado en sartén de hierro bien caliente para lograr una costra crocante y un interior jugoso, coronado con un medallón de manteca Maître d'Hôtel (emulsionada con perejil, ajo, limón y pimienta) que se derrite sobre la carne caliente, escoltado por papas fritas caseras de doble cocción: pochadas primero a baja temperatura y doradas al final para lograr una costra rígida e interior de puré.",
+    "ingredient_groups": [
+      {
+        "name": "Corte de Carne y Sellado",
+        "items": [
+          "2 bifes de entrecot o bife de chorizo de 350 g cada uno (3 cm de grosor, atemperados fuera de la heladera 45 minutos antes)",
+          "2 cucharadas soperas de aceite neutro de alto punto de humo",
+          "Sal gruesa o entrefina marina y abundante pimienta negra recién molida",
+          "2 ramitas de tomillo fresco para la sartén"
+        ]
+      },
+      {
+        "name": "Manteca Compuesta Maître d'Hôtel",
+        "items": [
+          "100 g de manteca de campo sin sal a temperatura ambiente (pomada)",
+          "2 cucharadas de perejil plano fresco picado muy fino",
+          "1 diente de ajo pequeño rallado finamente",
+          "1 cucharadita de jugo de limón fresco recién exprimido",
+          "1/2 cucharadita de sal marina fina y pimienta blanca molida"
+        ]
+      },
+      {
+        "name": "Papas Fritas de Doble Cocción de Les Halles",
+        "items": [
+          "1 kg de papas harinosas de piel firme (tipo Spunta o Russet), peladas y cortadas en bastones parejos de 8 mm",
+          "Abundante aceite para freír",
+          "Sal fina para salar apenas salidas del aceite"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Manteca Maître d'Hôtel y Preparación de Papas",
+        "title": "1. Manteca Maître d'Hôtel y Preparación de Papas",
+        "steps": [
+          "En un cuenco, trabajar la manteca pomada con el perejil, ajo, jugo de limón, sal y pimienta hasta emulsionar.",
+          "Colocar la manteca sobre papel film, enrollar formando un cilindro firme de 3 cm de diámetro y enfriar en heladera hasta que esté dura.",
+          "Lavar los bastones de papa en agua fría para eliminar el almidón superficial. Secar muy bien con repasador limpio."
+        ]
+      },
+      {
+        "name": "2. Doble Fritura de las Papas (Técnica Les Halles)",
+        "title": "2. Doble Fritura de las Papas (Técnica Les Halles)",
+        "steps": [
+          "Primera cocción (blanqueado): Calentar el aceite a 150 °C. Freír las papas en tandas durante 6 a 8 minutos hasta que estén tiernas por dentro pero aún pálidas y sin dorar. Retirar y enfriar sobre rejilla.",
+          "Segunda cocción (dorado crujiente): Antes de servir, subir el aceite a 190 °C bien caliente. Freír las papas durante 2 a 3 minutos hasta que adquieran un color dorado intenso y una corteza rígida y ultra crujiente. Escurrir y salar de inmediato."
+        ]
+      },
+      {
+        "name": "3. Sellado del Bife, Reposo y Emplatado",
+        "title": "3. Sellado del Bife, Reposo y Emplatado",
+        "steps": [
+          "Secar los bifes con papel de cocina y sazonar generosamente con sal entrefina y pimienta negra en ambas caras.",
+          "Calentar una sartén de hierro fundido a fuego máximo hasta que empiece a humear. Agregar el aceite.",
+          "Colocar los bifes con el tomillo. Sellar durante 3 a 4 minutos por lado sin moverlos para lograr una costra dorada profunda (punto jugoso / a punto).",
+          "REGLA SAGRADA DE BOURDAIN: Retirar la carne a una tabla o plato tibio y dejar reposar durante 6 a 8 minutos sin cortar. Esto redistribuye los jugos internos y garantiza que la carne no se desangre en el plato.",
+          "Emplatado: Cortar la carne en tiras gruesas oblicuas (o servir el bife entero), colocar una rodaja gruesa de manteca Maître d'Hôtel sobre la carne caliente para que empiece a derretirse y glasearla, y acomodar al lado la montaña de papas fritas humeantes con un cuenco de mostaza Dijon."
+        ]
+      }
+    ],
+    "notes": "Máxima de Bourdain: El 90% de un buen bife reside en dos factores innegociables: sartén de hierro infernalmente caliente para caramelizar la superficie y reposo sagrado de al menos la mitad del tiempo de cocción antes de meterle el cuchillo.",
+    "image": "img/steak_frites_bourdain.jpg",
+    "url": "",
+    "original_title": "Steak Frites con Manteca Maître d'Hôtel (Francia)",
+    "published": true
+  },
+  {
+    "id": 522,
+    "title": "Huesos de Caracú Asados con Ensalada de Perejil (Francia)",
+    "country": "Francia",
+    "category": "Entrada / Plato Principal",
+    "tags": [
+      "Francia",
+      "Reino Unido",
+      "Anthony Bourdain",
+      "St. John",
+      "Fergus Henderson",
+      "Caracú",
+      "Tuétano",
+      "Bone Marrow",
+      "Ensalada de Perejil",
+      "Alcaparras",
+      "Plato de Culto"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "20 min",
+    "rest_time": "2 min",
+    "temperature": "220 °C (horno bien caliente)",
+    "servings": "2 a 3 porciones de culto",
+    "calories": "510 kcal por porción",
+    "diet_badges": [
+      "Plato de Autor",
+      "Cocina Clásica",
+      "Plato de Culto"
+    ],
+    "story": "Anthony Bourdain declaró en incontables ocasiones que si tuviera que elegir su última comida en la tierra ('su comida para el corredor de la muerte'), serían los huesos de caracú (médula ósea) asados con ensalada de perejil y pan tostado. Aunque fue una creación inmortalizada por el chef Fergus Henderson en el restaurante St. JOHN de Londres, Bourdain la adoptó como su fetiche personal definitivo y la rindió homenaje permanente en sus viajes y escritos. La grasa rica, tibia y mantecosa del tuétano asado se unta sobre pan de masa madre crujiente, contrastada brillantemente por una ensalada ácida de perejil plano, chalotas y alcaparras aderezada con limón que corta la grasa y limpia el paladar a la perfección.",
+    "ingredient_groups": [
+      {
+        "name": "Huesos de Caracú (Médula Ósea)",
+        "items": [
+          "6 trozos de hueso de caña vacuno (caracú) cortados de unos 7 a 8 cm de largo (cortados transversalmente o longitudinalmente)",
+          "Sal marina gruesa o sal en escamas Maldon abundante",
+          "Pimienta negra recién molida",
+          "Rebanadas gruesas de pan de campo o masa madre rústico tostadas a la parrilla"
+        ]
+      },
+      {
+        "name": "Ensalada Purificadora de Perejil y Alcaparras (Fórmula St. JOHN)",
+        "items": [
+          "1 atado grande de perejil plano fresco (solo las hojas enteras, sin tallos gruesos)",
+          "2 chalotas medianas (o 1/2 cebolla morada chica) cortadas en juliana finísima",
+          "2 cucharadas soperas de alcaparras en vinagre escurridas",
+          "2 cucharadas soperas de jugo de limón recién exprimido",
+          "2 cucharadas soperas de aceite de oliva virgen extra de calidad",
+          "Pizca de sal marina fina"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Preparación de la Ensalada Ácida",
+        "title": "1. Preparación de la Ensalada Ácida",
+        "steps": [
+          "En un cuenco, colocar las hojas enteras de perejil plano, las chalotas finamente cortadas y las alcaparras escurridas.",
+          "SECRETO DE FERGUS HENDERSON / BOURDAIN: No aderezar la ensalada de antemano para que el perejil no pierda su textura crocante.",
+          "Justo un minuto antes de servir, añadir el jugo de limón, el aceite de oliva virgen extra y una pizca leve de sal. Mezclar suavemente con las manos."
+        ]
+      },
+      {
+        "name": "2. Asado de los Huesos de Caracú",
+        "title": "2. Asado de los Huesos de Caracú",
+        "steps": [
+          "Precalentar el horno a 220 °C (fuego muy fuerte).",
+          "Acomodar los huesos de caracú de pie sobre una fuente de horno resistente.",
+          "Hornear durante 15 a 20 minutos. El tuétano debe calentarse por completo, comenzar a burbujear en los bordes y tomar un ligero color dorado en la superficie (cuidar de no sobrecocinar para que la médula no se derrita completamente en líquido dentro de la asadera).",
+          "Tostar las rebanadas de pan de campo en tostadora o parrilla hasta que estén crujientes."
+        ]
+      },
+      {
+        "name": "3. Servicio y Ritual de Degustación",
+        "title": "3. Servicio y Ritual de Degustación",
+        "steps": [
+          "Retirar los huesos humeantes del horno y espolvorear la superficie de la médula con sal marina gruesa o en escamas.",
+          "Servir de inmediato en una fuente o tabla de madera acompañados de las tostadas calientes, la ensalada fresca de perejil y una cucharita alargada para extraer el tuétano.",
+          "RITUAL BOURDAIN: Extraer una porción de tuétano fundente con la cucharita, untarlo generosamente sobre el pan tostado crujiente, coronar con una porción de ensalada de perejil y alcaparras, añadir unas escamas de sal y morder todo junto."
+        ]
+      }
+    ],
+    "notes": "Palabras de Anthony Bourdain: 'Si estás al borde de la muerte, este es el plato que querés pedir: grasa pura y caliente de caracú que se derrite en pan crocante, y ese shock de perejil, limón y alcaparras que te devuelve a la vida'.",
+    "image": "img/huesos_caracu_bourdain.jpg",
+    "url": "",
+    "original_title": "Huesos de Caracú Asados con Ensalada de Perejil (Francia)",
     "published": true
   }
 ]
