@@ -40676,7 +40676,7 @@
       }
     ],
     "notes": "Secreto del chef: La manteca fría incorporada fuera del fuego aporta la grasa láctea justa para que el postre no quede gomoso al enfriar, emulando la cremosidad exacta del Sandy de pote.",
-    "image": "img/postre_sandy_chocolate.jpg?v=3",
+    "image": "img/postre_sandy_chocolate.jpg?v=5",
     "url": "",
     "original_title": "Postre Sandy de Chocolate (Argentina)",
     "published": "2026-11-08"
@@ -41326,6 +41326,1545 @@
     "image": "img/ramen_serious_eats.jpg?v=2",
     "url": "https://www.seriouseats.com/the-serious-eats-guide-to-ramen-styles",
     "original_title": "Ramen Completo de Serious Eats (Japón)",
+    "published": "2026-11-08"
+  },
+  {
+    "id": 532,
+    "title": "Ramen de Callos y Albóndigas (Japón)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "ramen",
+      "callos",
+      "albóndigas",
+      "fideos",
+      "japón",
+      "cantonés",
+      "fusión",
+      "caldo profundo",
+      "plato de cuchara",
+      "street food"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "2 h 30 min",
+    "rest_time": "15 min",
+    "temperature": "95 °C",
+    "servings": "4 personas",
+    "calories": "680 kcal",
+    "diet_badges": [
+      "Caldo Concentrado",
+      "Rico en Colágeno",
+      "Fusión Asiática"
+    ],
+    "story": "Inspirado en la creación cultural de Elvin Yung, este ramen fusiona el alma del dim sum cantones con el arte del ramen japonés. Los callos de res estofados a fuego lento con cinco especias chinas y jengibre aportan una melosidad colagénica incomparable, que se complementa con tiernas albóndigas de carne sazonadas con sésamo sobre fideos ondulados sumergidos en un caldo doble de res y ave.",
+    "ingredient_groups": [
+      {
+        "name": "Callos Estofados Melosos",
+        "items": [
+          "500 g de callos de res limpios y cortados en tiras finas",
+          "2 trozos de jengibre fresco machacado",
+          "3 dientes de ajo aplastados",
+          "1 cucharadita de polvo cinco especias chinas",
+          "3 cucharadas de salsa de soja oscura",
+          "2 cucharadas de vino Shaoxing o mirin",
+          "1 cucharada de azúcar de roca o azúcar morena"
+        ]
+      },
+      {
+        "name": "Albóndigas Jugosas y Caldo",
+        "items": [
+          "350 g de carne picada de res o cerdo",
+          "1 cucharada de maicena",
+          "1 cucharada de aceite de sésamo tostado",
+          "2 cebolletas finamente picadas",
+          "1.5 litros de caldo de res y pollo bien concentrado",
+          "3 cucharadas de tare de salsa de soja (shoyu tare)",
+          "4 porciones de fideos frescos para ramen"
+        ]
+      },
+      {
+        "name": "Toppings y Terminado",
+        "items": [
+          "2 huevos marinados (ajitsuke tamago)",
+          "Cebollino picado fino",
+          "Aceite de chile o rayu al gusto",
+          "Alga nori tostada"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Estofado Meloso de Callos",
+        "title": "1. Estofado Meloso de Callos",
+        "steps": [
+          "Blanquear los callos en agua hirviendo durante 10 minutos con jengibre y vino para eliminar cualquier aroma fuerte; colar y enjuagar bien.",
+          "En una cacerola saltear el ajo y jengibre restantes, añadir los callos blanqueados, las cinco especias, la salsa de soja oscura y el azúcar.",
+          "Cubrir con agua y cocinar a fuego lento durante 2 horas hasta que los callos estén extraordinariamente tiernos, melosos y hayan absorbido los aromas."
+        ]
+      },
+      {
+        "name": "2. Albóndigas y Caldo Emulsionado",
+        "title": "2. Albóndigas y Caldo Emulsionado",
+        "steps": [
+          "Mezclar en un cuenco la carne picada con maicena, aceite de sésamo, cebolleta y una pizca de sal, amasando hasta obtener una textura gomosa y cohesionada.",
+          "Formar pequeñas albóndigas del tamaño de una nuez y escalfarlas suavemente dentro del caldo de res y pollo caliente durante 8 minutos hasta que floten jugosas.",
+          "Añadir el shoyu tare al fondo de cada tazón caliente."
+        ]
+      },
+      {
+        "name": "3. Montaje del Tazón",
+        "title": "3. Montaje del Tazón",
+        "steps": [
+          "Hervir los fideos de ramen durante 90 segundos al dente, escurrir enérgicamente y verter en los tazones sobre el caldo hirviendo.",
+          "Disponer encima los callos glaseados en su salsa oscura, las albóndigas tiernas, medio huevo marinado, cebollino fresco y un hilo de aceite rayu picante."
+        ]
+      }
+    ],
+    "notes": "El secreto de este plato radica en el doble blanqueado de los callos para lograr una textura sedosa que se disuelve en el paladar sin opacar la sutileza del caldo.",
+    "image": "img/ramen_callos_albondigas.jpg",
+    "url": "ramen-callos-albondigas-japon.html",
+    "original_title": "Ramen de Callos y Albóndigas (Japón)",
+    "published": "2026-11-08"
+  },
+  {
+    "id": 533,
+    "title": "Tinola Paitan Ramen de Pollo (Filipinas)",
+    "country": "Filipinas",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "ramen",
+      "tinola",
+      "filipinas",
+      "paitan",
+      "pollo",
+      "jengibre",
+      "patis",
+      "caldo denso",
+      "fusión asiática",
+      "sopas"
+    ],
+    "prep_time": "25 min",
+    "cook_time": "3 h",
+    "rest_time": "10 min",
+    "temperature": "95 °C",
+    "servings": "4 personas",
+    "calories": "620 kcal",
+    "diet_badges": [
+      "Colágeno Natural",
+      "Reconfortante",
+      "Fusión del Sudeste Asiático"
+    ],
+    "story": "Nacido de la creatividad de Robq en el concurso de ramen cultural, este plato eleva la reconfortante sopa tradicional filipina Tinola a las alturas del Tori Paitan japonés. El caldo de pollo emulsionado se infusiona con jengibre aromático, salsa de pescado (patis) y papaya verde o chayote salteado, coronándose con pechuga tierna y hojas verdes.",
+    "ingredient_groups": [
+      {
+        "name": "Caldo Tori Paitan Emulsionado al Estilo Tinola",
+        "items": [
+          "1.2 kg de carcasas y alitas de pollo",
+          "60 g de jengibre fresco en rodajas gruesas",
+          "6 dientes de ajo aplastados",
+          "1 cebolla entera cortada en cuartos",
+          "3 cucharadas de salsa de pescado patis (filipina)",
+          "2.5 litros de agua filtrada"
+        ]
+      },
+      {
+        "name": "Guarniciones y Toppings de la Tinola",
+        "items": [
+          "1 chayote o papaya verde pelada y cortada en medias lunas",
+          "2 filetes de pechuga de pollo marinados en patis y ajo",
+          "1 manojo de hojas tiernas de espinaca o malunggay (moringa)",
+          "4 porciones de fideos de ramen finos y ondulados"
+        ]
+      },
+      {
+        "name": "Aroma Oil y Acabado",
+        "items": [
+          "3 cucharadas de aceite de ajo tostado y jengibre",
+          "Cebollino fresco picado",
+          "Pimienta negra recién molida"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Extracción y Emulsión del Caldo Paitan",
+        "title": "1. Extracción y Emulsión del Caldo Paitan",
+        "steps": [
+          "Hervir las alitas y carcasas durante 5 minutos para eliminar espumas e impurezas; lavar con agua fría.",
+          "Colocar los huesos en una olla alta con el agua, jengibre en abundancia, ajo y cebolla. Cocinar a fuego vivo con borbotones constantes durante 2.5 horas para emulsionar el colágeno en un caldo blanco y cremoso.",
+          "Colar el caldo presionando bien los sólidos y sazonar con la salsa patis al gusto."
+        ]
+      },
+      {
+        "name": "2. Salteado del Chayote y Cocción del Pollo",
+        "title": "2. Salteado del Chayote y Cocción del Pollo",
+        "steps": [
+          "En una sartén con aceite de ajo dorar ligeramente las medias lunas de chayote hasta que estén tiernas pero al dente.",
+          "Cocinar la pechuga de pollo a fuego suave en el caldo paitan caliente durante 12 minutos hasta que esté tierna y jugosa; retirar y cortar en lonchas finas."
+        ]
+      },
+      {
+        "name": "3. Montaje y Emulsión Final",
+        "title": "3. Montaje y Emulsión Final",
+        "steps": [
+          "Cocinar los fideos de ramen en agua hirviendo durante 1 minuto; escurrir con fuerza.",
+          "En cada cuenco caliente colocar una cucharada de aceite aromatizado con jengibre y verter el caldo paitan lechoso bien caliente.",
+          "Integrar los fideos, acomodar encima las rodajas de pollo, el chayote, las hojas verdes tiernas y finalizar con cebollino fresco y pimienta negra."
+        ]
+      }
+    ],
+    "notes": "El hervor vigoroso continuo es indispensable para que las grasas y gelatinas del pollo se fundan en una emulsión blanquecina similar a la leche.",
+    "image": "img/tinola_paitan_ramen.jpg",
+    "url": "tinola-paitan-ramen-pollo-filipinas.html",
+    "original_title": "Tinola Paitan Ramen de Pollo (Filipinas)",
+    "published": "2026-11-08"
+  },
+  {
+    "id": 534,
+    "title": "Kirito Bowl de Soba con Nuggets y Yema Curada (Japón)",
+    "country": "Japón",
+    "category": "Pastas",
+    "tags": [
+      "soba",
+      "kirito bowl",
+      "japón",
+      "fideos de alforfón",
+      "yema curada",
+      "nuggets",
+      "karaage",
+      "tsuyu",
+      "plato creativo"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "15 min",
+    "rest_time": "2 h (yema)",
+    "temperature": "70 °C",
+    "servings": "2 personas",
+    "calories": "590 kcal",
+    "diet_badges": [
+      "Fideos de Alforfón",
+      "Yema Melosa",
+      "Tendencia Gastronómica"
+    ],
+    "story": "Diseñado por Burnt Racks para la competencia de fideos y ramen, el Kirito Bowl combina fideos sobrosos de alforfón japonés con un concepto divertido y contemporáneo: bocados crujientes de pollo estilo karaage frito al momento y una untuosa yema curada en salsa de soja dulce que se rompe al contacto con los fideos bañados en tsuyu tibio.",
+    "ingredient_groups": [
+      {
+        "name": "Yema Curada y Fideos Soba",
+        "items": [
+          "2 yemas de huevo fresco de campo",
+          "3 cucharadas de salsa de soja",
+          "1 cucharada de mirin",
+          "1/2 cucharadita de azúcar",
+          "200 g de fideos soba de alforfón seco o fresco"
+        ]
+      },
+      {
+        "name": "Nuggets Crujientes de Pollo (Estilo Karaage)",
+        "items": [
+          "250 g de contramuslo de pollo cortado en bocados",
+          "1 cucharadita de jengibre rallado y 1 diente de ajo rallado",
+          "1 cucharada de salsa de soja y 1 cucharadita de sake",
+          "Fécula de patata (katakuriko) para rebozar",
+          "Aceite vegetal neutro para freír"
+        ]
+      },
+      {
+        "name": "Caldo Tsuyu y Acompañamiento",
+        "items": [
+          "400 ml de caldo dashi",
+          "4 cucharadas de salsa tsuyu concentrada",
+          "Tiras de alga nori y semillas de sésamo tostado",
+          "Cebollino picado muy fino"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Curado de la Yema de Huevo",
+        "title": "1. Curado de la Yema de Huevo",
+        "steps": [
+          "Mezclar la salsa de soja con el mirin y el azúcar en un recipiente pequeño hasta disolver.",
+          "Depositar con sumo cuidado las yemas crudas en el líquido; tapar y dejar en la nevera entre 2 y 4 horas hasta que adquieran una textura firme por fuera y untuosa en su interior."
+        ]
+      },
+      {
+        "name": "2. Fritura Ligera de los Bocados de Pollo",
+        "title": "2. Fritura Ligera de los Bocados de Pollo",
+        "steps": [
+          "Marinar el pollo con jengibre, ajo, soja y sake durante 15 minutos.",
+          "Rebozar cada trozo generosamente en fécula de patata sacudiendo el exceso.",
+          "Freír en aceite a 175 °C durante 4 a 5 minutos hasta que la corteza esté dorada y ultra crujiente. Escurrir sobre rejilla metálica."
+        ]
+      },
+      {
+        "name": "3. Cocción del Soba y Servicio",
+        "title": "3. Cocción del Soba y Servicio",
+        "steps": [
+          "Cocinar los fideos soba en abundante agua hirviendo sin sal durante 4 minutos; enfriar en agua con hielo para tensar el gluten y luego templar con un toque de agua tibia.",
+          "Servir los fideos en los cuencos bañados en dashi tsuyu tibio, acomodar los bocados crujientes a los lados y coronar en el centro con la yema curada, sésamo, cebollino y nori."
+        ]
+      }
+    ],
+    "notes": "Al romper la yema curada sobre los fideos soba, el almidón del alforfón absorbe la riqueza cremosa formando una salsa natural irresistible.",
+    "image": "img/kirito_bowl_soba.jpg",
+    "url": "kirito-bowl-soba-nuggets-yema-curada-japon.html",
+    "original_title": "Kirito Bowl de Soba con Nuggets y Yema Curada (Japón)",
+    "published": "2026-11-08"
+  },
+  {
+    "id": 535,
+    "title": "Ramen de Pato y Hongos Silvestres (Francia)",
+    "country": "Francia",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "ramen",
+      "pato",
+      "hongos silvestres",
+      "francia",
+      "magret",
+      "boletus",
+      "consomé",
+      "alta cocina",
+      "fusión francesa"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "1 h 45 min",
+    "rest_time": "10 min",
+    "temperature": "92 °C",
+    "servings": "4 personas",
+    "calories": "710 kcal",
+    "diet_badges": [
+      "Gourmet",
+      "Caldo Clarificado",
+      "Sabor Terroso Intenso"
+    ],
+    "story": "Una deslumbrante propuesta de la gastronomía francesa en el certamen de ramen cultural. Fusiona la técnica del consomé clarificado galo con la arquitectura del ramen japonés: un fondo brillante y perfumado de pato asado y chalotas, hongos silvestres salteados en manteca avellanada, finas láminas de magret de pato con piel crujiente y fideos firmes al dente.",
+    "ingredient_groups": [
+      {
+        "name": "Consomé Dorado de Pato",
+        "items": [
+          "1 carcasa de pato tostada al horno a 200 °C",
+          "2 chalotas francesas cortadas al medio",
+          "1 puerro pequeño y 1 zanahoria",
+          "30 g de hongos silvestres secos (boletus edulis o trompetas de la muerte)",
+          "1 ramita de tomillo fresco y 1 hoja de laurel",
+          "2 litros de agua filtrada"
+        ]
+      },
+      {
+        "name": "Magret Crujiente y Setas",
+        "items": [
+          "1 magret de pato fresco con piel marcada en rombos",
+          "200 g de setas frescas variadas (shiitake, champiñones portobello o boletus)",
+          "20 g de manteca francesa",
+          "Sal marina en escamas y pimienta negra de molinillo"
+        ]
+      },
+      {
+        "name": "Montaje y Fideos",
+        "items": [
+          "4 porciones de fideos de ramen artesanales",
+          "2 cucharadas de salsa de soja ligera y 1 cucharada de coñac",
+          "Cebollino francés finamente cortado",
+          "Brotes verdes o berros para decorar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Fondo Reducido de Pato y Hongos",
+        "title": "1. Fondo Reducido de Pato y Hongos",
+        "steps": [
+          "Dorar la carcasa de pato en el horno hasta que tome un tono caoba profundo; hidratar los hongos secos en agua tibia.",
+          "Llevar a ebullición la carcasa con las chalotas caramelizadas, puerro, zanahoria, tomillo, laurel y el agua de hidratación de los hongos colada.",
+          "Cocinar a fuego muy bajo sin que hierva a borbotones durante 1 hora y media; colar por una estameña fina para obtener un consomé translúcido y perfumado."
+        ]
+      },
+      {
+        "name": "2. Magret de Pato con Piel Crocante y Setas",
+        "title": "2. Magret de Pato con Piel Crocante y Setas",
+        "steps": [
+          "Colocar el magret en sartén fría del lado de la piel; cocinar a fuego medio-bajo dejando que funda lentamente la grasa durante 8 minutos hasta dorar.",
+          "Dar vuelta y sellar la carne durante 3 minutos más manteniendo el corazón sonrosado (54 °C); dejar reposar en tabla antes de cortar en lonchas finas.",
+          "En la misma sartén dorar los hongos frescos con la manteca y sazonar con sal y pimienta."
+        ]
+      },
+      {
+        "name": "3. Armado del Tazón Francés",
+        "title": "3. Armado del Tazón Francés",
+        "steps": [
+          "Añadir en cada tazón una cucharadita de reducción de soja con unas gotas de coñac y verter el consomé hirviendo.",
+          "Incorporar los fideos cocidos al dente y acomodar armónicamente las lonchas de magret, las setas salteadas, el cebollino francés y unos berros frescos."
+        ]
+      }
+    ],
+    "notes": "La grasa desprendida del magret puede utilizarse como aroma oil (aceite aromático) rociando media cucharadita sobre el plato justo antes de servir.",
+    "image": "img/ramen_pato_champignones.jpg",
+    "url": "ramen-pato-hongos-silvestres-francia.html",
+    "original_title": "Ramen de Pato y Hongos Silvestres (Francia)",
+    "published": "2026-11-08"
+  },
+  {
+    "id": 536,
+    "title": "Tom Yum Ramen con Tempura de Langostinos (Tailandia)",
+    "country": "Tailandia",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "ramen",
+      "tom yum",
+      "tailandia",
+      "tempura",
+      "langostinos",
+      "lemongrass",
+      "picante",
+      "leche de coco",
+      "fusión asiática"
+    ],
+    "prep_time": "25 min",
+    "cook_time": "25 min",
+    "rest_time": "5 min",
+    "temperature": "95 °C",
+    "servings": "4 personas",
+    "calories": "640 kcal",
+    "diet_badges": [
+      "Aromático & Cítrico",
+      "Picor Equilibrado",
+      "Mariscos"
+    ],
+    "story": "Propuesta por JadedOne en el torneo de ramen internacional, esta creación hermanó el ícono del Sudeste Asiático con el tazón japonés. El caldo recrea la explosión sensorial de la sopa Tom Yum Kung (lemongrass, galanga, lima kaffir y pasta nam prik pao matizada con leche de coco) maridada con la textura sedosa de fideos de ramen y el crujido aéreo de langostinos en tempura.",
+    "ingredient_groups": [
+      {
+        "name": "Caldo Tom Yum Cremoso",
+        "items": [
+          "1.2 litros de caldo concentrado de pollo y cabezas de langostino",
+          "2 tallos de lemongrass (hierba limón) machacados",
+          "4 rodajas de galanga fresca o jengibre",
+          "5 hojas de lima kaffir desgarradas a mano",
+          "2 cucharadas de pasta de chile tailandés Nam Prik Pao",
+          "200 ml de leche de coco cremosa",
+          "3 cucharadas de salsa de pescado nam pla y zumo de 2 limas frescas",
+          "150 g de champiñones o setas de paja cortadas en cuartos"
+        ]
+      },
+      {
+        "name": "Tempura Ligera de Langostinos",
+        "items": [
+          "8 langostinos grandes pelados dejando la colita y limpios",
+          "80 g de harina especial para tempura",
+          "120 ml de agua helada con gas",
+          "Aceite abundante para freír"
+        ]
+      },
+      {
+        "name": "Fideos y Acabado",
+        "items": [
+          "4 porciones de fideos de ramen ondulados",
+          "Cilantro fresco picado",
+          "Chiles tailandeses en rodajitas finas",
+          "Gajos de lima para exprimir en mesa"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Infusión Cítrica y Picante del Tom Yum",
+        "title": "1. Infusión Cítrica y Picante del Tom Yum",
+        "steps": [
+          "Hervir el caldo con el lemongrass, galanga y hojas de lima kaffir durante 10 minutos para extraer todos los aceites esenciales aromáticos.",
+          "Añadir la pasta nam prik pao, las setas y la leche de coco; cocinar a fuego suave 5 minutos.",
+          "Apagar el fuego, sazonar con la salsa de pescado y el zumo de lima recién exprimido para conservar la viveza ácida."
+        ]
+      },
+      {
+        "name": "2. Tempura Aérea de Langostinos",
+        "title": "2. Tempura Aérea de Langostinos",
+        "steps": [
+          "Hacer un par de cortes transversales suaves en la panza de los langostinos para que no se arqueen al freír.",
+          "Mezclar rápidamente la harina con el agua helada con palillos sin sobrebatir (deben quedar pequeños grumos).",
+          "Pasar los langostinos por la masa y freír en aceite bien caliente a 180 °C durante 2 minutos hasta que la cobertura quede crujiente y nívea."
+        ]
+      },
+      {
+        "name": "3. Montaje del Tazón Fusión",
+        "title": "3. Montaje del Tazón Fusión",
+        "steps": [
+          "Cocinar los fideos de ramen durante 90 segundos; escurrir y distribuir en los cuencos.",
+          "Bañar los fideos con el caldo Tom Yum colado y bien caliente.",
+          "Disponer encima dos langostinos en tempura crujiente apoyados en el borde para que no se humedezcan de inmediato, acompañando con cilantro fresco y rodajas de chile."
+        ]
+      }
+    ],
+    "notes": "Nunca añadas el zumo de lima con el caldo en plena ebullición intensa; se incorpora al final fuera del fuego para evitar notas amargas.",
+    "image": "img/tom_yum_ramen.jpg",
+    "url": "tom-yum-ramen-tempura-langostinos-tailandia.html",
+    "original_title": "Tom Yum Ramen con Tempura de Langostinos (Tailandia)",
+    "published": "2026-11-08"
+  },
+  {
+    "id": 537,
+    "title": "Svíčková Ramen con Lomo Mechado y Knedlíky (República Checa)",
+    "country": "República Checa",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "ramen",
+      "svickova",
+      "república checa",
+      "knedliky",
+      "lomo mechado",
+      "sopa cremosa",
+      "arándanos",
+      "fusión europea"
+    ],
+    "prep_time": "40 min",
+    "cook_time": "2 h 30 min",
+    "rest_time": "15 min",
+    "temperature": "90 °C",
+    "servings": "4 personas",
+    "calories": "780 kcal",
+    "diet_badges": [
+      "Fusión Bohemo-Nipona",
+      "Sabor Agridulce",
+      "Sopa Aterciopelada"
+    ],
+    "story": "Creado por Tardar Sauce (Adam K.) desde Salzburgo evocando las comidas con su bisabuela en Praga. Es una brillante reinvención de la emblemática 'svíčková na smetaně' checa adaptada a la estética del ramen: lomo de res mechado con bastones de tocino ahumado, fideos ramen bañados en una salsa-sopa aterciopelada de tubérculos asados (zanahorias, chirivías, apio) suavizada con crema, coronada con knedlíky de Carlsbad y la tradicional 'diana': rodaja de limón con mermelada ácida de arándanos rojos y crema batida.",
+    "ingredient_groups": [
+      {
+        "name": "Lomo Mechado y Caldo de Hortalizas",
+        "items": [
+          "800 g de lomo de res o peceto mechado con 80 g de bastones de tocino ahumado congelado",
+          "2 zanahorias grandes picadas",
+          "1 raíz de perejil o chirivía picada",
+          "1/2 cabeza de apio nabo picado",
+          "1 cebolla grande picada",
+          "4 bolas de pimienta de Jamaica (allspice), 2 hojas de laurel y tomillo fresco",
+          "1 litro de caldo de res suave y 150 ml de crema de leche espesa",
+          "2 cucharadas de manteca, 1 cucharada de vinagre de manzana y 1 cucharada de azúcar"
+        ]
+      },
+      {
+        "name": "Knedlíky (Dumplings Checos) y Fideos",
+        "items": [
+          "4 porciones de fideos de ramen gruesos",
+          "4 rebanadas de knedlíky bohemios de pan y levadura cortados en medias lunas",
+          "4 rebanadas de knedlíky estilo Carlsbad (con perejil picado y huevo)"
+        ]
+      },
+      {
+        "name": "La 'Diana' Checa Tradicional (Topping)",
+        "items": [
+          "4 rodajas finas de limón fresco",
+          "4 cucharaditas de mermelada de arándanos rojos silvestres (brusinky)",
+          "Crema batida espesa sin azúcar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Mechado, Sellado y Braseado de la Carne",
+        "title": "1. Mechado, Sellado y Braseado de la Carne",
+        "steps": [
+          "Mechar la carne con los bastones fríos de tocino ahumado introduciéndolos a lo largo de las fibras; atar con hilo de cocina y salpimentar.",
+          "En una olla de hierro dorar la carne por todas sus caras en manteca derretida; retirar.",
+          "En el mismo fondo saltear las hortalizas de raíz (zanahoria, chirivía, apio) y la cebolla hasta caramelizar con el azúcar y el toque de vinagre.",
+          "Reincorporar la carne, el laurel, la pimienta de Jamaica y el caldo. Cocinar tapado a fuego suave durante 2 horas hasta que la carne esté sumamente tierna."
+        ]
+      },
+      {
+        "name": "2. Emulsión de la Salsa-Sopa Svíčková",
+        "title": "2. Emulsión de la Salsa-Sopa Svíčková",
+        "steps": [
+          "Retirar la carne y las especias enteras (laurel y granos de pimienta).",
+          "Procesar las verduras con el caldo de cocción hasta lograr un puré fino y sedoso; incorporar la crema de leche y un poco de caldo extra para darle fluidez de sopa ramen sin perder untuosidad.",
+          "Cortar la carne atemperada en rodajas visibles donde luzca el tocino incrustado."
+        ]
+      },
+      {
+        "name": "3. Montaje del Tazón Bohemio",
+        "title": "3. Montaje del Tazón Bohemio",
+        "steps": [
+          "Cocinar los fideos de ramen al dente y verterlos en tazones hondos precalentados.",
+          "Bañar generosamente con la sopa svíčková aterciopelada y humeante.",
+          "Disponer las rodajas de lomo mechado en el borde superior, las rebanadas de ambos tipos de knedlíky en los laterales y colocar en el centro exacto la 'diana': la rodaja de limón con una cucharada de arándanos rojos y crema batida."
+        ]
+      }
+    ],
+    "notes": "Al mezclar los fideos con la crema y el toque agridulce de los arándanos rojos con limón, la rica salsa de raíces checas adquiere una dimensión umami perfecta para fideos con palillos.",
+    "image": "img/svickova_ramen.jpg",
+    "url": "svickova-ramen-lomo-mechado-knedliky-republica-checa.html",
+    "original_title": "Svíčková Ramen con Lomo Mechado y Knedlíky (República Checa)",
+    "published": "2026-11-08"
+  },
+  {
+    "id": 538,
+    "title": "Kitsune Udon (Japón)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "udon",
+      "kitsune udon",
+      "japón",
+      "osaka",
+      "aburaage",
+      "tofu dulce",
+      "dashi",
+      "fideos japoneses",
+      "tradicional"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "20 min",
+    "rest_time": "10 min",
+    "temperature": "95 °C",
+    "servings": "2 personas",
+    "calories": "480 kcal",
+    "diet_badges": [
+      "Clásico de Kansai",
+      "Vegetariano Adaptable",
+      "Confort Food"
+    ],
+    "story": "El legendario Kitsune Udon nació en Osaka en 1893 dentro del venerable restaurante Usami-tei Matsubaya. En el folclore sintoísta, los kitsune (zorros) son los mensajeros del dios Inari, patrono de la agricultura y la fertilidad, y se dice que sienten devoción absoluta por el aburaage (bolsitas de tofu frito). El maestro cocinero decidió servir el tofu glaseado en dashi dulce directamente sobre un tazón de fideos udon gruesos y reconfortantes, dando vida a un hito gastronómico nipón.",
+    "ingredient_groups": [
+      {
+        "name": "Aburaage Glaseado Dulce (Inari Tofu)",
+        "items": [
+          "4 piezas de aburaage (tofu frito japonés)",
+          "150 ml de caldo dashi",
+          "2 cucharadas de azúcar",
+          "2 cucharadas de salsa de soja",
+          "1 cucharada de mirin"
+        ]
+      },
+      {
+        "name": "Caldo Kansai Dashi Claro",
+        "items": [
+          "800 ml de dashi fresco (kombu y katsuobushi)",
+          "2 cucharadas de salsa de soja clara (usukuchi)",
+          "1 cucharada de mirin",
+          "1/2 cucharadita de sal marina"
+        ]
+      },
+      {
+        "name": "Fideos Udon y Guarniciones",
+        "items": [
+          "2 porciones de fideos udon frescos o congelados (sanuki udon)",
+          "4 rodajas de pastel de pescado kamaboko",
+          "2 cebolletas verdes finamente laminadas",
+          "Especias shichimi togarashi al gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Preparación y Glaseado del Aburaage",
+        "title": "1. Preparación y Glaseado del Aburaage",
+        "steps": [
+          "Pasar un palillo de madera rodando sobre cada lámina de aburaage para flexibilizarla. Escaldar en agua hirviendo durante 1 minuto para retirar el exceso de grasa superficial; escurrir suavemente.",
+          "En una cazuela pequeña calentar el dashi, azúcar, soja y mirin. Añadir las láminas de aburaage y cocinar a fuego lento con un drop lid (otoshibuta) durante 10 minutos hasta que absorban casi todo el jugo almibarado."
+        ]
+      },
+      {
+        "name": "2. Caldo Claro Estilo Kansai",
+        "title": "2. Caldo Claro Estilo Kansai",
+        "steps": [
+          "En una olla llevar a hervor suave el dashi con la soja clara usukuchi, el mirin y la sal marina; mantener a fuego mínimo sin que rompa a hervir intensamente para preservar su limpidez dorada."
+        ]
+      },
+      {
+        "name": "3. Cocción de Fideos y Servicio",
+        "title": "3. Cocción de Fideos y Servicio",
+        "steps": [
+          "Hervir los fideos udon según las instrucciones del fabricante hasta que estén elásticos y suaves; escurrir bien.",
+          "Colocar los fideos en cuencos hondos calientes y verter el caldo dashi transparente.",
+          "Disponer encima dos láminas de aburaage glaseado, las rodajitas de kamaboko, abundante cebolleta fresca y un toque de shichimi togarashi."
+        ]
+      }
+    ],
+    "notes": "Al morder el aburaage caliente sobre los fideos, se libera un torrente de jugo dulce y umami que equilibra deliciosamente el caldo dashi salino.",
+    "image": "img/kitsune_udon.jpg",
+    "url": "kitsune-udon-japon.html",
+    "original_title": "Kitsune Udon (Japón)",
+    "published": "2026-11-08"
+  },
+  {
+    "id": 539,
+    "title": "Shabu Shabu (Japón)",
+    "country": "Japón",
+    "category": "Guisos & Platos de Olla",
+    "tags": [
+      "shabu shabu",
+      "japón",
+      "hot pot",
+      "nabemono",
+      "wagyu",
+      "carne en láminas",
+      "ponzu",
+      "sésamo",
+      "gomadare",
+      "mesa compartida"
+    ],
+    "prep_time": "25 min",
+    "cook_time": "20 min",
+    "rest_time": "0 min",
+    "temperature": "95 °C",
+    "servings": "4 personas",
+    "calories": "550 kcal",
+    "diet_badges": [
+      "Bajo en Carbohidratos",
+      "Cocina Interactiva",
+      "Rico en Proteína"
+    ],
+    "story": "El Shabu Shabu fue bautizado y popularizado en la década de 1950 en el afamado restaurante Suehiro de Osaka, inspirado en el hot pot de cordero de Pekín. Su nombre es una onomatopeya perfecta del suave sonido siseante ('shabu-shabu') que emite la carne al balancearse con palillos en el caldo hirviendo durante apenas cinco a diez segundos antes de bañarse en salsa de sésamo (gomadare) o cítrica ponzu.",
+    "ingredient_groups": [
+      {
+        "name": "Carnes Selectas y Caldo Base",
+        "items": [
+          "500 g de lomo o bife de res (wagyu o angus) cortado en láminas ultrafinas de 1 mm",
+          "1 pieza grande de alga kombu seca (10x10 cm)",
+          "1.5 litros de agua filtrada",
+          "2 cucharadas de sake japonés"
+        ]
+      },
+      {
+        "name": "Vegetales y Hongos para la Olla",
+        "items": [
+          "1/2 col china (hakusai) cortada en trozos medianos",
+          "1 manojo de espinacas japonesas o hojas de chrysanthemum (shungiku)",
+          "1 puerro japonés (negi) cortado en diagonal",
+          "1 paquete de hongos enoki y 4 hongos shiitake marcados en cruz",
+          "1 bloque de tofu firme cortado en cubos"
+        ]
+      },
+      {
+        "name": "Salsas y Condimentos de Inmersión",
+        "items": [
+          "Salsa Ponzu casera con zumo de cítricos y salsa de soja",
+          "Salsa Gomadare cremosa de sésamo tostado y pasta tahini",
+          "Rábano daikon rallado con chile rojo (momiji oroshi)",
+          "Cebollino finamente picado"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Infusión del Fondo Kombu Dashi",
+        "title": "1. Infusión del Fondo Kombu Dashi",
+        "steps": [
+          "Colocar el agua y el alga kombu en la cazuela (donabe o nồi) sobre un hornillo de mesa; dejar reposar 30 minutos.",
+          "Llevar a fuego suave y retirar el alga kombu justo antes de que el agua rompa en hervor vigoroso para evitar sabores amargos; añadir el sake."
+        ]
+      },
+      {
+        "name": "2. Preparación de la Mesa y Salsas",
+        "title": "2. Preparación de la Mesa y Salsas",
+        "steps": [
+          "Disponer las láminas finas de carne en bandejas amplias bien frías.",
+          "Acomodar los vegetales, hongos y cubos de tofu en una fuente comunitaria.",
+          "Servir cuencos individuales con salsa ponzu y salsa de sésamo gomadare con platillos de cebollino y daikon picante."
+        ]
+      },
+      {
+        "name": "3. Dinámica del Shabu Shabu en Vivo",
+        "title": "3. Dinámica del Shabu Shabu en Vivo",
+        "steps": [
+          "Cocinar primero parte de los vegetales y hongos en el caldo hirviendo para perfumar el fondo.",
+          "Tomar una lámina de carne con los palillos y sumergirla en el caldo ondeándola rítmicamente durante 8 a 10 segundos hasta que pierda el color rojo pero permanezca rosada y jugosa.",
+          "Retirar de inmediato, mojar en la salsa de sésamo o ponzu y disfrutar al instante."
+        ]
+      }
+    ],
+    "notes": "Al finalizar la carne y los vegetales, el caldo restante enriquecido con los jugos se utiliza tradicionalmente para cocinar fideos udon o arroz (zousui).",
+    "image": "img/shabu_shabu.jpg",
+    "url": "shabu-shabu-japon.html",
+    "original_title": "Shabu Shabu (Japón)",
+    "published": "2026-11-08"
+  },
+  {
+    "id": 540,
+    "title": "Pollo General Tso (China)",
+    "country": "China",
+    "category": "Pollo / Aves",
+    "tags": [
+      "pollo general tso",
+      "china",
+      "hunan",
+      "wok",
+      "agridulce",
+      "picante",
+      "chiles secos",
+      "pollo frito",
+      "clásico mundial"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "15 min",
+    "rest_time": "10 min",
+    "temperature": "180 °C",
+    "servings": "4 personas",
+    "calories": "610 kcal",
+    "diet_badges": [
+      "Sabor Intenso",
+      "Crujiente Glaseado",
+      "Clásico de Wok"
+    ],
+    "story": "El Pollo General Tso fue creado en Taiwán en los años 1950 por el maestro chef Peng Chang-kuei, natural de Hunan, en honor al valiente líder militar Zuo Zongtang (General Tso) de la dinastía Qing. Al llegar a Nueva York en los años 70, la receta adquirió su irresistible glaseado agridulce y picante que conquistó al mundo entero: dados crujientes de pollo rebozados en fécula, perfumados con jengibre, chiles secos y vinagre de arroz negro Chinkiang.",
+    "ingredient_groups": [
+      {
+        "name": "Marinado y Rebozado Extra Crujiente",
+        "items": [
+          "600 g de pechuga o contramuslos de pollo deshuesados en dados de 2.5 cm",
+          "1 clara de huevo batida",
+          "1 cucharada de salsa de soja y 1 cucharada de vino Shaoxing",
+          "6 cucharadas de fécula de maíz (maicena)",
+          "Aceite abundante para fritura profunda"
+        ]
+      },
+      {
+        "name": "Salsa Glaseada General Tso",
+        "items": [
+          "3 cucharadas de salsa de soja y 1 cucharada de salsa de soja oscura",
+          "2 cucharadas de vinagre de arroz negro Chinkiang (o vinagre de arroz)",
+          "2 cucharadas de azúcar morena o miel",
+          "60 ml de caldo de pollo",
+          "1 cucharadita de fécula de maíz disuelta en 1 cucharada de agua fría"
+        ]
+      },
+      {
+        "name": "Salteado Aromático de Wok",
+        "items": [
+          "8 chiles secos enteros cortados al medio sin semillas",
+          "3 dientes de ajo picados finamente",
+          "1 trozo de jengibre fresco de 3 cm picado fino",
+          "3 cebolletas chinas (parte blanca en bastones, parte verde en rodajitas)",
+          "1 cucharadita de aceite de sésamo tostado y semillas de sésamo para decorar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Marinado y Doble Fritura Crujiente",
+        "title": "1. Marinado y Doble Fritura Crujiente",
+        "steps": [
+          "Marinar los dados de pollo con la clara de huevo, soja y vino Shaoxing durante 15 minutos; rebozar pasándolos enérgicamente por la fécula de maíz.",
+          "Freír en abundante aceite a 175 °C durante 3 a 4 minutos hasta dorar; escurrir sobre rejilla.",
+          "Elevar la temperatura del aceite a 190 °C y freír por segunda vez durante 1 minuto para obtener una costra dura y ultra crujiente."
+        ]
+      },
+      {
+        "name": "2. Salteado en Wok y Ligado de Salsa",
+        "title": "2. Salteado en Wok y Ligado de Salsa",
+        "steps": [
+          "En un wok caliente con 1 cucharada de aceite dorar rápidamente los chiles secos hasta que se inflen y liberen su aroma sin quemarse.",
+          "Añadir el ajo, jengibre y la parte blanca de las cebolletas salteando 30 segundos.",
+          "Verter la salsa mezclada y dejar burbujear hasta que espese y adquiera un brillo espejado."
+        ]
+      },
+      {
+        "name": "3. Glaseado Final y Servicio",
+        "title": "3. Glaseado Final y Servicio",
+        "steps": [
+          "Incorporar inmediatamente los dados de pollo crujientes al wok apagando el fuego.",
+          "Saltear enérgicamente durante 15 segundos para que la salsa cubra cada pieza sin ablandar el crocante.",
+          "Finalizar con el aceite de sésamo, la cebolleta verde y sésamo tostado, sirviendo al momento con brócoli al vapor y arroz blanco."
+        ]
+      }
+    ],
+    "notes": "La doble fritura es el secreto para que los bocados de pollo conserven su mordida crujiente incluso después de ser bañados por la salsa agridulce caliente.",
+    "image": "img/pollo_general_tso.jpg",
+    "url": "pollo-general-tso-china.html",
+    "original_title": "Pollo General Tso (China)",
+    "published": "2026-11-08"
+  },
+  {
+    "id": 541,
+    "title": "Pollo Kung Pao (China)",
+    "country": "China",
+    "category": "Pollo / Aves",
+    "tags": [
+      "pollo kung pao",
+      "china",
+      "sichuan",
+      "wok",
+      "gongbao",
+      "pimienta de sichuan",
+      "cacahuetes",
+      "chiles",
+      "umami"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "10 min",
+    "rest_time": "15 min",
+    "temperature": "200 °C",
+    "servings": "4 personas",
+    "calories": "570 kcal",
+    "diet_badges": [
+      "Sabor Mala Auténtico",
+      "Wok Hei",
+      "Rico en Frutos Secos"
+    ],
+    "story": "Obra cumbre de la cocina de Sichuan, el Pollo Kung Pao honra a Ding Baozhen, ilustre gobernador de Sichuan en la dinastía Qing cuyo rango oficial era 'Gongbao' (Protector del Palacio). El plato es una sinfonía de contrastes conocida como sabor Huajiao-Mala: la ternura del pollo marinado contrasta con el chasquido del maní tostado, la vibración eléctrica de la pimienta de Sichuan y una salsa agridulce glaseada.",
+    "ingredient_groups": [
+      {
+        "name": "Pollo Marinado Terciopelo (Velveting)",
+        "items": [
+          "500 g de pechuga o contramuslos en cubos regulares de 2 cm",
+          "1 cucharada de salsa de soja clara",
+          "1 cucharada de vino de arroz Shaoxing",
+          "1 cucharadita de fécula de maíz y 1 cucharada de agua fría",
+          "1 cucharadita de aceite vegetal"
+        ]
+      },
+      {
+        "name": "Especias Sichuan y Frutos Secos",
+        "items": [
+          "10 chiles secos de Sichuan cortados en mitades y sin semillas",
+          "1 cucharadita colmada de granos de pimienta de Sichuan tostados y machacados",
+          "80 g de maní (cacahuetes) tostados sin sal y sin piel",
+          "3 dientes de ajo en láminas y 1 trozo de jengibre en láminas finas",
+          "4 cebolletas cortadas en tubos de 2 cm"
+        ]
+      },
+      {
+        "name": "Salsa Ligada Gongbao",
+        "items": [
+          "2 cucharadas de vinagre negro Chinkiang",
+          "1.5 cucharadas de salsa de soja",
+          "1.5 cucharadas de azúcar",
+          "1 cucharadita de salsa de soja oscura",
+          "1 cucharadita de fécula de maíz diluida en 2 cucharadas de caldo"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Marinado Terciopelo del Pollo",
+        "title": "1. Marinado Terciopelo del Pollo",
+        "steps": [
+          "Mezclar el pollo con la salsa de soja, vino Shaoxing, fécula, agua y aceite, masajeando hasta que el líquido sea absorbido por completo. Dejar reposar 15 minutos."
+        ]
+      },
+      {
+        "name": "2. Fusión Aromática al Wok",
+        "title": "2. Fusión Aromática al Wok",
+        "steps": [
+          "Calentar el wok a fuego máximo con 2 cucharadas de aceite; saltear el pollo durante 2 a 3 minutos hasta que cambie de color y esté tierno al 80%; reservar.",
+          "En el mismo wok a fuego medio dorar los chiles secos y la pimienta de Sichuan durante 30 segundos hasta que desprendan su fragancia cítrica y ahumada.",
+          "Añadir el ajo, jengibre y la parte blanca de las cebolletas salteando unos segundos."
+        ]
+      },
+      {
+        "name": "3. Integración a Fuego Vivo",
+        "title": "3. Integración a Fuego Vivo",
+        "steps": [
+          "Reincorporar el pollo al wok junto con los maníes tostados y la parte verde de las cebolletas.",
+          "Verter la salsa Gongbao bien revuelta y saltear vigorosamente a fuego alto durante 30 segundos mientras la salsa se carameliza y se adhiere lustrosamente a cada ingrediente.",
+          "Servir inmediatamente acompañado de arroz jazmín al vapor."
+        ]
+      }
+    ],
+    "notes": "La pimienta de Sichuan aporta el efecto 'ma' (ligero entumecimiento cítrico en los labios) que junto al 'la' (picor del chile seco) definen el perfil auténtico del plato.",
+    "image": "img/pollo_kung_pao.jpg",
+    "url": "pollo-kung-pao-china.html",
+    "original_title": "Pollo Kung Pao (China)",
+    "published": "2026-11-08"
+  },
+  {
+    "id": 542,
+    "title": "Mafé de Ternera en Salsa de Maní (Senegal)",
+    "country": "Senegal",
+    "category": "Guisos & Platos de Olla",
+    "tags": [
+      "mafe",
+      "senegal",
+      "áfrica occidental",
+      "maní",
+      "ternera",
+      "guiso de carne",
+      "crema de cacahuete",
+      "plato tradicional",
+      "estofado"
+    ],
+    "prep_time": "25 min",
+    "cook_time": "1 h 30 min",
+    "rest_time": "10 min",
+    "temperature": "95 °C",
+    "servings": "6 personas",
+    "calories": "680 kcal",
+    "diet_badges": [
+      "Sin Gluten",
+      "Alta Energía",
+      "Guiso Emblemático"
+    ],
+    "story": "El Mafé (o Tigadèguèna) es uno de los estofados más celebrados de África Occidental, originado por el pueblo Mandinga e inmortalizado en Senegal y Malí. Dados de carne tierna de ternera se doran y se funden en una salsa opulenta elaborada a partir de pasta pura de maní tostado, tomates concentrados, batatas y verduras de raíz, perfumados con el picor sutil de un chile scotch bonnet entero que aromatiza sin abrasar.",
+    "ingredient_groups": [
+      {
+        "name": "Carne y Fondo de Guiso",
+        "items": [
+          "1 kg de carne de ternera para guisar (morcillo, aguja o falda) cortada en cubos grandes",
+          "3 cucharadas de aceite de cacahuete o vegetal",
+          "2 cebollas grandes picadas finamente",
+          "4 dientes de ajo majados",
+          "3 cucharadas de concentrado doble de tomate",
+          "1 litro de caldo de carne caliente"
+        ]
+      },
+      {
+        "name": "Salsa Rica de Maní y Hortalizas",
+        "items": [
+          "200 g de mantequilla o pasta pura de maní tostado 100% natural sin azúcar",
+          "2 batatas (camotes) peladas y cortadas en trozos grandes",
+          "2 zanahorias peladas cortadas al bies",
+          "1 trozo de repollo cortado en cuñas",
+          "1 chile scotch bonnet o habanero entero (sin perforar)",
+          "Sal marina y pimienta negra al gusto"
+        ]
+      },
+      {
+        "name": "Guarnición Tradicional",
+        "items": [
+          "Arroz blanco de grano largo cocido al vapor",
+          "Gajos de limón para acompañar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Sellado de la Carne y Sofrito",
+        "title": "1. Sellado de la Carne y Sofrito",
+        "steps": [
+          "En una cazuela de hierro calentar el aceite de cacahuete y dorar los cubos de ternera por todos sus lados; retirar y reservar.",
+          "En el mismo fondo sofreír la cebolla picada y el ajo a fuego medio hasta que estén traslúcidos y fragantes.",
+          "Incorporar el concentrado de tomate y cocinar 3 minutos para eliminar la acidez metálica."
+        ]
+      },
+      {
+        "name": "2. Integración de la Pasta de Maní y Cocción Lenta",
+        "title": "2. Integración de la Pasta de Maní y Cocción Lenta",
+        "steps": [
+          "Disolver la pasta de maní en dos tazas de caldo caliente hasta lograr una crema homogénea y verterla en la cazuela.",
+          "Reincorporar la carne sellada con sus jugos y el resto del caldo; llevar a ebullición suave y cocinar tapado durante 45 minutos."
+        ]
+      },
+      {
+        "name": "3. Cocción de Hortalizas y Reducción Untuosa",
+        "title": "3. Cocción de Hortalizas y Reducción Untuosa",
+        "steps": [
+          "Añadir las batatas, zanahorias, repollo y el chile scotch bonnet entero flotando en la superficie.",
+          "Cocinar a fuego bajo durante 30 a 40 minutos más, removiendo con cuidado para que no se pegue el fondo, hasta que la carne esté tierna como manteca y una fina película de aceite rojizo suba a la superficie.",
+          "Retirar el chile entero y servir sobre un lecho generoso de arroz vaporoso."
+        ]
+      }
+    ],
+    "notes": "Es vital mantener el chile scotch bonnet entero sin pincharlo; aportará un perfume floral asombroso sin liberar un picor excesivo en la salsa.",
+    "image": "img/mafe_ternera.jpg",
+    "url": "mafe-ternera-salsa-mani-senegal.html",
+    "original_title": "Mafé de Ternera en Salsa de Maní (Senegal)",
+    "published": "2026-11-08"
+  },
+  {
+    "id": 543,
+    "title": "Fufu con Sopa Ligera (Ghana)",
+    "country": "Ghana",
+    "category": "Guisos & Platos de Olla",
+    "tags": [
+      "fufu",
+      "ghana",
+      "light soup",
+      "abenkwan",
+      "yuca",
+      "plátano macho",
+      "pescado",
+      "caldo picante",
+      "tradicional africano"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "1 h",
+    "rest_time": "5 min",
+    "temperature": "95 °C",
+    "servings": "4 personas",
+    "calories": "520 kcal",
+    "diet_badges": [
+      "Sin Gluten",
+      "Ancestral",
+      "Alimento Reconfortante"
+    ],
+    "story": "El Fufu con Light Soup (Nkrakra) es la esencia misma de la hospitalidad y la cultura culinaria ashanti de Ghana. El fufu es una masa suave, sedosa y elástica lograda tradicionalmente tras majar enérgicamente yuca y plátano macho cocidos. Se presenta en forma de montaña tersa dentro de una sopa ligera y translúcida pero cargada de intensidad: un caldo vibrante de pescado o carne sazonado con jengibre fresco, cebolla, ajo, tomates y chiles.",
+    "ingredient_groups": [
+      {
+        "name": "Masa de Fufu Sedosa",
+        "items": [
+          "500 g de yuca fresca (mandioca) pelada y troceada",
+          "300 g de plátano verde o plátano macho pelado y cortado",
+          "Agua y una pizca de sal marina"
+        ]
+      },
+      {
+        "name": "Light Soup Picante y Aromática",
+        "items": [
+          "600 g de filetes de pescado firme (corvina, pargo o bacalao fresco) o pollo/cabra",
+          "4 tomates maduros enteros",
+          "2 cebollas medianas enteras peladas",
+          "4 dientes de ajo y 1 trozo generoso de jengibre fresco (5 cm)",
+          "2 chiles habaneros o scotch bonnet",
+          "1 cucharadita de semillas de anís machacadas",
+          "1.2 litros de agua o caldo"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Base de la Light Soup",
+        "title": "1. Base de la Light Soup",
+        "steps": [
+          "En una olla colocar el pescado sazonado con sal, ajo y jengibre machacado. Añadir los tomates enteros, las cebollas enteras, los chiles y el anís.",
+          "Cubrir con agua y cocinar a fuego medio durante 15 minutos hasta que los tomates y cebollas estén blandos.",
+          "Retirar los tomates, cebollas y chiles de la olla; licuarlos hasta obtener una crema muy fina y colarla de regreso sobre la sopa. Dejar cocinar a fuego suave 25 minutos más."
+        ]
+      },
+      {
+        "name": "2. Elaboración del Fufu",
+        "title": "2. Elaboración del Fufu",
+        "steps": [
+          "Hervir la yuca y el plátano macho en agua con sal durante 20 minutos hasta que estén perfectamente tiernos; escurrir reservando un poco de agua.",
+          "Majar en caliente en un mortero tradicional o procesar con gancho amasador hasta transformar ambos ingredientes en una masa uniforme, elástica, suave y sin grumos.",
+          "Con las manos humedecidas dar forma de bola esférica suave y colocarla en el centro de un cuenco hondo amplio."
+        ]
+      },
+      {
+        "name": "3. Servicio y Tradición",
+        "title": "3. Servicio y Tradición",
+        "steps": [
+          "Verter la sopa ligera humeante alrededor del fufu, dejando que la masa quede rodeada por el caldo y coronada por los trozos tiernos de pescado.",
+          "Tradicionalmente se come con las manos, pellizcando una pequeña porción de fufu con los dedos índice y pulgar, formando una concavidad para recoger sopa y tragándolo directamente sin masticar."
+        ]
+      }
+    ],
+    "notes": "La combinación de yuca con plátano macho otorga al fufu su consistencia característica: ni demasiado gomoso ni demasiado quebradizo.",
+    "image": "img/fufu_sopa_ligera.jpg",
+    "url": "fufu-sopa-ligera-ghana.html",
+    "original_title": "Fufu con Sopa Ligera (Ghana)",
+    "published": "2026-11-08"
+  },
+  {
+    "id": 544,
+    "title": "Injera de Teff (Etiopía)",
+    "country": "Etiopía",
+    "category": "Panadería",
+    "tags": [
+      "injera",
+      "etiopía",
+      "teff",
+      "pan plano",
+      "fermentado",
+      "sin gluten",
+      "ersho",
+      "pan tradicional",
+      "cuerno de áfrica"
+    ],
+    "prep_time": "15 min (+3 días fermentación)",
+    "cook_time": "20 min",
+    "rest_time": "3 días",
+    "temperature": "200 °C",
+    "servings": "6 panes",
+    "calories": "210 kcal",
+    "diet_badges": [
+      "Sin Gluten Natural",
+      "Fermentación Lenta",
+      "Probiótico"
+    ],
+    "story": "La Injera es el alma nutricia milenaria de Etiopía y Eritrea. Este pan plano, esponjoso y sutilmente agrio se elabora exclusivamente a partir de harina de teff, un grano diminuto ancestral libre de gluten cargado de minerales. Tras una fermentación natural de tres días que desarrolla su inconfundible acidez y su masa madre (ersho), se vierte en un mit'ad (plancha circular), creando en la superficie cientos de pequeños 'ojos' aireados que servirán para atrapar las salsas de los guisos wat.",
+    "ingredient_groups": [
+      {
+        "name": "Masa Fermentada de Teff",
+        "items": [
+          "400 g de harina de teff auténtica (marrón o marfil)",
+          "550 ml de agua filtrada templada",
+          "1 cucharadita de masa madre activa o un pellizco de levadura seca (opcional para iniciar el ersho)",
+          "150 ml de agua hirviendo (para la técnica del absit)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Primera Fermentación (3 Días)",
+        "title": "1. Primera Fermentación (3 Días)",
+        "steps": [
+          "En un recipiente de vidrio grande mezclar la harina de teff con el agua templada con las manos hasta formar una pasta suave; tapar con un paño limpio y dejar en un lugar cálido durante 3 días.",
+          "Al tercer día se habrá formado un líquido amarronado en la superficie y un aroma deliciosamente agrio; desechar con cuidado el líquido superficial acumulado."
+        ]
+      },
+      {
+        "name": "2. Técnica del Absit (Cocción Previa del Almidón)",
+        "title": "2. Técnica del Absit (Cocción Previa del Almidón)",
+        "steps": [
+          "Tomar 100 ml de la masa fermentada y mezclarla en un cazo con 150 ml de agua hirviendo, revolviendo continuamente a fuego medio hasta obtener un engrudo espeso y brillante (absit).",
+          "Dejar entibiar el absit y reincorporarlo al resto de la masa batiendo bien; añadir agua extra hasta obtener una densidad fluida similar a la de masa de crepes. Dejar reposar 1 hora hasta que aparezcan burbujas vivas."
+        ]
+      },
+      {
+        "name": "3. Cocción al Estilo Mit'ad",
+        "title": "3. Cocción al Estilo Mit'ad",
+        "steps": [
+          "Calentar una sartén antiadherente amplia o crepera a fuego medio-alto (200 °C) ligeramente engrasada con papel absorbente.",
+          "Verter una taza de masa en espiral desde el borde exterior hacia el centro.",
+          "Cocinar destapado durante 45 segundos hasta que aparezcan los 'ojos' (burbujas abiertas en toda la superficie); tapar herméticamente y cocinar al vapor durante 2 minutos más hasta que la superficie esté cocida y no pegajosa al tacto.",
+          "Retirar deslizando sobre una esterilla o paño limpio y dejar enfriar sin apilar en caliente."
+        ]
+      }
+    ],
+    "notes": "La injera nunca se voltea durante la cocción: se cocina por la base gracias al calor de la sartén y por arriba gracias al vapor atrapado bajo la tapa.",
+    "image": "img/injera_teff.jpg",
+    "url": "injera-teff-etiopia.html",
+    "original_title": "Injera de Teff (Etiopía)",
+    "published": "2026-11-08"
+  },
+  {
+    "id": 545,
+    "title": "Nyama Choma a las Brasas con Kachumbari (Kenia)",
+    "country": "Kenia",
+    "category": "Carnes",
+    "tags": [
+      "nyama choma",
+      "kenia",
+      "asado",
+      "brasas",
+      "cordero",
+      "cabra",
+      "kachumbari",
+      "parrilla africana",
+      "tradicional"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "1 h 30 min",
+    "rest_time": "15 min",
+    "temperature": "160 °C",
+    "servings": "6 personas",
+    "calories": "630 kcal",
+    "diet_badges": [
+      "Keto / Low Carb",
+      "Sin Gluten",
+      "Asado Rústico"
+    ],
+    "story": "En las calles y reuniones comunitarias de Nairobi y las sabanas de Kenia, nada congrega más que el Nyama Choma, vocablo en suajili que significa 'carne asada'. Se trata de costillas o piernas de cabra o cordero asadas con infinita paciencia sobre brasas de carbón vegetal, sazonadas únicamente con sal y un toque de ajo para honrar la pureza de la carne, escoltadas por el vibrante Kachumbari, una ensalada fresca de tomates picados, cebolla morada y chiles.",
+    "ingredient_groups": [
+      {
+        "name": "Carne Selecta y Salmuera Rústica",
+        "items": [
+          "1.5 kg de costillar o pierna deshuesada de cordero o cabra de buena calidad",
+          "2 cucharadas de sal marina gruesa",
+          "4 dientes de ajo triturados",
+          "1 cucharada de aceite vegetal y zumo de 1 limón",
+          "1 vaso de agua templada para rociar las brasas"
+        ]
+      },
+      {
+        "name": "Ensalada Fresca Kachumbari",
+        "items": [
+          "3 tomates maduros firmes cortados en cubos pequeños",
+          "1 cebolla morada mediana finamente picada (remojada en agua con sal)",
+          "1 chile habanero o jalapeño verde en finas rodajas",
+          "1 manojo de cilantro fresco recién picado",
+          "Zumo de 2 limones frescos y sal marina al gusto"
+        ]
+      },
+      {
+        "name": "Acompañamiento Opcional",
+        "items": [
+          "Ugali (masa densa de harina de maíz blanca cocida)",
+          "Gajos de limón adicionales"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Preparación de las Brasas y la Carne",
+        "title": "1. Preparación de las Brasas y la Carne",
+        "steps": [
+          "Preparar las brasas de carbón o leña hasta lograr un calor medio y constante (sin llamas directas).",
+          "Hacer cortes superficiales en la carne; frotar con el ajo majado, unas gotas de limón y aceite vegetal.",
+          "Disolver la sal marina en agua tibia para preparar la salmuera de rociado tradicional."
+        ]
+      },
+      {
+        "name": "2. Asado Lento sobre las Brasas",
+        "title": "2. Asado Lento sobre las Brasas",
+        "steps": [
+          "Colocar la carne sobre la parrilla a fuego indirecto suave.",
+          "Cocinar durante 1 hora y media volteando cada 15 a 20 minutos y pincelando con la salmuera para mantener la humedad interna y crear una corteza crujiente y tostada.",
+          "Retirar cuando la carne esté caramelizada por fuera y jugosa y tierna al corte; reposar 10 minutos antes de trinchar en trozos pequeños de bocado."
+        ]
+      },
+      {
+        "name": "3. Preparación del Kachumbari y Presentación",
+        "title": "3. Preparación del Kachumbari y Presentación",
+        "steps": [
+          "En un cuenco mezclar los tomates picados con la cebolla escurrida, el chile picante y el cilantro.",
+          "Aliñar con zumo de limón y sal marina justo antes de servir.",
+          "Servir los trozos de carne humeante en tablas de madera acompañados del kachumbari fresco y ugali caliente."
+        ]
+      }
+    ],
+    "notes": "El secreto del Nyama Choma genuino es la simpleza: nada de adobos complejos ni marinadas que oculten el sabor noble de la carne bien asada al carbón.",
+    "image": "img/nyama_choma.jpg",
+    "url": "nyama-choma-brasas-kachumbari-kenia.html",
+    "original_title": "Nyama Choma a las Brasas con Kachumbari (Kenia)",
+    "published": "2026-11-08"
+  },
+  {
+    "id": 546,
+    "title": "Shakshuka con Huevos Escalfados (Túnez)",
+    "country": "Túnez",
+    "category": "Huevos / Desayunos",
+    "tags": [
+      "shakshuka",
+      "túnez",
+      "magreb",
+      "huevos escalfados",
+      "sartén de hierro",
+      "tomates",
+      "harissa",
+      "comino",
+      "desayuno árabe"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "25 min",
+    "rest_time": "5 min",
+    "temperature": "90 °C",
+    "servings": "4 personas",
+    "calories": "340 kcal",
+    "diet_badges": [
+      "Vegetariano",
+      "Sin Gluten",
+      "Sartén de Campo"
+    ],
+    "story": "Nacido en las costas de Túnez y adoptado apasionadamente en todo el norte de África y el Medio Oriente, la Shakshuka (término dialectal magrebí que alude a una 'mezcla' o 'revuelto') es una fiesta comunitaria de color y sabor. Una salsa rústica y concentrada de tomates maduros, pimientos dulces, ajo, harissa tunecina y comino molido sirve de nido para escalfar suavemente huevos frescos de campo cuyas yemas se rompen untuosas sobre un trozo de pan crujiente.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Pimientos y Tomates al Sartén",
+        "items": [
+          "4 cucharadas de aceite de oliva virgen extra",
+          "1 cebolla picada y 1 pimiento rojo picado en tiras",
+          "1 pimiento verde o chile dulce en tiras",
+          "4 dientes de ajo picados finamente",
+          "2 cucharaditas de pasta de harissa tunecina (ajustar al gusto)",
+          "1 cucharadita de comino molido y 1 cucharadita de pimentón dulce o ahumado",
+          "800 g de tomates maduros pelados y picados (o tomate triturado de calidad)",
+          "Sal marina y pimienta negra molida"
+        ]
+      },
+      {
+        "name": "Huevos y Rematado",
+        "items": [
+          "4 a 5 huevos frescos de campo",
+          "50 g de queso feta desmenuzado (opcional)",
+          "Hojas de perejil fresco y cilantro picado",
+          "Pan pita o pan crujiente de masa madre para acompañar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Sofrito Aromático de Pimientos",
+        "title": "1. Sofrito Aromático de Pimientos",
+        "steps": [
+          "En una sartén grande de hierro fundido calentar el aceite de oliva a fuego medio.",
+          "Añadir la cebolla y los pimientos; cocinar durante 10 minutos hasta que estén suaves y ligeramente dorados.",
+          "Incorporar el ajo, la harissa, el comino y el pimentón, removiendo durante 1 minuto para tostar las especias."
+        ]
+      },
+      {
+        "name": "2. Reducción Concentrada de Tomate",
+        "title": "2. Reducción Concentrada de Tomate",
+        "steps": [
+          "Agregar los tomates triturados con sus jugos, salpimentar y llevar a hervor suave.",
+          "Cocinar a fuego lento durante 12 a 15 minutos sin tapar hasta que la salsa espese y el aceite empiece a aflorar en la superficie."
+        ]
+      },
+      {
+        "name": "3. Escalfado de Huevos en los Nidos",
+        "title": "3. Escalfado de Huevos en los Nidos",
+        "steps": [
+          "Con el envés de una cuchara grande abrir 4 o 5 cavidades o 'nidos' en la salsa espesa caliente.",
+          "Cascar con cuidado un huevo dentro de cada cavidad.",
+          "Tapar la sartén y cocinar a fuego muy bajo durante 5 a 7 minutos, hasta que las claras estén completamente cuajadas pero las yemas continúen temblorosas y líquidas.",
+          "Retirar del fuego, espolvorear con el queso feta, perejil y cilantro picado, y llevar directamente la sartén a la mesa para mojar el pan."
+        ]
+      }
+    ],
+    "notes": "No sobrecocines los huevos; la gloria del plato consiste en mojar el pan en la yema líquida mientras se combina con el tomate picante y la harissa.",
+    "image": "img/shakshuka_huevos.jpg",
+    "url": "shakshuka-huevos-escalfados-tunez.html",
+    "original_title": "Shakshuka con Huevos Escalfados (Túnez)",
+    "published": "2026-11-08"
+  },
+  {
+    "id": 547,
+    "title": "Puff Puff Esponjoso (Nigeria)",
+    "country": "Nigeria",
+    "category": "Postres y Dulces",
+    "tags": [
+      "puff puff",
+      "nigeria",
+      "áfrica occidental",
+      "buñuelos",
+      "postre frito",
+      "nuez moscada",
+      "street food",
+      "dulce festivo"
+    ],
+    "prep_time": "15 min (+45 min leudado)",
+    "cook_time": "15 min",
+    "rest_time": "45 min",
+    "temperature": "175 °C",
+    "servings": "20 unidades",
+    "calories": "160 kcal c/u",
+    "diet_badges": [
+      "Vegano Natural",
+      "Económico & Popular",
+      "Esponjoso & Dorado"
+    ],
+    "story": "El Puff Puff es el rey indiscutido de las fiestas callejeras, bodas y reuniones familiares de Nigeria y toda África Occidental. Se trata de irresistibles esferas doradas de masa leudada con levadura, perfumadas con nuez moscada recién rallada. Al freírse en aceite caliente, se inflan en globos perfectos de corteza crujiente y corazón aireado, tierno y con el dulzor justo que deleita a chicos y grandes.",
+    "ingredient_groups": [
+      {
+        "name": "Masa Leudada Aromática",
+        "items": [
+          "250 g de harina de trigo común",
+          "7 g de levadura seca activa (o 20 g de levadura fresca)",
+          "70 g de azúcar blanco",
+          "1/2 cucharadita de nuez moscada recién rallada (imprescindible)",
+          "1/2 cucharadita de sal fina",
+          "220 ml de agua tibia (aprox. 38 °C)"
+        ]
+      },
+      {
+        "name": "Fritura y Acabado",
+        "items": [
+          "Aceite vegetal neutro (girasol o maíz) para freír",
+          "Azúcar glas o canela molida para espolvorear al gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Mezcla y Leudado de la Masa",
+        "title": "1. Mezcla y Leudado de la Masa",
+        "steps": [
+          "En un cuenco grande disolver la levadura y una cucharada de azúcar en el agua tibia; dejar espumar 5 minutos.",
+          "Añadir la harina tamizada, el resto del azúcar, la sal y la nuez moscada rallada.",
+          "Mezclar con las manos o espátula enérgica durante 3 minutos hasta obtener una masa elástica, densa y pegajosa pero homogénea.",
+          "Cubrir con film o paño húmedo y reposar en un lugar cálido durante 45 a 60 minutos hasta que doble su tamaño y se llene de burbujas de aire."
+        ]
+      },
+      {
+        "name": "2. Porcionado Tradicional y Fritura",
+        "title": "2. Porcionado Tradicional y Fritura",
+        "steps": [
+          "Calentar abundante aceite en una olla honda a 170-175 °C (al menos 6 cm de profundidad).",
+          "Tomar una porción de masa con el puño cerrado y apretar para que una esfera suave salga expulsada entre el pulgar y el índice, dejándola caer con suavidad en el aceite caliente (o utilizar dos cucharas engrasadas).",
+          "Freír en tandas sin amontonar durante 4 a 5 minutos, haciéndolas rodar con espumadera para que se doren de manera uniforme por todas partes."
+        ]
+      },
+      {
+        "name": "3. Escurrido y Degustación",
+        "title": "3. Escurrido y Degustación",
+        "steps": [
+          "Retirar con espumadera y escurrir sobre papel absorbente.",
+          "Servir tibios, disfrutando de su textura esponjosa y ligera, solos o espolvoreados con un toque de azúcar glas."
+        ]
+      }
+    ],
+    "notes": "La nuez moscada es el alma aromática secreta del Puff Puff nigeriano: su aroma amaderado y cálido distingue estos buñuelos de cualquier otra receta del mundo.",
+    "image": "img/puff_puff_nigeriano.jpg",
+    "url": "puff-puff-esponjoso-nigeria.html",
+    "original_title": "Puff Puff Esponjoso (Nigeria)",
+    "published": "2026-11-08"
+  },
+  {
+    "id": 548,
+    "title": "Arroz Jollof al Estilo Nigeriano (Nigeria)",
+    "country": "Nigeria",
+    "category": "Arroces y Risottos",
+    "tags": [
+      "jollof rice",
+      "nigeria",
+      "áfrica occidental",
+      "arroz jollof",
+      "party jollof",
+      "pimientos asados",
+      "tomate",
+      "ahumado",
+      "arroz de fiesta"
+    ],
+    "prep_time": "25 min",
+    "cook_time": "45 min",
+    "rest_time": "10 min",
+    "temperature": "95 °C",
+    "servings": "6 personas",
+    "calories": "460 kcal",
+    "diet_badges": [
+      "Sin Gluten",
+      "Vegano Adaptable",
+      "Ícono Culinario"
+    ],
+    "story": "El Arroz Jollof al estilo nigeriano es el orgullo definitivo de las festividades en Nigeria y el epicentro de la entrañable 'Guerra del Jollof' de África Occidental. Este arroz parbolizado de grano largo se impregna de una reducción magistral de pimientos rojos asados (tatashe), tomates, cebollas y chiles scotch bonnet con caldo de carne, tomillo seco y curry en polvo. Su toque culinario supremo es el fondo levemente tostado hacia el final de la cocción, que aporta el codiciado aroma ahumado de leña ('party jollof smoke') sin quemar el grano.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Pimientos Tatashe y Tomates (OBE Ata)",
+        "items": [
+          "4 pimientos rojos morrones grandes (o pimientos tatashe)",
+          "5 tomates maduros medianos",
+          "2 chiles scotch bonnet o habaneros rojos (al gusto de picor)",
+          "2 cebollas rojas grandes cortadas en cuartos",
+          "4 dientes de ajo y 1 trozo de jengibre de 3 cm"
+        ]
+      },
+      {
+        "name": "Arroz y Especias de Cocción",
+        "items": [
+          "500 g de arroz parbolizado de grano largo (arroz dorado pre-cocido)",
+          "100 ml de aceite vegetal",
+          "1 cebolla finamente picada",
+          "3 cucharadas de pasta de tomate concentrada",
+          "1 cucharada colmada de curry en polvo estilo nigeriano/británico",
+          "1 cucharada de tomillo seco",
+          "3 hojas de laurel",
+          "600 ml de caldo de pollo o res bien sabroso y concentrado",
+          "2 cucharadas de manteca al final"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Triturado y Reducción de la Salsa",
+        "title": "1. Triturado y Reducción de la Salsa",
+        "steps": [
+          "Licuar los pimientos rojos, tomates, chiles, cebollas en cuartos, ajo y jengibre con el mínimo de agua posible hasta obtener una salsa homogénea.",
+          "Verter en una olla y hervir a fuego medio durante 15 minutos para evaporar el agua excedente y concentrar los azúcares naturales."
+        ]
+      },
+      {
+        "name": "2. Sofrito Dorado y Fritura del Tomate",
+        "title": "2. Sofrito Dorado y Fritura del Tomate",
+        "steps": [
+          "En una cazuela ancha y pesada calentar el aceite vegetal y freír la cebolla picada durante 5 minutos.",
+          "Añadir el concentrado de tomate y freír a fuego medio durante 5 minutos revolviendo continuamente hasta que oscurezca y pierda la acidez.",
+          "Incorporar la salsa de pimientos reducida, el curry en polvo, el tomillo y las hojas de laurel; cocinar a fuego suave durante 15 minutos hasta que el aceite suba a la superficie.",
+          "Verter el caldo concentrado caliente y salpimentar al punto."
+        ]
+      },
+      {
+        "name": "3. Cocción al Vapor y Toque Ahumado",
+        "title": "3. Cocción al Vapor y Toque Ahumado",
+        "steps": [
+          "Lavar el arroz parbolizado con agua tibia varias veces para eliminar el exceso de almidón y escurrir muy bien.",
+          "Verter el arroz en la salsa hirviendo, mezclar bien para impregnar los granos (el líquido apenas debe cubrir el arroz por un dedo de grosor).",
+          "Cubrir inmediatamente la olla con una hoja de papel de aluminio y luego la tapa pesada hermética.",
+          "Cocinar a fuego muy bajo durante 30 minutos sin destapar para que el arroz se cocine exclusivamente al vapor de la salsa.",
+          "En los últimos 5 minutos subir ligeramente el fuego para provocar el característico tostado en el fondo que perfuma todo el arroz con el aroma de fiesta (party smoke). Destapar, añadir la manteca, ahuecar los granos con un tenedor y servir caliente."
+        ]
+      }
+    ],
+    "notes": "El uso de arroz parbolizado de grano largo es indispensable: absorbe cantidades masivas de salsa especiada sin apelmazarse ni volverse pastoso, quedando los granos sueltos y de un color rojo resplandeciente.",
+    "image": "img/arroz_jollof_nigeriano.jpg",
+    "url": "arroz-jollof-nigeriano-nigeria.html",
+    "original_title": "Arroz Jollof al Estilo Nigeriano (Nigeria)",
     "published": "2026-11-08"
   }
 ]
