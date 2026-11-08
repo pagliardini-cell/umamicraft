@@ -41330,11 +41330,12 @@
   },
   {
     "id": 532,
-    "title": "Ramen de Callos y Albóndigas (Japón)",
+    "title": "Ramen de Mondongo y Albóndigas (Japón)",
     "country": "Japón",
     "category": "Sopas y Potajes",
     "tags": [
       "ramen",
+      "mondongo",
       "callos",
       "albóndigas",
       "fideos",
@@ -41356,12 +41357,12 @@
       "Rico en Colágeno",
       "Fusión Asiática"
     ],
-    "story": "Inspirado en la creación cultural de Elvin Yung, este ramen fusiona el alma del dim sum cantones con el arte del ramen japonés. Los callos de res estofados a fuego lento con cinco especias chinas y jengibre aportan una melosidad colagénica incomparable, que se complementa con tiernas albóndigas de carne sazonadas con sésamo sobre fideos ondulados sumergidos en un caldo doble de res y ave.",
+    "story": "Inspirado en la creación cultural de Elvin Yung, este ramen fusiona el alma del dim sum cantonés con el arte del ramen japonés. El mondongo vacuno (callos) estofado a fuego lento con cinco especias chinas y jengibre aporta una melosidad colagénica incomparable, que se complementa con tiernas albóndigas de carne sazonadas con sésamo sobre fideos ondulados sumergidos en un caldo doble de res y ave.",
     "ingredient_groups": [
       {
-        "name": "Callos Estofados Melosos",
+        "name": "Mondongo Estofado Meloso",
         "items": [
-          "500 g de callos de res limpios y cortados en tiras finas",
+          "500 g de mondongo vacuno limpio cortado en tiras finas",
           "2 trozos de jengibre fresco machacado",
           "3 dientes de ajo aplastados",
           "1 cucharadita de polvo cinco especias chinas",
@@ -41394,12 +41395,12 @@
     ],
     "step_groups": [
       {
-        "name": "1. Estofado Meloso de Callos",
-        "title": "1. Estofado Meloso de Callos",
+        "name": "1. Estofado Meloso de Mondongo",
+        "title": "1. Estofado Meloso de Mondongo",
         "steps": [
-          "Blanquear los callos en agua hirviendo durante 10 minutos con jengibre y vino para eliminar cualquier aroma fuerte; colar y enjuagar bien.",
-          "En una cacerola saltear el ajo y jengibre restantes, añadir los callos blanqueados, las cinco especias, la salsa de soja oscura y el azúcar.",
-          "Cubrir con agua y cocinar a fuego lento durante 2 horas hasta que los callos estén extraordinariamente tiernos, melosos y hayan absorbido los aromas."
+          "Blanquear el mondongo en agua hirviendo durante 10 minutos con jengibre y vino para eliminar cualquier aroma fuerte; colar y enjuagar bien.",
+          "En una cacerola saltear el ajo y jengibre restantes, añadir el mondongo blanqueado, las cinco especias, la salsa de soja oscura y el azúcar.",
+          "Cubrir con agua y cocinar a fuego lento durante 2 horas hasta que el mondongo esté extraordinariamente tierno, meloso y haya absorbido los aromas."
         ]
       },
       {
@@ -41416,14 +41417,14 @@
         "title": "3. Montaje del Tazón",
         "steps": [
           "Hervir los fideos de ramen durante 90 segundos al dente, escurrir enérgicamente y verter en los tazones sobre el caldo hirviendo.",
-          "Disponer encima los callos glaseados en su salsa oscura, las albóndigas tiernas, medio huevo marinado, cebollino fresco y un hilo de aceite rayu picante."
+          "Disponer encima el mondongo glaseado en su salsa oscura, las albóndigas tiernas, medio huevo marinado, cebollino fresco y un hilo de aceite rayu picante."
         ]
       }
     ],
-    "notes": "El secreto de este plato radica en el doble blanqueado de los callos para lograr una textura sedosa que se disuelve en el paladar sin opacar la sutileza del caldo.",
+    "notes": "El secreto de este plato radica en el doble blanqueado del mondongo para lograr una textura sedosa que se disuelve en el paladar sin opacar la sutileza del caldo.",
     "image": "img/ramen_callos_albondigas.jpg",
-    "url": "ramen-callos-albondigas-japon.html",
-    "original_title": "Ramen de Callos y Albóndigas (Japón)",
+    "url": "ramen-mondongo-albondigas-japon.html",
+    "original_title": "Ramen de Mondongo y Albóndigas (Japón)",
     "published": "2026-11-08"
   },
   {
@@ -42072,7 +42073,7 @@
       }
     ],
     "notes": "Al finalizar la carne y los vegetales, el caldo restante enriquecido con los jugos se utiliza tradicionalmente para cocinar fideos udon o arroz (zousui).",
-    "image": "img/shabu_shabu.jpg",
+    "image": "img/shabu_shabu.jpg?v=2",
     "url": "shabu-shabu-japon.html",
     "original_title": "Shabu Shabu (Japón)",
     "published": "2026-11-08"
