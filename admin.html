@@ -556,23 +556,25 @@
                 <label>Categoría Culinaria *</label>
                 <select id="formCategory" class="form-select" required>
                   <option value="Sopas y Potajes">Sopas y Potajes</option>
-                  <option value="Pollo / Aves">Pollo / Aves</option>
-                  <option value="Pastas">Pastas</option>
                   <option value="Carnes">Carnes</option>
-                  <option value="Cerdo">Cerdo</option>
-                  <option value="Arroces y Risottos">Arroces y Risottos</option>
-                  <option value="Salsas y Aderezos">Salsas y Aderezos</option>
+                  <option value="Pastas">Pastas</option>
+                  <option value="Pollo / Aves">Pollo / Aves</option>
                   <option value="Postres y Dulces">Postres y Dulces</option>
                   <option value="Cocktails & Tragos">Cocktails & Tragos</option>
-                  <option value="Guarniciones">Guarniciones</option>
-                  <option value="Panadería">Panadería</option>
-                  <option value="Ensaladas">Ensaladas</option>
-                  <option value="Tapas / Picoteo">Tapas / Picoteo</option>
-                  <option value="Pizzas / Tartas / Masas">Pizzas / Tartas / Masas</option>
-                  <option value="Pescados y Mariscos">Pescados y Mariscos</option>
-                  <option value="Huevos / Desayunos">Huevos / Desayunos</option>
-                  <option value="Conservas / Embutidos">Conservas / Embutidos</option>
+                  <option value="Plato Principal">Plato Principal</option>
                   <option value="Sándwiches / Burgers">Sándwiches / Burgers</option>
+                  <option value="Arroces y Risottos">Arroces y Risottos</option>
+                  <option value="Cerdo">Cerdo</option>
+                  <option value="Panadería">Panadería</option>
+                  <option value="Guisos & Platos de Olla">Guisos & Platos de Olla</option>
+                  <option value="Salsas y Aderezos">Salsas y Aderezos</option>
+                  <option value="Pescados y Mariscos">Pescados y Mariscos</option>
+                  <option value="Pizzas / Tartas / Masas">Pizzas / Tartas / Masas</option>
+                  <option value="Tapas / Picoteo">Tapas / Picoteo</option>
+                  <option value="Huevos / Desayunos">Huevos / Desayunos</option>
+                  <option value="Guarniciones">Guarniciones</option>
+                  <option value="Conservas / Embutidos">Conservas / Embutidos</option>
+                  <option value="Ensaladas">Ensaladas</option>
                 </select>
               </div>
 
@@ -702,7 +704,10 @@
       'Sudáfrica': 'za', 'Marruecos': 'ma', 'Bélgica': 'be', 'Cuba': 'cu', 'Líbano / Siria': 'lb',
       'Medio Oriente': 'lb', 'Palestina': 'ps', 'Escocia': 'gb-sct', 'Singapur': 'sg', 'Taiwán': 'tw',
       'Afganistán': 'af', 'Caribe': 'cu', 'Uruguay': 'uy', 'Brasil': 'br', 'Portugal': 'pt',
-      'Chile': 'cl', 'Bolivia': 'bo', 'Indonesia': 'id', 'Fusión': 'un', 'Internacional': 'un'
+      'Chile': 'cl', 'Bolivia': 'bo', 'Indonesia': 'id', 'Fusión': 'un', 'Internacional': 'un',
+      'Australia': 'au', 'Balcanes': 'rs', 'Canadá / Internacional': 'ca', 'Canadá': 'ca',
+      'Fusión Internacional': 'un', 'Hungría': 'hu', 'Inglaterra / Francia': 'gb',
+      'Inglaterra / Italia': 'gb', 'Nueva Zelanda': 'nz', 'Puerto Rico': 'pr', 'Suiza': 'ch'
     };
 
     function getCountryBadgeHtml(country) {
@@ -886,10 +891,11 @@
 
       // 1. Continentes / Regiones
       const REGION_DEFS = [
-        { name: 'Europa', icon: '🇪🇺', list: ['Italia', 'España', 'Francia', 'Alemania', 'Reino Unido', 'Inglaterra', 'Escocia', 'Portugal', 'Bélgica', 'Suecia', 'Irlanda', 'Grecia', 'Rusia'] },
-        { name: 'América', icon: '🌎', list: ['Argentina', 'Receta de Autor (Argentina)', 'Estados Unidos', 'México', 'Perú', 'Brasil', 'Chile', 'Uruguay', 'Cuba', 'Venezuela', 'Bolivia', 'Paraguay', 'Caribe'] },
-        { name: 'Asia & Oceanía', icon: '🌏', list: ['Japón', 'China', 'India', 'Tailandia', 'Vietnam', 'Corea del Sur', 'Singapur', 'Taiwán', 'Indonesia', 'Mongolia'] },
-        { name: 'Medio Oriente & África', icon: '🌍', list: ['Medio Oriente', 'Turquía', 'Líbano', 'Líbano / Siria', 'Palestina', 'Marruecos', 'Egipto', 'Sudáfrica', 'Armenia', 'Afganistán'] }
+        { name: 'Europa', icon: '🇪🇺', list: ['Italia', 'España', 'Francia', 'Alemania', 'Reino Unido', 'Inglaterra', 'Escocia', 'Portugal', 'Bélgica', 'Suecia', 'Irlanda', 'Grecia', 'Rusia', 'Hungría', 'Suiza', 'Balcanes', 'Inglaterra / Francia', 'Inglaterra / Italia'] },
+        { name: 'América', icon: '🌎', list: ['Argentina', 'Receta de Autor (Argentina)', 'Estados Unidos', 'México', 'Perú', 'Brasil', 'Chile', 'Uruguay', 'Cuba', 'Venezuela', 'Bolivia', 'Paraguay', 'Caribe', 'Puerto Rico', 'Canadá / Internacional', 'Canadá'] },
+        { name: 'Asia & Oceanía', icon: '🌏', list: ['Japón', 'China', 'India', 'Tailandia', 'Vietnam', 'Corea del Sur', 'Singapur', 'Taiwán', 'Indonesia', 'Mongolia', 'Australia', 'Nueva Zelanda'] },
+        { name: 'Medio Oriente & África', icon: '🌍', list: ['Medio Oriente', 'Turquía', 'Líbano', 'Líbano / Siria', 'Palestina', 'Marruecos', 'Egipto', 'Sudáfrica', 'Armenia', 'Afganistán'] },
+        { name: 'Cocina Global & Fusión', icon: '🌐', list: ['Fusión', 'Fusión Internacional', 'Internacional'] }
       ];
 
       const contContainer = document.getElementById('continentsBreakdown');
