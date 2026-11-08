@@ -42867,5 +42867,171 @@
     "url": "arroz-jollof-nigeriano-nigeria.html",
     "original_title": "Arroz Jollof al Estilo Nigeriano (Nigeria)",
     "published": "2026-11-08"
+  },
+  {
+    "id": 549,
+    "title": "Buñuelos de Acelga (Argentina)",
+    "country": "Argentina",
+    "category": "Tapas / Picoteo",
+    "tags": [
+      "buñuelos",
+      "acelga",
+      "argentina",
+      "bodegón",
+      "frituras",
+      "verdura",
+      "lechuga",
+      "queso sardo",
+      "tapas",
+      "picada"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "15 min",
+    "rest_time": "5 min",
+    "temperature": "175 °C",
+    "servings": "4 personas",
+    "calories": "280 kcal",
+    "diet_badges": [
+      "Vegetariano",
+      "Clásico de Bodegón",
+      "Cocina de Aprovechamiento"
+    ],
+    "story": "Los buñuelos de acelga son una institución sagrada de los bodegones porteños y de las cocinas familiares de toda la Argentina. Llegados de la mano de la inmigración italiana y española, se consagraron como la entrada y guarnición más pedida: bocados crocantes e irregulares por fuera, tiernos y aromáticos por dentro gracias a la combinación infalible de acelga fresca, queso duro rallado, un toque de ajo y nuez moscada, servidos humeantes con gajos de limón fresco.",
+    "ingredient_groups": [
+      {
+        "name": "Masa Base y Vegetales Frescos",
+        "items": [
+          "1 atado grande de acelga fresca (lavada, bien escurrida y picada fina en crudo; sin pencas duras)",
+          "2 huevos de campo",
+          "150 g de harina común (o 0000 con 1 cucharadita de polvo de hornear)",
+          "80 ml de leche fría",
+          "60 g de queso rallado de pasta dura (Sardo o Reggianito)",
+          "1 diente de ajo rallado fino",
+          "1 pizca generosa de nuez moscada recién rallada",
+          "Sal fina y pimienta negra molida al gusto"
+        ]
+      },
+      {
+        "name": "Fritura y Emplatado",
+        "items": [
+          "Aceite de girasol abundante para freír",
+          "Gajos de limón fresco para rociar en mesa"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Curado y Escurrido de la Acelga",
+        "title": "1. Curado y Escurrido de la Acelga",
+        "steps": [
+          "Picar la acelga cruda muy fina (chiffonade). Colocarla en un cuenco con una cucharadita de sal marina y frotarla con las manos durante 1 minuto para ablandar las fibras y expulsar el agua de vegetación.",
+          "Apretar fuertemente la acelga con las manos en un colador hasta extraer la mayor cantidad de líquido posible; este paso es crucial para que los buñuelos salgan crocantes y no gomosos."
+        ]
+      },
+      {
+        "name": "2. Ligado de la Masa con Queso y Especias",
+        "title": "2. Ligado de la Masa con Queso y Especias",
+        "steps": [
+          "En un bol amplio batir los huevos con la leche, el ajo rallado, el queso sardo, la nuez moscada, sal y pimienta.",
+          "Incorporar la acelga bien seca y escurrida. Agregar la harina tamizada con el polvo de hornear, mezclando con espátula hasta formar una pasta espesa y pegajosa que caiga con dificultad de la cuchara."
+        ]
+      },
+      {
+        "name": "3. Fritura Dorada y Crujiente",
+        "title": "3. Fritura Dorada y Crujiente",
+        "steps": [
+          "Calentar abundante aceite de girasol en una cacerola honda a 170-175 °C (al menos 4 cm de profundidad para que floten).",
+          "Con la ayuda de dos cucharas soperas, tomar porciones de masa y dejarlas caer con suavidad en el aceite caliente.",
+          "Freír en tandas durante 3 a 4 minutos haciéndolos girar para que se doren y hinchen parejos por todas sus caras. Retirar sobre papel secante y servir inmediatamente con gajos de limón."
+        ]
+      }
+    ],
+    "notes": "Variante de aprovechamiento (Buñuelos de lechuga): Una de las joyas más secretas de la cocina criolla de las abuelas es sustituir total o parcialmente la acelga por lechuga (criolla, mantecosa o capuchina, ideal para aprovechar las hojas exteriores que ya no están crocantes para ensalada). Se lava, se seca a la perfección y se corta en tiras finas en crudo. Al freírse, la lechuga pierde cualquier nota amarga y adquiere una textura sedosa, dulce y etérea que sorprende por su delicadeza.",
+    "image": "img/bunuelos_acelga.jpg",
+    "url": "bunuelos-acelga-argentina.html",
+    "original_title": "Buñuelos de Acelga (Argentina)",
+    "published": "2026-11-08"
+  },
+  {
+    "id": 550,
+    "title": "Buñuelos de Manzana (Argentina)",
+    "country": "Argentina",
+    "category": "Postres y Dulces",
+    "tags": [
+      "buñuelos",
+      "manzana",
+      "argentina",
+      "postres",
+      "merienda",
+      "canela",
+      "azúcar",
+      "tardes de lluvia",
+      "dulce tradicional"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "15 min",
+    "rest_time": "5 min",
+    "temperature": "165 °C",
+    "servings": "4 personas",
+    "calories": "310 kcal",
+    "diet_badges": [
+      "Vegetariano",
+      "Dulce de Merienda",
+      "Clásico Familiar"
+    ],
+    "story": "El aroma a buñuelos de manzana cociéndose en aceite caliente y perfumando la cocina es uno de los recuerdos más entrañables de las meriendas de invierno y los domingos de lluvia en Argentina. Manzanas jugosas y tiernas envueltas en una masa suave de vainilla y limón, fritas a fuego medio hasta inflarse esponjosas y rebozadas en caliente en azúcar y canela molida.",
+    "ingredient_groups": [
+      {
+        "name": "Masa Dulce Aromatizada",
+        "items": [
+          "2 manzanas verdes (Granny Smith) o rojas, peladas y cortadas en cubitos pequeños (o rodajas finas)",
+          "2 huevos medianos",
+          "180 g de harina leudante (o harina 0000 con 1 cucharadita de polvo de hornear)",
+          "50 g de azúcar blanco común",
+          "100 ml de leche entera líquida",
+          "1 cucharadita de extracto puro de vainilla",
+          "Ralladura de 1 limón fresco",
+          "1 cucharada de licor de cognac o ron (opcional, realza aroma e inhibe absorción de grasa)"
+        ]
+      },
+      {
+        "name": "Fritura y Rebozado Crocante",
+        "items": [
+          "Aceite de girasol para fritura",
+          "1/2 taza de azúcar común mezclada con 1 cucharada colmada de canela molida"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Masa Esponjosa de Vainilla",
+        "title": "1. Masa Esponjosa de Vainilla",
+        "steps": [
+          "En un cuenco batir los huevos con el azúcar, la esencia de vainilla y la ralladura de limón hasta disolver los cristales.",
+          "Sumar la leche y el chorrito de licor. Incorporar la harina tamizada batiendo suavemente con batidor de alambre hasta formar una crema espesa, lisa y sin grumos."
+        ]
+      },
+      {
+        "name": "2. Incorporación de las Manzanas",
+        "title": "2. Incorporación de las Manzanas",
+        "steps": [
+          "Agregar los dados de manzana a la masa, integrando con espátula para que cada trozo de fruta quede completamente bañado y protegido por la masa."
+        ]
+      },
+      {
+        "name": "3. Fritura Suave y Rebozado en Caliente",
+        "title": "3. Fritura Suave y Rebozado en Caliente",
+        "steps": [
+          "Calentar abundante aceite a temperatura media-baja (160-165 °C) para que la masa tenga tiempo de inflar y cocinarse por dentro sin arrebatar el dorado exterior.",
+          "Verter cucharadas colmadas y freír 3 a 4 minutos volteándolos para un dorado uniforme.",
+          "Escurrir sobre papel absorbente y, de inmediato en caliente, pasarlos por el cuenco de azúcar y canela para que se forme una costra crocante y aromática."
+        ]
+      }
+    ],
+    "notes": "El secreto para que queden tiernos y no grasosos es utilizar la manzana pelada y fría, y rebozarlos en el azúcar con canela apenas salen de la sartén mientras el calor residual fija los cristales.",
+    "image": "img/bunuelos_manzana.jpg",
+    "url": "bunuelos-manzana-argentina.html",
+    "original_title": "Buñuelos de Manzana (Argentina)",
+    "published": "2026-11-08"
   }
 ]
