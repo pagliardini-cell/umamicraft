@@ -40593,5 +40593,739 @@
     "url": "",
     "original_title": "Huesos de Caracú Asados con Ensalada de Perejil (Francia)",
     "published": true
+  },
+  {
+    "id": 523,
+    "title": "Postre Sandy de Chocolate (Argentina)",
+    "country": "Argentina",
+    "category": "Postres y Dulces",
+    "tags": [
+      "Argentina",
+      "Chocolate",
+      "Postre",
+      "Postrecito",
+      "Sandy",
+      "Infancia",
+      "Dulce de Leche",
+      "Merienda",
+      "Receta Casera",
+      "Económico"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "10 min",
+    "rest_time": "3 horas de refrigeración",
+    "temperature": "Fuego medio-bajo en hornalla",
+    "servings": "6 potes o copas individuales",
+    "calories": "210 kcal por porción",
+    "diet_badges": [
+      "Vegetariano",
+      "Clásico de la Infancia",
+      "Sin Horno"
+    ],
+    "story": "El postrecito Sandy marcó a fuego las meriendas escolares y los mediodías de millones de chicos argentinos durante los años 80, 90 y 2000. Su inconfundible textura untuosa, densa y con ese brillo aterciopelado que se adhería a la cucharita plástica quedó grabada en la memoria afectiva nacional. Esta versión casera y artesanal rescata esa fórmula mítica prescindiendo de conservantes industriales: una base láctea cocida con fécula y cacao amargo, realzada al final con manteca fría fuera del fuego para conseguir ese espejo brillante y una textura que supera a cualquier versión comercial de góndola.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Crema de Chocolate",
+        "items": [
+          "500 ml de leche entera fresca",
+          "80 g de azúcar blanco común",
+          "100 g de chocolate semiamargo de repostería picado fino",
+          "2 cucharadas soperas colmadas de almidón de maíz (maicena, 30 g)",
+          "2 cucharadas soperas de cacao amargo en polvo (20 g)",
+          "25 g de manteca sin sal fría en cubitos (secreto de brillo y sedosidad)",
+          "1 cucharadita de extracto de vainilla",
+          "1 pizca de sal fina (potenciador del chocolate)"
+        ]
+      },
+      {
+        "name": "Terminación y Decoración",
+        "items": [
+          "100 ml de crema de leche fresca batida a punto chantilly con 1 cdta de azúcar",
+          "Virutas o chocolate semiamargo rallado para espolvorear",
+          "Opcional: 1 copito de dulce de leche repostero en la base o coronando"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Disolución en Frío y Calentamiento",
+        "title": "1. Disolución en Frío y Calentamiento",
+        "steps": [
+          "Separar 100 ml de la leche fría en un cuenco pequeño. Añadir el almidón de maíz y el cacao amargo tamizado. Batir enérgicamente con tenedor o batidor de alambre hasta disolver cualquier mínimo grumo.",
+          "En una cacerola mediana de fondo grueso, colocar los 400 ml de leche restantes junto con el azúcar y la pizca de sal. Llevar a fuego medio hasta que rompa un suave vapor y el azúcar se haya disuelto por completo."
+        ]
+      },
+      {
+        "name": "2. Espesado y Cocción de la Fécula",
+        "title": "2. Espesado y Cocción de la Fécula",
+        "steps": [
+          "Verter la mezcla de almidón y cacao disuelta en la cacerola a través de un colador fino para garantizar máxima tersura.",
+          "Cocinar a fuego medio-bajo revolviendo sin pausa con espátula o batidor de alambre, raspando el fondo y los bordes para evitar que se adhiera.",
+          "Al romper el hervor, bajar el fuego al mínimo y cocinar durante 1 a 2 minutos completos sin dejar de mezclar, hasta que la crema adquiera consistencia espesa, pesada y brillante."
+        ]
+      },
+      {
+        "name": "3. Emulsión Final y Enfriado",
+        "title": "3. Emulsión Final y Enfriado",
+        "steps": [
+          "Retirar la cacerola del fuego. Incorporar inmediatamente el chocolate picado, la manteca fría en cubos y la esencia de vainilla.",
+          "Dejar reposar 30 segundos para que el calor residual funda los sólidos y batir enérgicamente hasta integrar en una crema de chocolate oscura, satinada y completamente homogénea.",
+          "Distribuir la preparación en copitas de vidrio o potecitos individuales. Cubrir con papel film en contacto directo sobre la superficie para evitar la formación de costra dura.",
+          "Refrigerar durante al menos 3 horas (idealmente toda la noche). Servir bien frío decorado con crema chantilly y virutas de chocolate."
+        ]
+      }
+    ],
+    "notes": "Secreto del chef: La manteca fría incorporada fuera del fuego aporta la grasa láctea justa para que el postre no quede gomoso al enfriar, emulando la cremosidad exacta del Sandy de pote.",
+    "image": "img/postre_sandy_chocolate.jpg",
+    "url": "",
+    "original_title": "Postre Sandy de Chocolate (Argentina)",
+    "published": "2026-11-08"
+  },
+  {
+    "id": 524,
+    "title": "Postre de Nesquik en Vaso (Argentina)",
+    "country": "Argentina",
+    "category": "Postres y Dulces",
+    "tags": [
+      "Argentina",
+      "Nesquik",
+      "Postre en Vaso",
+      "Crema",
+      "Bizcochuelo",
+      "Merienda",
+      "Sin Complicaciones",
+      "Postre Rápido"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "12 min",
+    "rest_time": "2 horas de frío",
+    "temperature": "Horno a 180 °C (base) y frío en heladera",
+    "servings": "6 vasos individuales",
+    "calories": "260 kcal por porción",
+    "diet_badges": [
+      "Vegetariano",
+      "Postre en Copas",
+      "Fácil"
+    ],
+    "story": "Un postre moderno y dinámico que recrea las capas de un trifle o copa helada familiar: una base esponjosa de bizcochuelo tierno embebido en chocolatada caliente, coronado con una suntuosa mousse montada de crema de leche y Nesquik. Ideal para reuniones familiares o meriendas infantiles donde se busca lucir un postre individual prolijo, fresco y con el sabor chocolatero y suave de la cocoa favorita de la casa.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Bizcochuelo Liviano",
+        "items": [
+          "3 huevos grandes (claras y yemas separadas)",
+          "60 g de azúcar común",
+          "60 g de harina leudante (o harina 0000 con 1 cdta de polvo de hornear)",
+          "1 cucharadita de esencia de vainilla"
+        ]
+      },
+      {
+        "name": "Crema Batida de Nesquik",
+        "items": [
+          "600 ml de crema de leche fresca con alto tenor graso (36%)",
+          "150 g de Nesquik en polvo (unas 10 cucharadas colmadas)",
+          "1 cucharada de azúcar impalpable (opcional)"
+        ]
+      },
+      {
+        "name": "Embebido y Decoración",
+        "items": [
+          "200 ml de leche tibia mezclada con 4 cucharadas colmadas de Nesquik",
+          "Cacao en polvo o confites de chocolate para decorar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Horneo del Bizcocho Base",
+        "title": "1. Horneo del Bizcocho Base",
+        "steps": [
+          "Batir las claras a punto nieve firme. Incorporar el azúcar en forma de lluvia sin dejar de batir hasta lograr un merengue brillante.",
+          "Agregar las yemas de a una junto con la vainilla, batiendo solo unos segundos.",
+          "Tamizar la harina e integrar con espátula de goma mediante movimientos suaves y envolventes para conservar todo el aire.",
+          "Volcar sobre una placa enmantecada y enharinada (o con papel manteca) y hornear a 180 °C durante 10 a 12 minutos hasta que esté dorada y elástica al tacto. Dejar enfriar y cortar círculos del diámetro de los vasos."
+        ]
+      },
+      {
+        "name": "2. Crema Suntuosa de Chocolate",
+        "title": "2. Crema Suntuosa de Chocolate",
+        "steps": [
+          "En un bol frío, batir la crema de leche hasta que empiece a tomar cuerpo (medio punto).",
+          "Agregar el Nesquik tamizado en dos tandas y continuar batiendo a velocidad media-baja hasta lograr una textura de crema montada firme, untuosa y sin cortar."
+        ]
+      },
+      {
+        "name": "3. Armado en Vasos",
+        "title": "3. Armado en Vasos",
+        "steps": [
+          "Colocar un disco de bizcochuelo en el fondo de cada vaso.",
+          "Embeber generosamente con la chocolatada tibia de leche y Nesquik hasta que quede húmedo y tierno.",
+          "Cubrir con una generosa capa de crema batida de Nesquik (usando manga pastelera o cuchara).",
+          "Repetir con otra capa de bizcocho embebido y terminar con crema en la superficie. Llevar al frío durante al menos 2 horas y espolvorear con cacao antes de servir."
+        ]
+      }
+    ],
+    "notes": "Consejo: Enfriar el bol y las paletas de la batidora en el congelador 15 minutos antes de montar la crema con Nesquik para asegurar máxima estabilidad y volumen.",
+    "image": "img/postre_nesquik_vaso.jpg",
+    "url": "https://www.recetasnestle.com.ar/recetas/postre-rapido-de-nesquik",
+    "original_title": "Postre de Nesquik en Vaso (Argentina)",
+    "published": "2026-11-08"
+  },
+  {
+    "id": 525,
+    "title": "Tiramisú en Vaso (Argentina)",
+    "country": "Argentina",
+    "category": "Postres y Dulces",
+    "tags": [
+      "Argentina",
+      "Tiramisú",
+      "Postre en Vaso",
+      "Café",
+      "Queso Crema",
+      "Leche Condensada",
+      "Vainillas",
+      "Sin Horno"
+    ],
+    "prep_time": "25 min",
+    "cook_time": "0 min",
+    "rest_time": "4 horas de frío",
+    "temperature": "Refrigeración bajo 5 °C",
+    "servings": "8 copas o vasos medianos",
+    "calories": "310 kcal por porción",
+    "diet_badges": [
+      "Vegetariano",
+      "Sin Horno",
+      "Postre en Copas"
+    ],
+    "story": "El tiramisú es uno de los postres extranjeros más adoptados y amados en las mesas y restaurantes de Argentina. Esta versión adaptada al formato de vasos individuales agiliza el servicio sin sacrificar textura: reemplaza el sabayón crudo por una crema aireada y sedosa a base de queso crema suave, crema de leche y el dulzor lácteo de la leche condensada, intercalada con vainillas bien humedecidas en un syrup concentrado de café intenso con notas de cacao.",
+    "ingredient_groups": [
+      {
+        "name": "Syrup de Café para Embeber",
+        "items": [
+          "500 ml de agua caliente",
+          "5 cucharadas colmadas de café instantáneo fuerte (o café espresso doble)",
+          "2 cucharadas de azúcar",
+          "Opcional: 2 cucharadas de licor de café, amaretto o coñac"
+        ]
+      },
+      {
+        "name": "Crema Suave de Queso y Leche Condensada",
+        "items": [
+          "500 g de queso crema firme y sin acidez (estilo mascarpone o queso crema tipo CasanCrem clásico)",
+          "500 ml de crema de leche fresca bien fría",
+          "1 lata o paquete de leche condensada (395 g)",
+          "1 cucharadita de extracto de vainilla"
+        ]
+      },
+      {
+        "name": "Armado y Cobertura",
+        "items": [
+          "36 galletitas vainillas (soletillas/ladyfingers)",
+          "4 cucharadas de cacao amargo puro tamizado para espolvorear la superficie"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Preparación del Syrup y Crema",
+        "title": "1. Preparación del Syrup y Crema",
+        "steps": [
+          "En un recipiente hondo, disolver el café instantáneo y el azúcar en el agua caliente. Agregar el licor si se desea y dejar entibiar.",
+          "En el bol de la batidora, batir la crema de leche fría a medio punto. Incorporar la leche condensada en hilo y la vainilla.",
+          "Añadir el queso crema a temperatura ambiente y batir a velocidad media solo hasta homogeneizar en una crema densa, suave y satinada (no sobrebatir para evitar que se corte)."
+        ]
+      },
+      {
+        "name": "2. Montaje en Capas",
+        "title": "2. Montaje en Capas",
+        "steps": [
+          "Partir las vainillas al tamaño adecuado del fondo de los vasos. Remojarlas brevemente (1 a 2 segundos de cada lado) en el café para que absorban líquido sin desarmarse.",
+          "Colocar una capa de vainillas en la base de cada vaso.",
+          "Verter una capa generosa de crema de queso.",
+          "Repetir con otra capa de vainillas embebidas y culminar con una capa final de crema alisada o en picos con manga pastelera."
+        ]
+      },
+      {
+        "name": "3. Reposo y Espolvoreado",
+        "title": "3. Reposo y Espolvoreado",
+        "steps": [
+          "Llevar los vasos a la heladera tapados por un mínimo de 4 horas (idealmente 12 horas para que las vainillas se integren con la crema).",
+          "Justo antes de servir a la mesa, tamizar abundante cacao amargo sobre la superficie de cada vaso."
+        ]
+      }
+    ],
+    "notes": "Tip del chef: La leche condensada aporta azúcares invertidos naturales que impiden la formación de cristales en el frío, logrando una crema aterciopelada y estable durante días.",
+    "image": "img/tiramisu_vaso.jpg",
+    "url": "https://www.recetasnestle.com.ar/recetas/tiramisu-en-vaso",
+    "original_title": "Tiramisú en Vaso (Argentina)",
+    "published": "2026-11-08"
+  },
+  {
+    "id": 526,
+    "title": "Brownies de Nesquik (Argentina)",
+    "country": "Argentina",
+    "category": "Postres y Dulces",
+    "tags": [
+      "Argentina",
+      "Brownies",
+      "Nesquik",
+      "Chocolate",
+      "Merienda",
+      "Horno",
+      "Costra Craquelada",
+      "Húmedos"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "25 min",
+    "rest_time": "20 min de enfriado",
+    "temperature": "Horno precalentado a 170 °C",
+    "servings": "16 cuadraditos generosos",
+    "calories": "220 kcal por porción",
+    "diet_badges": [
+      "Vegetariano",
+      "Merienda",
+      "Horno"
+    ],
+    "story": "El secreto de un brownie perfecto reside en lograr una delgada película superior brillante y craquelada ('shiny crust') combinada con un centro húmedo, denso y fudgy que nunca llegue a secarse como un bizcochuelo. Esta receta transforma el polvo chocolatado Nesquik en una masa rica y achocolatada, balanceada con manteca fundida y huevos bien emulsionados con el azúcar.",
+    "ingredient_groups": [
+      {
+        "name": "Masa de Brownie",
+        "items": [
+          "120 g de manteca sin sal derretida tibia",
+          "3 huevos frescos a temperatura ambiente",
+          "180 g de azúcar blanco",
+          "150 g de Nesquik en polvo",
+          "2 cucharadas soperas de cacao amargo (para balancear el dulzor y profundizar el color)",
+          "150 g de harina común 0000",
+          "1 cucharadita de esencia de vainilla",
+          "1/2 cucharadita de sal fina",
+          "Opcional: 80 g de nueces picadas o chips de chocolate semiamargo"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Emulsión para la Costra Brillante",
+        "title": "1. Emulsión para la Costra Brillante",
+        "steps": [
+          "Precalentar el horno a 170 °C (fuego medio-bajo). Enmantecar y forrar con papel manteca un molde cuadrado de 20x20 cm.",
+          "En un bol amplio, batir con batidor de alambre los huevos junto con el azúcar y la pizca de sal durante 3 a 4 minutos enérgicos, hasta que la mezcla aclare de color y el azúcar esté casi disuelto (esto es lo que produce la película craquelada en el horneado).",
+          "Agregar la manteca derretida tibia y la esencia de vainilla, integrando suavemente."
+        ]
+      },
+      {
+        "name": "2. Integración de Secos y Horneo Preciso",
+        "title": "2. Integración de Secos y Horneo Preciso",
+        "steps": [
+          "Tamizar juntos la harina, el Nesquik y el cacao amargo. Incorporar a la mezcla con espátula de goma en pocos movimientos envolventes, solo hasta que no se vean rastros secos (no sobrebatir para que no desarrolle gluten).",
+          "Agregar las nueces o chips de chocolate si se usan y volcar en el molde, emparejando la superficie con la espátula.",
+          "Llevar al horno a 170 °C durante 22 a 25 minutos. Al insertar un palillo en el centro, debe salir con migas húmedas pegadas, jamás completamente limpio y seco.",
+          "Retirar y dejar enfriar completamente en el molde antes de desmoldar y cortar en 16 cuadrados perfectos con cuchillo limpio y caliente."
+        ]
+      }
+    ],
+    "notes": "Regla de oro: No sobrecocinar. Los brownies continúan asentándose con el calor residual del molde una vez fuera del horno; cocinarlos de más los transformaría en torta seca.",
+    "image": "img/brownies_nesquik.jpg",
+    "url": "https://www.recetasnestle.com.ar/recetas/brownies-de-nesquik-2",
+    "original_title": "Brownies de Nesquik (Argentina)",
+    "published": "2026-11-08"
+  },
+  {
+    "id": 527,
+    "title": "Torre de Panqueques de Chocolate y Dulce de Leche (Argentina)",
+    "country": "Argentina",
+    "category": "Postres y Dulces",
+    "tags": [
+      "Argentina",
+      "Panqueques",
+      "Torre Dulce",
+      "Dulce de Leche",
+      "Nesquik",
+      "Crema Chantilly",
+      "Cumpleaños",
+      "Clásico Porteño"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "20 min",
+    "rest_time": "1 hora de heladera",
+    "temperature": "Sartén a fuego medio para los panqueques",
+    "servings": "10 a 12 porciones de torta",
+    "calories": "340 kcal por porción",
+    "diet_badges": [
+      "Vegetariano",
+      "Pastelería Casera",
+      "Cumpleaños"
+    ],
+    "story": "Así como en los festejos argentinos de fin de año reina la torre salada de panqueques con jamón y mayonesa, su contraparte dulce es la reina indiscutida de los cumpleaños infantiles y las meriendas de domingo: finísimas capas de panqueques caseros saborizados con cacao y Nesquik, apiladas alternando capas de dulce de leche repostero colonial y suave crema chantilly batida.",
+    "ingredient_groups": [
+      {
+        "name": "Masa de Panqueques de Chocolate",
+        "items": [
+          "500 ml de leche entera a temperatura ambiente",
+          "3 huevos medianos",
+          "200 g de harina común 0000 tamizada",
+          "50 g de Nesquik en polvo",
+          "25 g de manteca derretida (aporta elasticidad a la masa)",
+          "1 cucharadita de esencia de vainilla",
+          "1 pizca de sal fina"
+        ]
+      },
+      {
+        "name": "Relleno y Armado",
+        "items": [
+          "400 g de dulce de leche repostero firme",
+          "350 ml de crema de leche batida a punto chantilly con 2 cucharadas de azúcar impalpable",
+          "Virutas de chocolate o frutillas frescas para decorar la cúspide"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Elaboración y Reposo de la Masa",
+        "title": "1. Elaboración y Reposo de la Masa",
+        "steps": [
+          "En la licuadora o bol con batidor, colocar los huevos, la leche, la manteca derretida, la vainilla y la pizca de sal.",
+          "Añadir la harina y el Nesquik tamizados. Licuar o batir durante 1 minuto hasta obtener una pasta lisa, fluida y sin grumos.",
+          "Dejar reposar la masa en heladera durante 20 minutos (este reposo relaja el almidón y evita que los panqueques se rompan al darles la vuelta)."
+        ]
+      },
+      {
+        "name": "2. Cocción de los Panqueques",
+        "title": "2. Cocción de los Panqueques",
+        "steps": [
+          "Calentar una panquequera o sartén antiadherente de 20 cm a fuego medio con una nuez mínima de manteca.",
+          "Verter medio cucharón de masa, haciendo girar la sartén para cubrir toda la superficie con una capa delgada.",
+          "Cocinar durante 1 minuto hasta que los bordes se despeguen. Dar vuelta con espátula y cocinar 30 segundos más. Retirar y apilar en un plato cubiertos con un repasador limpio. Repetir hasta obtener unos 14 a 16 panqueques."
+        ]
+      },
+      {
+        "name": "3. Montaje de la Torre",
+        "title": "3. Montaje de la Torre",
+        "steps": [
+          "Colocar el primer panqueque en el plato de presentación. Untar una capa uniforme de dulce de leche repostero.",
+          "Colocar el segundo panqueque y esparcir una capa de crema chantilly.",
+          "Continuar alternando panqueques, dulce de leche y crema chantilly hasta finalizar todas las capas.",
+          "Decorar la superficie superior con picos de crema chantilly y lluvia de virutas de chocolate. Llevar a la heladera 1 hora antes de cortar para que la estructura tome firmeza."
+        ]
+      }
+    ],
+    "notes": "Consejo de montaje: Usar dulce de leche repostero templado unos segundos para facilitar el untado sin desgarrar los panqueques finos.",
+    "image": "img/torre_panqueques_chocolate.jpg",
+    "url": "https://www.recetasnestle.com.ar/recetas/torre-de-panqueques-2",
+    "original_title": "Torre de Panqueques de Chocolate y Dulce de Leche (Argentina)",
+    "published": "2026-11-08"
+  },
+  {
+    "id": 528,
+    "title": "Milkshake Espeso de Nesquik (Argentina)",
+    "country": "Argentina",
+    "category": "Cocktails & Tragos",
+    "tags": [
+      "Argentina",
+      "Milkshake",
+      "Nesquik",
+      "Helado",
+      "Bebidas",
+      "Tragos",
+      "Merienda",
+      "Verano",
+      "Batido"
+    ],
+    "prep_time": "5 min",
+    "cook_time": "1 min",
+    "rest_time": "0 min",
+    "temperature": "Bebida frappé / muy fría (-4 °C)",
+    "servings": "2 copas altas",
+    "calories": "290 kcal por porción",
+    "diet_badges": [
+      "Vegetariano",
+      "Bebida Fría",
+      "Sin Horno"
+    ],
+    "story": "El milkshake clásico de confitería y heladería porteña se distingue por su textura ultra espesa y cremosa, lograda a base de buen helado artesanal de vainilla o crema americana licuado con leche fría y una reducción de jarabe de chocolate concentrado. En esta receta, el polvo Nesquik se disuelve primero en caliente para crear un sirope denso que pinta las paredes de la copa antes de recibir el batido helado.",
+    "ingredient_groups": [
+      {
+        "name": "Sirope Rápido de Chocolate",
+        "items": [
+          "40 g de Nesquik en polvo",
+          "50 ml de agua caliente",
+          "1 cucharadita de azúcar o miel"
+        ]
+      },
+      {
+        "name": "Batido Helado",
+        "items": [
+          "350 g de helado de crema americana o vainilla de buena calidad",
+          "120 ml de leche entera bien fría",
+          "2 cucharadas soperas adicionales de Nesquik"
+        ]
+      },
+      {
+        "name": "Terminación",
+        "items": [
+          "Crema chantilly en aerosol o batida firme",
+          "Lluvia de confites o virutas de chocolate",
+          "2 sorbetes amplios"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Sirope y Decoración de Copas",
+        "title": "1. Sirope y Decoración de Copas",
+        "steps": [
+          "En una taza, mezclar el Nesquik con el agua caliente y calentar 30 segundos en microondas revolviendo hasta formar un jarabe de chocolate espeso y brillante.",
+          "Dejar entibiar y decorar el interior de dos copas altas de vidrio volcando hilos de sirope por las paredes internas. Reservar en el congelador 5 minutos."
+        ]
+      },
+      {
+        "name": "2. Licuado y Servicio",
+        "title": "2. Licuado y Servicio",
+        "steps": [
+          "En el vaso de la licuadora, colocar el helado de vainilla, la leche bien fría y las 2 cucharadas de Nesquik.",
+          "Licuar a velocidad máxima en pulsos cortos durante 30 a 45 segundos, cuidando de no sobrelicuar para que el helado mantenga su densidad espesa de milkshake de cafetería.",
+          "Verter inmediatamente en las copas frías, coronar con un generoso copo de crema chantilly y una lluvia de chocolate rallado."
+        ]
+      }
+    ],
+    "notes": "Tip: No añadir hielo a la licuadora para no aguar el batido. La densidad debe provenir pura y exclusivamente del helado cremoso.",
+    "image": "img/milkshake_nesquik.jpg",
+    "url": "https://www.recetasnestle.com.ar/recetas/milkshake-de-nesquik",
+    "original_title": "Milkshake Espeso de Nesquik (Argentina)",
+    "published": "2026-11-08"
+  },
+  {
+    "id": 529,
+    "title": "Licuado de Chocolate, Frutillas y Almendras (Argentina)",
+    "country": "Argentina",
+    "category": "Cocktails & Tragos",
+    "tags": [
+      "Argentina",
+      "Licuado",
+      "Frutillas",
+      "Chocolate",
+      "Almendras",
+      "Merienda",
+      "Bebidas",
+      "Saludable",
+      "Frutas Frescas"
+    ],
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "rest_time": "0 min",
+    "temperature": "Bebida fresca fría",
+    "servings": "2 vasos grandes",
+    "calories": "190 kcal por porción",
+    "diet_badges": [
+      "Vegetariano",
+      "Nutritivo",
+      "Bebida Fría"
+    ],
+    "story": "La combinación de chocolate con frutos rojos y frutos secos es un balance perfecto entre la acidez refrescante de las frutillas maduras, la untuosidad energética de las almendras tostadas y el dulzor suave del cacao. Un licuado nutritivo para arrancar la mañana o renovar energías en la merienda deportiva.",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes del Licuado",
+        "items": [
+          "400 ml de leche fría (entera, descremada o vegetal de almendras)",
+          "40 g de Nesquik en polvo",
+          "150 g de frutillas frescas maduras (lavadas y sin cabito)",
+          "30 g de almendras tostadas sin sal (troceadas)",
+          "4 cubitos de hielo picado",
+          "Opcional: 1 cucharada de miel pura"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Procesado y Emulsión",
+        "title": "1. Procesado y Emulsión",
+        "steps": [
+          "Lavar bien las frutillas bajo agua fría y retirar los cabitos verdes.",
+          "En la licuadora, verter la leche, el Nesquik, las frutillas, las almendras tostadas y el hielo picado.",
+          "Licuar a máxima potencia durante 1 minuto y medio, permitiendo que las almendras se pulvericen e integren aportando textura cremosa y microcrocante.",
+          "Servir inmediatamente en vasos fríos decorados con una frutilla entera en el borde."
+        ]
+      }
+    ],
+    "notes": "Consejo: Tostar las almendras 5 minutos en una sartén seca antes de licuarlas libera sus aceites naturales y multiplica su aroma a fruto seco.",
+    "image": "img/licuado_chocolate_frutillas.jpg",
+    "url": "https://www.recetasnestle.com.ar/recetas/licuado-de-chocolate-frutillas-y-almendras",
+    "original_title": "Licuado de Chocolate, Frutillas y Almendras (Argentina)",
+    "published": "2026-11-08"
+  },
+  {
+    "id": 530,
+    "title": "Postre Cremoso Bicolor de Nesquik y Café (Argentina)",
+    "country": "Argentina",
+    "category": "Postres y Dulces",
+    "tags": [
+      "Argentina",
+      "Postre Bicolor",
+      "Nesquik",
+      "Café",
+      "Leche Condensada",
+      "Copas",
+      "Sin Horno",
+      "Elegante"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "15 min",
+    "rest_time": "3 horas de heladera",
+    "temperature": "Cocción suave en cacerola",
+    "servings": "6 a 8 copas individuales",
+    "calories": "275 kcal por porción",
+    "diet_badges": [
+      "Vegetariano",
+      "Sin Horno",
+      "Postre en Copas"
+    ],
+    "story": "Un postre vistoso y elegante en copas que fusiona dos clásicos de la sobremesa: la dulzura aterciopelada del chocolate y la personalidad aromática del café espresso con leche condensada. Presentado en dos capas nítidas y contrastantes que se funden armónicamente en cada cucharada.",
+    "ingredient_groups": [
+      {
+        "name": "Crema de Nesquik (Capa Inferior)",
+        "items": [
+          "1/2 lata de leche condensada (200 g)",
+          "300 ml de leche entera",
+          "60 g de Nesquik en polvo",
+          "3 yemas de huevo batidas",
+          "2 cucharadas soperas de fécula de maíz (almidón)",
+          "15 g de manteca"
+        ]
+      },
+      {
+        "name": "Crema de Café Nescafé (Capa Superior)",
+        "items": [
+          "1/2 lata de leche condensada (200 g)",
+          "300 ml de leche entera",
+          "2 cucharadas colmadas de café instantáneo fuerte diluido en 40 ml de agua caliente",
+          "3 yemas de huevo batidas",
+          "2 cucharadas soperas de fécula de maíz",
+          "15 g de manteca"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Elaboración de la Capa de Chocolate",
+        "title": "1. Elaboración de la Capa de Chocolate",
+        "steps": [
+          "En una cacerola, mezclar la leche condensada, la leche, el Nesquik, las yemas batidas y la fécula de maíz disuelta.",
+          "Cocinar a fuego medio-bajo revolviendo constantemente con batidor de alambre hasta que rompa hervor y espese en una crema pastelera untuosa.",
+          "Retirar, incorporar la manteca y batir. Verter en las copas llenando hasta la mitad. Dejar reposar 15 minutos en heladera para que forme piel firme."
+        ]
+      },
+      {
+        "name": "2. Elaboración de la Capa de Café y Enfriado",
+        "title": "2. Elaboración de la Capa de Café y Enfriado",
+        "steps": [
+          "En otra cacerola, mezclar la leche condensada, la leche, el café diluido, las yemas y la fécula de maíz.",
+          "Cocinar a fuego medio-bajo revolviendo sin cesar hasta espesar firmemente. Retirar del fuego y añadir la manteca.",
+          "Verter cuidadosamente con cuchara sobre la capa de chocolate ya templada, logrando dos franjas bicolor perfectamente definidas.",
+          "Refrigerar durante 3 horas. Decorar con granos de café o virutas de chocolate amargo antes de llevar a la mesa."
+        ]
+      }
+    ],
+    "notes": "Técnica: Verter la segunda capa tibia sobre el dorso de una cuchara sopera apoyada contra el borde de la copa para amortiguar la caída y evitar que los dos colores se mezclen.",
+    "image": "img/postre_cremoso_nesquik_nescafe.jpg",
+    "url": "https://www.recetasnestle.com.ar/recetas/postre-cremoso-de-nesquik-y-nescafe-2",
+    "original_title": "Postre Cremoso Bicolor de Nesquik y Café (Argentina)",
+    "published": "2026-11-08"
+  },
+  {
+    "id": 531,
+    "title": "Ramen Completo de Serious Eats (Japón)",
+    "country": "Japón",
+    "category": "Sopas y Potajes",
+    "tags": [
+      "Japón",
+      "Ramen",
+      "Serious Eats",
+      "Kenji Lopez-Alt",
+      "Chashu",
+      "Ajitsuke Tamago",
+      "Tonkotsu",
+      "Shoyu",
+      "Caldo Casero",
+      "Fideos Alcalinos"
+    ],
+    "prep_time": "1 hora (más marinado previo)",
+    "cook_time": "4 a 6 horas de caldo profundo",
+    "rest_time": "30 min de reposo",
+    "temperature": "Caldo hirviendo vigoroso a 95 °C para servir",
+    "servings": "4 tazones abundantes",
+    "calories": "680 kcal por tazón",
+    "diet_badges": [
+      "Cocina de Autor",
+      "Plato Insignia",
+      "Alta Culinaria"
+    ],
+    "story": "Basado en la prestigiosa guía de referencia 'Guide to Ramen Varieties' de Serious Eats por J. Kenji López-Alt (https://www.seriouseats.com/the-serious-eats-guide-to-ramen-styles), esta receta reúne la anatomía de los grandes tazones de Tokio y Hakata: un caldo untuoso y denso elaborado con huesos de cerdo y pollo, sazonado con un tare concentrado a base de salsa de soja, mirin y dashi, emulsionado con aceite aromático (aroma oil), fideos de trigo alcalinos con resistencia elástica ('chew') y toppings de restaurante: panceta chashu enrollada y braseada tierna, huevo ajitsuke tamago con yema gelatinosa curada, brotes de bambú menma y alga nori crocante.",
+    "ingredient_groups": [
+      {
+        "name": "Caldo Completo (Doble Fondo de Res y Ave)",
+        "items": [
+          "1 kg de huesos de cerdo (patitas o espinazo blanqueados)",
+          "1 carcasa de pollo fresca",
+          "1 trozo de jengibre de 5 cm machacado",
+          "4 dientes de ajo aplastados y 1 puerro entero",
+          "3 litros de agua filtrada"
+        ]
+      },
+      {
+        "name": "Tare de Soja y Dashi (Sazón Maestra)",
+        "items": [
+          "150 ml de salsa de soja japonesa (shoyu)",
+          "50 ml de mirin y 30 ml de sake",
+          "1 tira de alga kombu de 10 cm",
+          "1 taza de copos de bonito seco (katsuobushi)"
+        ]
+      },
+      {
+        "name": "Fideos y Toppings de Autor",
+        "items": [
+          "400 g de fideos alcalinos frescos para ramen (kansui)",
+          "8 rodajas de panceta chashu braseada en salsa dulce de soja",
+          "4 huevos ajitsuke tamago marinados con yema blanda",
+          "4 cucharadas de menma (brotes de bambú fermentados)",
+          "4 láminas cuadradas de alga nori",
+          "Cebollín verde (negi) picado fino en aros delgados",
+          "2 cucharadas de aceite de ajo tostado (mayu) o grasa de chashu"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. El Caldo Profundo y Emulsionado",
+        "title": "1. El Caldo Profundo y Emulsionado",
+        "steps": [
+          "Blanquear los huesos de cerdo en agua hirviendo durante 10 minutos para eliminar impurezas; lavar con agua fría.",
+          "Colocar los huesos limpios, el pollo, el jengibre, el puerro y el ajo en una olla alta con los 3 litros de agua.",
+          "Llevar a ebullición vigorosa y cocinar a fuego medio durante 4 a 5 horas, permitiendo que la grasa y el colágeno gelatinoso se emulsionen en un caldo opaco, denso y aromático. Colar por lienzo fino y mantener caliente a 95 °C."
+        ]
+      },
+      {
+        "name": "2. Elaboración del Tare y Cocción de Fideos",
+        "title": "2. Elaboración del Tare y Cocción de Fideos",
+        "steps": [
+          "En una ollita pequeña, calentar el sake, el mirin, la salsa de soja y el kombu a fuego bajo durante 10 minutos. Retirar el kombu, incorporar el katsuobushi fuera del fuego, dejar infusionar 5 minutos y colar. Este es el tare sazonador.",
+          "En abundante agua hirviendo sin sal, cocinar los fideos alcalinos frescos exactamente de 60 a 90 segundos (al dente firme). Escurrir vigorosamente con colador zarandeando el agua residual."
+        ]
+      },
+      {
+        "name": "3. Montaje del Tazón Tokio/Hakata",
+        "title": "3. Montaje del Tazón Tokio/Hakata",
+        "steps": [
+          "Precalentar los tazones hondos con agua caliente y secar bien.",
+          "Colocar en el fondo de cada tazón 2 cucharadas soperas colmadas de tare y 1 cucharadita de aceite aromático.",
+          "Verter 350 ml de caldo hirviendo y mezclar con palillos para emulsionar la base.",
+          "Incorporar los fideos doblándolos cuidadosamente con los palillos en forma de trenza.",
+          "Disponer encima dos láminas de panceta chashu tibia, un huevo ajitsuke cortado al medio revelando la yema dorada fundente, una porción de menma, abundante cebollín verde picado y clavar una lámina de alga nori contra el lateral del tazón. Servir de inmediato."
+        ]
+      }
+    ],
+    "notes": "Referencia Kenji: 'El ramen es una orquestación de tiempo y textura: los fideos alcalinos continúan absorbiendo caldo en el tazón, por lo que el plato debe degustarse inmediatamente tras su ensamblado para disfrutar de la elasticidad de la pasta'.",
+    "image": "img/ramen_serious_eats.jpg",
+    "url": "https://www.seriouseats.com/the-serious-eats-guide-to-ramen-styles",
+    "original_title": "Ramen Completo de Serious Eats (Japón)",
+    "published": "2026-11-08"
   }
 ]
