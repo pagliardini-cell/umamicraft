@@ -14242,13 +14242,16 @@
     "country": "Japón",
     "category": "Carnes",
     "tags": [
-      "Japon",
-      "Nikujaga",
-      "Carne",
-      "Vaca",
-      "Papas",
+      "truco cebolla rallada",
       "Dashi",
-      "Cocina"
+      "Carne",
+      "ternera tierna",
+      "chaliapin",
+      "Cocina",
+      "Nikujaga",
+      "Papas",
+      "Japon",
+      "Vaca"
     ],
     "prep_time": "20 min (estimado)",
     "cook_time": "30 min (estimado)",
@@ -14301,7 +14304,7 @@
         ]
       }
     ],
-    "notes": "En Japón el Nikujaga sabe aún mejor al día siguiente o después de entibiar, ya que al enfriarse las papas absorben el caldo dulce-salado.",
+    "notes": "Secretos del chef para una carne tiernísima en el Nikujaga:\n\n• El truco de la cebolla rallada y sake: Si utilizas cortes de ternera más firmes, podés marinarlos previamente 30 minutos en una bolsa sin aire con media cebolla finamente rallada y 2 cucharadas de sake. Las enzimas naturales de la cebolla aflojan las fibras de la ternera y aportan una dulzura natural que armoniza a la perfección con la salsa de soja y mirin del estofado.\n\n• Reposo para mayor sabor: En Japón el Nikujaga sabe aún mejor al día siguiente o entibiado, ya que al enfriarse las papas y zanahorias absorben los jugos caramelizados del caldo dulce-salado.",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXDdnn-r_2pBETAClxPkZTVa75zdlra4Eze3kOqJOqOnXgwG3p4k31Rzp1xJVJ2LvArjtEd04LrEenvxdFsfSFfQ-F2tLaryu75PjKtWJrGZXFDJte_lTMkgP3PlV780tdb6WxBnOY7Bah/s1600/Nikujaga.jpg",
     "url": "https://recarg.blogspot.com/2010/02/kaho-no-niku-jaga-japan.html",
     "original_title": "Kaho no Niku Jaga (Japan)",
@@ -43224,6 +43227,199 @@
     "notes": "El toque de cebolla colorada: Un poquito de cebolla morada cortada en aros finos y pasada unos minutos por agua helada aporta un contraste fresco, ligeramente dulce y super crocante que corta la untuosidad del huevo y la tierra de la remolacha, tal como se aprecia en la foto.\n\nCocinar las remolachas con su piel y un trozo de tallo es la clave para conservar todo su sabor, vitaminas y color rubí vibrante. Si te sobra ensalada, al día siguiente los huevos habrán absorbido el jugo violáceo formando un bocado aún más sabroso.",
     "image": "https://lh3.googleusercontent.com/-3CVT594LLwM/avHUCwk9LLI/AAAAAAAP8AY/rovehEAE2Hkm5XP3FVqQmv2KdqcgWDxjACNcBGAsYHQ/s1600/ensalada_remolacha_huevo.jpg",
     "url": "ensalada-remolacha-huevo-argentina.html",
+    "published": true
+  },
+  {
+    "id": 553,
+    "title": "Toum - Crema de Ajo (Líbano)",
+    "original_title": "Toum (Líbano)",
+    "country": "Líbano",
+    "category": "Salsas y Aderezos",
+    "tags": [
+      "toum",
+      "crema de ajo",
+      "salsa de ajo arabe",
+      "libano",
+      "comida libanesa",
+      "shawarma",
+      "kebab",
+      "kafta",
+      "dips",
+      "emulsion",
+      "receta arabe",
+      "maher nowfal"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "0 min",
+    "rest_time": "30 min",
+    "temperature": "Frío (Heladera)",
+    "servings": "500 ml (20 porciones)",
+    "calories": "95 kcal por porción (1 cda.)",
+    "diet_badges": [
+      "Vegano",
+      "Sin Gluten",
+      "Sin Lácteos",
+      "Keto",
+      "Salsa Emulsionada"
+    ],
+    "story": "El Toum (ثوم, pronunciado «tuum», que significa literalmente «ajo» en árabe) es la joya indiscutible de la cocina levantina y el alma de la gastronomía libanesa. Nacido en las aldeas montañosas del Líbano y consagrado mundialmente en los puestos callejeros de Beirut como el acompañamiento insustituible del shawarma de pollo y el kafta a las brasas, el Toum es una emulsión milagrosa creada exclusivamente a partir de cuatro ingredientes elementales: ajo fresco, sal marina, zumo de limón y aceite vegetal. Sin huevo, sin leche y sin espesantes artificiales, la técnica de emulsionar pacientemente el ajo con un hilo constante de aceite transforma los dientes picantes en una mousse blanca como la nieve, aireada, untuosa y de un aroma embriagador que realza carnes, vegetales y panes planos.",
+    "ingredient_groups": [
+      {
+        "name": "Base Emulsionada",
+        "items": [
+          "2 cabezas enteras de ajo frescas y firmes (aprox. 16 a 20 dientes pelados, sin germen verde interior)",
+          "3 cucharaditas de sal marina fina (la sal es el abrasivo que rompe las fibras del ajo)",
+          "1/2 taza de jugo de limón recién exprimido y colado (aprox. 1 limón grande jugoso)",
+          "3 tazas de aceite vegetal neutro frío de heladera (girasol o maíz, 165 a 200 ml por tanda; evitar oliva virgen extra ya que amarga la emulsión)",
+          "2 cucharadas de agua helada (secreto del chef para dar esponjosidad extra y blanquear)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Pelado Rápido y Pasta de Ajo",
+        "title": "1. Pelado Rápido y Pasta de Ajo",
+        "steps": [
+          "Colocar los dientes de ajo en un frasco o recipiente plástico con tapa hermética y agitar enérgicamente durante 20 a 30 segundos: las cáscaras se desprenderán solas y sin esfuerzo.",
+          "Introducir los ajos pelados en el vaso de la procesadora de alimentos junto con la sal marina fina.",
+          "Procesar a velocidad alta durante 1 a 2 minutos hasta obtener una pasta fina. Detener la máquina y, con una espátula de silicona, bajar los restos de ajo adheridos a las paredes hacia el fondo de las cuchillas."
+        ]
+      },
+      {
+        "name": "2. Técnica de Emulsión en Hilo Constante",
+        "title": "2. Técnica de Emulsión en Hilo Constante",
+        "steps": [
+          "Con la procesadora en marcha continua, comenzar a verter el aceite vegetal muy frío en un hilo fino e ininterrumpido (como si fuera una mayonesa).",
+          "Tras incorporar la primera taza de aceite en hilo lento, verter 1 cucharadita de jugo de limón para estabilizar la emulsión (el limón aclarará de inmediato la mezcla a un blanco puro).",
+          "Alternar pacientemente: verter una tanda de aceite en hilo, pausar para raspar las paredes y añadir un chorrito de jugo de limón. El proceso completo de emulsión toma de 10 a 15 minutos de trabajo rítmico."
+        ]
+      },
+      {
+        "name": "3. Punto Nieve y Conservación",
+        "title": "3. Punto Nieve y Conservación",
+        "steps": [
+          "Cuando la mezcla triplique su volumen y se vuelva una crema blanca, densa, esponjosa y brillante que mantenga picos firmes, incorporar las 2 cucharadas de agua helada y procesar 15 segundos finales.",
+          "Probar y rectificar con una pizca extra de sal o limón si hiciera falta.",
+          "Transferir a un frasco de vidrio hermético y refrigerar durante al menos 30 minutos antes de servir para que la estructura se asiente."
+        ]
+      }
+    ],
+    "notes": "Secretos del chef Maher Nowfal para un Toum perfecto (que nunca se corta):\n\n1. Ajos frescos y sin brote verde:\nEs fundamental usar cabezas de ajo frescas, duras y firmes al tacto. Si los dientes tienen brote verde en el corazón, retirarlo con la punta del cuchillo, ya que aporta un amargor punzante y puede desestabilizar la emulsión.\n\n2. Aceite neutro bien frío:\nUsar exclusivamente aceite de girasol, maíz o canola. Prohibido usar aceite de oliva virgen extra: al procesarse a alta velocidad se oxida, libera polifenoles amargos y tiñe la salsa de verde. Mantener el aceite unas horas en la heladera ayuda a que la grasa emulsione sin calentarse por la fricción de las cuchillas.\n\n3. La sal como abrasivo inicial:\nLa sal marina fina se agrega al principio con el ajo entero: sus cristales actúan como microcuchillas moliendo las células del ajo hasta convertirlas en una pasta suave antes de tocar una sola gota de aceite.\n\n4. El ritmo de incorporación (paciencia de 15 minutos):\nEl gran secreto es no apresurarse. Si se echa el aceite de golpe, la mezcla se ahoga y se corta. Añadir el aceite en un hilo fino y pausar cada 1 o 2 minutos para alternar con un chorrito de limón colado.\n\n5. Si se llega a cortar (método de rescate):\nSi por exceso de calor o rapidez la mezcla se separa en líquido amarillento, retirar todo a un bol. Enjuagar la procesadora con agua helada, colocar 1 cucharada de pasta de ajo fresca o 1 cucharada de agua con hielo, y comenzar a volcar la mezcla cortada en hilo fino: volverá a emulsionar como por arte de magia.\n\n6. Duración y conservación:\nGuardado en un frasco de vidrio bien cerrado en la parte media de la heladera, el Toum se conserva intacto durante 2 a 3 meses.",
+    "image": "https://lh3.googleusercontent.com/-2vr3jWe9JpI/avIhvEHynPI/AAAAAAAP8Cg/KyYPDBjymr8WLw2yMM14wb000DieQmaVgCNcBGAsYHQ/s1600/toum_salsa_ajo.jpg",
+    "url": "toum-crema-ajo-libano.html",
+    "published": true
+  },
+  {
+    "id": 554,
+    "title": "Saikoro Steak - Dados de Ternera a la Plancha (Japón)",
+    "original_title": "Saikoro Steak (Japón)",
+    "country": "Japón",
+    "category": "Carnes",
+    "tags": [
+      "saikoro steak",
+      "ternera a la plancha",
+      "dados de ternera",
+      "japon",
+      "chaliapin steak",
+      "truco carne tierna",
+      "cebolla rallada",
+      "sake",
+      "gyushi",
+      "sebo de ternera",
+      "garlic chips",
+      "izakaya"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "10 min",
+    "rest_time": "1 h",
+    "temperature": "Fuego vivo / Alta temperatura",
+    "servings": "2 personas",
+    "calories": "480 kcal por porción",
+    "diet_badges": [
+      "Alto en Proteína",
+      "Clásico de Izakaya",
+      "Cocina Yōshoku"
+    ],
+    "story": "El Saikoro Steak (サイコロステーキ, dados de carne vacuna a la plancha, llamado así por el corte geométrico similar a un dado de jugar al parchís) es una de las preparaciones cárnicas más populares y queridas de los restaurantes familiares y tabernas izakaya de Japón. Su técnica madre nació en 1936 en el mítico Hotel Imperial de Tokio para el célebre cantante de ópera ruso Fiódor Chaliapin, quien aquejado de un severo dolor de muelas deseaba comer un filete que pudiera masticar sin esfuerzo. El chef ideó ablandar la ternera con cebolla finamente rallada y sake japonés dentro de un ambiente hermético: las enzimas naturales de la cebolla aflojan las fibras musculares de la superficie aportando humedad y azúcares que caramelizan en minutos sobre grasa de ternera pura (gyūshi), sellando dados crocantes por fuera y tiernos y jugosos por dentro bañados en salsa Chaliapin agridulce.",
+    "ingredient_groups": [
+      {
+        "name": "Carne y Marinado Ablandador Chaliapin",
+        "items": [
+          "400 g de carne vacuna magra (cortes ideales: cadera de añojo, babilla o lomo bajo; evitar cortes duros de guisar)",
+          "1/2 cebolla blanca mediana, finamente rallada con rallador fino (con todo su jugo enzimático)",
+          "2 cucharadas de sake japonés (o vino blanco seco / vino fino andaluz)",
+          "1 pizca muy pequeña de sal fina (solo para ayudar a la absorción)"
+        ]
+      },
+      {
+        "name": "Cocción y Crujientes de Ajo",
+        "items": [
+          "1 dado de grasa pura de ternera o sebo (gyūshi, pedir al carnicero; o la grasa recortada de la propia pieza)",
+          "2 dientes de ajo grandes pelados y cortados en láminas ultrafinas (para los garlic chips)"
+        ]
+      },
+      {
+        "name": "Salsa Glaseada Chaliapin",
+        "items": [
+          "Toda la cebolla rallada marinada reservada de la bolsa (más 1/2 cebolla extra recién rallada si se desea más salsa)",
+          "1 cucharada de manteca",
+          "2 cucharadas de salsa de soja japonesa (shoyu)",
+          "1 cucharada de mirin japonés (o 1 cucharadita de azúcar disuelta en 1 cucharada de agua)"
+        ]
+      },
+      {
+        "name": "Guarnición Tradicional",
+        "items": [
+          "Cuencos de arroz blanco caliente al vapor (Gohan)",
+          "Hojas verdes frescas (lechuga o col china cortada en juliana fina)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Corte Geométrico y Marinado Enzimático en Bolsa",
+        "title": "1. Corte Geométrico y Marinado Enzimático en Bolsa",
+        "steps": [
+          "Cortar la ternera en dados parejos de 2.5 a 3 cm (aproximadamente el tamaño de la primera falange del pulgar; no cortar más chicos porque se secarían en la sartén). Retirar nervios blancos duros si los hubiera.",
+          "Rallar la media cebolla por la parte más fina del rallador hasta obtener una pulpa líquida y húmeda.",
+          "Colocar los dados de carne dentro de una bolsa ziploc junto con la cebolla rallada con todo su jugo, las 2 cucharadas de sake y la pizca de sal.",
+          "Extraer el 100% del aire de la bolsa pasando la mano de abajo hacia arriba y cerrar herméticamente (la ausencia de aire garantiza que el jugo de cebolla cubra cada cara de la carne). Masajear suavemente durante 2 minutos y llevar a la heladera entre 1 y 2 horas (máximo 4 horas)."
+        ]
+      },
+      {
+        "name": "2. Retiro de Cebolla, Secado y Chips de Ajo",
+        "title": "2. Retiro de Cebolla, Secado y Chips de Ajo",
+        "steps": [
+          "Retirar los dados de carne de la bolsa raspando la cebolla con los dedos y devolviéndola a la bolsa (esta cebolla marinada es la base sagrada de la salsa).",
+          "Secar los dados de carne con toallas de papel absorbente (la carne debe estar seca para dorarse de inmediato; si entra con cebolla o húmeda, se quema y se hierve).",
+          "Calentar una sartén a fuego medio con la grasa de ternera. Dorar las láminas de ajo hasta que estén crocantes y rubias (cuidar que no se quemen). Retirar a papel secante y reservar."
+        ]
+      },
+      {
+        "name": "3. Sellado Rápido en Grasa de Ternera",
+        "title": "3. Sellado Rápido en Grasa de Ternera",
+        "steps": [
+          "Subir el fuego a temperatura alta hasta que la sartén eche un hilo leve de humo.",
+          "Acomodar los dados de carne bien separados en una sola capa sin amontonar. Dejar dorar sin tocar durante 1 minuto.",
+          "Girar los dados con pinzas o palillos y dorar 1 minuto por cara (con dorar 4 caras es suficiente, aprox. 4 a 5 minutos en total).",
+          "Retirar los dados a un plato y dejarlos reposar 2 minutos para que los jugos internos se redistribuyan."
+        ]
+      },
+      {
+        "name": "4. Reducción de Salsa Chaliapin y Glaseado",
+        "title": "4. Reducción de Salsa Chaliapin y Glaseado",
+        "steps": [
+          "En la misma sartén caliente con los fondos de carne, bajar el fuego a medio y añadir la cucharada de manteca.",
+          "Incorporar toda la cebolla rallada reservada de la bolsa (y la media cebolla extra si se desea). Sofreír durante 2 a 3 minutos despegando con espátula los jugos caramelizados del fondo hasta que tome un dorado suave y aroma dulce.",
+          "Verter la salsa de soja y el mirin. Dejar hervir a borbotones durante 1 minuto hasta que la salsa espese y brille.",
+          "Reintegrar los dados de carne junto con los jugos acumulados en el plato. Saltear durante 15 a 20 segundos para que cada dado quede bañado y glaseado por la salsa sin sobrecocerse.",
+          "Servir inmediatamente sobre o junto al arroz blanco, coronando los dados con las láminas crocantes de ajo frito."
+        ]
+      }
+    ],
+    "notes": "Secretos de Takeshi para lograr dados de ternera tiernos y jugosos (estilo Chaliapin):\n\n1. La pieza adecuada (cadera, babilla o lomo bajo):\nNunca utilizar carne para guisar (como morcillo o falda) a la plancha: su tejido conectivo exige horas de cocción lenta y ninguna marinada lo salvará en la sartén. Para dados tiernos a la sartén, comprar cadera de añojo, babilla o lomo bajo, que son económicos y tienen fibras blandas.\n\n2. Cebolla finamente rallada (no picada):\nAl rallar la cebolla por los orificios finos se destruyen las paredes celulares liberando enzimas proteolíticas naturales que relajan las fibras externas de la carne. Además, el jugo de cebolla aporta agua y azúcares que caramelizan a fuego vivo creando una costra dorada en tiempo récord.\n\n3. La técnica de la bolsa sin aire:\nEn un cuenco, el líquido queda abajo y la carne arriba. En una bolsa de congelación con el aire extraído, una sola media cebolla cubre por completo el 100% de la superficie de medio kilo de carne. Reposar entre 1 y 2 horas en frío (nunca superar las 6 horas, o la carne adquirirá una textura pastosa).\n\n4. Secado obligatorio antes de la sartén:\nRetirar la cebolla de la carne y secar los dados con papel de cocina antes de freír. La cebolla rallada en aceite hirviendo se quema y amarga en 10 segundos, y si la carne entra húmeda se hierve y queda gris en vez de dorarse.\n\n5. Gyūshi (el poder del sebo de ternera):\nEn las carnicerías y supermercados japoneses regalan cubitos de grasa de ternera para cocinar. Usar grasa de la propia ternera eleva el sabor a un nivel de asador profesional con un tostado profundo imposible de igualar con aceite.\n\n6. Dados del tamaño de la falange del pulgar (2.5 a 3 cm):\nLos dados demasiado pequeños se cocinan por dentro antes de poder dorarse por fuera, quedando duros y grises. El tamaño de 2.5 a 3 cm permite un minuto por cara logrando una costra oscura por fuera y un corazón rosado y tierno por dentro.",
+    "image": "https://lh3.googleusercontent.com/-Z1o7h4dgGYw/avIhwCSk-yI/AAAAAAAP8Co/iQrfKjIm1n0tDsFO9_km_XNgAPN-ncFoACNcBGAsYHQ/s1600/saikoro_steak.jpg",
+    "url": "saikoro-steak-dados-ternera-japon.html",
     "published": true
   }
 ]
