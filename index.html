@@ -3131,6 +3131,55 @@
       // Inyectar esquema semántico Recipe de Schema.org
       injectRecipeSchema(r);
 
+    function formatNotesToHtml(rawText) {
+      if (!rawText) return '';
+      const escape = str => String(str || '')
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;');
+
+      const lines = String(rawText).replace(/\r\n/g, '\n').split('\n');
+      let html = '';
+      let currentItem = null;
+
+      function flushItem() {
+        if (currentItem) {
+          const desc = currentItem.body ? '<div style="margin-top:4px; color:var(--text-secondary); line-height:1.6; font-size:0.92rem;">' + currentItem.body + '</div>' : '';
+          html += '<div style="margin-top:10px; background:rgba(217,119,6,0.06); border-left:3px solid #d97706; padding:10px 14px; border-radius:0 8px 8px 0;">' +
+                  '<strong style="color:#d97706; display:block; font-weight:700; font-size:0.95rem;">' + currentItem.title + '</strong>' +
+                  desc +
+                  '</div>';
+          currentItem = null;
+        }
+      }
+
+      for (let i = 0; i < lines.length; i++) {
+        const line = lines[i].trim();
+        if (!line) {
+          flushItem();
+          continue;
+        }
+
+        const itemMatch = line.match(/^(\d+\.|\•|\-|\*)\s*(.*?)(?::|$)(.*)$/);
+        if (itemMatch && itemMatch[2].trim() && itemMatch[2].trim().length < 80) {
+          flushItem();
+          const prefix = itemMatch[1];
+          const titleText = itemMatch[2].trim();
+          const inlineDesc = (itemMatch[3] || '').trim();
+          currentItem = {
+            title: escape(prefix + ' ' + titleText),
+            body: inlineDesc ? escape(inlineDesc) : ''
+          };
+        } else if (currentItem) {
+          currentItem.body = (currentItem.body ? currentItem.body + '<br>' : '') + escape(line);
+        } else {
+          html += '<p style="margin:0 0 8px 0; line-height:1.65; color:var(--text);">' + escape(line) + '</p>';
+        }
+      }
+      flushItem();
+      return html;
+    }
+
       // Notes
       let notesText = r.notes || r.chef_tips || '';
       if (Array.isArray(notesText)) {
@@ -3141,7 +3190,7 @@
       const notesBox = document.getElementById('modalNotesBox');
       if (notesText.trim()) {
         notesBox.style.display = 'block';
-        document.getElementById('modalNotes').textContent = notesText;
+        document.getElementById('modalNotes').innerHTML = formatNotesToHtml(notesText);
       } else {
         notesBox.style.display = 'none';
       }
