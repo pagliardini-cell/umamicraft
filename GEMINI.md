@@ -47,7 +47,10 @@ Este documento establece las reglas obligatorias e inmutables para la creación,
    - **Cero imágenes artificiales de IA:** nada de brillo plástico, colores hiper-saturados o comida sintética.
    
 3. **Prioridad absoluta a fotos enviadas por el autor/usuario:**
-   - Cada vez que el usuario comparta una imagen, esa imagen es la referencia definitiva y se debe colocar inmediatamente en `img/` y `publicar_github/img/`.
+   - Cada vez que el usuario comparta una imagen, esa imagen es la referencia definitiva:
+     - Se guarda localmente en `img/` como respaldo maestro.
+     - Se sube inmediatamente a Google CDN (`lh3.googleusercontent.com`) para obtener la URL directa de alta velocidad.
+     - **NO** se sube a `publicar_github/img/` ya que está excluida en `.gitignore` para mantener Vercel y GitHub ultra livianos.
 
 ---
 
@@ -56,7 +59,5 @@ Este documento establece las reglas obligatorias e inmutables para la creación,
 - Cada cambio en títulos o recetas debe reflejarse en:
   1. `recetas_pro.json` (raíz).
   2. `publicar_github/recetas_pro.json`.
-- Toda imagen debe copiarse en:
-  1. `img/`.
-  2. `publicar_github/img/`.
+- Servidor de imágenes: 100% de las imágenes se sirven desde los servidores de Google CDN / Blogger (`lh3.googleusercontent.com`).
 - No ejecutar `git push` (el usuario gestiona los envíos mediante GitHub Desktop).
