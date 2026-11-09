@@ -43033,5 +43033,170 @@
     "url": "bunuelos-manzana-argentina.html",
     "original_title": "Buñuelos de Manzana (Argentina)",
     "published": "2026-11-08"
+  },
+  {
+    "id": 551,
+    "title": "Tortilla de Hojas de Remolacha (Argentina)",
+    "original_title": "Tortilla de Hojas de Remolacha",
+    "country": "Argentina",
+    "category": "Huevos / Desayunos",
+    "tags": [
+      "tortilla de hojas de remolacha",
+      "cocina de aprovechamiento",
+      "zero waste",
+      "receta tradicional argentina",
+      "tortilla de verduras",
+      "hojas verdes",
+      "economica",
+      "en sarten",
+      "facil",
+      "comida casera"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "15 min",
+    "rest_time": "3 min",
+    "temperature": "Fuego medio",
+    "servings": 4,
+    "calories": 210,
+    "diet_badges": [
+      "Vegetariano",
+      "Sin Gluten",
+      "Bajo en Calorías"
+    ],
+    "story": "En la cocina hogareña argentina, tirar las hojas y pencas de la remolacha es casi un pecado culinario. Cuando se compran atados frescos en la verdulería con sus copas verdes brillantes y tallos rojizos crujientes, la costumbre tradicional dicta separar las raíces para ensalada y transformar todo el follaje en una suculenta tortilla. Las hojas de remolacha, primas botánicas de la acelga y la espinaca, aportan un sabor ligeramente dulce, terroso y mineral que combina de manera sublime con el ajo sofrito, huevos frescos de campo y un buen queso rallado maduro.",
+    "ingredient_groups": [
+      {
+        "name": "Hojas y Vegetales",
+        "ingredients": [
+          "1 atado grande de hojas frescas de remolacha (hojas y pencas tiernas, aprox. 400 g)",
+          "1 cebolla mediana picada finamente",
+          "2 dientes de ajo picados",
+          "2 cucharadas de aceite de oliva o de girasol"
+        ]
+      },
+      {
+        "name": "Ligado y Condimentos",
+        "ingredients": [
+          "4 huevos grandes",
+          "3 cucharadas de queso rallado sardo o reggianito",
+          "1 pizca de nuez moscada recién rallada",
+          "Sal fina y pimienta negra molida al gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Limpieza y Blanqueado",
+        "steps": [
+          "Lavar muy bien las hojas y tallos tiernos de remolacha en abundante agua fresca para retirar toda la tierra.",
+          "Blanquear las hojas en una olla grande con agua hirviendo con sal durante 2 minutos apenas hasta que colapsen. Escurrir inmediatamente y pasar por agua helada para fijar el color verde.",
+          "Exprimir las hojas con las manos con firmeza para retirar todo el exceso de agua (secreto fundamental para que la tortilla no quede acuosa). Picar groseramente sobre la tabla."
+        ]
+      },
+      {
+        "name": "Sofrito y Mezclado",
+        "steps": [
+          "En una sartén antiadherente de 20-22 cm, calentar una cucharada de aceite a fuego medio y sofreír la cebolla picada con una pizca de sal hasta transparentar (4-5 minutos). Añadir el ajo y las hojas picadas, salteando todo junto 2 minutos. Retirar del fuego y templar.",
+          "En un bol grande, batir los 4 huevos con el queso rallado, nuez moscada, sal y pimienta recién molida.",
+          "Incorporar el salteado de verduras al bol con los huevos y mezclar bien hasta integrar."
+        ]
+      },
+      {
+        "name": "Cocción de la Tortilla",
+        "steps": [
+          "Limpiar la sartén, añadir la cucharada restante de aceite y calentar bien a fuego medio-alto.",
+          "Verter toda la preparación, mover la sartén en círculos y remover suavemente el centro durante 30 segundos con una espátula de silicona para formar estructura.",
+          "Bajar el fuego a medio-bajo y cocinar durante 4 a 5 minutos, redondeando los bordes con la espátula hasta que la base esté dorada y firme.",
+          "Colocar un plato llano humedecido sobre la sartén, dar vuelta con decisión y deslizar nuevamente la tortilla a la sartén. Cocinar 3 a 4 minutos más para lograr un interior húmedo (punto babé) o bien cocido según preferencia.",
+          "Deslizar sobre una fuente o tabla de madera, dejar asentar 3 minutos y servir en porciones triangulares."
+        ]
+      }
+    ],
+    "notes": "El secreto de oro para una tortilla de hojas perfecta está en el escurrido: una vez blanqueadas las hojas, apretarlas en un colador o con un paño limpio hasta sacar la última gota de líquido. Si las pencas son muy gruesas, picarlas finitas para que se cocinen parejo con la cebolla.",
+    "image": "img/tortilla_hojas_remolacha.jpg",
+    "url": "tortilla-hojas-remolacha-argentina.html",
+    "published": true
+  },
+  {
+    "id": 552,
+    "title": "Ensalada de Remolacha y Huevo (Argentina)",
+    "original_title": "Ensalada de Remolacha y Huevo",
+    "country": "Argentina",
+    "category": "Ensaladas",
+    "tags": [
+      "ensalada de remolacha y huevo",
+      "ensalada tradicional argentina",
+      "bodegon argentino",
+      "guarnicion para asado",
+      "remolachas hervidas",
+      "huevo duro",
+      "ensaladas clasicas",
+      "facil",
+      "economica",
+      "saludable"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "40 min",
+    "rest_time": "10 min",
+    "temperature": "Frío / Temperatura ambiente",
+    "servings": 4,
+    "calories": 185,
+    "diet_badges": [
+      "Vegetariano",
+      "Sin Gluten",
+      "Bajo en Calorías"
+    ],
+    "story": "Pocas combinaciones representan con tanta fidelidad la mesa dominguera y los entrañables bodegones porteños como la clásica ensalada de remolacha y huevo. Infaltable escolta de los asados junto a la ensalada rusa y la mixta de lechuga y tomate, este plato equilibra el dulzor natural y terroso de las remolachas cocidas con la untuosidad y riqueza de los huevos duros. El contraste cromático entre el carmín intenso de la remolacha y el amarillo brillante de la yema cocida convierte a este plato sencillo en un ícono visual y gustativo de la cocina argentina.",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes Principales",
+        "ingredients": [
+          "4 remolachas medianas frescas y firmes",
+          "4 huevos de campo",
+          "1 cucharada de perejil fresco picado finamente"
+        ]
+      },
+      {
+        "name": "Vinagreta Clásica de Bodegón",
+        "ingredients": [
+          "4 cucharadas de aceite de oliva extra virgen (o aceite de girasol de primera presin)",
+          "1.5 cucharadas de vinagre de vino tinto o vinagre de manzana",
+          "Sal marina fina y pimienta negra recin molida al gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Cocción de las Remolachas",
+        "steps": [
+          "Lavar las remolachas bajo el grifo sin cortarles la raíz del todo ni pelarlas (dejar unos 2 cm de tallo para que no pierdan su jugo carmesí durante la cocción).",
+          "Colocarlas en una olla con abundante agua fría con una pizca de sal. Llevar a ebullición y cocinar a fuego medio durante 35 a 45 minutos (están listas cuando al pincharlas con la punta de un cuchillo el centro esté tierno).",
+          "Retirar, sumergir unos segundos en agua fría y pelarlas frotando con los dedos o con ayuda de una toalla de papel: la piel se desprenderá sola y sin esfuerzo.",
+          "Cortar las remolachas en cubos medianos de 1.5 cm o en rodajas parejas."
+        ]
+      },
+      {
+        "name": "Cocción de los Huevos",
+        "steps": [
+          "En un jarro con agua hirviendo con una pizca de sal y vinagre, bajar suavemente los huevos con una cuchara.",
+          "Cocinar exactamente 9 a 10 minutos para lograr una yema cremosa y cocida sin aureola grisácea.",
+          "Pasar de inmediato a un bol con agua con hielo para frenar la cocción. Pelar bajo el agua y cortar en cuartos o rodajas gruesas."
+        ]
+      },
+      {
+        "name": "Emplatado y Condimento",
+        "steps": [
+          "En una fuente amplia o ensaladera de cerámica, disponer los cubos de remolacha.",
+          "Batir en un cuenco pequeño el aceite de oliva, el vinagre, sal y pimienta hasta emulsionar la vinagreta.",
+          "Verter la mitad de la vinagreta sobre la remolacha y mezclar con suavidad.",
+          "Acomodar los huevos duros por encima para que no se tiñan por completo de rojo antes de servir.",
+          "Rociar el resto del aderezo sobre los huevos y espolvorear con el perejil fresco picado."
+        ]
+      }
+    ],
+    "notes": "Cocinar las remolachas con su piel y un trozo de tallo es la clave para conservar todo su sabor, vitaminas y color rubí vibrante. Si te sobra ensalada, al día siguiente los huevos habrán absorbido el jugo violáceo de la remolacha formando un bocado aún más sabroso.",
+    "image": "img/ensalada_remolacha_huevo.jpg",
+    "url": "ensalada-remolacha-huevo-argentina.html",
+    "published": true
   }
 ]
