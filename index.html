@@ -2120,6 +2120,8 @@
         }
       } catch (err) {
         console.error("Error cargando recetas:", err);
+        const resultsEl = document.getElementById("resultsCount");
+        if (resultsEl) resultsEl.textContent = "Error al cargar las recetas. Por favor, recarga la página.";
       }
     }
 
@@ -2287,7 +2289,7 @@
             ${r.prep_time ? `<span>⏱️ Prep: ${r.prep_time.replace(' (estimado)', '')}</span>` : ''}
             ${r.cook_time && !r.cook_time.startsWith('0') ? `<span>🔥 Cocción: ${r.cook_time.replace(' (estimado)', '')}</span>` : ''}
             ${r.calories ? `<span>⚡ ${String(r.calories).replace(' aprox. por porción', '').replace(' aprox.', '')}</span>` : ''}
-            ${r.servings ? `<span>🍽️ ${r.servings.replace(' (estimado)', '')}</span>` : ''}
+            ${r.servings ? `<span>🍽️ ${String(r.servings).replace(' (estimado)', '')}</span>` : ''}
           </div>
           <div class="hero-btns">
             <button class="btn-hero-main" onclick="openModal(${r.id})">Ver Receta Paso a Paso →</button>
@@ -2550,7 +2552,7 @@
                 ${calText ? `<span class="mini-pill">⚡ ${calText}</span>` : ''}
               </div>
               <div class="card-footer">
-                <span>🍽️ ${r.servings ? r.servings.replace(' (estimado)', '') : 'Ver detalle'}</span>
+                <span>🍽️ ${r.servings ? String(r.servings).replace(' (estimado)', '') : 'Ver detalle'}</span>
                 <span>Abrir receta →</span>
               </div>
             </div>
