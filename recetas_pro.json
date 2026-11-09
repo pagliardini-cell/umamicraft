@@ -43120,7 +43120,7 @@
       }
     ],
     "notes": "El secreto de oro para una tortilla de hojas perfecta está en el escurrido: una vez blanqueadas las hojas, apretarlas en un colador o con un paño limpio hasta sacar la última gota de líquido. Si las pencas son muy gruesas, picarlas finitas para que se cocinen parejo con la cebolla.",
-    "image": "https://lh3.googleusercontent.com/-V20vzUxVU2U/avFE6-ozN0I/AAAAAAAP70s/23B73yjPWgIQvdZ5TZkJTAWspz8e5rseQCNcBGAsYHQ/s1600/tortilla_hojas_remolacha.jpg",
+    "image": "https://lh3.googleusercontent.com/-zwxtrX88oCI/avHVUKz1mxI/AAAAAAAP8As/Scm0S8VVBvsff2_2sisQNVgD4w_ujajvwCNcBGAsYHQ/s1600/tortilla_hojas_remolacha.jpg",
     "url": "tortilla-hojas-remolacha-argentina.html",
     "published": true
   },
@@ -43131,18 +43131,20 @@
     "country": "Argentina",
     "category": "Ensaladas",
     "tags": [
-      "cebolla morada",
-      "ensalada de remolacha y huevo",
-      "remolachas hervidas",
-      "huevos duros",
-      "ensaladas clasicas",
       "bodegon argentino",
-      "ensalada tradicional argentina",
-      "huevo duro",
-      "economica",
+      "toque de cebolla",
+      "ensaladas clasicas",
       "facil",
+      "huevos duros",
+      "remolachas hervidas",
+      "economica",
+      "ensalada de remolacha y huevo",
+      "cebolla morada",
+      "huevo duro",
       "saludable",
-      "guarnicion para asado"
+      "cebolla colorada",
+      "guarnicion para asado",
+      "ensalada tradicional argentina"
     ],
     "prep_time": "15 min",
     "cook_time": "40 min",
@@ -43162,7 +43164,14 @@
         "ingredients": [
           "4 remolachas medianas frescas y firmes",
           "4 huevos de campo",
-          "1 cucharada de perejil fresco picado finamente"
+          "1/4 de cebolla colorada (o morada), cortada en finos aros crocantes",
+          "1 cucharada de perejil fresco picado finamente (o en hojitas)"
+        ],
+        "items": [
+          "4 remolachas medianas frescas y firmes",
+          "4 huevos de campo",
+          "1/4 de cebolla colorada (o morada), cortada en finos aros crocantes",
+          "1 cucharada de perejil fresco picado finamente (o en hojitas)"
         ]
       },
       {
@@ -43195,15 +43204,15 @@
       {
         "name": "Emplatado y Condimento",
         "steps": [
-          "En una fuente amplia o ensaladera de cerámica, disponer los cubos de remolacha.",
-          "Batir en un cuenco pequeño el aceite de oliva, el vinagre, sal y pimienta hasta emulsionar la vinagreta.",
-          "Verter la mitad de la vinagreta sobre la remolacha y mezclar con suavidad.",
-          "Acomodar los huevos duros por encima para que no se tiñan por completo de rojo antes de servir.",
-          "Rociar el resto del aderezo sobre los huevos y espolvorear con el perejil fresco picado."
+          "En una fuente amplia o plato playo de cerámica, disponer las remolachas cortadas en cubos o rodajas.",
+          "Distribuir por encima los aros finos de cebolla colorada (pasados 5 minutos por agua helada para potenciar su crocancia y suavizar el picor).",
+          "Batir en un cuenco pequeño el aceite de oliva, el vinagre, sal y pimienta negra (opcional: pizca de mostaza en grano) hasta emulsionar la vinagreta.",
+          "Acomodar los huevos cocidos partidos por la mitad o en cuartos exhibiendo la yema cremosa.",
+          "Rociar generosamente la vinagreta por encima y rematar con las hojas de perejil fresco."
         ]
       }
     ],
-    "notes": "Cocinar las remolachas con su piel y un trozo de tallo es la clave para conservar todo su sabor, vitaminas y color rubí vibrante. Si te sobra ensalada, al día siguiente los huevos habrán absorbido el jugo violáceo de la remolacha formando un bocado aún más sabroso.",
+    "notes": "El toque de cebolla colorada: Un poquito de cebolla morada cortada en aros finos y pasada unos minutos por agua helada aporta un contraste fresco, ligeramente dulce y super crocante que corta la untuosidad del huevo y la tierra de la remolacha, tal como se aprecia en la foto.\n\nCocinar las remolachas con su piel y un trozo de tallo es la clave para conservar todo su sabor, vitaminas y color rubí vibrante. Si te sobra ensalada, al día siguiente los huevos habrán absorbido el jugo violáceo formando un bocado aún más sabroso.",
     "image": "https://lh3.googleusercontent.com/-3CVT594LLwM/avHUCwk9LLI/AAAAAAAP8AY/rovehEAE2Hkm5XP3FVqQmv2KdqcgWDxjACNcBGAsYHQ/s1600/ensalada_remolacha_huevo.jpg",
     "url": "ensalada-remolacha-huevo-argentina.html",
     "published": true
