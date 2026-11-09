@@ -6,3 +6,8 @@ publicar_10_facebook.bat
 .env
 
 r/
+
+# Blogger API Credentials
+client_secret*.json
+token_blogger*.json
+credentials*.json
