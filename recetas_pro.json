@@ -28957,15 +28957,17 @@
     "country": "Receta de Autor (Argentina)",
     "category": "Pastas",
     "tags": [
-      "Cappelletti",
-      "Pasta Rellena",
       "Pasta Casera",
-      "Salsa a la Fiamma",
       "Cantina",
-      "La Boca",
+      "salsa demiglass",
+      "Salsa a la Fiamma",
+      "Pasta Rellena",
+      "Cappelletti",
+      "demi-glace",
       "Receta de Autor",
-      "Argentina",
-      "Recuerdo de Infancia"
+      "Recuerdo de Infancia",
+      "La Boca",
+      "Argentina"
     ],
     "prep_time": "1 h 30 min",
     "cook_time": "50 min",
@@ -29011,6 +29013,7 @@
           "1 diente de ajo",
           "1 peperoncino",
           "1 lata de puré de tomate (aprox. 520 g)",
+          "2 a 3 cucharadas de salsa demi-glace (reducción rica de carne para potenciar el umami)",
           "100 g de queso Finlandia",
           "220 cc de crema de leche",
           "Sal y pimienta negra"
@@ -29059,7 +29062,7 @@
         "name": "4. Sofrito Cárnico y Reducción",
         "steps": [
           "En una sartén u olla chica a fuego medio, rehogar la cebolla picada y el diente de ajo junto con la carne picada 70/30 y el peperoncino. Cocinar hasta que la carne pierda el tono crudo, sin dorar en exceso para no endurecer la fibra. Salpimentar con moderación.",
-          "Volcar la lata entera de puré de tomate. Reducir a fuego bajo durante 20 minutos, hasta evaporar el agua libre, concentrar el sabor y lograr que la materia grasa suba a la superficie. Retirar el peperoncino."
+          "Volcar la lata entera de puré de tomate e incorporar las 2 a 3 cucharadas de salsa demi-glace. Reducir a fuego bajo durante 20 minutos, logrando que el fondo oscuro concentre la potencia umami, evapore el agua libre y la materia grasa suba a la superficie. Retirar el peperoncino."
         ]
       },
       {
@@ -29088,7 +29091,7 @@
       "Apoyá el pie de la minipimer en el fondo antes de encender, para que no salpique y se forme el vórtice que arrastra los sólidos.",
       "Mantecá siempre fuera del fuego: el queso rallado se funde con el calor de la salsa y liga la pasta sin cortarse."
     ],
-    "notes": "Licuá la salsa muy bien, con toda su grasa: no retires la que sube a la superficie durante la reducción. Al licuarla junto con el queso Finlandia y la crema de leche, la grasa se divide en gotas microscópicas. Las proteínas de la carne picada y la caseína del queso y de la crema actúan como emulsionantes naturales: envuelven cada gota de grasa y evitan que se junten y se separen. Eso es lo que logra la textura untuosa y sedosa de la salsa, sin harina ni espesantes."
+    "notes": "Licuá la salsa muy bien, con toda su grasa: no retires la que sube a la superficie durante la reducción. Al licuarla junto con el queso Finlandia y la crema de leche, la grasa se divide en gotas microscópicas. Las proteínas de la carne picada y la caseína del queso y de la crema actúan como emulsionantes naturales: envuelven cada gota de grasa y evitan que se junten y se separen. Eso es lo que logra la textura untuosa y sedosa de la salsa, sin harina ni espesantes.\n\nEl toque maestro de la salsa demi-glace:\nIncorporar 2 a 3 cucharadas de demi-glace al sofrito con el tomate le aporta esa profundidad carnosa, untuosidad y brillo caoba inconfundibles de las grandes salsas de bodegón, realzando de manera extraordinaria la emulsión final con la crema y el queso."
   },
   {
     "id": 390,
