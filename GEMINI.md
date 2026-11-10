@@ -72,12 +72,15 @@ Este documento establece las reglas obligatorias e inmutables para la creación,
    - Walter cocina desde los 10 años, con devoción absoluta por la cocina oriental, la gastronomía tradicional y el legado culinario familiar.
 
 2. **Árbol Genealógico y Raíces Familiares del Autor:**
-   - **Rama Paterna:**
-     - **Pagliardini:** Originarios de **Borgo Pace** (Provincia de Pesaro y Urbino, región de Las Marcas / Umbría, Italia).
-     - **Lemmi:** Originarios de **Villa Collemandina** (comuna de la Garfagnana, Provincia de Lucca, Toscana, Italia). Abuela paterna de Walter.
+   - **Madre de Walter (¡VIVA!):** De apellido **Pettis**.
    - **Rama Materna:**
-     - **Peleran:** Originarios de **Toulon** (Provenza-Alpes-Costa Azul, Francia). Abuelo materno de Walter.
-     - **Fernández Santamarina:** Originarios de **Asturias** (España). Abuela materna de Walter, conocida entrañablemente como la **"Abuela Pina"**.
-   - **Rama Pettis:**
-     - Familiares originarios de **Uruguay**.
+     - **Abuelo Materno:** **Ricardo José Pettis Pelerán** (1904–1977, Buenos Aires).
+     - **Abuela Materna:** **Josefa Fernández Santamarina** ("Abuela Pina"), originaria de **Asturias** (España).
+     - **Bisabuelo:** **Fernando Pascacio Pettis** (1867–1920), nacido en **Montevideo, Uruguay** (Parroquia San Agustín / La Unión, FamilySearch ID: `9Q7L-6PT`).
+     - **Bisabuela:** **Onésima Benita Pelerán Éspora** (1868–1904, Buenos Aires).
+     - **Raíz Francesa Pelerán:** Descendientes directos de **Estevan Antonio Pelerán** (Étienne Antonin Pellerin, n. ~1802), originario de **Toulon** (Var, Provenza-Alpes-Costa Azul, Francia).
+   - **Rama Paterna:**
+     - **Pagliardini:** Originarios de **Borgo Pace** (Provincia de Pesaro y Urbino, región de Las Marcas / Umbría, Italia). Padre de Walter.
+     - **Lemmi:** Originarios de **Villa Collemandina** (comuna de la Garfagnana, Provincia de Lucca, Toscana, Italia). Abuela paterna de Walter.
+
 
