@@ -61,3 +61,23 @@ Este documento establece las reglas obligatorias e inmutables para la creación,
   2. `publicar_github/recetas_pro.json`.
 - Servidor de imágenes: 100% de las imágenes se sirven desde los servidores de Google CDN / Blogger (`lh3.googleusercontent.com`).
 - No ejecutar `git push` (el usuario gestiona los envíos mediante GitHub Desktop).
+
+---
+
+## 4. Voz Autoral y Genealogía Familiar (Obligatorio e Inmutable)
+
+1. **Voz en primera persona estricta:**
+   - **PROHIBIDO TERMINANTEMENTE** hablar de Walter Pagliardini en tercera persona (ej: ❌ *"la madre de Walter"*, ❌ *"en la familia de Walter"*, ❌ *"según Walter"*).
+   - Todos los relatos, anécdotas familiares, historias de origen (`story`) y secretos de cocina (`notes`) deben estar redactados en **PRIMERA PERSONA** (ej: ✔️ *"mi mamá"*, ✔️ *"mi abuela Pina"*, ✔️ *"en mi cocina"*, ✔️ *"cuando preparo este plato"*).
+   - Walter cocina desde los 10 años, con devoción absoluta por la cocina oriental, la gastronomía tradicional y el legado culinario familiar.
+
+2. **Árbol Genealógico y Raíces Familiares del Autor:**
+   - **Rama Paterna:**
+     - **Pagliardini:** Originarios de **Borgo Pace** (Provincia de Pesaro y Urbino, región de Las Marcas / Umbría, Italia).
+     - **Lemmi:** Originarios de **Villa Collemandina** (comuna de la Garfagnana, Provincia de Lucca, Toscana, Italia). Abuela paterna de Walter.
+   - **Rama Materna:**
+     - **Peleran:** Originarios de **Toulon** (Provenza-Alpes-Costa Azul, Francia). Abuelo materno de Walter.
+     - **Fernández Santamarina:** Originarios de **Asturias** (España). Abuela materna de Walter, conocida entrañablemente como la **"Abuela Pina"**.
+   - **Rama Pettis:**
+     - Familiares originarios de **Uruguay**.
+
