@@ -43534,8 +43534,96 @@
       }
     ],
     "notes": "Secretos y memorias familiares para unas Costillitas a la Villeroy perfectas:\n\n1. El plato cumbre de la abuela Pina:\nEn la memoria gastronómica familiar de Walter, este plato es un monumento culinario: la receta más celebrada, rica y perfecta que preparaba su abuela Pina para agasajar a hijos y nietos en los almuerzos de domingo. El maridaje de la carne tierna envuelta en crema con la dulzura de las arvejas salteadas a la manteca es una combinación de época irrepetible.\n\n2. Costillitas frías y secas antes de la bechamel:\nTal como enseñó doña María Teresa en Cocineros Argentinos, el gran secreto del éxito es no apresurarse. Si la costillita recién sellada está caliente o tiene restos de aceite en la superficie, la salsa blanca se resbalará y no agarrará. La carne debe estar fría de heladera y bien seca con papel absorbente.\n\n3. Bechamel extra espesa (punto croqueta):\nLa salsa blanca para Villeroy debe ser mucho más espesa que la de una lasaña o canelones (proporción de 50 g de harina y 50 g de manteca para 500 ml de leche). Al enfriarse debe quedar con cuerpo firme para moldearse como un guante sobre la carne.\n\n4. Sellado de bordes para que no explote en el aceite:\nAl pasar por el pan rallado, apretar bien con los dedos la unión donde la bechamel termina y empieza el hueso pelado. Si queda algún poro abierto, la salsa blanca entrará en ebullición y buscará escapar al freírse.\n\n5. Las arvejas a la manteca:\nSaltearlas a fuego moderado solo con manteca pura y una pizca de sal. Si se usan arvejas frescas o congeladas de buena calidad, solo necesitan 3 o 4 minutos de sartén para mantener su color verde brillante, textura mantecosa y dulzor natural que equilibra a la perfección la fritura crujiente.",
-    "image": "https://lh3.googleusercontent.com/-VfazgrTu3CQ/avJ0QoGACdI/AAAAAAAP8EY/qGZp0XGmhDoIM4bgKv7tpW1o8rSO7QpywCNcBGAsYHQ/s1600/costillitas_cordero_villeroy.jpg",
+    "image": "https://lh3.googleusercontent.com/-B7EWf6-9S9Y/avKCKfwo5pI/AAAAAAAP8Eo/rqfvVMIVfF4Qx0kfwRPt6FYi8IbNq9GKQCNcBGAsYHQ/s1600/costillitas_cordero_villeroy.jpg",
     "url": "costillitas-cordero-villeroy-argentina.html",
     "published": true
+  },
+  {
+    "id": 556,
+    "title": "Agnolotti del Plin al Sugo d'Arrosto (Italia)",
+    "country": "Italia",
+    "category": "Pastas",
+    "prep_time": "60 min",
+    "cook_time": "180 min",
+    "servings": 6,
+    "calories": "620 kcal",
+    "image": "https://lh3.googleusercontent.com/-Ualdnp3fz-E/avKCLgoHTAI/AAAAAAAP8Ew/D566enL9gu8ceyniCh1MCZzmI1XVBL7ZgCNcBGAsYHQ/s1600/agnolotti_del_plin.jpg",
+    "tags": [
+      "agnolotti",
+      "plin",
+      "pasta rellena",
+      "piamonte",
+      "sugo d'arrosto",
+      "enrico crippa",
+      "dennis panzeri",
+      "alta cocina",
+      "italia squisita",
+      "braseado",
+      "i tre arrosti",
+      "ternera fassona",
+      "cerdo",
+      "conejo",
+      "salvia",
+      "mantecatura"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Para el Braseado y Fondo de Cocción (I Tre Arrosti)",
+        "items": [
+          "350 g de carne vacuna: jarrete/osobuco (stinco) y falda (pancia) de ternera",
+          "350 g de carne de cerdo: bondiola / cabezada (capocollo)",
+          "350 g de carne de granja: conejo troceado",
+          "1 cebolla picada fina (sofrito)",
+          "1 zanahoria picada fina (sofrito)",
+          "1 rama de apio picada fina (sofrito)",
+          "400 ml de vino blanco seco",
+          "1 cucharada sopera colmada de concentrado de tomate",
+          "Granos de pimienta negra entera, bayas de enebro y clavos de olor",
+          "2 hojas de laurel fresco y 3 dientes de ajo enteros aplastados",
+          "Aceite de oliva virgen extra y sal fina"
+        ]
+      },
+      {
+        "name": "Para el Relleno (Ripieno)",
+        "items": [
+          "Las tres carnes del braseado cocidas y frías (deshuesadas)",
+          "150 g de espinaca cocida y estrictamente escurrida",
+          "150 g de escarola cocida y estrictamente escurrida",
+          "2 huevos enteros frescos",
+          "60 ml de crema de leche (panna)",
+          "80 g de queso Parmigiano Reggiano rallado fino",
+          "1 cucharón generoso del fondo de cocción reducido (sugo d'arrosto)",
+          "Sal fina y pimienta negra molida"
+        ]
+      },
+      {
+        "name": "Para la Masa Fresca (Sfoglia)",
+        "items": [
+          "500 g de harina de trigo 00 común",
+          "3 huevos enteros y 4 yemas de huevo frescas",
+          "Pizca de sal fina"
+        ]
+      },
+      {
+        "name": "Para el Salseado Final (Mantecatura)",
+        "items": [
+          "60 g de manteca de calidad",
+          "8 a 10 hojas de salvia fresca",
+          "1 cucharada de perejil fresco picado fino",
+          "200 ml de fondo de cocción reducido (sugo d'arrosto)",
+          "Agua de cocción de la pasta (según necesidad)"
+        ]
+      }
+    ],
+    "instructions": [
+      "Sellado Intenso y Flameado de las Carnes: En una cazuela amplia con aceite de oliva, dorar a fuego vivo el osobuco/falda de ternera, la bondiola de cerdo y el conejo hasta lograr una caramelización profunda en todas sus caras. Añadir el sofrito de cebolla, zanahoria y apio, rehogando unos minutos con la grasa natural de las carnes. Verter el vino blanco seco y flambear con cuidado (fiammeggiare) para quemar los vapores de alcohol crudo y concentrar azúcares.",
+      "Especiado y Braseado Prolongado al Horno: Incorporar el concentrado de tomate, laurel, dientes de ajo machacados, bayas de enebro, clavos de olor y pimienta negra en grano. Transferir todo a una fuente o asadera apta para horno, tapar herméticamente con papel manteca y aluminio y hornear a 180 °C durante 2 horas y media a 3 horas, hasta que la fibra cárnica esté totalmente blanda y se deshaga con facilidad.",
+      "Separación y Reducción del Fondo (Sugo d'Arrosto): Retirar del horno y separar las tres carnes por un lado. Colar todos los jugos de cocción a través de un tamiz fino a una cacerola limpia. Llevar a hervor suave y reducir hasta que pierda la mitad de su volumen, obteniendo un fondo concentrado, aromático y rico en colágeno natural que servirá para hidratar el relleno y constituir la salsa final.",
+      "Molienda y Emulsión Esponjosa del Relleno: Enfriar completamente las carnes en heladera para consolidar sus grasas. Pasar las carnes frías por la picadora con disco intermedio junto con las espinacas y la escarola (rigurosamente estrujadas a mano para eliminar todo el exceso de agua). Llevar la molienda a la batidora con pala; añadir los huevos, la crema de leche, el Parmigiano Reggiano, sal, pimienta y una porción generosa del fondo reducido. Batir a velocidad media durante 2 minutos hasta lograr una farsa blanda, compacta y esponjosa. Cargar en mangas pasteleras y refrigerar.",
+      "Laminado y el Tradicional Pellizco 'Plin': Amasar la harina con los huevos y yemas hasta obtener una masa elástica y lisa; reposar 30 minutos y estirar en láminas muy finas y homogéneas. Dosificar con la manga pequeñas porciones de relleno alineadas horizontalmente, separadas a la distancia de un dedo. Doblar el borde de masa cubriendo la hilera y presionar con los índices para expulsar el aire. Pellizcar con firmeza entre cada montículo con los dedos pulgar e índice (il plin) para sellar los compartimentos. Cortar con rueda dentada longitudinalmente y luego transversalmente en cada plin.",
+      "Cocción y Mantecatura Brillante en Sartén: Cocinar los agnolotti en abundante agua hirviendo con sal durante 3 a 4 minutos. En una sartén amplia, derretir una nuez de manteca con la salvia fresca y el perejil; volcar un cucharón generoso del fondo de carne reducido (sugo d'arrosto) caliente para que espese ligeramente. Incorporar la pasta directamente escurrida y saltear con movimientos enérgicos de muñeca durante un minuto, ligando la manteca con la gelatina concentrada del asado hasta que queden completamente glaseados y brillantes. Emplatar de inmediato."
+    ],
+    "story": "Nacidos en las colinas de Langhe y Monferrato en el Piamonte, los Agnolotti del Plin son uno de los tesoros más celebrados de la pasta fresca italiana. Su nombre 'plin' proviene del dialecto piamontés y describe el pellizco manual entre pulgar e índice que confina el relleno expulsando el aire. Esta receta emblemática, documentada en la célebre serie de Italia Squisita, recrea la técnica de los chefs Enrico Crippa (3 estrellas Michelin en Piazza Duomo) y Dennis Panzeri (La Piola, Alba). Su esencia radica en 'i tre arrosti' (los tres asados): ternera, cerdo y conejo dorados y braseados pacientemente al horno con vino blanco, enebro y hierbas, cuyo jugo concentrado nutre la farsa y se transforma luego en un suntuoso e incomparable sugo d'arrosto.",
+    "notes": "1. El secreto de la farsa emulsionada: Las carnes braseadas deben enfriarse por completo antes de picar para que las grasas no se fundan. Al batirlas en la planetaria con los huevos, crema de leche y un poco del fondo tibio, se logra una textura aireada y cremosa que jamás se apelmaza al morder.\n2. Drenaje estricto de las verduras: La espinaca y la escarola deben estrujarse fuertemente con las manos; cualquier humedad residual ablandaría la masa fresca desde adentro provocando roturas en la cocción.\n3. Mantecatura de laca natural: El verdadero sugo d'arrosto no es una salsa densa de tomate, sino la reducción de los jugos del braseado enriquecida en sartén con manteca y salvia. Al saltear la pasta caliente, el almidón y el colágeno forman una laca brillante que envuelve cada pieza a la perfección."
   }
 ]

@@ -1948,6 +1948,66 @@
     <span class="floating-badge" id="floatingShoppingBadge">0</span>
   </button>
 
+    <!-- Modal Guía de Instalación iOS / iPadOS PWA -->
+  <div class="modal-backdrop" id="iosInstallModal" onclick="if(event.target.id==='iosInstallModal') closeIosInstallModal()">
+    <div class="modal-card" style="max-width: 480px; padding: 26px; text-align: center; border-radius: 20px;">
+      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:16px;">
+        <div style="display:flex; align-items:center; gap:12px; text-align:left;">
+          <img src="/icon-192.png" width="46" height="46" style="border-radius:12px; box-shadow:0 3px 10px rgba(0,0,0,0.18);" alt="UmamiCraft">
+          <div>
+            <h3 id="iosModalTitle" style="font-family:'Playfair Display',serif; font-size:1.25rem; margin:0; line-height:1.2;">Instalar en tu iPad o iPhone</h3>
+            <span style="font-size:0.75rem; color:var(--text-muted);">Web App Oficial • Funciona Offline</span>
+          </div>
+        </div>
+        <button class="modal-close" style="position:static;" onclick="closeIosInstallModal()">✕</button>
+      </div>
+
+      <div style="background:var(--primary-soft); color:var(--primary); padding:10px 14px; border-radius:12px; font-size:0.84rem; font-weight:600; margin-bottom:18px; text-align:left;">
+        💡 En dispositivos Apple, Safari requiere estos 3 pasos rápidos:
+      </div>
+
+      <div style="display:flex; flex-direction:column; gap:12px; text-align:left; margin-bottom:22px;">
+        <div style="display:flex; align-items:flex-start; gap:12px; background:var(--bg-subtle); padding:12px 14px; border-radius:12px; border:1px solid var(--border);">
+          <div style="background:var(--bg-elevated); color:var(--primary); width:34px; height:34px; border-radius:8px; display:flex; align-items:center; justify-content:center; flex-shrink:0; box-shadow:0 2px 6px rgba(0,0,0,0.08);">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"></path>
+              <polyline points="16 6 12 2 8 6"></polyline>
+              <line x1="12" y1="2" x2="12" y2="15"></line>
+            </svg>
+          </div>
+          <div>
+            <div style="font-weight:700; font-size:0.88rem; color:var(--text);">1. Toca el botón Compartir</div>
+            <div style="font-size:0.8rem; color:var(--text-muted); margin-top:2px;" id="iosStep1Desc">En tu iPad, está en la <strong>barra superior de Safari</strong> (junto a la dirección). En iPhone, está en la <strong>barra inferior</strong>.</div>
+          </div>
+        </div>
+
+        <div style="display:flex; align-items:flex-start; gap:12px; background:var(--bg-subtle); padding:12px 14px; border-radius:12px; border:1px solid var(--border);">
+          <div style="background:var(--bg-elevated); color:var(--primary); width:34px; height:34px; border-radius:8px; display:flex; align-items:center; justify-content:center; flex-shrink:0; box-shadow:0 2px 6px rgba(0,0,0,0.08); font-size:16px;">
+            ➕
+          </div>
+          <div>
+            <div style="font-weight:700; font-size:0.88rem; color:var(--text);">2. Selecciona "Agregar a pantalla de inicio"</div>
+            <div style="font-size:0.8rem; color:var(--text-muted); margin-top:2px;">Desliza hacia abajo en el menú de opciones hasta encontrar "Agregar a Inicio" (Add to Home Screen).</div>
+          </div>
+        </div>
+
+        <div style="display:flex; align-items:flex-start; gap:12px; background:var(--bg-subtle); padding:12px 14px; border-radius:12px; border:1px solid var(--border);">
+          <div style="background:var(--bg-elevated); color:var(--primary); width:34px; height:34px; border-radius:8px; display:flex; align-items:center; justify-content:center; flex-shrink:0; box-shadow:0 2px 6px rgba(0,0,0,0.08); font-weight:800; font-size:0.9rem;">
+            ✓
+          </div>
+          <div>
+            <div style="font-weight:700; font-size:0.88rem; color:var(--text);">3. Toca "Agregar" arriba a la derecha</div>
+            <div style="font-size:0.8rem; color:var(--text-muted); margin-top:2px;">¡Listo! Se creará el ícono en tu pantalla de inicio para acceder en pantalla completa y offline.</div>
+          </div>
+        </div>
+      </div>
+
+      <button type="button" class="btn-shopping-share btn-wa" onclick="closeIosInstallModal()" style="width:100%; justify-content:center; padding:12px; font-size:0.95rem; background:var(--primary); color:white; border-radius:12px; font-weight:700;">
+        ¡Entendido!
+      </button>
+    </div>
+  </div>
+
   <!-- Banner de Instalación Móvil PWA -->
   <div id="pwaMobileBanner" class="pwa-mobile-banner" style="display:none;">
     <div style="display:flex; align-items:center; gap:12px;">
@@ -4111,6 +4171,7 @@
 
     init();
     initGoogleTranslate();
+    setupPwaInstallUI();
 
     // Sincronización automática de idioma garantizando prioridad al enlace (?lang=pt o ?lang=en)
     const effectiveLang = currentLang;
