@@ -43655,5 +43655,114 @@
         ]
       }
     ]
+  },
+  {
+    "id": 557,
+    "title": "Agnolotti del Plin al Tovagliolo (Italia)",
+    "country": "Italia",
+    "category": "Pastas",
+    "prep_time": "60 min",
+    "cook_time": "120 min",
+    "servings": 6,
+    "calories": "540 kcal",
+    "image": "https://lh3.googleusercontent.com/-CkDo01s5yN8/avKawVci_aI/AAAAAAAP8Fk/2WN2p6Rr6sYOEFk1j2qIvfk_XJi0tZLjgCNcBGAsYHQ/s1600/agnolotti_del_plin_tovagliolo.jpg",
+    "tags": [
+      "agnolotti",
+      "plin",
+      "al tovagliolo",
+      "lidia alciati",
+      "ugo alciati",
+      "guido ristorante",
+      "fontanafredda",
+      "piamonte",
+      "langhe",
+      "pasta rellena",
+      "barolo",
+      "costigliole",
+      "michelin",
+      "serralunga d'alba",
+      "tradicion italiana",
+      "i tre arrosti"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Para el Braseado del Relleno (I Tre Arrosti de Lidia Alciati)",
+        "items": [
+          "300 g de carne vacuna magra (culata o aguja de ternera)",
+          "300 g de carne de cerdo (paleta o bondiola)",
+          "300 g de carne de conejo o pollo de granja troceado",
+          "1 cebolla dorada mediana picada fina",
+          "1 zanahoria y 1 rama de apio picados finos",
+          "1 copa de vino tinto seco o blanco seco de las Langhe",
+          "1 cucharada de manteca y 2 cucharadas de aceite de oliva virgen extra",
+          "1 hoja de laurel, 1 diente de ajo y 1 ramita de romero",
+          "Sal marina fina y pimienta negra molida"
+        ]
+      },
+      {
+        "name": "Para la Farsa (Ripieno Tradicional)",
+        "items": [
+          "Las tres carnes braseadas, frías y deshuesadas",
+          "150 g de escarola (o repollo Savoy/espinaca) estofada en el fondo de las carnes y muy escurrida",
+          "2 huevos frescos enteros",
+          "70 g de queso Parmigiano Reggiano rallado fino",
+          "1 pizca generosa de nuez moscada recién rallada",
+          "2 a 3 cucharadas de los jugos colados del braseado",
+          "Sal y pimienta al gusto"
+        ]
+      },
+      {
+        "name": "Para la Masa Fina al Huevo (Sfoglia)",
+        "items": [
+          "400 g de harina de trigo 00 común",
+          "4 huevos enteros frescos (o 3 enteros + 3 yemas para máxima elasticidad)",
+          "1 cucharadita de aceite de oliva",
+          "Pizca de sal marina fina"
+        ]
+      },
+      {
+        "name": "Para el Servicio Tradicional en Mesa",
+        "items": [
+          "1 servilleta de lino blanco limpia y precalentada",
+          "Copas de vino tinto Barolo, Barbera d'Alba o Dolcetto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. El Braseado Campesino y Enfriado",
+        "steps": [
+          "En una cazuela amplia de fondo grueso, dorar en la manteca y aceite las tres carnes (ternera, cerdo y conejo) a fuego vivo hasta lograr un sellado profundo y parejo.",
+          "Añadir la cebolla, zanahoria y apio picados; rehogar 5 minutos. Bañar con el vino y raspar el fondo para levantar los sabores caramelizados. Sumar el laurel, ajo, romero, sal y pimienta.",
+          "Tapar y cocinar a fuego muy suave (o al horno a 160 °C) durante 2 horas hasta que la carne esté sumamente tierna y se desmenuce. Dejar enfriar por completo en heladera para asentar los jugos y grasas."
+        ]
+      },
+      {
+        "name": "2. Molienda Fina y Emulsión del Relleno",
+        "steps": [
+          "Deshuesar las carnes y picarlas finamente junto con la escarola bien estrujada con las manos (sin nada de agua residual).",
+          "En un bol amplio, mezclar las carnes picadas con los huevos, el Parmigiano Reggiano, nuez moscada, sal, pimienta y 2 o 3 cucharadas del jugo colado del asado. Amasar con energía con cuchara de madera o pala de batidora hasta obtener un relleno homogéneo, suave y untuoso. Colocar en manga pastelera y refrigerar."
+        ]
+      },
+      {
+        "name": "3. Estirado Extra Fino y el Cierre 'Plin'",
+        "steps": [
+          "Amasar la harina con los huevos hasta lograr un bollo liso y elástico; reposar tapado 30 minutos. Estirar la masa en máquina hasta el grosor más fino posible (punto velo, casi transparente).",
+          "Con la manga, colocar pequeños montículos de relleno del tamaño de una avellana alineados horizontalmente, separados por 1,5 cm de distancia.",
+          "Plegar la masa cubriendo la línea de relleno. Ajustar con las yemas de los dedos índices contra la base para sellar y expulsar el aire. Con los dedos pulgar e índice, aplicar el pellizco seco y decidido (il plin) entre cada montículo. Cortar con rueda dentada al ras del borde y luego separar cada pieza con un corte limpio transversal."
+        ]
+      },
+      {
+        "name": "4. Cocción al Dente y Servicio en Servilleta (Al Tovagliolo)",
+        "steps": [
+          "Hervir los agnolotti en abundante agua con sal durante apenas 2 a 3 minutos; flotarán enseguida al ser masa tan fina y fresca.",
+          "Retirar con una espumadera escurriendo rigurosamente cada gota de agua de cocción.",
+          "Disponerlos de inmediato sobre un plato donde previamente se colocó una servilleta de lino blanco caliente y doblada en forma de nido, cerrando los extremos suavemente durante 30 segundos para que el vapor termine de secar la superficie de la pasta.",
+          "Servir al centro de la mesa sin ningún condimento adicional: cada comensal toma los agnolotti calientes con los dedos, llevándoselos a la boca de un solo bocado junto a una copa de buen vino de las Langhe."
+        ]
+      }
+    ],
+    "story": "Si los Agnolotti del Plin son el alma culinaria de las colinas de Langhe y Monferrato, la forma más pura, radical y emocionante de disfrutarlos es 'al tovagliolo' (en servilleta). Creado por las familias campesinas y elevado al rango de obra maestra mundial por Lidia Alciati —la mítica cocinera del Ristorante Guido da Costigliole, bautizada por la crítica como 'la reina de los agnolotti'—, este servicio prescinde deliberadamente de manteca, salsas o quesos. Los diminutos agnolotti recién hervidos se disponen dentro de una servilleta de lino blanco doblada y se comen directamente con los dedos, calientes y secos. De esta manera, el paladar percibe sin disfraces la finura extrema de la masa al huevo y la explosión sabrosa del relleno de carnes asadas y escarola. En la tradición de los viñateros de Barolo y Serralunga d'Alba, solía alternarse cada bocado sumergiendo los plin en una copa de vino tinto joven (como Dolcetto o Barbera), una costumbre conocida como 'far la bagnà'.",
+    "notes": "1. La liturgia del 'Tovagliolo':\nComer los agnolotti con los dedos sobre tela de lino no es una excentricidad moderna, sino la forma más antigua de catar la pasta en el Piamonte. Al no haber salsa que enmascare el plato, cualquier imperfección en la masa o en el relleno salta a la luz. Es la prueba de fuego de la alta artesanía de Lidia Alciati.\n\n2. Dimensión y grosor de la masa:\nA diferencia de los ravioles tradicionales, el agnolotto del plin debe ser minúsculo (del tamaño de un bombón pequeño). La masa debe estirarse tan fina que permita ver el tono oscuro del relleno a través de ella.\n\n3. El maridaje 'Far la bagnà':\nEn la mesa tradicional campesina de Serralunga d'Alba y Barolo, los comensales solían volcar algunos agnolotti cocidos directamente dentro de un vaso con vino tinto de la zona (Dolcetto o Barbera), una práctica rústica de enorme valor histórico."
   }
 ]
