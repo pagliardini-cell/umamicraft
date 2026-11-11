@@ -43938,5 +43938,96 @@
     ],
     "story": "Para quienes vivimos o pasamos largas temporadas fuera de Argentina —especialmente en países como Brasil, donde predominan quesos más firmes y secos como la mussarela o el queijo prato—, conseguir el auténtico queso mantecoso de bodegón suele ser una misión imposible. El queso cremoso argentino es una joya única de pasta blanda, gran elasticidad y alta humedad, creado para fundirse de manera untuosa sin volverse aceitoso ni gomoso. Desarrollé esta adaptación artesanal utilizando leche pasteurizada estándar de supermercado y el milenario secreto quesero del 'lavado de masa': al retirar parte del suero inicial y reemplazarlo con agua tibia, se frena el desarrollo de acidez excesiva, concentrando un sabor lácteo dulce, suave y una cremosidad fundente irresistible que devuelve la gloria a cualquier pizza casera o milanesa napolitana.",
     "notes": "Secretos de mi quesería casera para lograr un Mantecoso perfecto en cualquier lugar del mundo:\n\n1. Regla de oro con la leche en Brasil:\nUtilizar siempre 'Leite Pasteurizado Integral tipo A o B' (el que se vende refrigerado en sachet o botella plástica). Jamás usar leche de caja UHT (Longa Vida), ya que su temperatura industrial destruye las proteínas e impide que el cuajo solidifique.\n\n2. El rol irremplazable del Cloruro de Calcio:\nLa pasteurización comercial desestabiliza los iones de calcio libre de la leche. Agregar 2,5 ml de Cloruro de Calcio al 40% (se consigue fácilmente en farmacias de manipulação o Mercado Livre Brasil como 'Cloreto de Cálcio') es lo que garantiza una cuajada firme, entera y fácil de cortar.\n\n3. El cultivo mesófilo fácil:\nSi no tenés fermento liofilizado de quesería, un pote de yogur natural entero sin azúcar funciona de maravillas: aporta las bacterias lácticas exactas para desarrollar el aroma mantecoso sin acidificar la masa.\n\n4. Por qué el prensado debe ser muy liviano:\nEl queso mantecoso es un queso de alta humedad (más del 50%). Si le ponés mucho peso encima, expulsarás todo el suero y obtendrás un queso semiduro tipo barra o tybo. Un peso de apenas 1 a 1,5 kg es suficiente para unir los granos y darle forma lisa."
+  },
+  {
+    "id": 560,
+    "title": "Truffaux - Falsas Trufas Negras con Champiñones (Estados Unidos)",
+    "country": "Estados Unidos",
+    "category": "Cocina Moderna / Técnicas",
+    "prep_time": "40 min",
+    "cook_time": "8 h",
+    "servings": "4 a 6 piezas (250 g de trufa laminable)",
+    "calories": "45 kcal",
+    "image": "https://lh3.googleusercontent.com/-Y2BGI5dGtkw/avSKmd0dxWI/AAAAAAAP8LM/CWJLKwza5vMkJwWMdzQOYtu0K1eqW_yewCNcBGAsYHQ/s1600/truffaux_trufas_champinones.jpg",
+    "tags": [
+      "truffaux",
+      "falsas trufas",
+      "trufas negras",
+      "champiñones",
+      "gastronomia molecular",
+      "chefsteps",
+      "cocina modernista",
+      "umami",
+      "trompetas de la muerte",
+      "carbon activado",
+      "hidrocoloides",
+      "pasta con trufa",
+      "make it rain",
+      "sin tacc"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Base Celular y Umami Tostado",
+        "items": [
+          "1.000 g de champiñones de París frescos (Agaricus bisporus), limpios y laminados fino a 3 mm",
+          "30 g de polvo fino de hongos deshidratados nobles (trompetas de la muerte o porcini seco micronizado)",
+          "15 g de salsa de soja oscura o pasta Tamari pura (para glutamato natural y tono profundo)",
+          "8 g de sal fina pura de cocina"
+        ]
+      },
+      {
+        "name": "Matriz Hidrocoloide y Aglutinante",
+        "items": [
+          "12 g de gelatina neutra en polvo pura (200 Bloom) hidratada en 30 ml de agua tibia",
+          "8 g de metilcelulosa F50 o almidón modificado de mandioca (para ligazón termo-mecánica en mandolina)"
+        ]
+      },
+      {
+        "name": "Aroma Volátil y Corteza (Peridio)",
+        "items": [
+          "25 g de aceite de trufa negra de primera prensada o extracto oleoso culinario de trufa",
+          "5 g de carbón vegetal activado comestible en polvo (para el negro azabache de la corteza exterior)",
+          "5 g adicionales de polvo de trompetas de la muerte para mezclar con el carbón en el rebozado"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "1. Asado y Evaporación de Humedad (Concentración Maillard)",
+        "steps": [
+          "Disponer los champiñones laminados sobre placas con papel antiadherente sin encimar. Llevar a horno a 175 °C – 180 °C durante 45 a 50 minutos hasta evaporar entre el 65% y el 70% de su peso en agua libre, logrando un tostado dorado oscuro y perfume a sotobosque."
+        ]
+      },
+      {
+        "name": "2. Micronizado y Emulsión de Hidrocoloides",
+        "steps": [
+          "Traspasar los champiñones deshidratados y tibios al vaso de la procesadora. Incorporar el polvo de trompetas de la muerte, la salsa de soja, la sal, la gelatina y metilcelulosa hidratadas, y el aceite de trufa negra.",
+          "Procesar a máxima velocidad durante 3 a 4 minutos continuos raspando los laterales, hasta obtener una masa densa, brillante, untuosa y maleable sin trozos perceptibles."
+        ]
+      },
+      {
+        "name": "3. Modelado Anatómico del Peridio",
+        "steps": [
+          "Dividir la masa en porciones de 45 a 55 gramos. Envolver cada porción en papel film y presionar con las yemas de los dedos dándole forma de bulbo asimétrico e irregular con ondulaciones naturales.",
+          "Mezclar en un cuenco el carbón vegetal comestible y el polvo de trompetas de la muerte. Retirar el film y rodar cada trufa presionando suavemente para incrustar la corteza negra rugosa (peridio piramidal)."
+        ]
+      },
+      {
+        "name": "4. Deshidratado Controlado y Maduración en Frío",
+        "steps": [
+          "Disponer las trufas en un deshidratador de alimentos (o en rejilla de horno eléctrico a 50 °C con ventilador y puerta apenas entreabierta) durante 6 a 8 horas, hasta que la corteza quede coriácea y firme pero el interior conserve consistencia densa y compacta.",
+          "Transferir a la heladera sobre papel absorbente y dejar reposar destapadas durante 12 a 24 horas en frío seco. Este reposo asienta la red elástica de la gelatina y permite que la trufa pueda laminarse finamente sin desgranarse."
+        ]
+      },
+      {
+        "name": "5. Laminado en la Mesa (Make It Rain)",
+        "steps": [
+          "Calibrar una mandolina tradicional de trufa al corte más fino posible (0,3 a 0,5 mm).",
+          "Laminar directamente en la mesa sobre platos bien calientes (fettuccine o tagliolini al dente con manteca de campo emulsionada, risotto o huevos poché): el calor del plato volatiliza al instante los compuestos aromáticos disueltos en la grasa, liberando una nube perfumada mientras las virutas marmoladas caen como nieve."
+        ]
+      }
+    ],
+    "story": "Siempre me apasionó la investigación de las técnicas culinarias modernas y cómo la ciencia puede transformar ingredientes cotidianos en experiencias sensoriales extraordinarias. La trufa negra fresca de invierno es un lujo prohibitivo, y durante años la industria intentó emularla con aceites aromatizados con 2,4-ditiapentano que, si bien aportan perfume, carecen de materia física: no se pueden rallar, no tienen textura y anulan por completo el ritual del laminado en la mesa frente a los invitados. Siguiendo la premisa vanguardista de ChefSteps (Seattle, EE.UU.), desarrollé y perfeccioné en mi cocina esta fórmula de Truffaux: convertimos humildes champiñones de París en réplicas perfectas de trufas negras. Al deshidratar el hongo por asado para concentrar su propio umami, ligar su masa con una red elástica de hidrocoloides y recrear el peridio rugoso con carbón vegetal y trompetas de la muerte, logramos una pieza que al pasar por la mandolina produce virutas onduladas, marmoladas y translúcidas, logrando en la mesa el mismo impacto visual, textura y magia aromática de una auténtica trufa de invierno.",
+    "notes": "Secretos de mi cocina modernista para lograr unas Truffaux impecables:\n\n1. La regla del 65% de evaporación:\nLos champiñones crudos son más de un 90% agua. Si intentás procesarlos sin tostarlos a fondo, obtendrás una sopa que jamás compactará. Pesá los hongos antes y después del horno: de 1 kg deben quedarte entre 300 y 350 g de pulpa intensamente concentrada.\n\n2. El equilibrio aromático:\nEl mayor error con el aceite de trufa comercial es pasarse de rosca. Si te excedés, huele a gas o hidrocarburo. La presencia del polvo de trompetas de la muerte o porcini es obligatoria porque aporta las notas orgánicas de tierra mojada, musgo y madera que el compuesto sintético no posee.\n\n3. El frío seco antes de usar la mandolina:\nJamás intentes laminar la trufa tibia o recién salida del deshidratador. El reposo de 24 horas en frío seco de heladera es el paso que contrae la gelatina y le otorga esa firmeza elástica que resiste el filo de la cuchilla sin desarmarse ni atascarse."
   }
 ]
