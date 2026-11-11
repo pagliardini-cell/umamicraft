@@ -2962,10 +2962,15 @@
       let globalStepIdx = 0;
       stepContainer.innerHTML = sGroups.map(sg => {
         const sgName = (sg.name || sg.group_name || '').trim();
+        const sgImg = sg.image ? `
+          <div class="step-group-img" style="margin: 14px 0 16px 0; text-align: center;">
+            <img src="${sg.image}" alt="${sgName || 'Paso'}" style="width:100%; max-width:680px; height:auto; border-radius:10px; box-shadow:0 4px 14px rgba(0,0,0,0.09); display:block; margin:0 auto;" loading="lazy" />
+          </div>` : '';
         return `
         ${(sgName && sgName.toLowerCase() !== 'preparación')
           ? `<div class="group-subtitle">${sgName}</div>`
           : ''}
+        ${sgImg}
         <div class="steps-list">
           ${(sg.steps || sg.items || []).map((st) => {
             const sIdx = globalStepIdx++;
@@ -3788,7 +3793,7 @@
         const sGroups = Array.isArray(recipeObj.step_groups) && recipeObj.step_groups.length
           ? recipeObj.step_groups
           : [{ name: 'Preparación', steps: [] }];
-        sGroups.forEach(sg => addStepGroupField(sg.name, (sg.steps || []).join('\n')));
+        sGroups.forEach(sg => addStepGroupField(sg.name, (sg.steps || []).join('\n'), sg.image || ''));
       } else {
         const nextId = recipes.length ? Math.max(...recipes.map(r => r.id)) + 1 : 257;
         document.getElementById('editorModalHeading').textContent = `Alta de Nueva Receta (#${nextId})`;
@@ -3821,7 +3826,7 @@
       container.appendChild(div);
     }
 
-    function addStepGroupField(name = 'Preparación', stepsText = '') {
+    function addStepGroupField(name = 'Preparación', stepsText = '', image = '') {
       const container = document.getElementById('editorStepGroupsContainer');
       const div = document.createElement('div');
       div.className = 'editor-subblock step-group-block';
@@ -3829,6 +3834,9 @@
         <div class="editor-subblock-header">
           <input type="text" class="form-input step-group-name" value="${name}" placeholder="Nombre de la etapa (ej. Para la masa, Armado y cocción)">
           <button type="button" class="btn-nav" onclick="this.closest('.editor-subblock').remove()">🗑️</button>
+        </div>
+        <div style="margin-bottom:8px;">
+          <input type="text" class="form-input step-group-image" value="${image || ''}" placeholder="📸 URL de foto opcional para este paso (https://...)">
         </div>
         <textarea class="form-textarea step-group-items" rows="4" placeholder="Escribe un paso por línea...">${stepsText}</textarea>
       `;
@@ -3852,10 +3860,15 @@
       })).filter(g => g.items.length > 0);
 
       const stepBlocks = [...document.querySelectorAll('.step-group-block')];
-      const step_groups = stepBlocks.map(b => ({
-        name: b.querySelector('.step-group-name').value.trim() || 'Preparación',
-        steps: b.querySelector('.step-group-items').value.split('\n').map(s => s.trim()).filter(Boolean)
-      })).filter(g => g.steps.length > 0);
+      const step_groups = stepBlocks.map(b => {
+        const name = b.querySelector('.step-group-name').value.trim() || 'Preparación';
+        const imgInput = b.querySelector('.step-group-image');
+        const image = imgInput ? imgInput.value.trim() : '';
+        const steps = b.querySelector('.step-group-items').value.split('\n').map(s => s.trim()).filter(Boolean);
+        const obj = { name, steps };
+        if (image) obj.image = image;
+        return obj;
+      }).filter(g => g.steps.length > 0);
 
       const diets = document.getElementById('editDiets').value
         .split(',')
