@@ -23176,7 +23176,7 @@
     "image": "https://lh3.googleusercontent.com/-QzNXwvnipkY/avFFZ0VveJI/AAAAAAAP71U/WNPkEkzREzYrJVd7u_SpoZtbd89FvgVQgCNcBGAsYHQ/s1600/carbonada_criolla_zapallo.jpg",
     "url": "r/324-carbonada-criolla-en-zapallo-argentina.html",
     "published": "2026-10-29T02:25:00-03:00",
-    "story": "La carbonada criolla es uno de los platos más refinados y singulares de la cocina tradicional del campo argentino, famosa por su armoniosa combinación agridulce de carne tierna con choclo fresco y frutas deshidratadas o en almíbar (duraznos y orejones). Su origen se remonta a los fogones coloniales y su nombre alude al carbón de leña donde se cocinaba lentamente hasta que los bordes de la olla parecían 'carbonizados'. Servida dentro de una calabaza o zapallo cabutiá entero horneado con manteca y azúcar rubia, cada comensal raspa con la cuchara la pulpa dulce y cremosa de las paredes integrándola al guiso caliente.",
+    "story": "Este es el guiso preferido de mi mamá Lidia, bien argentino. En casa siempre lo preparamos al modo tradicional criollo, horneando un zapallo cabutiá entero con una pizca de azúcar y manteca por dentro antes de ir al horno, y cocinando la carne con orejones de durazno dentro del guiso para lograr ese contraste agridulce tan característico. Al servir en la mesa, cada comensal raspa con la cuchara la pulpa dulce de las paredes del zapallo integrándola al guiso caliente.",
     "ingredient_groups": [
       {
         "name": "Zapallo Cuenco de Presentación",
@@ -23236,10 +23236,11 @@
       }
     ],
     "chef_tips": [
+      "El secreto de mi mamá Lidia: ponerle muy poquita azúcar y manteca dentro del zapallo antes de llevarlo al horno, y sumar orejones de durazno al guiso para el toque dulce justo.",
       "El zapallo cabutiá: Tiene una cáscara verde oscura muy firme y una pulpa anaranjada densa y dulce que resiste perfectamente el horno sin desmoronarse.",
       "Los duraznos: El toque frutal no debe abrumar; equilibra de forma magistral la salinidad de la carne y el comino."
     ],
-    "notes": "Un plato insignia de la cocina de campo argentina, perfecto para los primeros fríos del otoño."
+    "notes": "El guiso preferido de mi mamá Lidia: zapallo con azúcar antes del horno y orejones de durazno en el estofado."
   },
   {
     "id": 325,
@@ -44936,5 +44937,407 @@
     "notes": "• **Whisky recomendado:** Usar auténtico whisky irlandés (triple destilado como Jameson o Bushmills), ya que es infinitamente más suave, floral y menos ahumado que el scotch o el bourbon americano, amoldándose a la crema sin aspereza.\n• **Conservación:** Al contener un ~17% de volumen alcohólico y azúcar de la leche condensada, se conserva en óptimas condiciones en la heladera durante 4 a 6 semanas. Agitar suavemente la botella antes de servir.\n• **Servicio perfecto:** Servir en un vaso bajo tipo 'on the rocks' con cubos de hielo macizo, o agregar una medida a una taza de café espresso caliente terminado con crema batida.",
     "image": "https://lh3.googleusercontent.com/-ya-YcxUIPuM/avYbDPDEGUI/AAAAAAAP8P8/8jdIvwEqXEcDXZypS0WYiNgahz9n1-WaQCNcBGAsYHQ/s1600/licor_crema_irlandesa_baileys.jpg",
     "published": "2026-11-12T17:00:00Z"
+  },
+  {
+    "id": 573,
+    "title": "Licor Casero de Huevo (Argentina)",
+    "category": "Cocktails & Bebidas",
+    "country": "Argentina",
+    "difficulty": "Fácil",
+    "prep_time": "20 min",
+    "cook_time": "5 min",
+    "rest_time": "3 días",
+    "servings": "1 botella (1 Litro)",
+    "calories": "190 kcal por copita (50 ml)",
+    "diet_badges": [
+      "Vegetariano",
+      "Sin Gluten"
+    ],
+    "tags": [
+      "Licor de huevo",
+      "Recetas de la abuela",
+      "Ernestina",
+      "Vov",
+      "Licor casero",
+      "Bebidas digestivas",
+      "Tragos de sobremesa"
+    ],
+    "story": "Esta es la receta que hacía mi abuela Ernestina en casa, inspirada en la tradición del vov italiano. El secreto está en batir con paciencia las yemas con el azúcar hasta que queden espumosas y blanquecinas, e incorporar la leche hervida con vainilla cuando esté completamente fría para no cuajar los huevos. El toque de alcohol fino combinado con vino Marsala le da esa textura aterciopelada y densa ideal para tomar bien frío en copitas chicas.",
+    "ingredients": [
+      {
+        "section": "Infusión Láctea y Aromática",
+        "items": [
+          "500 ml de leche entera fresca",
+          "1 cucharada de extracto puro de vainilla (o 1 chaucha abierta)",
+          "1 tira fina de piel de limón (solo la parte amarilla, sin nada blanco)"
+        ]
+      },
+      {
+        "section": "Batido de Yemas",
+        "items": [
+          "6 yemas de huevo frescas de campo",
+          "350 g de azúcar común"
+        ]
+      },
+      {
+        "section": "Cuerpo Alcohólico",
+        "items": [
+          "100 ml de alcohol fino de cereales (o alcohol etílico apto consumo al 96°)",
+          "100 ml de vino Marsala dulce (o vino Oporto / Coñac de buena calidad)"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "section": "Hervido e Infusión de la Leche",
+        "items": [
+          "En una cacerola pequeña, colocar la leche entera junto con el extracto de vainilla y la piel de limón. Llevar a fuego medio hasta que rompa el primer hervor.",
+          "Retirar inmediatamente del fuego y dejar enfriar por completo a temperatura ambiente. Es crucial que la leche esté fría al momento de unirla con las yemas para evitar que se cocinen."
+        ]
+      },
+      {
+        "section": "Batido de las Yemas a Punto Letra",
+        "items": [
+          "En un bol amplio y limpio, colocar las 6 yemas con los 350 g de azúcar.",
+          "Batir enérgicamente con batidor de alambre o batidora eléctrica durante 5 a 6 minutos hasta lograr una crema bien pálida, espesa y que haya duplicado su volumen."
+        ]
+      },
+      {
+        "section": "Unión y Filtrado de Precisión",
+        "items": [
+          "Retirar la piel de limón de la leche fría. Verter la leche en forma de hilo continuo sobre las yemas batidas, batiendo suavemente para lograr una emulsión homogénea.",
+          "Incorporar despacio el alcohol fino de cereales y el vino Marsala, continuando el batido suave hasta que todo quede perfectamente integrado.",
+          "Pasar toda la preparación por un colador de malla muy fina (o lienzo de tela) para retirar cualquier filamento de huevo y asegurar una textura de seda."
+        ]
+      },
+      {
+        "section": "Embotellado y Reposo",
+        "items": [
+          "Verter el licor en una botella de vidrio previamente esterilizada con tapón hermético. Tapar bien.",
+          "Llevar a la heladera y dejar reposar entre 3 y 5 días antes de consumir para que los alcoholes se asienten y la crema tome su densidad justa. Agitar la botella antes de servir en copitas pequeñas bien frías."
+        ]
+      }
+    ],
+    "notes": "• **Conservación:** Al contener alcohol y azúcar, se conserva perfectamente en la heladera durante 1 a 2 meses.\n• **Vino Marsala u Oporto:** Si no disponés de vino Marsala, podés sustituirlo por Oporto dulce o un buen Coñac, que le aportará notas amaderadas muy elegantes.",
+    "image": "https://lh3.googleusercontent.com/-6XY4-79xw0M/avYsAgYaQHI/AAAAAAAP8QI/nWO3eLEjlfEOTtpUrJhOiosLT-_nwj29ACNcBGAsYHQ/s1600/licor_huevo_abuela_ernestina.jpg",
+    "published": "2026-11-12T18:15:00Z"
+  },
+  {
+    "id": 574,
+    "title": "Tarta de Pollo Salteado (Argentina)",
+    "category": "Tartas y Empanadas",
+    "country": "Argentina",
+    "difficulty": "Fácil",
+    "prep_time": "25 min",
+    "cook_time": "35 min",
+    "rest_time": "10 min",
+    "servings": "8 porciones",
+    "calories": "320 kcal por porción",
+    "diet_badges": [
+      "Alto en Proteínas"
+    ],
+    "tags": [
+      "Tarta de pollo",
+      "Recetas de mamá",
+      "Lidia Pettis",
+      "Pollo salteado",
+      "Tarta casera",
+      "Cocina de casa",
+      "Almuerzos familiares"
+    ],
+    "story": "En mi casa esta es la tarta clásica de pollo que hace mi mamá Lidia. El gran secreto es que el pollo no va hervido —porque queda lavado y sin gracia—, sino salteado y bien dorado en cubitos a fuego fuerte en sartén. Lleva abundante cebolla caramelizada, morrón rojo, un toque justo de tomate para aportar humedad sin mojar la masa y trocitos de huevo duro al final.",
+    "ingredients": [
+      {
+        "section": "Masa de Tarta",
+        "items": [
+          "2 discos de masa para tarta hojaldrada o criolla (molde de 26 cm)",
+          "1 huevo batido (para pincelar la superficie)"
+        ]
+      },
+      {
+        "section": "Relleno Suculento de Pollo Salteado",
+        "items": [
+          "600 g de pechuga o pata muslo deshuesada, cortada en cubitos de 1,5 cm",
+          "3 cebollas grandes picadas en brunoise fino",
+          "1 morrón rojo cortado en tiritas cortas",
+          "1 tomate maduro perita pelado y picado (apenas para dar humedad)",
+          "3 huevos duros picados",
+          "2 cucharadas de aceite de oliva o maíz",
+          "1 cucharadita colmada de pimentón dulce",
+          "1/2 cucharadita de orégano seco",
+          "Sal marina y pimienta negra molida al gusto"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "section": "Salteado Dorado del Pollo",
+        "items": [
+          "Calentar una sartén amplia con una cucharada de aceite a fuego vivo. Agregar los cubitos de pollo crudo en una sola capa sin amontonar.",
+          "Dorar durante 4 a 5 minutos hasta que los bordes adquieran un color tostado parejo y sellen sus jugos. Retirar de la sartén y reservar en un plato."
+        ]
+      },
+      {
+        "section": "Sofrito Dulce de Cebolla y Morrón",
+        "items": [
+          "En la misma sartén con el fondo de cocción del pollo, agregar otra cucharada de aceite y sumar las cebollas picadas y el morrón rojo con una pizca de sal.",
+          "Cocinar a fuego medio-bajo durante 12 a 15 minutos, revolviendo de vez en cuando, hasta que la cebolla esté tierna, transparente y naturalmente dulce.",
+          "Agregar el tomate perita picado, el pimentón dulce y el orégano. Cocinar 3 minutos más y reintegrar el pollo dorado con sus jugos. Apagar el fuego y dejar entibiar."
+        ]
+      },
+      {
+        "section": "Armado y Horneado",
+        "items": [
+          "Una vez tibio el relleno, incorporar los 3 huevos duros picados con movimientos suaves para no deshacerlos.",
+          "Forrar una tartera aceitada con el disco de masa base. Volcar el relleno distribuyendo de forma pareja.",
+          "Cubrir con el segundo disco de masa, sellar los bordes con un repulgue prolijo, pinchar el centro con un tenedor para que escape el vapor y pincelar con huevo batido.",
+          "Hornear a 190 °C durante 30 a 35 minutos hasta que la masa esté crujiente, inflada y de un dorado brillante. Dejar asentar 10 minutos antes de cortar."
+        ]
+      }
+    ],
+    "notes": "• **Por qué nunca pollo hervido:** Hervir el pollo le quita los jugos a la carne y los pasa al agua. Al saltearlo crudo a fuego fuerte se caramelizan los azúcares y aminoácidos (reacción de Maillard), logrando un sabor concentrado y una textura mucho más tierna.",
+    "image": "https://lh3.googleusercontent.com/-OKwSJnkrBlI/avYsB-Ad-RI/AAAAAAAP8QQ/SiyI9IIfPcAALjCQM0bhdPWkool4mL_BgCNcBGAsYHQ/s1600/tarta_pollo_salteado_mama.jpg",
+    "published": "2026-11-12T18:15:00Z"
+  },
+  {
+    "id": 575,
+    "title": "Tarta de Cebolla, Puerro y Verdeo (Argentina)",
+    "category": "Tartas y Empanadas",
+    "country": "Argentina",
+    "difficulty": "Fácil",
+    "prep_time": "20 min",
+    "cook_time": "35 min",
+    "rest_time": "10 min",
+    "servings": "8 porciones",
+    "calories": "290 kcal por porción",
+    "diet_badges": [
+      "Vegetariano"
+    ],
+    "tags": [
+      "Tarta de cebolla",
+      "Puerro y verdeo",
+      "Tarta casera",
+      "Recetas de mamá",
+      "Cena fácil",
+      "Cocina vegetariana",
+      "Tartas argentinas"
+    ],
+    "story": "Esta tarta de tres cebollas es otra de las preferidas de mi casa que hace mi mamá Lidia. El secreto es pochar despacio la cebolla común con los puerros para que queden dulces, sumar el verdeo sobre el final para que conserve frescura y ligar todo con crema de leche fresca, huevos y queso rallado de pasta dura. Queda con una costra gratinada irresistible y un corazón cremoso.",
+    "ingredients": [
+      {
+        "section": "Masa de Tarta",
+        "items": [
+          "1 disco de masa para tarta criolla o quebrada (molde de 26 cm)"
+        ]
+      },
+      {
+        "section": "El Trío de Cebollas",
+        "items": [
+          "3 cebollas medianas cortadas en pluma fina",
+          "2 tallos de puerro grandes (parte blanca y verde tierna), lavados y en rodajas finas",
+          "3 cebollas de verdeo cortadas en rodajitas finas",
+          "2 cucharadas de aceite de oliva o manteca"
+        ]
+      },
+      {
+        "section": "Ligue Cremoso y Quesos",
+        "items": [
+          "3 huevos enteros frescos",
+          "150 ml de crema de leche fresca (nata)",
+          "100 g de queso rallado de pasta dura (sardo, reggianito o parmesano)",
+          "100 g de queso cremoso o cuartirolo en cubitos",
+          "1 pizca de nuez moscada recién rallada",
+          "Sal marina y pimienta negra al gusto"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "section": "Pochado de las Cebollas y Puerros",
+        "items": [
+          "En una sartén grande a fuego medio, calentar el aceite de oliva o la manteca. Añadir la cebolla en pluma y los puerros con una pizca de sal.",
+          "Cocinar a fuego lento durante 12 a 15 minutos hasta que los vegetales estén completamente tiernos, transparentes y dulces, sin llegar a quemarse.",
+          "Sumar la cebolla de verdeo en los últimos 2 minutos de cocción. Retirar del fuego y dejar entibiar."
+        ]
+      },
+      {
+        "section": "Preparación del Ligue de Crema",
+        "items": [
+          "En un bol, batir los 3 huevos con la crema de leche, la nuez moscada, sal, pimienta negra molida y la mitad del queso rallado (50 g).",
+          "Incorporar los vegetales salteados entibiados y los cubitos de queso cremoso. Mezclar suavemente para que todo quede envuelto en la crema."
+        ]
+      },
+      {
+        "section": "Armado y Gratinado al Horno",
+        "items": [
+          "Forrar una tartera con el disco de masa, ajustando bien los bordes.",
+          "Verter el relleno dentro de la masa y espolvorear los 50 g restantes de queso rallado por toda la superficie para asegurar un gratinado parejo.",
+          "Llevar a horno precalentado a 180 °C durante 35 minutos hasta que la masa esté crujiente y la superficie exhiba un dorado tostado y apetitoso. Servir tibia."
+        ]
+      }
+    ],
+    "notes": "• **Equilibrio de cocción:** La cebolla de verdeo se suma al final para que mantenga su aroma herbáceo vivo sin amargarse.\n• **Textura:** Al enfriar unos minutos antes de cortar, el ligue de crema y queso toma consistencia firme pero húmeda.",
+    "image": "https://lh3.googleusercontent.com/-CIFOsI2bYg4/avYsDXE3HjI/AAAAAAAP8QY/3fEhc30ZwEUqwEbWn0WHsjU8N5vfDCRfwCNcBGAsYHQ/s1600/tarta_cebolla_puerro_verdeo.jpg",
+    "published": "2026-11-12T18:15:00Z"
+  },
+  {
+    "id": 576,
+    "title": "Buñuelos de Cebolla con Claras a Nieve (Argentina)",
+    "category": "Entradas y Guarniciones",
+    "country": "Argentina",
+    "difficulty": "Fácil",
+    "prep_time": "15 min",
+    "cook_time": "10 min",
+    "rest_time": "0 min",
+    "servings": "4 porciones (16 buñuelos)",
+    "calories": "210 kcal por porción",
+    "diet_badges": [
+      "Vegetariano"
+    ],
+    "tags": [
+      "Buñuelos de cebolla",
+      "Recetas de mamá",
+      "Lidia Pettis",
+      "Frituras crocantes",
+      "Claras a nieve",
+      "Entradas argentinas",
+      "Aperitivos caseros"
+    ],
+    "story": "Estos buñuelos son una debilidad que me enseñó mi mamá Lidia. A diferencia de las masas pesadas habituales, acá la cebolla se usa cruda y cortada en medios aros bien finitos, y el gran secreto está en batir las claras a punto nieve e incorporarlas con suavidad a la mezcla. Al freírse, se inflan de inmediato formando buñuelos livianos, secos y crocantes por fuera, con la cebolla dulce y tierna por dentro.",
+    "ingredients": [
+      {
+        "section": "Vegetales Base",
+        "items": [
+          "3 cebollas medianas cortadas en medios aros muy finos (crudas)",
+          "1 cucharada colmada de perejil fresco picado"
+        ]
+      },
+      {
+        "section": "Masa Ligera y Aérea",
+        "items": [
+          "2 huevos frescos (yemas y claras separadas)",
+          "120 g de harina leudante (o harina común con 1 cdta. de polvo para hornear)",
+          "50 ml de leche o agua con gas fría",
+          "40 g de queso rallado sardo o reggianito",
+          "1 cucharadita de sal fina",
+          "1 pizca de pimienta negra molida"
+        ]
+      },
+      {
+        "section": "Fritura y Toque Final",
+        "items": [
+          "Abundante aceite de girasol para freír",
+          "Gajos de limón fresco para rociar al servir"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "section": "Preparación de la Cebolla Cruda",
+        "items": [
+          "Cortar las cebollas al medio y luego en medios aros bien finitos (tipo pluma fina).",
+          "Colocarlas en un bol con media cucharadita de sal fina y masajearlas suavemente con los dedos durante 30 segundos para ablandar ligeramente sus fibras sin que pierdan su firmeza cruda."
+        ]
+      },
+      {
+        "section": "Masa Base y Claras a Nieve",
+        "items": [
+          "En otro recipiente, batir las 2 yemas con la leche (o agua con gas), la harina leudante, el queso rallado, el perejil picado y la pimienta hasta obtener una pasta homogénea y espesa. Sumar la cebolla y mezclar.",
+          "En un bol aparte, batir las 2 claras a punto nieve firme con batidor de alambre o eléctrico.",
+          "Con una espátula de goma, incorporar las claras batidas a nieve a la mezcla de cebolla en dos veces, realizando movimientos suaves y envolventes para conservar todo el aire atrapado."
+        ]
+      },
+      {
+        "section": "Fritura Dorada y Crujiente",
+        "items": [
+          "Calentar abundante aceite en una sartén honda a 170 °C (debe haber al menos 3 cm de profundidad). Para probar la temperatura, tirar una gota de masa: debe subir a la superficie burbujeando sin quemarse.",
+          "Tomar porciones de masa con una cuchara sopera y dejarlas caer con cuidado en el aceite caliente.",
+          "Freír durante 2 a 3 minutos por lado girándolos con espumadera hasta que estén inflados, dorados y crujientes.",
+          "Retirar sobre papel absorbente y servir inmediatamente bien calientes con gotas de jugo de limón."
+        ]
+      }
+    ],
+    "notes": "• **Por qué la cebolla va cruda:** Al cortarla bien finita, la fritura rápida cocina la cebolla dejándola tierna y dulce pero con una ligera textura que contrasta perfecto con la masa aireada.\n• **El aire de las claras:** Las claras a nieve hacen que el buñuelo no absorba grasa de más y quede con textura de nube crujiente.",
+    "image": "https://lh3.googleusercontent.com/-YFYSGtM-glg/avYsEflGT6I/AAAAAAAP8Qg/ZdbqpXztW4A_d5xgqBmGQUNaW0e7fUq5QCNcBGAsYHQ/s1600/bunuelos_cebolla_claras_nieve.jpg",
+    "published": "2026-11-12T18:15:00Z"
+  },
+  {
+    "id": 577,
+    "title": "Torta Casera de Taza sin Batir (Argentina)",
+    "category": "Postres y Dulces",
+    "country": "Argentina",
+    "difficulty": "Fácil",
+    "prep_time": "10 min",
+    "cook_time": "35 min",
+    "rest_time": "15 min",
+    "servings": "10 porciones",
+    "calories": "220 kcal por porción",
+    "diet_badges": [
+      "Vegetariano"
+    ],
+    "tags": [
+      "Torta de taza",
+      "Recetas de mamá",
+      "Lidia Pettis",
+      "Torta sin batir",
+      "Bizcochuelo casero",
+      "Meriendas argentinas",
+      "Torta versátil"
+    ],
+    "story": "Esta es la torta versátil que mi mamá Lidia prepara en casa sin usar batidora ni ensuciar de más: una sola taza mide todos los ingredientes y sirve de base para cualquier merienda. Mamá le pone media taza de azúcar para que tenga el dulzor justo, combina el huevo con aceite y leche en la misma taza con ralladura de cítrico, e integra todo a mano con cuchara. De ahí sale un bizcochuelo tierno, húmedo y esponjoso que se adapta a marmolado con cacao, manzanas en manteca o jugos cítricos.",
+    "ingredients": [
+      {
+        "section": "Ingredientes Secos",
+        "items": [
+          "2 tazas de harina leudante",
+          "1/2 taza de azúcar común (la proporción justa de mamá Lidia)"
+        ]
+      },
+      {
+        "section": "Medida de Líquidos (Todo en la Misma Taza)",
+        "items": [
+          "1 huevo entero grande fresco",
+          "2 dedos de aceite vegetal neutro (girasol o maíz)",
+          "1 cucharadita de extracto de vainilla",
+          "Ralladura fina de 1 limón o 1 naranja",
+          "Leche entera a temperatura ambiente (hasta completar el borde de la taza)"
+        ]
+      },
+      {
+        "section": "Molde y Terminación",
+        "items": [
+          "1 cucharadita de manteca y un puñado de harina (para encamisar el molde)",
+          "Azúcar impalpable para espolvorear al final (opcional)"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "section": "Medición y Mezcla de Secos",
+        "items": [
+          "Precalentar el horno a 180 °C (moderado). Enmantecar y enharinar un molde redondo o tipo savarín con tubo central de 22 a 24 cm.",
+          "En un bol mediano, volcar las 2 tazas de harina leudante y la 1/2 taza de azúcar. Mezclar brevemente con una cuchara."
+        ]
+      },
+      {
+        "section": "La Taza de Líquidos de Mamá",
+        "items": [
+          "Tomar la misma taza usada para los secos. Romper dentro el huevo entero, añadir dos dedos de aceite neutro, la cucharadita de vainilla y la ralladura de cítrico.",
+          "Completar el resto de la taza con leche entera hasta llegar al borde superior."
+        ]
+      },
+      {
+        "section": "Unión sin Batidora y Horneado",
+        "items": [
+          "Verter el contenido entero de la taza de líquidos sobre los secos en el bol.",
+          "Integrar con cuchara de madera o espátula durante 30 a 45 segundos hasta que no queden rastros de harina seca y se forme una masa lisa y suave. No hace falta batir enérgicamente.",
+          "Volcar la masa en el molde preparado y llevar al horno a 180 °C durante 35 a 40 minutos, hasta que al pinchar con un palillo de madera en el centro salga limpio y seco.",
+          "Retirar, dejar entibiar 10 minutos, desmoldar sobre rejilla y espolvorear con azúcar impalpable tamizada."
+        ]
+      }
+    ],
+    "notes": "• **Variantes de mamá Lidia:**\n  - *Marmolada:* Separar un tercio de la masa, agregarle 2 cucharadas colmadas de cacao amargo y volcar alternando en el molde.\n  - *Con manzanas:* Saltear 2 manzanas en rodajas con 1 cucharada de manteca y 1 cucharada de azúcar; colocar en la base del molde antes de volcar la masa.\n  - *Cítrica 100%:* Reemplazar la leche de la taza por jugo recién exprimido de naranja o limón.",
+    "image": "https://lh3.googleusercontent.com/-ndKGWaMzgkM/avYsF2OafYI/AAAAAAAP8Qo/uWN4V2-NKzIq2BpF-SvWKlzLvS12bi7-QCNcBGAsYHQ/s1600/torta_taza_sin_batir_mama.jpg",
+    "published": "2026-11-12T18:15:00Z"
   }
 ]
