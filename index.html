@@ -3296,6 +3296,13 @@
         .replace(/</g, '&lt;')
         .replace(/>/g, '&gt;');
 
+      const renderMarkdownInline = text => {
+        if (!text) return '';
+        return text
+          .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+          .replace(/\*(.*?)\*/g, '<em>$1</em>');
+      };
+
       const lines = String(rawText).replace(/\r\n/g, '\n').split('\n');
       let html = '';
       let currentItem = null;
@@ -3318,20 +3325,31 @@
           continue;
         }
 
-        const itemMatch = line.match(/^(\d+\.|\•|\-|\*)\s*(.*?)(?::|$)(.*)$/);
-        if (itemMatch && itemMatch[2].trim() && itemMatch[2].trim().length < 80) {
+        const boldMatch = line.match(/^(\d+[\.\)]|\•|\-|\*)\s*\*\*(.*?)\*\*(?::)?\s*(.*)$/);
+        const stdMatch = line.match(/^(\d+[\.\)]|\•|\-|\*)\s*(.*?)(?::|$)\s*(.*)$/);
+
+        if (boldMatch && boldMatch[2].trim() && boldMatch[2].trim().length < 90) {
           flushItem();
-          const prefix = itemMatch[1];
-          const titleText = itemMatch[2].trim();
-          const inlineDesc = (itemMatch[3] || '').trim();
+          const prefix = boldMatch[1];
+          const cleanTitle = boldMatch[2].replace(/:$/, '').replace(/^\*\*|\*\*$/g, '').trim();
+          const inlineDesc = boldMatch[3] ? boldMatch[3].replace(/^\*\*|\*\*$/g, '').trim() : '';
           currentItem = {
-            title: escape(prefix + ' ' + titleText),
-            body: inlineDesc ? escape(inlineDesc) : ''
+            title: escape(prefix + ' ' + cleanTitle),
+            body: inlineDesc ? renderMarkdownInline(escape(inlineDesc)) : ''
+          };
+        } else if (stdMatch && stdMatch[2].trim() && stdMatch[2].trim().length < 80) {
+          flushItem();
+          const prefix = stdMatch[1];
+          const rawTitle = stdMatch[2].replace(/:$/, '').replace(/^\*\*|\*\*$/g, '').trim();
+          const inlineDesc = stdMatch[3] ? stdMatch[3].replace(/^\*\*|\*\*$/g, '').trim() : '';
+          currentItem = {
+            title: escape(prefix + ' ' + rawTitle),
+            body: inlineDesc ? renderMarkdownInline(escape(inlineDesc)) : ''
           };
         } else if (currentItem) {
-          currentItem.body = (currentItem.body ? currentItem.body + '<br>' : '') + escape(line);
+          currentItem.body = (currentItem.body ? currentItem.body + '<br>' : '') + renderMarkdownInline(escape(line));
         } else {
-          html += '<p style="margin:0 0 8px 0; line-height:1.65; color:var(--text);">' + escape(line) + '</p>';
+          html += '<p style="margin:0 0 8px 0; line-height:1.65; color:var(--text);">' + renderMarkdownInline(escape(line)) + '</p>';
         }
       }
       flushItem();
