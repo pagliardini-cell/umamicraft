@@ -45553,5 +45553,98 @@
     "notes": "• **El secreto del almidón:** El almidón de maíz o fécula de papa no absorbe tanta grasa como la harina de trigo y no genera gluten, logrando esa textura casi vidriosa y liviana que no se humedece.\n• **La pimienta del Gravy:** El gravy de Jollibee tiene una presencia notoria y punzante de pimienta negra molida que corta la riqueza láctea de la manteca y la fritura.",
     "image": "https://lh3.googleusercontent.com/-s89UwltGcHA/avZr0AiHYrI/AAAAAAAP8RI/45xGDUO1lYEcXRFmFV2doz4WsbVRbYzgQCNcBGAsYHQ/s1600/chickenjoy_con_gravy_filipinas.jpg",
     "published": "2026-11-12T22:45:00Z"
+  },
+  {
+    "id": 580,
+    "title": "Mozzarella Casera Hilada (Italia)",
+    "category": "Conservas / Embutidos",
+    "country": "Italia",
+    "difficulty": "Media",
+    "prep_time": "30 min",
+    "cook_time": "25 min",
+    "rest_time": "20 min",
+    "servings": "1 bola grande (aprox. 450 g)",
+    "calories": "280 kcal por 100 g",
+    "diet_badges": [
+      "Vegetariano",
+      "Sin Gluten",
+      "Keto"
+    ],
+    "tags": [
+      "Mozzarella casera",
+      "Pasta filata",
+      "Queso artesanal",
+      "Fior di latte",
+      "Quesos italianos",
+      "Guga",
+      "Sous vide",
+      "Sin conservantes"
+    ],
+    "story": "Hacer mozzarella fresca en casa es una de las experiencias más fascinantes de la cocina tradicional italiana: ver cómo la leche entera líquida se transforma en una masa sedosa, elástica y brillante que se estira como caramelo blando es pura magia artesanal. El secreto técnico fundamental es la temperatura y el pH exacto: el ácido cítrico disuelto en agua acidifica suavemente la leche a 32 °C para permitir que el cuajo forme una cuajada firme y elástica. Luego, en el agua caliente a 75 °C - 80 °C, las proteínas de caseína se funden en hebras infinitas ('pasta filata') que se pliegan y bolean a mano hasta obtener una esfera tersa, húmeda y lechosa que se deshace en la boca.",
+    "ingredients": [
+      {
+        "section": "Leche y Activadores Lácticos",
+        "items": [
+          "3,7 litros (1 galón) de leche entera fresca (pasteurizada estándar o cruda; nunca ultrapasteurizada / UHT)",
+          "8 g de ácido cítrico en polvo de uso alimentario",
+          "250 ml de agua filtrada o mineral sin cloro (para diluir el ácido cítrico)",
+          "3 g (aprox. 1/2 cucharadita) de cuajo líquido (rennet)",
+          "60 ml de agua filtrada o mineral sin cloro (para diluir el cuajo)"
+        ]
+      },
+      {
+        "section": "Hilado (Pasta Filata) y Baño Térmico",
+        "items": [
+          "2 litros de agua caliente a 75 °C - 80 °C (o parte del suero caliente separado)",
+          "1 cucharada sopera colmada de sal marina fina o gruesa",
+          "1 bol con agua helada y cubos de hielo (para fijar la forma)"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "section": "Disolución y Acidificación Inicial",
+        "items": [
+          "Disolver los 8 g de ácido cítrico en los 250 ml de agua sin cloro. En un recipiente aparte, disolver los 3 g de cuajo líquido en los 60 ml de agua.",
+          "En una olla de acero inoxidable (o recipiente para sous vide), verter los 3,7 litros de leche entera bien fría. Agregar la solución de ácido cítrico poco a poco revolviendo suavemente con movimientos de abajo hacia arriba para que se distribuya parejo.",
+          "Llevar la leche a fuego muy suave (o con circulador sous vide) hasta alcanzar con precisión los 32 °C (90 °F), controlando con termómetro de cocina."
+        ]
+      },
+      {
+        "section": "Cuajado y Reposo Térmico",
+        "items": [
+          "Al llegar exactamente a 32 °C, incorporar la solución de cuajo diluido. Revolver con suavidad en forma de ocho durante 30 segundos y frenar de inmediato el movimiento del líquido.",
+          "Retirar del fuego, tapar la olla y dejar reposar en reposo absoluto durante 10 a 15 minutos. La leche se transformará en una masa gelatinosa brillante y firme (la cuajada), separándose del suero translúcido amarillento."
+        ]
+      },
+      {
+        "section": "Corte de la Cuajada y Drenado",
+        "items": [
+          "Con un cuchillo largo que llegue al fondo, cortar la cuajada en una cuadrícula de cubos de 2 a 3 cm.",
+          "Calentar suavemente a 40 °C durante 3 a 5 minutos, moviendo los cubos con una cuchara perforada con delicadeza extrema para que expulsen el suero interno y se asienten.",
+          "Con una espumadera, pasar los cubos de cuajada a un colador fino apoyado sobre un bol, presionando suavemente con la mano para drenar la mayor cantidad de suero líquido posible."
+        ]
+      },
+      {
+        "section": "El Hilado Magistral (Pasta Filata)",
+        "items": [
+          "Calentar agua (o suero reservado) con la cucharada de sal hasta alcanzar 75 °C - 80 °C (no debe hervir).",
+          "Colocar la cuajada en un bol resistente al calor y verter el agua salada caliente hasta cubrirla por completo.",
+          "Utilizando guantes gruesos para alimentos (o dos cucharas de madera), comenzar a presionar y juntar la masa dentro del agua caliente. Al recibir el calor, la masa comenzará a fundirse.",
+          "Levantar la masa y comenzar el estirado: estirar hacia arriba dejando que su propio peso la alargue en hebras elásticas continuas, doblar sobre sí misma y volver a estirar 4 o 5 veces hasta que la superficie pase de rugosa a completamente lisa, brillante y satinada."
+        ]
+      },
+      {
+        "section": "Boleado y Fijación",
+        "items": [
+          "Formar una bola grande (o varias pequeñas tipo bocconcini) empujando la masa desde abajo hacia arriba y pellizcando la base para sellarla.",
+          "Sumergir de inmediato la bola de mozzarella en el bol de agua helada durante 10 minutos: el choque térmico frenará la cocción interna y sellará su estructura redondeada y elástica.",
+          "Servir tibia o a temperatura ambiente en ensalada Caprese con tomates maduros, albahaca fresca y aceite de oliva virgen extra."
+        ]
+      }
+    ],
+    "notes": "• **La leche adecuada:** La leche pasteurizada estándar de sachet o botella funciona perfectamente, pero **JAMÁS uses leche ultra-pasteurizada (UHT o larga vida)**, ya que el calor excesivo de ese proceso desnaturaliza las proteínas de caseína e impide que la masa estire o hile.\n• **Conservación:** Se conserva fresca dentro de un recipiente con parte de su suero frío y sal durante 4 a 5 días en la heladera, aunque consumida el mismo día de elaboración su sabor lechoso es inigualable.",
+    "image": "https://lh3.googleusercontent.com/-vvIvBqvYscA/avZwkkUF2qI/AAAAAAAP8RU/v7UuEspUww81B8gWA9WxKZjx0639YD5ugCNcBGAsYHQ/s1600/mozzarella_casera_hilada.jpg",
+    "published": "2026-11-12T23:05:00Z"
   }
 ]
