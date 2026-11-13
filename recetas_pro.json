@@ -45646,5 +45646,861 @@
     "notes": "• **La leche adecuada:** La leche pasteurizada estándar de sachet o botella funciona perfectamente, pero **JAMÁS uses leche ultra-pasteurizada (UHT o larga vida)**, ya que el calor excesivo de ese proceso desnaturaliza las proteínas de caseína e impide que la masa estire o hile.\n• **Conservación:** Se conserva fresca dentro de un recipiente con parte de su suero frío y sal durante 4 a 5 días en la heladera, aunque consumida el mismo día de elaboración su sabor lechoso es inigualable.",
     "image": "https://lh3.googleusercontent.com/-vvIvBqvYscA/avZwkkUF2qI/AAAAAAAP8RU/v7UuEspUww81B8gWA9WxKZjx0639YD5ugCNcBGAsYHQ/s1600/mozzarella_casera_hilada.jpg",
     "published": "2026-11-12T23:05:00Z"
+  },
+  {
+    "id": 581,
+    "title": "Birria Ramen (México)",
+    "category": "Sopas y Potajes",
+    "country": "México",
+    "difficulty": "Media",
+    "prep_time": "30 min",
+    "cook_time": "2 horas",
+    "rest_time": "10 min",
+    "servings": "4 tazones abundantes",
+    "calories": "620 kcal por tazón",
+    "diet_badges": [
+      "Alto en Proteínas"
+    ],
+    "tags": [
+      "Birria ramen",
+      "Birriamen",
+      "Ramen mexicano",
+      "Fusión japonesa",
+      "Guga",
+      "Consomé de res",
+      "Chashu",
+      "Comida mexicana"
+    ],
+    "story": "Cuando preparo este birria ramen en mi cocina entiendo de inmediato por qué causó tanto furor internacional: combina la intensidad aromática de un consomé jalisciense tradicional con la contundencia reconfortante del ramen japonés. Los chiles secos guajillo y pasilla se asan junto a tomates y cebolla, creando un adobo profundo que tiñe el caldo de un rojo rubí brillante. Al cocer los fideos en este consomé enriquecido con la grasa roja superficial de la birria, cada hebra queda impregnada de un sabor ahumado y picante sutil que contrasta a la perfección con la yema cremosa del huevo y la frescura del cilantro y la lima.",
+    "ingredients": [
+      {
+        "section": "Adobo y Consomé de Birria",
+        "items": [
+          "1 kg de carne de res con hueso para estofado (morcillo/ossobuco, aguja o falda)",
+          "3 chiles guajillo secos (desvenados y sin semillas)",
+          "3 chiles pasilla secos (desvenados y sin semillas)",
+          "6 tomates perita maduros asados",
+          "1 cebolla blanca grande asada",
+          "4 dientes de ajo machacados",
+          "1 ramita pequeña de canela en rama",
+          "2 hojas de laurel secas",
+          "1 cucharadita de orégano seco mexicano",
+          "1/2 cucharadita de comino molido",
+          "1 litro de caldo concentrado de res (o agua con 1 cubo de caldo)",
+          "2 cucharadas de azúcar morena",
+          "Jugo de 1 lima fresca",
+          "Sal marina y pimienta negra recién molida al gusto"
+        ]
+      },
+      {
+        "section": "Fideos y Guarnición Gourmet",
+        "items": [
+          "400 g de fideos ramen frescos (o fideos udon gruesos)",
+          "4 huevos frescos (cocidos a 6 minutos para yema líquida / ajitsuke)",
+          "300 g de panceta de cerdo en rollo cocida y cortada en rodajas chashu (doradas a fuego vivo o soplete)"
+        ]
+      },
+      {
+        "section": "Toppings Frescos del Tazón",
+        "items": [
+          "1 taza de cilantro fresco picado fino",
+          "1 cebolla blanca o morada cortada en cubitos bien chiquitos",
+          "1 chile jalapeño toreado (dorado en sartén seca y en rodajas)",
+          "4 rabanitos frescos cortados en láminas finas translúcidas",
+          "Gajos de lima fresca para rociar en la mesa"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "section": "Tostado y Licuado del Adobo de Birria",
+        "items": [
+          "Limpiar los chiles guajillo y pasilla retirando cabos y semillas. En una sartén sin aceite, tostarlos 20 segundos por lado cuidando que no se quemen. Pasarlos a un bol con agua hirviendo durante 15 minutos para que se ablanden; reservar 1 taza de esa agua roja.",
+          "En la misma sartén bien caliente, asar los tomates cortados al medio y la cebolla hasta que tengan partes bien quemaditas y caramelizadas.",
+          "Colocar en la licuadora los chiles escurridos, los tomates, la cebolla asada, los dientes de ajo, la taza de agua de chiles reservada, el caldo de res, la canela, el laurel, el orégano, el comino, el azúcar morena, el jugo de lima, sal y pimienta. Licuar a máxima potencia durante 2 minutos hasta lograr un puré espeso y liso. Pasar por colador fino."
+        ]
+      },
+      {
+        "section": "Cocción Lenta de la Carne y Consomé",
+        "items": [
+          "En una olla grande o cacerola de hierro, sellar los trozos de carne con una cucharada de aceite hasta que doren.",
+          "Volcar el adobo colado sobre la carne asegurándose de que quede cubierta. Cocinar tapado a fuego mínimo durante 2 horas (o 45 minutos en olla a presión) hasta que la carne esté tan tierna que se deshaga sola al tocarla con un tenedor.",
+          "Retirar la carne y desmecharla en hebras jugosas. Colar el consomé líquido: en la superficie flotará una capa de grasa roja aromática; separar 3 o 4 cucharadas de esa grasa roja para saltear los fideos y mantener el consomé bien caliente."
+        ]
+      },
+      {
+        "section": "Cocción de Fideos y Huevo a 6 Minutos",
+        "items": [
+          "Llevar una olla con agua a ebullición fuerte. Sumergir los 4 huevos enteros con cuidado y cocinar exactamente durante 6 minutos. Retirarlos de inmediato a un baño de agua helada para frenar la cocción. Pelar con delicadeza y cortar al medio: la yema quedará untuosa y líquida.",
+          "Hervir los fideos ramen en agua abundante durante 2 a 3 minutos (al dente). Escurrir y saltearlos brevemente en una sartén con la grasa roja de birria reservada y un cucharón de consomé para que absorban todo el color y sabor antes de servir."
+        ]
+      },
+      {
+        "section": "Montaje del Tazón Cenital",
+        "items": [
+          "En el fondo de 4 tazones amplios de ramen, acomodar un nido de fideos salseados.",
+          "Verter por encima abundante consomé de birria hirviendo hasta cubrir los fideos.",
+          "Distribuir en la superficie: una generosa porción de carne desmechada a un costado, dos rodajas de chashu de panceta caramelizada, dos mitades de huevo con yema cremosa en el centro, y coronar con cilantro fresco, cebollita picada, rodajas de rábano, jalapeño toreado y un gajo de lima en el borde.",
+          "Servir de inmediato bien caliente, exprimiendo la lima sobre el caldo antes de comer con palillos y cuchara sopera."
+        ]
+      }
+    ],
+    "notes": "• **El secreto de la grasa roja:** La grasa que flota sobre la birria es pura concentración de chiles y especias; usarla para glasear los fideos antes de volcar el caldo es lo que transforma un fideo común en un ramen de campeonato.\n• **Tacos de Quesabirria (Opcional):** Tradicionalmente en los puestos de Los Ángeles y Tijuana, se acompaña este ramen con un taco dorado de birria con queso que se sumerge directamente en el consomé del tazón.",
+    "image": "https://lh3.googleusercontent.com/-ZNG15wXQtC4/avZ4jLpyQ4I/AAAAAAAP8Rg/UgD8fOUAoo0MYMIxPhw7WUYSvLy6U8HxwCNcBGAsYHQ/s1600/birria_ramen_mexico.jpg",
+    "published": "2026-11-12T23:40:00Z"
+  },
+  {
+    "id": 582,
+    "title": "Mercimek Çorbası - Sopa de Lentejas Rojas (Turquía)",
+    "category": "Sopas y Potajes",
+    "country": "Turquía",
+    "difficulty": "Fácil",
+    "prep_time": "15 min",
+    "cook_time": "30 min",
+    "rest_time": "5 min",
+    "servings": "4 porciones",
+    "calories": "240 kcal por tazón",
+    "diet_badges": [
+      "Vegetariano",
+      "Sin Gluten"
+    ],
+    "tags": [
+      "Mercimek corbasi",
+      "Sopa turca",
+      "Lentejas rojas",
+      "Comida turca",
+      "Sopas reconfortantes",
+      "Menta y pimenton",
+      "Andong"
+    ],
+    "story": "En Estambul no hay día de frío que no comience con un tazón humeante de mercimek çorbası servido en cualquier lokanta de barrio. Las lentejas rojas se cocinan con cebolla, zanahoria y comino hasta deshacerse en un puré aterciopelado color naranja cálido. Pero la verdadera magia de la receta reside en su remate: una manteca derretida a fuego vivo con pimentón dulce y menta seca que se vierte chisporroteando directamente sobre el plato en el momento de servir, perfumando toda la mesa antes de exprimirle un buen chorro de limón fresco.",
+    "ingredients": [
+      {
+        "section": "Base de Lentejas y Verduras",
+        "items": [
+          "250 g (1 taza y cuarto) de lentejas rojas partidas (lavadas bajo el grifo)",
+          "1 cebolla amarilla mediana picada",
+          "1 zanahoria mediana pelada y rallada",
+          "1 papa pequeña en cubitos",
+          "2 dientes de ajo picados",
+          "1 cucharada de pasta de tomate (concentrado de tomate)",
+          "1 litro y cuarto de caldo de verduras o agua caliente",
+          "1 cucharadita de comino molido",
+          "Sal marina y pimienta negra al gusto",
+          "2 cucharadas de aceite de oliva"
+        ]
+      },
+      {
+        "section": "Manteca Chisporroteante Turca (Topping)",
+        "items": [
+          "40 g de manteca sin sal",
+          "1 cucharadita colmada de pimentón dulce (o pimentón de Alepo / pul biber)",
+          "1 cucharadita colmada de menta seca frotada (kuru nane)",
+          "Gajos de limón fresco para servir"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "section": "Sofrito y Cocción de las Lentejas",
+        "items": [
+          "En una olla a fuego medio, calentar el aceite de oliva y sofreír la cebolla picada durante 5 minutos hasta que esté transparente.",
+          "Añadir la zanahoria rallada, la papa en cubitos, el ajo y la pasta de tomate. Cocinar 2 minutos revolviendo para tostar el concentrado de tomate.",
+          "Incorporar las lentejas rojas lavadas, el comino molido y verter el caldo caliente. Llevar a ebullición, bajar a fuego suave y cocinar tapado durante 25 minutos hasta que las lentejas y las papas estén completamente tiernas."
+        ]
+      },
+      {
+        "section": "Triturado Terciopelo",
+        "items": [
+          "Retirar la olla del fuego y procesar con mixer de inmersión (o licuadora) hasta obtener una textura completamente lisa, sedosa y sin grumos.",
+          "Rectificar la sazón con sal marina y pimienta negra molida. Si quedó demasiado espesa, agregar un chorrito extra de caldo caliente."
+        ]
+      },
+      {
+        "section": "La Manteca Chisporroteante de Remate",
+        "items": [
+          "En una sartencita pequeña, derretir los 40 g de manteca a fuego medio. Cuando empiece a espumar ligeramente, retirar del fuego y agregar de inmediato el pimentón y la menta seca. La manteca chisporroteará tiñéndose de un rojo rubí brillante.",
+          "Servir la sopa en tazones hondos, verter una o dos cucharadas de la manteca especiada caliente en forma de espiral sobre la superficie y acompañar con cuartos de limón para exprimir justo antes de tomar."
+        ]
+      }
+    ],
+    "notes": "• **Las lentejas rojas:** Se cocinan en la mitad de tiempo que las lentejas marrones y no requieren remojo previo; se deshacen solas creando una crema natural espesa sin necesidad de harina ni féculas.\n• **La menta seca:** Es el ingrediente que le da la identidad inconfundible a la sopa en Turquía; no la omitas ni la reemplaces por menta fresca, ya que el aroma tostado de la menta seca en la manteca es el alma del plato.",
+    "image": "https://lh3.googleusercontent.com/-i511H6Risqg/avZ7-H2j3MI/AAAAAAAP8Rs/nhYHb3mlbEMZMK3vMnnrsmHVAbvxklzYgCNcBGAsYHQ/s1600/mercimek_corbasi_turquia.jpg",
+    "published": "2026-11-12T23:50:00Z"
+  },
+  {
+    "id": 583,
+    "title": "Tater Tots Caseros de Papa (Estados Unidos)",
+    "category": "Entradas y Guarniciones",
+    "country": "Estados Unidos",
+    "difficulty": "Fácil",
+    "prep_time": "25 min",
+    "cook_time": "15 min",
+    "rest_time": "15 min",
+    "servings": "4 porciones (aprox. 30 bocados)",
+    "calories": "260 kcal por porción",
+    "diet_badges": [
+      "Vegetariano",
+      "Sin Gluten"
+    ],
+    "tags": [
+      "Tater tots",
+      "Papas crujientes",
+      "Comida americana",
+      "Snacks de papa",
+      "Frituras crocantes",
+      "Papas caseras",
+      "Andong"
+    ],
+    "story": "Hacer tater tots en casa demuestra por qué los industriales congelados no tienen comparación. La clave que aprendí de la técnica de Andong es hervir las papas enteras con piel apenas 10 minutos para que queden precocidas pero firmes al centro (al dente). Al rallarlas en hebras gruesas y exprimirlas en un paño, retiramos el exceso de agua y almidón gomoso; así, al mezclarlas con un toque de harina, cebolla en polvo y sal, se forman cilindros compactos que en la fritura se vuelven una coraza dorada rugosa y crocante con un corazón tierno y vaporoso.",
+    "ingredients": [
+      {
+        "section": "Base de Papas Ralladas",
+        "items": [
+          "900 g (aprox. 4 papas medianas harinosas tipo Russet o Spunta)",
+          "1 cucharada colmada de harina de trigo (o almidón de maíz para sin gluten)",
+          "1 cucharadita de cebolla en polvo",
+          "1/2 cucharadita de ajo en polvo",
+          "1 cucharadita de sal fina marina",
+          "1/4 cucharadita de pimienta negra molida",
+          "1/4 cucharadita de pimentón dulce"
+        ]
+      },
+      {
+        "section": "Fritura y Dip",
+        "items": [
+          "Abundante aceite neutro para freír (girasol o maíz)",
+          "Kétchup especiado o salsa tártara para acompañar"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "section": "Precocción al Dente de las Papas",
+        "items": [
+          "Lavar las papas y colocarlas con cáscara en una olla con agua fría salada. Llevar a hervor y cocinar durante exactamente 10 a 12 minutos. Al pinchar con un cuchillo, la superficie debe estar cocida pero el corazón aún rígido y firme.",
+          "Retirar del agua caliente, enfriar bajo el chorro de agua fría y pelar la piel con las manos o el filo de una cuchara."
+        ]
+      },
+      {
+        "section": "Rallado y Secado Extremo",
+        "items": [
+          "Rallar las papas tibias por la parte gruesa del rallador de queso para obtener hebras largas y definidas (no puré).",
+          "Colocar las papas ralladas dentro de un paño de cocina limpio. Retorcer el paño con fuerza para exprimir y desechar todo el líquido posible: cuanto más secas queden las hebras, más crujiente será el resultado final."
+        ]
+      },
+      {
+        "section": "Sazonado y Formado de Cilindros",
+        "items": [
+          "Pasar la papa rallada seca a un bol. Espolvorear la cucharada de harina, la cebolla en polvo, el ajo, el pimentón, la sal y la pimienta. Mezclar con suavidad con un tenedor para no aplastar las hebras.",
+          "Tomar pequeñas porciones del tamaño de una nuez (unos 25 gramos) y apretar con las palmas de las manos dándoles forma de pequeños cilindros o barrilitos compactos.",
+          "Colocar los cilindros en una bandeja y llevar al congelador durante 15 minutos para que se afirmen y no se desarmen en el aceite."
+        ]
+      },
+      {
+        "section": "Fritura Crujiente",
+        "items": [
+          "Calentar abundante aceite a 180 °C en una sartén profunda o freidora.",
+          "Freír los tater tots en tandas pequeñas durante 4 a 5 minutos, girándolos suavemente con espumadera hasta que estén completamente dorados y sonoros.",
+          "Escurrir sobre rejilla o papel absorbente, espolvorear una pizca extra de sal y servir calientes con salsa."
+        ]
+      }
+    ],
+    "notes": "• **Por qué precocer solo 10 minutos:** Si las papas se cocinan del todo, al rallarlas se convierten en puré pastoso. El punto al dente permite que las hebras mantengan su estructura y creen los bordes crujientes al freír.\n• **Opción Horno / Airfryer:** Rociar generosamente con spray de aceite y hornear a 200 °C durante 20 minutos dándoles vuelta a mitad de tiempo.",
+    "image": "https://lh3.googleusercontent.com/-CiyS--etXws/avZ7_TsZlTI/AAAAAAAP8R0/Jiref6Z9gxQd9lCSeISLPQKrdrE5dOVvgCNcBGAsYHQ/s1600/tater_tots_caseros.jpg",
+    "published": "2026-11-12T23:50:00Z"
+  },
+  {
+    "id": 584,
+    "title": "Šaltibarščiai - Sopa Fría de Remolacha (Lituania)",
+    "category": "Sopas y Potajes",
+    "country": "Lituania",
+    "difficulty": "Fácil",
+    "prep_time": "20 min",
+    "cook_time": "0 min",
+    "rest_time": "1 hora",
+    "servings": "4 porciones",
+    "calories": "210 kcal por porción",
+    "diet_badges": [
+      "Vegetariano",
+      "Sin Gluten"
+    ],
+    "tags": [
+      "Saltibarsciai",
+      "Sopa fria",
+      "Remolacha",
+      "Kefir",
+      "Cocina lituana",
+      "Sopas de verano",
+      "Pink soup",
+      "Andong"
+    ],
+    "story": "El šaltibarščiai es el plato más emblemático y alegre de Lituania: su color rosa fucsia eléctrico sorprende a primera vista, pero al primer sorbo se descubre una de las sopas frías más refrescantes y equilibradas de Europa. La combinación del kéfir ácido y denso con la dulzura terrosa de la remolacha cocida rallada, el crujido fresco del pepino y una cantidad generosa de eneldo recién picado es sencillamente genial. Tradicionalmente se come con dos mitades de huevo duro en el centro y se acompaña siempre con papas cocidas bien calientes al lado, creando un juego de contrastes térmicos irresistible.",
+    "ingredients": [
+      {
+        "section": "Base Cremosa Rosa de Kéfir",
+        "items": [
+          "1 litro de kéfir espeso natural (o yogur natural entero rebajado con leche)",
+          "400 g de remolachas cocidas (hervidas o asadas), peladas y ralladas gruesas (o en juliana fina)",
+          "100 ml del jugo de cocción o vinagre suave de la remolacha",
+          "2 pepinos medianos firmes, pelados y cortados en cubitos pequeños",
+          "1 taza colmada de eneldo fresco picado (abundante)",
+          "1/2 taza de cebollita de verdeo (parte verde) picada fina",
+          "1 cucharadita de sal marina fina",
+          "1/2 cucharadita de pimienta blanca molida"
+        ]
+      },
+      {
+        "section": "Guarnición Tradicional Caliente y Fría",
+        "items": [
+          "4 huevos duros cocidos a punto firme, cortados por la mitad",
+          "4 papas medianas cocidas con su piel, bien calientes y espolvoreadas con eneldo y sal gruesa"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "section": "Preparación de la Mezcla y Maceración",
+        "items": [
+          "En un cuenco hondo, colocar las cebollitas de verdeo picadas con la cucharadita de sal. Machacarlas suavemente con la base de un mortero o cuchara de madera durante 30 segundos para liberar sus jugos y suavizar su pungencia.",
+          "Agregar los pepinos en cubitos, la remolacha cocida rallada y el eneldo fresco picado.",
+          "Verter el litro de kéfir frío y el jugo de remolacha. Revolver con espátula: el blanco del kéfir y el rojo de la remolacha se fundirán instantáneamente en un color fucsia brillante homogéneo.",
+          "Sazonar con la pimienta blanca y rectificar de sal. Llevar a la heladera durante al menos 1 hora para que los sabores maduren y esté bien helada."
+        ]
+      },
+      {
+        "section": "Servicio Tradicional Lituano",
+        "items": [
+          "Servir la sopa fucsia en platos o tazones hondos bien fríos.",
+          "Colocar dos mitades de huevo duro en el centro de cada tazón.",
+          "Al lado de cada comensal, servir una o dos papas calientes recién hervidas con manteca y eneldo.",
+          "Se disfruta alternando una cucharada de sopa fría y cremosa con un bocado de papa caliente."
+        ]
+      }
+    ],
+    "notes": "• **El kéfir:** Tradicionalmente en Lituania se utiliza *šaltibarščių kefyras* (kéfir especial con 7% de tenor graso). Si tu kéfir es muy líquido, sumale 3 cucharadas de crema agria o yogur griego para darle esa consistencia densa.\n• **El eneldo no se negocia:** El eneldo fresco en cantidad generosa es el aroma principal que equilibra la tierra de la remolacha con el ácido del lácteo.",
+    "image": "https://lh3.googleusercontent.com/-EBtjN8LOLA8/avZ8Ae6R7rI/AAAAAAAP8R8/FCyGvhdOZWo7NU4hSnx34VDYkaP-_4_agCNcBGAsYHQ/s1600/saltibarsciai_sopa_remolacha.jpg",
+    "published": "2026-11-12T23:50:00Z"
+  },
+  {
+    "id": 585,
+    "title": "Swedish Meatbowl - Albóndigas Suecas (Suecia)",
+    "category": "Platos Principales",
+    "country": "Suecia",
+    "difficulty": "Media",
+    "prep_time": "25 min",
+    "cook_time": "30 min",
+    "rest_time": "5 min",
+    "servings": "4 bowls",
+    "calories": "680 kcal por tazón",
+    "diet_badges": [
+      "Alto en Proteínas"
+    ],
+    "tags": [
+      "Kottbullar",
+      "Albondigas suecas",
+      "Meatbowl",
+      "Comida sueca",
+      "Pure de papas",
+      "Salsa brunsas",
+      "Andong"
+    ],
+    "story": "Esta es la versión contemporánea en 'meatbowl' que propone Andong inspirándose en las míticas köttbullar de Estocolmo. En lugar del plato extendido clásico, se construye una experiencia completa en tazón hondo: una base generosa de puré de papas mantecoso al estilo nórdico, albóndigas de ternera y cerdo doradas y tiernas con aroma a pimienta de Jamaica, una cascada de salsa marrón de crema y caldo (brunsås), y el remate sagrado sueco: una cucharada de mermelada ácida de lingonberry y rodajas crujientes de pepino encurtido que cortan la riqueza del plato.",
+    "ingredients": [
+      {
+        "section": "Albóndigas Köttbullar Caseras",
+        "items": [
+          "400 g de carne picada de ternera",
+          "300 g de carne picada de cerdo",
+          "1 cebolla mediana rallada finísima (o procesada)",
+          "60 g de pan rallado fresco hidratado en 100 ml de leche y crema",
+          "1 huevo entero fresco",
+          "1/2 cucharadita de pimienta de Jamaica molida (allspice, la especia clave)",
+          "1/4 cucharadita de nuez moscada recién rallada",
+          "1 cucharadita colmada de sal marina",
+          "1/2 cucharadita de pimienta blanca molida",
+          "2 cucharadas de manteca para dorar"
+        ]
+      },
+      {
+        "section": "Salsa Aterciopelada de Crema (Brunsås)",
+        "items": [
+          "30 g de manteca",
+          "30 g de harina de trigo",
+          "400 ml de caldo de carne de res oscuro bien sabroso",
+          "100 ml de crema de leche fresca",
+          "1 cucharada de salsa de soja (para color y umami)",
+          "1 cucharadita de mostaza de Dijon",
+          "Pimienta negra recién molida"
+        ]
+      },
+      {
+        "section": "Montaje del Bowl Nórdico",
+        "items": [
+          "4 porciones de puré de papas caliente con abundante manteca y leche",
+          "4 cucharadas de mermelada de arándanos rojos (lingonberry o grosellas)",
+          "1 taza de pepinillos agridulces en rodajas finas (*pressgurka*)",
+          "Eneldo o perejil fresco para decorar"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "section": "Amasado y Boleado de las Albóndigas",
+        "items": [
+          "En un bol, hidratar el pan rallado con la leche y crema durante 5 minutos.",
+          "Añadir la carne de ternera, cerdo, la cebolla rallada con sus jugos, el huevo, la pimienta de Jamaica, la nuez moscada, sal y pimienta blanca.",
+          "Amasar con las manos durante 3 minutos hasta que la mezcla adquiera una textura pegajosa y compacta. Formar bolitas pequeñas y parejas del tamaño de una nuez con las manos húmedas."
+        ]
+      },
+      {
+        "section": "Dorado de las Albóndigas",
+        "items": [
+          "En una sartén grande de hierro a fuego medio-alto, derretir la manteca. Colocar las albóndigas en tandas.",
+          "Dorarlas haciéndolas rodar en la sartén durante 8 a 10 minutos hasta que estén bien bronceadas por fuera y cocidas en el centro. Retirar a un plato, conservando los jugos tostados del fondo de la sartén."
+        ]
+      },
+      {
+        "section": "Preparación de la Salsa Brunsås en la Misma Sartén",
+        "items": [
+          "En la misma sartén con los fondos de carne, agregar los 30 g de manteca y espolvorear la harina. Revolver con batidor durante 1 minuto hasta formar un roux dorado.",
+          "Verter el caldo de carne caliente en hilo batiendo enérgicamente para desglasar los sabores adheridos.",
+          "Sumar la salsa de soja, la mostaza de Dijon y la crema de leche. Dejar hervir suavemente 3 minutos hasta que espese en una salsa satinada y profunda. Reintegrar las albóndigas para bañarlas en el calor."
+        ]
+      },
+      {
+        "section": "Montaje del Meatbowl",
+        "items": [
+          "En el fondo de cada tazón hondo, colocar una base abundante de puré de papas mantecoso bien caliente.",
+          "Acomodar 5 o 6 albóndigas por encima y napar generosamente con la salsa marrón caliente.",
+          "En los laterales del bowl, servir una cucharada brillante de mermelada de lingonberry y una porción de pepinos encurtidos crocantes. Decorar con hojas de eneldo y servir de inmediato."
+        ]
+      }
+    ],
+    "notes": "• **Pimienta de Jamaica (Allspice):** Es el condimento obligatorio que distingue a la albóndiga sueca de cualquier otra del mundo; aporta una calidez especiada única que marida con la salsa de crema.\n• **El Lingonberry:** El arándano rojo silvestre nórdico aporta una acidez dulce que corta de forma brillante la grasa de la carne y el puré.",
+    "image": "https://lh3.googleusercontent.com/-zmO3g6XU2kk/avZ8B5LpFeI/AAAAAAAP8SE/CkYt6xUQQAErnCGRJcxHo5Q0Gp3_2cUlACNcBGAsYHQ/s1600/kottbullar_meatbowl_suecia.jpg",
+    "published": "2026-11-12T23:50:00Z"
+  },
+  {
+    "id": 586,
+    "title": "Pilau de Ternera con Especias (Kenia)",
+    "category": "Arroces y Risottos",
+    "country": "Kenia",
+    "difficulty": "Media",
+    "prep_time": "25 min",
+    "cook_time": "45 min",
+    "rest_time": "10 min",
+    "servings": "6 porciones",
+    "calories": "510 kcal por porción",
+    "diet_badges": [
+      "Sin Gluten"
+    ],
+    "tags": [
+      "Pilau",
+      "Swahili pilau",
+      "Cocina de kenia",
+      "Arroz especiado",
+      "Comida africana",
+      "Kachumbari",
+      "Andong"
+    ],
+    "story": "El pilau es el rey indiscutido de las celebraciones en toda la costa swahili de Kenia. No es un simple arroz con carne: es un plato ceremonial donde la cebolla se carameliza intensamente hasta un marrón profundo para teñir naturalmente el grano, mientras la mezcla tradicional de especias 'pilau masala' (comino, cardamomo, canela, pimienta negra y clavo) perfuma todo el ambiente. La ternera se tierniza junto con papas en cubos en un caldo sabroso, y al cocer el arroz basmati dentro de esa infusión se logra un grano suelto, fragante y cargado de historia, que siempre se corona con kachumbari fresco.",
+    "ingredients": [
+      {
+        "section": "Guisado de Ternera y Especias Swahili",
+        "items": [
+          "700 g de carne de ternera en dados (paleta o aguja)",
+          "2 cebollas rojas grandes picadas en pluma",
+          "3 papas medianas peladas y cortadas en cuartos",
+          "4 dientes de ajo y 1 trozo de jengibre de 3 cm machacados en pasta",
+          "2 tomates maduros rallados o picados finos",
+          "3 cucharadas de aceite vegetal o manteca clarificada",
+          "750 ml de caldo de carne caliente"
+        ]
+      },
+      {
+        "section": "Pilau Masala Clásico",
+        "items": [
+          "1 cucharada colmada de semillas de comino",
+          "1 cucharadita de semillas de cardamomo verde",
+          "1 cucharadita de granos de pimienta negra",
+          "1/2 cucharadita de clavos de olor enteros",
+          "1 rama de canela",
+          "(Moler todo junto en mortero o molinillo hasta obtener un polvo aromático)"
+        ]
+      },
+      {
+        "section": "El Arroz y la Ensalada Kachumbari",
+        "items": [
+          "400 g (2 tazas) de arroz basmati de grano largo lavado y escurrido",
+          "Ensalada fresca de remate: 2 tomates en cubitos, 1 cebolla morada en plumita fina, 1 chile verde picado, cilantro fresco picado, sal y jugo de lima"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "section": "Caramelizado y Sellado de Especias",
+        "items": [
+          "En una olla amplia y gruesa a fuego medio-alto, calentar el aceite y agregar las cebollas picadas.",
+          "Dorar con paciencia durante 12 a 15 minutos hasta que adquieran un color marrón oscuro parejo (sin quemarse). Este tostado profundo de la cebolla es lo que le dará el color café dorado característico al arroz.",
+          "Agregar la pasta de ajo y jengibre y la mezcla de especias pilau masala molidas. Tostar durante 1 minuto revolviendo hasta que el aroma a cardamomo y comino inunde la cocina."
+        ]
+      },
+      {
+        "section": "Cocción de la Carne y Papas",
+        "items": [
+          "Incorporar los dados de ternera y sellar durante 5 minutos para que se impregnen de las especias tostadas.",
+          "Añadir los tomates rallados, las papas en cuartos, sal marina y 300 ml de caldo. Tapar y cocinar a fuego suave durante 20 minutos hasta que la carne esté tierna.",
+          "Verter el resto del caldo caliente (debe haber aproximadamente el doble de líquido que el volumen de arroz)."
+        ]
+      },
+      {
+        "section": "Cocción y Reposo del Arroz Basmati",
+        "items": [
+          "Volcar el arroz basmati lavado en la olla. Revolver una sola vez con suavidad para distribuir la carne y las papas.",
+          "Cocinar destapado a fuego medio hasta que el caldo se absorba casi por completo y se formen pequeños hoyos de vapor en la superficie del arroz.",
+          "Bajar el fuego al mínimo absoluto, tapar herméticamente (idealmente colocando un paño limpio debajo de la tapa) y dejar cocinar al vapor durante 15 minutos.",
+          "Apagar el fuego y dejar reposar 10 minutos sin destapar. Ahuecar suavemente con un tenedor para separar los granos sueltos."
+        ]
+      },
+      {
+        "section": "Servicio con Kachumbari",
+        "items": [
+          "Servir en una fuente grande o plato amplio con los trozos de carne y papas doradas en la superficie.",
+          "Coronar con una porción de ensalada kachumbari fresca de tomate, cebolla, cilantro y lima para aportar acidez crujiente al arroz especiado."
+        ]
+      }
+    ],
+    "notes": "• **El grano suelto:** Lavar el arroz basmati varias veces hasta que el agua salga translúcida retira el almidón superficial, asegurando que los granos queden perfectamente desgranados y no pastosos.",
+    "image": "https://lh3.googleusercontent.com/-SznVAnOJcQI/avZ8DJU3jkI/AAAAAAAP8SM/8TOTaGkeKdcwfBP3525XncMla560eVN2QCNcBGAsYHQ/s1600/pilau_ternera_kenia.jpg",
+    "published": "2026-11-12T23:50:00Z"
+  },
+  {
+    "id": 587,
+    "title": "Liangpi - Fideos Fríos al Vapor (China)",
+    "category": "Pastas",
+    "country": "China",
+    "difficulty": "Media",
+    "prep_time": "40 min",
+    "cook_time": "20 min",
+    "rest_time": "2 horas",
+    "servings": "4 porciones",
+    "calories": "340 kcal por tazón",
+    "diet_badges": [
+      "Vegetariano"
+    ],
+    "tags": [
+      "Liangpi",
+      "Fideos frios",
+      "Comida china",
+      "Xian street food",
+      "Mianjin",
+      "Aceite de chile",
+      "Andong"
+    ],
+    "story": "Los liangpi (literalmente 'pieles frías') son los fideos más fascinantes de Xi'an y de la provincia de Shaanxi. Su elaboración artesanal es pura alquimia culinaria: se amasa una masa de harina de trigo en agua para lavar el almidón, separándolo del gluten. El agua lechosa de almidón se cocina al vapor en bandejas circulares formando láminas translúcidas, finas y elásticas como gelatina firme que se cortan en cintas anchas, mientras que el gluten se cocina al vapor convirtiéndose en esponjosos cubos de 'mianjin'. Bañados en aceite de chile tostado, vinagre negro de Chinkiang y pasta de ajo, son una explosión refrescante inigualable.",
+    "ingredients": [
+      {
+        "section": "Masa Base y Extracción de Almidón y Gluten",
+        "items": [
+          "500 g de harina de trigo común 000",
+          "280 ml de agua",
+          "1/2 cucharadita de sal fina"
+        ]
+      },
+      {
+        "section": "Aliño Aromático de Shaanxi",
+        "items": [
+          "3 cucharadas de aceite de chile rojo tostado con sésamo (chili oil)",
+          "2 cucharadas de vinagre negro madurado de Chinkiang",
+          "2 cucharadas de salsa de soja clara",
+          "4 dientes de ajo triturados con 3 cucharadas de agua tibia (agua de ajo)",
+          "1 cucharadita de aceite de sésamo tostado",
+          "1/2 cucharadita de azúcar",
+          "1/4 cucharadita de pimienta de Sichuan molida"
+        ]
+      },
+      {
+        "section": "Toppings Frescos",
+        "items": [
+          "1 pepino grande cortado en juliana fina crujiente",
+          "Brotes de soja blanqueados (opcional)",
+          "Semillas de sésamo tostadas y hojas de cilantro fresco"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "section": "Lavado de la Masa (Separación Almidón/Gluten)",
+        "items": [
+          "Mezclar la harina con la sal y los 280 ml de agua hasta formar un bollo liso y firme. Dejar reposar tapado 30 minutos.",
+          "Colocar el bollo en un bol grande con agua fría y empezar a masajearlo y amasarlo bajo el agua: el almidón blanco se liberará enturbiando el agua como leche.",
+          "Colar el agua lechosa a otro recipiente grande y repetir el lavado 3 o 4 veces con agua limpia hasta que el agua salga casi clara y quede en las manos una masa elástica gomosa: ese es el gluten puro (*mianjin*).",
+          "Dejar reposar el agua de almidón durante al menos 2 a 3 horas sin mover para que todo el almidón se decante al fondo. Luego, desechar con cuidado el agua clara de la superficie, dejando el almidón denso del fondo."
+        ]
+      },
+      {
+        "section": "Cocción al Vapor de Fideos y Gluten",
+        "items": [
+          "Al gluten reservado, sumarle 1/2 cucharadita de levadura seca. Dejar fermentar 20 minutos y cocinar al vapor durante 15 minutos. Al enfriar, cortar en cubos esponjosos que absorberán todo el aderezo.",
+          "Engrasar ligeramente una bandeja metálica redonda y verter una capa fina del líquido espeso de almidón bien revuelto (unos 2 mm de grosor).",
+          "Hacer flotar la bandeja sobre una olla de agua hirviendo, tapar y cocinar al vapor durante 2 minutos hasta que la masa se infle en burbujas transparentes.",
+          "Pasar la bandeja a un baño de agua fría, despegar con cuidado la lámina translúcida de liangpi, pincelarla con un toque de aceite y cortar en cintas anchas de 1,5 cm."
+        ]
+      },
+      {
+        "section": "Montaje y Aliño Especiado",
+        "items": [
+          "En cuencos hondos, acomodar una porción de cintas elásticas de liangpi.",
+          "Agregar por encima los cubos esponjosos de gluten cocido al vapor y abundante pepino fresco en juliana.",
+          "Rociar generosamente con el agua de ajo, el vinagre negro de Chinkiang, la salsa de soja, el aceite de sésamo y una buena cucharada de aceite de chile rojo.",
+          "Espolvorear con semillas de sésamo tostado y mezclar con palillos antes de degustar fríos."
+        ]
+      }
+    ],
+    "notes": "• **Textura:** Los fideos liangpi no se cocinan en agua hirviendo como los fideos comunes; se cocinan al vapor como finos panqueques de almidón puro, lo que les da esa textura elástica, masticable y translúcida única.",
+    "image": "https://lh3.googleusercontent.com/--B5U-RtboS0/avZ8EoblSQI/AAAAAAAP8SU/NbJR11PmaxgWmMx7rRkka4DSDHTa3ZynACNcBGAsYHQ/s1600/liangpi_fideos_frios_china.jpg",
+    "published": "2026-11-12T23:50:00Z"
+  },
+  {
+    "id": 588,
+    "title": "Tarte Flambée Alsaciana (Francia)",
+    "category": "Pizzas / Tartas / Masas",
+    "country": "Francia",
+    "difficulty": "Fácil",
+    "prep_time": "20 min",
+    "cook_time": "12 min",
+    "rest_time": "30 min",
+    "servings": "2 tartas grandes",
+    "calories": "380 kcal por porción",
+    "diet_badges": [],
+    "tags": [
+      "Tarte flambee",
+      "Flammkuchen",
+      "Cocina alsaciana",
+      "Panceta y cebolla",
+      "Masa fina",
+      "Creme fraiche",
+      "Andong"
+    ],
+    "story": "En los pueblos de Alsacia y la frontera alemana, la tarte flambée (o Flammkuchen) nació en los antiguos hornos de leña comunales: los panaderos estiraban un sobrante de masa de pan hasta dejarlo tan fino como una hoja de papel y lo untaban con crema agria, cebollas y panceta para probar la temperatura del horno antes de meter los panes. Al hornearse a fuego ardiente en cuestión de minutos, los bordes quedan ampollados y crujientes como galletas, mientras la crème fraîche se funde con la grasa ahumada de los lardons y la dulzura de la cebolla fina.",
+    "ingredients": [
+      {
+        "section": "Masa Ultrafina y Quebradiza",
+        "items": [
+          "250 g de harina de trigo 0000",
+          "130 ml de agua tibia",
+          "2 cucharadas de aceite de girasol o colza",
+          "1/2 cucharadita de sal fina"
+        ]
+      },
+      {
+        "section": "Cubierta Tradicional Alsaciana",
+        "items": [
+          "150 g de crème fraîche espesa (o nata ácida / sour cream)",
+          "100 g de queso blanco fresco (fromage blanc o ricota fina batida)",
+          "2 cebollas blancas medianas cortadas en pluma finísima translúcida",
+          "180 g de panceta ahumada (lardons) cortada en tiritas finas",
+          "1 pizca de nuez moscada recién rallada",
+          "Sal marina y abundante pimienta negra recién molida"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "section": "Amasado y Estirado Ultrafino",
+        "items": [
+          "En un bol, integrar la harina con la sal, el agua tibia y el aceite. Amasar durante 5 minutos hasta obtener una masa elástica, suave y no pegajosa. Tapar y dejar reposar 30 minutos a temperatura ambiente.",
+          "Dividir la masa en dos bollos. Con un palo de amasar sobre papel manteca enharinado, estirar cada bollo hasta dejarlo extremadamente fino (de menos de 1 mm de espesor, casi transparente). Esta finura es lo que garantiza que quede crujiente y no como pan."
+        ]
+      },
+      {
+        "section": "Montaje de los Ingredientes Frescos",
+        "items": [
+          "En un recipiente, mezclar la crème fraîche con el queso blanco, una pizca de nuez moscada, sal y pimienta negra.",
+          "Untar la superficie de la masa con una capa fina y pareja de la crema, dejando 1 cm libre en los bordes.",
+          "Distribuir por encima la cebolla cortada en pluma muy finita (cruda) y las tiritas de panceta ahumada esparcidas de forma uniforme."
+        ]
+      },
+      {
+        "section": "Horneado Máximo a la Piedra",
+        "items": [
+          "Precalentar el horno al máximo de su potencia (al menos 250 °C - 275 °C) con una piedra para pizza o placa de hierro en el estante inferior durante 30 minutos.",
+          "Deslizar la tarta sobre la placa hirviendo. Hornear durante 8 a 10 minutos hasta que los bordes de la masa estén ampollados, tostados y crujientes, y la panceta esté dorada.",
+          "Retirar sobre una tabla de madera rústica, moler abundante pimienta negra fresca por encima, cortar en rectángulos y servir inmediatamente bien caliente."
+        ]
+      }
+    ],
+    "notes": "• **Sin levadura:** A diferencia de la pizza italiana tradicional, la auténtica tarte flambée alsaciana no lleva levadura para evitar que la masa leve; debe permanecer como una base quebradiza similar a un cracker.\n• **Cebolla cruda:** No saltees la cebolla previamente; al cortarse finísima, se cocina dentro de la crema durante el golpe de horno a alta temperatura conservando un punto dulce delicioso.",
+    "image": "https://lh3.googleusercontent.com/-poIERAnVUos/avZ8F6Az9uI/AAAAAAAP8Sc/DMd1R89P-nMDGg1gKa_1_gSbWqAYR8iRQCNcBGAsYHQ/s1600/tarte_flambee_alsaciana.jpg",
+    "published": "2026-11-12T23:50:00Z"
+  },
+  {
+    "id": 589,
+    "title": "Reganmian - Fideos de Sésamo de Wuhan (China)",
+    "category": "Pastas",
+    "country": "China",
+    "difficulty": "Fácil",
+    "prep_time": "15 min",
+    "cook_time": "10 min",
+    "rest_time": "0 min",
+    "servings": "2 tazones",
+    "calories": "480 kcal por tazón",
+    "diet_badges": [
+      "Vegetariano"
+    ],
+    "tags": [
+      "Reganmian",
+      "Hot dry noodles",
+      "Fideos de wuhan",
+      "Pasta de sesamo",
+      "Comida china",
+      "Fideos secos",
+      "Andong"
+    ],
+    "story": "El reganmian (fideos secos calientes) es el desayuno sagrado que define a la ciudad de Wuhan: todas las mañanas millones de personas se deleitan con estos fideos alcalinos amarillos de textura firme que no van en sopa, sino envueltos en una pasta de sésamo tostado espesa, oscura y profundamente perfumada. El secreto técnico es blanquear los fideos alcalinos, aceitarlos para que queden sueltos y elásticos, y al momento de servir darles un golpe de agua hirviendo antes de bañarlos en salsa de sésamo aligerada con aceite de sésamo, salsa de soja, aceite de chile y los infaltables rábanos encurtidos picantes (*zha cai*).",
+    "ingredients": [
+      {
+        "section": "Fideos Alcalinos y Baño Inicial",
+        "items": [
+          "300 g de fideos alcalinos frescos amarillos (estilo Wuhan o fideos ramen gruesos)",
+          "1 cucharada de aceite vegetal neutro (para enfriar y separar)"
+        ]
+      },
+      {
+        "section": "Salsa Intensa de Sésamo Tostado",
+        "items": [
+          "3 cucharadas colmadas de pasta de sésamo tostado china (o tahini tostado oscuro)",
+          "2 cucharadas de aceite de sésamo tostado (para disolver la pasta)",
+          "2 cucharadas de salsa de soja oscura",
+          "1 cucharada de salsa de soja clara",
+          "1 cucharadita de azúcar",
+          "1 cucharadita de vinagre negro de Chinkiang",
+          "1/2 cucharadita de polvo cinco especias o pimienta blanca",
+          "2 cucharadas de aceite de chile rojo con escamas (chili oil)"
+        ]
+      },
+      {
+        "section": "Acompañamientos y Crujientes",
+        "items": [
+          "3 cucharadas de vegetales o rábanos encurtidos picantes (*zha cai* o *suan doujiao* picados)",
+          "3 tallos de cebollita de verdeo verde picada fina",
+          "1 cucharada de semillas de sésamo tostadas"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "section": "Cocción y Aceitado de los Fideos (Pre-tratamiento de Wuhan)",
+        "items": [
+          "En una olla grande con agua hirviendo, cocer los fideos alcalinos durante 2 minutos hasta que estén al dente pero firmes.",
+          "Escurrirlos inmediatamente en colador y esparcirlos sobre una bandeja amplia. Rociar con la cucharada de aceite neutro y abanicarlos o moverlos frente a un ventilador para que se enfríen rápido: este choque térmico le otorga a los fideos su textura masticable y gomosa (*chewy*) característica."
+        ]
+      },
+      {
+        "section": "Preparación de la Pasta de Sésamo",
+        "items": [
+          "En un cuenco, colocar la pasta de sésamo tostada densa. Añadir el aceite de sésamo poco a poco batiendo con una cuchara hasta aligerarla y lograr una textura suave como cinta fluida.",
+          "Incorporar la salsa de soja clara, la salsa de soja oscura, el azúcar, el vinagre negro y la pizca de cinco especias. Mezclar bien."
+        ]
+      },
+      {
+        "section": "Golpe Final y Mezclado en la Mesa",
+        "items": [
+          "Justo antes de servir, sumergir los fideos aceitados en un colador dentro de agua hirviendo durante 20 segundos para calentarlos a fondo. Escurrir bien y volcar en los tazones.",
+          "Bañar los fideos calientes con la densa salsa de sésamo y el aceite de chile rojo.",
+          "Coronar con los vegetales encurtidos picantes picados, abundante cebollita de verdeo fresca y semillas de sésamo.",
+          "Mezclar enérgicamente con los palillos en la mesa durante 30 segundos hasta que cada hebra de fideo quede completamente recubierta por la crema de sésamo y disfrutar caliente."
+        ]
+      }
+    ],
+    "notes": "• **Pasta de sésamo china vs Tahini:** La pasta de sésamo china tradicional se elabora con semillas tostadas a fondo, por lo que tiene un color marrón bronce oscuro y un sabor a fruto seco tostado mucho más profundo que el tahini claro de Oriente Medio.",
+    "image": "https://lh3.googleusercontent.com/-kzgQOZKtvTs/avZ8G4lmI5I/AAAAAAAP8Sk/5M6qUmOwfYUkok1UQzAKLI7XQNmfRTHzQCNcBGAsYHQ/s1600/reganmian_wuhan_china.jpg",
+    "published": "2026-11-12T23:50:00Z"
+  },
+  {
+    "id": 590,
+    "title": "Fideos con Aceite Aromático de Cebolletas (China)",
+    "category": "Pastas",
+    "country": "China",
+    "difficulty": "Fácil",
+    "prep_time": "10 min",
+    "cook_time": "15 min",
+    "rest_time": "0 min",
+    "servings": "2 porciones",
+    "calories": "390 kcal por porción",
+    "diet_badges": [
+      "Vegetariano"
+    ],
+    "tags": [
+      "Cong you ban mian",
+      "Aceite de cebolleta",
+      "Fideos chinos",
+      "Cocina de shanghai",
+      "Cebolla frita",
+      "Platos rapidos",
+      "Andong"
+    ],
+    "story": "De la guía definitiva de cebollas de Andong nace este monumento a la sencillez de la cocina de Shanghái: los Cong You Ban Mian. Pocos platos demuestran con tanta elocuencia el poder de la infusión aromática en grasa. Al freír a fuego suave las partes verdes y blancas de la cebolla de verdeo junto con chalotas en aceite neutro, los azúcares naturales se caramelizan lentamente hasta transformar las verduras en filamentos crujientes color bronce y el aceite en un néctar perfumado. Se reduce con salsa de soja y azúcar para crear una laca brillante que envuelve fideos recién hervidos en pura gloria umami.",
+    "ingredients": [
+      {
+        "section": "Aceite de Cebolletas Infusionado al Fuego",
+        "items": [
+          "1 manojo grande de cebollas de verdeo (unos 8 tallos), lavados y bien secos",
+          "2 chalotas o 1 cebolla morada pequeña en rodajas finas",
+          "80 ml de aceite vegetal neutro (girasol o maíz)"
+        ]
+      },
+      {
+        "section": "Glaseado de Soja Reducida",
+        "items": [
+          "3 cucharadas de salsa de soja clara",
+          "2 cucharadas de salsa de soja oscura (aporta el color laqueado brillante)",
+          "1 cucharada colmada de azúcar (imprescindible para el balance caramelizado de Shanghái)"
+        ]
+      },
+      {
+        "section": "Fideos y Servicio",
+        "items": [
+          "250 g de fideos de trigo frescos o secos (tallarines finos)",
+          "Semillas de sésamo tostadas (opcional)"
+        ]
+      }
+    ],
+    "steps": [
+      {
+        "section": "Corte y Secado Riguroso",
+        "items": [
+          "Separar la parte blanca y la verde de las cebollas de verdeo. Cortar los tallos longitudinalmente en tiras de unos 5 cm.",
+          "Secar perfectamente las cebollas con papel de cocina: cualquier resto de agua salpicará al entrar en el aceite caliente."
+        ]
+      },
+      {
+        "section": "Caramelizado Lento del Aceite",
+        "items": [
+          "En una sartén o wok a fuego bajo-medio, verter los 80 ml de aceite. Agregar primero las partes blancas de las cebolletas y las chalotas.",
+          "Cocinar despacio durante 6 a 8 minutos hasta que empiecen a dorarse. Sumar entonces las partes verdes y cocinar a fuego muy suave durante 8 minutos más, vigilando constantemente.",
+          "Las cebolletas perderán su agua y se tornarán de un color bronce oscuro tostado y crujiente (sin quemarse a negro). Retirar las hebras crujientes con espumadera y reservarlas en un plato para coronar."
+        ]
+      },
+      {
+        "section": "Reducción del Glaseado de Soja",
+        "items": [
+          "En la misma sartén con el aceite de cebolleta caliente, verter la salsa de soja clara, la salsa de soja oscura y el azúcar.",
+          "Hervir a fuego bajo durante 1 a 2 minutos hasta que el azúcar se disuelva por completo y la salsa burbujee densamente formando un glaseado brillante. Apagar el fuego."
+        ]
+      },
+      {
+        "section": "Cocción y Mezcla",
+        "items": [
+          "Hervir los fideos de trigo en agua abundante durante 3 minutos hasta que estén al dente. Escurrir inmediatamente sin enjuagar en agua fría.",
+          "Volcar los fideos calientes directamente en los tazones. Añadir 2 o 3 cucharadas del aceite de soja reducido por tazón y mezclar enérgicamente con palillos hasta que cada fideo quede oscuro y laqueado.",
+          "Coronar con las hebras crujientes de cebolleta frita y servir de inmediato."
+        ]
+      }
+    ],
+    "notes": "• **El secreto de las dos sojas:** La soja clara aporta la salinidad exacta; la soja oscura aporta la densidad visual y el tono caoba característico de Shanghái.\n• **Conservación del aceite:** Si hacés cantidad doble, el aceite de cebolletas se puede guardar en frasco de vidrio en la alacena y sirve para condimentar arroces, huevos fritos o salteados de verduras.",
+    "image": "https://lh3.googleusercontent.com/-u6DhJ7YYAtQ/avZ8IZIMKVI/AAAAAAAP8Ss/nhlvlnpe4TQzV91MB-J7egPY3et76qX7ACNcBGAsYHQ/s1600/fideos_aceite_cebolletas_china.jpg",
+    "published": "2026-11-12T23:50:00Z"
   }
 ]
