@@ -2118,7 +2118,8 @@
         if (localEdits) {
           try {
             const parsed = JSON.parse(localEdits);
-            if (Array.isArray(parsed) && parsed.length >= serverRecipes.length) {
+            const hasLegacySchema = Array.isArray(parsed) && parsed.some(r => r.id >= 570 && (!r.step_groups || (Array.isArray(r.steps) && r.steps.length > 0 && typeof r.steps[0] === 'object')));
+            if (Array.isArray(parsed) && parsed.length > serverRecipes.length && !hasLegacySchema) {
               recipes = parsed;
               const notice = document.getElementById('localChangesNotice');
               if (notice) notice.style.display = 'inline';
@@ -2127,6 +2128,7 @@
               recipes = serverRecipes;
             }
           } catch(e) {
+            localStorage.removeItem('umamicraft_custom_recipes');
             recipes = serverRecipes;
           }
         } else {
@@ -2870,9 +2872,29 @@
       if (!r) return;
       const multiplier = baseServings > 0 ? currentServings / baseServings : 1;
       const ingContainer = document.getElementById('modalIngredients');
-      const groups = Array.isArray(r.ingredient_groups) && r.ingredient_groups.length > 0
-        ? r.ingredient_groups
-        : [{ name: 'Ingredientes', items: r.ingredients || [] }];
+      
+      let groups = [];
+      if (Array.isArray(r.ingredient_groups) && r.ingredient_groups.length > 0) {
+        if (r.ingredient_groups.length === 1 && Array.isArray(r.ingredient_groups[0].items) && r.ingredient_groups[0].items.length > 0 && typeof r.ingredient_groups[0].items[0] === 'object' && r.ingredient_groups[0].items[0].items) {
+          groups = r.ingredient_groups[0].items.map(sub => ({
+            name: sub.section || sub.name || 'Ingredientes',
+            items: sub.items || []
+          }));
+        } else {
+          groups = r.ingredient_groups;
+        }
+      } else if (Array.isArray(r.ingredients) && r.ingredients.length > 0) {
+        if (typeof r.ingredients[0] === 'object' && r.ingredients[0] !== null && (r.ingredients[0].section || r.ingredients[0].name)) {
+          groups = r.ingredients.map(sub => ({
+            name: sub.section || sub.name || 'Ingredientes',
+            items: sub.items || sub.ingredients || []
+          }));
+        } else {
+          groups = [{ name: 'Ingredientes', items: r.ingredients }];
+        }
+      } else {
+        groups = [{ name: 'Ingredientes', items: [] }];
+      }
 
       const savedKey = `receta_${r.id}_checks`;
       const saved = JSON.parse(localStorage.getItem(savedKey) || '{"ings":[],"steps":[]}');
@@ -2880,7 +2902,7 @@
 
       let globalIdx = 0;
       ingContainer.innerHTML = groups.map(g => {
-        const gName = (g.name || g.group_name || '').trim();
+        const gName = (g.name || g.group_name || g.section || '').trim();
         return `
         ${(gName && gName.toLowerCase() !== 'ingredientes')
           ? `<div class="group-subtitle">${gName}</div>`
@@ -2889,11 +2911,19 @@
           ${(g.items || g.ingredients || []).map(item => {
             const idx = globalIdx++;
             const isChecked = checkedIngs.includes(idx);
-            let itemText = item;
-            if (typeof item === 'object' && item !== null) {
-              const amt = item.amount ? String(item.amount).trim() : '';
-              const nm = item.name ? String(item.name).trim() : '';
-              itemText = (amt && nm) ? `${amt} de ${nm}` : (nm || amt || '');
+            let itemText = '';
+            if (typeof item === 'string') {
+              itemText = item;
+            } else if (typeof item === 'object' && item !== null) {
+              if (item.amount || item.name) {
+                const amt = item.amount ? String(item.amount).trim() : '';
+                const nm = item.name ? String(item.name).trim() : '';
+                itemText = (amt && nm) ? `${amt} de ${nm}` : (nm || amt || '');
+              } else if (Array.isArray(item.items)) {
+                itemText = item.items.join(', ');
+              } else {
+                itemText = item.text || item.ingredient || String(item || '');
+              }
             } else {
               itemText = String(item || '');
             }
@@ -2963,9 +2993,23 @@
 
     function renderStepList(r) {
       const stepContainer = document.getElementById('modalInstructions');
-      const sGroups = Array.isArray(r.step_groups) && r.step_groups.length > 0
-        ? r.step_groups
-        : [{ name: 'Preparación', steps: r.steps || [] }];
+      let sGroups = [];
+      if (Array.isArray(r.step_groups) && r.step_groups.length > 0) {
+        sGroups = r.step_groups;
+      } else if (Array.isArray(r.steps) && r.steps.length > 0) {
+        if (typeof r.steps[0] === 'object' && r.steps[0] !== null && (r.steps[0].section || r.steps[0].name)) {
+          sGroups = r.steps.map(s => ({
+            name: s.section || s.name || 'Preparación',
+            steps: s.items || s.steps || []
+          }));
+        } else {
+          sGroups = [{ name: 'Preparación', steps: r.steps }];
+        }
+      } else if (typeof r.instructions === 'string' && r.instructions.trim()) {
+        sGroups = [{ name: 'Preparación', steps: r.instructions.split('\n').filter(x => x.trim()) }];
+      } else {
+        sGroups = [{ name: 'Preparación', steps: [] }];
+      }
 
       const savedKey = `receta_${r.id}_checks`;
       const saved = JSON.parse(localStorage.getItem(savedKey) || '{"ings":[],"steps":[]}');
@@ -2973,25 +3017,40 @@
 
       let globalStepIdx = 0;
       stepContainer.innerHTML = sGroups.map(sg => {
-        const sgName = (sg.name || sg.group_name || '').trim();
+        const sgName = (sg.name || sg.group_name || sg.section || '').trim();
         const sgImg = sg.image ? `
           <div class="step-group-img" style="margin: 14px 0 16px 0; text-align: center;">
             <img src="${sg.image}" alt="${sgName || 'Paso'}" style="width:100%; max-width:680px; height:auto; border-radius:10px; box-shadow:0 4px 14px rgba(0,0,0,0.09); display:block; margin:0 auto;" loading="lazy" />
           </div>` : '';
+        const stepItems = sg.steps || sg.items || [];
         return `
         ${(sgName && sgName.toLowerCase() !== 'preparación')
           ? `<div class="group-subtitle">${sgName}</div>`
           : ''}
         ${sgImg}
         <div class="steps-list">
-          ${(sg.steps || sg.items || []).map((st) => {
+          ${stepItems.map((st) => {
             const sIdx = globalStepIdx++;
             const isDone = checkedSteps.includes(sIdx);
+            let stepText = '';
+            let stepTip = '';
+            if (typeof st === 'string') {
+              stepText = st;
+            } else if (typeof st === 'object' && st !== null) {
+              if (Array.isArray(st.items)) {
+                stepText = st.items.join('<br>');
+              } else {
+                stepText = st.instruction || st.text || st.step || '';
+                stepTip = st.tip ? ` (Consejo: ${st.tip})` : '';
+              }
+            } else {
+              stepText = String(st || '');
+            }
             return `
               <div class="step-item ${isDone ? 'done' : ''}" id="step-item-${sIdx}" onclick="toggleStepCheck(${sIdx})">
                 <span id="paso-${sIdx + 1}"></span>
                 <div class="step-num">${sIdx + 1}</div>
-                <div>${(typeof st === 'object' && st !== null) ? ((st.instruction || st.text || '') + (st.tip ? ' (Consejo: ' + st.tip + ')' : '')) : st}</div>
+                <div>${stepText}${stepTip}</div>
               </div>
             `;
           }).join('')}
@@ -3023,8 +3082,18 @@
       return iso === 'PT' ? null : iso;
     }
 
-    function makeStepName(pos, text) {
-      const clean = (text || '').replace(/^(\d+[\.\-\)]|\-|\*)\s*/, '').trim();
+    function makeStepName(pos, rawText) {
+      let text = '';
+      if (typeof rawText === 'string') {
+        text = rawText;
+      } else if (rawText && typeof rawText === 'object') {
+        text = rawText.instruction || rawText.text || rawText.step || rawText.name || '';
+        if (!text && Array.isArray(rawText.items)) text = rawText.items.join('. ');
+        if (!text) text = JSON.stringify(rawText);
+      } else {
+        text = String(rawText || '');
+      }
+      const clean = text.replace(/^(\d+[\.\-\)]|\-|\*)\s*/, '').trim();
       const firstDot = clean.split(/[\.\n]/)[0].trim();
       let firstSentence = firstDot;
       if (firstDot.includes(':') && firstDot.split(':')[0].trim().length <= 35) {
@@ -3052,8 +3121,8 @@
       const category = getCategory(r);
       const imgUrl = (r.image || '').startsWith('http') ? r.image : new URL(r.image || '', window.location.href).href;
       const ingredients = (r.ingredient_groups || []).flatMap(g => g.items || []);
-      const steps = (r.step_groups || []).flatMap(g => g.steps || g.items || []);
-      const finalSteps = steps.length > 0 ? steps : (r.steps || []);
+      const rawSteps = (r.step_groups || []).flatMap(g => g.steps || g.items || []);
+      const finalSteps = rawSteps.length > 0 ? rawSteps : (r.steps || []);
 
       const slug = (typeof idToSlugMap !== 'undefined' && idToSlugMap[r.id]) ? idToSlugMap[r.id] : (typeof makeSlug === 'function' ? makeSlug(r.title) : r.id);
       const pageUrl = `https://umamicraft.vercel.app/receta/${slug}`;
@@ -3088,13 +3157,25 @@
         "recipeCuisine": country,
         "keywords": (r.tags || []).join(', '),
         "recipeIngredient": ingredients.length > 0 ? ingredients : (r.ingredients || []),
-        "recipeInstructions": finalSteps.map((st, idx) => ({
-          "@type": "HowToStep",
-          "position": idx + 1,
-          "name": makeStepName(idx + 1, st),
-          "text": st,
-          "url": `${pageUrl}#paso-${idx + 1}`
-        })),
+        "recipeInstructions": finalSteps.flatMap((st, idx) => {
+          if (typeof st === 'object' && st !== null && Array.isArray(st.items)) {
+            return st.items.map((sub, sidx) => ({
+              "@type": "HowToStep",
+              "position": idx + sidx + 1,
+              "name": makeStepName(idx + sidx + 1, sub),
+              "text": String(sub),
+              "url": `${pageUrl}#paso-${idx + sidx + 1}`
+            }));
+          }
+          const textStr = (typeof st === 'object' && st !== null) ? (st.instruction || st.text || JSON.stringify(st)) : String(st || '');
+          return [{
+            "@type": "HowToStep",
+            "position": idx + 1,
+            "name": makeStepName(idx + 1, textStr),
+            "text": textStr,
+            "url": `${pageUrl}#paso-${idx + 1}`
+          }];
+        }),
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": ratingVal,

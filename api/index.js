@@ -31,8 +31,18 @@ function parseDurationIso(s) {
   return iso !== 'PT' ? iso : null;
 }
 
-function makeStepName(pos, text) {
-  const clean = (text || '').replace(/^(\d+[\.\-\)]|\-|\*)\s*/, '').trim();
+function makeStepName(pos, rawText) {
+  let text = '';
+  if (typeof rawText === 'string') {
+    text = rawText;
+  } else if (rawText && typeof rawText === 'object') {
+    text = rawText.instruction || rawText.text || rawText.step || rawText.name || '';
+    if (!text && Array.isArray(rawText.items)) text = rawText.items.join('. ');
+    if (!text) text = JSON.stringify(rawText);
+  } else {
+    text = String(rawText || '');
+  }
+  const clean = text.replace(/^(\d+[\.\-\)]|\-|\*)\s*/, '').trim();
   const firstDot = clean.split(/[\.\n]/)[0].trim();
   let firstSentence = firstDot;
   if (firstDot.includes(':') && firstDot.split(':')[0].trim().length <= 35) {
@@ -105,11 +115,12 @@ module.exports = (req, res) => {
         recipe.step_groups.forEach(sg => {
           const steps = sg.steps || sg.items || [];
           steps.forEach(st => {
+            const stepText = (typeof st === 'object' && st !== null) ? (st.instruction || st.text || JSON.stringify(st)) : String(st || '');
             instructions.push({
               "@type": "HowToStep",
               "position": pos,
-              "name": makeStepName(pos, st),
-              "text": st,
+              "name": makeStepName(pos, stepText),
+              "text": stepText,
               "url": `${pageUrl}#paso-${pos}`
             });
             pos++;
@@ -118,11 +129,12 @@ module.exports = (req, res) => {
       } else if (recipe.steps) {
         recipe.steps.forEach((st, idx) => {
           const pos = idx + 1;
+          const stepText = (typeof st === 'object' && st !== null) ? (st.instruction || st.text || JSON.stringify(st)) : String(st || '');
           instructions.push({
             "@type": "HowToStep",
             "position": pos,
-            "name": makeStepName(pos, st),
-            "text": st,
+            "name": makeStepName(pos, stepText),
+            "text": stepText,
             "url": `${pageUrl}#paso-${pos}`
           });
         });
