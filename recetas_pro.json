@@ -61598,9 +61598,9 @@
       "desayuno",
       "alta cocina"
     ],
-    "img_local": "img/croissants_franceses_laminados.jpg",
-    "img_filename": "croissants_franceses_laminados.jpg",
-    "image": "https://lh3.googleusercontent.com/-IeIw_QxyrJw/avbMVf6u7hI/AAAAAAAP8VQ/Q1D59lHbIu8689IbcmJiiQp4fZJkf9oNACNcBGAsYHQ/s1600/croissants_franceses_laminados.jpg",
+    "img_local": "img/eclair_de_cafe.jpg",
+    "img_filename": "eclair_de_cafe.jpg",
+    "image": "https://lh3.googleusercontent.com/-li1xo3F0drg/avdE3GaBPTI/AAAAAAAP8W0/mWch2GrLY90coz31y0jpYxNmGrB6IB15ACNcBGAsYHQ/s1600/eclair_de_cafe.jpg",
     "steps": [
       "Para la détrempe: en un bol grande mezclar la harina, el azúcar, la sal y la levadura (sin que la levadura toque directamente la sal). Agregar el agua, la leche fría y los 40 g de manteca blanda.",
       "Amasar durante 5 a 6 minutos hasta formar una masa suave, homogénea y elástica (sin desarrollar excesivo gluten para facilitar el estirado posterior).",
@@ -61702,7 +61702,7 @@
     ],
     "img_local": "img/pain_au_chocolat_hojaldrado.jpg",
     "img_filename": "pain_au_chocolat_hojaldrado.jpg",
-    "image": "https://lh3.googleusercontent.com/-8fZNFVvQyG8/avbMWgZ2A8I/AAAAAAAP8VY/P2Hrl9V3WYQzrCQWq32Fi1NK3CDeuNjogCNcBGAsYHQ/s1600/pain_au_chocolat_hojaldrado.jpg",
+    "image": "https://lh3.googleusercontent.com/-hcT0tflWons/avdE184eD3I/AAAAAAAP8Ws/CvaoVVDtUWUrjG6MijTX25X6_h1p_xCkwCNcBGAsYHQ/s1600/pain_au_chocolat_hojaldrado.jpg",
     "steps": [
       "Preparar la masa laminada con sus pliegues simple y doble refrigerados según la técnica de la receta #604.",
       "Estirar la masa fría sobre la mesada enharinada hasta lograr un rectángulo parejo de 4 mm de espesor y aproximadamente 25 cm de ancho por 60 cm de largo.",
@@ -61976,100 +61976,173 @@
   },
   {
     "id": 608,
-    "title": "Aceite Mayu de Ajo Quemado para Ramen (Japón)",
+    "title": "Aceites Aromáticos para Ramen (Japón)",
     "category": "Salsas y Condimentos",
     "country": "Japón",
-    "difficulty": "Fácil",
-    "prep_time": "10 min",
-    "cook_time": "25 min",
-    "rest_time": "10 min",
-    "servings": "1 frasco (150 ml)",
+    "difficulty": "Intermedio",
+    "prep_time": "20 min",
+    "cook_time": "35 min",
+    "rest_time": "15 min",
+    "servings": "4 frascos (100 ml c/u)",
     "calories": "120 kcal por cucharada",
     "diet_badges": [
       "Sin Gluten",
       "Keto",
-      "Vegano"
+      "Bajo en Carbohidratos"
     ],
-    "story": "En la ciudad de Kumamoto, al sur de Japón, el ramen tonkotsu se distingue de todos los demás por un condimento oscuro y enigmático: el Mayu (aceite negro de ajo quemado). Como descubrió Alex en su obsesiva exploración del ramen, sin este aceite aromático muchos caldos saben a simple sopa plana. El secreto del Mayu desafía la regla culinaria occidental de que el ajo quemado es incomestible: friendo el ajo picado en diferentes etapas térmicas progresivas —desde un dorado pálido y castaño medio hasta un carbón negro azabache— y moliéndolo finamente con aceite de sésamo tostado, las notas amargas se transforman en una explosión de sabor ahumado, torrefacto y umami concentrado.",
+    "story": "En el universo del ramen artesanal existe una regla de oro que Alex (French Guy Cooking) sintetizó con maestría: sin un aceite aromático (kōmiyu) en la superficie, el ramen es simplemente un caldo plano y aburrido. Los aceites aromáticos cumplen tres funciones técnicas fundamentales en el tazón: actúan como un solvente graso que retiene e intensifica las moléculas de aroma volátiles solubles en lípidos, forman una película térmica que sella el vapor manteniendo la sopa hirviendo hasta el último sorbo, y lubrican cada fideo al sorberlo para impregnar el paladar con untuosidad y profundidad. Esta preparación reúne en una sola sesión las cuatro variantes esenciales de la alta cocina de ramen: el Mayu negro de ajo carbonizado (típico de Kumamoto), el aromático Negi Oil de cebolletas y chalotas caramelizadas, el dorado y untuoso Chiyu de grasa de pollo purificada, y el chispeante Rayu picante de chiles y especias.",
     "ingredients": [
-      "1 cabeza entera de ajo fresco (unos 10 a 12 dientes grandes), pelados",
+      "1 cabeza entera de ajo fresco (unos 10 a 12 dientes grandes), picados finos",
       "100 ml de aceite vegetal neutro (girasol o canola) o manteca de cerdo derretida",
       "50 ml de aceite de sésamo tostado japonés puro",
-      "1 pizca de sal fina"
+      "1 pizca de sal fina",
+      "4 tallos de cebolla de verdeo fresca (partes blanca y verde), en rodajas finas",
+      "2 chalotas (o echalotes) medianas, cortadas en láminas finas y parejas",
+      "120 ml de aceite vegetal neutro (girasol, maíz o canola)",
+      "1 trozo de jengibre fresco de 2 cm, ligeramente machacado",
+      "250 g de piel y recortes frescos de grasa de pollo",
+      "3 dientes de ajo aplastados con su piel",
+      "2 rodajas gruesas de jengibre fresco",
+      "1 cucharada (15 ml) de agua (para iniciar la renderización lenta sin quemar)",
+      "100 ml de aceite vegetal neutro",
+      "2 cucharadas (15 g) de copos de chile seco (chili flakes, gochugaru o piquín)",
+      "1 cucharadita de granos de pimienta de Sichuan, ligeramente machacados",
+      "1 pieza de anís estrellado entero",
+      "1 cucharadita de semillas de sésamo blanco tostado"
     ],
     "instructions": [
-      "Picar los dientes de ajo en trozos muy pequeños y uniformes (o procesar ligeramente sin llegar a puré para que doren parejo).",
-      "Dividir el ajo picado en dos porciones iguales.",
-      "En una sartén pequeña o cacerolita a fuego medio-bajo calentar el aceite neutro junto con la primera mitad del ajo.",
-      "Cocinar revolviendo constantemente con una cuchara de madera: el ajo pasará de blanco a rubio y luego a dorado suave. Al llegar a dorado claro, retirar la mitad de este ajo con una espumadera y reservarlo en un platito.",
-      "Continuar cocinando el resto del ajo en el aceite a fuego medio hasta que adquiera un color castaño tostado oscuro; retirar otra porción a un segundo platito.",
-      "Dejar que el resto del ajo restante continúe friéndose a fuego medio-alto hasta que adquiera un color negro carbón intenso y profundo (sin llegar a ceniza humeante gris).",
-      "En ese instante apagar el fuego e incorporar de inmediato la segunda mitad del ajo crudo que habíamos reservado al inicio y los ajos dorados de los platitos.",
-      "El calor residual cocinará el ajo crudo al tiempo que detiene la cocción del ajo negro, creando una compleja pirámide de sabores: notas frescas de ajo crudo, dulzura caramelizada de los ajos dorados y profundidad ahumada del ajo negro.",
-      "Verter los 50 ml de aceite de sésamo tostado y la pizca de sal.",
-      "Pasar toda la mezcla (aceite y sólidos de ajo) al vaso de una licuadora potente o procesadora.",
-      "Triturar a máxima velocidad durante 2 a 3 minutos hasta que todos los sólidos se pulvericen por completo formando un aceite negro azabache, denso, sedoso y homogéneo.",
-      "Verter en un frasco de vidrio limpio. Servir rociando una cucharada en espiral sobre tazones de ramen humeantes, sopas de cerdo o fideos salteados."
+      "Dividir el ajo picado en dos partes iguales. En una sartén pequeña a fuego medio-bajo, calentar los 100 ml de aceite neutro con la primera mitad del ajo picado, revolviendo con cuchara de madera.",
+      "Cuando el ajo comience a dorarse en un rubio suave, retirar un tercio con espumadera y reservarlo en un plato. Dejar que el resto continúe friéndose hasta adquirir un tono castaño oscuro y retirar otro tercio.",
+      "Permitir que la porción restante en la sartén siga cocinándose hasta tornarse negro carbón profundo (cuidando de no llegar a ceniza humeante gris). En ese segundo apagar el fuego e incorporar de golpe la mitad de ajo crudo reservada al inicio y los ajos tostados de los platos; el calor residual cocinará el ajo crudo y detendrá la carbonización.",
+      "Añadir los 50 ml de aceite de sésamo tostado y la pizca de sal. Pasar todo a una licuadora potente y procesar a máxima velocidad durante 2 minutos hasta obtener un aceite negro azabache denso, homogéneo y ahumado.",
+      "En una cacerolita limpia, colocar los 120 ml de aceite neutro junto con las rodajas de cebolla de verdeo, las chalotas laminadas y el trozo de jengibre machacado.",
+      "Llevar a fuego suave manteniendo una temperatura de infusión entre 110 °C y 120 °C. Las verduras deben burbujear pausadamente durante 15 a 20 minutos mientras pierden el agua y caramelizan sus azúcares naturales.",
+      "En cuanto las chalotas y la cebolleta alcancen un color dorado ámbar y una textura crujiente, retirar la cacerola del fuego. Colar inmediatamente sobre un frasco de vidrio limpio y seco. Reservar los tropezones fritos como topping crujiente para coronar el tazón.",
+      "Cortar la piel y grasa de pollo en dados pequeños. Colocarlos en una sartén amplia a fuego mínimo junto con 1 cucharada de agua.",
+      "A medida que el agua se evapora, la grasa comenzará a derretirse suavemente en su propio líquido sin quemarse. Cuando haya suficiente grasa líquida en el fondo, sumar los dientes de ajo aplastados y las rodajas de jengibre.",
+      "Cocinar a fuego muy bajo durante 20 a 25 minutos hasta que los trocitos de piel queden reducidos a pequeños chicharrones dorados y secos. Colar la grasa caliente a través de un colador de malla muy fina (o lienzo de tela) directamente en un frasco de vidrio resistente.",
+      "En un cuenco resistente a altas temperaturas (cerámica o acero inoxidable), colocar los copos de chile, la pimienta de Sichuan machacada, el anís estrellado y las semillas de sésamo blanco tostado.",
+      "Calentar los 100 ml de aceite neutro en una cacerolita hasta que alcance unos 165 °C a 170 °C (comienza a ondular levemente sin humear).",
+      "Verter el aceite caliente en forma de hilo continuo sobre las especias del cuenco, mezclando suavemente mientras chisporrotea para que el calor extraiga los pigmentos rojos y la capsaicina sin quemar el chile. Dejar enfriar por completo antes de embotellar con sus sedimentos.",
+      "Conservar cada variedad en frascos individuales con cierre hermético en lugar fresco o heladera (el Chiyu solidificará como manteca blanda y se licuará instantáneamente al contacto con el caldo caliente).",
+      "Para servir, verter de 1 a 2 cucharadas del aceite aromático elegido en el fondo del tazón junto con el tare antes de incorporar el caldo hirviendo y los fideos: usar Mayu para Tonkotsu, Chiyu para caldos cristalinos Shio o Shoyu, Negi Oil para caldos Miso, y Rayu para darle un toque vibrante y picante a cualquier variedad."
     ],
-    "notes": "En mi cocina este frasco de Mayu vive permanentemente en la mesada: una simple cucharada transforma instantáneamente un caldo modesto de fideos en un plato profundo y complejo con aroma de taberna japonesa tradicional.",
+    "notes": "En mi cocina guardo estos cuatro aceites en hilera junto a las ollas de ramen: son el verdadero secreto que transforma un caldo casero estándar en una experiencia de taberna japonesa tradicional. Mi combinación favorita es una base de caldo Shoyu con una cucharada de Chiyu para darle untuosidad redonda y medio hilo de Mayu negro en un extremo del tazón para aportar notas tostadas sin tapar el fondo.",
     "time": "25 minutos",
     "tags": [
+      "aceite de ramen",
       "mayu",
-      "aceite de ajo",
-      "ramen",
-      "kumamoto",
+      "chiyu",
+      "negi oil",
+      "rayu",
+      "komiyu",
       "japon",
+      "ramen",
       "alex french guy",
-      "condimento",
-      "umami"
+      "condimento"
     ],
-    "img_local": "img/aceite_mayu_ajo_quemado.jpg",
-    "img_filename": "aceite_mayu_ajo_quemado.jpg",
-    "image": "https://lh3.googleusercontent.com/-CsF4066yPOE/avbMaMvODpI/AAAAAAAP8Vw/6S8ZCtPR0sQVpiUXryTqFE9ZcmGL-P_8gCNcBGAsYHQ/s1600/aceite_mayu_ajo_quemado.jpg",
+    "img_local": "img/aceites_aromaticos_ramen.jpg",
+    "img_filename": "aceites_aromaticos_ramen.jpg",
+    "image": "https://lh3.googleusercontent.com/-nFMz2no8Fvg/avdDZuuHdhI/AAAAAAAP8WY/DOG2aoGldGcvtp5oIaE-u_QH9_bx7WvKQCNcBGAsYHQ/s1600/aceites_aromaticos_ramen.jpg",
     "steps": [
-      "Picar los dientes de ajo en trozos muy pequeños y uniformes (o procesar ligeramente sin llegar a puré para que doren parejo).",
-      "Dividir el ajo picado en dos porciones iguales.",
-      "En una sartén pequeña o cacerolita a fuego medio-bajo calentar el aceite neutro junto con la primera mitad del ajo.",
-      "Cocinar revolviendo constantemente con una cuchara de madera: el ajo pasará de blanco a rubio y luego a dorado suave. Al llegar a dorado claro, retirar la mitad de este ajo con una espumadera y reservarlo en un platito.",
-      "Continuar cocinando el resto del ajo en el aceite a fuego medio hasta que adquiera un color castaño tostado oscuro; retirar otra porción a un segundo platito.",
-      "Dejar que el resto del ajo restante continúe friéndose a fuego medio-alto hasta que adquiera un color negro carbón intenso y profundo (sin llegar a ceniza humeante gris).",
-      "En ese instante apagar el fuego e incorporar de inmediato la segunda mitad del ajo crudo que habíamos reservado al inicio y los ajos dorados de los platitos.",
-      "El calor residual cocinará el ajo crudo al tiempo que detiene la cocción del ajo negro, creando una compleja pirámide de sabores: notas frescas de ajo crudo, dulzura caramelizada de los ajos dorados y profundidad ahumada del ajo negro.",
-      "Verter los 50 ml de aceite de sésamo tostado y la pizca de sal.",
-      "Pasar toda la mezcla (aceite y sólidos de ajo) al vaso de una licuadora potente o procesadora.",
-      "Triturar a máxima velocidad durante 2 a 3 minutos hasta que todos los sólidos se pulvericen por completo formando un aceite negro azabache, denso, sedoso y homogéneo.",
-      "Verter en un frasco de vidrio limpio. Servir rociando una cucharada en espiral sobre tazones de ramen humeantes, sopas de cerdo o fideos salteados."
+      "Dividir el ajo picado en dos partes iguales. En una sartén pequeña a fuego medio-bajo, calentar los 100 ml de aceite neutro con la primera mitad del ajo picado, revolviendo con cuchara de madera.",
+      "Cuando el ajo comience a dorarse en un rubio suave, retirar un tercio con espumadera y reservarlo en un plato. Dejar que el resto continúe friéndose hasta adquirir un tono castaño oscuro y retirar otro tercio.",
+      "Permitir que la porción restante en la sartén siga cocinándose hasta tornarse negro carbón profundo (cuidando de no llegar a ceniza humeante gris). En ese segundo apagar el fuego e incorporar de golpe la mitad de ajo crudo reservada al inicio y los ajos tostados de los platos; el calor residual cocinará el ajo crudo y detendrá la carbonización.",
+      "Añadir los 50 ml de aceite de sésamo tostado y la pizca de sal. Pasar todo a una licuadora potente y procesar a máxima velocidad durante 2 minutos hasta obtener un aceite negro azabache denso, homogéneo y ahumado.",
+      "En una cacerolita limpia, colocar los 120 ml de aceite neutro junto con las rodajas de cebolla de verdeo, las chalotas laminadas y el trozo de jengibre machacado.",
+      "Llevar a fuego suave manteniendo una temperatura de infusión entre 110 °C y 120 °C. Las verduras deben burbujear pausadamente durante 15 a 20 minutos mientras pierden el agua y caramelizan sus azúcares naturales.",
+      "En cuanto las chalotas y la cebolleta alcancen un color dorado ámbar y una textura crujiente, retirar la cacerola del fuego. Colar inmediatamente sobre un frasco de vidrio limpio y seco. Reservar los tropezones fritos como topping crujiente para coronar el tazón.",
+      "Cortar la piel y grasa de pollo en dados pequeños. Colocarlos en una sartén amplia a fuego mínimo junto con 1 cucharada de agua.",
+      "A medida que el agua se evapora, la grasa comenzará a derretirse suavemente en su propio líquido sin quemarse. Cuando haya suficiente grasa líquida en el fondo, sumar los dientes de ajo aplastados y las rodajas de jengibre.",
+      "Cocinar a fuego muy bajo durante 20 a 25 minutos hasta que los trocitos de piel queden reducidos a pequeños chicharrones dorados y secos. Colar la grasa caliente a través de un colador de malla muy fina (o lienzo de tela) directamente en un frasco de vidrio resistente.",
+      "En un cuenco resistente a altas temperaturas (cerámica o acero inoxidable), colocar los copos de chile, la pimienta de Sichuan machacada, el anís estrellado y las semillas de sésamo blanco tostado.",
+      "Calentar los 100 ml de aceite neutro en una cacerolita hasta que alcance unos 165 °C a 170 °C (comienza a ondular levemente sin humear).",
+      "Verter el aceite caliente en forma de hilo continuo sobre las especias del cuenco, mezclando suavemente mientras chisporrotea para que el calor extraiga los pigmentos rojos y la capsaicina sin quemar el chile. Dejar enfriar por completo antes de embotellar con sus sedimentos.",
+      "Conservar cada variedad en frascos individuales con cierre hermético en lugar fresco o heladera (el Chiyu solidificará como manteca blanda y se licuará instantáneamente al contacto con el caldo caliente).",
+      "Para servir, verter de 1 a 2 cucharadas del aceite aromático elegido en el fondo del tazón junto con el tare antes de incorporar el caldo hirviendo y los fideos: usar Mayu para Tonkotsu, Chiyu para caldos cristalinos Shio o Shoyu, Negi Oil para caldos Miso, y Rayu para darle un toque vibrante y picante a cualquier variedad."
     ],
     "step_groups": [
       {
-        "name": "Preparación",
+        "name": "1. Aceite Negro Mayu de Ajo Quemado (Kumamoto)",
         "steps": [
-          "Picar los dientes de ajo en trozos muy pequeños y uniformes (o procesar ligeramente sin llegar a puré para que doren parejo).",
-          "Dividir el ajo picado en dos porciones iguales.",
-          "En una sartén pequeña o cacerolita a fuego medio-bajo calentar el aceite neutro junto con la primera mitad del ajo.",
-          "Cocinar revolviendo constantemente con una cuchara de madera: el ajo pasará de blanco a rubio y luego a dorado suave. Al llegar a dorado claro, retirar la mitad de este ajo con una espumadera y reservarlo en un platito.",
-          "Continuar cocinando el resto del ajo en el aceite a fuego medio hasta que adquiera un color castaño tostado oscuro; retirar otra porción a un segundo platito.",
-          "Dejar que el resto del ajo restante continúe friéndose a fuego medio-alto hasta que adquiera un color negro carbón intenso y profundo (sin llegar a ceniza humeante gris).",
-          "En ese instante apagar el fuego e incorporar de inmediato la segunda mitad del ajo crudo que habíamos reservado al inicio y los ajos dorados de los platitos.",
-          "El calor residual cocinará el ajo crudo al tiempo que detiene la cocción del ajo negro, creando una compleja pirámide de sabores: notas frescas de ajo crudo, dulzura caramelizada de los ajos dorados y profundidad ahumada del ajo negro.",
-          "Verter los 50 ml de aceite de sésamo tostado y la pizca de sal.",
-          "Pasar toda la mezcla (aceite y sólidos de ajo) al vaso de una licuadora potente o procesadora.",
-          "Triturar a máxima velocidad durante 2 a 3 minutos hasta que todos los sólidos se pulvericen por completo formando un aceite negro azabache, denso, sedoso y homogéneo.",
-          "Verter en un frasco de vidrio limpio. Servir rociando una cucharada en espiral sobre tazones de ramen humeantes, sopas de cerdo o fideos salteados."
+          "Dividir el ajo picado en dos partes iguales. En una sartén pequeña a fuego medio-bajo, calentar los 100 ml de aceite neutro con la primera mitad del ajo picado, revolviendo con cuchara de madera.",
+          "Cuando el ajo comience a dorarse en un rubio suave, retirar un tercio con espumadera y reservarlo en un plato. Dejar que el resto continúe friéndose hasta adquirir un tono castaño oscuro y retirar otro tercio.",
+          "Permitir que la porción restante en la sartén siga cocinándose hasta tornarse negro carbón profundo (cuidando de no llegar a ceniza humeante gris). En ese segundo apagar el fuego e incorporar de golpe la mitad de ajo crudo reservada al inicio y los ajos tostados de los platos; el calor residual cocinará el ajo crudo y detendrá la carbonización.",
+          "Añadir los 50 ml de aceite de sésamo tostado y la pizca de sal. Pasar todo a una licuadora potente y procesar a máxima velocidad durante 2 minutos hasta obtener un aceite negro azabache denso, homogéneo y ahumado."
+        ]
+      },
+      {
+        "name": "2. Aceite de Cebolleta y Chalota (Negi Oil)",
+        "steps": [
+          "En una cacerolita limpia, colocar los 120 ml de aceite neutro junto con las rodajas de cebolla de verdeo, las chalotas laminadas y el trozo de jengibre machacado.",
+          "Llevar a fuego suave manteniendo una temperatura de infusión entre 110 °C y 120 °C. Las verduras deben burbujear pausadamente durante 15 a 20 minutos mientras pierden el agua y caramelizan sus azúcares naturales.",
+          "En cuanto las chalotas y la cebolleta alcancen un color dorado ámbar y una textura crujiente, retirar la cacerola del fuego. Colar inmediatamente sobre un frasco de vidrio limpio y seco. Reservar los tropezones fritos como topping crujiente para coronar el tazón."
+        ]
+      },
+      {
+        "name": "3. Grasa Purificada de Pollo Aromatizada (Chiyu)",
+        "steps": [
+          "Cortar la piel y grasa de pollo en dados pequeños. Colocarlos en una sartén amplia a fuego mínimo junto con 1 cucharada de agua.",
+          "A medida que el agua se evapora, la grasa comenzará a derretirse suavemente en su propio líquido sin quemarse. Cuando haya suficiente grasa líquida en el fondo, sumar los dientes de ajo aplastados y las rodajas de jengibre.",
+          "Cocinar a fuego muy bajo durante 20 a 25 minutos hasta que los trocitos de piel queden reducidos a pequeños chicharrones dorados y secos. Colar la grasa caliente a través de un colador de malla muy fina (o lienzo de tela) directamente en un frasco de vidrio resistente."
+        ]
+      },
+      {
+        "name": "4. Aceite Picante Rayu de Chiles y Especias",
+        "steps": [
+          "En un cuenco resistente a altas temperaturas (cerámica o acero inoxidable), colocar los copos de chile, la pimienta de Sichuan machacada, el anís estrellado y las semillas de sésamo blanco tostado.",
+          "Calentar los 100 ml de aceite neutro en una cacerolita hasta que alcance unos 165 °C a 170 °C (comienza a ondular levemente sin humear).",
+          "Verter el aceite caliente en forma de hilo continuo sobre las especias del cuenco, mezclando suavemente mientras chisporrotea para que el calor extraiga los pigmentos rojos y la capsaicina sin quemar el chile. Dejar enfriar por completo antes de embotellar con sus sedimentos."
+        ]
+      },
+      {
+        "name": "5. Embotellado y Uso en el Tazón de Ramen",
+        "steps": [
+          "Conservar cada variedad en frascos individuales con cierre hermético en lugar fresco o heladera (el Chiyu solidificará como manteca blanda y se licuará instantáneamente al contacto con el caldo caliente).",
+          "Para servir, verter de 1 a 2 cucharadas del aceite aromático elegido en el fondo del tazón junto con el tare antes de incorporar el caldo hirviendo y los fideos: usar Mayu para Tonkotsu, Chiyu para caldos cristalinos Shio o Shoyu, Negi Oil para caldos Miso, y Rayu para darle un toque vibrante y picante a cualquier variedad."
         ]
       }
     ],
     "ingredient_groups": [
       {
-        "name": "Ingredientes",
+        "name": "Variante 1: Aceite Negro Mayu (Ajo Quemado)",
         "items": [
-          "1 cabeza entera de ajo fresco (unos 10 a 12 dientes grandes), pelados",
+          "1 cabeza entera de ajo fresco (unos 10 a 12 dientes grandes), picados finos",
           "100 ml de aceite vegetal neutro (girasol o canola) o manteca de cerdo derretida",
           "50 ml de aceite de sésamo tostado japonés puro",
           "1 pizca de sal fina"
         ]
+      },
+      {
+        "name": "Variante 2: Aceite de Cebolleta y Chalota (Negi Oil)",
+        "items": [
+          "4 tallos de cebolla de verdeo fresca (partes blanca y verde), en rodajas finas",
+          "2 chalotas (o echalotes) medianas, cortadas en láminas finas y parejas",
+          "120 ml de aceite vegetal neutro (girasol, maíz o canola)",
+          "1 trozo de jengibre fresco de 2 cm, ligeramente machacado"
+        ]
+      },
+      {
+        "name": "Variante 3: Grasa Aromática de Pollo (Chiyu)",
+        "items": [
+          "250 g de piel y recortes frescos de grasa de pollo",
+          "3 dientes de ajo aplastados con su piel",
+          "2 rodajas gruesas de jengibre fresco",
+          "1 cucharada (15 ml) de agua (para iniciar la renderización lenta sin quemar)"
+        ]
+      },
+      {
+        "name": "Variante 4: Aceite Picante Rayu (Chiles y Especias)",
+        "items": [
+          "100 ml de aceite vegetal neutro",
+          "2 cucharadas (15 g) de copos de chile seco (chili flakes, gochugaru o piquín)",
+          "1 cucharadita de granos de pimienta de Sichuan, ligeramente machacados",
+          "1 pieza de anís estrellado entero",
+          "1 cucharadita de semillas de sésamo blanco tostado"
+        ]
       }
-    ]
+    ],
+    "original_title": "Kōmiyu - Ramen Aroma Oils by Alex French Guy Cooking"
   },
   {
     "id": 609,
@@ -62131,7 +62204,7 @@
     ],
     "img_local": "img/sopa_cebolla_francesa_gratine.jpg",
     "img_filename": "sopa_cebolla_francesa_gratine.jpg",
-    "image": "https://lh3.googleusercontent.com/--DMFfbzVfNU/avbMbVvmkNI/AAAAAAAP8V4/4afN6LTQE2A8QVB3XbWOL23ugiOLMySqwCNcBGAsYHQ/s1600/sopa_cebolla_francesa_gratine.jpg",
+    "image": "https://lh3.googleusercontent.com/-6YPU_M0ezcw/avdE0j8-2mI/AAAAAAAP8Wk/WAH2lL54LYcBqsIX98DEzM0gDv2QQNruwCNcBGAsYHQ/s1600/sopa_cebolla_francesa_gratine.jpg",
     "steps": [
       "En una olla de hierro esmaltado o cacerola de fondo grueso derretir la manteca con el aceite de oliva a fuego medio.",
       "Agregar las cebollas cortadas con la sal y el azúcar. Cocinar durante 15 minutos revolviendo de vez en cuando hasta que las cebollas colapsen y suelten toda su agua.",
