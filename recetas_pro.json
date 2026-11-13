@@ -59485,138 +59485,153 @@
   },
   {
     "id": 585,
-    "title": "Swedish Meatbowl - Albóndigas Suecas (Suecia)",
+    "title": "Swedish Meatbowl - Albóndigas Desconstruidas (Suecia)",
     "category": "Platos Principales",
     "country": "Suecia",
-    "difficulty": "Media",
-    "prep_time": "25 min",
-    "cook_time": "30 min",
+    "difficulty": "Fácil",
+    "prep_time": "20 min",
+    "cook_time": "25 min",
     "rest_time": "5 min",
-    "servings": "4 bowls",
-    "calories": "680 kcal por tazón",
+    "servings": "4 porciones",
+    "calories": "650 kcal por porción",
     "diet_badges": [
       "Alto en Proteínas"
     ],
     "tags": [
-      "Kottbullar",
-      "Albondigas suecas",
-      "Meatbowl",
-      "Comida sueca",
-      "Pure de papas",
-      "Salsa brunsas",
-      "Andong"
+      "meatbowl",
+      "albondigas deconstruidas",
+      "suecia",
+      "andong",
+      "kottbullar",
+      "pure de papas",
+      "brunsas",
+      "pressgurka"
     ],
-    "story": "Esta es la versión contemporánea en 'meatbowl' que propone Andong inspirándose en las míticas köttbullar de Estocolmo. En lugar del plato extendido clásico, se construye una experiencia completa en tazón hondo: una base generosa de puré de papas mantecoso al estilo nórdico, albóndigas de ternera y cerdo doradas y tiernas con aroma a pimienta de Jamaica, una cascada de salsa marrón de crema y caldo (brunsås), y el remate sagrado sueco: una cucharada de mermelada ácida de lingonberry y rodajas crujientes de pepino encurtido que cortan la riqueza del plato.",
+    "story": "Bolear decenas de albóndigas suecas una por una suele ser la parte más lenta y tediosa de la receta. En su video Swedish Meatballs (More Like Swedish Meatbowl), Andong deconstruye por completo el clásico plato sueco de las tabernas de Estocolmo: en lugar de enrollar bolitas compactas, saltea la carne picada mixta (50/50 ternera y cerdo) directamente en la sartén con cebolla y manteca clarificada, desmenuzándola y friéndola a fuego vivo hasta que los jugos se evaporan por completo y los pequeños trozos de carne quedan ultracrujientes, dorados y caramelizados con pimienta de Jamaica, salsa de soja y nuez moscada. Con el potente fondo tostado que queda en la sartén se elabora de inmediato la cremosa salsa brunsås, y el plato se monta al estilo bowl: una corona volcánica de puré de papas mantecoso alrededor del plato, una laguna central de salsa marrón tibia, la carne picada crocante coronando el centro, y rodajas frescas de pepino encurtido (pressgurka) que aportan el balance ácido perfecto.",
     "ingredients": [
-      "400 g de carne picada de ternera",
-      "300 g de carne picada de cerdo",
-      "1 cebolla mediana rallada finísima (o procesada)",
-      "60 g de pan rallado fresco hidratado en 100 ml de leche y crema",
-      "1 huevo entero fresco",
-      "1/2 cucharadita de pimienta de Jamaica molida (allspice, la especia clave)",
+      "350 g de carne picada de ternera (o novillo)",
+      "350 g de carne picada de cerdo",
+      "1 cebolla blanca mediana, picada en cubos muy finos",
+      "2 cucharadas de manteca clarificada (ghee) o manteca común",
+      "1 cucharadita de pimienta de Jamaica molida (allspice, la especia imprescindible)",
+      "1/4 cucharadita de canela molida",
       "1/4 cucharadita de nuez moscada recién rallada",
-      "1 cucharadita colmada de sal marina",
-      "1/2 cucharadita de pimienta blanca molida",
-      "2 cucharadas de manteca para dorar",
+      "1/2 cucharadita de ajo en polvo",
+      "1 cucharada de salsa de soja oscura (para color y umami)",
+      "1 cucharadita de sal fina y pimienta negra molida",
       "30 g de manteca",
-      "30 g de harina de trigo",
-      "400 ml de caldo de carne de res oscuro bien sabroso",
-      "100 ml de crema de leche fresca",
-      "1 cucharada de salsa de soja (para color y umami)",
-      "1 cucharadita de mostaza de Dijon",
-      "Pimienta negra recién molida",
-      "4 porciones de puré de papas caliente con abundante manteca y leche",
-      "4 cucharadas de mermelada de arándanos rojos (lingonberry o grosellas)",
-      "1 taza de pepinillos agridulces en rodajas finas (*pressgurka*)",
-      "Eneldo o perejil fresco para decorar"
+      "25 g de harina de trigo",
+      "400 ml de caldo de carne oscuro hirviendo",
+      "120 ml de crema de leche fresca",
+      "1 cucharadita colmada de mostaza de Dijon",
+      "1 cucharadita de salsa inglesa (Worcestershire) o salsa de soja adicional",
+      "Pimienta negra recién molida al gusto",
+      "800 g de papas harinosas cocidas, hechas puré con 60 g de manteca, 100 ml de leche tibia, sal y nuez moscada",
+      "1 taza de pepinillos o pepinos frescos encurtidos en vinagre, azúcar y eneldo (pressgurka)",
+      "3 cucharadas de mermelada de arándanos rojos (lingonberry o grosellas rojas)",
+      "Un puñado de perejil fresco picado para terminar"
     ],
     "steps": [
-      "En un bol, hidratar el pan rallado con la leche y crema durante 5 minutos.",
-      "Añadir la carne de ternera, cerdo, la cebolla rallada con sus jugos, el huevo, la pimienta de Jamaica, la nuez moscada, sal y pimienta blanca.",
-      "Amasar con las manos durante 3 minutos hasta que la mezcla adquiera una textura pegajosa y compacta. Formar bolitas pequeñas y parejas del tamaño de una nuez con las manos húmedas.",
-      "En una sartén grande de hierro a fuego medio-alto, derretir la manteca. Colocar las albóndigas en tandas.",
-      "Dorarlas haciéndolas rodar en la sartén durante 8 a 10 minutos hasta que estén bien bronceadas por fuera y cocidas en el centro. Retirar a un plato, conservando los jugos tostados del fondo de la sartén.",
-      "En la misma sartén con los fondos de carne, agregar los 30 g de manteca y espolvorear la harina. Revolver con batidor durante 1 minuto hasta formar un roux dorado.",
-      "Verter el caldo de carne caliente en hilo batiendo enérgicamente para desglasar los sabores adheridos.",
-      "Sumar la salsa de soja, la mostaza de Dijon y la crema de leche. Dejar hervir suavemente 3 minutos hasta que espese en una salsa satinada y profunda. Reintegrar las albóndigas para bañarlas en el calor.",
-      "En el fondo de cada tazón hondo, colocar una base abundante de puré de papas mantecoso bien caliente.",
-      "Acomodar 5 o 6 albóndigas por encima y napar generosamente con la salsa marrón caliente.",
-      "En los laterales del bowl, servir una cucharada brillante de mermelada de lingonberry y una porción de pepinos encurtidos crocantes. Decorar con hojas de eneldo y servir de inmediato."
+      "En una sartén amplia de hierro o fondo grueso a fuego medio, derretir las 2 cucharadas de manteca clarificada. Agregar la cebolla finamente picada y sudarla durante 3 a 4 minutos hasta que esté translúcida y tierna sin dorarse en exceso.",
+      "Incorporar de golpe la carne picada de ternera y cerdo directamente sobre la sartén caliente. Con una espátula o cuchara de madera, romper y desmenuzar la carne enérgicamente en trozos pequeños.",
+      "Cocinar a fuego medio-alto permitiendo que la carne libere todos sus jugos naturales. Continuar la cocción con paciencia hasta que toda el agua se evapore por completo (unos 8 a 10 minutos).",
+      "Una vez seca la sartén, la carne comenzará a freírse directamente en su propia grasa y manteca. Espolvorear la pimienta de Jamaica, la canela, la nuez moscada, el ajo en polvo, la sal, la pimienta y la cucharada de salsa de soja.",
+      "Revolver constantemente raspando el fondo para despegar los trozos dorados. Continuar friendo durante 5 minutos más hasta que los pedacitos de carne adquieran un color caoba oscuro intenso y queden notablemente crocantes. Retirar la carne crujiente a un plato hondo con espumadera, dejando toda la grasa y los fondos caramelizados en la sartén.",
+      "En la misma sartén aún caliente con los deliciosos fondos pegados de la carne, añadir los 30 g de manteca y espolvorear la harina. Revolver con batidor de alambre durante 1 a 2 minutos para cocinar la harina y formar un roux tostado aromático.",
+      "Verter el caldo de carne caliente en un hilo constante mientras se bate con energía para disolver todo el fondo caramelizado y evitar grumos.",
+      "Añadir la mostaza de Dijon, la salsa inglesa y la crema de leche. Cocinar a fuego suave durante 3 a 4 minutos hasta que la salsa reduzca y nape el dorso de una cuchara con textura aterciopelada y brillante. Probar y ajustar de sal y pimienta.",
+      "Tener listo el puré de papas bien caliente y untuoso. En platos amplios o tazones playos, formar un cordón circular continuo de puré a lo largo de todo el borde exterior, creando una suerte de cráter o cuenco en el medio.",
+      "Verter varias cucharadas generosas de salsa brunsås caliente llenando la laguna central dentro del anillo de puré.",
+      "Coronar la piscina de salsa montando una montaña abundante de la carne picada crujiente en el centro, para que mantenga su textura crocante sin ablandarse antes de llegar a la mesa.",
+      "Espolvorear perejil fresco picado sobre la carne y alrededor del puré. Acompañar al costado con un cuenco de pepinos agridulces crocantes (pressgurka) y una cucharada de mermelada de lingonberry. Servir de inmediato."
     ],
-    "notes": "• **Pimienta de Jamaica (Allspice):** Es el condimento obligatorio que distingue a la albóndiga sueca de cualquier otra del mundo; aporta una calidez especiada única que marida con la salsa de crema.\n• **El Lingonberry:** El arándano rojo silvestre nórdico aporta una acidez dulce que corta de forma brillante la grasa de la carne y el puré.",
-    "image": "https://lh3.googleusercontent.com/-zmO3g6XU2kk/avZ8B5LpFeI/AAAAAAAP8SE/CkYt6xUQQAErnCGRJcxHo5Q0Gp3_2cUlACNcBGAsYHQ/s1600/kottbullar_meatbowl_suecia.jpg",
+    "notes": "En mi cocina esta versión deconstruida de Andong cambió para siempre la forma en que sirvo la comida sueca: ahorra el trabajo tedioso de armar bolitas y, al freír la carne picada suelta hasta que cruje, genera una superficie caramelizada diez veces mayor que una albóndiga tradicional. El contraste entre el puré sedoso, la salsa untuosa y los trocitos crocantes de carne especiada es simplemente imbatible.",
+    "image": "https://lh3.googleusercontent.com/-d61ymM5hqtM/avdJq5X-QgI/AAAAAAAP8XI/Kakd19p5YNIsNqb211erwGeYrS085wB6QCNcBGAsYHQ/s1600/swedish_meatbowl_desconstruido.jpg",
     "published": "2026-11-12T23:50:00Z",
     "ingredient_groups": [
       {
-        "name": "Albóndigas Köttbullar Caseras",
+        "name": "Carne Picada Crocante (Albóndiga Desconstruida)",
         "items": [
-          "400 g de carne picada de ternera",
-          "300 g de carne picada de cerdo",
-          "1 cebolla mediana rallada finísima (o procesada)",
-          "60 g de pan rallado fresco hidratado en 100 ml de leche y crema",
-          "1 huevo entero fresco",
-          "1/2 cucharadita de pimienta de Jamaica molida (allspice, la especia clave)",
+          "350 g de carne picada de ternera (o novillo)",
+          "350 g de carne picada de cerdo",
+          "1 cebolla blanca mediana, picada en cubos muy finos",
+          "2 cucharadas de manteca clarificada (ghee) o manteca común",
+          "1 cucharadita de pimienta de Jamaica molida (allspice, la especia imprescindible)",
+          "1/4 cucharadita de canela molida",
           "1/4 cucharadita de nuez moscada recién rallada",
-          "1 cucharadita colmada de sal marina",
-          "1/2 cucharadita de pimienta blanca molida",
-          "2 cucharadas de manteca para dorar"
+          "1/2 cucharadita de ajo en polvo",
+          "1 cucharada de salsa de soja oscura (para color y umami)",
+          "1 cucharadita de sal fina y pimienta negra molida"
         ]
       },
       {
-        "name": "Salsa Aterciopelada de Crema (Brunsås)",
+        "name": "Salsa Crema Brunsås (en la Misma Sartén)",
         "items": [
           "30 g de manteca",
-          "30 g de harina de trigo",
-          "400 ml de caldo de carne de res oscuro bien sabroso",
-          "100 ml de crema de leche fresca",
-          "1 cucharada de salsa de soja (para color y umami)",
-          "1 cucharadita de mostaza de Dijon",
-          "Pimienta negra recién molida"
+          "25 g de harina de trigo",
+          "400 ml de caldo de carne oscuro hirviendo",
+          "120 ml de crema de leche fresca",
+          "1 cucharadita colmada de mostaza de Dijon",
+          "1 cucharadita de salsa inglesa (Worcestershire) o salsa de soja adicional",
+          "Pimienta negra recién molida al gusto"
         ]
       },
       {
-        "name": "Montaje del Bowl Nórdico",
+        "name": "Base y Guarnición Nórdica",
         "items": [
-          "4 porciones de puré de papas caliente con abundante manteca y leche",
-          "4 cucharadas de mermelada de arándanos rojos (lingonberry o grosellas)",
-          "1 taza de pepinillos agridulces en rodajas finas (*pressgurka*)",
-          "Eneldo o perejil fresco para decorar"
+          "800 g de papas harinosas cocidas, hechas puré con 60 g de manteca, 100 ml de leche tibia, sal y nuez moscada",
+          "1 taza de pepinillos o pepinos frescos encurtidos en vinagre, azúcar y eneldo (pressgurka)",
+          "3 cucharadas de mermelada de arándanos rojos (lingonberry o grosellas rojas)",
+          "Un puñado de perejil fresco picado para terminar"
         ]
       }
     ],
     "step_groups": [
       {
-        "name": "Amasado y Boleado de las Albóndigas",
+        "name": "1. Salteado y Fritura Crocante de la Carne",
         "steps": [
-          "En un bol, hidratar el pan rallado con la leche y crema durante 5 minutos.",
-          "Añadir la carne de ternera, cerdo, la cebolla rallada con sus jugos, el huevo, la pimienta de Jamaica, la nuez moscada, sal y pimienta blanca.",
-          "Amasar con las manos durante 3 minutos hasta que la mezcla adquiera una textura pegajosa y compacta. Formar bolitas pequeñas y parejas del tamaño de una nuez con las manos húmedas."
+          "En una sartén amplia de hierro o fondo grueso a fuego medio, derretir las 2 cucharadas de manteca clarificada. Agregar la cebolla finamente picada y sudarla durante 3 a 4 minutos hasta que esté translúcida y tierna sin dorarse en exceso.",
+          "Incorporar de golpe la carne picada de ternera y cerdo directamente sobre la sartén caliente. Con una espátula o cuchara de madera, romper y desmenuzar la carne enérgicamente en trozos pequeños.",
+          "Cocinar a fuego medio-alto permitiendo que la carne libere todos sus jugos naturales. Continuar la cocción con paciencia hasta que toda el agua se evapore por completo (unos 8 a 10 minutos).",
+          "Una vez seca la sartén, la carne comenzará a freírse directamente en su propia grasa y manteca. Espolvorear la pimienta de Jamaica, la canela, la nuez moscada, el ajo en polvo, la sal, la pimienta y la cucharada de salsa de soja.",
+          "Revolver constantemente raspando el fondo para despegar los trozos dorados. Continuar friendo durante 5 minutos más hasta que los pedacitos de carne adquieran un color caoba oscuro intenso y queden notablemente crocantes. Retirar la carne crujiente a un plato hondo con espumadera, dejando toda la grasa y los fondos caramelizados en la sartén."
         ]
       },
       {
-        "name": "Dorado de las Albóndigas",
+        "name": "2. Salsa Cremosa Brunsås en el Fondo Caramelizado",
         "steps": [
-          "En una sartén grande de hierro a fuego medio-alto, derretir la manteca. Colocar las albóndigas en tandas.",
-          "Dorarlas haciéndolas rodar en la sartén durante 8 a 10 minutos hasta que estén bien bronceadas por fuera y cocidas en el centro. Retirar a un plato, conservando los jugos tostados del fondo de la sartén."
+          "En la misma sartén aún caliente con los deliciosos fondos pegados de la carne, añadir los 30 g de manteca y espolvorear la harina. Revolver con batidor de alambre durante 1 a 2 minutos para cocinar la harina y formar un roux tostado aromático.",
+          "Verter el caldo de carne caliente en un hilo constante mientras se bate con energía para disolver todo el fondo caramelizado y evitar grumos.",
+          "Añadir la mostaza de Dijon, la salsa inglesa y la crema de leche. Cocinar a fuego suave durante 3 a 4 minutos hasta que la salsa reduzca y nape el dorso de una cuchara con textura aterciopelada y brillante. Probar y ajustar de sal y pimienta."
         ]
       },
       {
-        "name": "Preparación de la Salsa Brunsås en la Misma Sartén",
+        "name": "3. Montaje del Meatbowl Nórdico",
         "steps": [
-          "En la misma sartén con los fondos de carne, agregar los 30 g de manteca y espolvorear la harina. Revolver con batidor durante 1 minuto hasta formar un roux dorado.",
-          "Verter el caldo de carne caliente en hilo batiendo enérgicamente para desglasar los sabores adheridos.",
-          "Sumar la salsa de soja, la mostaza de Dijon y la crema de leche. Dejar hervir suavemente 3 minutos hasta que espese en una salsa satinada y profunda. Reintegrar las albóndigas para bañarlas en el calor."
-        ]
-      },
-      {
-        "name": "Montaje del Meatbowl",
-        "steps": [
-          "En el fondo de cada tazón hondo, colocar una base abundante de puré de papas mantecoso bien caliente.",
-          "Acomodar 5 o 6 albóndigas por encima y napar generosamente con la salsa marrón caliente.",
-          "En los laterales del bowl, servir una cucharada brillante de mermelada de lingonberry y una porción de pepinos encurtidos crocantes. Decorar con hojas de eneldo y servir de inmediato."
+          "Tener listo el puré de papas bien caliente y untuoso. En platos amplios o tazones playos, formar un cordón circular continuo de puré a lo largo de todo el borde exterior, creando una suerte de cráter o cuenco en el medio.",
+          "Verter varias cucharadas generosas de salsa brunsås caliente llenando la laguna central dentro del anillo de puré.",
+          "Coronar la piscina de salsa montando una montaña abundante de la carne picada crujiente en el centro, para que mantenga su textura crocante sin ablandarse antes de llegar a la mesa.",
+          "Espolvorear perejil fresco picado sobre la carne y alrededor del puré. Acompañar al costado con un cuenco de pepinos agridulces crocantes (pressgurka) y una cucharada de mermelada de lingonberry. Servir de inmediato."
         ]
       }
-    ]
+    ],
+    "original_title": "Swedish Meatballs (More Like Swedish Meatbowl) - My Name Is Andong",
+    "instructions": [
+      "En una sartén amplia de hierro o fondo grueso a fuego medio, derretir las 2 cucharadas de manteca clarificada. Agregar la cebolla finamente picada y sudarla durante 3 a 4 minutos hasta que esté translúcida y tierna sin dorarse en exceso.",
+      "Incorporar de golpe la carne picada de ternera y cerdo directamente sobre la sartén caliente. Con una espátula o cuchara de madera, romper y desmenuzar la carne enérgicamente en trozos pequeños.",
+      "Cocinar a fuego medio-alto permitiendo que la carne libere todos sus jugos naturales. Continuar la cocción con paciencia hasta que toda el agua se evapore por completo (unos 8 a 10 minutos).",
+      "Una vez seca la sartén, la carne comenzará a freírse directamente en su propia grasa y manteca. Espolvorear la pimienta de Jamaica, la canela, la nuez moscada, el ajo en polvo, la sal, la pimienta y la cucharada de salsa de soja.",
+      "Revolver constantemente raspando el fondo para despegar los trozos dorados. Continuar friendo durante 5 minutos más hasta que los pedacitos de carne adquieran un color caoba oscuro intenso y queden notablemente crocantes. Retirar la carne crujiente a un plato hondo con espumadera, dejando toda la grasa y los fondos caramelizados en la sartén.",
+      "En la misma sartén aún caliente con los deliciosos fondos pegados de la carne, añadir los 30 g de manteca y espolvorear la harina. Revolver con batidor de alambre durante 1 a 2 minutos para cocinar la harina y formar un roux tostado aromático.",
+      "Verter el caldo de carne caliente en un hilo constante mientras se bate con energía para disolver todo el fondo caramelizado y evitar grumos.",
+      "Añadir la mostaza de Dijon, la salsa inglesa y la crema de leche. Cocinar a fuego suave durante 3 a 4 minutos hasta que la salsa reduzca y nape el dorso de una cuchara con textura aterciopelada y brillante. Probar y ajustar de sal y pimienta.",
+      "Tener listo el puré de papas bien caliente y untuoso. En platos amplios o tazones playos, formar un cordón circular continuo de puré a lo largo de todo el borde exterior, creando una suerte de cráter o cuenco en el medio.",
+      "Verter varias cucharadas generosas de salsa brunsås caliente llenando la laguna central dentro del anillo de puré.",
+      "Coronar la piscina de salsa montando una montaña abundante de la carne picada crujiente en el centro, para que mantenga su textura crocante sin ablandarse antes de llegar a la mesa.",
+      "Espolvorear perejil fresco picado sobre la carne y alrededor del puré. Acompañar al costado con un cuenco de pepinos agridulces crocantes (pressgurka) y una cucharada de mermelada de lingonberry. Servir de inmediato."
+    ],
+    "img_local": "img/swedish_meatbowl_desconstruido.jpg",
+    "img_filename": "swedish_meatbowl_desconstruido.jpg"
   },
   {
     "id": 586,
@@ -61176,7 +61191,7 @@
     ],
     "img_local": "img/eclair_de_cafe.jpg",
     "img_filename": "eclair_de_cafe.jpg",
-    "image": "https://lh3.googleusercontent.com/-JGec9ytHM0k/avbMQu0sSMI/AAAAAAAP8Uw/8Sm-m_aJlw0tEQGwr6MlVMoNhpgQLqYWgCNcBGAsYHQ/s1600/eclair_de_cafe.jpg",
+    "image": "https://lh3.googleusercontent.com/-li1xo3F0drg/avdE3GaBPTI/AAAAAAAP8W0/mWch2GrLY90coz31y0jpYxNmGrB6IB15ACNcBGAsYHQ/s1600/eclair_de_cafe.jpg",
     "steps": [
       "Para la masa choux: en una cacerolita hervir el agua, la leche, la manteca en cubos, la sal y el azúcar. En cuanto rompa el hervor, retirar del fuego y volcar toda la harina de golpe.",
       "Revolver enérgicamente con cuchara de madera hasta integrar sin grumos. Regresar a fuego medio y secar la masa durante 1 a 2 minutos aplastándola contra el fondo hasta que se forme una película blanca en la base de la olla.",
@@ -61598,9 +61613,9 @@
       "desayuno",
       "alta cocina"
     ],
-    "img_local": "img/eclair_de_cafe.jpg",
-    "img_filename": "eclair_de_cafe.jpg",
-    "image": "https://lh3.googleusercontent.com/-li1xo3F0drg/avdE3GaBPTI/AAAAAAAP8W0/mWch2GrLY90coz31y0jpYxNmGrB6IB15ACNcBGAsYHQ/s1600/eclair_de_cafe.jpg",
+    "img_local": "img/croissants_franceses_laminados.jpg",
+    "img_filename": "croissants_franceses_laminados.jpg",
+    "image": "https://lh3.googleusercontent.com/-IeIw_QxyrJw/avbMVf6u7hI/AAAAAAAP8VQ/Q1D59lHbIu8689IbcmJiiQp4fZJkf9oNACNcBGAsYHQ/s1600/croissants_franceses_laminados.jpg",
     "steps": [
       "Para la détrempe: en un bol grande mezclar la harina, el azúcar, la sal y la levadura (sin que la levadura toque directamente la sal). Agregar el agua, la leche fría y los 40 g de manteca blanda.",
       "Amasar durante 5 a 6 minutos hasta formar una masa suave, homogénea y elástica (sin desarrollar excesivo gluten para facilitar el estirado posterior).",
