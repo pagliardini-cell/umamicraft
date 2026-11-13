@@ -62715,5 +62715,573 @@
       }
     ],
     "notes": "• **El corte de la zanahoria:** Para lograr la textura auténtica de la morkovcha es ideal usar un rallador de corte coreano o mandolina en juliana larga (fideos continuos de 1,5 a 2 mm de grosor). Rallarla con el lado grueso de un rallador común de queso produce hebras demasiado cortas y blandas que pierden el crujiente elástico característico.\n• **Curado y extracción de agua:** La salazón inicial durante 20 a 30 minutos es obligatoria. No te saltes el paso de envolver la zanahoria en un paño limpio y retorcerlo con fuerza para escurrir todo el líquido vegetal; esto concentra la dulzura natural de la zanahoria y permite que absorba profundamente el aliño especiado sin aguar la preparación.\n• **El secreto del aceite aromatizado:** El gochugaru se quema con facilidad si toca fuego directo. Por eso, dora la cebolla en el aceite hasta que tome un tono dorado profundo, retira la sartén del fuego y recién ahí incorpora el gochugaru para que infusione durante 2 o 3 minutos sin amargar. Verter este aceite caliente sobre el montículo de ajo y especias despierta los aceites esenciales al instante.\n• **Reposo en heladera:** Aunque se puede comer recién armada, alcanza su apogeo tras reposar 24 a 48 horas en un frasco hermético en la heladera. Se conserva en perfecto estado hasta por 2 semanas."
+  },
+  {
+    "id": 612,
+    "title": "Vincisgrassi de Las Marcas (Italia)",
+    "original_title": "Lasagna Vincisgrassi - Evan Funke / American Sfoglino",
+    "category": "Pastas",
+    "country": "Italia",
+    "prep_time": "1 h 30 min",
+    "cook_time": "1 h 15 min",
+    "rest_time": "30 min",
+    "servings": "8 porciones",
+    "calories": "680 kcal por porción",
+    "image": "https://lh3.googleusercontent.com/-OidUgjiw_F4/avd7CKx7DYI/AAAAAAAP8Xs/xNPC34CH0RQ8GNsFhI1ndE4UKyDMuREvgCNcBGAsYHQ/s1600/vincisgrassi_lasana_marche.jpg",
+    "diet_badges": [
+      "Plato de Fiesta",
+      "Pasta Artesanal"
+    ],
+    "tags": [
+      "vincisgrassi",
+      "lasana",
+      "las marcas",
+      "le marche",
+      "borgo pace",
+      "pesaro",
+      "ragu de ternera",
+      "mollejas",
+      "higadillos",
+      "marsala",
+      "besciamella",
+      "pasta al huevo",
+      "italia"
+    ],
+    "story": "Los vincisgrassi son el plato supremo de los días de fiesta en la región de Las Marcas (Le Marche), la tierra de donde es originaria la familia de mi papá, los Pagliardini (de Borgo Pace, en Pesaro y Urbino). A diferencia de la lasaña boloñesa convencional, los vincisgrassi marchigiani se conciben casi como una terrina aristocrática de múltiples láminas delgadísimas de pasta fresca al huevo. Su opulencia radica en la combinación de un ragù blanco de ternera glaseado con fondo oscuro, enriquecido con un salteado noble de mollejas de ternera, hígados de pollo, setas silvestres y vino Marsala, todo amalgamado por una besciamella sedosa perfumada con nuez moscada y abundante Parmigiano-Reggiano.",
+    "ingredients": [
+      "Para el Ragù de Ternera:",
+      "75 g de manteca sin sal",
+      "395 g de carne picada de ternera magra",
+      "Sal kosher y pimienta negra recién molida",
+      "100 g de cebolla amarilla finamente picada",
+      "8 g de ajo picado (2 dientes)",
+      "1 pizca de clavo de olor molido",
+      "110 g de soffritto clásico (zanahoria, apio y cebolla sofrita)",
+      "15 g de harina Wondra o harina 0000",
+      "120 ml de vino blanco seco",
+      "200 ml de caldo oscuro de ternera concentrado",
+      "1 hoja de laurel seca",
+      "Para el Relleno de Hongos, Hígados y Mollejas:",
+      "100 g de hígados de pollo limpios",
+      "125 g de mollejas de ternera cocidas, cortadas en cubos de 1,2 cm",
+      "113 g de manteca sin sal (dividida en dos partes)",
+      "75 g de cebolla amarilla finamente picada",
+      "150 g de mezcla de hongos frescos en láminas",
+      "5 g de hojas de salvia fresca",
+      "Nuez moscada entera para rallar",
+      "15 g de harina Wondra o harina común",
+      "100 ml de vino Marsala seco",
+      "57 g de queso Parmigiano-Reggiano rallado fino",
+      "40 g de jamón crudo (prosciutto) picado",
+      "Para la Masa de Pasta al Huevo:",
+      "500 g de harina 00 italiana",
+      "2 g de sal fina",
+      "200 g de huevos frescos (unos 4 huevos grandes)",
+      "15 ml de aceite de oliva virgen extra",
+      "Para la Besciamella:",
+      "100 g de manteca sin sal",
+      "115 g de harina de trigo 0000",
+      "660 ml de leche entera caliente",
+      "5 g de sal kosher y pimienta blanca recién molida",
+      "Nuez moscada recién rallada al gusto",
+      "57 g de queso Parmigiano-Reggiano rallado fino (más extra para servir)"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Para el Ragù de Ternera",
+        "ingredients": [
+          "75 g de manteca sin sal",
+          "395 g de carne picada de ternera magra",
+          "Sal kosher y pimienta negra recién molida",
+          "100 g de cebolla amarilla finamente picada",
+          "8 g de ajo picado (2 dientes)",
+          "1 pizca de clavo de olor molido",
+          "110 g de soffritto clásico (zanahoria, apio y cebolla sofrita)",
+          "15 g de harina Wondra o harina 0000",
+          "120 ml de vino blanco seco",
+          "200 ml de caldo oscuro de ternera concentrado",
+          "1 hoja de laurel seca"
+        ]
+      },
+      {
+        "name": "Para el Relleno de Hongos, Hígados y Mollejas",
+        "ingredients": [
+          "100 g de hígados de pollo limpios",
+          "125 g de mollejas de ternera cocidas, cortadas en cubos de 1,2 cm",
+          "113 g de manteca sin sal (dividida en dos partes)",
+          "75 g de cebolla amarilla finamente picada",
+          "150 g de mezcla de hongos frescos en láminas",
+          "5 g de hojas de salvia fresca",
+          "Nuez moscada entera para rallar",
+          "15 g de harina Wondra o harina común",
+          "100 ml de vino Marsala seco",
+          "57 g de queso Parmigiano-Reggiano rallado fino",
+          "40 g de jamón crudo (prosciutto) picado"
+        ]
+      },
+      {
+        "name": "Para la Masa de Pasta al Huevo",
+        "ingredients": [
+          "500 g de harina 00 italiana",
+          "2 g de sal fina",
+          "200 g de huevos frescos (unos 4 huevos grandes)",
+          "15 ml de aceite de oliva virgen extra"
+        ]
+      },
+      {
+        "name": "Para la Besciamella",
+        "ingredients": [
+          "100 g de manteca sin sal",
+          "115 g de harina de trigo 0000",
+          "660 ml de leche entera caliente",
+          "5 g de sal kosher y pimienta blanca recién molida",
+          "Nuez moscada recién rallada al gusto",
+          "57 g de queso Parmigiano-Reggiano rallado fino (más extra para servir)"
+        ]
+      }
+    ],
+    "instructions": [
+      "Para el ragù: derrite los 75 g de manteca en una cacerola gruesa a fuego medio. Añade la ternera picada, salpimienta y dórala desgranándola con cuchara de madera durante 5 minutos. Incorpora la cebolla, el ajo y la pizca de clavo; cocina 3 minutos hasta tiernizar. Añade el soffritto, espolvorea la harina y mezcla. Vierte el vino blanco hasta que rompa el hervor, añade el caldo oscuro y el laurel. Tapa y cocina a fuego mínimo 30 minutos; destapa y reduce 15 minutos más hasta que la carne quede glaseada y densa (rinde unas 3 tazas). Retira el laurel.",
+      "Para el relleno: limpia los hígados retirando venas y remójalos 3 horas en agua helada para purgar impurezas; seca y salpimienta junto con las mollejas cocidas. En una sartén amplia, dora los hígados y mollejas en 4 cucharadas de manteca caliente durante 2 minutos por lado; reserva en un plato.",
+      "En la misma sartén derrite las otras 4 cucharadas de manteca, sofríe la cebolla con una pizca de sal 3 minutos, sube el fuego y añade los hongos laminados salpimentados hasta que ablanden. Añade la salvia, 15 raspaduras de nuez moscada, espolvorea la harina e incorpora el vino Marsala; reduce 4 minutos hasta casi secar. Pica grueso los hígados y mollejas, mézclalos con las setas tibias, el Parmigiano-Reggiano y el prosciutto picado (rinde unas 3 tazas).",
+      "Para la masa: bate los huevos con el aceite de oliva. En un bol o procesadora con la harina y la sal, añade los huevos y amasa a mano en la mesada durante varios minutos hasta obtener un bollo firme, elástico y seco. Aplana en un rectángulo, envuelve en film y reposa 30 minutos a temperatura ambiente.",
+      "Para la besciamella: derrite la manteca a fuego medio, incorpora la harina batiendo constantemente durante 2 a 3 minutos sin que tome color dorado. Vierte la leche caliente en hilo batiendo enérgicamente hasta que espese y nape el dorso de una cuchara (unos 5 minutos). Fuera del fuego, sazona con sal, pimienta blanca, nuez moscada y funde el Parmigiano-Reggiano rallado.",
+      "Estira la masa con máquina de pasta bien fina (laminado tradicional) y corta rectángulos del tamaño de tu fuente para horno (aprox. 20x30 cm). Blanquea las hojas en agua hirviendo con sal 30 segundos y pásalas por un baño de agua fría; seca sobre paños limpios.",
+      "Armado y horneado: precalienta el horno a 190 °C y enmanteca una fuente profunda. Unta una capa generosa de besciamella en la base. Coloca pasta, una capa de ragù de ternera, pasta, una capa de relleno de mollejas y setas, pasta; repite sucesivamente hasta lograr al menos 6 a 8 capas alternadas. Corona con ragù, copos de besciamella y abundante Parmigiano-Reggiano.",
+      "Cubre la fuente con papel aluminio y hornea 20 minutos; retira el papel y hornea 15 a 20 minutos más hasta que la superficie esté dorada y burbujeante. Deja reposar 10 minutos antes de cortar y servir con queso rallado extra."
+    ],
+    "step_groups": [
+      {
+        "name": "Elaboración del Ragù de Ternera",
+        "steps": [
+          "Derrite los 75 g de manteca en una cacerola gruesa a fuego medio. Añade la ternera picada, salpimienta y dórala desgranándola con cuchara de madera durante 5 minutos.",
+          "Incorpora la cebolla, el ajo y la pizca de clavo; cocina 3 minutos hasta tiernizar.",
+          "Añade el soffritto, espolvorea la harina y mezcla bien. Vierte el vino blanco hasta que rompa el hervor, añade el caldo oscuro y el laurel.",
+          "Tapa y cocina a fuego mínimo 30 minutos; destapa y reduce 15 minutos más hasta que la carne quede glaseada y densa (rinde unas 3 tazas). Retira el laurel y ajusta sazón."
+        ]
+      },
+      {
+        "name": "Elaboración del Relleno de Setas, Hígados y Mollejas",
+        "steps": [
+          "Limpia los hígados retirando venas y remójalos 3 horas en agua helada para purgar impurezas; seca y salpimienta junto con las mollejas cocidas en cubos.",
+          "En una sartén amplia, dora los hígados y mollejas en 4 cucharadas de manteca caliente durante 2 minutos por lado; reserva en un plato.",
+          "En la misma sartén derrite las otras 4 cucharadas de manteca, sofríe la cebolla con una pizca de sal 3 minutos, sube el fuego y añade los hongos laminados salpimentados hasta que ablanden.",
+          "Añade la salvia, 15 raspaduras de nuez moscada, espolvorea la harina e incorpora el vino Marsala; reduce 4 minutos hasta casi secar.",
+          "Pica grueso los hígados y mollejas, mézclalos con las setas tibias, el Parmigiano-Reggiano y el prosciutto picado (rinde unas 3 tazas)."
+        ]
+      },
+      {
+        "name": "Pasta al Huevo y Salsa Besciamella",
+        "steps": [
+          "Bate los huevos con el aceite de oliva. En un bol o procesadora con la harina y la sal, añade los huevos y amasa a mano en la mesada durante varios minutos hasta obtener un bollo firme, elástico y seco. Aplana en un rectángulo, envuelve en film y reposa 30 minutos.",
+          "Derrite la manteca a fuego medio, incorpora la harina batiendo constantemente durante 2 a 3 minutos sin que tome color. Vierte la leche caliente en hilo batiendo enérgicamente hasta que espese y nape el dorso de una cuchara.",
+          "Fuera del fuego, sazona con sal, pimienta blanca, nuez moscada y funde el Parmigiano-Reggiano rallado."
+        ]
+      },
+      {
+        "name": "Laminado, Montaje y Horneado",
+        "steps": [
+          "Estira la masa con máquina de pasta bien fina y corta rectángulos para tu fuente. Blanquea las hojas en agua hirviendo con sal 30 segundos y pásalas por un baño de agua fría; seca sobre paños.",
+          "Precalienta el horno a 190 °C y enmanteca una fuente profunda. Unta besciamella en la base. Coloca pasta, ragù de ternera, pasta, relleno de mollejas y setas, pasta; repite sucesivamente hasta lograr al menos 6 a 8 capas alternadas.",
+          "Corona con ragù, copos de besciamella y abundante Parmigiano-Reggiano.",
+          "Cubre la fuente con papel aluminio y hornea 20 minutos; retira el papel y hornea 15 a 20 minutos más hasta dorar. Reposa 10 minutos antes de cortar."
+        ]
+      }
+    ],
+    "notes": "• **El secreto de los estratos:** Los vincisgrassi se diferencian de cualquier otra lasaña por la cantidad de capas finas (los marchigiani usan un mínimo de 5, pero lo ideal son 7 u 8 niveles). La masa debe estirarse muy delgada para que al hornearse adquiera la consistencia de una terrina fundente.\n• **Purga de los hígados:** Sumergir los hígados en agua con hielo durante 3 horas es fundamental para extraer restos de sangre y sabores metálicos amargos, dejando una textura suave y dulce.\n• **Vino Marsala y nuez moscada:** El toque de Marsala seco en el salteado de hongos y la nuez moscada en la besciamella aportan la fragancia inconfundible de la cocina renacentista de Las Marcas."
+  },
+  {
+    "id": 613,
+    "title": "Almejas Fritas con Salsa Agridulce (Italia)",
+    "original_title": "Fried Surf Clams with Agrodolce and Onion, Fennel, and Cherry Pepper Salad - Le Marche Coastal Style",
+    "category": "Pescados y Mariscos",
+    "country": "Italia",
+    "prep_time": "30 min",
+    "cook_time": "10 min",
+    "rest_time": "15 min",
+    "servings": "6 porciones",
+    "calories": "420 kcal por porción",
+    "image": "https://lh3.googleusercontent.com/-_pJdhNt9ris/avd7YnI9I7I/AAAAAAAP8YE/g0Bi522a3Cwmuwc3Q0Y7iFzMxAq_uubqgCNcBGAsYHQ/s1600/almejas_fritas_agrodolce_marche.jpg",
+    "diet_badges": [
+      "Mariscos",
+      "Fritura Crocante"
+    ],
+    "tags": [
+      "almejas fritas",
+      "surf clams",
+      "agrodolce",
+      "hinojo",
+      "cherry peppers",
+      "pesaro",
+      "senigallia",
+      "le marche",
+      "las marcas",
+      "mariscos",
+      "fritura",
+      "italia"
+    ],
+    "story": "En la franja costera del mar Adriático que baña la región de Las Marcas (Le Marche), los puestos de playa y trattorias marineras desde Pesaro y Senigallia hasta San Benedetto del Tronto son célebres por su maestría en la fritura de moluscos frescos. Esta receta utiliza tiras de almejas marinas de carne firme (surf clams), que por su gran tamaño se cortan en tiras, se maceran brevemente en suero de manteca (buttermilk) y se enharinan en una mezcla crocante de sémola gruesa, pimentón ahumado, ají cayena y polen de hinojo. El contraste lo aportan dos elementos canónicos de la cocina marchigiana: una salsa agrodolce reducida con vinagre, azúcar y especias, y una ensalada vivaz de láminas translúcidas de bulbo de hinojo, cebolla encurtida rápida y pimientos redondos macerados.",
+    "ingredients": [
+      "Para la Salsa Agrodolce:",
+      "50 ml de agua",
+      "25 g de azúcar común (unas 3 cucharadas)",
+      "25 ml de vinagre de vino blanco (2 cucharadas)",
+      "50 g de glucosa líquida o jarabe de maíz",
+      "1 g de ají cayena en polvo (1/2 cucharadita)",
+      "1 pizca de pimentón de Espelette o pimentón picante",
+      "1 pizca de sal kosher",
+      "Para la Ensalada de Hinojo, Cebolla y Cherry Peppers:",
+      "150 g de cebolla amarilla cortada en pluma muy fina",
+      "12 g de ajo cortado en láminas finas (3 dientes)",
+      "113 ml de líquido de encurtido blanco caliente",
+      "50 g de bulbo de hinojo fresco, sin el corazón, en láminas finas",
+      "6 a 8 pimientos redondos encurtidos (cherry peppers italianos), en tiras finas",
+      "1/4 taza de hojas de perejil fresco entero",
+      "Aceite de oliva virgen extra y sal fina al gusto",
+      "Para las Almejas Fritas Crocantes:",
+      "454 g de almejas marinas limpias (surf clams), cortadas en tiras de 1 cm",
+      "240 ml de suero de manteca (buttermilk)",
+      "100 g de harina de sémola de trigo gruesa (semolina)",
+      "35 g de harina Wondra o harina 0000 tamizada",
+      "3/4 cucharadita de pimentón dulce ahumado (más extra para el final)",
+      "1/2 cucharadita de ají cayena",
+      "1 cucharada de cebolla en polvo",
+      "1/2 cucharadita de polen de hinojo silvestre",
+      "Sal kosher y pimienta negra recién molida",
+      "Abundante aceite neutro o de girasol para freír a inmersión",
+      "1 limón cortado en gajos sin semillas"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Para la Salsa Agrodolce",
+        "ingredients": [
+          "50 ml de agua",
+          "25 g de azúcar común",
+          "25 ml de vinagre de vino blanco",
+          "50 g de glucosa líquida o jarabe de maíz",
+          "1 g de ají cayena en polvo",
+          "1 pizca de pimentón de Espelette",
+          "1 pizca de sal kosher"
+        ]
+      },
+      {
+        "name": "Para la Ensalada de Hinojo y Pimientos",
+        "ingredients": [
+          "150 g de cebolla amarilla en pluma fina",
+          "12 g de ajo en láminas finas",
+          "113 ml de líquido de encurtido blanco caliente",
+          "50 g de bulbo de hinojo en láminas finas",
+          "6 a 8 cherry peppers italianos encurtidos en tiras",
+          "1/4 taza de hojas de perejil fresco",
+          "Aceite de oliva virgen extra y sal fina al gusto"
+        ]
+      },
+      {
+        "name": "Para las Almejas Fritas",
+        "ingredients": [
+          "454 g de almejas marinas en tiras",
+          "240 ml de suero de manteca (buttermilk)",
+          "100 g de sémola gruesa (semolina)",
+          "35 g de harina Wondra o 0000",
+          "3/4 cucharadita de pimentón ahumado",
+          "1/2 cucharadita de cayena",
+          "1 cucharada de cebolla en polvo",
+          "1/2 cucharadita de polen de hinojo",
+          "Sal kosher y pimienta negra",
+          "Aceite para freír",
+          "1 limón en gajos"
+        ]
+      }
+    ],
+    "instructions": [
+      "Para la salsa agrodolce: en una olla pequeña a fuego medio, hierve el agua, el azúcar y el vinagre hasta obtener un almíbar dorado ligero (unos 5 minutos). Incorpora la glucosa y lleva a ebullición. Añade la cayena, el pimentón y la sal; retira del fuego y deja enfriar a temperatura ambiente.",
+      "Para la ensalada: coloca la cebolla y el ajo en un recipiente resistente al calor. Hierve el líquido de encurtido y viértelo caliente sobre la cebolla; deja reposar hasta enfriar. Con mandolina, rebana el hinojo en láminas finas a lo largo y sumérgelo en agua helada para que rice y quede extra crocante. Justo antes de freír las almejas, escurre bien la cebolla y el hinojo, mézclalos con las tiras de cherry peppers, el perejil, unas gotas de aceite de oliva y sal.",
+      "Para las almejas: calienta unos 5 cm de aceite en una cacerola ancha hasta alcanzar 182 °C (360 °F). Prepara una rejilla con papel absorbente.",
+      "Coloca las tiras de almejas en un bol, cúbrelas con el buttermilk durante 3 minutos y cuélalas bien. En un bol amplio mezcla la sémola, la harina, el pimentón, la cayena, la cebolla en polvo, el polen de hinojo, sal y pimienta. Pasa las almejas por la mezcla enharinando cada tira por completo y sacude el exceso con un colador.",
+      "Fríe las tiras de almejas por tandas en el aceite caliente durante 60 a 90 segundos hasta que adquieran un tono dorado oscuro y un crujido seco impecable. Retira con espumadera hacia la rejilla, espolvorea con una pizca de sal y pimentón ahumado.",
+      "Sirve inmediatamente en fuente rústica con los gajos de limón, la salsa agrodolce para dipear y la ensalada fresca de hinojo y pimientos."
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación de la Salsa Agrodolce",
+        "steps": [
+          "En una olla pequeña a fuego medio, hierve el agua, el azúcar y el vinagre hasta obtener un almíbar dorado ligero (unos 5 minutos).",
+          "Incorpora la glucosa y lleva a hervor suave.",
+          "Añade la cayena, el pimentón de Espelette y la sal; retira del fuego y deja enfriar a temperatura ambiente."
+        ]
+      },
+      {
+        "name": "Encurtido Rápido y Ensalada de Hinojo",
+        "steps": [
+          "Coloca la cebolla y el ajo en un recipiente térmico. Hierve el líquido de encurtido y viértelo sobre la cebolla; deja enfriar.",
+          "Rebana el hinojo con mandolina y sumérgelo en agua helada para tensar su textura.",
+          "Escurre la cebolla y el hinojo, mézclalos con los pimientos cherry peppers, el perejil, aceite de oliva y sal."
+        ]
+      },
+      {
+        "name": "Rebozado y Fritura de las Almejas",
+        "steps": [
+          "Calienta el aceite a 182 °C en cacerola ancha.",
+          "Sumerge las almejas en el buttermilk durante 3 minutos y escúrrelas.",
+          "Pásalas por la mezcla sazonada de sémola, harina, especias y polen de hinojo; sacude el exceso.",
+          "Fríe por tandas durante 60 a 90 segundos hasta dorar crocante. Escurre en rejilla con sal y sirve con la salsa y la ensalada."
+        ]
+      }
+    ],
+    "notes": "• **El rebozado de sémola:** La harina de sémola gruesa (semolina) combinada con harina Wondra garantiza una costra crocante que no se ablanda al contacto con los jugos de la almeja marina.\n• **Polen de hinojo:** El polen de hinojo silvestre es una especia aromática fetiche en la cocina de Las Marcas y la Toscana; si no dispones de él, muele semillas de hinojo tostadas en mortero.\n• **El papel del Agrodolce:** La acidez y dulzor del agrodolce reemplazan y potencian las gotas clásicas de limón, equilibrando la riqueza de la fritura marina."
+  },
+  {
+    "id": 614,
+    "title": "Crudo de Lenguado con Aceitunas Rellenas y Cítricos (Italia)",
+    "original_title": "Fluke Crudo, Sausage-Stuffed Olives, and Citrus - Senigallia Style (Moreno Cedroni Tribute)",
+    "category": "Pescados y Mariscos",
+    "country": "Italia",
+    "prep_time": "35 min",
+    "cook_time": "5 min",
+    "rest_time": "2 h 30 min",
+    "servings": "6 porciones",
+    "calories": "290 kcal por porción",
+    "image": "https://lh3.googleusercontent.com/-QksUZRhaJu4/avd7DQZ8NCI/AAAAAAAP8X0/yhkkWaS2KNkLf2_HNog9Orc08OQFttl5ACNcBGAsYHQ/s1600/fluke_crudo_aceitunas_citricos.jpg",
+    "diet_badges": [
+      "Pescado Crudo",
+      "Alta Cocina Marina"
+    ],
+    "tags": [
+      "crudo",
+      "lenguado",
+      "fluke",
+      "senigallia",
+      "las marcas",
+      "le marche",
+      "olive ascolane",
+      "aceitunas rellenas",
+      "citricos",
+      "pescado crudo",
+      "alta cocina",
+      "italia"
+    ],
+    "story": "Senigallia, ciudad costera de la provincia de Ancona en Las Marcas (Le Marche), es uno de los epicentros gastronómicos marítimos más célebres de Italia gracias a templos como La Madonnina del Pescatore (del chef Moreno Cedroni) y Uliassi. Esta creación rinde homenaje a la pureza del crudo adriático: finas láminas de lenguado fresco curadas suavemente en sal marina, azúcar, ralladura de cítricos y menta, acompañadas de gajos limpios de naranja, pomelo y limón Meyer. El toque de identidad marchigiana definitiva lo aportan las aceitunas verdes Castelvetrano rellenas con carne de salchicha italiana y fritas crocantes (en homenaje a las legendarias olive all'ascolana de Ascoli Piceno), combinadas con el crujido salino de los espárragos de mar (sea beans) o alcaparras.",
+    "ingredients": [
+      "Para la Curación del Crudo de Pescado:",
+      "150 g de sal kosher (1 taza)",
+      "75 g de azúcar común (1/3 taza)",
+      "1/4 taza de ralladura mixta de cítricos (naranja, limón Meyer y pomelo)",
+      "5 a 10 hojas de menta fresca fresca",
+      "300 g de filete de lenguado fresco (fluke) limpio, sin piel ni espinas",
+      "Para las Aceitunas Rellenas Fritas (Estilo Ascolano):",
+      "57 g de carne magra de salchicha italiana condimentada",
+      "12 a 18 aceitunas verdes grandes descarozadas (Castelvetrano o Cerignola)",
+      "32 g de harina Wondra o 0000",
+      "50 g de huevo fresco batido (1 unidad)",
+      "30 g de pan rallado fino seco",
+      "Aceite de oliva para freír las aceitunas",
+      "Para el Aliño de Cítricos y Montaje:",
+      "1 naranja pelada a vivo, en gajos finos",
+      "1 limón Meyer pelado a vivo, en gajos finos",
+      "1 pomelo pelado a vivo, en gajos finos",
+      "1/2 taza de espárragos de mar (sea beans o salicornia) blanqueados, o alcaparras baby",
+      "1/2 cucharadita de sal gruesa marina",
+      "1/2 cucharadita de ralladura de lima fresca",
+      "Aceite de oliva virgen extra de primera presión en frío",
+      "6 a 12 hojitas tiernas de menta"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Para el Crudo de Lenguado Curado",
+        "ingredients": [
+          "150 g de sal kosher",
+          "75 g de azúcar común",
+          "1/4 taza de ralladura de cítricos (naranja, limón, pomelo)",
+          "5 a 10 hojas de menta fresca",
+          "300 g de filete de lenguado fresco limpio"
+        ]
+      },
+      {
+        "name": "Para las Aceitunas Rellenas Fritas",
+        "ingredients": [
+          "57 g de carne de salchicha italiana",
+          "12 a 18 aceitunas verdes grandes descarozadas (Castelvetrano)",
+          "32 g de harina Wondra o 0000",
+          "1 huevo batido",
+          "30 g de pan rallado fino",
+          "Aceite de oliva para freír"
+        ]
+      },
+      {
+        "name": "Para la Guarnición y Montaje",
+        "ingredients": [
+          "1 naranja en gajos a vivo",
+          "1 limón Meyer en gajos a vivo",
+          "1 pomelo en gajos a vivo",
+          "1/2 taza de salicornia o alcaparras",
+          "1/2 cucharadita de sal marina con ralladura de lima",
+          "Aceite de oliva virgen extra",
+          "Hojitas de menta fresca"
+        ]
+      }
+    ],
+    "instructions": [
+      "Curación del pescado: frota con las manos la sal, el azúcar, las ralladuras de cítricos y las hojas de menta para liberar sus aceites esenciales. En una mesada extiende papel film, espolvorea la mitad de la cura en una capa uniforme, acomoda el filete de lenguado encima y cubre con el resto de la cura. Envuelve herméticamente y refrigera durante 2 horas a 2 horas y media.",
+      "Preparación de las aceitunas: rellena el hueco de cada aceituna verde con una porción de carne de salchicha italiana. Pásalas en orden por harina, huevo batido y pan rallado. Mantén en la heladera hasta el momento de freír.",
+      "Corta los gajos de naranja, limón y pomelo en láminas finas al sesgo. Blanquea la salicornia en agua hirviendo durante 1 minuto y enfríala de golpe en agua helada para fijar su crocantez verde esmeralda (si usas alcaparras, enjuágalas bien).",
+      "Lava el filete de lenguado bajo agua fría para retirar toda la cura de sal y seca completamente con papel absorbente. Córtalo transversalmente en láminas muy finas de unos 3 mm de espesor y acomódalas sobre platos fríos extendidos.",
+      "Mezcla la sal marina con la ralladura de lima fresca. Calienta unos 2,5 cm de aceite de oliva en una ollita pequeña a 182 °C (360 °F) y fríe las aceitunas empanadas durante 1 a 2 minutos hasta que adquieran un color dorado uniforme. Escurre sobre papel y espolvorea con la sal de lima.",
+      "Montaje: distribuye los gajos de cítricos sobre las láminas de pescado, rocía generosamente con hilo de aceite de oliva virgen extra, espolvorea la sal de lima y corona con las aceitunas fritas calientes, la salicornia crocante y las hojas de menta."
+    ],
+    "step_groups": [
+      {
+        "name": "Curado Cítrico del Lenguado",
+        "steps": [
+          "Frota con las manos la sal, el azúcar, las ralladuras de cítricos y la menta para extraer sus aceites esenciales.",
+          "Espolvorea la mitad de la cura sobre film plástico, coloca el filete de lenguado y cubre con el resto.",
+          "Envuelve bien ajustado y refrigera de 2 a 2 horas y media. Luego lava bajo agua fría y seca a la perfección."
+        ]
+      },
+      {
+        "name": "Elaboración de las Aceitunas Ascolanas Fritas",
+        "steps": [
+          "Rellena las aceitunas verdes con carne sazonada de salchicha italiana.",
+          "Pasa por harina, huevo batido y pan rallado fino.",
+          "Fríe en aceite de oliva a 182 °C de 1 a 2 minutos hasta que doren crujientes. Escurre y sazona con sal de lima."
+        ]
+      },
+      {
+        "name": "Corte, Armado y Emplatado",
+        "steps": [
+          "Corta el lenguado en láminas de 3 mm y disponlas sobre platos fríos.",
+          "Intercala los gajos a vivo de cítricos y la salicornia blanqueada.",
+          "Corona con las aceitunas fritas tibias, hilo de aceite de oliva virgen extra y hojitas de menta."
+        ]
+      }
+    ],
+    "notes": "• **Tiempo de curado exacto:** 2 horas a 2 horas y media es el lapso perfecto para el lenguado; la carne se torna firme y translúcida sin llegar a deshidratarse ni sobrecocinarse por la sal.\n• **El contraste térmico:** El encanto del plato reside en el contraste entre el pescado crudo y los cítricos helados frente a las aceitunas rellenas crujientes recién salidas del aceite caliente.\n• **Reemplazo de salicornia:** Si no consigues espárragos de mar (sea beans / salicornia), las alcaparras baby enjuagadas brindan ese mismo mordisco salino que dialoga a la perfección con la aceituna y el pescado."
+  },
+  {
+    "id": 615,
+    "title": "Pansotti de Remolacha y Ricotta (Italia)",
+    "original_title": "Beet and Ricotta Pansotti with Walnuts and Ricotta Salata - Evan Funke / American Sfoglino",
+    "category": "Pastas",
+    "country": "Italia",
+    "prep_time": "1 h 15 min",
+    "cook_time": "10 min",
+    "rest_time": "30 min",
+    "servings": "4 porciones",
+    "calories": "510 kcal por porción",
+    "image": "https://lh3.googleusercontent.com/-ct2hVm4H-W4/avd7hxCXGHI/AAAAAAAP8YM/k1sOOlfsI6c7HZ1T_hnpeVBPft12EuGhgCNcBGAsYHQ/s1600/pansotti_remolacha_ricotta_salata.jpg",
+    "diet_badges": [
+      "Vegetariano",
+      "Pasta Rellena Artesanal"
+    ],
+    "tags": [
+      "pansotti",
+      "remolacha",
+      "pasta rellena",
+      "pasta violeta",
+      "ricotta",
+      "ricotta salata",
+      "manteca avellanada",
+      "nueces",
+      "italia",
+      "pasta al huevo"
+    ],
+    "story": "Los pansotti representan la filosofía italiana del aprovechamiento integral del vegetal (root-to-leaf), donde tanto la raíz como las hojas tiernas de la remolacha encuentran su lugar en el plato. En esta refinada creación de pasta fresca artesanal, la masa al huevo adquiere un color púrpura vibrante gracias a la incorporación de polvo puro de remolacha deshidratada. El relleno equilibra la dulzura terrosa de las remolachas asadas al horno y el amargor sutil de sus hojas salteadas con cebolla y ajo, amalgamadas con ricotta fresca bien drenada, Parmigiano-Reggiano y nuez moscada. La pasta se dobla en triángulos perfectos y se saltea en manteca avellanada dorada (brown butter) con salvia, nueces crocantes tostadas, semillas de amapola, pasas rubias y una nevada final de ricotta salata.",
+    "ingredients": [
+      "Para el Relleno de Remolacha y Ricotta:",
+      "200 g de remolachas rojas tiernas con sus hojas verdes intactas (6 o 7 unidades)",
+      "Aceite de oliva virgen extra",
+      "15 ml de vinagre de vino tinto (1 cucharada)",
+      "Sal kosher al gusto",
+      "8 g de manteca sin sal (2 cucharaditas)",
+      "20 g de cebolla amarilla finamente picada",
+      "4 g de ajo picado (1 diente pequeño)",
+      "160 g de ricotta fresca de buena calidad bien drenada (2/3 taza)",
+      "18 g de queso Parmigiano-Reggiano rallado fino (1/3 taza)",
+      "Nuez moscada entera recién rallada",
+      "Para la Masa Púrpura de Remolacha:",
+      "240 g de harina 00 italiana (1 3/4 tazas)",
+      "12 g de polvo de remolacha deshidratada tamizada (1 cucharada colmada)",
+      "2 g de sal fina (1/2 cucharadita)",
+      "100 g de huevos frescos batidos (2 huevos medianos a temperatura ambiente)",
+      "Para la Salsa de Manteca Avellanada y Terminación:",
+      "57 g de manteca sin sal (4 cucharadas)",
+      "6 a 10 hojas de salvia fresca",
+      "70 g de nueces tostadas y picadas gruesas (1/4 taza)",
+      "2 g de semillas de amapola (1 cucharadita)",
+      "85 g de pasas de uva rubias hidratadas en agua tibia (1/4 taza)",
+      "Un bloque de ricotta salata curada para rallar por encima"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Para el Relleno de Remolacha Asada y sus Hojas",
+        "ingredients": [
+          "200 g de remolachas tiernas con sus hojas verdes",
+          "Aceite de oliva virgen extra",
+          "15 ml de vinagre de vino tinto",
+          "8 g de manteca sin sal",
+          "20 g de cebolla amarilla picada",
+          "4 g de ajo picado",
+          "160 g de ricotta fresca drenada",
+          "18 g de Parmigiano-Reggiano rallado",
+          "Nuez moscada recién rallada y sal kosher"
+        ]
+      },
+      {
+        "name": "Para la Masa al Huevo Púrpura",
+        "ingredients": [
+          "240 g de harina 00 italiana",
+          "12 g de polvo de remolacha deshidratada",
+          "2 g de sal fina",
+          "100 g de huevos frescos batidos"
+        ]
+      },
+      {
+        "name": "Para la Salsa de Manteca Avellanada y Guarnición",
+        "ingredients": [
+          "57 g de manteca sin sal",
+          "6 a 10 hojas de salvia fresca",
+          "70 g de nueces tostadas picadas",
+          "2 g de semillas de amapola",
+          "85 g de pasas de uva rubias hidratadas",
+          "Ricotta salata para rallar"
+        ]
+      }
+    ],
+    "instructions": [
+      "Para el relleno: precalienta el horno a 200 °C (400 °F). Corta las hojas de remolacha y resérvalas. Coloca las remolachas en un pliego de papel aluminio con un chorrito de aceite de oliva, el vinagre de vino tinto y sal. Cierra el paquete herméticamente y hornea durante 45 minutos hasta que cedan a la presión. Pélalas frotando con guantes y córtalas en brunoise muy fina.",
+      "Derrite los 8 g de manteca en una sartén a fuego medio, sofríe la cebolla con sal 4 minutos, añade el ajo 1 minuto y suma las hojas de remolacha picadas hasta que marchiten (3 minutos). En un bol mezcla la cebolla, el ajo y las hojas frías con la ricotta drenada, el Parmigiano-Reggiano, los cubitos de remolacha asada, 1 cucharada de aceite de oliva, nuez moscada y sal. Coloca en manga pastelera y enfría bien.",
+      "Para la masa: mezcla la harina, el polvo de remolacha y la sal en un bol. Añade los huevos batidos y amasa a mano en la mesada durante 5 minutos hasta obtener una masa firme y de intenso color púrpura. Aplana, envuelve en film y reposa 30 minutos.",
+      "Estira la masa con máquina de pasta bien fina. Corta cuadrados de 7,5 cm (3 pulgadas). Colócalos en forma de rombo, escudilla una cucharadita de relleno hacia la punta inferior, humedece ligeramente los bordes y dobla hacia arriba formando un triángulo (pansotti). Presiona los bordes para sellar expulsando todo el aire.",
+      "Cocina los pansotti en abundante agua hirviendo con sal durante 4 a 5 minutos.",
+      "Mientras tanto, derrite los 57 g de manteca en una sartén grande a fuego medio hasta que empiece a dorarse, chisporrotear y despedir perfume avellanado. Agrega las hojas de salvia y retira del fuego. Pasa la pasta cocida directamente a la sartén con un par de cucharadas de agua de cocción, saltea a fuego suave un minuto, suma las nueces tostadas, las semillas de amapola y las pasas rubias.",
+      "Sirve en platos hondos precalentados y termina con una generosa lluvia de ricotta salata recién rallada."
+    ],
+    "step_groups": [
+      {
+        "name": "Asado de Remolachas y Relleno Integral",
+        "steps": [
+          "Hornea las remolachas en papillote de aluminio con oliva y vinagre a 200 °C por 45 minutos. Pela y corta en brunoise fina.",
+          "Saltea la cebolla, el ajo y las hojas verdes de remolacha picadas en manteca.",
+          "Mezcla las hojas y vegetales con la ricotta drenada, Parmigiano-Reggiano, nuez moscada y los cubos de remolacha. Lleva a manga y enfría."
+        ]
+      },
+      {
+        "name": "Elaboración de la Masa Púrpura y Armado de Pansotti",
+        "steps": [
+          "Amasa la harina con el polvo de remolacha, sal y huevos hasta lograr elasticidad y color púrpura intenso. Reposa 30 minutos.",
+          "Estira fina con máquina y corta cuadrados de 7,5 cm.",
+          "Rellena cada pieza en rombo, dobla en triángulo presionando para expulsar el aire y sella con los dedos."
+        ]
+      },
+      {
+        "name": "Cocción, Manteca Avellanada y Emplatado",
+        "steps": [
+          "Hierve la pasta durante 4 a 5 minutos en agua con sal.",
+          "Dora la manteca hasta punto avellanado con salvia fresca.",
+          "Emulsiona la pasta en la manteca con un toque de agua de cocción, incorpora nueces, amapola y pasas rubias.",
+          "Sirve con abundante ricotta salata rallada en copos."
+        ]
+      }
+    ],
+    "notes": "• **Polvo de remolacha casero:** Si tienes deshidratador de alimentos, puedes deshidratar láminas finas de remolacha y molerlas en molinillo de café bien limpio para obtener tu propio polvo púrpura 100% natural.\n• **Cocción de la verdura de raíz a hoja:** Aprovechar los tallos y hojas aporta notas minerales y un contraste aromático fundamental frente a la dulzura de la raíz.\n• **La magia de la manteca noisette:** La manteca debe tostarse hasta adquirir notas de avellana (*beurre noisette*); combinada con la salvia y la ricotta salata ácida y seca, eleva la pasta al nivel de trattoria de tres estrellas."
   }
 ]
