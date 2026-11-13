@@ -44851,7 +44851,37 @@
     ],
     "notes": "• **Por qué cacao alcalinizado:** El proceso holandés o alcalinizado reduce la acidez natural del cacao, otorgándole un color marrón chocolate profundo y un sabor redondo que no compite con el tostado de la avellana.\n• **El rol de la leche en polvo:** Usar leche líquida arruina la crema porque introduce agua libre que fermenta y apelmaza el cacao. La leche en polvo otorga el sabor lácteo clásico de Ferrero y permite que la crema dure meses sin conservantes químicos.\n• **El secreto de la lecitina:** Una sola cucharadita de lecitina de soja líquida actúa como puente molecular entre los aceites vegetales y los sólidos secos, evitando que con los días se separe una capa aceitosa en la superficie.",
     "image": "https://lh3.googleusercontent.com/-L8nrWwQim8E/avYbCKPW-fI/AAAAAAAP8P0/msC5jRO_sLATf7jc6E6kuus9nT1VfaJSQCNcBGAsYHQ/s1600/crema_avellanas_cacao_ferrero.jpg",
-    "published": "2026-11-12T17:00:00Z"
+    "published": "2026-11-12T17:00:00Z",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          {
+            "section": "Base de Avellanas Piamontesas",
+            "items": [
+              "250 g de avellanas enteras peladas (calidad Tonda Gentile o similar)",
+              "180 g de azúcar impalpable (glas), previamente tamizada"
+            ]
+          },
+          {
+            "section": "Mezcla de Cacao y Lácteos",
+            "items": [
+              "40 g de cacao amargo alcalinizado en polvo (cacao holandés al 100%)",
+              "50 g de leche descremada en polvo (aporta cuerpo lácteo sin añadir agua)",
+              "2 g (1 pizca generosa) de sal marina fina"
+            ]
+          },
+          {
+            "section": "Emulsión y Aromas",
+            "items": [
+              "45 g de aceite vegetal neutro (girasol alto oleico o maíz)",
+              "4 g (1 cucharadita) de lecitina de soja líquida (emulsionante natural de brillo)",
+              "1 cucharadita (5 ml) de extracto puro de vainilla o 1 g de vainillina"
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 572,
@@ -44936,7 +44966,38 @@
     ],
     "notes": "• **Whisky recomendado:** Usar auténtico whisky irlandés (triple destilado como Jameson o Bushmills), ya que es infinitamente más suave, floral y menos ahumado que el scotch o el bourbon americano, amoldándose a la crema sin aspereza.\n• **Conservación:** Al contener un ~17% de volumen alcohólico y azúcar de la leche condensada, se conserva en óptimas condiciones en la heladera durante 4 a 6 semanas. Agitar suavemente la botella antes de servir.\n• **Servicio perfecto:** Servir en un vaso bajo tipo 'on the rocks' con cubos de hielo macizo, o agregar una medida a una taza de café espresso caliente terminado con crema batida.",
     "image": "https://lh3.googleusercontent.com/-ya-YcxUIPuM/avYbDPDEGUI/AAAAAAAP8P8/8jdIvwEqXEcDXZypS0WYiNgahz9n1-WaQCNcBGAsYHQ/s1600/licor_crema_irlandesa_baileys.jpg",
-    "published": "2026-11-12T17:00:00Z"
+    "published": "2026-11-12T17:00:00Z",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          {
+            "section": "Jarabe Aromático de Cacao y Café",
+            "items": [
+              "12 g (1 cucharada colmada) de cacao amargo en polvo de repostería",
+              "6 g (1 cucharada) de café soluble instantáneo (estilo espresso)",
+              "35 ml de agua hirviendo",
+              "1 pizca diminuta de sal fina"
+            ]
+          },
+          {
+            "section": "Base Alcohólica y Láctea",
+            "items": [
+              "300 ml de Whisky Irlandés (Jameson, Bushmills o Tullamore D.E.W.)",
+              "1 lata (395 g) de leche condensada entera de primera calidad",
+              "1 cucharadita (5 ml) de extracto puro de vainilla",
+              "3 a 4 gotas de extracto puro de almendras (el matiz aromático original)"
+            ]
+          },
+          {
+            "section": "Cuerpo y Textura",
+            "items": [
+              "250 ml de crema de leche fresca (mínimo 35% tenor graso, bien fría)"
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 573,
@@ -45020,7 +45081,36 @@
     ],
     "notes": "• **Conservación:** Al contener alcohol y azúcar, se conserva perfectamente en la heladera durante 1 a 2 meses.\n• **Vino Marsala u Oporto:** Si no disponés de vino Marsala, podés sustituirlo por Oporto dulce o un buen Coñac, que le aportará notas amaderadas muy elegantes.",
     "image": "https://lh3.googleusercontent.com/-6XY4-79xw0M/avYsAgYaQHI/AAAAAAAP8QI/nWO3eLEjlfEOTtpUrJhOiosLT-_nwj29ACNcBGAsYHQ/s1600/licor_huevo_abuela_ernestina.jpg",
-    "published": "2026-11-12T18:15:00Z"
+    "published": "2026-11-12T18:15:00Z",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          {
+            "section": "Infusión Láctea y Aromática",
+            "items": [
+              "500 ml de leche entera fresca",
+              "1 cucharada de extracto puro de vainilla (o 1 chaucha abierta)",
+              "1 tira fina de piel de limón (solo la parte amarilla, sin nada blanco)"
+            ]
+          },
+          {
+            "section": "Batido de Yemas",
+            "items": [
+              "6 yemas de huevo frescas de campo",
+              "350 g de azúcar común"
+            ]
+          },
+          {
+            "section": "Cuerpo Alcohólico",
+            "items": [
+              "100 ml de alcohol fino de cereales (o alcohol etílico apto consumo al 96°)",
+              "100 ml de vino Marsala dulce (o vino Oporto / Coñac de buena calidad)"
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 574,
@@ -45097,7 +45187,35 @@
     ],
     "notes": "• **Por qué nunca pollo hervido:** Hervir el pollo le quita los jugos a la carne y los pasa al agua. Al saltearlo crudo a fuego fuerte se caramelizan los azúcares y aminoácidos (reacción de Maillard), logrando un sabor concentrado y una textura mucho más tierna.",
     "image": "https://lh3.googleusercontent.com/-OKwSJnkrBlI/avYsB-Ad-RI/AAAAAAAP8QQ/SiyI9IIfPcAALjCQM0bhdPWkool4mL_BgCNcBGAsYHQ/s1600/tarta_pollo_salteado_mama.jpg",
-    "published": "2026-11-12T18:15:00Z"
+    "published": "2026-11-12T18:15:00Z",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          {
+            "section": "Masa de Tarta",
+            "items": [
+              "2 discos de masa para tarta hojaldrada o criolla (molde de 26 cm)",
+              "1 huevo batido (para pincelar la superficie)"
+            ]
+          },
+          {
+            "section": "Relleno Suculento de Pollo Salteado",
+            "items": [
+              "600 g de pechuga o pata muslo deshuesada, cortada en cubitos de 1,5 cm",
+              "3 cebollas grandes picadas en brunoise fino",
+              "1 morrón rojo cortado en tiritas cortas",
+              "1 tomate maduro perita pelado y picado (apenas para dar humedad)",
+              "3 huevos duros picados",
+              "2 cucharadas de aceite de oliva o maíz",
+              "1 cucharadita colmada de pimentón dulce",
+              "1/2 cucharadita de orégano seco",
+              "Sal marina y pimienta negra molida al gusto"
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 575,
@@ -45178,7 +45296,40 @@
     ],
     "notes": "• **Equilibrio de cocción:** La cebolla de verdeo se suma al final para que mantenga su aroma herbáceo vivo sin amargarse.\n• **Textura:** Al enfriar unos minutos antes de cortar, el ligue de crema y queso toma consistencia firme pero húmeda.",
     "image": "https://lh3.googleusercontent.com/-CIFOsI2bYg4/avYsDXE3HjI/AAAAAAAP8QY/3fEhc30ZwEUqwEbWn0WHsjU8N5vfDCRfwCNcBGAsYHQ/s1600/tarta_cebolla_puerro_verdeo.jpg",
-    "published": "2026-11-12T18:15:00Z"
+    "published": "2026-11-12T18:15:00Z",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          {
+            "section": "Masa de Tarta",
+            "items": [
+              "1 disco de masa para tarta criolla o quebrada (molde de 26 cm)"
+            ]
+          },
+          {
+            "section": "El Trío de Cebollas",
+            "items": [
+              "3 cebollas medianas cortadas en pluma fina",
+              "2 tallos de puerro grandes (parte blanca y verde tierna), lavados y en rodajas finas",
+              "3 cebollas de verdeo cortadas en rodajitas finas",
+              "2 cucharadas de aceite de oliva o manteca"
+            ]
+          },
+          {
+            "section": "Ligue Cremoso y Quesos",
+            "items": [
+              "3 huevos enteros frescos",
+              "150 ml de crema de leche fresca (nata)",
+              "100 g de queso rallado de pasta dura (sardo, reggianito o parmesano)",
+              "100 g de queso cremoso o cuartirolo en cubitos",
+              "1 pizca de nuez moscada recién rallada",
+              "Sal marina y pimienta negra al gusto"
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 576,
@@ -45259,7 +45410,39 @@
     ],
     "notes": "• **Por qué la cebolla va cruda:** Al cortarla bien finita, la fritura rápida cocina la cebolla dejándola tierna y dulce pero con una ligera textura que contrasta perfecto con la masa aireada.\n• **El aire de las claras:** Las claras a nieve hacen que el buñuelo no absorba grasa de más y quede con textura de nube crujiente.",
     "image": "https://lh3.googleusercontent.com/-YFYSGtM-glg/avYsEflGT6I/AAAAAAAP8Qg/ZdbqpXztW4A_d5xgqBmGQUNaW0e7fUq5QCNcBGAsYHQ/s1600/bunuelos_cebolla_claras_nieve.jpg",
-    "published": "2026-11-12T18:15:00Z"
+    "published": "2026-11-12T18:15:00Z",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          {
+            "section": "Vegetales Base",
+            "items": [
+              "3 cebollas medianas cortadas en medios aros muy finos (crudas)",
+              "1 cucharada colmada de perejil fresco picado"
+            ]
+          },
+          {
+            "section": "Masa Ligera y Aérea",
+            "items": [
+              "2 huevos frescos (yemas y claras separadas)",
+              "120 g de harina leudante (o harina común con 1 cdta. de polvo para hornear)",
+              "50 ml de leche o agua con gas fría",
+              "40 g de queso rallado sardo o reggianito",
+              "1 cucharadita de sal fina",
+              "1 pizca de pimienta negra molida"
+            ]
+          },
+          {
+            "section": "Fritura y Toque Final",
+            "items": [
+              "Abundante aceite de girasol para freír",
+              "Gajos de limón fresco para rociar al servir"
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 577,
@@ -45338,7 +45521,38 @@
     ],
     "notes": "• **Variantes de mamá Lidia:**\n  - *Marmolada:* Separar un tercio de la masa, agregarle 2 cucharadas colmadas de cacao amargo y volcar alternando en el molde.\n  - *Con manzanas:* Saltear 2 manzanas en rodajas con 1 cucharada de manteca y 1 cucharada de azúcar; colocar en la base del molde antes de volcar la masa.\n  - *Cítrica 100%:* Reemplazar la leche de la taza por jugo recién exprimido de naranja o limón.",
     "image": "https://lh3.googleusercontent.com/-ndKGWaMzgkM/avYsF2OafYI/AAAAAAAP8Qo/uWN4V2-NKzIq2BpF-SvWKlzLvS12bi7-QCNcBGAsYHQ/s1600/torta_taza_sin_batir_mama.jpg",
-    "published": "2026-11-12T18:15:00Z"
+    "published": "2026-11-12T18:15:00Z",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          {
+            "section": "Ingredientes Secos",
+            "items": [
+              "2 tazas de harina leudante",
+              "1/2 taza de azúcar común (la proporción justa de mamá Lidia)"
+            ]
+          },
+          {
+            "section": "Medida de Líquidos (Todo en la Misma Taza)",
+            "items": [
+              "1 huevo entero grande fresco",
+              "2 dedos de aceite vegetal neutro (girasol o maíz)",
+              "1 cucharadita de extracto de vainilla",
+              "Ralladura fina de 1 limón o 1 naranja",
+              "Leche entera a temperatura ambiente (hasta completar el borde de la taza)"
+            ]
+          },
+          {
+            "section": "Molde y Terminación",
+            "items": [
+              "1 cucharadita de manteca y un puñado de harina (para encamisar el molde)",
+              "Azúcar impalpable para espolvorear al final (opcional)"
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 578,
@@ -45434,7 +45648,47 @@
     ],
     "notes": "• **El almidón de maíz:** Reemplazar un 20% de la harina por almidón de maíz reduce el desarrollo de gluten y crea una capa mucho más liviana, crujiente y quebradiza que no se ablanda con el paso de los minutos.\n• **Rejilla en lugar de papel:** El peor error al freír pollo es dejarlo sobre una fuente con papel plano; el vapor que emite la carne caliente condensa por debajo y humedece el rebozado. La rejilla permite que el aire circule 360° conservando el crocante intacto.",
     "image": "https://lh3.googleusercontent.com/-aBQr1_Gk9rU/avZe2Ocm-KI/AAAAAAAP8Q8/MTNpTsoJiNQWq9rc0bUQI-G1KkjnIcMLQCNcBGAsYHQ/s1600/pollo_frito_louisiana_popeyes.jpg",
-    "published": "2026-11-12T21:50:00Z"
+    "published": "2026-11-12T21:50:00Z",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          {
+            "section": "Marinado Tierno en Buttermilk",
+            "items": [
+              "1 kg de piezas de pollo con piel y hueso (muslos y contramuslos)",
+              "350 ml de buttermilk (suero de manteca fresco)",
+              "2 cucharadas de salsa picante fermentada estilo Louisiana (Crystal, Frank's o Tabasco)",
+              "1 cucharadita de ajo en polvo",
+              "1 cucharadita de sal marina fina",
+              "1/2 cucharadita de pimienta negra recién molida"
+            ]
+          },
+          {
+            "section": "Rebozado Crujiente y Escamado (Shaggy Crust)",
+            "items": [
+              "280 g (2 tazas) de harina de trigo común 0000",
+              "50 g (1/3 taza) de almidón de maíz (el secreto de la liviandad crocante)",
+              "1 cucharadita de polvo para hornear",
+              "1 cucharada colmada de condimento cajún / criollo",
+              "1 cucharada de pimentón dulce o ahumado",
+              "1 cucharadita de pimienta de cayena (ajustable al nivel de picor deseado)",
+              "1 cucharadita de ajo en polvo",
+              "1 cucharadita de cebolla en polvo",
+              "1 cucharadita de sal fina",
+              "3 a 4 cucharadas de la marinada líquida de buttermilk (para generar las escamas)"
+            ]
+          },
+          {
+            "section": "Fritura y Acompañamiento",
+            "items": [
+              "Abundante aceite de maní o girasol para freír (al menos 6 a 7 cm de profundidad)",
+              "Gajos de limón fresco y salsa picante cremosa para servir"
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 579,
@@ -45552,7 +45806,60 @@
     ],
     "notes": "• **El secreto del almidón:** El almidón de maíz o fécula de papa no absorbe tanta grasa como la harina de trigo y no genera gluten, logrando esa textura casi vidriosa y liviana que no se humedece.\n• **La pimienta del Gravy:** El gravy de Jollibee tiene una presencia notoria y punzante de pimienta negra molida que corta la riqueza láctea de la manteca y la fritura.",
     "image": "https://lh3.googleusercontent.com/-s89UwltGcHA/avZr0AiHYrI/AAAAAAAP8RI/45xGDUO1lYEcXRFmFV2doz4WsbVRbYzgQCNcBGAsYHQ/s1600/chickenjoy_con_gravy_filipinas.jpg",
-    "published": "2026-11-12T22:45:00Z"
+    "published": "2026-11-12T22:45:00Z",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          {
+            "section": "Salmuera Aromática Profunda",
+            "items": [
+              "1,2 kg de presas de pollo con piel y hueso (muslos y contramuslos)",
+              "1 litro de agua fría",
+              "3 cucharadas soperas de sal gruesa o marina",
+              "2 cucharadas de azúcar rubia",
+              "4 dientes de ajo machacados",
+              "3 rodajas gruesas de jengibre fresco",
+              "1 cucharadita de pimienta blanca molida"
+            ]
+          },
+          {
+            "section": "Rebozado Vidrioso y Crujiente",
+            "items": [
+              "200 g (1 taza y media) de harina de trigo 0000",
+              "70 g (1/2 taza) de almidón de maíz o fécula de papa (clave del crujido fino)",
+              "1 cucharada de ajo en polvo",
+              "1 cucharadita de cebolla en polvo",
+              "1 cucharadita de pimentón dulce",
+              "1/4 cucharadita de cinco especias chinas (el toque oriental sutil)",
+              "1 cucharadita de sal fina",
+              "1/2 cucharadita de pimienta negra molida",
+              "1 huevo batido con 100 ml de agua helada (baño líquido)"
+            ]
+          },
+          {
+            "section": "Legendaria Salsa Gravy de Jollibee",
+            "items": [
+              "40 g de manteca sin sal",
+              "30 g (2 cucharadas colmadas) de harina de trigo 0000",
+              "400 ml de caldo de pollo o res concentrado (caliente)",
+              "2 cucharadas de salsa de soja oscura (aporta el color ámbar y umami)",
+              "1 cucharadita de ajo en polvo",
+              "1 cucharadita colmada de pimienta negra recién molida (firma aromática)",
+              "1 cucharadita de azúcar rubia",
+              "2 cucharadas de leche evaporada o crema de leche (para la textura satinada)"
+            ]
+          },
+          {
+            "section": "Fritura y Servicio",
+            "items": [
+              "Abundante aceite de maní o girasol para freír",
+              "Arroz blanco jazmín al vapor para acompañar"
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 580,
@@ -45645,7 +45952,32 @@
     ],
     "notes": "• **La leche adecuada:** La leche pasteurizada estándar de sachet o botella funciona perfectamente, pero **JAMÁS uses leche ultra-pasteurizada (UHT o larga vida)**, ya que el calor excesivo de ese proceso desnaturaliza las proteínas de caseína e impide que la masa estire o hile.\n• **Conservación:** Se conserva fresca dentro de un recipiente con parte de su suero frío y sal durante 4 a 5 días en la heladera, aunque consumida el mismo día de elaboración su sabor lechoso es inigualable.",
     "image": "https://lh3.googleusercontent.com/-vvIvBqvYscA/avZwkkUF2qI/AAAAAAAP8RU/v7UuEspUww81B8gWA9WxKZjx0639YD5ugCNcBGAsYHQ/s1600/mozzarella_casera_hilada.jpg",
-    "published": "2026-11-12T23:05:00Z"
+    "published": "2026-11-12T23:05:00Z",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          {
+            "section": "Leche y Activadores Lácticos",
+            "items": [
+              "3,7 litros (1 galón) de leche entera fresca (pasteurizada estándar o cruda; nunca ultrapasteurizada / UHT)",
+              "8 g de ácido cítrico en polvo de uso alimentario",
+              "250 ml de agua filtrada o mineral sin cloro (para diluir el ácido cítrico)",
+              "3 g (aprox. 1/2 cucharadita) de cuajo líquido (rennet)",
+              "60 ml de agua filtrada o mineral sin cloro (para diluir el cuajo)"
+            ]
+          },
+          {
+            "section": "Hilado (Pasta Filata) y Baño Térmico",
+            "items": [
+              "2 litros de agua caliente a 75 °C - 80 °C (o parte del suero caliente separado)",
+              "1 cucharada sopera colmada de sal marina fina o gruesa",
+              "1 bol con agua helada y cubos de hielo (para fijar la forma)"
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 581,
@@ -45747,7 +46079,51 @@
     ],
     "notes": "• **El secreto de la grasa roja:** La grasa que flota sobre la birria es pura concentración de chiles y especias; usarla para glasear los fideos antes de volcar el caldo es lo que transforma un fideo común en un ramen de campeonato.\n• **Tacos de Quesabirria (Opcional):** Tradicionalmente en los puestos de Los Ángeles y Tijuana, se acompaña este ramen con un taco dorado de birria con queso que se sumerge directamente en el consomé del tazón.",
     "image": "https://lh3.googleusercontent.com/-ZNG15wXQtC4/avZ4jLpyQ4I/AAAAAAAP8Rg/UgD8fOUAoo0MYMIxPhw7WUYSvLy6U8HxwCNcBGAsYHQ/s1600/birria_ramen_mexico.jpg",
-    "published": "2026-11-12T23:40:00Z"
+    "published": "2026-11-12T23:40:00Z",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          {
+            "section": "Adobo y Consomé de Birria",
+            "items": [
+              "1 kg de carne de res con hueso para estofado (morcillo/ossobuco, aguja o falda)",
+              "3 chiles guajillo secos (desvenados y sin semillas)",
+              "3 chiles pasilla secos (desvenados y sin semillas)",
+              "6 tomates perita maduros asados",
+              "1 cebolla blanca grande asada",
+              "4 dientes de ajo machacados",
+              "1 ramita pequeña de canela en rama",
+              "2 hojas de laurel secas",
+              "1 cucharadita de orégano seco mexicano",
+              "1/2 cucharadita de comino molido",
+              "1 litro de caldo concentrado de res (o agua con 1 cubo de caldo)",
+              "2 cucharadas de azúcar morena",
+              "Jugo de 1 lima fresca",
+              "Sal marina y pimienta negra recién molida al gusto"
+            ]
+          },
+          {
+            "section": "Fideos y Guarnición Gourmet",
+            "items": [
+              "400 g de fideos ramen frescos (o fideos udon gruesos)",
+              "4 huevos frescos (cocidos a 6 minutos para yema líquida / ajitsuke)",
+              "300 g de panceta de cerdo en rollo cocida y cortada en rodajas chashu (doradas a fuego vivo o soplete)"
+            ]
+          },
+          {
+            "section": "Toppings Frescos del Tazón",
+            "items": [
+              "1 taza de cilantro fresco picado fino",
+              "1 cebolla blanca o morada cortada en cubitos bien chiquitos",
+              "1 chile jalapeño toreado (dorado en sartén seca y en rodajas)",
+              "4 rabanitos frescos cortados en láminas finas translúcidas",
+              "Gajos de lima fresca para rociar en la mesa"
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 582,
@@ -45826,7 +46202,38 @@
     ],
     "notes": "• **Las lentejas rojas:** Se cocinan en la mitad de tiempo que las lentejas marrones y no requieren remojo previo; se deshacen solas creando una crema natural espesa sin necesidad de harina ni féculas.\n• **La menta seca:** Es el ingrediente que le da la identidad inconfundible a la sopa en Turquía; no la omitas ni la reemplaces por menta fresca, ya que el aroma tostado de la menta seca en la manteca es el alma del plato.",
     "image": "https://lh3.googleusercontent.com/-i511H6Risqg/avZ7-H2j3MI/AAAAAAAP8Rs/nhYHb3mlbEMZMK3vMnnrsmHVAbvxklzYgCNcBGAsYHQ/s1600/mercimek_corbasi_turquia.jpg",
-    "published": "2026-11-12T23:50:00Z"
+    "published": "2026-11-12T23:50:00Z",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          {
+            "section": "Base de Lentejas y Verduras",
+            "items": [
+              "250 g (1 taza y cuarto) de lentejas rojas partidas (lavadas bajo el grifo)",
+              "1 cebolla amarilla mediana picada",
+              "1 zanahoria mediana pelada y rallada",
+              "1 papa pequeña en cubitos",
+              "2 dientes de ajo picados",
+              "1 cucharada de pasta de tomate (concentrado de tomate)",
+              "1 litro y cuarto de caldo de verduras o agua caliente",
+              "1 cucharadita de comino molido",
+              "Sal marina y pimienta negra al gusto",
+              "2 cucharadas de aceite de oliva"
+            ]
+          },
+          {
+            "section": "Manteca Chisporroteante Turca (Topping)",
+            "items": [
+              "40 g de manteca sin sal",
+              "1 cucharadita colmada de pimentón dulce (o pimentón de Alepo / pul biber)",
+              "1 cucharadita colmada de menta seca frotada (kuru nane)",
+              "Gajos de limón fresco para servir"
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 583,
@@ -45908,7 +46315,33 @@
     ],
     "notes": "• **Por qué precocer solo 10 minutos:** Si las papas se cocinan del todo, al rallarlas se convierten en puré pastoso. El punto al dente permite que las hebras mantengan su estructura y creen los bordes crujientes al freír.\n• **Opción Horno / Airfryer:** Rociar generosamente con spray de aceite y hornear a 200 °C durante 20 minutos dándoles vuelta a mitad de tiempo.",
     "image": "https://lh3.googleusercontent.com/-CiyS--etXws/avZ7_TsZlTI/AAAAAAAP8R0/Jiref6Z9gxQd9lCSeISLPQKrdrE5dOVvgCNcBGAsYHQ/s1600/tater_tots_caseros.jpg",
-    "published": "2026-11-12T23:50:00Z"
+    "published": "2026-11-12T23:50:00Z",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          {
+            "section": "Base de Papas Ralladas",
+            "items": [
+              "900 g (aprox. 4 papas medianas harinosas tipo Russet o Spunta)",
+              "1 cucharada colmada de harina de trigo (o almidón de maíz para sin gluten)",
+              "1 cucharadita de cebolla en polvo",
+              "1/2 cucharadita de ajo en polvo",
+              "1 cucharadita de sal fina marina",
+              "1/4 cucharadita de pimienta negra molida",
+              "1/4 cucharadita de pimentón dulce"
+            ]
+          },
+          {
+            "section": "Fritura y Dip",
+            "items": [
+              "Abundante aceite neutro para freír (girasol o maíz)",
+              "Kétchup especiado o salsa tártara para acompañar"
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 584,
@@ -45980,7 +46413,34 @@
     ],
     "notes": "• **El kéfir:** Tradicionalmente en Lituania se utiliza *šaltibarščių kefyras* (kéfir especial con 7% de tenor graso). Si tu kéfir es muy líquido, sumale 3 cucharadas de crema agria o yogur griego para darle esa consistencia densa.\n• **El eneldo no se negocia:** El eneldo fresco en cantidad generosa es el aroma principal que equilibra la tierra de la remolacha con el ácido del lácteo.",
     "image": "https://lh3.googleusercontent.com/-EBtjN8LOLA8/avZ8Ae6R7rI/AAAAAAAP8R8/FCyGvhdOZWo7NU4hSnx34VDYkaP-_4_agCNcBGAsYHQ/s1600/saltibarsciai_sopa_remolacha.jpg",
-    "published": "2026-11-12T23:50:00Z"
+    "published": "2026-11-12T23:50:00Z",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          {
+            "section": "Base Cremosa Rosa de Kéfir",
+            "items": [
+              "1 litro de kéfir espeso natural (o yogur natural entero rebajado con leche)",
+              "400 g de remolachas cocidas (hervidas o asadas), peladas y ralladas gruesas (o en juliana fina)",
+              "100 ml del jugo de cocción o vinagre suave de la remolacha",
+              "2 pepinos medianos firmes, pelados y cortados en cubitos pequeños",
+              "1 taza colmada de eneldo fresco picado (abundante)",
+              "1/2 taza de cebollita de verdeo (parte verde) picada fina",
+              "1 cucharadita de sal marina fina",
+              "1/2 cucharadita de pimienta blanca molida"
+            ]
+          },
+          {
+            "section": "Guarnición Tradicional Caliente y Fría",
+            "items": [
+              "4 huevos duros cocidos a punto firme, cortados por la mitad",
+              "4 papas medianas cocidas con su piel, bien calientes y espolvoreadas con eneldo y sal gruesa"
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 585,
@@ -46079,7 +46539,50 @@
     ],
     "notes": "• **Pimienta de Jamaica (Allspice):** Es el condimento obligatorio que distingue a la albóndiga sueca de cualquier otra del mundo; aporta una calidez especiada única que marida con la salsa de crema.\n• **El Lingonberry:** El arándano rojo silvestre nórdico aporta una acidez dulce que corta de forma brillante la grasa de la carne y el puré.",
     "image": "https://lh3.googleusercontent.com/-zmO3g6XU2kk/avZ8B5LpFeI/AAAAAAAP8SE/CkYt6xUQQAErnCGRJcxHo5Q0Gp3_2cUlACNcBGAsYHQ/s1600/kottbullar_meatbowl_suecia.jpg",
-    "published": "2026-11-12T23:50:00Z"
+    "published": "2026-11-12T23:50:00Z",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          {
+            "section": "Albóndigas Köttbullar Caseras",
+            "items": [
+              "400 g de carne picada de ternera",
+              "300 g de carne picada de cerdo",
+              "1 cebolla mediana rallada finísima (o procesada)",
+              "60 g de pan rallado fresco hidratado en 100 ml de leche y crema",
+              "1 huevo entero fresco",
+              "1/2 cucharadita de pimienta de Jamaica molida (allspice, la especia clave)",
+              "1/4 cucharadita de nuez moscada recién rallada",
+              "1 cucharadita colmada de sal marina",
+              "1/2 cucharadita de pimienta blanca molida",
+              "2 cucharadas de manteca para dorar"
+            ]
+          },
+          {
+            "section": "Salsa Aterciopelada de Crema (Brunsås)",
+            "items": [
+              "30 g de manteca",
+              "30 g de harina de trigo",
+              "400 ml de caldo de carne de res oscuro bien sabroso",
+              "100 ml de crema de leche fresca",
+              "1 cucharada de salsa de soja (para color y umami)",
+              "1 cucharadita de mostaza de Dijon",
+              "Pimienta negra recién molida"
+            ]
+          },
+          {
+            "section": "Montaje del Bowl Nórdico",
+            "items": [
+              "4 porciones de puré de papas caliente con abundante manteca y leche",
+              "4 cucharadas de mermelada de arándanos rojos (lingonberry o grosellas)",
+              "1 taza de pepinillos agridulces en rodajas finas (*pressgurka*)",
+              "Eneldo o perejil fresco para decorar"
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 586,
@@ -46173,7 +46676,44 @@
     ],
     "notes": "• **El grano suelto:** Lavar el arroz basmati varias veces hasta que el agua salga translúcida retira el almidón superficial, asegurando que los granos queden perfectamente desgranados y no pastosos.",
     "image": "https://lh3.googleusercontent.com/-SznVAnOJcQI/avZ8DJU3jkI/AAAAAAAP8SM/8TOTaGkeKdcwfBP3525XncMla560eVN2QCNcBGAsYHQ/s1600/pilau_ternera_kenia.jpg",
-    "published": "2026-11-12T23:50:00Z"
+    "published": "2026-11-12T23:50:00Z",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          {
+            "section": "Guisado de Ternera y Especias Swahili",
+            "items": [
+              "700 g de carne de ternera en dados (paleta o aguja)",
+              "2 cebollas rojas grandes picadas en pluma",
+              "3 papas medianas peladas y cortadas en cuartos",
+              "4 dientes de ajo y 1 trozo de jengibre de 3 cm machacados en pasta",
+              "2 tomates maduros rallados o picados finos",
+              "3 cucharadas de aceite vegetal o manteca clarificada",
+              "750 ml de caldo de carne caliente"
+            ]
+          },
+          {
+            "section": "Pilau Masala Clásico",
+            "items": [
+              "1 cucharada colmada de semillas de comino",
+              "1 cucharadita de semillas de cardamomo verde",
+              "1 cucharadita de granos de pimienta negra",
+              "1/2 cucharadita de clavos de olor enteros",
+              "1 rama de canela",
+              "(Moler todo junto en mortero o molinillo hasta obtener un polvo aromático)"
+            ]
+          },
+          {
+            "section": "El Arroz y la Ensalada Kachumbari",
+            "items": [
+              "400 g (2 tazas) de arroz basmati de grano largo lavado y escurrido",
+              "Ensalada fresca de remate: 2 tomates en cubitos, 1 cebolla morada en plumita fina, 1 chile verde picado, cilantro fresco picado, sal y jugo de lima"
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 587,
@@ -46260,7 +46800,42 @@
     ],
     "notes": "• **Textura:** Los fideos liangpi no se cocinan en agua hirviendo como los fideos comunes; se cocinan al vapor como finos panqueques de almidón puro, lo que les da esa textura elástica, masticable y translúcida única.",
     "image": "https://lh3.googleusercontent.com/--B5U-RtboS0/avZ8EoblSQI/AAAAAAAP8SU/NbJR11PmaxgWmMx7rRkka4DSDHTa3ZynACNcBGAsYHQ/s1600/liangpi_fideos_frios_china.jpg",
-    "published": "2026-11-12T23:50:00Z"
+    "published": "2026-11-12T23:50:00Z",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          {
+            "section": "Masa Base y Extracción de Almidón y Gluten",
+            "items": [
+              "500 g de harina de trigo común 000",
+              "280 ml de agua",
+              "1/2 cucharadita de sal fina"
+            ]
+          },
+          {
+            "section": "Aliño Aromático de Shaanxi",
+            "items": [
+              "3 cucharadas de aceite de chile rojo tostado con sésamo (chili oil)",
+              "2 cucharadas de vinagre negro madurado de Chinkiang",
+              "2 cucharadas de salsa de soja clara",
+              "4 dientes de ajo triturados con 3 cucharadas de agua tibia (agua de ajo)",
+              "1 cucharadita de aceite de sésamo tostado",
+              "1/2 cucharadita de azúcar",
+              "1/4 cucharadita de pimienta de Sichuan molida"
+            ]
+          },
+          {
+            "section": "Toppings Frescos",
+            "items": [
+              "1 pepino grande cortado en juliana fina crujiente",
+              "Brotes de soja blanqueados (opcional)",
+              "Semillas de sésamo tostadas y hojas de cilantro fresco"
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 588,
@@ -46333,7 +46908,34 @@
     ],
     "notes": "• **Sin levadura:** A diferencia de la pizza italiana tradicional, la auténtica tarte flambée alsaciana no lleva levadura para evitar que la masa leve; debe permanecer como una base quebradiza similar a un cracker.\n• **Cebolla cruda:** No saltees la cebolla previamente; al cortarse finísima, se cocina dentro de la crema durante el golpe de horno a alta temperatura conservando un punto dulce delicioso.",
     "image": "https://lh3.googleusercontent.com/-poIERAnVUos/avZ8F6Az9uI/AAAAAAAP8Sc/DMd1R89P-nMDGg1gKa_1_gSbWqAYR8iRQCNcBGAsYHQ/s1600/tarte_flambee_alsaciana.jpg",
-    "published": "2026-11-12T23:50:00Z"
+    "published": "2026-11-12T23:50:00Z",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          {
+            "section": "Masa Ultrafina y Quebradiza",
+            "items": [
+              "250 g de harina de trigo 0000",
+              "130 ml de agua tibia",
+              "2 cucharadas de aceite de girasol o colza",
+              "1/2 cucharadita de sal fina"
+            ]
+          },
+          {
+            "section": "Cubierta Tradicional Alsaciana",
+            "items": [
+              "150 g de crème fraîche espesa (o nata ácida / sour cream)",
+              "100 g de queso blanco fresco (fromage blanc o ricota fina batida)",
+              "2 cebollas blancas medianas cortadas en pluma finísima translúcida",
+              "180 g de panceta ahumada (lardons) cortada en tiritas finas",
+              "1 pizca de nuez moscada recién rallada",
+              "Sal marina y abundante pimienta negra recién molida"
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 589,
@@ -46416,7 +47018,42 @@
     ],
     "notes": "• **Pasta de sésamo china vs Tahini:** La pasta de sésamo china tradicional se elabora con semillas tostadas a fondo, por lo que tiene un color marrón bronce oscuro y un sabor a fruto seco tostado mucho más profundo que el tahini claro de Oriente Medio.",
     "image": "https://lh3.googleusercontent.com/-kzgQOZKtvTs/avZ8G4lmI5I/AAAAAAAP8Sk/5M6qUmOwfYUkok1UQzAKLI7XQNmfRTHzQCNcBGAsYHQ/s1600/reganmian_wuhan_china.jpg",
-    "published": "2026-11-12T23:50:00Z"
+    "published": "2026-11-12T23:50:00Z",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          {
+            "section": "Fideos Alcalinos y Baño Inicial",
+            "items": [
+              "300 g de fideos alcalinos frescos amarillos (estilo Wuhan o fideos ramen gruesos)",
+              "1 cucharada de aceite vegetal neutro (para enfriar y separar)"
+            ]
+          },
+          {
+            "section": "Salsa Intensa de Sésamo Tostado",
+            "items": [
+              "3 cucharadas colmadas de pasta de sésamo tostado china (o tahini tostado oscuro)",
+              "2 cucharadas de aceite de sésamo tostado (para disolver la pasta)",
+              "2 cucharadas de salsa de soja oscura",
+              "1 cucharada de salsa de soja clara",
+              "1 cucharadita de azúcar",
+              "1 cucharadita de vinagre negro de Chinkiang",
+              "1/2 cucharadita de polvo cinco especias o pimienta blanca",
+              "2 cucharadas de aceite de chile rojo con escamas (chili oil)"
+            ]
+          },
+          {
+            "section": "Acompañamientos y Crujientes",
+            "items": [
+              "3 cucharadas de vegetales o rábanos encurtidos picantes (*zha cai* o *suan doujiao* picados)",
+              "3 tallos de cebollita de verdeo verde picada fina",
+              "1 cucharada de semillas de sésamo tostadas"
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 590,
@@ -46501,7 +47138,37 @@
     ],
     "notes": "• **El secreto de las dos sojas:** La soja clara aporta la salinidad exacta; la soja oscura aporta la densidad visual y el tono caoba característico de Shanghái.\n• **Conservación del aceite:** Si hacés cantidad doble, el aceite de cebolletas se puede guardar en frasco de vidrio en la alacena y sirve para condimentar arroces, huevos fritos o salteados de verduras.",
     "image": "https://lh3.googleusercontent.com/-u6DhJ7YYAtQ/avZ8IZIMKVI/AAAAAAAP8Ss/nhlvlnpe4TQzV91MB-J7egPY3et76qX7ACNcBGAsYHQ/s1600/fideos_aceite_cebolletas_china.jpg",
-    "published": "2026-11-12T23:50:00Z"
+    "published": "2026-11-12T23:50:00Z",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          {
+            "section": "Aceite de Cebolletas Infusionado al Fuego",
+            "items": [
+              "1 manojo grande de cebollas de verdeo (unos 8 tallos), lavados y bien secos",
+              "2 chalotas o 1 cebolla morada pequeña en rodajas finas",
+              "80 ml de aceite vegetal neutro (girasol o maíz)"
+            ]
+          },
+          {
+            "section": "Glaseado de Soja Reducida",
+            "items": [
+              "3 cucharadas de salsa de soja clara",
+              "2 cucharadas de salsa de soja oscura (aporta el color laqueado brillante)",
+              "1 cucharada colmada de azúcar (imprescindible para el balance caramelizado de Shanghái)"
+            ]
+          },
+          {
+            "section": "Fideos y Servicio",
+            "items": [
+              "250 g de fideos de trigo frescos o secos (tallarines finos)",
+              "Semillas de sésamo tostadas (opcional)"
+            ]
+          }
+        ]
+      }
+    ]
   },
   {
     "id": 591,
@@ -46559,7 +47226,54 @@
     ],
     "img_local": "img/consome_cristalino_pollo.jpg",
     "img_filename": "consome_cristalino_pollo.jpg",
-    "image": "https://lh3.googleusercontent.com/-7PheEHeNJHI/avZ_GbEmH5I/AAAAAAAP8TQ/BSlMXrLs6NoLS6YZEEr1MvWQwbwyLPv3ACNcBGAsYHQ/s1600/consome_cristalino_pollo.jpg"
+    "image": "https://lh3.googleusercontent.com/-7PheEHeNJHI/avZ_GbEmH5I/AAAAAAAP8TQ/BSlMXrLs6NoLS6YZEEr1MvWQwbwyLPv3ACNcBGAsYHQ/s1600/consome_cristalino_pollo.jpg",
+    "steps": [
+      "Desarmar el pollo asado con las manos o un cuchillo, quebrando los huesos principales para exponer la médula y maximizar la extracción de gelatina. Conservar toda la piel dorada y los jugos gelatinosos del fondo.",
+      "Colocar los trozos de pollo, las chalotas, los ajos aplastados, el tomillo, el perejil, el laurel y la pimienta en una olla a presión. Cubrir con los 1,8 litros de agua.",
+      "Cerrar la olla a presión herméticamente y llevar a fuego alto hasta alcanzar 15 psi (alta presión). Bajar el fuego al mínimo necesario para mantener la presión y cocinar exactamente 60 minutos.",
+      "Despresurizar de forma natural durante 15 minutos y luego liberar el vapor remanente. Colar el caldo caliente por un tamiz fino o colador chino para retirar todos los sólidos grandes.",
+      "Dejar enfriar el caldo a temperatura ambiente. Probar y sazonar ligeramente con sal (recordar que se concentrará al descongelar).",
+      "Verter el caldo en recipientes planos aptos para freezer y congelar por completo hasta que forme un bloque sólido como una piedra (mínimo 12 a 18 horas).",
+      "Para el clarificado criogénico: forrar un colador grande con tres capas de gasa estéril o tela de quesería fina y colocarlo sobre un bol hondo. Desmoldar los bloques de caldo congelado y colocarlos sobre la gasa.",
+      "Llevar todo el conjunto inmediatamente a la heladera (a 4 °C). Dejar descongelar lentamente durante 24 a 48 horas sin tocar, presionar ni agitar en ningún momento.",
+      "A medida que el hielo se funde, el agua con los aromas disueltos gotea límpida hacia el bol inferior, mientras que la red de gelatina atrapa las partículas grasas y la turbidez en la superficie de la gasa.",
+      "Retirar el bol inferior: obtendrás un consomé perfectamente traslúcido, dorado y brillante. Servir muy caliente en tazas de consomé con una pequeña ramita de perifollo o estragón fresco.",
+      "Consejo de chef: la masa gelatinosa espesa que queda atrapada en la gasa es oro puro culinario; guardarla en un frasco para agregar a estofados o montar una salsa demi-glace rápida."
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación",
+        "steps": [
+          "Desarmar el pollo asado con las manos o un cuchillo, quebrando los huesos principales para exponer la médula y maximizar la extracción de gelatina. Conservar toda la piel dorada y los jugos gelatinosos del fondo.",
+          "Colocar los trozos de pollo, las chalotas, los ajos aplastados, el tomillo, el perejil, el laurel y la pimienta en una olla a presión. Cubrir con los 1,8 litros de agua.",
+          "Cerrar la olla a presión herméticamente y llevar a fuego alto hasta alcanzar 15 psi (alta presión). Bajar el fuego al mínimo necesario para mantener la presión y cocinar exactamente 60 minutos.",
+          "Despresurizar de forma natural durante 15 minutos y luego liberar el vapor remanente. Colar el caldo caliente por un tamiz fino o colador chino para retirar todos los sólidos grandes.",
+          "Dejar enfriar el caldo a temperatura ambiente. Probar y sazonar ligeramente con sal (recordar que se concentrará al descongelar).",
+          "Verter el caldo en recipientes planos aptos para freezer y congelar por completo hasta que forme un bloque sólido como una piedra (mínimo 12 a 18 horas).",
+          "Para el clarificado criogénico: forrar un colador grande con tres capas de gasa estéril o tela de quesería fina y colocarlo sobre un bol hondo. Desmoldar los bloques de caldo congelado y colocarlos sobre la gasa.",
+          "Llevar todo el conjunto inmediatamente a la heladera (a 4 °C). Dejar descongelar lentamente durante 24 a 48 horas sin tocar, presionar ni agitar en ningún momento.",
+          "A medida que el hielo se funde, el agua con los aromas disueltos gotea límpida hacia el bol inferior, mientras que la red de gelatina atrapa las partículas grasas y la turbidez en la superficie de la gasa.",
+          "Retirar el bol inferior: obtendrás un consomé perfectamente traslúcido, dorado y brillante. Servir muy caliente en tazas de consomé con una pequeña ramita de perifollo o estragón fresco.",
+          "Consejo de chef: la masa gelatinosa espesa que queda atrapada en la gasa es oro puro culinario; guardarla en un frasco para agregar a estofados o montar una salsa demi-glace rápida."
+        ]
+      }
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          "1 pollo asado entero (aproximadamente 1,2 kg a 1,5 kg, con piel y huesos bien dorados)",
+          "1,8 litros de agua filtrada",
+          "2 chalotas medianas, cortadas al medio",
+          "2 dientes de ajo aplastados",
+          "2 ramas de tomillo fresco",
+          "3 ramas de perejil fresco",
+          "1 hoja de laurel",
+          "1 cucharadita de granos de pimienta negra",
+          "Sal fina (alrededor del 0,8% del peso del caldo final)"
+        ]
+      }
+    ]
   },
   {
     "id": 592,
@@ -46625,7 +47339,63 @@
     ],
     "img_local": "img/hanger_steak_bordelaise.jpg",
     "img_filename": "hanger_steak_bordelaise.jpg",
-    "image": "https://lh3.googleusercontent.com/--fsUfdh8X9c/avZ_Hqpao2I/AAAAAAAP8TY/09Npl3FsUwMQOnh1bw4OW4_p_w8WFZNqwCNcBGAsYHQ/s1600/hanger_steak_bordelaise.jpg"
+    "image": "https://lh3.googleusercontent.com/--fsUfdh8X9c/avZ_Hqpao2I/AAAAAAAP8TY/09Npl3FsUwMQOnh1bw4OW4_p_w8WFZNqwCNcBGAsYHQ/s1600/hanger_steak_bordelaise.jpg",
+    "steps": [
+      "Limpiar el hanger steak retirando la membrana fibrosa gruesa que recorre el centro del corte, separando las dos tiras alargadas de carne limpia. Pesar la carne y espolvorear uniformemente con el 1% de su peso en sal fina.",
+      "Introducir la carne en una bolsa de cocción al vacío junto con los 20 g de manteca, los ajos machacados y las ramas de tomillo. Sellar al 100% de vacío.",
+      "Sumergir en un baño de agua termocontrolado a 52 °C (punto jugoso / medium-rare) durante 45 minutos a 1 hora.",
+      "Mientras tanto, preparar la salsa Bordelaise: calentar la cucharadita de aceite en una cacerola pequeña a fuego medio-bajo y sudar la chalota durante 2 a 3 minutos hasta que esté tierna y translúcida, sin dorar.",
+      "Incorporar el vino tinto, la hoja de laurel y el tomillo. Cocinar a fuego suave hasta reducir el vino a un tercio de su volumen inicial.",
+      "Agregar el caldo oscuro concentrado o demi-glace. Llevar a ebullición suave y dejar reducir hasta que nape ligeramente la cuchara. Pasar por un colador fino descartando las hierbas.",
+      "Regresar la salsa reducida a fuego mínimo y emulsionar batiendo enérgicamente con los cubos de manteca fría fuera del fuego. Incorporar los cubitos de tuétano blanqueado y mantener tibia.",
+      "Retirar la carne del baño termorregulado, extraer de la bolsa y secar la superficie a conciencia con papel absorbente (el secado absoluto es indispensable para una costra instantánea).",
+      "Calentar la mezcla de grasa vacuna y de pato en una olla honda o freidora hasta alcanzar los 205 °C (400 °F).",
+      "Sumergir los trozos de carne seca en la grasa hirviendo durante 60 a 90 segundos como máximo, hasta que la superficie desarrolle una corteza marrón oscura, crujiente y uniforme sin elevar la temperatura interna del centro.",
+      "Retirar de la fritura, escurrir rápidamente sobre una rejilla y cortar en láminas gruesas al bies contra la fibra de la carne sin necesidad de reposo prolongado.",
+      "Disponer en los platos, coronar con sal marina en escamas y bañar generosamente con la salsa Bordelaise tibia con sus tropezones de tuétano fundente."
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación",
+        "steps": [
+          "Limpiar el hanger steak retirando la membrana fibrosa gruesa que recorre el centro del corte, separando las dos tiras alargadas de carne limpia. Pesar la carne y espolvorear uniformemente con el 1% de su peso en sal fina.",
+          "Introducir la carne en una bolsa de cocción al vacío junto con los 20 g de manteca, los ajos machacados y las ramas de tomillo. Sellar al 100% de vacío.",
+          "Sumergir en un baño de agua termocontrolado a 52 °C (punto jugoso / medium-rare) durante 45 minutos a 1 hora.",
+          "Mientras tanto, preparar la salsa Bordelaise: calentar la cucharadita de aceite en una cacerola pequeña a fuego medio-bajo y sudar la chalota durante 2 a 3 minutos hasta que esté tierna y translúcida, sin dorar.",
+          "Incorporar el vino tinto, la hoja de laurel y el tomillo. Cocinar a fuego suave hasta reducir el vino a un tercio de su volumen inicial.",
+          "Agregar el caldo oscuro concentrado o demi-glace. Llevar a ebullición suave y dejar reducir hasta que nape ligeramente la cuchara. Pasar por un colador fino descartando las hierbas.",
+          "Regresar la salsa reducida a fuego mínimo y emulsionar batiendo enérgicamente con los cubos de manteca fría fuera del fuego. Incorporar los cubitos de tuétano blanqueado y mantener tibia.",
+          "Retirar la carne del baño termorregulado, extraer de la bolsa y secar la superficie a conciencia con papel absorbente (el secado absoluto es indispensable para una costra instantánea).",
+          "Calentar la mezcla de grasa vacuna y de pato en una olla honda o freidora hasta alcanzar los 205 °C (400 °F).",
+          "Sumergir los trozos de carne seca en la grasa hirviendo durante 60 a 90 segundos como máximo, hasta que la superficie desarrolle una corteza marrón oscura, crujiente y uniforme sin elevar la temperatura interna del centro.",
+          "Retirar de la fritura, escurrir rápidamente sobre una rejilla y cortar en láminas gruesas al bies contra la fibra de la carne sin necesidad de reposo prolongado.",
+          "Disponer en los platos, coronar con sal marina en escamas y bañar generosamente con la salsa Bordelaise tibia con sus tropezones de tuétano fundente."
+        ]
+      }
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          "800 g de hanger steak (entraña fina / onglet), limpio de su tendón fibroso central y cortado en 2 piezas",
+          "8 g de sal fina (exactamente el 1% del peso de la carne)",
+          "20 g de manteca de buena calidad",
+          "2 dientes de ajo machacados con piel",
+          "2 ramas de tomillo fresco",
+          "1 litro de grasa de vacuno (grasa de pella o sebo refinado) mezclada con grasa de pato (para la fritura)",
+          "Sal marina en escamas tipo Maldon para terminar",
+          "Para la Salsa Bordelaise:",
+          "1 cucharadita de aceite neutro",
+          "1 chalota grande, picada finamente en brunoise fina",
+          "120 ml de vino tinto seco con cuerpo (Cabernet Sauvignon o Bordeaux)",
+          "1 hoja de laurel partida",
+          "1 rama de tomillo fresco",
+          "200 ml de caldo oscuro o demi-glace de ternera concentrado",
+          "30 g de manteca fría cortada en cubos pequeños",
+          "40 g de tuétano (médula ósea vacuna fresca), blanqueado y cortado en cubitos"
+        ]
+      }
+    ]
   },
   {
     "id": 593,
@@ -46674,7 +47444,44 @@
       "guarnicion",
       "crocantes"
     ],
-    "image": "https://lh3.googleusercontent.com/-7FjAl5XUbDI/avZ_I2FKINI/AAAAAAAP8Tg/F2WMa4dHnh0o-Iu6HAEFcT456v742xAoACNcBGAsYHQ/s1600/papas_fritas_fat_duck.jpg"
+    "image": "https://lh3.googleusercontent.com/-7FjAl5XUbDI/avZ_I2FKINI/AAAAAAAP8Tg/F2WMa4dHnh0o-Iu6HAEFcT456v742xAoACNcBGAsYHQ/s1600/papas_fritas_fat_duck.jpg",
+    "steps": [
+      "Sumergir las papas congeladas directamente de la bolsa en un bol con agua fría durante exactamente 1 minuto para disolver la película de escarcha y el almidón libre que provocaría que se cocinen al vapor.",
+      "Escurrir el agua completamente en un colador. Pasar las papas escurridas a un recipiente amplio con tapa hermética (o una olla con su tapa), cerrar bien y sacudir con fuerza durante 15 a 20 segundos. Este golpeo magulla los bordes y crea una micropasta de almidón alrededor de cada bastón.",
+      "Tapar el recipiente de forma suelta para contener el vapor y llevar al microondas a máxima potencia durante 4 a 5 minutos, hasta que las papas estén bien calientes, tiernas y al borde del colapso.",
+      "Destapar con cuidado del vapor, rociar las 2 cucharadas de aceite o grasa animal derretida sobre las papas y mezclar haciendo girar el bol suavemente para impregnar la capa de pasta superficial sin romper los bastones.",
+      "Precalentar la freidora de aire a 205 °C (400 °F) durante 3 minutos. Volcar las papas en la canasta distribuyéndolas en una sola capa pareja.",
+      "Cocinar a 205 °C durante 15 a 18 minutos en total, retirando la canasta en el minuto 8 o 9 para sacudirla con firmeza y lograr un dorado homogéneo.",
+      "Retirar las papas cuando adquieran un tono dorado caoba intenso y suenen crujientes como vidrio al mover la canasta.",
+      "Pasar de inmediato a un bol amplio y espolvorear con sal marina en escamas mientras la superficie aún está chisporroteando. Servir al instante."
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación",
+        "steps": [
+          "Sumergir las papas congeladas directamente de la bolsa en un bol con agua fría durante exactamente 1 minuto para disolver la película de escarcha y el almidón libre que provocaría que se cocinen al vapor.",
+          "Escurrir el agua completamente en un colador. Pasar las papas escurridas a un recipiente amplio con tapa hermética (o una olla con su tapa), cerrar bien y sacudir con fuerza durante 15 a 20 segundos. Este golpeo magulla los bordes y crea una micropasta de almidón alrededor de cada bastón.",
+          "Tapar el recipiente de forma suelta para contener el vapor y llevar al microondas a máxima potencia durante 4 a 5 minutos, hasta que las papas estén bien calientes, tiernas y al borde del colapso.",
+          "Destapar con cuidado del vapor, rociar las 2 cucharadas de aceite o grasa animal derretida sobre las papas y mezclar haciendo girar el bol suavemente para impregnar la capa de pasta superficial sin romper los bastones.",
+          "Precalentar la freidora de aire a 205 °C (400 °F) durante 3 minutos. Volcar las papas en la canasta distribuyéndolas en una sola capa pareja.",
+          "Cocinar a 205 °C durante 15 a 18 minutos en total, retirando la canasta en el minuto 8 o 9 para sacudirla con firmeza y lograr un dorado homogéneo.",
+          "Retirar las papas cuando adquieran un tono dorado caoba intenso y suenen crujientes como vidrio al mover la canasta.",
+          "Pasar de inmediato a un bol amplio y espolvorear con sal marina en escamas mientras la superficie aún está chisporroteando. Servir al instante."
+        ]
+      }
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          "500 g de papas fritas congeladas de corte grueso o corte recto de buena calidad (tipo Steak Cut o 3/8)",
+          "Agua fría suficiente para sumergir las papas (unos 1,5 litros)",
+          "2 cucharadas (30 ml) de aceite de oliva neutro, aceite de palta, o grasa de pato / grasa vacuna derretida",
+          "1 cucharadita de sal fina o sal marina en escamas (tipo Maldon) para terminar",
+          "Opcional: una pizca de ajo en polvo, pimentón ahumado o romero seco molido"
+        ]
+      }
+    ]
   },
   {
     "id": 594,
@@ -46731,7 +47538,57 @@
     ],
     "img_local": "img/souffle_invertido_chocolate.jpg",
     "img_filename": "souffle_invertido_chocolate.jpg",
-    "image": "https://lh3.googleusercontent.com/-gwitFPDX4vU/avZ_KBKuetI/AAAAAAAP8To/6ALHYW0m6A0qSVG9iOUlvLJzl7LLVBpEQCNcBGAsYHQ/s1600/souffle_invertido_chocolate.jpg"
+    "image": "https://lh3.googleusercontent.com/-gwitFPDX4vU/avZ_KBKuetI/AAAAAAAP8To/6ALHYW0m6A0qSVG9iOUlvLJzl7LLVBpEQCNcBGAsYHQ/s1600/souffle_invertido_chocolate.jpg",
+    "steps": [
+      "Encamisar 4 ramekins individuales de cerámica: untar generosamente el interior con manteca blanda usando un pincel con trazos estrictamente verticales (de abajo hacia arriba, lo que guía la subida del soufflé).",
+      "Agregar una cucharada de cacao en polvo a cada ramekin, girar para cubrir el fondo y los laterales por completo, y sacudir el exceso invertido sobre un cuenco. Reservar en la heladera.",
+      "Picar finamente el chocolate amargo y derretirlo a baño María suave o en microondas en tandas de 20 segundos a potencia media, revolviendo hasta que esté sedoso a unos 45 °C.",
+      "Preparar el merengue suizo: en un bol refractario, mezclar las claras con el azúcar (y la pizca de xántica si se usa). Colocar sobre una olla con agua apenas hirviendo (sin que el fondo toque el agua) y batir con batidor de alambre hasta que el azúcar se disuelva por completo y la mezcla alcance entre 52 °C y 54 °C (125 °F a 130 °F).",
+      "Retirar del calor y batir de inmediato con batidora eléctrica a velocidad media-alta hasta formar un merengue firme, brillante y elástico con picos suaves sostenidos.",
+      "Con una espátula de goma, verter un tercio del merengue en el chocolate fundido tibio y revolver enérgicamente para igualar densidades.",
+      "Incorporar el resto del merengue en dos tandas, con movimientos envolventes suaves de abajo hacia arriba, cuidando de no desinflar las burbujas microscópicas atrapadas.",
+      "Rellenar los ramekins preparados hasta el tope con la masa. Nivelar la superficie arrastrando suavemente una espátula de metal plana al ras del borde del molde.",
+      "Pasar la punta del pulgar por todo el perímetro interior del borde del ramekin creando un pequeño canal o separación de 2 mm entre la masa y el borde (esto asegura un levante cilíndrico perfecto).",
+      "Técnica invertida make-ahead: Cubrir una bandeja plana con papel encerado o film adherente. Invertir cuidadosamente cada ramekin boca abajo sobre la bandeja. Llevar a la heladera boca abajo por un mínimo de 2 horas (o hasta 48 horas, o al congelador por 1 mes).",
+      "Horneado: Precalentar el horno a 190 °C (375 °F) con calor arriba y abajo (sin convector fuerte).",
+      "Voltear los moldes nuevamente hacia arriba (con la abertura hacia el cielo) e introducirlos de inmediato en el horno bien caliente sobre una placa metálica.",
+      "Hornear durante 10 a 12 minutos (o 14 a 16 minutos si vienen directamente del congelador) sin abrir la puerta en ningún momento. El soufflé subirá majestuosamente entre 3 y 4 centímetros por encima del borde.",
+      "Retirar del horno, espolvorear con cacao amargo y servir de inmediato con una cuchara que rompa la corteza crocante revelando el corazón fundente."
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación",
+        "steps": [
+          "Encamisar 4 ramekins individuales de cerámica: untar generosamente el interior con manteca blanda usando un pincel con trazos estrictamente verticales (de abajo hacia arriba, lo que guía la subida del soufflé).",
+          "Agregar una cucharada de cacao en polvo a cada ramekin, girar para cubrir el fondo y los laterales por completo, y sacudir el exceso invertido sobre un cuenco. Reservar en la heladera.",
+          "Picar finamente el chocolate amargo y derretirlo a baño María suave o en microondas en tandas de 20 segundos a potencia media, revolviendo hasta que esté sedoso a unos 45 °C.",
+          "Preparar el merengue suizo: en un bol refractario, mezclar las claras con el azúcar (y la pizca de xántica si se usa). Colocar sobre una olla con agua apenas hirviendo (sin que el fondo toque el agua) y batir con batidor de alambre hasta que el azúcar se disuelva por completo y la mezcla alcance entre 52 °C y 54 °C (125 °F a 130 °F).",
+          "Retirar del calor y batir de inmediato con batidora eléctrica a velocidad media-alta hasta formar un merengue firme, brillante y elástico con picos suaves sostenidos.",
+          "Con una espátula de goma, verter un tercio del merengue en el chocolate fundido tibio y revolver enérgicamente para igualar densidades.",
+          "Incorporar el resto del merengue en dos tandas, con movimientos envolventes suaves de abajo hacia arriba, cuidando de no desinflar las burbujas microscópicas atrapadas.",
+          "Rellenar los ramekins preparados hasta el tope con la masa. Nivelar la superficie arrastrando suavemente una espátula de metal plana al ras del borde del molde.",
+          "Pasar la punta del pulgar por todo el perímetro interior del borde del ramekin creando un pequeño canal o separación de 2 mm entre la masa y el borde (esto asegura un levante cilíndrico perfecto).",
+          "Técnica invertida make-ahead: Cubrir una bandeja plana con papel encerado o film adherente. Invertir cuidadosamente cada ramekin boca abajo sobre la bandeja. Llevar a la heladera boca abajo por un mínimo de 2 horas (o hasta 48 horas, o al congelador por 1 mes).",
+          "Horneado: Precalentar el horno a 190 °C (375 °F) con calor arriba y abajo (sin convector fuerte).",
+          "Voltear los moldes nuevamente hacia arriba (con la abertura hacia el cielo) e introducirlos de inmediato en el horno bien caliente sobre una placa metálica.",
+          "Hornear durante 10 a 12 minutos (o 14 a 16 minutos si vienen directamente del congelador) sin abrir la puerta en ningún momento. El soufflé subirá majestuosamente entre 3 y 4 centímetros por encima del borde.",
+          "Retirar del horno, espolvorear con cacao amargo y servir de inmediato con una cuchara que rompa la corteza crocante revelando el corazón fundente."
+        ]
+      }
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          "180 g de chocolate amargo de alta pureza (65% a 70% de cacao)",
+          "150 g de claras de huevo a temperatura ambiente (aproximadamente 5 claras)",
+          "75 g de azúcar común",
+          "1 pizca microscópica de goma xántica (0,1 g o la punta de un escarbadientes, opcional pero otorga estabilidad sobrehumana)",
+          "Manteca pomada para encamisar los moldes",
+          "Cacao amargo en polvo de buena calidad para espolvorear los moldes y decorar"
+        ]
+      }
+    ]
   },
   {
     "id": 595,
@@ -46783,7 +47640,49 @@
     ],
     "img_local": "img/everlasting_latte_espuma.jpg",
     "img_filename": "everlasting_latte_espuma.jpg",
-    "image": "https://lh3.googleusercontent.com/-NY81YgIIqU8/avZ_LWtLyDI/AAAAAAAP8Tw/-yRG8CxNhC8FAkMAzUfvDMMWGoVcH9GGgCNcBGAsYHQ/s1600/everlasting_latte_espuma.jpg"
+    "image": "https://lh3.googleusercontent.com/-NY81YgIIqU8/avZ_LWtLyDI/AAAAAAAP8Tw/-yRG8CxNhC8FAkMAzUfvDMMWGoVcH9GGgCNcBGAsYHQ/s1600/everlasting_latte_espuma.jpg",
+    "steps": [
+      "En una taza pequeña, mezclar la microscópica cantidad de goma xántica con la cucharadita de jarabe o pizca de azúcar. Frotar bien con una cuchara para que las partículas de hidrocoloide queden recubiertas y no formen grumos al tocar el líquido caliente.",
+      "Calentar la leche entera en una cacerolita o en microondas hasta alcanzar entre 60 °C y 65 °C (140 °F a 150 °F). No dejar que hierva ni supere los 70 °C para no desnaturalizar las proteínas de suero.",
+      "Verter la leche caliente dentro del vaso de vidrio de una cafetera de émbolo (prensa francesa) limpia y seca. Añadir la mezcla dispersa de xántica y azúcar, removiendo rápidamente con una cuchara.",
+      "Colocar el émbolo de la prensa francesa en la parte superior del vaso.",
+      "Fase de aireado inicial: Realizar 3 o 4 bombeos lentos y amplios que salgan apenas por encima del nivel de la leche para introducir un volumen controlado de aire en el líquido.",
+      "Fase de cizallamiento y texturizado: Mantener el filtro del émbolo estrictamente por debajo de la superficie de la leche y bombear de forma rápida y continua durante 40 a 50 repeticiones cortas. Este movimiento forzado a través de la malla metálica pulveriza las burbujas grandes en microburbujas invisibles a simple vista.",
+      "Retirar el émbolo. La leche habrá duplicado su volumen y tendrá una superficie pulida, brillante como pintura látex fresca, sin ninguna burbuja visible.",
+      "Girar suavemente la jarra de la prensa francesa sobre la mesada y darle uno o dos golpes secos contra la mesa para asentar el líquido.",
+      "Servir el café espresso bien caliente en una taza ancha de cerámica.",
+      "Verter la microespuma con un flujo fino y constante en el centro del espresso para integrarla bajo la crema del café, y luego acercar el pico al borde de la taza para volcar la espuma blanca densa y realizar un dibujo de arte latte (tulipán, corazón o roseta).",
+      "Observar el resultado: la microespuma mantendrá su textura cremosa y elástica sorbo tras sorbo hasta la última gota."
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación",
+        "steps": [
+          "En una taza pequeña, mezclar la microscópica cantidad de goma xántica con la cucharadita de jarabe o pizca de azúcar. Frotar bien con una cuchara para que las partículas de hidrocoloide queden recubiertas y no formen grumos al tocar el líquido caliente.",
+          "Calentar la leche entera en una cacerolita o en microondas hasta alcanzar entre 60 °C y 65 °C (140 °F a 150 °F). No dejar que hierva ni supere los 70 °C para no desnaturalizar las proteínas de suero.",
+          "Verter la leche caliente dentro del vaso de vidrio de una cafetera de émbolo (prensa francesa) limpia y seca. Añadir la mezcla dispersa de xántica y azúcar, removiendo rápidamente con una cuchara.",
+          "Colocar el émbolo de la prensa francesa en la parte superior del vaso.",
+          "Fase de aireado inicial: Realizar 3 o 4 bombeos lentos y amplios que salgan apenas por encima del nivel de la leche para introducir un volumen controlado de aire en el líquido.",
+          "Fase de cizallamiento y texturizado: Mantener el filtro del émbolo estrictamente por debajo de la superficie de la leche y bombear de forma rápida y continua durante 40 a 50 repeticiones cortas. Este movimiento forzado a través de la malla metálica pulveriza las burbujas grandes en microburbujas invisibles a simple vista.",
+          "Retirar el émbolo. La leche habrá duplicado su volumen y tendrá una superficie pulida, brillante como pintura látex fresca, sin ninguna burbuja visible.",
+          "Girar suavemente la jarra de la prensa francesa sobre la mesada y darle uno o dos golpes secos contra la mesa para asentar el líquido.",
+          "Servir el café espresso bien caliente en una taza ancha de cerámica.",
+          "Verter la microespuma con un flujo fino y constante en el centro del espresso para integrarla bajo la crema del café, y luego acercar el pico al borde de la taza para volcar la espuma blanca densa y realizar un dibujo de arte latte (tulipán, corazón o roseta).",
+          "Observar el resultado: la microespuma mantendrá su textura cremosa y elástica sorbo tras sorbo hasta la última gota."
+        ]
+      }
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          "200 ml de leche entera fresca (preferentemente de 3,5% a 4% de tenor graso)",
+          "0,1 g a 0,15 g de goma xántica pura (literalmente la punta mínima de una espátula o un escarbadientes, o 1/8 de cucharadita disuelta)",
+          "1 cucharadita de jarabe simple o una pizca de azúcar (para dispersar la xántica y evitar grumos)",
+          "60 ml de café espresso doble recién extraído (o un café concentrado intenso de cafetera moka o cápsula congelada de alta calidad)"
+        ]
+      }
+    ]
   },
   {
     "id": 596,
@@ -46837,7 +47736,48 @@
     ],
     "img_local": "img/chantilly_chocolate_agua.jpg",
     "img_filename": "chantilly_chocolate_agua.jpg",
-    "image": "https://lh3.googleusercontent.com/-Dmk-FER_ASc/avZ_MjEZ2cI/AAAAAAAP8T4/QU8MoQzkSU84uW8fmE2GtCfmYNyUO1QCwCNcBGAsYHQ/s1600/chantilly_chocolate_agua.jpg"
+    "image": "https://lh3.googleusercontent.com/-Dmk-FER_ASc/avZ_MjEZ2cI/AAAAAAAP8T4/QU8MoQzkSU84uW8fmE2GtCfmYNyUO1QCwCNcBGAsYHQ/s1600/chantilly_chocolate_agua.jpg",
+    "steps": [
+      "Picar el chocolate amargo en trozos pequeños y regulares para asegurar un derretimiento parejo. Colocarlo en un bol metálico o de vidrio refractario mediano.",
+      "Verter los 170 ml de agua (o café espresso caliente) y el azúcar o licor si se utiliza sobre el chocolate.",
+      "Llevar el bol sobre una cacerola con agua a fuego lento (baño María suave) y revolver constantemente con una espátula de silicona hasta que el chocolate se funde por completo y se forme una salsa líquida, homogénea y brillante sin ningún grumo.",
+      "Mientras tanto, preparar un bol más grande lleno hasta la mitad con agua bien fría y abundantes cubos de hielo (baño María helado).",
+      "Retirar el bol con la mezcla caliente de chocolate del fuego y asentarlo directamente dentro del bol con agua helada.",
+      "Comenzar a batir de inmediato con un batidor de alambre manual o batidora eléctrica a velocidad mínima.",
+      "A medida que el bol se enfría, la manteca de cacao comenzará a cristalizar y la mezcla cambiará de consistencia: primero pasará de líquida a almibarada, luego a una crema densa y finalmente atrapará burbujas de aire formando picos suaves y brillantes como una crema batida tradicional.",
+      "Atención crítica: En cuanto el batidor comience a dejar surcos marcados y se alcancen picos suaves (similar a un punto cinta espeso), retirar inmediatamente el bol del baño de hielo. La grasa residual continúa enfriándose y si se bate de más se volverá granulosa.",
+      "Servir de inmediato con una cuchara o pasar a una manga pastelera para decorar copas, frutas frescas o postres.",
+      "En caso de error: Si por descuido se batió de más y la textura quedó rígida o granulosa, no hay que descartar nada: simplemente volver a colocar el bol sobre el baño María caliente unos segundos para fundir una pequeña fracción, retirar del calor y batir suavemente hasta recuperar la sedosidad perfecta."
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación",
+        "steps": [
+          "Picar el chocolate amargo en trozos pequeños y regulares para asegurar un derretimiento parejo. Colocarlo en un bol metálico o de vidrio refractario mediano.",
+          "Verter los 170 ml de agua (o café espresso caliente) y el azúcar o licor si se utiliza sobre el chocolate.",
+          "Llevar el bol sobre una cacerola con agua a fuego lento (baño María suave) y revolver constantemente con una espátula de silicona hasta que el chocolate se funde por completo y se forme una salsa líquida, homogénea y brillante sin ningún grumo.",
+          "Mientras tanto, preparar un bol más grande lleno hasta la mitad con agua bien fría y abundantes cubos de hielo (baño María helado).",
+          "Retirar el bol con la mezcla caliente de chocolate del fuego y asentarlo directamente dentro del bol con agua helada.",
+          "Comenzar a batir de inmediato con un batidor de alambre manual o batidora eléctrica a velocidad mínima.",
+          "A medida que el bol se enfría, la manteca de cacao comenzará a cristalizar y la mezcla cambiará de consistencia: primero pasará de líquida a almibarada, luego a una crema densa y finalmente atrapará burbujas de aire formando picos suaves y brillantes como una crema batida tradicional.",
+          "Atención crítica: En cuanto el batidor comience a dejar surcos marcados y se alcancen picos suaves (similar a un punto cinta espeso), retirar inmediatamente el bol del baño de hielo. La grasa residual continúa enfriándose y si se bate de más se volverá granulosa.",
+          "Servir de inmediato con una cuchara o pasar a una manga pastelera para decorar copas, frutas frescas o postres.",
+          "En caso de error: Si por descuido se batió de más y la textura quedó rígida o granulosa, no hay que descartar nada: simplemente volver a colocar el bol sobre el baño María caliente unos segundos para fundir una pequeña fracción, retirar del calor y batir suavemente hasta recuperar la sedosidad perfecta."
+        ]
+      }
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          "200 g de chocolate amargo de alta gama (idealmente 70% de cacao, con buena proporción de manteca de cacao pura)",
+          "170 ml de agua mineral o filtrada (o 170 ml de café espresso recién filtrado para una versión Moka Chantilly)",
+          "1 cucharadita de azúcar o licor de naranja/Grand Marnier (opcional, al gusto)",
+          "1 pizca de flor de sal para realzar los matices del cacao",
+          "Hielo abundante y agua fría para el baño María invertido"
+        ]
+      }
+    ]
   },
   {
     "id": 597,
@@ -46896,7 +47836,58 @@
     ],
     "img_local": "img/doner_kebab_casero.jpg",
     "img_filename": "doner_kebab_casero.jpg",
-    "image": "https://lh3.googleusercontent.com/-lelBw1ws8wE/avbMM_CtvXI/AAAAAAAP8UY/LgkTUWsQh_Qea8d-53MJU31Ra5YOF6uygCNcBGAsYHQ/s1600/doner_kebab_casero.jpg"
+    "image": "https://lh3.googleusercontent.com/-lelBw1ws8wE/avbMM_CtvXI/AAAAAAAP8UY/LgkTUWsQh_Qea8d-53MJU31Ra5YOF6uygCNcBGAsYHQ/s1600/doner_kebab_casero.jpg",
+    "steps": [
+      "En un bol amplio colocar la carne picada de vaca y cordero, la cebolla escurrida, los ajos en pasta, el yogur griego y todas las especias con la sal.",
+      "Amasar enérgicamente con las manos durante 5 a 8 minutos hasta que la mezcla cambie de textura, desarrolle miosina y se transforme en una pasta homogénea, compacta y ligeramente pegajosa.",
+      "Extender una hoja doble de film transparente sobre la mesada. Volcar la masa de carne en el centro y darle forma de cilindro alargado y apretado de unos 7 a 8 cm de diámetro.",
+      "Envolver rodando firmemente sobre sí mismo, atando los extremos como un caramelo gigante para expulsar cualquier burbuja de aire interior.",
+      "Llevar el cilindro de carne al congelador durante al menos 6 horas (o toda la noche) hasta que quede completamente sólido como un leño.",
+      "Para cocinar: retirar el film y, con un cuchillo de chef muy afilado o una mandolina de cocina resistente, cortar virutas o láminas de carne milimétricas desde el extremo congelado.",
+      "Calentar una sartén de hierro fundido a fuego máximo con unas gotas de aceite neutro hasta que comience a humear ligeramente.",
+      "Arrojar un puñado de láminas congeladas en una sola capa sin amontonar. En apenas 30 a 45 segundos la carne chisporroteará, se dorará con bordes crocantes caramelizados y se cocinará al instante.",
+      "Dar vuelta rápidamente con pinzas, dorar 15 segundos más y retirar a un plato cubierto.",
+      "Repetir en tandas rápidas hasta dorar la cantidad deseada.",
+      "Servir de inmediato dentro de pan pita caliente o sobre un plato con cebollas al sumac, rodajas de tomate, pepinillos y salsa de yogur al ajo."
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación",
+        "steps": [
+          "En un bol amplio colocar la carne picada de vaca y cordero, la cebolla escurrida, los ajos en pasta, el yogur griego y todas las especias con la sal.",
+          "Amasar enérgicamente con las manos durante 5 a 8 minutos hasta que la mezcla cambie de textura, desarrolle miosina y se transforme en una pasta homogénea, compacta y ligeramente pegajosa.",
+          "Extender una hoja doble de film transparente sobre la mesada. Volcar la masa de carne en el centro y darle forma de cilindro alargado y apretado de unos 7 a 8 cm de diámetro.",
+          "Envolver rodando firmemente sobre sí mismo, atando los extremos como un caramelo gigante para expulsar cualquier burbuja de aire interior.",
+          "Llevar el cilindro de carne al congelador durante al menos 6 horas (o toda la noche) hasta que quede completamente sólido como un leño.",
+          "Para cocinar: retirar el film y, con un cuchillo de chef muy afilado o una mandolina de cocina resistente, cortar virutas o láminas de carne milimétricas desde el extremo congelado.",
+          "Calentar una sartén de hierro fundido a fuego máximo con unas gotas de aceite neutro hasta que comience a humear ligeramente.",
+          "Arrojar un puñado de láminas congeladas en una sola capa sin amontonar. En apenas 30 a 45 segundos la carne chisporroteará, se dorará con bordes crocantes caramelizados y se cocinará al instante.",
+          "Dar vuelta rápidamente con pinzas, dorar 15 segundos más y retirar a un plato cubierto.",
+          "Repetir en tandas rápidas hasta dorar la cantidad deseada.",
+          "Servir de inmediato dentro de pan pita caliente o sobre un plato con cebollas al sumac, rodajas de tomate, pepinillos y salsa de yogur al ajo."
+        ]
+      }
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          "500 g de carne vacuna picada (con un 20% de grasa para jugosidad)",
+          "200 g de carne de cordero picada (o más carne vacuna si no se consigue cordero)",
+          "1 cebolla rallada fina, escurrida de su agua amarga",
+          "3 dientes de ajo machacados a pasta",
+          "3 cucharadas de yogur natural griego sin azúcar",
+          "1 cucharada de comino molido",
+          "1 cucharada de orégano seco",
+          "1 cucharadita de cilantro molido",
+          "1 cucharadita de pimentón dulce o ahumado",
+          "1 cucharadita de pimienta negra recién molida",
+          "1 1/2 cucharaditas de sal fina",
+          "Pan pita o pan plano lavash caliente para servir",
+          "Cebolla morada en plumas con zumaque (sumac), tomate y salsa de yogur con ajo para acompañar"
+        ]
+      }
+    ]
   },
   {
     "id": 598,
@@ -46959,7 +47950,60 @@
     ],
     "img_local": "img/shoyu_ramen_ramen_lord.jpg",
     "img_filename": "shoyu_ramen_ramen_lord.jpg",
-    "image": "https://lh3.googleusercontent.com/-cMGVPHRL7aE/avbMOAQpccI/AAAAAAAP8Ug/BfcHWGOoWAIF8StffLRd5qPNa4i50pRgQCNcBGAsYHQ/s1600/shoyu_ramen_ramen_lord.jpg"
+    "image": "https://lh3.googleusercontent.com/-cMGVPHRL7aE/avbMOAQpccI/AAAAAAAP8Ug/BfcHWGOoWAIF8StffLRd5qPNa4i50pRgQCNcBGAsYHQ/s1600/shoyu_ramen_ramen_lord.jpg",
+    "steps": [
+      "Para el chintan de pollo: blanquear la carcasa y las alitas en agua hirviendo durante 2 minutos, desechar el agua y enjuagar bajo el grifo retirando cualquier resto oscuro de sangre.",
+      "Colocar el pollo limpio en una olla con 2 litros de agua fría. Llevar a fuego muy suave hasta unos 90 °C (sin que llegue jamás a hervir a borbotones para mantener el caldo cristalino).",
+      "Cocinar a fuego lento durante 4 horas espumando periódicamente cualquier impureza. En la última hora incorporar el jengibre y la cebolleta. Colar por un tamiz muy fino.",
+      "Para el dashi marino: remojar el kombu y los niboshi en 800 ml de agua durante 30 minutos. Llevar a 65 °C durante 20 minutos, retirar el kombu, incorporar el katsuobushi, apagar el fuego y dejar infusionar 10 minutos. Colar.",
+      "Para la tare: calentar el mirin y sake en una ollita para evaporar el alcohol; agregar la salsa de soja y la sal, calentar hasta disolver y dejar enfriar.",
+      "Cocinar los fideos ramen en abundante agua hirviendo durante 90 a 120 segundos hasta que estén firmes al dente; escurrir con sacudidas secas.",
+      "Armado del tazón: en cada tazón precalentado verter 30 ml de tare de shoyu y 1 cucharada de aceite chiyu caliente.",
+      "Verter 200 ml de caldo de pollo caliente y 100 ml de dashi caliente (proporción 2 a 1). Batir ligeramente con cuchara.",
+      "Plegar los fideos cocidos en el centro del caldo con los palillos formando una cama uniforme.",
+      "Disponer encima la rodaja de chashu dorado, el huevo ajitsuke marinado con la yema hacia arriba, brotes de menma y la lámina de nori al borde. Servir de inmediato."
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación",
+        "steps": [
+          "Para el chintan de pollo: blanquear la carcasa y las alitas en agua hirviendo durante 2 minutos, desechar el agua y enjuagar bajo el grifo retirando cualquier resto oscuro de sangre.",
+          "Colocar el pollo limpio en una olla con 2 litros de agua fría. Llevar a fuego muy suave hasta unos 90 °C (sin que llegue jamás a hervir a borbotones para mantener el caldo cristalino).",
+          "Cocinar a fuego lento durante 4 horas espumando periódicamente cualquier impureza. En la última hora incorporar el jengibre y la cebolleta. Colar por un tamiz muy fino.",
+          "Para el dashi marino: remojar el kombu y los niboshi en 800 ml de agua durante 30 minutos. Llevar a 65 °C durante 20 minutos, retirar el kombu, incorporar el katsuobushi, apagar el fuego y dejar infusionar 10 minutos. Colar.",
+          "Para la tare: calentar el mirin y sake en una ollita para evaporar el alcohol; agregar la salsa de soja y la sal, calentar hasta disolver y dejar enfriar.",
+          "Cocinar los fideos ramen en abundante agua hirviendo durante 90 a 120 segundos hasta que estén firmes al dente; escurrir con sacudidas secas.",
+          "Armado del tazón: en cada tazón precalentado verter 30 ml de tare de shoyu y 1 cucharada de aceite chiyu caliente.",
+          "Verter 200 ml de caldo de pollo caliente y 100 ml de dashi caliente (proporción 2 a 1). Batir ligeramente con cuchara.",
+          "Plegar los fideos cocidos en el centro del caldo con los palillos formando una cama uniforme.",
+          "Disponer encima la rodaja de chashu dorado, el huevo ajitsuke marinado con la yema hacia arriba, brotes de menma y la lámina de nori al borde. Servir de inmediato."
+        ]
+      }
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          "Para el Caldo de Pollo Chintan (4 horas):",
+          "1 carcasa de pollo fresca y 500 g de alitas o patas de pollo",
+          "2 litros de agua filtrada",
+          "1 trozo de jengibre de 3 cm machacado",
+          "2 tallos de cebolleta verde (negui)",
+          "Para el Dashi Marino (1 hora):",
+          "10 g de alga kombu seca",
+          "20 g de niboshi (sardinas secas japonesas, sin cabezas ni tripas)",
+          "15 g de copos de katsuobushi (bonito seco)",
+          "800 ml de agua",
+          "Para la Tare de Shoyu y Montaje:",
+          "120 ml de salsa de soja japonesa de buena calidad (Koikuchi y Usukuchi)",
+          "30 ml de mirin y 15 ml de sake",
+          "1 cucharadita de sal marina",
+          "4 cucharadas de aceite Chiyu (grasa de pollo fundida con cebolletas)",
+          "4 porciones de fideos ramen frescos alcalinos",
+          "4 rodajas de chashu de panceta, 2 huevos ajitsuke partidos al medio, menma y hojas de nori"
+        ]
+      }
+    ]
   },
   {
     "id": 599,
@@ -47020,7 +48064,58 @@
     ],
     "img_local": "img/shio_ramen_ivan_orkin.jpg",
     "img_filename": "shio_ramen_ivan_orkin.jpg",
-    "image": "https://lh3.googleusercontent.com/-NLrv4N_ANlw/avbMPEaEGKI/AAAAAAAP8Uo/dC1ejRjCLskibbxsHQXF1jaODkLgy2y7wCNcBGAsYHQ/s1600/shio_ramen_ivan_orkin.jpg"
+    "image": "https://lh3.googleusercontent.com/-NLrv4N_ANlw/avbMPEaEGKI/AAAAAAAP8Uo/dC1ejRjCLskibbxsHQXF1jaODkLgy2y7wCNcBGAsYHQ/s1600/shio_ramen_ivan_orkin.jpg",
+    "steps": [
+      "Blanquear los huesos de cerdo y el pollo en agua hirviendo durante 3 minutos, enjuagar minuciosamente bajo agua fría eliminando restos coagulados.",
+      "Colocar en olla limpia con 2,5 litros de agua fría. Llevar a fuego muy bajo (88 °C a 92 °C) sin dejar hervir. Cocinar durante 3 horas y media espumando constantemente. Añadir el puerro y ajo en la última hora. Colar con gasa fina.",
+      "Para el dashi: hidratar el kombu y los shiitake en 700 ml de agua durante 4 horas (o toda la noche). Calentar a 65 °C durante 20 minutos, retirar el kombu, llevar a 85 °C, apagar y agregar el katsuobushi. Reposar 10 minutos y filtrar.",
+      "Para la tare de sal: calentar el agua con mirin, sake y sal marina hasta disolución total; retirar del fuego y agregar el toque cítrico de yuzu o limón.",
+      "Hervir los fideos de centeno en abundante agua hirviendo vigorosa durante unos 80 a 90 segundos; escurrir perfectamente con golpes secos de colador.",
+      "En cada tazón precalentado colocar 25 ml de tare de shio y 1 cucharada de aceite aromatizado.",
+      "Verter 220 ml de caldo claro de ave/cerdo bien caliente y 80 ml de dashi caliente. Mezclar.",
+      "Acomodar los fideos doblados en el centro formando una superficie plana.",
+      "Decorar con la panceta chashu tierna, el medio tomate asado que aporta acidez glutámica, medio huevo con yema líquida y una montaña de cebolleta cortada en juliana fina como hilos de seda. Servir hirviendo."
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación",
+        "steps": [
+          "Blanquear los huesos de cerdo y el pollo en agua hirviendo durante 3 minutos, enjuagar minuciosamente bajo agua fría eliminando restos coagulados.",
+          "Colocar en olla limpia con 2,5 litros de agua fría. Llevar a fuego muy bajo (88 °C a 92 °C) sin dejar hervir. Cocinar durante 3 horas y media espumando constantemente. Añadir el puerro y ajo en la última hora. Colar con gasa fina.",
+          "Para el dashi: hidratar el kombu y los shiitake en 700 ml de agua durante 4 horas (o toda la noche). Calentar a 65 °C durante 20 minutos, retirar el kombu, llevar a 85 °C, apagar y agregar el katsuobushi. Reposar 10 minutos y filtrar.",
+          "Para la tare de sal: calentar el agua con mirin, sake y sal marina hasta disolución total; retirar del fuego y agregar el toque cítrico de yuzu o limón.",
+          "Hervir los fideos de centeno en abundante agua hirviendo vigorosa durante unos 80 a 90 segundos; escurrir perfectamente con golpes secos de colador.",
+          "En cada tazón precalentado colocar 25 ml de tare de shio y 1 cucharada de aceite aromatizado.",
+          "Verter 220 ml de caldo claro de ave/cerdo bien caliente y 80 ml de dashi caliente. Mezclar.",
+          "Acomodar los fideos doblados en el centro formando una superficie plana.",
+          "Decorar con la panceta chashu tierna, el medio tomate asado que aporta acidez glutámica, medio huevo con yema líquida y una montaña de cebolleta cortada en juliana fina como hilos de seda. Servir hirviendo."
+        ]
+      }
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          "Para el Caldo Claro de Ave y Cerdo:",
+          "1 pollo entero de campo (o carcasas con carne) y 300 g de huesos de cerdo limpios",
+          "2,5 litros de agua fría",
+          "1 puerro (parte blanca y verde clara) y 4 dientes de ajo aplastados",
+          "Para el Dashi Concentrado:",
+          "15 g de alga kombu",
+          "25 g de copos de katsuobushi",
+          "4 hongos shiitake secos",
+          "700 ml de agua",
+          "Para la Tare de Shio:",
+          "100 ml de agua filtrada, 40 ml de mirin y 20 ml de sake",
+          "25 g de sal marina de buena pureza (sal gris o sal de mar)",
+          "1 rodaja de limón o gotas de jugo de yuzu",
+          "Para el Tazón:",
+          "4 porciones de fideos de ramen (idealmente con toque de harina de centeno)",
+          "Aceite aromatizado de cerdo o pollo (chiyu)",
+          "Panceta chashu enrollada, medio tomate confitado o asado (toque de Ivan Orkin), huevo marinado y cebolleta fina"
+        ]
+      }
+    ]
   },
   {
     "id": 600,
@@ -47082,7 +48177,60 @@
     ],
     "img_local": "img/eclair_de_cafe.jpg",
     "img_filename": "eclair_de_cafe.jpg",
-    "image": "https://lh3.googleusercontent.com/-JGec9ytHM0k/avbMQu0sSMI/AAAAAAAP8Uw/8Sm-m_aJlw0tEQGwr6MlVMoNhpgQLqYWgCNcBGAsYHQ/s1600/eclair_de_cafe.jpg"
+    "image": "https://lh3.googleusercontent.com/-JGec9ytHM0k/avbMQu0sSMI/AAAAAAAP8Uw/8Sm-m_aJlw0tEQGwr6MlVMoNhpgQLqYWgCNcBGAsYHQ/s1600/eclair_de_cafe.jpg",
+    "steps": [
+      "Para la masa choux: en una cacerolita hervir el agua, la leche, la manteca en cubos, la sal y el azúcar. En cuanto rompa el hervor, retirar del fuego y volcar toda la harina de golpe.",
+      "Revolver enérgicamente con cuchara de madera hasta integrar sin grumos. Regresar a fuego medio y secar la masa durante 1 a 2 minutos aplastándola contra el fondo hasta que se forme una película blanca en la base de la olla.",
+      "Pasar la masa a un bol y dejar enfriar 5 minutos. Incorporar los huevos batidos poco a poco, batiendo bien tras cada adición hasta lograr el punto 'pico de pato' (una masa brillante que cuelga en forma de V de la espátula).",
+      "Cargar en manga con boquilla francesa estriada. Escupir bastones rectos de 12 a 13 cm sobre una placa con papel manteca engrasado o lámina de silicona.",
+      "Hornear a 180 °C (350 °F) durante 30 a 35 minutos sin abrir la puerta del horno bajo ningún concepto durante los primeros 25 minutos. Apagar el horno, entreabrir la puerta 5 minutos para que se sequen bien por dentro y enfriar sobre rejilla.",
+      "Para la crema pastelera: calentar la leche con el café hasta que rompa el hervor. En un bol blanquear las yemas con el azúcar y la maicena. Verter la mitad de la leche caliente batiendo, regresar todo a la cacerola y cocinar a fuego medio revolviendo con batidor hasta que espese y hierva 1 minuto.",
+      "Retirar del calor, batir la manteca fría en cubos, verter en un plato hondo, cubrir con film al contacto y enfriar en heladera.",
+      "Armado: batir la crema pastelera fría para devolverle la sedosidad y cargarla en una manga con boquilla fina. Perforar 3 pequeños orificios en la base de cada éclair y rellenar hasta que se sientan pesados y firmes.",
+      "Para el glaseado: mezclar el azúcar impalpable con el café caliente y la manteca derretida hasta obtener una pasta fluida y densa. Sumergir la parte superior de cada éclair escurriendo el exceso con el dedo.",
+      "Dejar reposar 15 minutos en heladera para que el glaseado tome consistencia y servir crujiente."
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación",
+        "steps": [
+          "Para la masa choux: en una cacerolita hervir el agua, la leche, la manteca en cubos, la sal y el azúcar. En cuanto rompa el hervor, retirar del fuego y volcar toda la harina de golpe.",
+          "Revolver enérgicamente con cuchara de madera hasta integrar sin grumos. Regresar a fuego medio y secar la masa durante 1 a 2 minutos aplastándola contra el fondo hasta que se forme una película blanca en la base de la olla.",
+          "Pasar la masa a un bol y dejar enfriar 5 minutos. Incorporar los huevos batidos poco a poco, batiendo bien tras cada adición hasta lograr el punto 'pico de pato' (una masa brillante que cuelga en forma de V de la espátula).",
+          "Cargar en manga con boquilla francesa estriada. Escupir bastones rectos de 12 a 13 cm sobre una placa con papel manteca engrasado o lámina de silicona.",
+          "Hornear a 180 °C (350 °F) durante 30 a 35 minutos sin abrir la puerta del horno bajo ningún concepto durante los primeros 25 minutos. Apagar el horno, entreabrir la puerta 5 minutos para que se sequen bien por dentro y enfriar sobre rejilla.",
+          "Para la crema pastelera: calentar la leche con el café hasta que rompa el hervor. En un bol blanquear las yemas con el azúcar y la maicena. Verter la mitad de la leche caliente batiendo, regresar todo a la cacerola y cocinar a fuego medio revolviendo con batidor hasta que espese y hierva 1 minuto.",
+          "Retirar del calor, batir la manteca fría en cubos, verter en un plato hondo, cubrir con film al contacto y enfriar en heladera.",
+          "Armado: batir la crema pastelera fría para devolverle la sedosidad y cargarla en una manga con boquilla fina. Perforar 3 pequeños orificios en la base de cada éclair y rellenar hasta que se sientan pesados y firmes.",
+          "Para el glaseado: mezclar el azúcar impalpable con el café caliente y la manteca derretida hasta obtener una pasta fluida y densa. Sumergir la parte superior de cada éclair escurriendo el exceso con el dedo.",
+          "Dejar reposar 15 minutos en heladera para que el glaseado tome consistencia y servir crujiente."
+        ]
+      }
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          "Para la Masa Choux (Pâte à Choux):",
+          "60 ml de agua y 60 ml de leche entera",
+          "55 g de manteca cortada en cubos",
+          "2 g de sal y 3 g de azúcar",
+          "70 g de harina 0000 tamizada",
+          "2 a 3 huevos grandes batidos (unos 120 g a 130 g)",
+          "Para la Crema Pastelera de Café (Crème Pâtissière):",
+          "400 ml de leche entera",
+          "2 cucharadas de café espresso instantáneo liofilizado o 50 ml de café espresso muy concentrado",
+          "4 yemas de huevo frescas",
+          "80 g de azúcar común",
+          "35 g de almidón de maíz (maicena)",
+          "30 g de manteca fría",
+          "Para el Glaseado de Café:",
+          "150 g de azúcar impalpable tamizada",
+          "2 a 3 cucharadas de café espresso fuerte caliente",
+          "1 cucharadita de manteca derretida (para dar brillo espejo)"
+        ]
+      }
+    ]
   },
   {
     "id": 601,
@@ -47136,7 +48284,52 @@
     ],
     "img_local": "img/creme_brulee_vainilla.jpg",
     "img_filename": "creme_brulee_vainilla.jpg",
-    "image": "https://lh3.googleusercontent.com/-Sh_J-Sx3JwM/avbMRx7KXAI/AAAAAAAP8U4/pcPIioWXZJge70cRuF8OMS1kOq1LXBBlQCNcBGAsYHQ/s1600/creme_brulee_vainilla.jpg"
+    "image": "https://lh3.googleusercontent.com/-Sh_J-Sx3JwM/avbMRx7KXAI/AAAAAAAP8U4/pcPIioWXZJge70cRuF8OMS1kOq1LXBBlQCNcBGAsYHQ/s1600/creme_brulee_vainilla.jpg",
+    "steps": [
+      "En una cacerolita calentar la crema de leche junto con las semillas raspadas de vainilla y la chaucha abierta hasta que comience a humear (unos 75 °C a 80 °C). Apagar el fuego, tapar y dejar infusionar durante 15 minutos para que la grasa absorba los aceites esenciales de la vainilla.",
+      "En un bol mediano mezclar las 5 yemas con los 80 g de azúcar y la pizca de sal utilizando un batidor de alambre o espátula, con movimientos suaves y envolventes (es crucial no batir enérgicamente para no incorporar espuma ni burbujas de aire).",
+      "Retirar la chaucha de vainilla de la crema tibia y verterla lentamente sobre las yemas en forma de hilo continuo mientras se revuelve suavemente.",
+      "Pasar la mezcla por un colador fino para atrapar cualquier posible grumo o impureza de clara.",
+      "Disponer 4 cazuelas bajas de cerámica (ramekins anchos de 12 cm de diámetro) dentro de una fuente profunda para horno.",
+      "Repartir la crema líquida en las cazuelas. Si quedara alguna burbuja en la superficie, pasar rápidamente la llama de un encendedor o soplete por encima para reventarlas al instante.",
+      "Verter agua caliente en el fondo de la fuente del horno hasta alcanzar la mitad de la altura de los ramekins (baño María protector).",
+      "Llevar a horno suave precalentado a 100 °C (212 °F) durante 45 a 55 minutos. La crema estará lista cuando los bordes estén firmes y el centro aún tiemble suavemente como gelatina al mover el molde.",
+      "Retirar del horno, dejar enfriar a temperatura ambiente y refrigerar durante al menos 4 horas (idealmente toda la noche).",
+      "Al momento de servir: espolvorear una capa muy fina y uniforme de azúcar de caña sobre la superficie fría.",
+      "Caramelizar con un soplete de cocina con movimientos circulares constantes hasta fundir el azúcar en un color ámbar dorado brillante. Dejar reposar 2 minutos para que el caramelo se vuelva rígido y quebrar con la cuchara."
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación",
+        "steps": [
+          "En una cacerolita calentar la crema de leche junto con las semillas raspadas de vainilla y la chaucha abierta hasta que comience a humear (unos 75 °C a 80 °C). Apagar el fuego, tapar y dejar infusionar durante 15 minutos para que la grasa absorba los aceites esenciales de la vainilla.",
+          "En un bol mediano mezclar las 5 yemas con los 80 g de azúcar y la pizca de sal utilizando un batidor de alambre o espátula, con movimientos suaves y envolventes (es crucial no batir enérgicamente para no incorporar espuma ni burbujas de aire).",
+          "Retirar la chaucha de vainilla de la crema tibia y verterla lentamente sobre las yemas en forma de hilo continuo mientras se revuelve suavemente.",
+          "Pasar la mezcla por un colador fino para atrapar cualquier posible grumo o impureza de clara.",
+          "Disponer 4 cazuelas bajas de cerámica (ramekins anchos de 12 cm de diámetro) dentro de una fuente profunda para horno.",
+          "Repartir la crema líquida en las cazuelas. Si quedara alguna burbuja en la superficie, pasar rápidamente la llama de un encendedor o soplete por encima para reventarlas al instante.",
+          "Verter agua caliente en el fondo de la fuente del horno hasta alcanzar la mitad de la altura de los ramekins (baño María protector).",
+          "Llevar a horno suave precalentado a 100 °C (212 °F) durante 45 a 55 minutos. La crema estará lista cuando los bordes estén firmes y el centro aún tiemble suavemente como gelatina al mover el molde.",
+          "Retirar del horno, dejar enfriar a temperatura ambiente y refrigerar durante al menos 4 horas (idealmente toda la noche).",
+          "Al momento de servir: espolvorear una capa muy fina y uniforme de azúcar de caña sobre la superficie fría.",
+          "Caramelizar con un soplete de cocina con movimientos circulares constantes hasta fundir el azúcar en un color ámbar dorado brillante. Dejar reposar 2 minutos para que el caramelo se vuelva rígido y quebrar con la cuchara."
+        ]
+      }
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          "500 ml de crema de leche fresca (mínimo 35% de materia grasa)",
+          "1 chaucha de vainilla de Madagascar de buena calidad (abierta longitudinalmente y con las semillas raspadas)",
+          "5 yemas de huevo grandes muy frescas",
+          "80 g de azúcar común (para la crema)",
+          "1 pizca microscópica de sal fina",
+          "4 a 6 cucharaditas de azúcar de caña o azúcar rubio (para caramelizar la superficie)",
+          "Agua caliente para el baño María"
+        ]
+      }
+    ]
   },
   {
     "id": 602,
@@ -47191,7 +48384,51 @@
     ],
     "img_local": "img/salsa_holandesa_casera.jpg",
     "img_filename": "salsa_holandesa_casera.jpg",
-    "image": "https://lh3.googleusercontent.com/-JdW7GYMCGzQ/avbMTHChLJI/AAAAAAAP8VA/vS2FsRgUH8QBoRlT_gvd56mHBaPN7I_HwCNcBGAsYHQ/s1600/salsa_holandesa_casera.jpg"
+    "image": "https://lh3.googleusercontent.com/-JdW7GYMCGzQ/avbMTHChLJI/AAAAAAAP8VA/vS2FsRgUH8QBoRlT_gvd56mHBaPN7I_HwCNcBGAsYHQ/s1600/salsa_holandesa_casera.jpg",
+    "steps": [
+      "Clarificar la manteca: fundirla en una ollita a fuego suave sin revolver hasta que el agua hierva y las proteínas lácteas (suero blanco) se separen en el fondo y la superficie. Espumar la superficie y decantar la grasa amarilla pura descartando los sedimentos inferiores. Mantener tibia (a unos 50 °C).",
+      "Para la reducción: en una ollita colocar el vinagre, el vino blanco, la chalota picada y los granos de pimienta. Cocinar a fuego medio hasta reducir a una sola cucharada de líquido concentrado. Colar y dejar entibiar.",
+      "En un bol de acero inoxidable o vidrio refractario colocar las 3 yemas con la reducción ácida tibia y una cucharadita de agua fría.",
+      "Asentar el bol sobre una cacerola con agua a fuego muy bajo (el agua debe estar caliente pero sin hervir a borbotones violentos y sin tocar el fondo del bol).",
+      "Batir enérgicamente con batidor de alambre en movimientos en forma de ocho durante 3 a 5 minutos, hasta que las yemas espesen, doblen su volumen y formen una espuma cremosa y pálida (sabayón) que deje marcas visibles al pasar el batidor.",
+      "Retirar el bol del fuego apoyándolo sobre un trapo húmedo en la mesada para fijarlo.",
+      "Comenzar a verter la manteca clarificada tibia gota a gota al principio, batiendo continuamente para establecer la emulsión.",
+      "Una vez formada la crema inicial, continuar agregando la manteca en un hilo fino continuo mientras se bate sin pausa hasta integrar toda la grasa.",
+      "Sazonar con la sal fina, la pizca de cayena y unas gotas de jugo de limón fresco para equilibrar la riqueza de la manteca.",
+      "Mantener tibia en un lugar templado de la cocina (nunca en la heladera ni sobre fuego directo) y servir de inmediato cubriendo huevos pochados, espárragos al vapor o pescados blancos."
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación",
+        "steps": [
+          "Clarificar la manteca: fundirla en una ollita a fuego suave sin revolver hasta que el agua hierva y las proteínas lácteas (suero blanco) se separen en el fondo y la superficie. Espumar la superficie y decantar la grasa amarilla pura descartando los sedimentos inferiores. Mantener tibia (a unos 50 °C).",
+          "Para la reducción: en una ollita colocar el vinagre, el vino blanco, la chalota picada y los granos de pimienta. Cocinar a fuego medio hasta reducir a una sola cucharada de líquido concentrado. Colar y dejar entibiar.",
+          "En un bol de acero inoxidable o vidrio refractario colocar las 3 yemas con la reducción ácida tibia y una cucharadita de agua fría.",
+          "Asentar el bol sobre una cacerola con agua a fuego muy bajo (el agua debe estar caliente pero sin hervir a borbotones violentos y sin tocar el fondo del bol).",
+          "Batir enérgicamente con batidor de alambre en movimientos en forma de ocho durante 3 a 5 minutos, hasta que las yemas espesen, doblen su volumen y formen una espuma cremosa y pálida (sabayón) que deje marcas visibles al pasar el batidor.",
+          "Retirar el bol del fuego apoyándolo sobre un trapo húmedo en la mesada para fijarlo.",
+          "Comenzar a verter la manteca clarificada tibia gota a gota al principio, batiendo continuamente para establecer la emulsión.",
+          "Una vez formada la crema inicial, continuar agregando la manteca en un hilo fino continuo mientras se bate sin pausa hasta integrar toda la grasa.",
+          "Sazonar con la sal fina, la pizca de cayena y unas gotas de jugo de limón fresco para equilibrar la riqueza de la manteca.",
+          "Mantener tibia en un lugar templado de la cocina (nunca en la heladera ni sobre fuego directo) y servir de inmediato cubriendo huevos pochados, espárragos al vapor o pescados blancos."
+        ]
+      }
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          "200 g de manteca de buena calidad, clarificada tibia (obteniendo unos 160 g de grasa pura sin suero lácteo)",
+          "3 yemas de huevo grandes muy frescas",
+          "30 ml de vino blanco seco o agua fría",
+          "15 ml de vinagre de vino blanco o jugo de limón colado",
+          "1 chalota pequeña picada finamente y 4 granos de pimienta negra machacados (para la reducción)",
+          "1/2 cucharadita de sal fina",
+          "1 pizca de pimienta de cayena recién molida",
+          "Unas gotas de jugo de limón fresco para terminar"
+        ]
+      }
+    ]
   },
   {
     "id": 603,
@@ -47254,7 +48491,59 @@
     ],
     "img_local": "img/kimchi_fermentacion_lenta.jpg",
     "img_filename": "kimchi_fermentacion_lenta.jpg",
-    "image": "https://lh3.googleusercontent.com/-GQObKAWIbTQ/avbMUbKfSdI/AAAAAAAP8VI/Scx76-JDhFYps7FahW5ogYGVNyaNH6XZgCNcBGAsYHQ/s1600/kimchi_fermentacion_lenta.jpg"
+    "image": "https://lh3.googleusercontent.com/-GQObKAWIbTQ/avbMUbKfSdI/AAAAAAAP8VI/Scx76-JDhFYps7FahW5ogYGVNyaNH6XZgCNcBGAsYHQ/s1600/kimchi_fermentacion_lenta.jpg",
+    "steps": [
+      "Cortar la base de la col napa por la mitad y separar las hojas longitudinalmente con las manos para preservar la estructura de las hojas.",
+      "Lavar con agua fría y espolvorear la sal gruesa hoja por hoja, concentrando más sal en los tallos blancos gruesos que en las puntas tiernas.",
+      "Dejar reposar la col en un bol grande durante 2 horas, volteándola cada 30 minutos, hasta que los tallos se doblen sin quebrarse.",
+      "Enjuagar minuciosamente la col bajo abundante agua corriente fría 3 veces para eliminar el exceso de sal. Escurrir en un colador durante 30 minutos presionando suavemente.",
+      "Preparar la papilla: mezclar en una ollita el agua y la harina de arroz. Llevar a fuego medio revolviendo hasta que hierva y forme una crema translúcida; añadir el azúcar, cocinar 1 minuto más y dejar enfriar por completo.",
+      "Preparar la pasta: en un bol grande mezclar la papilla fría con el gochugaru, la pera rallada, la cebolla procesada, el ajo, el jengibre y la salsa de pescado. Reposar 10 minutos para que el chile se hidrate.",
+      "Incorporar el nabo en juliana y las cebolletas a la pasta roja, mezclando bien.",
+      "Con guantes de cocina puestos, frotar la pasta roja generosamente hoja por hoja de la col escurrida, asegurando que cada rincón quede cubierto.",
+      "Doblar las hojas hacia adentro sobre sí mismas y acomodar los paquetes apretados en un frasco de vidrio hermético o recipiente de fermentación, presionando firmemente hacia abajo para expulsar cualquier burbuja de aire y que el líquido de salmuera cubra la verdura.",
+      "Cerrar la tapa sin apretar del todo (para permitir la salida de gases CO2) y dejar fermentar a temperatura ambiente fresca (18 °C a 20 °C) durante 2 a 3 días.",
+      "A partir del segundo día se observarán pequeñas burbujas activas y un aroma agrio y fragante; pasar a la heladera donde la fermentación continuará lentamente durante semanas, volviéndose cada vez más complejo y delicioso."
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación",
+        "steps": [
+          "Cortar la base de la col napa por la mitad y separar las hojas longitudinalmente con las manos para preservar la estructura de las hojas.",
+          "Lavar con agua fría y espolvorear la sal gruesa hoja por hoja, concentrando más sal en los tallos blancos gruesos que en las puntas tiernas.",
+          "Dejar reposar la col en un bol grande durante 2 horas, volteándola cada 30 minutos, hasta que los tallos se doblen sin quebrarse.",
+          "Enjuagar minuciosamente la col bajo abundante agua corriente fría 3 veces para eliminar el exceso de sal. Escurrir en un colador durante 30 minutos presionando suavemente.",
+          "Preparar la papilla: mezclar en una ollita el agua y la harina de arroz. Llevar a fuego medio revolviendo hasta que hierva y forme una crema translúcida; añadir el azúcar, cocinar 1 minuto más y dejar enfriar por completo.",
+          "Preparar la pasta: en un bol grande mezclar la papilla fría con el gochugaru, la pera rallada, la cebolla procesada, el ajo, el jengibre y la salsa de pescado. Reposar 10 minutos para que el chile se hidrate.",
+          "Incorporar el nabo en juliana y las cebolletas a la pasta roja, mezclando bien.",
+          "Con guantes de cocina puestos, frotar la pasta roja generosamente hoja por hoja de la col escurrida, asegurando que cada rincón quede cubierto.",
+          "Doblar las hojas hacia adentro sobre sí mismas y acomodar los paquetes apretados en un frasco de vidrio hermético o recipiente de fermentación, presionando firmemente hacia abajo para expulsar cualquier burbuja de aire y que el líquido de salmuera cubra la verdura.",
+          "Cerrar la tapa sin apretar del todo (para permitir la salida de gases CO2) y dejar fermentar a temperatura ambiente fresca (18 °C a 20 °C) durante 2 a 3 días.",
+          "A partir del segundo día se observarán pequeñas burbujas activas y un aroma agrio y fragante; pasar a la heladera donde la fermentación continuará lentamente durante semanas, volviéndose cada vez más complejo y delicioso."
+        ]
+      }
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          "1 col china grande (col napa / baechu, de aprox. 1,5 kg)",
+          "80 g de sal marina gruesa no yodada (para el curado)",
+          "Para la Papilla de Arroz (Nutriente para fermentación):",
+          "250 ml de agua y 2 cucharadas de harina de arroz glutinoso (o harina de arroz común)",
+          "1 cucharada de azúcar rubio o común",
+          "Para la Pasta Especiada:",
+          "60 g a 80 g de copos de chile coreano (Gochugaru, de picor medio y sabor afrutado)",
+          "1/2 pera asiática o manzana verde, rallada fina",
+          "1 cebolla mediana procesada",
+          "6 dientes de ajo y 2 cm de jengibre fresco pelado, machacados a pasta",
+          "4 cucharadas de salsa de pescado de buena calidad (o salsa de soja para versión vegana)",
+          "Para la Guarnición Vegetal:",
+          "1 taza de nabo daikon cortado en juliana fina",
+          "4 tallos de cebolleta verde cortados en bastones de 3 cm"
+        ]
+      }
+    ]
   },
   {
     "id": 604,
@@ -47312,7 +48601,58 @@
     ],
     "img_local": "img/croissants_franceses_laminados.jpg",
     "img_filename": "croissants_franceses_laminados.jpg",
-    "image": "https://lh3.googleusercontent.com/-IeIw_QxyrJw/avbMVf6u7hI/AAAAAAAP8VQ/Q1D59lHbIu8689IbcmJiiQp4fZJkf9oNACNcBGAsYHQ/s1600/croissants_franceses_laminados.jpg"
+    "image": "https://lh3.googleusercontent.com/-IeIw_QxyrJw/avbMVf6u7hI/AAAAAAAP8VQ/Q1D59lHbIu8689IbcmJiiQp4fZJkf9oNACNcBGAsYHQ/s1600/croissants_franceses_laminados.jpg",
+    "steps": [
+      "Para la détrempe: en un bol grande mezclar la harina, el azúcar, la sal y la levadura (sin que la levadura toque directamente la sal). Agregar el agua, la leche fría y los 40 g de manteca blanda.",
+      "Amasar durante 5 a 6 minutos hasta formar una masa suave, homogénea y elástica (sin desarrollar excesivo gluten para facilitar el estirado posterior).",
+      "Darle forma rectangular plana, envolver en film plástico y reposar en la heladera durante al menos 4 horas (o toda la noche).",
+      "Para el bloque de manteca: colocar los 250 g de manteca fría entre dos pliegos de papel manteca. Con el palote de amasar golpear y estirar hasta formar un cuadrado parejo y liso de 18 x 18 cm con el mismo espesor en todas partes. Enfriar 15 minutos en heladera.",
+      "El encierro (laminado): estirar la masa fría sobre la mesada ligeramente enharinada en un rectángulo de 19 x 38 cm. Colocar el bloque de manteca en el centro y doblar los extremos de la masa sobre la manteca uniéndolos en el centro como un sobre.",
+      "Primer pliegue (Pliegue doble / Libro): estirar suavemente a lo largo hasta alcanzar unos 60 cm de longitud manteniendo caras rectas. Doblar ambos extremos hacia el centro y luego doblar por la mitad como un libro cerrado de cuatro capas. Envolver en film y refrigerar 45 minutos.",
+      "Segundo pliegue (Pliegue simple / Tríptico): rotar la masa 90 grados, estirar nuevamente a 60 cm y doblar en tres partes como una carta comercial. Envolver y refrigerar durante al menos 1 hora (o toda la noche).",
+      "Formado: estirar la masa laminada fría hasta un espesor de 4 mm (un rectángulo de aprox. 25 x 60 cm). Recortar los bordes con un cortapizzas para liberar las capas hojaldradas.",
+      "Cortar triángulos alargados de 9 cm de base por 25 cm de altura. Hacer una pequeña incisión de 1 cm en el centro de la base y enrollar suavemente desde la base hacia la punta sin apretar.",
+      "Disponer los croissants en bandejas con papel manteca dejando amplio espacio entre sí. Pincelar con la doradura de huevo con extrema suavidad sin tocar los bordes laminados.",
+      "Leudado final: dejar leudar a temperatura ambiente fresca (24 °C a 26 °C, nunca más de 27 °C para que la manteca no se derrita) durante 2 horas a 2 horas y media, hasta que se bamboleen ligeramente al mover la placa.",
+      "Hornear a 200 °C (390 °F) durante 10 minutos, luego bajar a 180 °C (350 °F) y hornear 8 a 10 minutos más hasta que estén de un color castaño dorado brillante y crujientes. Enfriar sobre rejilla."
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación",
+        "steps": [
+          "Para la détrempe: en un bol grande mezclar la harina, el azúcar, la sal y la levadura (sin que la levadura toque directamente la sal). Agregar el agua, la leche fría y los 40 g de manteca blanda.",
+          "Amasar durante 5 a 6 minutos hasta formar una masa suave, homogénea y elástica (sin desarrollar excesivo gluten para facilitar el estirado posterior).",
+          "Darle forma rectangular plana, envolver en film plástico y reposar en la heladera durante al menos 4 horas (o toda la noche).",
+          "Para el bloque de manteca: colocar los 250 g de manteca fría entre dos pliegos de papel manteca. Con el palote de amasar golpear y estirar hasta formar un cuadrado parejo y liso de 18 x 18 cm con el mismo espesor en todas partes. Enfriar 15 minutos en heladera.",
+          "El encierro (laminado): estirar la masa fría sobre la mesada ligeramente enharinada en un rectángulo de 19 x 38 cm. Colocar el bloque de manteca en el centro y doblar los extremos de la masa sobre la manteca uniéndolos en el centro como un sobre.",
+          "Primer pliegue (Pliegue doble / Libro): estirar suavemente a lo largo hasta alcanzar unos 60 cm de longitud manteniendo caras rectas. Doblar ambos extremos hacia el centro y luego doblar por la mitad como un libro cerrado de cuatro capas. Envolver en film y refrigerar 45 minutos.",
+          "Segundo pliegue (Pliegue simple / Tríptico): rotar la masa 90 grados, estirar nuevamente a 60 cm y doblar en tres partes como una carta comercial. Envolver y refrigerar durante al menos 1 hora (o toda la noche).",
+          "Formado: estirar la masa laminada fría hasta un espesor de 4 mm (un rectángulo de aprox. 25 x 60 cm). Recortar los bordes con un cortapizzas para liberar las capas hojaldradas.",
+          "Cortar triángulos alargados de 9 cm de base por 25 cm de altura. Hacer una pequeña incisión de 1 cm en el centro de la base y enrollar suavemente desde la base hacia la punta sin apretar.",
+          "Disponer los croissants en bandejas con papel manteca dejando amplio espacio entre sí. Pincelar con la doradura de huevo con extrema suavidad sin tocar los bordes laminados.",
+          "Leudado final: dejar leudar a temperatura ambiente fresca (24 °C a 26 °C, nunca más de 27 °C para que la manteca no se derrita) durante 2 horas a 2 horas y media, hasta que se bamboleen ligeramente al mover la placa.",
+          "Hornear a 200 °C (390 °F) durante 10 minutos, luego bajar a 180 °C (350 °F) y hornear 8 a 10 minutos más hasta que estén de un color castaño dorado brillante y crujientes. Enfriar sobre rejilla."
+        ]
+      }
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          "Para la Masa Base (Détrempe):",
+          "500 g de harina de fuerza o harina de media fuerza (T55 o 000 de buena proteína)",
+          "60 g de azúcar común",
+          "10 g de sal fina",
+          "10 g de levadura seca instantánea (o 25 g de levadura fresca)",
+          "140 ml de agua fría y 140 ml de leche entera fría",
+          "40 g de manteca blanda a temperatura ambiente",
+          "Para el Bloque de Manteca (Beurrage):",
+          "250 g de manteca seca de alta calidad (84% de grasa, tipo manteca de pastelería europea)",
+          "Para el Dorado (Dorure):",
+          "1 huevo batido con una cucharada de leche y una pizca de sal"
+        ]
+      }
+    ]
   },
   {
     "id": 605,
@@ -47363,7 +48703,51 @@
     ],
     "img_local": "img/pain_au_chocolat_hojaldrado.jpg",
     "img_filename": "pain_au_chocolat_hojaldrado.jpg",
-    "image": "https://lh3.googleusercontent.com/-8fZNFVvQyG8/avbMWgZ2A8I/AAAAAAAP8VY/P2Hrl9V3WYQzrCQWq32Fi1NK3CDeuNjogCNcBGAsYHQ/s1600/pain_au_chocolat_hojaldrado.jpg"
+    "image": "https://lh3.googleusercontent.com/-8fZNFVvQyG8/avbMWgZ2A8I/AAAAAAAP8VY/P2Hrl9V3WYQzrCQWq32Fi1NK3CDeuNjogCNcBGAsYHQ/s1600/pain_au_chocolat_hojaldrado.jpg",
+    "steps": [
+      "Preparar la masa laminada con sus pliegues simple y doble refrigerados según la técnica de la receta #604.",
+      "Estirar la masa fría sobre la mesada enharinada hasta lograr un rectángulo parejo de 4 mm de espesor y aproximadamente 25 cm de ancho por 60 cm de largo.",
+      "Emparejar los cuatro bordes con cuchilla afilada o cortapizzas para que las capas de hojaldre queden expuestas.",
+      "Cortar tiras rectangulares de 8 cm de ancho (el largo exacto de los bastones de chocolate) por 15 cm de largo.",
+      "Armado: colocar un primer bastón de chocolate a 1,5 cm del borde corto del rectángulo de masa. Doblar la masa sobre el chocolate.",
+      "Colocar el segundo bastón de chocolate justo al lado del pliegue y terminar de enrollar el resto de la masa sobre sí misma, dejando la unión final (la costura) ubicada exactamente en la parte inferior para que no se abra en el horno.",
+      "Disponer los pain au chocolat sobre una placa para horno cubierta con papel manteca, con la unión hacia abajo y con al menos 6 cm de distancia entre cada pieza.",
+      "Pincelar suavemente la parte superior con la doradura de huevo con una brocha suave, evitando que el huevo gotee por los costados laminados.",
+      "Leudado: dejar levar en un ambiente tibio (25 °C) durante 2 horas a 2 horas y media hasta que dupliquen su volumen y tengan una textura aireada que tiemble al tacto.",
+      "Pincelar una segunda capa fina de huevo para un brillo dorado reluciente.",
+      "Hornear en horno precalentado a 190 °C (375 °F) durante 16 a 18 minutos hasta que adquieran un color caoba dorado intenso y la base esté completamente cocida y crocante.",
+      "Enfriar sobre rejilla 10 minutos antes de morder; las capas de masa crujirán liberando el chocolate tibio."
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación",
+        "steps": [
+          "Preparar la masa laminada con sus pliegues simple y doble refrigerados según la técnica de la receta #604.",
+          "Estirar la masa fría sobre la mesada enharinada hasta lograr un rectángulo parejo de 4 mm de espesor y aproximadamente 25 cm de ancho por 60 cm de largo.",
+          "Emparejar los cuatro bordes con cuchilla afilada o cortapizzas para que las capas de hojaldre queden expuestas.",
+          "Cortar tiras rectangulares de 8 cm de ancho (el largo exacto de los bastones de chocolate) por 15 cm de largo.",
+          "Armado: colocar un primer bastón de chocolate a 1,5 cm del borde corto del rectángulo de masa. Doblar la masa sobre el chocolate.",
+          "Colocar el segundo bastón de chocolate justo al lado del pliegue y terminar de enrollar el resto de la masa sobre sí misma, dejando la unión final (la costura) ubicada exactamente en la parte inferior para que no se abra en el horno.",
+          "Disponer los pain au chocolat sobre una placa para horno cubierta con papel manteca, con la unión hacia abajo y con al menos 6 cm de distancia entre cada pieza.",
+          "Pincelar suavemente la parte superior con la doradura de huevo con una brocha suave, evitando que el huevo gotee por los costados laminados.",
+          "Leudado: dejar levar en un ambiente tibio (25 °C) durante 2 horas a 2 horas y media hasta que dupliquen su volumen y tengan una textura aireada que tiemble al tacto.",
+          "Pincelar una segunda capa fina de huevo para un brillo dorado reluciente.",
+          "Hornear en horno precalentado a 190 °C (375 °F) durante 16 a 18 minutos hasta que adquieran un color caoba dorado intenso y la base esté completamente cocida y crocante.",
+          "Enfriar sobre rejilla 10 minutos antes de morder; las capas de masa crujirán liberando el chocolate tibio."
+        ]
+      }
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          "1 receta de masa fermentada laminada de croissant preparada y enfriada (ver receta #604)",
+          "20 bastones de chocolate de repostería horneables para pain au chocolat (batons boulangers de 8 cm)",
+          "1 huevo batido con 1 cucharada de leche (para la doradura)",
+          "Harina extra para espolvorear la mesada"
+        ]
+      }
+    ]
   },
   {
     "id": 606,
@@ -47424,7 +48808,58 @@
     ],
     "img_local": "img/shakshuka_pimientos_huevos.jpg",
     "img_filename": "shakshuka_pimientos_huevos.jpg",
-    "image": "https://lh3.googleusercontent.com/-rsAIu-aKZcY/avbMX6RM4gI/AAAAAAAP8Vg/8PiPC-EW98QB84oaxb9Qm0ZFv2s2pxpUQCNcBGAsYHQ/s1600/shakshuka_pimientos_huevos.jpg"
+    "image": "https://lh3.googleusercontent.com/-rsAIu-aKZcY/avbMX6RM4gI/AAAAAAAP8Vg/8PiPC-EW98QB84oaxb9Qm0ZFv2s2pxpUQCNcBGAsYHQ/s1600/shakshuka_pimientos_huevos.jpg",
+    "steps": [
+      "En una sartén amplia de hierro fundido (de unos 26 a 28 cm de diámetro) calentar el aceite de oliva a fuego medio.",
+      "Agregar la cebolla y los pimientos cortados con una pizca generosa de sal. Cocinar a fuego medio-bajo durante 15 minutos, revolviendo con frecuencia, hasta que los pimientos colapsen, estén tiernos y comiencen a dorarse en los bordes.",
+      "Incorporar el ajo picado, la pasta de harissa, el comino y el pimentón ahumado. Sofreír durante 1 minuto hasta que los aromas inunden la cocina.",
+      "Añadir el concentrado de tomate y los tomates pelados triturados con sus jugos. Bajar el fuego al mínimo y dejar reducir a fuego lento durante 12 a 15 minutos, hasta obtener una salsa espesa, densa y brillante.",
+      "Probar y ajustar de sal y pimienta.",
+      "Con la parte posterior de una cuchara grande, hacer 4 o 5 huecos o nidos en la salsa.",
+      "Cascar cuidadosamente un huevo en cada hueco, asegurando que la yema quede intacta en el centro.",
+      "Tapar la sartén con una tapa o papel de aluminio y cocinar a fuego bajo durante 5 a 8 minutos, hasta que las claras estén completamente blancas y cuajadas pero las yemas continúen líquidas y temblorosas.",
+      "Retirar del fuego de inmediato para frenar la cocción residual.",
+      "Espolvorear con el queso feta desgranado, el cilantro o perejil fresco picado y un chorrito de aceite de oliva crudo.",
+      "Llevar la sartén directamente a la mesa acompañada de abundante pan crujiente para mojar en las yemas calientes."
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación",
+        "steps": [
+          "En una sartén amplia de hierro fundido (de unos 26 a 28 cm de diámetro) calentar el aceite de oliva a fuego medio.",
+          "Agregar la cebolla y los pimientos cortados con una pizca generosa de sal. Cocinar a fuego medio-bajo durante 15 minutos, revolviendo con frecuencia, hasta que los pimientos colapsen, estén tiernos y comiencen a dorarse en los bordes.",
+          "Incorporar el ajo picado, la pasta de harissa, el comino y el pimentón ahumado. Sofreír durante 1 minuto hasta que los aromas inunden la cocina.",
+          "Añadir el concentrado de tomate y los tomates pelados triturados con sus jugos. Bajar el fuego al mínimo y dejar reducir a fuego lento durante 12 a 15 minutos, hasta obtener una salsa espesa, densa y brillante.",
+          "Probar y ajustar de sal y pimienta.",
+          "Con la parte posterior de una cuchara grande, hacer 4 o 5 huecos o nidos en la salsa.",
+          "Cascar cuidadosamente un huevo en cada hueco, asegurando que la yema quede intacta en el centro.",
+          "Tapar la sartén con una tapa o papel de aluminio y cocinar a fuego bajo durante 5 a 8 minutos, hasta que las claras estén completamente blancas y cuajadas pero las yemas continúen líquidas y temblorosas.",
+          "Retirar del fuego de inmediato para frenar la cocción residual.",
+          "Espolvorear con el queso feta desgranado, el cilantro o perejil fresco picado y un chorrito de aceite de oliva crudo.",
+          "Llevar la sartén directamente a la mesa acompañada de abundante pan crujiente para mojar en las yemas calientes."
+        ]
+      }
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          "3 cucharadas de aceite de oliva virgen extra",
+          "1 cebolla grande cortada en juliana gruesa",
+          "2 pimientos morrones rojos y 1 pimiento verde, limpios y cortados en tiras medianas",
+          "4 dientes de ajo picados finamente",
+          "1 cucharada de pasta de harissa (o 1 cucharadita de ají molido picante)",
+          "1 1/2 cucharaditas de comino molido",
+          "1 cucharadita de pimentón dulce o ahumado",
+          "1 lata (400 g) de tomates enteros pelados, triturados a mano con sus jugos",
+          "1 cucharada de concentrado de tomate doble",
+          "4 a 5 huevos de campo frescos grandes",
+          "70 g de queso feta desgranado (opcional)",
+          "Un puñado de cilantro o perejil fresco picado",
+          "Sal marina y pimienta negra recién molida"
+        ]
+      }
+    ]
   },
   {
     "id": 607,
@@ -47484,7 +48919,61 @@
     ],
     "img_local": "img/mozzarella_fermentacion_natural.jpg",
     "img_filename": "mozzarella_fermentacion_natural.jpg",
-    "image": "https://lh3.googleusercontent.com/-1lkRfOul9GE/avbMZKn_ofI/AAAAAAAP8Vo/t9F1t5Tet1wZ3AlwM3jdy-FSEpTovX7IgCNcBGAsYHQ/s1600/mozzarella_fermentacion_natural.jpg"
+    "image": "https://lh3.googleusercontent.com/-1lkRfOul9GE/avbMZKn_ofI/AAAAAAAP8Vo/t9F1t5Tet1wZ3AlwM3jdy-FSEpTovX7IgCNcBGAsYHQ/s1600/mozzarella_fermentacion_natural.jpg",
+    "steps": [
+      "En una olla amplia de acero inoxidable calentar los 4 litros de leche a 37 °C (98 °F).",
+      "Incorporar el yogur disuelto en un poco de leche tibia, revolviendo de arriba hacia abajo durante 1 minuto para distribuir los fermentos lácticos de forma homogénea.",
+      "Tapar la olla y dejar reposar en un lugar tibio durante 45 minutos para que las bacterias comiencen la acidificación.",
+      "Verter el cuajo disuelto en agua fría y revolver con movimientos suaves durante exactamente 1 minuto. Detener el movimiento de la leche con la espumadera, tapar la olla y dejar reposar 40 minutos sin tocar.",
+      "Verificar el corte: la leche debe haber formado un coágulo firme y brillante similar a un flan. Hacer un corte con la punta del cuchillo: si el suero sale amarillo claro limpio, está listo.",
+      "Cortar la cuajada con un cuchillo largo en una cuadrícula de cubos de 2 x 2 cm. Dejar reposar 10 minutos para que comience a expulsar suero.",
+      "Fase de fermentación y acidificación lenta: mantener la olla tibia a unos 35 °C durante 4 a 5 horas, revolviendo suavemente cada hora.",
+      "Prueba de hilado (Spinning test): tomar un trocito de cuajada del tamaño de una nuez y sumergirlo en una taza con agua a 85 °C durante 30 segundos. Retirar y amasar con los dedos: si se estira suavemente en un hilo continuo sin romperse, ha alcanzado el pH 5.2 perfecto.",
+      "Colar toda la cuajada con un colador forrado en tela, escurriendo el suero (reservar el suero para salmuera o sopas).",
+      "Cortar la masa de cuajada escurrida en tiras o trozos pequeños dentro de un bol amplio.",
+      "Verter abundante agua caliente a 85 °C (con la sal gruesa disuelta) sobre la cuajada hasta cubrirla por completo.",
+      "Con dos espátulas de madera comenzar a presionar y juntar los trozos de cuajada en el fondo del bol. La masa comenzará a fundirse y unirse en una sola masa elástica y brillante.",
+      "Levantar la masa con las espátulas o con guantes térmicos impermeables, estirándola sobre el agua caliente y doblándola sobre sí misma varias veces hasta que adquiera una superficie completamente lisa, brillante y satinada.",
+      "Formar las bolas: pellizcar y cortar porciones con el pulgar y el índice (*mozzare*), sellando la base para atrapar el suero interior.",
+      "Sumergir las bolas inmediatamente en un bol con agua helada durante 15 minutos para fijar la forma redonda.",
+      "Conservar en un recipiente con parte del suero salado frío y disfrutar fresca en el día."
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación",
+        "steps": [
+          "En una olla amplia de acero inoxidable calentar los 4 litros de leche a 37 °C (98 °F).",
+          "Incorporar el yogur disuelto en un poco de leche tibia, revolviendo de arriba hacia abajo durante 1 minuto para distribuir los fermentos lácticos de forma homogénea.",
+          "Tapar la olla y dejar reposar en un lugar tibio durante 45 minutos para que las bacterias comiencen la acidificación.",
+          "Verter el cuajo disuelto en agua fría y revolver con movimientos suaves durante exactamente 1 minuto. Detener el movimiento de la leche con la espumadera, tapar la olla y dejar reposar 40 minutos sin tocar.",
+          "Verificar el corte: la leche debe haber formado un coágulo firme y brillante similar a un flan. Hacer un corte con la punta del cuchillo: si el suero sale amarillo claro limpio, está listo.",
+          "Cortar la cuajada con un cuchillo largo en una cuadrícula de cubos de 2 x 2 cm. Dejar reposar 10 minutos para que comience a expulsar suero.",
+          "Fase de fermentación y acidificación lenta: mantener la olla tibia a unos 35 °C durante 4 a 5 horas, revolviendo suavemente cada hora.",
+          "Prueba de hilado (Spinning test): tomar un trocito de cuajada del tamaño de una nuez y sumergirlo en una taza con agua a 85 °C durante 30 segundos. Retirar y amasar con los dedos: si se estira suavemente en un hilo continuo sin romperse, ha alcanzado el pH 5.2 perfecto.",
+          "Colar toda la cuajada con un colador forrado en tela, escurriendo el suero (reservar el suero para salmuera o sopas).",
+          "Cortar la masa de cuajada escurrida en tiras o trozos pequeños dentro de un bol amplio.",
+          "Verter abundante agua caliente a 85 °C (con la sal gruesa disuelta) sobre la cuajada hasta cubrirla por completo.",
+          "Con dos espátulas de madera comenzar a presionar y juntar los trozos de cuajada en el fondo del bol. La masa comenzará a fundirse y unirse en una sola masa elástica y brillante.",
+          "Levantar la masa con las espátulas o con guantes térmicos impermeables, estirándola sobre el agua caliente y doblándola sobre sí misma varias veces hasta que adquiera una superficie completamente lisa, brillante y satinada.",
+          "Formar las bolas: pellizcar y cortar porciones con el pulgar y el índice (*mozzare*), sellando la base para atrapar el suero interior.",
+          "Sumergir las bolas inmediatamente en un bol con agua helada durante 15 minutos para fijar la forma redonda.",
+          "Conservar en un recipiente con parte del suero salado frío y disfrutar fresca en el día."
+        ]
+      }
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          "4 litros de leche entera fresca de la mejor calidad posible (leche fresca de granja pasteurizada a baja temperatura, NUNCA ultrapasteurizada / UHT)",
+          "4 cucharadas de yogur natural sin azúcar con cultivos vivos o suero láctico activo",
+          "1/4 de pastilla de cuajo animal o microbiano (o 1,5 ml de cuajo líquido), disuelto en 30 ml de agua sin cloro",
+          "1 cucharada colmada de sal gruesa (para el agua de hilado)",
+          "Agua mineral caliente a 85 °C (para el hilado)",
+          "Agua con hielo para el choque térmico"
+        ]
+      }
+    ]
   },
   {
     "id": 608,
@@ -47537,7 +49026,51 @@
     ],
     "img_local": "img/aceite_mayu_ajo_quemado.jpg",
     "img_filename": "aceite_mayu_ajo_quemado.jpg",
-    "image": "https://lh3.googleusercontent.com/-CsF4066yPOE/avbMaMvODpI/AAAAAAAP8Vw/6S8ZCtPR0sQVpiUXryTqFE9ZcmGL-P_8gCNcBGAsYHQ/s1600/aceite_mayu_ajo_quemado.jpg"
+    "image": "https://lh3.googleusercontent.com/-CsF4066yPOE/avbMaMvODpI/AAAAAAAP8Vw/6S8ZCtPR0sQVpiUXryTqFE9ZcmGL-P_8gCNcBGAsYHQ/s1600/aceite_mayu_ajo_quemado.jpg",
+    "steps": [
+      "Picar los dientes de ajo en trozos muy pequeños y uniformes (o procesar ligeramente sin llegar a puré para que doren parejo).",
+      "Dividir el ajo picado en dos porciones iguales.",
+      "En una sartén pequeña o cacerolita a fuego medio-bajo calentar el aceite neutro junto con la primera mitad del ajo.",
+      "Cocinar revolviendo constantemente con una cuchara de madera: el ajo pasará de blanco a rubio y luego a dorado suave. Al llegar a dorado claro, retirar la mitad de este ajo con una espumadera y reservarlo en un platito.",
+      "Continuar cocinando el resto del ajo en el aceite a fuego medio hasta que adquiera un color castaño tostado oscuro; retirar otra porción a un segundo platito.",
+      "Dejar que el resto del ajo restante continúe friéndose a fuego medio-alto hasta que adquiera un color negro carbón intenso y profundo (sin llegar a ceniza humeante gris).",
+      "En ese instante apagar el fuego e incorporar de inmediato la segunda mitad del ajo crudo que habíamos reservado al inicio y los ajos dorados de los platitos.",
+      "El calor residual cocinará el ajo crudo al tiempo que detiene la cocción del ajo negro, creando una compleja pirámide de sabores: notas frescas de ajo crudo, dulzura caramelizada de los ajos dorados y profundidad ahumada del ajo negro.",
+      "Verter los 50 ml de aceite de sésamo tostado y la pizca de sal.",
+      "Pasar toda la mezcla (aceite y sólidos de ajo) al vaso de una licuadora potente o procesadora.",
+      "Triturar a máxima velocidad durante 2 a 3 minutos hasta que todos los sólidos se pulvericen por completo formando un aceite negro azabache, denso, sedoso y homogéneo.",
+      "Verter en un frasco de vidrio limpio. Servir rociando una cucharada en espiral sobre tazones de ramen humeantes, sopas de cerdo o fideos salteados."
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación",
+        "steps": [
+          "Picar los dientes de ajo en trozos muy pequeños y uniformes (o procesar ligeramente sin llegar a puré para que doren parejo).",
+          "Dividir el ajo picado en dos porciones iguales.",
+          "En una sartén pequeña o cacerolita a fuego medio-bajo calentar el aceite neutro junto con la primera mitad del ajo.",
+          "Cocinar revolviendo constantemente con una cuchara de madera: el ajo pasará de blanco a rubio y luego a dorado suave. Al llegar a dorado claro, retirar la mitad de este ajo con una espumadera y reservarlo en un platito.",
+          "Continuar cocinando el resto del ajo en el aceite a fuego medio hasta que adquiera un color castaño tostado oscuro; retirar otra porción a un segundo platito.",
+          "Dejar que el resto del ajo restante continúe friéndose a fuego medio-alto hasta que adquiera un color negro carbón intenso y profundo (sin llegar a ceniza humeante gris).",
+          "En ese instante apagar el fuego e incorporar de inmediato la segunda mitad del ajo crudo que habíamos reservado al inicio y los ajos dorados de los platitos.",
+          "El calor residual cocinará el ajo crudo al tiempo que detiene la cocción del ajo negro, creando una compleja pirámide de sabores: notas frescas de ajo crudo, dulzura caramelizada de los ajos dorados y profundidad ahumada del ajo negro.",
+          "Verter los 50 ml de aceite de sésamo tostado y la pizca de sal.",
+          "Pasar toda la mezcla (aceite y sólidos de ajo) al vaso de una licuadora potente o procesadora.",
+          "Triturar a máxima velocidad durante 2 a 3 minutos hasta que todos los sólidos se pulvericen por completo formando un aceite negro azabache, denso, sedoso y homogéneo.",
+          "Verter en un frasco de vidrio limpio. Servir rociando una cucharada en espiral sobre tazones de ramen humeantes, sopas de cerdo o fideos salteados."
+        ]
+      }
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          "1 cabeza entera de ajo fresco (unos 10 a 12 dientes grandes), pelados",
+          "100 ml de aceite vegetal neutro (girasol o canola) o manteca de cerdo derretida",
+          "50 ml de aceite de sésamo tostado japonés puro",
+          "1 pizca de sal fina"
+        ]
+      }
+    ]
   },
   {
     "id": 609,
@@ -47599,6 +49132,63 @@
     ],
     "img_local": "img/sopa_cebolla_francesa_gratine.jpg",
     "img_filename": "sopa_cebolla_francesa_gratine.jpg",
-    "image": "https://lh3.googleusercontent.com/--DMFfbzVfNU/avbMbVvmkNI/AAAAAAAP8V4/4afN6LTQE2A8QVB3XbWOL23ugiOLMySqwCNcBGAsYHQ/s1600/sopa_cebolla_francesa_gratine.jpg"
+    "image": "https://lh3.googleusercontent.com/--DMFfbzVfNU/avbMbVvmkNI/AAAAAAAP8V4/4afN6LTQE2A8QVB3XbWOL23ugiOLMySqwCNcBGAsYHQ/s1600/sopa_cebolla_francesa_gratine.jpg",
+    "steps": [
+      "En una olla de hierro esmaltado o cacerola de fondo grueso derretir la manteca con el aceite de oliva a fuego medio.",
+      "Agregar las cebollas cortadas con la sal y el azúcar. Cocinar durante 15 minutos revolviendo de vez en cuando hasta que las cebollas colapsen y suelten toda su agua.",
+      "Bajar el fuego a medio-bajo y cocinar con paciencia durante 45 a 55 minutos, revolviendo con frecuencia y raspando el fondo de la olla con cuchara de madera, hasta que las cebollas adquieran un color marrón caoba oscuro y brillante (caramelización profunda de azúcares).",
+      "Añadir el ajo picado y cocinar 2 minutos más.",
+      "Espolvorear la harina sobre las cebollas y cocinar revolviendo durante 2 minutos para tostarla ligeramente.",
+      "Subir el fuego y desglasar vertiendo el coñac y el vino blanco seco raspando todos los jugos caramelizados adheridos al fondo. Dejar reducir a la mitad.",
+      "Verter el caldo oscuro caliente y añadir el bouquet garni de hierbas con abundante pimienta negra recién molida.",
+      "Llevar a hervor suave, tapar a medias y cocinar a fuego lento durante 30 a 40 minutos para que los sabores se fusionen y el caldo adquiera cuerpo y sedosidad. Retirar el bouquet garni y rectificar sazón.",
+      "Precalentar el grill del horno a temperatura máxima (230 °C).",
+      "Repartir la sopa bien caliente en 4 cazuelas hondas de cerámica aptas para horno.",
+      "Colocar dos o tres rebanadas de baguette tostada en la superficie de cada cazuela presionando ligeramente para que absorban caldo.",
+      "Cubrir generosamente el pan y los bordes con una montaña de queso Gruyère y Comté rallado, desbordando ligeramente el borde de la cazuela.",
+      "Llevar las cazuelas al horno bajo el grill durante 8 a 10 minutos, hasta que el queso esté completamente fundido, dorado y lleno de ampollas tostadas crujientes.",
+      "Retirar con cuidado y servir de inmediato."
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación",
+        "steps": [
+          "En una olla de hierro esmaltado o cacerola de fondo grueso derretir la manteca con el aceite de oliva a fuego medio.",
+          "Agregar las cebollas cortadas con la sal y el azúcar. Cocinar durante 15 minutos revolviendo de vez en cuando hasta que las cebollas colapsen y suelten toda su agua.",
+          "Bajar el fuego a medio-bajo y cocinar con paciencia durante 45 a 55 minutos, revolviendo con frecuencia y raspando el fondo de la olla con cuchara de madera, hasta que las cebollas adquieran un color marrón caoba oscuro y brillante (caramelización profunda de azúcares).",
+          "Añadir el ajo picado y cocinar 2 minutos más.",
+          "Espolvorear la harina sobre las cebollas y cocinar revolviendo durante 2 minutos para tostarla ligeramente.",
+          "Subir el fuego y desglasar vertiendo el coñac y el vino blanco seco raspando todos los jugos caramelizados adheridos al fondo. Dejar reducir a la mitad.",
+          "Verter el caldo oscuro caliente y añadir el bouquet garni de hierbas con abundante pimienta negra recién molida.",
+          "Llevar a hervor suave, tapar a medias y cocinar a fuego lento durante 30 a 40 minutos para que los sabores se fusionen y el caldo adquiera cuerpo y sedosidad. Retirar el bouquet garni y rectificar sazón.",
+          "Precalentar el grill del horno a temperatura máxima (230 °C).",
+          "Repartir la sopa bien caliente en 4 cazuelas hondas de cerámica aptas para horno.",
+          "Colocar dos o tres rebanadas de baguette tostada en la superficie de cada cazuela presionando ligeramente para que absorban caldo.",
+          "Cubrir generosamente el pan y los bordes con una montaña de queso Gruyère y Comté rallado, desbordando ligeramente el borde de la cazuela.",
+          "Llevar las cazuelas al horno bajo el grill durante 8 a 10 minutos, hasta que el queso esté completamente fundido, dorado y lleno de ampollas tostadas crujientes.",
+          "Retirar con cuidado y servir de inmediato."
+        ]
+      }
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes",
+        "items": [
+          "1,2 kg de cebollas amarillas dulces, cortadas en plumas finas y parejas",
+          "40 g de manteca de buena calidad y 1 cucharada de aceite de oliva",
+          "1 cucharadita de sal fina y 1/2 cucharadita de azúcar (acelera la caramelización inicial)",
+          "2 dientes de ajo picados finamente",
+          "1 cucharada colmada de harina de trigo (singer)",
+          "100 ml de vino blanco seco de buena acidez",
+          "30 ml de coñac o brandy francés",
+          "1,2 litros de caldo oscuro de ternera o ave con buen cuerpo gelatinoso",
+          "1 bouquet garni (1 hoja de laurel, 2 ramas de tomillo y perejil atados)",
+          "Pimienta negra recién molida",
+          "Para el Gratinado:",
+          "8 a 12 rebanadas gruesas de baguette artesanal, tostadas y frotadas con ajo crudo",
+          "200 g de queso Gruyère y Comté rallados en hebras gruesas"
+        ]
+      }
+    ]
   }
 ]
