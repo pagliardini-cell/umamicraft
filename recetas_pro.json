@@ -64924,5 +64924,104 @@
       "Servicio: Disponer las Maultaschen doradas en platos hondos de cerámica, bañar con la manteca avellanada, castañas crocantes y hojas de salvia. Servir caliente."
     ],
     "notes": "En mi cocina me encanta este plato porque reúne la calidez reconfortante de la pasta rellena con el dorado en sartén típico de la tradición alemana. El queso Gouda curado o Prima Donna aporta notas salinas y umami que contrastan de forma soberbia con el dulzor natural de la calabaza butternut y la manteca tostada. El toque final del jugo de limón en la manteca es indispensable para cortar la grasa y levantar todos los aromas."
+  },
+  {
+    "id": 640,
+    "title": "Chucrut Fermentado Casero (Alemania)",
+    "category": "Conservas / Embutidos",
+    "country": "Alemania",
+    "difficulty": "Fácil",
+    "prep_time": "30 min",
+    "cook_time": "0 min",
+    "rest_time": "21 días (fermentación)",
+    "servings": "1 kg (aproximadamente 10 porciones)",
+    "calories": "25 kcal por porción",
+    "diet_badges": [
+      "Sin Gluten",
+      "Vegano",
+      "Probiótico Natural",
+      "Bajo en Calorías"
+    ],
+    "tags": [
+      "Chucrut",
+      "Sauerkraut",
+      "Fermentación láctica",
+      "Probióticos",
+      "Cocina alemana",
+      "Repollo blanco",
+      "Alcaravea",
+      "Enebro",
+      "Conservas caseras"
+    ],
+    "image": "https://lh3.googleusercontent.com/-pfNW7-bYsa0/avjZtdVSl5I/AAAAAAAQCZE/96LKNEWu9YIqKYi91kM_uQgL5Rn8wsHBwCNcBGAsYHQ/s1600/chucrut_fermentado_casero_alemania.jpg",
+    "story": "El chucrut (Sauerkraut) es uno de los fermentos más antiguos y nobles de la gastronomía europea. A diferencia de las versiones industriales pasteurizadas y bañadas en vinagre, el verdadero chucrut nace de la fermentación ácido-láctica salvaje: únicamente repollo blanco fresco cortado en hebras finas y sal marina pura al 2% exacto respecto al peso de la verdura. Las bacterias lácticas presentes en las hojas consumen los azúcares naturales del vegetal, generando ácido láctico que preserva el repollo y le otorga su acidez limpia, fresca y crocante, cargada de enzimas y probióticos vivos.",
+    "ingredients": [
+      "1 kg de repollo blanco (col) fresco y firme (peso neto ya limpio sin el tronco)",
+      "20 g de sal marina fina o sal kosher (exactamente el 2% del peso del repollo, sin yodo ni antiaglomerantes)",
+      "1 cucharadita (3 g) de semillas de alcaravea (caraway)",
+      "6 bayas de enebro enteras",
+      "½ cucharadita de granos de pimienta negra enteros"
+    ],
+    "instructions": [
+      "Limpieza y corte: Retirar las dos hojas exteriores más grandes y sanas del repollo, lavarlas con cuidado y reservarlas enteras. Cortar el repollo al medio, retirar el tronco central duro triangular y picar las hojas en tiras finas de 1 a 2 mm utilizando una mandolina o un cuchillo de chef bien afilado.",
+      "Pesaje y salazón: Pesar exactamente las tiras de repollo en un bol grande no reactivo (vidrio, cerámica o acero inoxidable). Calcular el 2% de su peso en sal (para 1 kg de repollo corresponden 20 g de sal). Espolvorear la sal de manera uniforme sobre el repollo picado y dejar reposar 10 minutos para iniciar la ósmosis.",
+      "Masaje y extracción de salmuera: Con las manos limpias, estrujar y masajear con fuerza el repollo durante 8 a 10 minutos. La sal extraerá el jugo natural del repollo hasta formar una abundante salmuera en el fondo del recipiente. Incorporar las semillas de alcaravea, las bayas de enebro y los granos de pimienta negra, mezclando bien.",
+      "Envasado a presión: Transferir el repollo y todo su jugo a un frasco de vidrio de boca ancha previamente esterilizado (tipo Fido o Weck). Presionar firmemente con el puño o con la base de un mortero de madera para eliminar cualquier burbuja de aire atrapada, logrando que el jugo cubra por completo el repollo.",
+      "Protección y sumersión: Doblar las dos hojas enteras reservadas y colocarlas encima del repollo picado como una barrera. Colocar sobre ellas un peso de vidrio o piedra no porosa esterilizada para garantizar que todo el repollo permanezca 100% sumergido bajo la salmuera (regla de oro: vegetal bajo salmuera nunca se echa a perder).",
+      "Fermentación controlada: Cerrar el frasco con tapa hermética si tiene junta de goma elástica, o colocar la tapa sin ajustar del todo para que los gases de dióxido de carbono puedan escapar sin que entre polvo. Dejar fermentar en un lugar oscuro y fresco (entre 18°C y 22°C) sobre un plato hondo por posibles rebalses.",
+      "Evolución y maduración: Durante los primeros 5 a 7 días se produce la fase activa de burbujeo. A partir de las dos semanas ya adquiere una acidez marcada; a las 3 o 4 semanas (21 a 28 días) alcanza su punto óptimo de complejidad aromática, acidez equilibrada y textura crocante. Una vez en su punto, retirar el peso y guardar en heladera, donde se conserva intacto hasta 6 meses."
+    ],
+    "notes": "En mi cocina elaboro siempre el chucrut siguiendo la regla inmutable del 2% de sal marina respecto al peso neto del repollo. Menos sal puede permitir el desarrollo de levaduras indeseadas y más sal frena a las bacterias lácticas beneficiosas. Es crucial nunca usar agua con cloro ni sal de mesa común con yodo o flúor, ya que los aditivos químicos inhiben a las bacterias nativas del repollo. Si al masajear falta líquido porque el repollo no estaba fresco, se puede agregar una salmuera de auxilio hervida y enfriada al 2% (20 g de sal disueltos en 1 litro de agua)."
+  },
+  {
+    "id": 641,
+    "title": "Chucrut Bávaro Estofado con Panceta y Cerveza (Alemania)",
+    "category": "Guarniciones",
+    "country": "Alemania",
+    "difficulty": "Fácil",
+    "prep_time": "15 min",
+    "cook_time": "45 min",
+    "rest_time": "5 min",
+    "servings": "4 a 6 porciones",
+    "calories": "210 kcal por porción",
+    "diet_badges": [
+      "Sin Gluten",
+      "Sin Lactosa"
+    ],
+    "tags": [
+      "Chucrut",
+      "Bayerisches Sauerkraut",
+      "Cocina bávara",
+      "Panceta ahumada",
+      "Cerveza alemana",
+      "Märzen",
+      "Manzana verde",
+      "Guarnición caliente",
+      "Jeremy Nolen",
+      "Brauhaus Schmitz"
+    ],
+    "image": "https://lh3.googleusercontent.com/-ljpYmGFYyEA/avjZuwhGL0I/AAAAAAAQCZM/rUeXs3DtJzQsq2Aw0Te5OXBSkKz__0YCACNcBGAsYHQ/s1600/chucrut_bavaro_estofado_alemania.jpg",
+    "story": "En el sur de Alemania, particularmente en Baviera, el chucrut rara vez se sirve crudo como guarnición de carnes calientes. La costumbre tradicional consiste en estofarlo suavemente (Bayerisches Sauerkraut) junto a panceta ahumada crocante, cebollas caramelizadas, manzana rallada y un buen chorro de cerveza alemana de estilo Märzen o Lager rubia. Esta cocción lenta suaviza la acidez punzante del fermento, carameliza los azúcares naturales y entrega una guarnición tibia, sedosa y profundamente perfumada, compañera inseparable del codillo asado (Schweinshaxe), salchichas Bratwurst o chuletas ahumadas Kassler.",
+    "ingredients": [
+      "500 g de chucrut fermentado (casero o comprado de buena calidad), bien escurrido",
+      "120 g de panceta ahumada de buena calidad, cortada en lardons o bastoncitos de 1 cm",
+      "1 cebolla amarilla mediana, picada en cubitos finos",
+      "1 manzana verde ácida (Granny Smith), pelada y rallada en la parte gruesa del rallador",
+      "1 taza (240 ml) de cerveza alemana rubia (estilo Märzen, Helles o Pilsner) o vino blanco seco tipo Riesling",
+      "1 cucharadita de semillas de alcaravea (caraway)",
+      "4 bayas de enebro, ligeramente machacadas",
+      "1 cucharadita de azúcar rubia o mascabo (para redondear la acidez)",
+      "1 hoja de laurel",
+      "Pimienta negra recién molida y una pizca de sal (ajustar al final según el salado de la panceta)"
+    ],
+    "instructions": [
+      "Dorar la panceta: En una cacerola pesada de hierro fundido o fondo grueso a fuego medio, colocar los lardons de panceta ahumada sin aceite adicional. Cocinar durante 6 a 8 minutos revolviendo con frecuencia, hasta que suelten su grasa natural y los bordes comiencen a dorarse crocantes.",
+      "Pochar la cebolla: Bajar el fuego a medio-bajo e incorporar la cebolla picada a la grasa de la panceta. Cocinar durante 5 minutos hasta que la cebolla esté tierna, transparente y ligeramente dorada en los bordes.",
+      "Integrar manzana y chucrut: Añadir la manzana verde rallada y el chucrut escurrido. Remover con cuchara de madera durante 3 minutos, raspando el fondo para levantar los jugos caramelizados.",
+      "Especiar y desglasar: Sumar las semillas de alcaravea, las bayas de enebro machacadas, la hoja de laurel, el azúcar rubia y abundante pimienta negra recién molida. Verter la taza de cerveza alemana y dejar que rompa un hervor suave durante 1 minuto para evaporar el alcohol.",
+      "Estofado lento: Reducir el fuego al mínimo absoluto, tapar la cacerola y dejar cocinar a fuego muy suave durante 35 a 40 minutos. Revolver ocasionalmente para verificar que no se seque; si fuera necesario, agregar 2 o 3 cucharadas adicionales de cerveza o caldo. El chucrut debe quedar sumamente tierno, jugoso y brillante, habiendo absorbido todo el líquido.",
+      "Servicio: Retirar la hoja de laurel y las bayas de enebro si se prefieren descartar. Probar y rectificar de sal si hiciera falta. Servir de inmediato humeante junto a salchichas alemanas doradas, puré de papas o mostaza dulce de Múnich."
+    ],
+    "notes": "En mi cocina siempre recomiendo enjuagar muy brevemente el chucrut bajo el grifo solo si la fermentación original quedó con una acidez excesivamente agresiva; si el fermento es equilibrado, basta con escurrirlo bien con las manos. El agregado de la manzana verde rallada es un secreto bávaro indispensable: su pectina y acidez frutal suavizan el repollo sin tapar el carácter ahumado de la panceta ni las notas terrosas de la alcaravea."
   }
 ]
