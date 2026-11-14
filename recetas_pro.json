@@ -5888,7 +5888,7 @@
     "id": 68,
     "title": "Hamburguesa Jucy Lucy Rellena de Queso (Estados Unidos)",
     "country": "Estados Unidos",
-    "category": "Sándwiches / Burgers",
+    "category": "Hamburguesas",
     "tags": [
       "EEUU",
       "Minnesota",
@@ -26816,7 +26816,7 @@
     "title": "Oklahoma Onion Smash Burger con Cebolla a la Plancha (Estados Unidos)",
     "original_title": "Authentic Oklahoma Fried Onion Smash Burger",
     "country": "Estados Unidos",
-    "category": "Sándwiches / Burgers",
+    "category": "Hamburguesas",
     "tags": [
       "Hamburguesa",
       "Estados Unidos",
@@ -26915,7 +26915,7 @@
     "title": "Doble Smash Cheeseburger Clásica con Costra Crocante (Estados Unidos)",
     "original_title": "Classic Double Smash Cheeseburger",
     "country": "Estados Unidos",
-    "category": "Sándwiches / Burgers",
+    "category": "Hamburguesas",
     "tags": [
       "Hamburguesa",
       "Estados Unidos",
@@ -27023,7 +27023,7 @@
     "title": "Wisconsin Butter Burger con Cebolla y Queso Cheddar (Estados Unidos)",
     "original_title": "Traditional Wisconsin Butter Burger",
     "country": "Estados Unidos",
-    "category": "Sándwiches / Burgers",
+    "category": "Hamburguesas",
     "tags": [
       "Hamburguesa",
       "Estados Unidos",
@@ -64106,7 +64106,7 @@
   {
     "id": 623,
     "title": "Nutburger - Hamburguesa con Crema de Maní (Estados Unidos)",
-    "category": "Carnes",
+    "category": "Hamburguesas",
     "country": "Estados Unidos",
     "difficulty": "Fácil",
     "prep_time": "15 min",
@@ -64153,7 +64153,7 @@
   {
     "id": 624,
     "title": "Big Block Burger con Pimento Cheese (Estados Unidos)",
-    "category": "Carnes",
+    "category": "Hamburguesas",
     "country": "Estados Unidos",
     "difficulty": "Media",
     "prep_time": "25 min",
@@ -64175,7 +64175,7 @@
       "Hamburger America",
       "Smash Burger Doble"
     ],
-    "image": "https://lh3.googleusercontent.com/-65j0eGbfWmw/avisxdODXKI/AAAAAAAQCSY/nwtX49zaxh02YfnWUJQeYuDPZWxUZ2qDQCNcBGAsYHQ/s1600/big_block_pimento_cheese_burger.jpg",
+    "image": "https://lh3.googleusercontent.com/-VtcIenb-2ks/avi3ySPJCwI/AAAAAAAQCUI/kmjw-UTXLDYj1opGc0XvFEwU6_Fe5On5ACNcBGAsYHQ/s1600/big_block_pimento_cheese_definitiva.jpg",
     "story": "En el histórico The Penguin Drive-In de Charlotte (Carolina del Norte), abierto en 1954 en el corazón de la región madre del automovilismo NASCAR, los tamaños de las hamburguesas se bautizaron con nombres de motores de competición: la 'Small Block' (un medallón de 1/3 de libra), la monumental 'Big Block' (dos medallones de 1/3 de libra apilados) y la descomunal 'Full Blown Hemi' (tres medallones). La forma suprema de disfrutarla en el Sur es al estilo 'Southern Style' (o Carolina Style): coronada con chili espeso de carne casero y especiado, mostaza amarilla clásica, cebolla picada fina, una capa de ensalada coleslaw cortada con un grosor microscópico y, por encima de todo, el legendario pimento cheese sureño fundido, esa gloria cremosa de queso cheddar añejo, mayonesa y pimientos asados que baña los medallones dorados y crujientes de la plancha.",
     "ingredients": [
       "600 g de carne vacuna picada fresca (proporción 80/20, preferentemente aguja o rosbif)",
@@ -64208,7 +64208,7 @@
   {
     "id": 625,
     "title": "Teriyaki Burger de Hawái (Estados Unidos)",
-    "category": "Carnes",
+    "category": "Hamburguesas",
     "country": "Estados Unidos",
     "difficulty": "Media",
     "prep_time": "20 min",
@@ -64258,7 +64258,7 @@
   {
     "id": 626,
     "title": "Carolina Slaw Burger con Chili y Ensalada de Col (Estados Unidos)",
-    "category": "Carnes",
+    "category": "Hamburguesas",
     "country": "Estados Unidos",
     "difficulty": "Media",
     "prep_time": "20 min",
@@ -64477,7 +64477,7 @@
   {
     "id": 631,
     "title": "Hamburguesa Vegetariana de Remolacha y Nueces (Estados Unidos)",
-    "category": "Platos Principales",
+    "category": "Hamburguesas",
     "country": "Estados Unidos",
     "difficulty": "Media",
     "prep_time": "30 min",
@@ -64578,5 +64578,150 @@
       "Dorar a la parrilla y servir: Asar las quesadillas sobre fuego bajo durante 2 a 3 minutos por lado con la tapa cerrada, hasta que la tortilla esté dorada y crocante y el queso completamente fundido. Retirar, cortar cada medialuna en dos o tres triángulos y servir bien calientes acompañadas de la salsa fresca de mango y crema agria."
     ],
     "notes": "En mi cocina siempre sigo el consejo del chef: no hay que temer dejar que la piel de los chiles se ponga bien negra y chamuscada en la parrilla. Al sudar tapados con film, esa piel quemada se desprende sola al rasparla con el canto de un cuchillo, dejando la pulpa tierna impregnada de un perfume ahumado celestial que transforma por completo el relleno."
+  },
+  {
+    "id": 633,
+    "title": "Cebolla Morada Encurtida con Especias (México)",
+    "category": "Salsas y Condimentos",
+    "country": "México",
+    "difficulty": "Fácil",
+    "prep_time": "15 min",
+    "cook_time": "5 min",
+    "rest_time": "2 horas (óptimo 24 h)",
+    "servings": "1 frasco mediano (500 ml)",
+    "calories": "35 kcal por porción de 2 cucharadas",
+    "diet_badges": [
+      "Vegano",
+      "Sin Gluten",
+      "Bajo en Grasas"
+    ],
+    "tags": [
+      "Cebolla morada encurtida",
+      "Pickled red onions",
+      "Encurtido gourmet",
+      "Guarnición para tacos",
+      "Topping para hamburguesas",
+      "Vinagre de manzana",
+      "Cebolla desflemar"
+    ],
+    "image": "https://lh3.googleusercontent.com/-2nJ6qP91SPw/avi3zqyGHPI/AAAAAAAQCUQ/qQ-0tQOxhC8-7kTDDpFt-CYYJEkgfWqFgCNcBGAsYHQ/s1600/cebolla_morada_encurtida_gourmet.jpg",
+    "story": "La cebolla morada encurtida es uno de los tesoros más versátiles y adictivos de la cocina gourmet y callejera: su acidez brillante, su vibrante color fucsia y su crocancia intacta levantan al instante cualquier hamburguesa, taco de cochinita pibil, carnes a la parrilla o ensaladas tibias. El secreto para lograr una textura insuperable consiste en equilibrar la acidez del vinagre con un buen toque dulce (azúcar mascabo o miel), tostar levemente las especias aromáticas para liberar sus aceites esenciales antes de volcar la salmuera y jamás sobrecocinar la cebolla. Al verter el líquido caliente sobre las plumas de cebolla dentro del frasco de vidrio, el calor afloja la fibra sin ablandarla, fijando un color magenta luminoso y un perfume especiado irresistible.",
+    "ingredients": [
+      "2 cebollas moradas medianas (300 a 350 g), cortadas en pluma fina longitudinal o con mandolina",
+      "1 taza (240 ml) de vinagre de sidra de manzana o vinagre de vino blanco",
+      "½ taza (120 ml) de agua filtrada",
+      "2 cucharadas de azúcar mascabo, azúcar rubia o miel pura",
+      "1 cucharadita colmada de sal marina o entrefina",
+      "1 cucharadita de pimienta negra en grano",
+      "½ cucharadita de semillas de coriandro (cilantro) o mostaza",
+      "2 clavos de olor enteros (o 1 estrella de anís)",
+      "1 hoja de laurel seca",
+      "1 tira de piel de naranja o limón fresco (sin la parte blanca amarga)"
+    ],
+    "instructions": [
+      "Corte y desflemar (opcional para máxima delicadeza): Cortar las cebollas moradas al medio y luego en plumas finas a lo largo de las fibras para que mantengan su mordida crocante. Para quitar el picor más agresivo y fijar el tono fucsia encendido, pasar la cebolla cortada en un colador durante 10 segundos por agua hirviendo o masajearla 2 minutos con una pizca de sal y enjuagar con agua fría. Escurrir bien.",
+      "Tostar los aromáticos: En una ollita seca a fuego bajo, calentar durante 30 a 45 segundos los granos de pimienta negra, las semillas de coriandro y los clavos de olor hasta que desprendan su perfume tostado.",
+      "Preparar la salmuera gourmet: Agregar a la ollita el vinagre de sidra de manzana, el agua filtrada, el azúcar mascabo (o miel), la sal marina, la hoja de laurel y la tira de piel cítrica. Llevar a hervor suave y revolver con cuchara de madera hasta que el azúcar y la sal se disuelvan por completo. Apagar el fuego.",
+      "Enfrascar y cubrir: Acomodar las plumas de cebolla escurridas dentro de un frasco de vidrio limpio y templado. Verter la salmuera caliente sobre la cebolla con todas sus especias hasta cubrirla por completo.",
+      "Reposo y conservación: Dejar enfriar destapado a temperatura ambiente durante 20 a 30 minutos. Tapar herméticamente y llevar a la heladera. Aunque se pueden consumir a las 2 horas, alcanzan su apogeo de sabor, crocancia y color fucsia brillante a las 24 horas. Se conservan perfectas en frío hasta por 3 semanas."
+    ],
+    "notes": "En mi cocina me encanta jugar con tres variantes según el plato que acompañe: 1) Ahumada y picante (ideal para hamburguesas, pulled pork y tacos): sumar a la salmuera 1 jalapeño en rodajas, ½ cdta. de pimentón ahumado y 1 diente de ajo aplastado. 2) Nórdica / Fresca (para pescados o sándwiches): reemplazar el laurel por eneldo fresco, bayas de enebro y semillas de hinojo. 3) Mediterránea (para quesos y bruschettas): usar vinagre de vino tinto, romero fresco y miel."
+  },
+  {
+    "id": 634,
+    "title": "Chimichurri Criollo para Asado (Argentina)",
+    "category": "Salsas y Condimentos",
+    "country": "Argentina",
+    "difficulty": "Fácil",
+    "prep_time": "15 min",
+    "cook_time": "0 min",
+    "rest_time": "24 horas de maceración recomendada",
+    "servings": "1 frasco de 400 ml",
+    "calories": "70 kcal por cucharada",
+    "diet_badges": [
+      "Vegano",
+      "Sin Gluten"
+    ],
+    "tags": [
+      "Chimichurri",
+      "Chimichurri argentino",
+      "Salsa para asado",
+      "Parrilla argentina",
+      "Senza Nervi",
+      "Orégano y ají molido",
+      "Condimento criollo"
+    ],
+    "image": "https://lh3.googleusercontent.com/-4TvBrKcHbMQ/avi301UfWsI/AAAAAAAQCUY/Fb6Ms4yUwEAtnwmYin9OYcQtoOQ2R8bjwCNcBGAsYHQ/s1600/chimichurri_criollo_asado.jpg",
+    "story": "El chimichurri es el alma líquida indiscutida del asado argentino. Popularizado por maestros parrilleros y difundido por creadores como Senza Nervi Cocina, este aderezo rústico debe su excelencia a una técnica fundamental que muchos saltean: la hidratación previa de las hierbas y especias secas. Al despertar el orégano seco y el ají molido con un toque de agua tibia antes de incorporar el vinagre y el aceite, se liberan los aceites esenciales dormidos y se evita que absorban la acidez del vinagre de golpe. El resultado es una emulsión aromática, viva, equilibrada y sin astringencia, con el picor exacto para bañar cortes a las brasas, achuras, choripanes o carnes al horno.",
+    "ingredients": [
+      "1 vaso (200 ml) de aceite de girasol, maíz o mezcla suave",
+      "½ vaso (100 ml) de vinagre de vino tinto o blanco",
+      "¼ vaso (50 ml) de agua tibia (para hidratar las hierbas secas)",
+      "5 cucharadas de perejil fresco picado fino (las hojas limpias de 1 ramito)",
+      "3 cucharadas de orégano seco de buena calidad",
+      "2 cucharadas de ají molido argentino",
+      "1 cucharadita de pimentón dulce",
+      "2 dientes de ajo, picados finamente (o rallados)",
+      "1 cucharadita de sal fina o entrefina",
+      "Pimienta negra recién molida a gusto"
+    ],
+    "instructions": [
+      "Hidratar los ingredientes secos: En un cuenco de vidrio o loza, colocar el orégano seco, el ají molido y el pimentón. Verter el cuarto de vaso de agua tibia y revolver con cuchara. Dejar reposar de 3 a 5 minutos para que las hierbas secas se hinchen y revivan sus aromas.",
+      "Disolver la sal y el vinagre: Incorporar la sal fina y el medio vaso de vinagre de vino. Revolver enérgicamente hasta que los granos de sal se hayan disuelto por completo en la acidez del vinagre.",
+      "Sumar los frescos: Añadir el ajo picado bien fino y las cinco cucharadas colmadas de perejil fresco recién picado. Mezclar para distribuir uniformemente.",
+      "Incorporar el aceite: Verter el vaso de aceite de girasol en forma de hilo mientras se revuelve con tenedor o batidor de alambre para integrar los componentes.",
+      "Embotellar y reposar: Pasar la salsa con ayuda de un embudo a un frasco de vidrio o botella parrillera limpia. Dejar reposar tapado a temperatura ambiente fresca o en heladera durante al menos 12 a 24 horas antes de usar. Agitar siempre con fuerza antes de rociar la carne sobre la tabla o el plato."
+    ],
+    "notes": "En mi cocina siempre recomiendo usar aceite neutro (como girasol o maíz) en lugar de un aceite de oliva extra virgen demasiado invasivo, para que el protagonismo absoluto lo tengan el orégano, el ají molido y el perfume del ajo. El verdadero chimichurri mejora notablemente con los días: a las 48 horas de maceración en frío, la infusión alcanza su punto cumbre de redondez y sabor."
+  },
+  {
+    "id": 635,
+    "title": "Loco Moco con Salsa Gravy y Huevo Frito (Estados Unidos)",
+    "category": "Platos Principales",
+    "country": "Estados Unidos",
+    "difficulty": "Media",
+    "prep_time": "20 min",
+    "cook_time": "25 min",
+    "rest_time": "5 min",
+    "servings": "4 platos abundantes",
+    "calories": "680 kcal por porción",
+    "diet_badges": [
+      "Alto en Proteínas"
+    ],
+    "tags": [
+      "Loco Moco",
+      "Cocina de Hawái",
+      "Lincoln Grill",
+      "Comida reconfortante",
+      "Brown gravy",
+      "Hamburguesa con arroz",
+      "Huevo frito",
+      "Plato hawaiano"
+    ],
+    "image": "https://lh3.googleusercontent.com/-5xywThpg_mE/avi32NJ7mZI/AAAAAAAQCUg/hsrze1PXQP8g63O1_EeVpYiv6Is1XsdnACNcBGAsYHQ/s1600/loco_moco_hawai.jpg",
+    "story": "El Loco Moco es el emblema definitivo del confort food de las islas de Hawái. Creado en 1949 en el Lincoln Grill de la localidad de Hilo por Richard y Nancy Inouye a pedido de un grupo de adolescentes de un club deportivo local que buscaban una comida económica, rápida y contundente para recargar energías, el plato trascendió fronteras hasta convertirse en un ícono de la gastronomía hawaiana contemporánea. La magia reside en la sencillez de sus cuatro capas: una montaña humeante de arroz blanco de grano corto bien cocido, un jugoso medallón de carne picada sazonado a la plancha, una untuosa y brillante salsa 'brown gravy' de carne enriquecida con salsa inglesa y caldo concentrado que empapa el arroz, y la corona indiscutible de un huevo frito con su yema líquida dorada que, al cortarse, se funde con la salsa.",
+    "ingredients": [
+      "600 g de carne vacuna picada (80/20, aguja o rosbif)",
+      "1 cucharada de salsa Worcestershire (salsa inglesa)",
+      "1 diente de ajo rallado",
+      "4 tazas de arroz blanco de grano corto (tipo sushi o Calrose) cocido caliente",
+      "4 huevos grandes frescos de campo",
+      "2 cebollas de verdeo (cebollines), cortadas en rodajitas finas",
+      "1 cucharada de manteca y 1 cucharada de aceite para la carne y los huevos",
+      "Sal kosher y pimienta negra recién molida",
+      "2 tazas (480 ml) de caldo de carne vacuna concentrado (para el gravy)",
+      "2 cucharadas de manteca sin sal (para el gravy)",
+      "2 cucharadas de harina de trigo (para el roux del gravy)",
+      "1 cucharada de salsa de soja oscura (para color y umami)",
+      "1 cucharadita de salsa Worcestershire (para el gravy)"
+    ],
+    "instructions": [
+      "Preparar los medallones de carne: En un bol, condimentar suavemente la carne picada con la cucharada de salsa inglesa, el ajo rallado, una cucharadita de sal y pimienta negra. Dividir en 4 porciones de 150 g y formar medallones gruesos de unos 2 cm de alto. Reservar.",
+      "Elaborar la salsa Brown Gravy: En una cacerola pequeña a fuego medio, derretir las 2 cucharadas de manteca. Añadir la harina de trigo y cocinar revolviendo con batidor de alambre durante 2 a 3 minutos hasta obtener un roux tostado de color avellana claro. Verter el caldo de carne caliente de a poco sin dejar de batir para evitar grumos. Incorporar la salsa de soja y la salsa Worcestershire. Cocinar a fuego lento durante 5 a 7 minutos hasta que espese en una salsa sedosa, oscura y brillante. Probar, salpimentar y mantener caliente.",
+      "Cocinar los medallones a la plancha: Calentar una sartén de hierro a fuego medio-alto con unas gotas de aceite. Dorar los medallones durante 3 a 4 minutos por lado hasta que formen una costra marrón caramelizada pero conserven sus jugos internos. Retirar y reservar al calor.",
+      "Freír los huevos: En la misma sartén o en una panquequera con una nuez de manteca a fuego medio, freír los 4 huevos procurando que la clara quede cocida y los bordes sutilmente crujientes, pero manteniendo la yema dorada bien líquida.",
+      "Montaje tradicional del Loco Moco: En platos hondos o cuencos amplios, colocar una generosa base de arroz blanco humeante. Apoyar encima el medallón de carne caliente. Bañar abundantemente la carne y los costados del arroz con 2 a 3 cucharones colmados de salsa gravy caliente. Coronar con el huevo frito recién hecho y espolvorear con cebolla de verdeo picada y pimienta negra recién molida. Servir de inmediato."
+    ],
+    "notes": "En mi cocina siempre recuerdo el mandamiento hawaiano del Loco Moco: el arroz debe ser de grano corto o medio para que absorba el gravy sin desgranarse en sopa, y la yema del huevo jamás debe estar cuajada. Al romper la yema sobre el plato, se crea una emulsión sublime entre la yema líquida y el gravy que transforma cada bocado en pura gloria."
   }
 ]
