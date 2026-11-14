@@ -64204,5 +64204,379 @@
       "Emplatado y servicio: Atravesar la hamburguesa desde el centro superior con un palillo de madera largo ensartando dos rodajas gruesas de pepinillo agridulce. Servir de inmediato mientras el queso está en su punto máximo de fundición."
     ],
     "notes": "En mi cocina siempre insisto en que el secreto de un pimento cheese extraordinario es rallar el bloque de queso cheddar a mano en el momento: los quesos ya rallados del supermercado vienen recubiertos de almidones y celulosa que impiden que se funda de manera cremosa y uniforme. Para el armado, el orden importa: la mostaza y la cebolla en la base despiertan el paladar, mientras que el coleslaw frío y crujiente en la parte superior equilibra de manera impecable la untuosidad caliente y contundente del chili y el queso fundido."
+  },
+  {
+    "id": 625,
+    "title": "Teriyaki Burger de Hawái (Estados Unidos)",
+    "category": "Carnes",
+    "country": "Estados Unidos",
+    "difficulty": "Media",
+    "prep_time": "20 min",
+    "cook_time": "15 min",
+    "rest_time": "15 min de marinado",
+    "servings": "8 hamburguesas",
+    "calories": "520 kcal por unidad",
+    "diet_badges": [
+      "Alto en Proteínas"
+    ],
+    "tags": [
+      "Teriyaki Burger",
+      "Hamburguesa hawaiana",
+      "George Motz",
+      "The Great American Burger Book",
+      "Kewpie mayo",
+      "Comida callejera de Hawái",
+      "Okazuya",
+      "Umami"
+    ],
+    "image": "https://lh3.googleusercontent.com/-NCqCk3I25FE/aviwJ3NKTNI/AAAAAAAQCSo/hsKixqdHOQQ5Q2w9QjYCVHOCj8DxAuttgCNcBGAsYHQ/s1600/teriyaki_burger_hawai.jpg",
+    "story": "En Hawái, la Teriyaki Burger es un pilar cultural tan cotidiano y venerado como el Loco Moco. Nacida de la profunda influencia japonesa en las islas y popularizada por los tradicionales 'okazuya' y locales históricos como W&M Bar-B-Q en Honolulu (abierto en los años 50), George Motz la destaca en sus investigaciones como el epítome de la explosión umami. La técnica consiste en marinar brevemente los medallones formados en una marinada tibia de soja, mirin, azúcar rubia, ajo y jengibre, cocinarlos a fuego medio-bajo en hierro fundido para caramelizar sin quemar los azúcares, y servirlos en pan blanco extra tierno sin semillas sobre un colchón crujiente de lechuga iceberg, cebolla dulce y mayonesa japonesa Kewpie.",
+    "ingredients": [
+      "1 kg (2 libras) de carne picada vacuna fresca (aguja o rosbif 80/20)",
+      "8 panes blancos suaves de hamburguesa (sin semillas)",
+      "1 taza de lechuga iceberg, rallada en juliana bien fina",
+      "1 cebolla dulce (tipo Vidalia), picada fina",
+      "½ taza de mayonesa japonesa Kewpie",
+      "2 cucharadas de aceite de maní o neutro para la plancha",
+      "¼ taza (60 ml) de salsa de soja japonesa",
+      "¼ taza (60 ml) de mirin (vino dulce de arroz)",
+      "2 cucharadas colmadas de azúcar rubia o morena",
+      "2 dientes de ajo, picados finos",
+      "½ cucharadita de jengibre fresco recién rallado",
+      "3 tazas (720 ml) de agua para la marinada",
+      "1 cucharada de almidón de maíz disuelta en 2 cucharadas de agua (para espesar la salsa de glaseado)"
+    ],
+    "instructions": [
+      "Elaborar la marinada y salsa teriyaki: En una cacerola mediana, combinar la salsa de soja, el mirin, el azúcar morena, el agua, el ajo picado y el jengibre. Llevar a ebullición, reducir a fuego bajo y cocinar tapado durante 10 minutos. Retirar del fuego y dejar enfriar por completo (se puede acelerar llevando al congelador unos minutos). Separar ½ taza del líquido, llevar a hervor suave con el almidón de maíz disuelto revolviendo 1 minuto hasta que espese en un glaseado brillante, y reservar para el acabado.",
+      "Formar los medallones: Dividir la carne picada en 8 porciones iguales de 125 g. Con ayuda de una prensa manual o entre dos láminas de papel manteca, formar medallones de 1 cm de grosor.",
+      "Marinado breve: Disponer los medallones en una fuente amplia en una sola capa. Verter la marinada fría por encima y llevar a la heladera durante 10 a 15 minutos (no exceder los 30 minutos para que el ácido y la sal no desarmen la textura de la carne).",
+      "Cocinar a fuego moderado: Calentar una sartén o plancha de hierro fundido a fuego medio-bajo con unas gotas de aceite. Levantar los medallones con espátula con sumo cuidado y colocarlos sobre el hierro. Cocinar sin mover durante 5 minutos, hasta que comiencen a asomar jugos rojizos en la superficie. Dar vuelta con firmeza y cocinar 4 minutos más por el otro lado hasta que queden caramelizados y tiernos.",
+      "Montar la Teriyaki Burger: Tostar apenas las caras internas de los panes. En la base, colocar una línea generosa de mayonesa Kewpie, una montaña de lechuga iceberg rallada y cebolla dulce picada. Apoyar el medallón caliente recién salido de la plancha, bañar con una cucharada del glaseado espeso teriyaki, coronar con otro toque de Kewpie en la tapa del pan y cerrar. Servir de inmediato."
+    ],
+    "notes": "En mi cocina siempre sigo al pie de la letra el consejo de George Motz sobre la temperatura: como la marinada lleva azúcar y mirin, cocinar a fuego medio-bajo es fundamental para evitar que el caramelo se queme y amargue la carne antes de que se cocine el centro. La mayonesa japonesa Kewpie, hecha exclusivamente con yemas de huevo y vinagre de arroz suave, es insustituible para lograr ese perfil untuoso y sedoso tan característico de los diners hawaianos."
+  },
+  {
+    "id": 626,
+    "title": "Carolina Slaw Burger con Chili y Ensalada de Col (Estados Unidos)",
+    "category": "Carnes",
+    "country": "Estados Unidos",
+    "difficulty": "Media",
+    "prep_time": "20 min",
+    "cook_time": "15 min",
+    "rest_time": "5 min",
+    "servings": "8 hamburguesas",
+    "calories": "610 kcal por unidad",
+    "diet_badges": [
+      "Alto en Proteínas"
+    ],
+    "tags": [
+      "Carolina Slaw Burger",
+      "Hamburguesa de Carolina",
+      "Duke's Grill",
+      "George Motz",
+      "Chili cheeseburger",
+      "Ensalada de col",
+      "Comida callejera sureña",
+      "Smash burger"
+    ],
+    "image": "https://lh3.googleusercontent.com/-ZdFaiAsRLxY/aviwLG_wmbI/AAAAAAAQCSw/6R5P_1FzA1kiWpzreppb4X1qHa4zQzwKACNcBGAsYHQ/s1600/carolina_slaw_burger.jpg",
+    "story": "En Carolina del Norte, la cultura del pulled pork con ensalada de col cremosa en el sándwich inspiró a los comensales a aplicar el mismo principio a las hamburguesas. Documentada con devoción por George Motz a través de santuarios como Duke's Grill en Monroe (abierto desde 1951), la auténtica Carolina Slaw Burger es una verdadera leyenda del sur estadounidense: un medallón fino smashed con bordes irregulares y dorados, queso americano fundido, una generosa cucharada de chili de carne especiado (sin frijoles), mostaza amarilla, cebolla picada y un copete crujiente de ensalada de col (coleslaw). Un ensamblaje magistral donde el frío crocante de la col balancea a la perfección la calidez sabrosa del chili y la carne.",
+    "ingredients": [
+      "1 kg de carne picada vacuna 80/20 (aguja o tapa de asado)",
+      "8 panes blancos o de papa para hamburguesa, tostados del lado de la miga",
+      "8 fetas de queso americano de fiambrería (o cheddar suave fundente)",
+      "1½ tazas de chili con carne espeso tradicional (sin frijoles)",
+      "2 tazas de ensalada de col cremosa (coleslaw casera)",
+      "½ taza de cebolla dulce picada en cubitos finos",
+      "3 cucharadas de mostaza amarilla clásica",
+      "Sal fina o sal kosher para sazonar",
+      "Aceite de maní o grasa vacuna para engrasar la plancha"
+    ],
+    "instructions": [
+      "Preparar los ingredientes: Tener listos y calientes el chili de carne especiado y la ensalada de col bien fría y escurrida.",
+      "Porcionar y salar la carne: Dividir el kilogramo de carne picada en 8 bolas de unos 125 g cada una, manteniéndolas sueltas y sin amasar.",
+      "Sellar y aplastar los medallones: Calentar una plancha de hierro fundido a fuego medio-alto con una fina película de aceite. Colocar las bolas de carne espaciadas, espolvorear sal por encima y, con una espátula ancha y rígida, aplastar con firmeza hasta dejarlas bien planas y con bordes dentados. Cocinar 2½ minutos sin tocar hasta formar una costra marrón caramelizada.",
+      "Fundir el queso: Dar vuelta los medallones raspando el hierro y colocar inmediatamente una feta de queso americano sobre cada uno. Cocinar durante 2 minutos hasta que el queso se derrita envolviendo la carne.",
+      "Ensamblaje riguroso estilo Carolina: Untar la tapa del pan con un toque de mostaza amarilla. Sobre la base del pan tostado, colocar primero una generosa porción colmada de ensalada de col fría. Apoyar encima el medallón con su queso derretido, cubrir con una buena cucharada de chili de carne caliente y espolvorear la cebolla picada. Tapar y servir de inmediato."
+    ],
+    "notes": "En mi cocina siempre enfatizo la importancia del orden de capas: la ensalada de col en la base actúa como un colchón que no solo protege el pan inferior absorbiendo los jugos sin humedecerlo, sino que garantiza que en cada bocado el contraste térmico entre el frío crocante de la verdura y el calor jugoso del chili fundido sea total."
+  },
+  {
+    "id": 627,
+    "title": "Salsa Goop para Hamburguesas (Estados Unidos)",
+    "category": "Salsas y Aderezos",
+    "country": "Estados Unidos",
+    "difficulty": "Fácil",
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "rest_time": "10 min de reposo",
+    "servings": "12 porciones de hamburguesa (1½ tazas)",
+    "calories": "95 kcal por cucharada",
+    "diet_badges": [
+      "Sin Gluten",
+      "Vegetariano"
+    ],
+    "tags": [
+      "Salsa Goop",
+      "Goop sauce",
+      "Eastside Big Tom",
+      "George Motz",
+      "Aderezo para hamburguesas",
+      "Pacific Northwest",
+      "Salsa secreta",
+      "Dipping sauce"
+    ],
+    "image": "https://lh3.googleusercontent.com/-kzodnBkqE50/aviwMM8qwUI/AAAAAAAQCS4/Gk3MznZSL3IUXPkadmRh3rGbtUzH3g5aACNcBGAsYHQ/s1600/salsa_goop_hamburguesas.jpg",
+    "story": "En el noroeste del Pacífico (Estados Unidos), especialmente en Washington y Oregón, casi todas las hamburgueserías históricas sirven sus preparaciones con una misteriosa y adictiva salsa llamada 'Goop'. La más famosa y protegida bajo marca registrada es la de Eastside Big Tom en Olympia (Washington), fundada por Chuck Fritsch. George Motz investigó y recreó con precisión este condimento de culto: una emulsión balanceada de mayonesa, crema agria, relish dulce de pepinillos y mostaza amarilla clásica, cuyo característico color amarillo vibrante recuerda al mítico Plymouth Barracuda 'Curious Yellow' de 1971. Es el aderezo por excelencia no solo para hamburguesas, sino también para acompañar papas fritas y tater tots crujientes.",
+    "ingredients": [
+      "½ taza (120 ml) de mayonesa de buena calidad",
+      "¼ taza (60 ml) de crema agria (sour cream) o crema de leche espesa con gotas de limón",
+      "2 cucharadas de sweet relish (encurtido dulce de pepinillo finamente picado)",
+      "3 cucharadas (45 ml) de mostaza amarilla clásica americana",
+      "Una pizca pequeña de sal fina (opcional)"
+    ],
+    "instructions": [
+      "Mezclar la base: En un cuenco mediano de vidrio o cerámica, colocar la mayonesa y la crema agria.",
+      "Incorporar condimentos: Añadir el sweet relish dulce y las tres cucharadas de mostaza amarilla clásica.",
+      "Emulsionar: Batir enérgicamente con un batidor de alambre pequeño o tenedor durante 1 minuto, hasta lograr una salsa homogénea, sedosa y de color amarillo brillante uniforme.",
+      "Reposo y servicio: Dejar reposar en heladera durante al menos 10 a 15 minutos para que los sabores de la mostaza y el pepinillo dulce se integren. Untar generosamente sobre ambas caras del pan tostado de tus hamburguesas o servir en un cuenco para untar papas fritas."
+    ],
+    "notes": "En mi cocina la prefiero siempre sobre la clásica salsa mil islas comercial: el agregado de la crema agria aligera la pesadez de la mayonesa y le aporta una acidez láctica refinada que corta la grasa del medallón de carne a la perfección. Se conserva en frasco de vidrio hermético en la heladera durante 10 días sin perder brillo ni textura."
+  },
+  {
+    "id": 628,
+    "title": "Salsa Schnäck de Chipotle para Hamburguesas (Estados Unidos)",
+    "category": "Salsas y Aderezos",
+    "country": "Estados Unidos",
+    "difficulty": "Fácil",
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "rest_time": "5 min",
+    "servings": "8 porciones (¾ taza)",
+    "calories": "85 kcal por cucharada",
+    "diet_badges": [
+      "Sin Gluten",
+      "Vegetariano"
+    ],
+    "tags": [
+      "Salsa Schnäck",
+      "Chipotle burger sauce",
+      "Harry Hawk",
+      "George Motz",
+      "Brooklyn New York",
+      "Salsa picante para hamburguesa",
+      "Sliders",
+      "Ahumafo"
+    ],
+    "image": "https://lh3.googleusercontent.com/-IizCPSVLHII/aviwNXUCvYI/AAAAAAAQCTA/QSn5ki3is0Q4JGFTEe-RgsLvO3BHzvs6QCNcBGAsYHQ/s1600/salsa_schnack_chipotle.jpg",
+    "story": "Desarrollada por el cocinero neoyorquino Harry Hawk para su recordado templo de hamburguesas 'Schnäck' en Brooklyn (activo entre 2001 y 2007), donde servía sus legendarios sliders llamados 'schnäckies', esta salsa fue catalogada por su amigo íntimo George Motz como una de las mejores salsas de hamburguesa jamás creadas. A diferencia de las salsas de hamburguesa genéricas sobrecargadas de kétchup, la salsa Schnäck combina la cremosidad de la mayonesa con la mordida rústica de la mostaza en grano y la profundidad picante y ahumada de los auténticos chiles chipotles en adobo. Es tan potente y equilibrada que basta una cucharada sobre un medallón de carne bien sellado sin necesidad de ningún otro acompañamiento.",
+    "ingredients": [
+      "⅓ taza (75 ml) de mayonesa de alta calidad",
+      "2 cucharadas de mostaza en grano a la antigua (grainy mustard)",
+      "2 chiles chipotles en adobo enteros enlatados (con un toque de su salsa)",
+      "Sal fina a gusto para sazonar"
+    ],
+    "instructions": [
+      "Procesar los ingredientes: Colocar en el vaso de un procesador de alimentos pequeño o procesadora de mano la mayonesa, la mostaza en grano, los chiles chipotles y una pizca de sal.",
+      "Triturar al punto exacto: Pulsar en intervalos cortos durante 30 a 45 segundos, hasta que los chiles queden finamente integrados en una crema de color naranja ahumado con pequeñas motas oscuras de mostaza y chipotle.",
+      "Ajustar nivel de picor: Probar la salsa; si se prefiere con más carácter ahumado y picor, agregar un toque más de adobo de la lata. Rectificar de sal.",
+      "Servicio: Untar directamente sobre el pan tostado de hamburguesas o sliders recién salidos de la plancha caliente."
+    ],
+    "notes": "En mi cocina me fascina esta salsa por su sobriedad: tres ingredientes bien elegidos que respetan la carne vacuna sin enmascararla. Si utilizas una procesadora, no te pases de batido para no licuar por completo los granos enteros de la mostaza, que brindan un estallido crujiente formidable en boca."
+  },
+  {
+    "id": 629,
+    "title": "Ensalada Cole Slaw sin Azúcar (Estados Unidos)",
+    "category": "Ensaladas",
+    "country": "Estados Unidos",
+    "difficulty": "Fácil",
+    "prep_time": "15 min",
+    "cook_time": "0 min",
+    "rest_time": "20 min de refrigeración",
+    "servings": "8 a 10 porciones abundantes",
+    "calories": "140 kcal por porción",
+    "diet_badges": [
+      "Bajo en Carbohidratos",
+      "Sin Gluten",
+      "Vegetariano"
+    ],
+    "tags": [
+      "Cole Slaw",
+      "Ensalada de col americana",
+      "Sin azúcar",
+      "George Motz",
+      "Guarnición de barbacoa",
+      "Cabbage salad",
+      "Picnic americano"
+    ],
+    "image": "https://lh3.googleusercontent.com/-UDcFa-SBw6U/aviwOSjCFpI/AAAAAAAQCTI/LpEeZMfz29I51AotBc8y8nKfjr5M05wPgCNcBGAsYHQ/s1600/ensalada_cole_slaw_sin_azucar.jpg",
+    "story": "George Motz ideó esta fórmula magistral ('Stupid-Easy Cole Slaw') cansado de las ensaladas de col comerciales e industriales rebosantes de azúcar refinada que empalagan el paladar. Desarrollada originalmente para que su suegro diabético pudiera disfrutar plenamente de un buen picnic de barbacoa sin restricciones, se convirtió rápidamente en su guarnición insignia para acompañar hamburguesas, costillas y cerdo desmenuzado. El secreto radica en la frescura crujiente del repollo blanco y la zanahoria rallada, unidos por un aliño equilibrado de mayonesa, mostaza amarilla y la vibrante acidez frutal del vinagre de manzana natural, demostrando que no se necesita un solo gramo de azúcar para lograr una ensalada de col antológica.",
+    "ingredients": [
+      "1 repollo blanco mediano (aprox. 1 kg), limpio y rallado fino en juliana",
+      "6 zanahorias medianas a grandes, peladas y ralladas grueso",
+      "1 taza (240 ml) de mayonesa de buena calidad",
+      "¼ taza (60 ml) de vinagre de manzana puro",
+      "2 cucharadas de mostaza amarilla clásica",
+      "1 cucharadita colmada de sal fina",
+      "Pimienta negra recién molida a gusto (opcional)"
+    ],
+    "instructions": [
+      "Cortar los vegetales: Con un cuchillo afilado de chef o procesadora de alimentos con disco rallador, cortar el repollo en tiras muy finas y rallar las zanahorias. Disponer todo en un bol amplio.",
+      "Preparar el aliño: En un cuenco aparte, batir la mayonesa con el vinagre de manzana, la mostaza amarilla, la sal y la pimienta hasta lograr una emulsión líquida, homogénea y aromática.",
+      "Mezclar y aderezar: Verter el aliño sobre el repollo y las zanahorias ralladas. Con pinzas de cocina o con las manos limpias, masajear suavemente la verdura durante 1 minuto para que el vinagre ablande ligeramente las fibras del repollo y el aderezo cubra cada hebra.",
+      "Refrigerar: Llevar a la heladera durante al menos 20 a 30 minutos antes de servir para que la ensalada tome temperatura fría y despierte su máxima crocancia."
+    ],
+    "notes": "En mi cocina valoro enormemente esta receta por su honestidad: la dulzura natural de las zanahorias y el repollo fresco es más que suficiente para contrarrestar el filo del vinagre de manzana sin caer en el almíbar de las versiones comerciales. Es la compañera insustituible para coronar hamburguesas al estilo Carolina o como guarnición refrescante en asados al aire libre."
+  },
+  {
+    "id": 630,
+    "title": "Papas Chips con Chile Rojo en Air Fryer (Estados Unidos)",
+    "category": "Guarniciones",
+    "country": "Estados Unidos",
+    "difficulty": "Fácil",
+    "prep_time": "25 min (incluye remojo)",
+    "cook_time": "15 min",
+    "rest_time": "5 min de secado",
+    "servings": "6 a 8 porciones de snack",
+    "calories": "160 kcal por porción",
+    "diet_badges": [
+      "Vegano",
+      "Sin Gluten",
+      "Bajo en Grasas"
+    ],
+    "tags": [
+      "Papas chips",
+      "Air Fryer",
+      "Freidora de aire",
+      "Chile rojo",
+      "George Motz",
+      "Snack crujiente",
+      "Papas fritas caseras",
+      "Guarnición para hamburguesa"
+    ],
+    "image": "https://lh3.googleusercontent.com/-jx29YoA7igg/aviwPlL5ARI/AAAAAAAQCTQ/P8B6AmI_JawLpm_vWePvsi0EYe7fO2iFQCNcBGAsYHQ/s1600/papas_chips_chile_rojo_air_fryer.jpg",
+    "story": "En sus libros y sesiones culinarias, George Motz celebra las papas chips caseras condimentadas con chile rojo molido como el acompañamiento más simple, noble y adictivo para cualquier hamburguesa de carretera. Adaptada a la freidora de aire (Air Fryer), esta receta logra esa misma textura ultracrujiente y dorada utilizando apenas una mínima fracción de aceite. La clave de los expertos consiste en cortar las papas con mandolina con un grosor milimétrico uniforme y someterlas a un remojo prolongado en agua helada para desalojar el exceso de almidón superficial, lo que previene que se quemen y asegura una crocancia que rivaliza con las mejores papas fritas de caldero.",
+    "ingredients": [
+      "3 papas grandes tipo Russet o papas blancas de piel firme, lavadas y peladas",
+      "1½ cucharadas de aceite de oliva, aceite de maní o rocío vegetal",
+      "1 cucharada colmada de chile rojo molido en polvo (chile piquín, pimentón picante o New Mexico chile powder)",
+      "1 cucharadita de ajo en polvo",
+      "1 cucharadita de sal fina o sal marina",
+      "Agua helada con cubos de hielo para el remojo"
+    ],
+    "instructions": [
+      "Corte milimétrico: Con una mandolina de cocina ajustada a 1,5 mm de espesor (1/16 de pulgada), cortar las papas en láminas finas y perfectamente parejas.",
+      "Remojo desengrasante (secreto de crocancia): Colocar las láminas de papa en un bol grande cubiertas con agua helada y cubos de hielo durante 20 a 30 minutos. El agua se volverá turbia a medida que el almidón se desprenda.",
+      "Secado exhaustivo: Escurrir las papas y extenderlas sobre un paño de cocina limpio o toallas de papel absorbente. Secar frotando suavemente con otro paño por encima hasta que no quede rastro de humedad superficial (el agua residual genera vapor y arruina la textura crocante).",
+      "Condimentar: Disponer las láminas secas en un bol seco, rociar con la cucharada y media de aceite y mezclar con las manos para cubrir cada chip con una película casi imperceptible. Espolvorear la mitad del chile rojo, el ajo en polvo y la sal.",
+      "Cocinar en Air Fryer: Precalentar la freidora de aire a 180°C (360°F). Colocar las papas en la canasta en una capa suelta (pueden superponerse ligeramente, pero sin apelmazar; es preferible hacer 2 o 3 tandas). Cocinar durante 12 a 15 minutos, sacudiendo la canasta con fuerza cada 3 a 4 minutos para redistribuir las chips y lograr un dorado uniforme.",
+      "Terminación crujiente: Retirar cuando estén rígidas y doradas con bordes ondeados. Espolvorear de inmediato con el resto del chile rojo en polvo y sal mientras están calientes. Dejar enfriar 3 minutos sobre una rejilla para que alcancen su punto máximo de crocancia."
+    ],
+    "notes": "En mi cocina siempre recuerdo que el secado con lienzo es el paso que define el éxito en la freidora de aire: una papa mojada se sancocha, mientras que una papa completamente seca se tuesta y cruje al morder. Si deseas prepararlas en el método tradicional de George Motz en sartén de hierro fundido, simplemente calienta 5 cm de aceite neutro a 180°C y fríelas en tandas de 3 minutos hasta que dejen de burbujear."
+  },
+  {
+    "id": 631,
+    "title": "Hamburguesa Vegetariana de Remolacha y Nueces (Estados Unidos)",
+    "category": "Platos Principales",
+    "country": "Estados Unidos",
+    "difficulty": "Media",
+    "prep_time": "30 min",
+    "cook_time": "45 min de horno + 10 min de plancha",
+    "rest_time": "10 min",
+    "servings": "8 a 10 hamburguesas",
+    "calories": "480 kcal por unidad",
+    "diet_badges": [
+      "Vegetariano",
+      "Alto en Fibra"
+    ],
+    "tags": [
+      "Beet Burger",
+      "Hamburguesa de remolacha",
+      "Korzo Brooklyn",
+      "George Motz",
+      "Hamburguesa vegetariana",
+      "Nueces y porotos",
+      "Cheddar fundido",
+      "Hongos salteados"
+    ],
+    "image": "https://lh3.googleusercontent.com/-V2mkQCNav_Y/aviwQ2Ehz-I/AAAAAAAQCTY/TPOMG9Y1ejA0pHxc9Ut2F5yY5buvhYq8ACNcBGAsYHQ/s1600/hamburguesa_vegetariana_remolacha_nueces.jpg",
+    "story": "George Motz, confeso y purista amante de las hamburguesas vacunas tradicionales, declara abiertamente en su obra que detesta las hamburguesas vegetarianas procesadas de soja que intentan imitar a la carne. Sin embargo, hace una única y apasionada excepción con la célebre 'Beet Burger' creada por sus amigos Maria y Otto Zizak en el recordado restaurante eslovaco Korzo en Brooklyn (Nueva York). Esta creación magistral prescinde de pastas ultraprocesadas: combina remolachas asadas al horno para concentrar sus azúcares naturales con remolachas crudas ralladas para textura, nueces remojadas, porotos carita (black-eyed peas), mostaza y pan rallado panko. Terminada a la plancha con queso cheddar fundido, hongos salteados al vino blanco y cebollas caramelizadas, ofrece una terneza terrosa, profunda y sabrosa que convence al más escéptico de los carnívoros.",
+    "ingredients": [
+      "1 remolacha grande, pelada para asar",
+      "1 remolacha grande cruda, pelada y finamente rallada",
+      "850 g (2 latas) de porotos carita (black-eyed peas), escurridos y enjuagados",
+      "400 g (4 tazas) de nueces mariposa, remojadas en agua toda la noche y escurridas",
+      "2 zanahorias medianas, peladas y ralladas en juliana fina",
+      "2 dientes de ajo, picados finos",
+      "1 cucharada de mostaza en grano o mostaza artesanal",
+      "2 cucharadas de salsa picante suave (tipo Frank's RedHot)",
+      "1 taza (80 g) de pan rallado japonés panko",
+      "2 cucharadas de manteca con sal para dorar a la plancha",
+      "8 a 10 panes de hamburguesa integrales suaves o panes de papa",
+      "8 fetas de queso cheddar curado de excelente calidad",
+      "2 tazas de champiñones cremini en láminas, salteados con 1 cucharada de manteca y ½ taza de vino blanco seco",
+      "1 taza de cebollas caramelizadas dulces",
+      "Sal marina y pimienta negra molida a gusto"
+    ],
+    "instructions": [
+      "Asar la remolacha base: Precalentar el horno a 200°C (400°F). Frotar la remolacha pelada con unas gotas de aceite de oliva, envolverla en doble papel de aluminio y hornear durante 1½ horas hasta que un cuchillo la atraviese con suavidad. Dejar enfriar y picar en cubos pequeños. Bajar la temperatura del horno a 190°C (375°F).",
+      "Triturar legumbres y frutos secos: En el procesador de alimentos, pulsar los porotos carita escurridos hasta dejarlos troceados de forma rústica (sin hacer puré líquido) y pasar a un bol amplio. Luego, procesar las nueces remojadas hasta obtener trozos medianos y añadir al mismo bol.",
+      "Integrar la masa vegetal: Agregar al bol las zanahorias ralladas, la remolacha cruda rallada, la remolacha asada en cubos, el ajo picado, la mostaza, la salsa picante y el panko. Amasar con las manos hasta lograr una masa densa, pastosa y maleable de color rubí intenso. Sazonar generosamente con sal y pimienta.",
+      "Moldear y hornear: Formar medallones de unos 2 cm de grosor (estas hamburguesas no encogen en la cocción, por lo que deben igualar el diámetro del pan). Disponer en una bandeja con lámina de silicona o papel manteca y hornear a 190°C durante 45 minutos para fijar su estructura interna.",
+      "Acabado a la plancha: Calentar una sartén de hierro con manteca a fuego medio. Dorar cada medallón horneado con cuidado durante 2 minutos por lado.",
+      "Fundido y servicio: Coronar cada medallón caliente con una cucharada de hongos salteados al vino y una feta de cheddar. Tapar la sartén 1 minuto para fundir el queso. Colocar sobre el pan tostado, cubrir con cebolla caramelizada y servir de inmediato."
+    ],
+    "notes": "En mi cocina valoro especialmente la técnica eslovaca de los creadores de Korzo: jamás hervir la remolacha en agua, pues pierde todo su carácter y dulzura natural. Al combinar remolacha asada (que aporta melosidad dulce caramelizada) con remolacha cruda rallada (que aporta mordida fresca y humedad), junto a las grasas saludables de la nuez remojada, se logra una textura que no se desarma y un sabor terroso de antología."
+  },
+  {
+    "id": 632,
+    "title": "Quesadillas de Chorizo a la Parrilla con Salsa de Mango (México)",
+    "category": "Platos Principales",
+    "country": "México",
+    "difficulty": "Media",
+    "prep_time": "20 min",
+    "cook_time": "35 min",
+    "rest_time": "10 min",
+    "servings": "4 personas (8 quesadillas en triángulos)",
+    "calories": "640 kcal por porción",
+    "diet_badges": [
+      "Alto en Proteínas"
+    ],
+    "tags": [
+      "Quesadillas de chorizo",
+      "Salsa de mango",
+      "Weber Grill",
+      "Jamie Purviance",
+      "Cocina a la parrilla",
+      "Chiles serranos asados",
+      "Guacamole rústico",
+      "Monterey Jack"
+    ],
+    "image": "https://lh3.googleusercontent.com/-15yhLvVRNZ0/aviwSPV5euI/AAAAAAAQCTg/8oYr-TDwGV4YHtt6UmWqxTXkx2_y3-5LACNcBGAsYHQ/s1600/quesadillas_chorizo_mango.jpg",
+    "story": "Inmortalizada por el maestro de la barbacoa Jamie Purviance en las guías maestras de Weber Grill, esta receta eleva la clásica quesadilla mexicana a un festín ahumado de alta gastronomía al aire libre. La genialidad del plato reside en su juego de contrastes: chorizos frescos asados lentamente a fuego indirecto combinados con chiles serranos tatemados al fuego vivo hasta ennegrecer su piel para extraer un picor dulce y ahumado, que luego se machacan con palta madura cremosa y queso fundente. Para coronar, una refrescante salsa fresca de mango maduro, cebolla morada y cilantro que equilibra con maestría la untuosidad y el picor de las brasas.",
+    "ingredients": [
+      "450 g (1 libra) de chorizos frescos de cerdo (criollos o mexicanos de buena factura)",
+      "4 chiles serranos frescos",
+      "2 paltas (aguacates) maduras",
+      "2 cucharaditas de jugo de lima recién exprimido",
+      "8 tortillas de trigo grandes (20 cm de diámetro)",
+      "600 g de queso Monterey Jack, Gouda o Cheddar suave rallado",
+      "½ taza de crema agria (sour cream) para acompañar",
+      "1 mango maduro grande, pelado y picado en cubitos de 5 mm (para la salsa)",
+      "1 pimiento morrón rojo pequeño, cortado en brunoise fina (para la salsa)",
+      "¼ de cebolla morada, picada finamente (para la salsa)",
+      "2 cucharadas de cilantro fresco recién picado (para la salsa)",
+      "1 cucharada de jugo de lima fresco (para la salsa)",
+      "¼ cucharadita de sal marina fina (para la salsa)"
+    ],
+    "instructions": [
+      "Preparar la salsa fresca de mango: En un cuenco de vidrio, mezclar el mango en cubitos con el pimiento rojo, la cebolla morada, el cilantro picado, la cucharada de jugo de lima y la sal marina. Mezclar con suavidad, tapar y refrigerar para que los sabores maceren.",
+      "Tatemar los chiles: Preparar la parrilla para cocción directa a fuego medio (180-230°C / 350-450°F). Pinchar los chorizos con un tenedor. Colocar los chiles serranos sobre las brasas directas durante 6 a 7 minutos con la tapa cerrada, girándolos hasta que su piel quede completamente negra y ampollada. Pasarlos a un bol, tapar con papel film durante 10 minutos para que el vapor afloje la piel quemada.",
+      "Asar los chorizos a fuego indirecto: Mover los chorizos a la zona de fuego indirecto de la parrilla y asar con tapa durante 20 a 25 minutos, girándolos de tanto en tanto, hasta que alcancen 70°C internos y estén perfectamente cocidos. Retirar y cortar al sesgo en rodajas de 1 cm.",
+      "Elaborar la crema de palta y serrano: Pelar los chiles raspando la piel ennegrecida, retirar los cabos y semillas, y picar la pulpa ahumada finamente. En un cuenco, pisar las paltas con el jugo de lima y los chiles picados con un tenedor hasta obtener un puré rústico y cremoso.",
+      "Armar las quesadillas: Reducir la parrilla a fuego suave directo (130-180°C). Untar la crema de palta sobre una mitad de cada tortilla de trigo. Distribuir encima una capa de queso rallado, las rodajas de chorizo asado y otra capa de queso (para que selle por ambos lados). Doblar la tortilla sobre el relleno formando una medialuna.",
+      "Dorar a la parrilla y servir: Asar las quesadillas sobre fuego bajo durante 2 a 3 minutos por lado con la tapa cerrada, hasta que la tortilla esté dorada y crocante y el queso completamente fundido. Retirar, cortar cada medialuna en dos o tres triángulos y servir bien calientes acompañadas de la salsa fresca de mango y crema agria."
+    ],
+    "notes": "En mi cocina siempre sigo el consejo del chef: no hay que temer dejar que la piel de los chiles se ponga bien negra y chamuscada en la parrilla. Al sudar tapados con film, esa piel quemada se desprende sola al rasparla con el canto de un cuchillo, dejando la pulpa tierna impregnada de un perfume ahumado celestial que transforma por completo el relleno."
   }
 ]
