@@ -64102,5 +64102,107 @@
       }
     ],
     "notes": "• **Fideos de celofán (Wun Sen):** Hechos con almidón de frijol mungo, no contienen gluten y absorben los jugos del curry como una esponja; remójalos solo en agua fría para que mantengan su textura elástica sin desarmarse.\n• **Hojas de lima kaffir:** Cortarlas en hilos finísimos (chiffonade) permite comerlas junto a los fideos, desprendiendo una explosión de fragancia cítrica única."
+  },
+  {
+    "id": 623,
+    "title": "Nutburger - Hamburguesa con Crema de Maní (Estados Unidos)",
+    "category": "Carnes",
+    "country": "Estados Unidos",
+    "difficulty": "Fácil",
+    "prep_time": "15 min",
+    "cook_time": "10 min",
+    "rest_time": "5 min",
+    "servings": "4 hamburguesas",
+    "calories": "580 kcal por unidad",
+    "diet_badges": [
+      "Alto en Proteínas"
+    ],
+    "tags": [
+      "Nutburger",
+      "Hamburguesa con maní",
+      "Smash burger",
+      "Matt's Place Drive-In",
+      "Butte Montana",
+      "George Motz",
+      "Hamburger America",
+      "Comida callejera americana",
+      "Miracle Whip"
+    ],
+    "image": "https://lh3.googleusercontent.com/-XGAAUULN54s/aviqegrTXhI/AAAAAAAQCSI/X6oNIleJQOgM0gfto9dg4uVnVlmjCv5rgCNcBGAsYHQ/s1600/nutburger_hamburguesa_mani_montana.jpg",
+    "story": "La legendaria Nutburger nació a fines de la década de 1930 en Matt's Place Drive-In, en Butte (Montana), el primer restaurante drive-in del estado inaugurado en 1930 por Matt Korn. Tras un viaje al sur de California donde probó una combinación experimental de mayonesa y frutos secos picados sobre carne, Korn volvió decidido a recrearla en su mostrador. En el icónico local de Butte, colocaban maníes tostados y salados directamente del dispensador de sundaes en una taza de café, los mezclaban al instante con Miracle Whip y coronaban el medallón smash recién salido de la plancha. El contraste entre la costra caliente, crujiente y salada de la carne vacuna con la cremosidad dulce y el crujido crocante de los maníes convirtió a este plato en una joya de culto de la gastronomía regional estadounidense, documentada magistralmente por George Motz.",
+    "ingredients": [
+      "450 g de carne picada de ternera o rosbif magro (proporción 80/20 recomendada)",
+      "4 panes blancos de hamburguesa clásicos y suaves",
+      "1 taza (140 g) de maníes tostados salados (cocktail peanuts)",
+      "½ taza (120 g) de aderezo Miracle Whip (o emulsión casera de mayonesa, toque de azúcar, vinagre suave y pizca de pimentón)",
+      "1 cucharada de grasa vacuna refinada (tallow) o aceite de maní para la plancha",
+      "1 cucharadita de sal fina o sal kosher para sazonar la carne",
+      "Pimienta negra recién molida a gusto (opcional)"
+    ],
+    "instructions": [
+      "Preparar el aderezo de maní (Nut Sauce): Colocar los maníes tostados y salados sobre una tabla, cubrirlos con un paño limpio y machacarlos suavemente con un palote de amasar o martillo de cocina hasta romperlos en trozos rústicos medianos y pequeños, cuidando de no pulverizarlos. En un cuenco o taza, mezclar los maníes troceados con el Miracle Whip hasta obtener una pasta cremosa, densa y llena de textura crocante. Reservar a temperatura ambiente.",
+      "Porcionar la carne: Dividir los 450 g de carne picada en 4 bolas parejas de unos 110-115 g cada una (usando una cuchara para servir helado o con las manos frías), manipulando la carne lo menos posible y sin compactarla en exceso para que conserve su jugosidad interna.",
+      "Tostar los panes: Calentar una plancha de hierro fundido a fuego medio. Abrir los panes de hamburguesa y tostarlos ligeramente del lado de la miga hasta que tomen un sutil color dorado. Retirar y reservar.",
+      "Cocinar los medallones smash: Subir la plancha a fuego medio-alto y añadir apenas una película fina de grasa vacuna o aceite. Colocar las bolas de carne espaciadas sobre la superficie bien caliente. Espolvorear una pizca generosa de sal sobre cada una. Con una espátula ancha, rígida y firme (ayudándose si es necesario con un mango para hacer presión), aplastar cada bola con fuerza hacia abajo durante 10 segundos hasta formar medallones finos con bordes irregulares.",
+      "Dorar la costra: Cocinar sin mover durante unos 2 a 2½ minutos, hasta que se forme una costra marrón oscura y caramelizada en la base y comiencen a asomar gotas de jugo rojizo en la parte superior.",
+      "Dar vuelta y terminar: Despegar con la espátula raspando bien contra el hierro para no perder la costra crocante. Dar vuelta el medallón y cocinar apenas 1 a 2 minutos más por el otro lado.",
+      "Montaje y servicio: Colocar cada medallón caliente sobre la base de su respectivo pan tostado. Coronar de inmediato con una generosa cucharada colmada (unos 50-60 g) del aderezo de maní y Miracle Whip sobre la carne caliente para que comience a fundirse ligeramente con los jugos. Tapar con la corona del pan, envolver en medio papel blanco o parafinado y servir de inmediato."
+    ],
+    "notes": "En mi cocina siempre recomiendo no triturar los maníes con procesadora eléctrica: al machacarlos a mano con palote logramos ese tamaño irregular auténtico que da la crocancia exacta. Si no consigues aderezo Miracle Whip comercial en tu zona, puedes emular su balance perfecto mezclando ½ taza de mayonesa suave de buena calidad con 2 cucharaditas al ras de azúcar, 1 cucharadita de vinagre de manzana y una pizca de mostaza en polvo o pimentón. El secreto para que la carne quede inmejorable es el contraste térmico: plancha de hierro fundido humeante, aplastado firme una sola vez al principio, y la carne sin amasar para que quede tierna y aireada al morder."
+  },
+  {
+    "id": 624,
+    "title": "Big Block Burger con Pimento Cheese (Estados Unidos)",
+    "category": "Carnes",
+    "country": "Estados Unidos",
+    "difficulty": "Media",
+    "prep_time": "25 min",
+    "cook_time": "15 min",
+    "rest_time": "5 min",
+    "servings": "2 hamburguesas dobles gigantes (o 4 simples)",
+    "calories": "890 kcal por porción doble",
+    "diet_badges": [
+      "Alto en Proteínas"
+    ],
+    "tags": [
+      "Big Block Burger",
+      "Pimento Cheese Burger",
+      "Carolina Style",
+      "Southern Style Burger",
+      "The Penguin Drive-In",
+      "Charlotte Carolina del Norte",
+      "George Motz",
+      "Hamburger America",
+      "Smash Burger Doble"
+    ],
+    "image": "https://lh3.googleusercontent.com/-65j0eGbfWmw/avisxdODXKI/AAAAAAAQCSY/nwtX49zaxh02YfnWUJQeYuDPZWxUZ2qDQCNcBGAsYHQ/s1600/big_block_pimento_cheese_burger.jpg",
+    "story": "En el histórico The Penguin Drive-In de Charlotte (Carolina del Norte), abierto en 1954 en el corazón de la región madre del automovilismo NASCAR, los tamaños de las hamburguesas se bautizaron con nombres de motores de competición: la 'Small Block' (un medallón de 1/3 de libra), la monumental 'Big Block' (dos medallones de 1/3 de libra apilados) y la descomunal 'Full Blown Hemi' (tres medallones). La forma suprema de disfrutarla en el Sur es al estilo 'Southern Style' (o Carolina Style): coronada con chili espeso de carne casero y especiado, mostaza amarilla clásica, cebolla picada fina, una capa de ensalada coleslaw cortada con un grosor microscópico y, por encima de todo, el legendario pimento cheese sureño fundido, esa gloria cremosa de queso cheddar añejo, mayonesa y pimientos asados que baña los medallones dorados y crujientes de la plancha.",
+    "ingredients": [
+      "600 g de carne vacuna picada fresca (proporción 80/20, preferentemente aguja o rosbif)",
+      "2 panes de hamburguesa grandes tipo brioche o pan blanco tradicional de semillas",
+      "200 g de queso cheddar curado (sharp cheddar), rallado grueso a mano",
+      "100 g de queso crema (tipo Philadelphia), a temperatura ambiente",
+      "⅓ taza (80 g) de mayonesa de buena calidad",
+      "½ taza (80 g) de pimientos morrones rojos en conserva o asados (pimentos), escurridos y finamente picados",
+      "1 cucharadita de salsa picante (estilo Tabasco, Sriracha o salsa de chile local)",
+      "1 taza de chili con carne espeso tradicional (sin frijoles, solo carne vacuna especiada)",
+      "1 taza de ensalada coleslaw clásica (repollo blanco y morado en juliana microscópica con aliño suave)",
+      "½ cebolla blanca, picada en cubitos bien pequeños",
+      "2 cucharadas de mostaza amarilla clásica",
+      "4 rodajas de pepinillos agridulces encurtidos ondulados (crinkle-cut pickles)",
+      "1 cucharada de manteca o grasa vacuna para tostar el pan y la plancha",
+      "Sal kosher y pimienta negra recién molida a gusto",
+      "2 palillos largos de madera para brocheta"
+    ],
+    "instructions": [
+      "Elaborar el Pimento Cheese casero: En un cuenco mediano, integrar el queso crema ablandado con la mayonesa y la salsa picante hasta lograr una base lisa y homogénea. Incorporar el queso cheddar recién rallado y los pimientos morrones picados finos. Mezclar con espátula con movimientos envolventes para no desarmar los granos de cheddar. Probar, rectificar de pimienta y reservar a temperatura ambiente para que funda con facilidad.",
+      "Porcionar los medallones: Dividir la carne picada en 4 porciones iguales de 150 g cada una (1/3 de libra). Formar bolas sueltas sin amasar ni compactar el centro para preservar la terneza y el aire entre las fibras de carne.",
+      "Tostar los panes: Untar las caras internas de los panes con un velo sutil de manteca y dorarlas sobre la plancha a fuego medio hasta que adquieran una textura crocante que resista los jugos del relleno. Retirar y reservar.",
+      "Cocinar los medallones smash: Subir la plancha a temperatura alta. Colocar las bolas de carne espaciadas y salpimentar generosamente con sal kosher. Con una espátula ancha y pesada, aplastar con firmeza cada porción hasta formar medallones finos de bordes irregulares y dentados. Cocinar sin mover durante 2 a 3 minutos hasta que los bordes estén profundamente tostados y crocantes.",
+      "Fundir el pimento cheese: Raspar con la espátula bien pegada a la plancha para conservar la costra dorada y dar vuelta los medallones. De inmediato, colocar sobre cada medallón caliente una generosa cucharada colmada de pimento cheese. Cubrir con una campana de cocina o tapa metálica con unas gotas de agua al costado para generar vapor durante 1 minuto, hasta que el queso se derrita de forma untuosa y sedosa envolviendo la carne.",
+      "Montar la Big Block estilo Carolina: Sobre la base del pan caliente, disponer una base de cebolla blanca picada, un toque generoso de mostaza amarilla y una cucharada colmada de chili de carne caliente. Apilar dos medallones con su pimento cheese fundido chorreando por los costados. Coronar con una abundante porción de ensalada coleslaw bien escurrida y cerrar con la tapa del pan.",
+      "Emplatado y servicio: Atravesar la hamburguesa desde el centro superior con un palillo de madera largo ensartando dos rodajas gruesas de pepinillo agridulce. Servir de inmediato mientras el queso está en su punto máximo de fundición."
+    ],
+    "notes": "En mi cocina siempre insisto en que el secreto de un pimento cheese extraordinario es rallar el bloque de queso cheddar a mano en el momento: los quesos ya rallados del supermercado vienen recubiertos de almidones y celulosa que impiden que se funda de manera cremosa y uniforme. Para el armado, el orden importa: la mostaza y la cebolla en la base despiertan el paladar, mientras que el coleslaw frío y crujiente en la parte superior equilibra de manera impecable la untuosidad caliente y contundente del chili y el queso fundido."
   }
 ]
