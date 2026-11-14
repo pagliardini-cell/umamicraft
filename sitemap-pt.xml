@@ -3822,4 +3822,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://umamicraft.vercel.app/receta/fischrouladen-rollos-de-col-rellenos-de-bacalao-alemania?lang=pt</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://umamicraft.vercel.app/receta/rosenkohl-coles-de-bruselas-asadas-con-salchicha-ahumada-alemania?lang=pt</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://umamicraft.vercel.app/receta/kurbis-maultaschen-pasta-rellena-de-calabaza-con-castanas-y-salvia-alemania?lang=pt</loc>
+    <lastmod>2026-11-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>
