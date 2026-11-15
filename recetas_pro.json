@@ -119,7 +119,7 @@
     "id": 2,
     "title": "Panqueque de Dulce de Leche (Argentina)",
     "country": "Argentina",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "Argentina",
       "Postre",
@@ -451,7 +451,7 @@
     "id": 6,
     "title": "Sándwich Vietnamita con Panceta de Cerdo Bánh Mì (Vietnam)",
     "country": "Vietnam",
-    "category": "Sándwiches / Burgers",
+    "category": "Hamburguesas",
     "tags": [
       "Vietnam",
       "Cerdo",
@@ -526,7 +526,7 @@
     "id": 7,
     "title": "Panceta de Cerdo para Bánh Mì (Vietnam)",
     "country": "Vietnam",
-    "category": "Cerdo",
+    "category": "Carnes",
     "tags": [
       "Vietnam",
       "Cerdo",
@@ -596,7 +596,7 @@
     "id": 8,
     "title": "Hummus Negro (Palestina)",
     "country": "Palestina",
-    "category": "Tapas / Picoteo",
+    "category": "Entradas",
     "tags": [
       "Palestina",
       "Medio Oriente",
@@ -667,7 +667,7 @@
     "id": 9,
     "title": "Tahini Negro (Palestina)",
     "country": "Palestina",
-    "category": "Salsas y Aderezos",
+    "category": "Salsas & Condimentos",
     "tags": [
       "Palestina",
       "Medio Oriente",
@@ -725,7 +725,7 @@
     "id": 10,
     "title": "Repollitos de Bruselas Crujientes con Salsa Asiática (Vietnam)",
     "country": "Vietnam",
-    "category": "Guarniciones",
+    "category": "Postres & Dulces",
     "tags": [
       "Vietnam",
       "Verduras",
@@ -828,7 +828,7 @@
     "id": 11,
     "title": "Yemas de Huevo Curadas (Argentina)",
     "country": "Receta de Autor (Argentina)",
-    "category": "Conservas / Embutidos",
+    "category": "Desayunos & Huevos",
     "tags": [
       "Huevos",
       "Umami",
@@ -979,7 +979,7 @@
     "id": 13,
     "title": "Fideos Udon Caseros de Iron Chef Morimoto (Japón)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Pastas",
     "tags": [
       "Japon",
       "Fideos",
@@ -1076,7 +1076,7 @@
     "id": 14,
     "title": "Flammkuchen — Pizza Alemana (Alemania)",
     "country": "Alemania",
-    "category": "Pizzas / Tartas / Masas",
+    "category": "Pizzas & Tartas",
     "tags": [
       "Alemania",
       "Francia",
@@ -1164,7 +1164,7 @@
     "id": 15,
     "title": "Salsa Big Mac — Receta Real (Estados Unidos)",
     "country": "Estados Unidos",
-    "category": "Salsas y Aderezos",
+    "category": "Hamburguesas",
     "tags": [
       "Estados Unidos",
       "EEUU",
@@ -1238,7 +1238,7 @@
     "id": 16,
     "title": "Alitas de Pollo a las 5 Especias Chinas (Argentina)",
     "country": "Receta de Autor (Argentina)",
-    "category": "Pollo / Aves",
+    "category": "Pollo & Aves",
     "tags": [
       "Pollo",
       "Alitas",
@@ -1335,7 +1335,7 @@
     "id": 17,
     "title": "Arroz con Pollo Hainanés (Singapur)",
     "country": "Singapur",
-    "category": "Pollo / Aves",
+    "category": "Arroces & Risottos",
     "tags": [
       "Singapur",
       "China",
@@ -1578,7 +1578,7 @@
     "id": 19,
     "title": "Salsa de Chile Dulce Casera — Nam Chim Kai (Tailandia)",
     "country": "Tailandia",
-    "category": "Salsas y Aderezos",
+    "category": "Postres & Dulces",
     "tags": [
       "Tailandia",
       "Salsa",
@@ -1739,7 +1739,7 @@
     "id": 21,
     "title": "Pollo al Mattone — Pollo al Ladrillo (Italia)",
     "country": "Italia",
-    "category": "Pollo / Aves",
+    "category": "Pollo & Aves",
     "tags": [
       "Italia",
       "Toscana",
@@ -1913,7 +1913,7 @@
     "id": 23,
     "title": "Roscas de Anís — Rosquillas de Semana Santa (España)",
     "country": "España",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "España",
       "Postre",
@@ -2066,7 +2066,7 @@
     "id": 25,
     "title": "Pan Griego de Pita Casero (Grecia)",
     "country": "Grecia",
-    "category": "Panadería",
+    "category": "Panadería & Masas",
     "tags": [
       "Grecia",
       "Pan",
@@ -2154,7 +2154,7 @@
     "id": 26,
     "title": "Murgh Makhani — Pollo a la Manteca Estilo Tandoori (India)",
     "country": "India",
-    "category": "Pollo / Aves",
+    "category": "Pollo & Aves",
     "tags": [
       "India",
       "Pollo",
@@ -2247,7 +2247,7 @@
     "id": 27,
     "title": "Arroz Bukhari con Pollo (Afganistán)",
     "country": "Afganistán",
-    "category": "Pollo / Aves",
+    "category": "Arroces & Risottos",
     "tags": [
       "Afganistan",
       "Medio Oriente",
@@ -2350,7 +2350,7 @@
     "id": 28,
     "title": "Lahmacun — Lehmeyún (Turquía)",
     "country": "Turquía",
-    "category": "Pizzas / Tartas / Masas",
+    "category": "Carnes",
     "tags": [
       "Turquia",
       "Armenia",
@@ -2544,7 +2544,7 @@
     "id": 30,
     "title": "Borsch — Sopa de Remolacha (Rusia)",
     "country": "Rusia",
-    "category": "Sopas y Potajes",
+    "category": "Pollo & Aves",
     "tags": [
       "Rusia",
       "Sopa",
@@ -2742,7 +2742,7 @@
     "id": 32,
     "title": "Cocktail de Pomelo y Romero (Estados Unidos)",
     "country": "Estados Unidos",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "tags": [
       "Tragos",
       "Cocktail",
@@ -2820,7 +2820,7 @@
     "id": 33,
     "title": "Pollo a la Kiev (Rusia)",
     "country": "Rusia",
-    "category": "Pollo / Aves",
+    "category": "Arroces & Risottos",
     "tags": [
       "Rusia",
       "Ucrania",
@@ -3053,7 +3053,7 @@
     "id": 36,
     "title": "Matuffi — Polenta en Capas con Ragú y Hongos (Italia)",
     "country": "Italia",
-    "category": "Arroces y Risottos",
+    "category": "Arroces & Risottos",
     "tags": [
       "Italia",
       "Lucca",
@@ -3155,7 +3155,7 @@
     "id": 37,
     "title": "Garmugia — Sopa Toscana de Primavera (Italia)",
     "country": "Italia",
-    "category": "Sopas y Potajes",
+    "category": "Sopas & Caldos",
     "tags": [
       "Italia",
       "Lucca",
@@ -3235,7 +3235,7 @@
     "id": 38,
     "title": "Crostini di Fegatini — Crostini Toscanos de Hígado (Italia)",
     "country": "Italia",
-    "category": "Tapas / Picoteo",
+    "category": "Pollo & Aves",
     "tags": [
       "Italia",
       "Toscana",
@@ -3540,7 +3540,7 @@
     "id": 42,
     "title": "Pollo Especiado con Lentejas, Espinacas y Yogur (Reino Unido)",
     "country": "Reino Unido",
-    "category": "Pollo / Aves",
+    "category": "Pollo & Aves",
     "tags": [
       "Jamie Oliver",
       "15 minutes meals",
@@ -3645,7 +3645,7 @@
     "id": 43,
     "title": "Pollo Griego con Cuscús Primaveral y Tzatziki (Grecia)",
     "country": "Grecia",
-    "category": "Pollo / Aves",
+    "category": "Pollo & Aves",
     "tags": [
       "Grecia",
       "Jamie Oliver",
@@ -3756,7 +3756,7 @@
     "id": 44,
     "title": "Gỏi Cuốn — Rollitos Vietnamitas de Verano (Vietnam)",
     "country": "Vietnam",
-    "category": "Pescados y Mariscos",
+    "category": "Pescados & Mariscos",
     "tags": [
       "Vietnam",
       "Langostinos",
@@ -3986,7 +3986,7 @@
     "id": 47,
     "title": "Moo Tod Kratiem Prik Thai — Cerdo Frito Tailandés al Ajo y Pimienta (Tailandia)",
     "country": "Tailandia",
-    "category": "Cerdo",
+    "category": "Carnes",
     "tags": [
       "Tailandia",
       "Cerdo",
@@ -4144,7 +4144,7 @@
     "id": 49,
     "title": "Bagna Cauda Piamontesa (Italia)",
     "country": "Italia",
-    "category": "Salsas y Aderezos",
+    "category": "Salsas & Condimentos",
     "tags": [
       "Italia",
       "Piamonte",
@@ -4212,7 +4212,7 @@
     "id": 50,
     "title": "Bindaetteok — Tortilla Coreana de Poroto Mung y Kimchi (Corea del Sur)",
     "country": "Corea del Sur",
-    "category": "Tapas / Picoteo",
+    "category": "Conservas & Lácteos",
     "tags": [
       "Corea",
       "Tortilla",
@@ -4293,7 +4293,7 @@
     "id": 51,
     "title": "Spritz Veneziano (Italia)",
     "country": "Italia",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "tags": [
       "Italia",
       "Venecia",
@@ -4361,7 +4361,7 @@
     "id": 52,
     "title": "Tom Yum Kung — Sopa Tailandesa Picante de Camarones (Tailandia)",
     "country": "Tailandia",
-    "category": "Sopas y Potajes",
+    "category": "Pescados & Mariscos",
     "tags": [
       "Tailandia",
       "Sopa",
@@ -4457,7 +4457,7 @@
     "id": 53,
     "title": "Ceviche Peruano Clásico con Camarones (Perú)",
     "country": "Perú",
-    "category": "Pescados y Mariscos",
+    "category": "Pescados & Mariscos",
     "tags": [
       "Peru",
       "Pescado",
@@ -4714,7 +4714,7 @@
     "id": 56,
     "title": "Rollos de Berenjena Asada con Tres Rellenos (Armenia)",
     "country": "Armenia",
-    "category": "Tapas / Picoteo",
+    "category": "Entradas",
     "tags": [
       "Armenia",
       "Berenjena",
@@ -4822,7 +4822,7 @@
     "id": 57,
     "title": "Chipá, Chipa So'o, Chipa Guasú, Sopa Paraguaya y Borí-Borí (Paraguay)",
     "country": "Paraguay",
-    "category": "Panadería",
+    "category": "Panadería & Masas",
     "tags": [
       "Paraguay",
       "Argentina",
@@ -5009,7 +5009,7 @@
     "id": 58,
     "title": "Pan Pita Tradicional (Líbano / Siria)",
     "country": "Líbano / Siria",
-    "category": "Panadería",
+    "category": "Panadería & Masas",
     "tags": [
       "Arabe",
       "Medio Oriente",
@@ -5195,7 +5195,7 @@
     "id": 60,
     "title": "Pancakes Básicos Esponjosos (Estados Unidos)",
     "country": "Estados Unidos",
-    "category": "Huevos / Desayunos",
+    "category": "Postres & Dulces",
     "tags": [
       "EEUU",
       "Pancakes",
@@ -5284,7 +5284,7 @@
     "id": 61,
     "title": "Guiso de Lentejas Criollo (Argentina)",
     "country": "Receta de Autor (Argentina)",
-    "category": "Sopas y Potajes",
+    "category": "Sopas & Caldos",
     "tags": [
       "Argentina",
       "Carne",
@@ -5382,7 +5382,7 @@
     "id": 62,
     "title": "Pasta de Ají Amarillo Casera (Perú)",
     "country": "Perú",
-    "category": "Salsas y Aderezos",
+    "category": "Pastas",
     "tags": [
       "Perú",
       "Chile",
@@ -5448,7 +5448,7 @@
     "id": 63,
     "title": "Sake Bomba — Sake Bomb (Japón)",
     "country": "Japón",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "tags": [
       "Japon",
       "Cerveza",
@@ -5515,7 +5515,7 @@
     "id": 64,
     "title": "Risotto con Ragú de Osobuco a la Milanesa (Italia)",
     "country": "Italia",
-    "category": "Arroces y Risottos",
+    "category": "Arroces & Risottos",
     "tags": [
       "Italia",
       "Milan",
@@ -5624,7 +5624,7 @@
     "id": 65,
     "title": "Huevos Tototes Pasados por Agua con Guarniciones (Argentina)",
     "country": "Receta de Autor (Argentina)",
-    "category": "Huevos / Desayunos",
+    "category": "Desayunos & Huevos",
     "tags": [
       "Huevos",
       "Desayuno",
@@ -5705,7 +5705,7 @@
     "id": 66,
     "title": "Niúròu Miàn — Sopa de Fideos con Carne Braseada (Taiwán)",
     "country": "Taiwán",
-    "category": "Sopas y Potajes",
+    "category": "Pastas",
     "tags": [
       "Taiwan",
       "China",
@@ -5806,7 +5806,7 @@
     "id": 67,
     "title": "Pollo al Latte — Pollo a la Leche con Salvia y Limón (Italia)",
     "country": "Italia",
-    "category": "Pollo / Aves",
+    "category": "Pollo & Aves",
     "tags": [
       "Italia",
       "Toscana",
@@ -5957,7 +5957,7 @@
     "id": 69,
     "title": "Mandu — Dumplings Coreanos Fritos (Gunmandu) y en Sopa (Manduguk) (Corea del Sur)",
     "country": "Corea del Sur",
-    "category": "Pastas",
+    "category": "Empanadas",
     "tags": [
       "Corea",
       "Carne",
@@ -6081,7 +6081,7 @@
     "id": 70,
     "title": "Gujeolpan — Plato Real de Nueve Delicias con Crepes (Corea del Sur)",
     "country": "Corea del Sur",
-    "category": "Tapas / Picoteo",
+    "category": "Panadería & Masas",
     "tags": [
       "Corea",
       "Carne",
@@ -6178,7 +6178,7 @@
     "id": 71,
     "title": "Yukgaejang 육개장 — Sopa Picante de Ternera Desmechada (Corea del Sur)",
     "country": "Corea del Sur",
-    "category": "Sopas y Potajes",
+    "category": "Sopas & Caldos",
     "tags": [
       "Corea",
       "Carne",
@@ -6254,7 +6254,7 @@
     "id": 72,
     "title": "Cebollas Moradas Encurtidas al Estilo Yucatán (México)",
     "country": "México",
-    "category": "Conservas / Embutidos",
+    "category": "Conservas & Lácteos",
     "tags": [
       "México",
       "Yucatan",
@@ -6411,7 +6411,7 @@
     "id": 74,
     "title": "Kaki Furai — Ostras Crocantes Rebozadas en Panko (Japón)",
     "country": "Japón",
-    "category": "Pescados y Mariscos",
+    "category": "Pescados & Mariscos",
     "tags": [
       "Japon",
       "Ostras",
@@ -6485,7 +6485,7 @@
     "id": 75,
     "title": "Khao Tom Moo — Sopa Tailandesa de Arroz Jazmín y Cerdo (Tailandia)",
     "country": "Tailandia",
-    "category": "Sopas y Potajes",
+    "category": "Arroces & Risottos",
     "tags": [
       "Tailandia",
       "Arroz",
@@ -6566,7 +6566,7 @@
     "id": 76,
     "title": "Bún Chả — Albóndigas de Cerdo a las Brasas con Fideos de Arroz (Vietnam)",
     "country": "Vietnam",
-    "category": "Cerdo",
+    "category": "Arroces & Risottos",
     "tags": [
       "Vietnam",
       "Hanoi",
@@ -6685,7 +6685,7 @@
     "id": 77,
     "title": "Pechugas de Pollo con Parmesano, Tomillo y Jamón Crujiente (Italia)",
     "country": "Italia",
-    "category": "Pollo / Aves",
+    "category": "Pollo & Aves",
     "tags": [
       "Italia",
       "Pollo",
@@ -6763,7 +6763,7 @@
     "id": 78,
     "title": "Pollo Corona Relleno de Jalapeño y Envuelto en Panceta (Estados Unidos)",
     "country": "Estados Unidos",
-    "category": "Pollo / Aves",
+    "category": "Pollo & Aves",
     "tags": [
       "EEUU",
       "Tex-Mex",
@@ -6966,7 +6966,7 @@
     "id": 80,
     "title": "Arroz Pilaf al Horno con Cebolla y Morrón (India)",
     "country": "India",
-    "category": "Arroces y Risottos",
+    "category": "Arroces & Risottos",
     "tags": [
       "India",
       "Medio Oriente",
@@ -7116,7 +7116,7 @@
     "id": 82,
     "title": "Licuado de Banana a la Pimienta de Jamaica (Caribe)",
     "country": "Caribe",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "tags": [
       "Cocktails & Tragos",
       "Bebidas",
@@ -7185,7 +7185,7 @@
     "id": 83,
     "title": "Tom Yum Goong (Tailandia)",
     "country": "Tailandia",
-    "category": "Sopas y Potajes",
+    "category": "Pescados & Mariscos",
     "tags": [
       "Curry",
       "Sopa",
@@ -7275,7 +7275,7 @@
     "id": 84,
     "title": "Gin Tonic Perfecto (Reino Unido)",
     "country": "Reino Unido",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "tags": [
       "Cocktail",
       "Gin",
@@ -7346,7 +7346,7 @@
     "id": 85,
     "title": "Bra (Argentina)",
     "country": "Argentina",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "tags": [
       "Bra",
       "Cocktail",
@@ -7414,7 +7414,7 @@
     "id": 86,
     "title": "Mojito (Cuba)",
     "country": "Cuba",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "tags": [
       "Cocktail",
       "Cuba",
@@ -7512,7 +7512,7 @@
     "id": 87,
     "title": "L.P. (Argentina)",
     "country": "Receta de Autor (Argentina)",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "tags": [
       "Argentina",
       "Cocktail",
@@ -7584,7 +7584,7 @@
     "id": 88,
     "title": "Tahini Casero (Medio Oriente)",
     "country": "Medio Oriente",
-    "category": "Salsas y Aderezos",
+    "category": "Salsas & Condimentos",
     "tags": [
       "Arabe",
       "Sésamo",
@@ -7646,7 +7646,7 @@
     "id": 89,
     "title": "Salmón al Horno con Salsa Verde (Italia)",
     "country": "Italia",
-    "category": "Pescados y Mariscos",
+    "category": "Pescados & Mariscos",
     "tags": [
       "Italia",
       "Pescado",
@@ -7767,7 +7767,7 @@
     "id": 90,
     "title": "Crema con Frutos del Bosque al Champagne (Reino Unido)",
     "country": "Reino Unido",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "Crema",
       "Inglaterra",
@@ -7843,7 +7843,7 @@
     "id": 91,
     "title": "Samosas de Verduras al Curry (India)",
     "country": "India",
-    "category": "Tapas / Picoteo",
+    "category": "Empanadas",
     "tags": [
       "Arvejas",
       "Fritura",
@@ -7948,7 +7948,7 @@
     "id": 92,
     "title": "Hiroshimana Onigiri - Técnica de Arroz Grano Largo (Japón)",
     "country": "Japón",
-    "category": "Arroces y Risottos",
+    "category": "Panadería & Masas",
     "tags": [
       "Arroz",
       "Bento",
@@ -8025,7 +8025,7 @@
     "id": 93,
     "title": "Beer Float (Estados Unidos)",
     "country": "Estados Unidos",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "tags": [
       "Cocktails & Tragos",
       "Tragos",
@@ -8083,7 +8083,7 @@
     "id": 94,
     "title": "Black Velvet (Reino Unido)",
     "country": "Reino Unido",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "tags": [
       "Cerveza",
       "Champagne",
@@ -8224,7 +8224,7 @@
     "id": 96,
     "title": "Black Russian (Bélgica)",
     "country": "Bélgica",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "tags": [
       "Cocktail",
       "Hielo",
@@ -8286,7 +8286,7 @@
     "id": 97,
     "title": "Electric Lemonade (Estados Unidos)",
     "country": "Estados Unidos",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "tags": [
       "Blue Curacao",
       "Cocktail",
@@ -8378,7 +8378,7 @@
     "id": 98,
     "title": "White Russian (Bélgica)",
     "country": "Bélgica",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "tags": [
       "Cocktail",
       "Crema",
@@ -8520,7 +8520,7 @@
     "id": 100,
     "title": "Pollo a la Plancha con Miso (Japón)",
     "country": "Japón",
-    "category": "Pollo / Aves",
+    "category": "Pollo & Aves",
     "tags": [
       "Bento",
       "Japon",
@@ -8600,7 +8600,7 @@
     "id": 101,
     "title": "Mayonesa Japonesa Tipo Kewpie (Japón)",
     "country": "Japón",
-    "category": "Salsas y Aderezos",
+    "category": "Salsas & Condimentos",
     "tags": [
       "Huevos",
       "Japon",
@@ -8674,7 +8674,7 @@
     "id": 102,
     "title": "Tori no Kara-age — Pollo Frito Japonés (Japón)",
     "country": "Japón",
-    "category": "Pollo / Aves",
+    "category": "Pollo & Aves",
     "tags": [
       "Bento",
       "Fritura",
@@ -8753,7 +8753,7 @@
     "id": 103,
     "title": "Tsukune al Yuzu — Brochetas de Pollo (Japón)",
     "country": "Japón",
-    "category": "Pollo / Aves",
+    "category": "Pollo & Aves",
     "tags": [
       "Bento",
       "Japon",
@@ -8894,7 +8894,7 @@
     "id": 105,
     "title": "Onigiri Clásico / Omusubi (Japón)",
     "country": "Japón",
-    "category": "Arroces y Risottos",
+    "category": "Arroces & Risottos",
     "tags": [
       "Algas Nori",
       "Arroz",
@@ -8968,7 +8968,7 @@
     "id": 106,
     "title": "Buffalo Wings — Estilo Hooters y Estilo TGI Friday's (Estados Unidos)",
     "country": "Estados Unidos",
-    "category": "Pollo / Aves",
+    "category": "Pollo & Aves",
     "tags": [
       "Alitas",
       "Apio",
@@ -9087,7 +9087,7 @@
     "id": 107,
     "title": "Bananas Foster Flambeadas al Ron (Estados Unidos)",
     "country": "Estados Unidos",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "Azucar",
       "Banana",
@@ -9163,7 +9163,7 @@
     "id": 108,
     "title": "Panuchos Yucatecos Completos (México)",
     "country": "México",
-    "category": "Pizzas / Tartas / Masas",
+    "category": "Pollo & Aves",
     "tags": [
       "Maiz",
       "Mixtamal",
@@ -9442,7 +9442,7 @@
     "id": 110,
     "title": "Tortillas de Maíz Nixtamalizado desde Cero (México)",
     "country": "México",
-    "category": "Panadería",
+    "category": "Panadería & Masas",
     "tags": [
       "Maiz",
       "México",
@@ -9540,7 +9540,7 @@
     "id": 111,
     "title": "Alitas de Pollo Glaseadas con Miel y Sésamo a la Parrilla (Fusión)",
     "country": "Fusión",
-    "category": "Pollo / Aves",
+    "category": "Pollo & Aves",
     "tags": [
       "Alitas",
       "Miel",
@@ -9628,7 +9628,7 @@
     "id": 112,
     "title": "Alitas de Pollo Caramelizadas con Salsa de Miel y Soja (Argentina)",
     "country": "Receta de Autor (Argentina)",
-    "category": "Pollo / Aves",
+    "category": "Pollo & Aves",
     "tags": [
       "Alitas",
       "Miel",
@@ -9710,7 +9710,7 @@
     "id": 113,
     "title": "Lomo de Cerdo Asado al Hinojo con Cebollas Rojas y Papas al Aceto Balsámico (Reino Unido)",
     "country": "Reino Unido",
-    "category": "Cerdo",
+    "category": "Carnes",
     "tags": [
       "Balsamico",
       "Cerdo",
@@ -9828,7 +9828,7 @@
     "id": 114,
     "title": "Caracú Asado con Ensalada de Perejil y Alcaparras — St. John (Reino Unido)",
     "country": "Reino Unido",
-    "category": "Carnes",
+    "category": "Ensaladas",
     "tags": [
       "Caracú",
       "Inglaterra",
@@ -9904,7 +9904,7 @@
     "id": 115,
     "title": "Guriltai Shul — Sopa Tradicional de Cordero y Fideos Caseros (Mongolia)",
     "country": "Mongolia",
-    "category": "Sopas y Potajes",
+    "category": "Pastas",
     "tags": [
       "Carne",
       "Fideos",
@@ -10090,7 +10090,7 @@
     "id": 117,
     "title": "Tostadas Francesas Estilo Dona con Salsa de Cerezas (Francia)",
     "country": "Francia",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "Dulces",
       "Francia",
@@ -10173,7 +10173,7 @@
     "id": 118,
     "title": "Risotto al Limón y Romero de Anna Del Conte (Italia)",
     "country": "Italia",
-    "category": "Arroces y Risottos",
+    "category": "Arroces & Risottos",
     "tags": [
       "Arroz",
       "Italia",
@@ -10258,7 +10258,7 @@
     "id": 119,
     "title": "Costillas de Cerdo (Ribs) y Muslos de Pollo Glaseados con Jarabe de Maple (Fusión)",
     "country": "Fusión",
-    "category": "Cerdo",
+    "category": "Pollo & Aves",
     "tags": [
       "Cerdo",
       "Fusion",
@@ -10338,7 +10338,7 @@
     "id": 120,
     "title": "Kebabs (Koftas) de Cordero y Pistachos en Pan Árabe (Medio Oriente)",
     "country": "Medio Oriente",
-    "category": "Carnes",
+    "category": "Panadería & Masas",
     "tags": [
       "Arabe",
       "Cordero",
@@ -10433,7 +10433,7 @@
     "id": 121,
     "title": "Pollo Asado Perfecto de Heston Blumenthal (Reino Unido)",
     "country": "Reino Unido",
-    "category": "Pollo / Aves",
+    "category": "Pollo & Aves",
     "tags": [
       "Heston Blumenthal",
       "Horno",
@@ -10517,7 +10517,7 @@
     "id": 122,
     "title": "Ful Medames — Guiso Faraónico de Habas (Egipto)",
     "country": "Egipto",
-    "category": "Huevos / Desayunos",
+    "category": "Guisos & Platos de Olla",
     "tags": [
       "Egipto",
       "Habas",
@@ -10604,7 +10604,7 @@
     "id": 123,
     "title": "Gran Barbacoa (BBQ) de Cordero, Costillas de Cerdo y Pollo con Adobo Ahumado (Estados Unidos)",
     "country": "Estados Unidos",
-    "category": "Carnes",
+    "category": "Pollo & Aves",
     "tags": [
       "Cordero",
       "Pollo",
@@ -10713,7 +10713,7 @@
     "id": 124,
     "title": "Sopa Cremosa de Morrones Rojos Asados con Mascarpone y Croutons (México)",
     "country": "México",
-    "category": "Sopas y Potajes",
+    "category": "Sopas & Caldos",
     "tags": [
       "Morrones",
       "México",
@@ -10807,7 +10807,7 @@
     "id": 125,
     "title": "Hummus Clásico con Piñones Tostados y Chips de Pita (Medio Oriente)",
     "country": "Medio Oriente",
-    "category": "Salsas y Aderezos",
+    "category": "Salsas & Condimentos",
     "tags": [
       "Ajo",
       "Arabe",
@@ -10891,7 +10891,7 @@
     "id": 126,
     "title": "Baba Ganoush con Berenjena Asada y Garbanzos (Medio Oriente)",
     "country": "Medio Oriente",
-    "category": "Salsas y Aderezos",
+    "category": "Salsas & Condimentos",
     "tags": [
       "Arabe",
       "Berenjena",
@@ -11060,7 +11060,7 @@
     "id": 128,
     "title": "Muhammara (Mahamara) — Pasta de Morrones Ahumados y Nueces (Líbano / Siria)",
     "country": "Líbano / Siria",
-    "category": "Salsas y Aderezos",
+    "category": "Pastas",
     "tags": [
       "Arabe",
       "Morron",
@@ -11133,7 +11133,7 @@
     "id": 129,
     "title": "Trago 3 Estrellas Pirellis!!!! (Argentina)",
     "country": "Receta de Autor (Argentina)",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "tags": [
       "Cocktail",
       "Durazno",
@@ -11208,7 +11208,7 @@
     "id": 130,
     "title": "Arroz con Leche Espumoso Tradicional (Argentina)",
     "country": "Argentina",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "Arroz",
       "Azucar",
@@ -11287,7 +11287,7 @@
     "id": 131,
     "title": "Lentejas con Chorizo y Panceta (España)",
     "country": "España",
-    "category": "Sopas y Potajes",
+    "category": "Sopas & Caldos",
     "tags": [
       "Cerdo",
       "España",
@@ -11431,7 +11431,7 @@
     "id": 133,
     "title": "Paillard de Pollo (Francia)",
     "country": "Francia",
-    "category": "Pollo / Aves",
+    "category": "Pollo & Aves",
     "tags": [
       "Francia",
       "Pollo",
@@ -11520,7 +11520,7 @@
     "id": 134,
     "title": "Pickles Chinos (China)",
     "country": "China",
-    "category": "Conservas / Embutidos",
+    "category": "Pollo & Aves",
     "tags": [
       "China",
       "Pickles",
@@ -11606,7 +11606,7 @@
     "id": 135,
     "title": "Hakusai Asazuke (Japón)",
     "country": "Japón",
-    "category": "Conservas / Embutidos",
+    "category": "Pollo & Aves",
     "tags": [
       "Hakusai",
       "Japón",
@@ -11678,7 +11678,7 @@
     "id": 136,
     "title": "Arroz Frito (China)",
     "country": "China",
-    "category": "Arroces y Risottos",
+    "category": "Arroces & Risottos",
     "tags": [
       "China",
       "Arroz",
@@ -11853,7 +11853,7 @@
     "id": 138,
     "title": "Cerdo Agridulce (China)",
     "country": "China",
-    "category": "Cerdo",
+    "category": "Postres & Dulces",
     "tags": [
       "Cerdo",
       "China",
@@ -11993,7 +11993,7 @@
     "id": 139,
     "title": "Tofu Frito con Sal, Pimienta de Sichuan y Limón (China)",
     "country": "China",
-    "category": "Tapas / Picoteo",
+    "category": "Entradas",
     "tags": [
       "China",
       "Fritura",
@@ -12064,7 +12064,7 @@
     "id": 140,
     "title": "Pato Estofado en Salsa de Soja con Panqueques Mandarín (China)",
     "country": "China",
-    "category": "Pollo / Aves",
+    "category": "Pollo & Aves",
     "tags": [
       "China",
       "Pato",
@@ -12198,7 +12198,7 @@
     "id": 141,
     "title": "Tempura Clásico de Mariscos y Vegetales (Japón)",
     "country": "Japón",
-    "category": "Pescados y Mariscos",
+    "category": "Pescados & Mariscos",
     "tags": [
       "Fritura",
       "Japón",
@@ -12319,7 +12319,7 @@
     "id": 142,
     "title": "Phở Bò Tradicional (Vietnam)",
     "country": "Vietnam",
-    "category": "Sopas y Potajes",
+    "category": "Arroces & Risottos",
     "tags": [
       "Caldo",
       "Carne",
@@ -12437,7 +12437,7 @@
     "id": 143,
     "title": "Tonkotsu Ramen con Cerdo Yakibuta (Japón)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Cerdo",
       "Japón",
@@ -12554,7 +12554,7 @@
     "id": 144,
     "title": "Miso Ramen Rápido (Japón)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Fideos",
       "Japón",
@@ -12650,7 +12650,7 @@
     "id": 145,
     "title": "Caldo Base para Ramen de Larga Cocción (Japón)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Caldo",
       "Japón",
@@ -12730,7 +12730,7 @@
     "id": 146,
     "title": "Fideos Ramen Caseros Desde Cero con Kansui (Japón)",
     "country": "Japón",
-    "category": "Pastas",
+    "category": "Ramen",
     "tags": [
       "Fideos",
       "Japón",
@@ -12816,7 +12816,7 @@
     "id": 147,
     "title": "Kamaboko Casero (Pastel de Pescado al Vapor) (Japón)",
     "country": "Japón",
-    "category": "Pescados y Mariscos",
+    "category": "Ramen",
     "tags": [
       "Japón",
       "Pescado",
@@ -12889,7 +12889,7 @@
     "id": 148,
     "title": "New York Egg Cream (Estados Unidos)",
     "country": "Estados Unidos",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "tags": [
       "Cocktails & Tragos",
       "Bebidas",
@@ -12952,7 +12952,7 @@
     "id": 149,
     "title": "Sopa Crema de Hinojo y Wasabi (Fusión)",
     "country": "Fusión",
-    "category": "Sopas y Potajes",
+    "category": "Sopas & Caldos",
     "tags": [
       "Hinojo",
       "Sopa",
@@ -13093,7 +13093,7 @@
     "id": 151,
     "title": "Myoga no Amazu-zuke (Pickles Agridulces de Myoga) (Japón)",
     "country": "Japón",
-    "category": "Conservas / Embutidos",
+    "category": "Postres & Dulces",
     "tags": [
       "Japón",
       "Myoga",
@@ -13238,7 +13238,7 @@
     "id": 153,
     "title": "Tamagoyaki (Omelette Japonés Enrollado) (Japón)",
     "country": "Japón",
-    "category": "Huevos / Desayunos",
+    "category": "Desayunos & Huevos",
     "tags": [
       "Huevos",
       "Japón",
@@ -13386,7 +13386,7 @@
     "id": 155,
     "title": "Mizutaki (Cazuela de Pollo al Estilo de Fukuoka) (Japón)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Pollo & Aves",
     "tags": [
       "Cocina",
       "Estofado",
@@ -13496,7 +13496,7 @@
     "id": 156,
     "title": "Arroz Basmati con Curry, Dátiles y Castañas de Cajú (India)",
     "country": "India",
-    "category": "Arroces y Risottos",
+    "category": "Arroces & Risottos",
     "tags": [
       "Arroz",
       "Caldo",
@@ -13576,7 +13576,7 @@
     "id": 157,
     "title": "Arroz con Pollo al Curry Rojo (Tailandia)",
     "country": "Tailandia",
-    "category": "Pollo / Aves",
+    "category": "Arroces & Risottos",
     "tags": [
       "Arroz",
       "Pollo",
@@ -13658,7 +13658,7 @@
     "id": 158,
     "title": "Buta no Kakuni — Panceta de Cerdo Braseada (Japón)",
     "country": "Japón",
-    "category": "Cerdo",
+    "category": "Carnes",
     "tags": [
       "Carne",
       "Cerdo",
@@ -13730,7 +13730,7 @@
     "id": 159,
     "title": "Chanfaina Tradicional de Cordero (España)",
     "country": "España",
-    "category": "Carnes",
+    "category": "Guisos & Platos de Olla",
     "tags": [
       "España",
       "Cordero",
@@ -13804,7 +13804,7 @@
     "id": 160,
     "title": "Meshi Sushi — Arroz para Sushi (Japón)",
     "country": "Japón",
-    "category": "Arroces y Risottos",
+    "category": "Arroces & Risottos",
     "tags": [
       "Arroz",
       "Japón",
@@ -13882,7 +13882,7 @@
     "id": 161,
     "title": "Sopa Cremosa de Almejas, Puerros y Papas (Reino Unido)",
     "country": "Reino Unido",
-    "category": "Sopas y Potajes",
+    "category": "Pescados & Mariscos",
     "tags": [
       "Almejas",
       "Inglaterra",
@@ -13971,7 +13971,7 @@
     "id": 162,
     "title": "Ku-Bak de Camarones y Verduras sobre Arroz Crujiente (China)",
     "country": "China",
-    "category": "Arroces y Risottos",
+    "category": "Arroces & Risottos",
     "tags": [
       "Arroz",
       "Camarones",
@@ -14152,7 +14152,7 @@
     "id": 164,
     "title": "Fatay — Empanadas Árabes y Mezclas de Baharat (Líbano / Siria)",
     "country": "Líbano / Siria",
-    "category": "Pizzas / Tartas / Masas",
+    "category": "Empanadas",
     "tags": [
       "Árabe",
       "Carne",
@@ -14254,7 +14254,7 @@
     "id": 165,
     "title": "Sopa Fría de Manzana al Curry (Fusión)",
     "country": "Fusión",
-    "category": "Sopas y Potajes",
+    "category": "Pollo & Aves",
     "tags": [
       "Caldo",
       "Curry",
@@ -14334,7 +14334,7 @@
     "id": 166,
     "title": "Salsa Frita de Ajo, Jengibre y Cebolleta (Fusión)",
     "country": "Fusión",
-    "category": "Salsas y Aderezos",
+    "category": "Salsas & Condimentos",
     "tags": [
       "China",
       "Francia",
@@ -14410,7 +14410,7 @@
     "id": 167,
     "title": "Pan Esponjoso de Ajo y Perejil en Molde (Francia)",
     "country": "Francia",
-    "category": "Panadería",
+    "category": "Panadería & Masas",
     "tags": [
       "Pan",
       "Ajo",
@@ -14563,7 +14563,7 @@
     "id": 169,
     "title": "Almejas con Salsa de Tomate Picante (España)",
     "country": "España",
-    "category": "Pescados y Mariscos",
+    "category": "Pescados & Mariscos",
     "tags": [
       "Almejas",
       "Fusión",
@@ -14652,7 +14652,7 @@
     "id": 170,
     "title": "Mbejú Tradicional (Paraguay)",
     "country": "Paraguay",
-    "category": "Panadería",
+    "category": "Panadería & Masas",
     "tags": [
       "Paraguay",
       "Mbejú",
@@ -14728,7 +14728,7 @@
     "id": 171,
     "title": "Salteado de Hongos Shiitake con Camarones y Huevo (China)",
     "country": "China",
-    "category": "Pescados y Mariscos",
+    "category": "Pescados & Mariscos",
     "tags": [
       "Camarones",
       "China",
@@ -14805,7 +14805,7 @@
     "id": 172,
     "title": "Sopa Ácida y Picante — Suan La Tang (China)",
     "country": "China",
-    "category": "Sopas y Potajes",
+    "category": "Pollo & Aves",
     "tags": [
       "China",
       "Sopa",
@@ -14889,7 +14889,7 @@
     "id": 173,
     "title": "Consomé Cremoso de Maíz con Julienne de Crepes de Hierbas (Argentina)",
     "country": "Argentina",
-    "category": "Sopas y Potajes",
+    "category": "Sopas & Caldos",
     "tags": [
       "Argentina",
       "Choclo",
@@ -14986,7 +14986,7 @@
     "id": 174,
     "title": "Bollito di Manzo con Salsa Verde (Italia)",
     "country": "Italia",
-    "category": "Carnes",
+    "category": "Sopas & Caldos",
     "tags": [
       "Italia",
       "Toscana",
@@ -15106,7 +15106,7 @@
     "id": 175,
     "title": "Dongpo Rou (东坡肉) — Panceta de Cerdo Braseada de Hangzhou (China)",
     "country": "China",
-    "category": "Cerdo",
+    "category": "Carnes",
     "tags": [
       "Cerdo",
       "China",
@@ -15204,7 +15204,7 @@
     "id": 176,
     "title": "Dim Sum de Cerdo Confitado, Puré de Batatas y Salsa de Curry Rojo (Tailandia)",
     "country": "Tailandia",
-    "category": "Cerdo",
+    "category": "Panadería & Masas",
     "tags": [
       "Cerdo",
       "Tailandia",
@@ -15342,7 +15342,7 @@
     "id": 177,
     "title": "Masas Tradicionales para Dim Sum y Char Siu Bao (China)",
     "country": "China",
-    "category": "Pizzas / Tartas / Masas",
+    "category": "Panadería & Masas",
     "tags": [
       "China",
       "Masa",
@@ -15462,7 +15462,7 @@
     "id": 178,
     "title": "Bananas Horneadas al Ron con Chocolate y Ajo Negro (Japón)",
     "country": "Japón",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "Ajo Negro",
       "Banana",
@@ -15538,7 +15538,7 @@
     "id": 179,
     "title": "Manjar del Cielo — Tocino del Cielo Criollo (Argentina)",
     "country": "Argentina",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "Argentina",
       "Postre",
@@ -15606,7 +15606,7 @@
     "id": 180,
     "title": "Oden Tradicional (おでん) — Cazuela Invernal Japonesa (Japón)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Sopas & Caldos",
     "tags": [
       "Japón",
       "Oden",
@@ -15720,7 +15720,7 @@
     "id": 181,
     "title": "Pot-au-Feu (Francia)",
     "country": "Francia",
-    "category": "Sopas y Potajes",
+    "category": "Sopas & Caldos",
     "tags": [
       "Carne",
       "Cocina",
@@ -15835,7 +15835,7 @@
     "id": 182,
     "title": "Puchero Criollo Completo (Argentina)",
     "country": "Argentina",
-    "category": "Sopas y Potajes",
+    "category": "Sopas & Caldos",
     "tags": [
       "Argentina",
       "Cocina",
@@ -15986,7 +15986,7 @@
     "id": 183,
     "title": "Omurice (Japón)",
     "country": "Japón",
-    "category": "Arroces y Risottos",
+    "category": "Arroces & Risottos",
     "tags": [
       "tortilla cremosa",
       "Arroz",
@@ -16124,7 +16124,7 @@
     "id": 184,
     "title": "Yakitori de Cerdo y Hongos (Japón)",
     "country": "Japón",
-    "category": "Cerdo",
+    "category": "Carnes",
     "tags": [
       "Cerdo",
       "Cocina",
@@ -16213,7 +16213,7 @@
     "id": 185,
     "title": "Cómo Hacer Yogur Casero (Argentina)",
     "country": "Receta de Autor (Argentina)",
-    "category": "Huevos / Desayunos",
+    "category": "Postres & Dulces",
     "tags": [
       "Azucar",
       "Leche",
@@ -16309,7 +16309,7 @@
     "id": 186,
     "title": "Pasta de Curry Verde Tailandés (Tailandia)",
     "country": "Tailandia",
-    "category": "Salsas y Aderezos",
+    "category": "Pastas",
     "tags": [
       "Cocina",
       "Curry",
@@ -16388,7 +16388,7 @@
     "id": 187,
     "title": "Guay Tiaw Tom Yam Nuea — Sopa Picante de Carne y Fideos (Tailandia)",
     "country": "Tailandia",
-    "category": "Sopas y Potajes",
+    "category": "Arroces & Risottos",
     "tags": [
       "Arroz",
       "Cocina",
@@ -16477,7 +16477,7 @@
     "id": 188,
     "title": "Haggis Tradicional (Reino Unido)",
     "country": "Reino Unido",
-    "category": "Conservas / Embutidos",
+    "category": "Conservas & Lácteos",
     "tags": [
       "Cocina",
       "Cordero",
@@ -16565,7 +16565,7 @@
     "id": 189,
     "title": "Omelette Arnold Bennett (Reino Unido)",
     "country": "Reino Unido",
-    "category": "Huevos / Desayunos",
+    "category": "Pescados & Mariscos",
     "tags": [
       "Cocina",
       "Huevos",
@@ -16650,7 +16650,7 @@
     "id": 190,
     "title": "Tonkatsu con Salsa Casera (Japón)",
     "country": "Japón",
-    "category": "Cerdo",
+    "category": "Carnes",
     "tags": [
       "Cerdo",
       "Japon",
@@ -16753,7 +16753,7 @@
     "id": 191,
     "title": "Osobuco Braseado con Puré a Dos Colores (Italia)",
     "country": "Italia",
-    "category": "Carnes",
+    "category": "Guarniciones",
     "tags": [
       "Cocina",
       "Italia",
@@ -16879,7 +16879,7 @@
     "id": 192,
     "title": "Pain Perdu Caramelizado (Francia)",
     "country": "Francia",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "Cocina",
       "Francia",
@@ -16958,7 +16958,7 @@
     "id": 193,
     "title": "Tourin a l'Ail — Sopa Francesa de Pan y Ajo a la Grasa de Pato (Francia)",
     "country": "Francia",
-    "category": "Sopas y Potajes",
+    "category": "Panadería & Masas",
     "tags": [
       "Cocina",
       "Francia",
@@ -17105,7 +17105,7 @@
     "id": 195,
     "title": "Salsa Ponzu Casera — ポン酢 (Japón)",
     "country": "Japón",
-    "category": "Salsas y Aderezos",
+    "category": "Salsas & Condimentos",
     "tags": [
       "Cocina",
       "Japon",
@@ -17170,7 +17170,7 @@
     "id": 196,
     "title": "Soupe à l'Oignon Gratinée — Sopa de Cebolla (Francia)",
     "country": "Francia",
-    "category": "Sopas y Potajes",
+    "category": "Sopas & Caldos",
     "tags": [
       "Cebolla",
       "Cocina",
@@ -17266,7 +17266,7 @@
     "id": 197,
     "title": "Pirozhki de Carne al Horno (Rusia)",
     "country": "Rusia",
-    "category": "Pizzas / Tartas / Masas",
+    "category": "Carnes",
     "tags": [
       "Carne",
       "Cocina",
@@ -17358,7 +17358,7 @@
     "id": 198,
     "title": "Kushari — Plato Nacional de Arroz, Lentejas y Pasta (Egipto)",
     "country": "Egipto",
-    "category": "Arroces y Risottos",
+    "category": "Arroces & Risottos",
     "tags": [
       "Arroz",
       "Chile",
@@ -17461,7 +17461,7 @@
     "id": 199,
     "title": "Kimchi Bokkeumbap — Arroz Frito con Kimchi (Corea del Sur)",
     "country": "Corea del Sur",
-    "category": "Arroces y Risottos",
+    "category": "Arroces & Risottos",
     "tags": [
       "Cocina",
       "Corea",
@@ -17557,7 +17557,7 @@
     "id": 200,
     "title": "Arroz Gratinado con Panceta, Crema y Albahaca (Fusión Internacional)",
     "country": "Fusión Internacional",
-    "category": "Arroces y Risottos",
+    "category": "Arroces & Risottos",
     "tags": [
       "Arroz",
       "Cocina",
@@ -17630,7 +17630,7 @@
     "id": 201,
     "title": "Estofado Tucumano de Cerdo con Pelones (Argentina)",
     "country": "Argentina",
-    "category": "Cerdo",
+    "category": "Guisos & Platos de Olla",
     "tags": [
       "Argentina",
       "Cerdo",
@@ -17709,7 +17709,7 @@
     "id": 202,
     "title": "Costillas de Cerdo a la Cerveza Negra con Puerros y Hongos (Argentina)",
     "country": "Receta de Autor (Argentina)",
-    "category": "Cerdo",
+    "category": "Carnes",
     "tags": [
       "Cerdo",
       "Cocina",
@@ -18124,7 +18124,7 @@
     "id": 207,
     "title": "Chilaquiles Gratinados con Pollo (México)",
     "country": "México",
-    "category": "Pollo / Aves",
+    "category": "Pollo & Aves",
     "tags": [
       "México",
       "Chilaquiles",
@@ -18342,7 +18342,7 @@
     "id": 209,
     "title": "Kushikatsu (Japón)",
     "country": "Japón",
-    "category": "Cerdo",
+    "category": "Carnes",
     "tags": [
       "Japon",
       "Kushikatsu",
@@ -18443,7 +18443,7 @@
     "id": 210,
     "title": "Kushi Katsu 串カツ — Estilo Kanto y Kansai (Japón)",
     "country": "Japón",
-    "category": "Cerdo",
+    "category": "Pollo & Aves",
     "tags": [
       "Japon",
       "Kushikatsu",
@@ -18634,7 +18634,7 @@
     "id": 212,
     "title": "Pollo en Salsa de Mostaza Dijon y Miel con Arroz de Almendras (Argentina)",
     "country": "Argentina",
-    "category": "Pollo / Aves",
+    "category": "Arroces & Risottos",
     "tags": [
       "Argentina",
       "Pollo",
@@ -18728,7 +18728,7 @@
     "id": 213,
     "title": "Nikujaga — Estofado Japonés de Carne y Papas (Japón)",
     "country": "Japón",
-    "category": "Carnes",
+    "category": "Guisos & Platos de Olla",
     "tags": [
       "truco cebolla rallada",
       "Dashi",
@@ -18828,7 +18828,7 @@
     "id": 214,
     "title": "Pamplona de Pollo Rellena (España)",
     "country": "España",
-    "category": "Pollo / Aves",
+    "category": "Pollo & Aves",
     "tags": [
       "España",
       "Uruguay",
@@ -18925,7 +18925,7 @@
     "id": 215,
     "title": "Salsa Hoisin Casera (China)",
     "country": "China",
-    "category": "Salsas y Aderezos",
+    "category": "Salsas & Condimentos",
     "tags": [
       "China",
       "Salsa",
@@ -18993,7 +18993,7 @@
     "id": 216,
     "title": "Bobotie — Pastel Especiado de Carne al Curry (Sudáfrica)",
     "country": "Sudáfrica",
-    "category": "Carnes",
+    "category": "Guisos & Platos de Olla",
     "tags": [
       "Sudafrica",
       "Bobotie",
@@ -19091,7 +19091,7 @@
     "id": 217,
     "title": "Mapo Tofu Tradicional de Sichuan (China)",
     "country": "China",
-    "category": "Cerdo",
+    "category": "Carnes",
     "tags": [
       "China",
       "Sichuan",
@@ -19188,7 +19188,7 @@
     "id": 218,
     "title": "Yakitori con Salsa Tare (Japón)",
     "country": "Japón",
-    "category": "Pollo / Aves",
+    "category": "Pollo & Aves",
     "tags": [
       "Japon",
       "Yakitori",
@@ -19355,7 +19355,7 @@
     "id": 220,
     "title": "Ricota Frita con Ensalada de Tomate y Albahaca (Italia)",
     "country": "Italia",
-    "category": "Tapas / Picoteo",
+    "category": "Ensaladas",
     "tags": [
       "Italia",
       "Ricota",
@@ -19441,7 +19441,7 @@
     "id": 221,
     "title": "Gyozas de Cerdo a la Plancha (Japón)",
     "country": "Japón",
-    "category": "Cerdo",
+    "category": "Empanadas",
     "tags": [
       "Japon",
       "Gyozas",
@@ -19528,7 +19528,7 @@
     "id": 222,
     "title": "Spaghetti alla Trapanese — Pesto Siciliano de Almendras y Tomate (Italia)",
     "country": "Italia",
-    "category": "Pastas",
+    "category": "Panadería & Masas",
     "tags": [
       "Italia",
       "Sicilia",
@@ -19605,7 +19605,7 @@
     "id": 223,
     "title": "Empanadas de Carne Cortada a Cuchillo (Argentina)",
     "country": "Receta de Autor (Argentina)",
-    "category": "Pizzas / Tartas / Masas",
+    "category": "Empanadas",
     "tags": [
       "Argentina",
       "Empanadas",
@@ -19696,7 +19696,7 @@
     "id": 224,
     "title": "Sopa de Algas y Huevos en Flor (China)",
     "country": "China",
-    "category": "Sopas y Potajes",
+    "category": "Sopas & Caldos",
     "tags": [
       "China",
       "Sopa",
@@ -19770,7 +19770,7 @@
     "id": 225,
     "title": "Gazpacho Andaluz Tradicional (España)",
     "country": "España",
-    "category": "Sopas y Potajes",
+    "category": "Sopas & Caldos",
     "tags": [
       "España",
       "Andalucia",
@@ -19852,7 +19852,7 @@
     "id": 226,
     "title": "Tostadas Francesas — Pain Perdu (Francia)",
     "country": "Francia",
-    "category": "Huevos / Desayunos",
+    "category": "Postres & Dulces",
     "tags": [
       "Francia",
       "Tostadas Francesas",
@@ -19921,7 +19921,7 @@
     "id": 227,
     "title": "Caldo Oscuro de Carne Asada — Fondo Concentrado (Argentina)",
     "country": "Receta de Autor (Argentina)",
-    "category": "Sopas y Potajes",
+    "category": "Sopas & Caldos",
     "tags": [
       "Caldo",
       "Carne",
@@ -20024,7 +20024,7 @@
     "id": 228,
     "title": "Caldo Aromático de Pollo Asado (Argentina)",
     "country": "Receta de Autor (Argentina)",
-    "category": "Sopas y Potajes",
+    "category": "Pollo & Aves",
     "tags": [
       "Caldo",
       "Pollo",
@@ -20118,7 +20118,7 @@
     "id": 229,
     "title": "Ensaimada Mallorquina (España)",
     "country": "España",
-    "category": "Panadería",
+    "category": "Postres & Dulces",
     "tags": [
       "España",
       "Mallorca",
@@ -20223,7 +20223,7 @@
     "id": 230,
     "title": "Pollo Salteado con Castañas de Cajú — Gai Pad Med Mamuang (Tailandia)",
     "country": "Tailandia",
-    "category": "Pollo / Aves",
+    "category": "Arroces & Risottos",
     "tags": [
       "Tailandia",
       "Pollo",
@@ -20400,7 +20400,7 @@
     "id": 232,
     "title": "Khao Pad (Tailandia)",
     "country": "Tailandia",
-    "category": "Arroces y Risottos",
+    "category": "Arroces & Risottos",
     "tags": [
       "Arroz",
       "Cocina",
@@ -20548,7 +20548,7 @@
     "id": 234,
     "title": "Cómo Hacer Arroz al Estilo Oriental (Japón)",
     "country": "Japón",
-    "category": "Arroces y Risottos",
+    "category": "Arroces & Risottos",
     "tags": [
       "Arroz",
       "China",
@@ -20614,7 +20614,7 @@
     "id": 235,
     "title": "Oyakodon 親子丼 (Japón)",
     "country": "Japón",
-    "category": "Pollo / Aves",
+    "category": "Arroces & Risottos",
     "tags": [
       "Arroz",
       "Carne",
@@ -20776,7 +20776,7 @@
     "id": 237,
     "title": "Salteado de Arroz Basmati y Arroz Salvaje (Fusión)",
     "country": "Fusión",
-    "category": "Arroces y Risottos",
+    "category": "Arroces & Risottos",
     "tags": [
       "Arroz",
       "Cocina",
@@ -20843,7 +20843,7 @@
     "id": 238,
     "title": "Salsa Pesto Genovés (Italia)",
     "country": "Italia",
-    "category": "Salsas y Aderezos",
+    "category": "Salsas & Condimentos",
     "tags": [
       "Cocina",
       "Italia",
@@ -20915,7 +20915,7 @@
     "id": 239,
     "title": "Tiramisú con Cerezas en Copa (Italia)",
     "country": "Italia",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "Cocina",
       "Postre",
@@ -21059,7 +21059,7 @@
     "id": 241,
     "title": "Solomillo de Cerdo Relleno en Masa Filo (Marruecos)",
     "country": "Marruecos",
-    "category": "Cerdo",
+    "category": "Carnes",
     "tags": [
       "Cerdo",
       "Cocina",
@@ -21161,7 +21161,7 @@
     "id": 242,
     "title": "Crêpes Suzette (Francia)",
     "country": "Francia",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "Cocina",
       "Francia",
@@ -21348,7 +21348,7 @@
     "id": 244,
     "title": "Salsa Frita de Ajo, Jengibre y Echalote (Fusión)",
     "country": "Fusión",
-    "category": "Salsas y Aderezos",
+    "category": "Salsas & Condimentos",
     "tags": [
       "Ajo",
       "Cocina",
@@ -21424,7 +21424,7 @@
     "id": 245,
     "title": "Hormigas Suben al Árbol — Ma Yi Shang Shu (China)",
     "country": "China",
-    "category": "Cerdo",
+    "category": "Pastas",
     "tags": [
       "Carne",
       "Cerdo",
@@ -21512,7 +21512,7 @@
     "title": "Passatelli in Brodo (Italia)",
     "original_title": "Passatelli in Brodo (Italia)",
     "country": "Italia",
-    "category": "Sopas y Potajes",
+    "category": "Sopas & Caldos",
     "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGujeByqhcHlfFXy0lE1m5OIdoOsR0_Q0lQNTbBmJZKQr2Gu1bkq97aESVCIIzfxHRlDj9bGSKRzvi-bu9o68-GVXb9X4mtOUtoIYKLLDvDYxu3D19oWlsCCDpAmWoDyeapmeBgq0SU4-X/s1600/fer1.jpg",
     "prep_time": "20 min",
     "cook_time": "5 min",
@@ -21575,7 +21575,7 @@
     "id": 247,
     "title": "Carne con Chile / Chili con Carne (Estados Unidos)",
     "country": "Estados Unidos",
-    "category": "Carnes",
+    "category": "Guisos & Platos de Olla",
     "tags": [
       "Carne",
       "Chile",
@@ -21671,7 +21671,7 @@
     "id": 248,
     "title": "Boeuf Bourguignon con Puré Verde (Francia)",
     "country": "Francia",
-    "category": "Carnes",
+    "category": "Guisos & Platos de Olla",
     "tags": [
       "Carne",
       "Cocina",
@@ -21806,7 +21806,7 @@
     "id": 249,
     "title": "Khuushuur — Empanadas Fritas de Cordero (Mongolia)",
     "country": "Mongolia",
-    "category": "Carnes",
+    "category": "Empanadas",
     "tags": [
       "Cocina",
       "Cordero",
@@ -21896,7 +21896,7 @@
     "id": 250,
     "title": "Alambre Mexicano con Queso Fundido (México)",
     "country": "México",
-    "category": "Carnes",
+    "category": "Pollo & Aves",
     "tags": [
       "Burrito",
       "Cerdo",
@@ -21976,7 +21976,7 @@
     "id": 251,
     "title": "Pollo Frito Estilo Sureño al Buttermilk (Estados Unidos)",
     "country": "Estados Unidos",
-    "category": "Pollo / Aves",
+    "category": "Pollo & Aves",
     "tags": [
       "Cocina",
       "EEUU",
@@ -22074,7 +22074,7 @@
     "id": 252,
     "title": "Wrap de Pollo y Repollo al Estilo Burrito (Argentina)",
     "country": "Receta de Autor (Argentina)",
-    "category": "Sándwiches / Burgers",
+    "category": "Salsas & Condimentos",
     "tags": [
       "Burrito",
       "Mayonesa",
@@ -22151,7 +22151,7 @@
     "id": 253,
     "title": "Blinis Tradicionales (Rusia)",
     "country": "Rusia",
-    "category": "Panadería",
+    "category": "Panadería & Masas",
     "tags": [
       "Cocina",
       "receta",
@@ -22238,7 +22238,7 @@
     "id": 254,
     "title": "Tortas Fritas Criollas (Argentina)",
     "country": "Argentina",
-    "category": "Panadería",
+    "category": "Postres & Dulces",
     "tags": [
       "Argentina",
       "Cocina",
@@ -22311,7 +22311,7 @@
     "id": 255,
     "title": "Empanadas Salteñas Auténticas (Argentina)",
     "country": "Argentina",
-    "category": "Pizzas / Tartas / Masas",
+    "category": "Empanadas",
     "tags": [
       "Argentina",
       "Carne",
@@ -22879,7 +22879,7 @@
     "id": 260,
     "title": "Pad Krapow Gai / Salteado Tailandés con Albahaca y Huevo Frito (Tailandia)",
     "country": "Tailandia",
-    "category": "Pollo / Aves",
+    "category": "Pollo & Aves",
     "tags": [
       "pollo",
       "tailandia",
@@ -23083,7 +23083,7 @@
     "id": 262,
     "title": "Karaage / Pollo Frito Japonés Ultra Crujiente (Japón)",
     "country": "Japón",
-    "category": "Pollo / Aves",
+    "category": "Pollo & Aves",
     "tags": [
       "pollo",
       "japon",
@@ -23188,7 +23188,7 @@
     "id": 263,
     "title": "Moules-Frites / Mejillones a la Crema y Vino Blanco (Bélgica)",
     "country": "Bélgica",
-    "category": "Pescados y Mariscos",
+    "category": "Pescados & Mariscos",
     "tags": [
       "mariscos",
       "mejillones",
@@ -23288,7 +23288,7 @@
     "id": 264,
     "title": "Souvlaki Griego de Cerdo con Pan Pita Casero y Tzatziki (Grecia)",
     "country": "Grecia",
-    "category": "Cerdo",
+    "category": "Panadería & Masas",
     "tags": [
       "cerdo",
       "grecia",
@@ -23411,7 +23411,7 @@
     "id": 265,
     "title": "Satay de Pollo con Salsa de Maní Tostado y Leche de Coco (Indonesia)",
     "country": "Indonesia",
-    "category": "Pollo / Aves",
+    "category": "Pollo & Aves",
     "tags": [
       "pollo",
       "indonesia",
@@ -23538,7 +23538,7 @@
     "id": 266,
     "title": "Feijoada Completa Tradicional (Brasil)",
     "country": "Brasil",
-    "category": "Carnes",
+    "category": "Guisos & Platos de Olla",
     "tags": [
       "carnes",
       "cerdo",
@@ -23648,7 +23648,7 @@
     "id": 267,
     "title": "Milanesa a la Napolitana de Bife de Chorizo al Estilo Bodegón (Argentina)",
     "country": "Argentina",
-    "category": "Carnes",
+    "category": "Guarniciones",
     "tags": [
       "carnes",
       "argentina",
@@ -23761,7 +23761,7 @@
     "id": 268,
     "title": "Pollo al Disco con Pimientos, Vino Blanco y Crema de Verdeo (Argentina)",
     "country": "Argentina",
-    "category": "Pollo / Aves",
+    "category": "Pollo & Aves",
     "tags": [
       "pollo",
       "argentina",
@@ -23878,7 +23878,7 @@
     "id": 269,
     "title": "Pamplona de Pollo a las Brasas (Uruguay)",
     "country": "Uruguay",
-    "category": "Pollo / Aves",
+    "category": "Pollo & Aves",
     "tags": [
       "pollo",
       "uruguay",
@@ -23985,7 +23985,7 @@
     "id": 270,
     "title": "Revuelto Gramajo Tradicional (Uruguay)",
     "country": "Uruguay",
-    "category": "Huevos / Desayunos",
+    "category": "Desayunos & Huevos",
     "tags": [
       "huevos",
       "uruguay",
@@ -24090,7 +24090,7 @@
     "id": 271,
     "title": "Moqueca Baiana de Pescado y Camarones (Brasil)",
     "country": "Brasil",
-    "category": "Pescados y Mariscos",
+    "category": "Pescados & Mariscos",
     "tags": [
       "pescado",
       "camarones",
@@ -24213,7 +24213,7 @@
     "id": 272,
     "title": "Pão de Queijo Tradicional (Brasil)",
     "country": "Brasil",
-    "category": "Panadería",
+    "category": "Panadería & Masas",
     "tags": [
       "panaderia",
       "brasil",
@@ -24314,7 +24314,7 @@
     "id": 273,
     "title": "Empanadas Chilenas de Pino al Horno (Chile)",
     "country": "Chile",
-    "category": "Pizzas / Tartas / Masas",
+    "category": "Empanadas",
     "tags": [
       "empanadas",
       "chile",
@@ -24436,7 +24436,7 @@
     "id": 274,
     "title": "Charquicán con Huevo a Caballo (Chile)",
     "country": "Chile",
-    "category": "Carnes",
+    "category": "Guisos & Platos de Olla",
     "tags": [
       "carnes",
       "chile",
@@ -24556,7 +24556,7 @@
     "id": 275,
     "title": "Silpancho Tradicional Cochabambino (Bolivia)",
     "country": "Bolivia",
-    "category": "Carnes",
+    "category": "Arroces & Risottos",
     "tags": [
       "carnes",
       "bolivia",
@@ -24672,7 +24672,7 @@
     "id": 276,
     "title": "Pique Macho Tradicional (Bolivia)",
     "country": "Bolivia",
-    "category": "Carnes",
+    "category": "Guarniciones",
     "tags": [
       "carnes",
       "bolivia",
@@ -24790,7 +24790,7 @@
     "id": 277,
     "title": "Vori Vori de Pollo Tradicional (Paraguay)",
     "country": "Paraguay",
-    "category": "Sopas y Potajes",
+    "category": "Pollo & Aves",
     "tags": [
       "sopas",
       "paraguay",
@@ -24907,7 +24907,7 @@
     "id": 278,
     "title": "Sopa Paraguaya Tradicional al Horno (Paraguay)",
     "country": "Paraguay",
-    "category": "Panadería",
+    "category": "Panadería & Masas",
     "tags": [
       "panaderia",
       "paraguay",
@@ -25010,7 +25010,7 @@
     "id": 279,
     "title": "Çılbır — Huevos Turcos con Yogur al Ajo y Manteca de Alepo (Turquía)",
     "country": "Turquía",
-    "category": "Huevos / Desayunos",
+    "category": "Desayunos & Huevos",
     "tags": [
       "huevos",
       "turquia",
@@ -25149,7 +25149,7 @@
     "title": "Tamago Sando — Sándwich Japonés de Huevo (Japón)",
     "original_title": "Japanese Egg Salad Sandwich (Tamago Sando)",
     "country": "Japón",
-    "category": "Sándwiches / Burgers",
+    "category": "Hamburguesas",
     "tags": [
       "Sándwich",
       "Huevo",
@@ -25249,7 +25249,7 @@
     "title": "Croque Monsieur Tradicional Gratinado (Francia)",
     "original_title": "Traditional French Croque Monsieur",
     "country": "Francia",
-    "category": "Sándwiches / Burgers",
+    "category": "Hamburguesas",
     "tags": [
       "Sándwich",
       "Francia",
@@ -25342,7 +25342,7 @@
     "title": "Panino con Porchetta y Salsa Verde (Italia)",
     "original_title": "Panino con la Porchetta di Ariccia",
     "country": "Italia",
-    "category": "Sándwiches / Burgers",
+    "category": "Hamburguesas",
     "tags": [
       "Sándwich",
       "Italia",
@@ -25432,7 +25432,7 @@
     "title": "Reuben Sandwich con Pastrami y Chucrut (Estados Unidos)",
     "original_title": "Classic New York Deli Reuben Sandwich",
     "country": "Estados Unidos",
-    "category": "Sándwiches / Burgers",
+    "category": "Hamburguesas",
     "tags": [
       "Sándwich",
       "Estados Unidos",
@@ -25528,7 +25528,7 @@
     "title": "Coronation Chicken Sandwich Tradicional (Reino Unido)",
     "original_title": "Classic British Coronation Chicken Sandwich",
     "country": "Reino Unido",
-    "category": "Sándwiches / Burgers",
+    "category": "Hamburguesas",
     "tags": [
       "Sándwich",
       "Reino Unido",
@@ -25627,7 +25627,7 @@
     "title": "Bocadillo de Calamares con Alioli Casero (España)",
     "original_title": "Bocadillo de Calamares a la Madrileña",
     "country": "España",
-    "category": "Sándwiches / Burgers",
+    "category": "Hamburguesas",
     "tags": [
       "Sándwich",
       "España",
@@ -25733,7 +25733,7 @@
     "title": "Torta Ahogada con Carnitas de Cerdo (México)",
     "original_title": "Torta Ahogada Tradicional Tapatía",
     "country": "México",
-    "category": "Sándwiches / Burgers",
+    "category": "Hamburguesas",
     "tags": [
       "Sándwich",
       "México",
@@ -25839,7 +25839,7 @@
     "title": "Balık Ekmek — Sándwich Turco de Pescado a la Plancha (Turquía)",
     "original_title": "Balık Ekmek (Turkish Fish Sandwich)",
     "country": "Turquía",
-    "category": "Sándwiches / Burgers",
+    "category": "Hamburguesas",
     "tags": [
       "Sándwich",
       "Turquía",
@@ -25942,7 +25942,7 @@
     "title": "Francesinha Tradicional con Salsa de Cerveza (Portugal)",
     "original_title": "Francesinha Tradicional à Moda do Porto",
     "country": "Portugal",
-    "category": "Sándwiches / Burgers",
+    "category": "Hamburguesas",
     "tags": [
       "Sándwich",
       "Portugal",
@@ -26051,7 +26051,7 @@
     "title": "Sándwich de Vacío a la Parrilla con Chimichurri (Argentina)",
     "original_title": "Sándwich de Vacío a las Brasas",
     "country": "Argentina",
-    "category": "Sándwiches / Burgers",
+    "category": "Hamburguesas",
     "tags": [
       "Sándwich",
       "Argentina",
@@ -26158,7 +26158,7 @@
     "title": "Chivito Uruguayo Completo al Pan (Uruguay)",
     "original_title": "Chivito Tradicional Uruguayo al Pan",
     "country": "Uruguay",
-    "category": "Sándwiches / Burgers",
+    "category": "Hamburguesas",
     "tags": [
       "Sándwich",
       "Uruguay",
@@ -26250,7 +26250,7 @@
     "title": "Fischbrötchen con Arenque Marinado y Cebolla (Alemania)",
     "original_title": "Klassisches Fischbrötchen mit Bismarckhering",
     "country": "Alemania",
-    "category": "Sándwiches / Burgers",
+    "category": "Hamburguesas",
     "tags": [
       "Sándwich",
       "Alemania",
@@ -26337,7 +26337,7 @@
     "title": "Vada Pav — Sándwich Callejero de Croqueta de Papa (India)",
     "original_title": "Mumbai Street Style Vada Pav",
     "country": "India",
-    "category": "Sándwiches / Burgers",
+    "category": "Hamburguesas",
     "tags": [
       "Sándwich",
       "India",
@@ -26463,7 +26463,7 @@
     "title": "Sándwich de Kebab a la Parrilla con Cebollas al Sumac y Salsa de Ajo (Medio Oriente)",
     "original_title": "Grilled Kofta Kebab Sandwich with Sumac Onions and Garlic Yogurt Sauce",
     "country": "Medio Oriente",
-    "category": "Sándwiches / Burgers",
+    "category": "Hamburguesas",
     "tags": [
       "Sándwich",
       "Kebab",
@@ -26608,7 +26608,7 @@
     "title": "Sánguche de Chicharrón con Camote Frito y Salsa Criolla (Perú)",
     "original_title": "Sánguche de Chicharrón Tradicional Limeño",
     "country": "Perú",
-    "category": "Sándwiches / Burgers",
+    "category": "Hamburguesas",
     "tags": [
       "Sándwich",
       "Perú",
@@ -26714,7 +26714,7 @@
     "title": "Slider Estilo White Castle al Vapor con Cebolla (Estados Unidos)",
     "original_title": "Copycat White Castle Steamed Onion Sliders",
     "country": "Estados Unidos",
-    "category": "Sándwiches / Burgers",
+    "category": "Hamburguesas",
     "tags": [
       "Hamburguesa",
       "Estados Unidos",
@@ -27123,7 +27123,7 @@
     "title": "Patty Melt Tradicional en Pan de Centeno y Queso Suizo (Estados Unidos)",
     "original_title": "Classic Diner Style Patty Melt",
     "country": "Estados Unidos",
-    "category": "Sándwiches / Burgers",
+    "category": "Hamburguesas",
     "tags": [
       "Hamburguesa",
       "Sándwich",
@@ -27229,7 +27229,7 @@
     "title": "Pollo Frito Estilo Kentucky KFC con 11 Hierbas y Especias (Estados Unidos)",
     "original_title": "Kentucky Fried Chicken 11 Herbs & Spices Secret Blend",
     "country": "Estados Unidos",
-    "category": "Pollo / Aves",
+    "category": "Pollo & Aves",
     "tags": [
       "Pollo",
       "Frito",
@@ -27468,7 +27468,7 @@
     "title": "Tostada de Masa Madre con Queso Cottage, Palta y Huevo (Australia)",
     "original_title": "TOSTADA CON COTTAGE, PALTA Y HUEVO (DESAYUNO O CENA IDEAL)",
     "country": "Australia",
-    "category": "Huevos / Desayunos",
+    "category": "Panadería & Masas",
     "tags": [
       "Tostada",
       "Queso Cottage",
@@ -27573,7 +27573,7 @@
     "title": "Panqueques Esponjosos de Cottage y Avena (Estados Unidos)",
     "original_title": "PANQUEQUES DE COTTAGE Y AVENA (DULCES, ESPONJOSOS Y PROTEICOS)",
     "country": "Estados Unidos",
-    "category": "Huevos / Desayunos",
+    "category": "Postres & Dulces",
     "tags": [
       "Panqueques",
       "Pancakes",
@@ -27681,7 +27681,7 @@
     "title": "Focaccia Genovese Clásica sin Amasado (Italia)",
     "original_title": "Focaccia Genovese (Italia)",
     "country": "Italia",
-    "category": "Panadería",
+    "category": "Panadería & Masas",
     "tags": [
       "Italia",
       "Génova",
@@ -27817,7 +27817,7 @@
     "title": "Sake Casero Tradicional — Licor de Arroz Japonés (Japón)",
     "original_title": "Sake Casero Tradicional — Nihonshu (Japón)",
     "country": "Japón",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "tags": [
       "Cocktails & Tragos",
       "Japón",
@@ -27973,7 +27973,7 @@
     "title": "Salteado «Dos Inviernos» con Cerdo — Liǎng Dōng (China)",
     "original_title": "Liǎng Dōng Chǎo Ròupiàn — 两冬炒肉片 (Jiangnan, China)",
     "country": "China",
-    "category": "Plato Principal",
+    "category": "Carnes",
     "tags": [
       "China",
       "Wok",
@@ -28546,7 +28546,7 @@
     "title": "Necci della Garfagnana con Ricotta y Miel (Italia)",
     "original_title": "Necci della Garfagnana con Ricotta di Pecora — Tradizione di Villa Collemandina (Toscana, Italia)",
     "country": "Italia",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "Italia",
       "Toscana",
@@ -28670,7 +28670,7 @@
     "title": "Pita od Jabuka — Tarta Yugoslava de Manzana y Canela (Balcanes)",
     "original_title": "Prhka Pita od Jabuka / Lenja Pita (Ex Yugoslavia / Balcanes)",
     "country": "Balcanes",
-    "category": "Postres y Dulces",
+    "category": "Pizzas & Tartas",
     "tags": [
       "Balcanes",
       "Yugoslavia",
@@ -28810,7 +28810,7 @@
     "title": "Baechu Kimchi Tradicional — Kimchi Clásico de Col China (Corea del Sur)",
     "original_title": "Tongbaechu Kimchi (통배추김치 - Corea del Sur)",
     "country": "Corea del Sur",
-    "category": "Conservas / Embutidos",
+    "category": "Conservas & Lácteos",
     "tags": [
       "Corea",
       "Kimchi",
@@ -28949,7 +28949,7 @@
     "title": "Kkakdugi — Kimchi Crocante de Nabo Daikon en Cubos (Corea del Sur)",
     "original_title": "Kkakdugi (깍두기 - Corea del Sur)",
     "country": "Corea del Sur",
-    "category": "Conservas / Embutidos",
+    "category": "Conservas & Lácteos",
     "tags": [
       "Corea",
       "Kimchi",
@@ -29064,7 +29064,7 @@
     "title": "Oi Sobagi — Kimchi de Pepino Relleno y Crujiente (Corea del Sur)",
     "original_title": "Oi Sobagi (오이소박이 - Corea del Sur)",
     "country": "Corea del Sur",
-    "category": "Conservas / Embutidos",
+    "category": "Pastas",
     "tags": [
       "Corea",
       "Kimchi",
@@ -29190,7 +29190,7 @@
     "title": "Gulab Jamun — Bocaditos Dorados en Almíbar de Rosas y Cardamomo (India)",
     "original_title": "Gulab Jamun (गुलाब जामुन - India)",
     "country": "India",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "India",
       "Gulab Jamun",
@@ -29322,7 +29322,7 @@
     "title": "Gulab Jamun Tiramisú — Fusión Indo-Italiana en Copas (India)",
     "original_title": "Gulab Jamun Tiramisú — Fusión Indo-Italiana en Copas (India)",
     "country": "India",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "India",
       "Italia",
@@ -29601,7 +29601,7 @@
     "title": "Guinness Chocolate Cake — Torta Irlandesa de Cerveza Negra y Cacao (Irlanda)",
     "original_title": "Guinness Chocolate Cake with Cream Cheese Frosting (Irlanda)",
     "country": "Irlanda",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "Irlanda",
       "Torta",
@@ -29888,7 +29888,7 @@
     "title": "Pastel de Papas (Argentina)",
     "original_title": "Pastel de Papas (Argentina)",
     "country": "Argentina",
-    "category": "Carnes",
+    "category": "Guarniciones",
     "tags": [
       "Argentina",
       "Pastel de Papas",
@@ -30016,7 +30016,7 @@
     "title": "Matambre a la Pizza a la Parrilla (Argentina)",
     "original_title": "Matambre a la Pizza a la Parrilla (Argentina)",
     "country": "Argentina",
-    "category": "Carnes",
+    "category": "Pizzas & Tartas",
     "tags": [
       "Argentina",
       "Matambre",
@@ -30135,7 +30135,7 @@
     "title": "Provoleta a la Parrilla (Argentina)",
     "original_title": "Provoleta a la Parrilla (Argentina)",
     "country": "Argentina",
-    "category": "Tapas / Picoteo",
+    "category": "Entradas",
     "tags": [
       "Argentina",
       "Provoleta",
@@ -30239,7 +30239,7 @@
     "title": "Vitel Toné (Argentina)",
     "original_title": "Vitel Toné (Argentina)",
     "country": "Argentina",
-    "category": "Carnes",
+    "category": "Pescados & Mariscos",
     "tags": [
       "Argentina",
       "Vitel Toné",
@@ -30635,7 +30635,7 @@
     "title": "Choripán de Costanera (Argentina)",
     "original_title": "Choripán de Costanera (Argentina)",
     "country": "Argentina",
-    "category": "Sándwiches / Burgers",
+    "category": "Salsas & Condimentos",
     "tags": [
       "Argentina",
       "Choripán",
@@ -30760,7 +30760,7 @@
     "title": "Alfajores de Maicena (Argentina)",
     "original_title": "Alfajores de Maicena (Argentina)",
     "country": "Argentina",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "Argentina",
       "Alfajores",
@@ -30880,7 +30880,7 @@
     "title": "Pastafrola de Membrillo (Argentina)",
     "original_title": "Pastafrola de Membrillo (Argentina)",
     "country": "Argentina",
-    "category": "Postres y Dulces",
+    "category": "Pizzas & Tartas",
     "tags": [
       "Argentina",
       "Pastafrola",
@@ -31001,7 +31001,7 @@
     "title": "Flan Mixto Porteño (Argentina)",
     "original_title": "Flan Mixto Porteño (Argentina)",
     "country": "Argentina",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "Argentina",
       "Flan",
@@ -31130,7 +31130,7 @@
     "title": "Tacos de Birria de Res con Consomé (México)",
     "original_title": "Tacos de Birria de Res con Consomé (México)",
     "country": "México",
-    "category": "Carnes",
+    "category": "Sopas & Caldos",
     "tags": [
       "México",
       "Birria",
@@ -31270,7 +31270,7 @@
     "title": "Pulpo a la Gallega (España)",
     "original_title": "Pulpo a la Gallega (España)",
     "country": "España",
-    "category": "Pescados y Mariscos",
+    "category": "Pescados & Mariscos",
     "tags": [
       "España",
       "Galicia",
@@ -31384,7 +31384,7 @@
     "title": "Paella Valenciana (España)",
     "original_title": "Paella Valenciana (España)",
     "country": "España",
-    "category": "Arroces y Risottos",
+    "category": "Arroces & Risottos",
     "tags": [
       "España",
       "Valencia",
@@ -31634,7 +31634,7 @@
     "title": "Ceviche Peruano (Perú)",
     "original_title": "Ceviche Peruano (Perú)",
     "country": "Perú",
-    "category": "Pescados y Mariscos",
+    "category": "Pescados & Mariscos",
     "tags": [
       "Perú",
       "Ceviche",
@@ -31747,7 +31747,7 @@
     "title": "Ají de Gallina (Perú)",
     "original_title": "Ají de Gallina (Perú)",
     "country": "Perú",
-    "category": "Pollo / Aves",
+    "category": "Pollo & Aves",
     "tags": [
       "Perú",
       "Ají de Gallina",
@@ -32210,7 +32210,7 @@
     "title": "Tortos de Maíz Asturianos (España)",
     "original_title": "Tortos de Maíz Asturianos (España)",
     "country": "España",
-    "category": "Tapas / Picoteo",
+    "category": "Desayunos & Huevos",
     "tags": [
       "España",
       "Asturias",
@@ -32316,7 +32316,7 @@
     "title": "Arroz con Leche a la Asturiana (España)",
     "original_title": "Arroz con Leche a la Asturiana (España)",
     "country": "España",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "España",
       "Asturias",
@@ -32429,7 +32429,7 @@
     "title": "Frixuelos Asturianos (España)",
     "original_title": "Frixuelos Asturianos (España)",
     "country": "España",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "España",
       "Asturias",
@@ -32541,7 +32541,7 @@
     "title": "Casadielles Asturianas (España)",
     "original_title": "Casadielles Asturianas (España)",
     "country": "España",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "España",
       "Asturias",
@@ -32673,7 +32673,7 @@
     "title": "Guasacaca Venezolana (Venezuela)",
     "original_title": "Guasacaca Venezolana (Venezuela)",
     "country": "Venezuela",
-    "category": "Salsas y Aderezos",
+    "category": "Salsas & Condimentos",
     "tags": [
       "Guasacaca",
       "Venezuela",
@@ -32802,7 +32802,7 @@
     "title": "Tokyo Shoyu Ramen (Japón)",
     "original_title": "醤油ラーメン (Tokyo Shoyu Ramen)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Shoyu",
@@ -32943,7 +32943,7 @@
     "title": "Hakodate Shio Ramen (Japón)",
     "original_title": "Hakodate Shio Ramen (Japón)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Shio",
@@ -33081,7 +33081,7 @@
     "title": "Camarones al Papel Aluminio en Sartén con Queso Mozzarella y Verduras (Argentina)",
     "original_title": "Camarones al Papel Aluminio en Sartén con Queso Mozzarella y Verduras (Argentina)",
     "country": "Receta de Autor (Argentina)",
-    "category": "Pescados y Mariscos",
+    "category": "Pescados & Mariscos",
     "tags": [
       "Camarones",
       "Mariscos",
@@ -33199,7 +33199,7 @@
     "title": "Tonkotsu Ramen (Japón)",
     "original_title": "Tonkotsu Ramen (Japón)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -33346,7 +33346,7 @@
     "title": "Tsukemen (Japón)",
     "original_title": "Tsukemen (つけ麺)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -33479,7 +33479,7 @@
     "title": "Miso Ramen (Japón)",
     "original_title": "Sapporo Miso Ramen (札幌味噌ラーメン)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -33621,7 +33621,7 @@
     "title": "Shoyu Ramen (Japón)",
     "original_title": "Tokyo Shoyu Ramen (東京醤油ラーメン)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -33767,7 +33767,7 @@
     "title": "Shio Ramen (Japón)",
     "original_title": "Hakodate Shio Ramen (函館塩ラーメン)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -33911,7 +33911,7 @@
     "title": "Hakata Ramen (Japón)",
     "original_title": "Hakata Ramen (博多ラーメン)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -34034,7 +34034,7 @@
     "title": "Nagasaki Champon (Japón)",
     "original_title": "Nagasaki Champon (長崎ちゃんぽん)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -34146,7 +34146,7 @@
     "title": "Yokohama-Style Ramen (Japón)",
     "original_title": "Yokohama Iekei Ramen (横浜家系ラーメン)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -34260,7 +34260,7 @@
     "title": "Hiyashi Chuka (Japón)",
     "original_title": "Hiyashi Chūka (冷やし中華)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -34380,7 +34380,7 @@
     "title": "Abura Soba (Japón)",
     "original_title": "Abura Soba (油そば)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -34492,7 +34492,7 @@
     "title": "Tantanmen Ramen (Japón)",
     "original_title": "Tantanmen (担々麺)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -34629,7 +34629,7 @@
     "title": "Kitakata Ramen (Japón)",
     "original_title": "Kitakata Ramen (喜多方ラーメン)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -34745,7 +34745,7 @@
     "title": "Iekei Ramen (Japón)",
     "original_title": "Iekei Ramen Original (家系ラーメン)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -34843,7 +34843,7 @@
     "title": "Tokyo Ramen (Japón)",
     "original_title": "Tokyo Chuka Soba (東京中華そば)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -34947,7 +34947,7 @@
     "title": "Asahikawa Ramen (Japón)",
     "original_title": "Asahikawa Ramen (旭川ラーメン)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -35051,7 +35051,7 @@
     "title": "Sapporo Ramen (Japón)",
     "original_title": "Sapporo Ramen Canónico (札幌ラーメン)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -35147,7 +35147,7 @@
     "title": "Kurume Ramen (Japón)",
     "original_title": "Kurume Ramen (久留米ラーメン)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -35239,7 +35239,7 @@
     "title": "Morioka Reimen (Japón)",
     "original_title": "Morioka Reimen (盛岡冷麺)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -35354,7 +35354,7 @@
     "title": "Seafood Ramen (Kaisen Ramen) (Japón)",
     "original_title": "Kaisen Ramen (海鮮ラーメン)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -35463,7 +35463,7 @@
     "title": "Kyoto Ramen (Japón)",
     "original_title": "Kyoto Seabura Shoyu Ramen (京都背脂醤油ラーメン)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -35559,7 +35559,7 @@
     "title": "Onomichi Ramen (Japón)",
     "original_title": "Onomichi Ramen (尾道ラーメン)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -35664,7 +35664,7 @@
     "title": "Kagoshima Ramen (Japón)",
     "original_title": "Kagoshima Ramen (鹿児島ラーメン)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -35772,7 +35772,7 @@
     "title": "Tokushima Ramen (Japón)",
     "original_title": "Tokushima Ramen (徳島ラーメン)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -35879,7 +35879,7 @@
     "title": "Wakayama Ramen (Japón)",
     "original_title": "Wakayama Ramen (和歌山ラーメン)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -35971,7 +35971,7 @@
     "title": "Takayama Ramen (Japón)",
     "original_title": "Takayama Ramen (高山ラーメン)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -36065,7 +36065,7 @@
     "title": "Taiwan Ramen (Japón)",
     "original_title": "Nagoya Taiwan Ramen (台湾ラーメン)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -36173,7 +36173,7 @@
     "title": "Kumamoto Ramen (Japón)",
     "original_title": "Kumamoto Ramen (熊本ラーメン)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -36265,7 +36265,7 @@
     "title": "Butter Corn Ramen (Bata-Kon Ramen) (Japón)",
     "original_title": "Bata-Kon Ramen (バターコーンラーメン)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -36357,7 +36357,7 @@
     "title": "Nabeyaki Ramen (Japón)",
     "original_title": "Nabeyaki Ramen (鍋焼きラーメン)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -36461,7 +36461,7 @@
     "title": "Toyama Black Ramen (Japón)",
     "original_title": "Toyama Black Ramen (富山ブラックラーメン)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -36555,7 +36555,7 @@
     "title": "Tempura Ramen (Japón)",
     "original_title": "Tempura Ramen (天ぷらラーメン)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -36658,7 +36658,7 @@
     "title": "Beppu Reimen (Japón)",
     "original_title": "Beppu Reimen (別府冷麺)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -36756,7 +36756,7 @@
     "title": "Kimchi Ramen (Japón)",
     "original_title": "Kimchi Ramen Fusión (キムチラーメン)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -36859,7 +36859,7 @@
     "title": "Tamana Ramen (Japón)",
     "original_title": "Tamana Ramen (玉名ラーメン)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -36954,7 +36954,7 @@
     "title": "Kake Ramen (Japón)",
     "original_title": "Kake Ramen Minimalista (掛けラーメン)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -37045,7 +37045,7 @@
     "title": "Burnt Miso Ramen (Kogashi Miso) (Japón)",
     "original_title": "Kogashi Miso Ramen (焦がし味噌ラーメン)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -37145,7 +37145,7 @@
     "title": "Muroran Curry Ramen (Japón)",
     "original_title": "Muroran Curry Ramen (室蘭カレーラーメン)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -37245,7 +37245,7 @@
     "title": "Hokkaido Curry Ramen (Japón)",
     "original_title": "Hokkaido Curry Ramen Caldoso (北海道カレーラーメン)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -37345,7 +37345,7 @@
     "title": "Sakata Ramen (Japón)",
     "original_title": "Sakata Ramen (酒田ラーメン)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Fideos",
@@ -37453,7 +37453,7 @@
     "title": "Ramen Instantáneo Cremoso con Mayonesa Japonesa y Huevo (Japón)",
     "original_title": "Kewpie Egg Ramen Hack (クリーミーインスタントラーメン)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Ramen Instantáneo",
@@ -37563,7 +37563,7 @@
     "title": "Shin Ramyun Gourmet con Panceta y Queso (Corea del Sur)",
     "original_title": "Gourmet Shin Ramyun K-Style (치즈 신라면)",
     "country": "Corea del Sur",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Ramyun",
@@ -37672,7 +37672,7 @@
     "title": "Ramen Instantáneo al Ajo Tostado y Manteca (Japón)",
     "original_title": "Garlic Butter Shoyu Ramen (ガーリックバター醤油ラーメン)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Ramen",
       "Ramen Instantáneo",
@@ -37984,7 +37984,7 @@
     "title": "Chow Fan (China)",
     "original_title": "Chow Fan (Arroz Frito al Wok)",
     "country": "China",
-    "category": "Arroces y Risottos",
+    "category": "Arroces & Risottos",
     "tags": [
       "Chow Fan",
       "Arroz Frito",
@@ -38252,7 +38252,7 @@
     "title": "Chow Mi Fen (China)",
     "original_title": "Chow Mi Fen (Fideos de Arroz Salteados al Wok)",
     "country": "China",
-    "category": "Pastas",
+    "category": "Arroces & Risottos",
     "tags": [
       "Chow Mi Fen",
       "Fideos de Arroz",
@@ -38550,7 +38550,7 @@
     "title": "Pollo con Almendras (China)",
     "original_title": "Xìng Rén Jī Dīng (Pollo Salteado con Almendras Tostadas)",
     "country": "China",
-    "category": "Pollo / Aves",
+    "category": "Pollo & Aves",
     "tags": [
       "Pollo con Almendras",
       "Cantina China",
@@ -38688,7 +38688,7 @@
     "title": "Pollo Estilo Pekín con Panqueques Caseros (China)",
     "original_title": "Běijīng Kǎojī (Pollo Asado Imperial con Panqueques y Caldo)",
     "country": "China",
-    "category": "Pollo / Aves",
+    "category": "Pollo & Aves",
     "tags": [
       "Pollo Pekín",
       "Cocina Imperial",
@@ -39101,7 +39101,7 @@
     "title": "Sopa de Wantan Clásica (China)",
     "original_title": "Yúntūn Miàn Tāng (Sopa Cantonesa de Wantanes de Cerdo y Langostinos con Fideos)",
     "country": "China",
-    "category": "Sopas y Potajes",
+    "category": "Empanadas",
     "tags": [
       "Sopa de Wantan",
       "Wonton",
@@ -39218,7 +39218,7 @@
     "title": "Sopa de Huevo con Flores (China)",
     "original_title": "Dànhuā Tāng (Sopa Ligera de Hilos de Huevo y Jengibre)",
     "country": "China",
-    "category": "Sopas y Potajes",
+    "category": "Sopas & Caldos",
     "tags": [
       "Sopa de Huevo",
       "Egg Drop Soup",
@@ -39329,7 +39329,7 @@
     "title": "Sopa Picante y Ácida de Chongqing (China)",
     "original_title": "Suan La Fen (Fideos Gruesos de Batata en Caldo Málà con Vinagre Negro y Maní)",
     "country": "China",
-    "category": "Sopas y Potajes",
+    "category": "Pastas",
     "tags": [
       "Suan La Fen",
       "Sichuan",
@@ -39450,7 +39450,7 @@
     "title": "Arroz Blanco al Vapor - Técnica Madre (China)",
     "original_title": "Báifàn (Arroz Blanco Tradicional con Triple Lavado y Reposo Hermético)",
     "country": "China",
-    "category": "Arroces y Risottos",
+    "category": "Arroces & Risottos",
     "tags": [
       "Arroz Blanco",
       "Báifàn",
@@ -39546,7 +39546,7 @@
     "title": "Alga Nori Tostada y Crujiente (Corea del Sur)",
     "original_title": "Gim Gui (Alga Nori Tostada al Estilo Coreano con Sésamo y Sal)",
     "country": "Corea del Sur",
-    "category": "Tapas / Picoteo",
+    "category": "Entradas",
     "tags": [
       "Alga Nori",
       "Gim",
@@ -39632,7 +39632,7 @@
     "id": 403,
     "title": "Sánguche de Milanesa Tucumano (Argentina)",
     "country": "Argentina",
-    "category": "Sándwiches / Burgers",
+    "category": "Carnes",
     "tags": [
       "Argentina",
       "Tucumán",
@@ -39740,7 +39740,7 @@
     "id": 404,
     "title": "Fugazzeta Rellena Porteña (Argentina)",
     "country": "Argentina",
-    "category": "Pizzas / Tartas / Masas",
+    "category": "Pizzas & Tartas",
     "tags": [
       "Argentina",
       "Buenos Aires",
@@ -39857,7 +39857,7 @@
     "id": 405,
     "title": "Mbaipy Correntino de Pollo (Argentina)",
     "country": "Argentina",
-    "category": "Guisos & Platos de Olla",
+    "category": "Pollo & Aves",
     "tags": [
       "Argentina",
       "Corrientes",
@@ -40068,7 +40068,7 @@
     "id": 407,
     "title": "Reviro Misionero con Huevo Frito (Argentina)",
     "country": "Argentina",
-    "category": "Huevos / Desayunos",
+    "category": "Desayunos & Huevos",
     "tags": [
       "Argentina",
       "Misiones",
@@ -40162,7 +40162,7 @@
     "id": 408,
     "title": "Torta Negra Galesa de Gaiman - Cacen Ddu (Argentina)",
     "country": "Argentina",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "Argentina",
       "Chubut",
@@ -40276,7 +40276,7 @@
     "id": 409,
     "title": "Picante de Pollo Jujeño (Argentina)",
     "country": "Argentina",
-    "category": "Guisos & Platos de Olla",
+    "category": "Pollo & Aves",
     "tags": [
       "Argentina",
       "Jujuy",
@@ -40392,7 +40392,7 @@
     "id": 410,
     "title": "Empanadas Santiagueñas Auténticas (Argentina)",
     "country": "Argentina",
-    "category": "Pizzas / Tartas / Masas",
+    "category": "Empanadas",
     "tags": [
       "Argentina",
       "Santiago del Estero",
@@ -40712,7 +40712,7 @@
     "id": 413,
     "title": "Pacú Frito con Mandioca (Argentina)",
     "country": "Argentina",
-    "category": "Pescados y Mariscos",
+    "category": "Pescados & Mariscos",
     "tags": [
       "Argentina",
       "Chaco",
@@ -40814,7 +40814,7 @@
     "id": 414,
     "title": "Bori Bori de Gallina (Argentina)",
     "country": "Argentina",
-    "category": "Sopas y Potajes",
+    "category": "Sopas & Caldos",
     "tags": [
       "Argentina",
       "Formosa",
@@ -40934,7 +40934,7 @@
     "id": 415,
     "title": "Boga a la Parrilla con Chimichurri Entrerriano (Argentina)",
     "country": "Argentina",
-    "category": "Pescados y Mariscos",
+    "category": "Salsas & Condimentos",
     "tags": [
       "Argentina",
       "Entre Ríos",
@@ -41267,7 +41267,7 @@
     "id": 418,
     "title": "Empanadas Cordobesas Tradicionales (Argentina)",
     "country": "Argentina",
-    "category": "Pizzas / Tartas / Masas",
+    "category": "Empanadas",
     "tags": [
       "Argentina",
       "Córdoba",
@@ -41386,7 +41386,7 @@
     "id": 419,
     "title": "El Carlitos Especial Rosarino (Argentina)",
     "country": "Argentina",
-    "category": "Sándwiches / Burgers",
+    "category": "Hamburguesas",
     "tags": [
       "Argentina",
       "Santa Fe",
@@ -41596,7 +41596,7 @@
     "id": 421,
     "title": "Trucha Patagónica a la Manteca de Almendras (Argentina)",
     "country": "Argentina",
-    "category": "Pescados y Mariscos",
+    "category": "Pescados & Mariscos",
     "tags": [
       "Argentina",
       "Neuquén",
@@ -41928,7 +41928,7 @@
     "id": 424,
     "title": "Centolla Fueguina Gratinada al Parmesano (Argentina)",
     "country": "Argentina",
-    "category": "Pescados y Mariscos",
+    "category": "Pescados & Mariscos",
     "tags": [
       "Argentina",
       "Tierra del Fuego",
@@ -42032,7 +42032,7 @@
   {
     "id": 425,
     "title": "Empanadas Jujeñas de Carne y Papa con Llajua (Argentina)",
-    "category": "Plato Principal",
+    "category": "Empanadas",
     "country": "Argentina",
     "prep_time": "40 min",
     "cook_time": "20 min",
@@ -42153,7 +42153,7 @@
   {
     "id": 426,
     "title": "Empanadas Tucumanas Tradicionales de Matambre (Argentina)",
-    "category": "Plato Principal",
+    "category": "Empanadas",
     "country": "Argentina",
     "prep_time": "45 min",
     "cook_time": "25 min",
@@ -42258,7 +42258,7 @@
   {
     "id": 427,
     "title": "Empanadas Catamarqueñas Agridulces (Argentina)",
-    "category": "Plato Principal",
+    "category": "Empanadas",
     "country": "Argentina",
     "prep_time": "40 min",
     "cook_time": "20 min",
@@ -42354,7 +42354,7 @@
   {
     "id": 428,
     "title": "Empanadas Riojanas Criollas Jugosas (Argentina)",
-    "category": "Plato Principal",
+    "category": "Empanadas",
     "country": "Argentina",
     "prep_time": "40 min",
     "cook_time": "20 min",
@@ -42448,7 +42448,7 @@
   {
     "id": 429,
     "title": "Empanadas Formoseñas de Charqui y Ají (Argentina)",
-    "category": "Plato Principal",
+    "category": "Empanadas",
     "country": "Argentina",
     "prep_time": "45 min",
     "cook_time": "25 min",
@@ -42542,7 +42542,7 @@
   {
     "id": 430,
     "title": "Empanadas Chaqueñas (Argentina)",
-    "category": "Plato Principal",
+    "category": "Empanadas",
     "country": "Argentina",
     "prep_time": "35 min",
     "cook_time": "20 min",
@@ -42644,7 +42644,7 @@
   {
     "id": 431,
     "title": "Empanadas Correntinas con Masa de Mandioca (Argentina)",
-    "category": "Plato Principal",
+    "category": "Empanadas",
     "country": "Argentina",
     "prep_time": "45 min",
     "cook_time": "20 min",
@@ -42736,7 +42736,7 @@
   {
     "id": 432,
     "title": "Empanadas Misioneras de Surubí y Masa de Mandioca (Argentina)",
-    "category": "Plato Principal",
+    "category": "Empanadas",
     "country": "Argentina",
     "prep_time": "40 min",
     "cook_time": "20 min",
@@ -42828,7 +42828,7 @@
   {
     "id": 433,
     "title": "Pirok Entrerriano (Argentina)",
-    "category": "Plato Principal",
+    "category": "Empanadas",
     "country": "Argentina",
     "prep_time": "50 min",
     "cook_time": "25 min",
@@ -42923,7 +42923,7 @@
   {
     "id": 434,
     "title": "Empanadas Santafesinas de Pescado de Río (Argentina)",
-    "category": "Plato Principal",
+    "category": "Empanadas",
     "country": "Argentina",
     "prep_time": "40 min",
     "cook_time": "20 min",
@@ -43013,7 +43013,7 @@
   {
     "id": 435,
     "title": "Empanadas Criollas Bonaerenses al Horno o Fritas (Argentina)",
-    "category": "Plato Principal",
+    "category": "Empanadas",
     "country": "Argentina",
     "prep_time": "40 min",
     "cook_time": "20 min",
@@ -43105,7 +43105,7 @@
   {
     "id": 436,
     "title": "Empanadas Porteñas de Jamón Cocido y Muzzarella (Argentina)",
-    "category": "Plato Principal",
+    "category": "Empanadas",
     "country": "Argentina",
     "prep_time": "30 min",
     "cook_time": "15 min",
@@ -43187,7 +43187,7 @@
   {
     "id": 437,
     "title": "Empanadas Pampeanas con Azúcar (Argentina)",
-    "category": "Plato Principal",
+    "category": "Empanadas",
     "country": "Argentina",
     "prep_time": "40 min",
     "cook_time": "20 min",
@@ -43275,7 +43275,7 @@
   {
     "id": 438,
     "title": "Empanadas Puntanas Tradicionales Fritas (Argentina)",
-    "category": "Plato Principal",
+    "category": "Empanadas",
     "country": "Argentina",
     "prep_time": "40 min",
     "cook_time": "15 min",
@@ -43399,7 +43399,7 @@
   {
     "id": 439,
     "title": "Empanadas Sanjuaninas con Masa al Vino Blanco (Argentina)",
-    "category": "Plato Principal",
+    "category": "Empanadas",
     "country": "Argentina",
     "prep_time": "40 min",
     "cook_time": "20 min",
@@ -43491,7 +43491,7 @@
   {
     "id": 440,
     "title": "Empanadas Mendocinas de Carne y Mucha Cebolla (Argentina)",
-    "category": "Plato Principal",
+    "category": "Empanadas",
     "country": "Argentina",
     "prep_time": "40 min",
     "cook_time": "20 min",
@@ -43581,7 +43581,7 @@
   {
     "id": 441,
     "title": "Empanadas Neuquinas de Cordero al Merkén Patagónico (Argentina)",
-    "category": "Plato Principal",
+    "category": "Empanadas",
     "country": "Argentina",
     "prep_time": "45 min",
     "cook_time": "25 min",
@@ -43667,7 +43667,7 @@
   {
     "id": 442,
     "title": "Empanadas Rionegrinas Oficiales de Capón y Tomillo Alimonado - Receta \"Franca\" (Argentina)",
-    "category": "Plato Principal",
+    "category": "Empanadas",
     "country": "Argentina",
     "prep_time": "45 min",
     "cook_time": "20 min",
@@ -43785,7 +43785,7 @@
   {
     "id": 443,
     "title": "Empanadas Chubutenses de Vieiras y Mariscos del Golfo (Argentina)",
-    "category": "Plato Principal",
+    "category": "Empanadas",
     "country": "Argentina",
     "prep_time": "40 min",
     "cook_time": "18 min",
@@ -43867,7 +43867,7 @@
   {
     "id": 444,
     "title": "Empanadas Santacruceñas de Cordero Braseado al Romero (Argentina)",
-    "category": "Plato Principal",
+    "category": "Empanadas",
     "country": "Argentina",
     "prep_time": "45 min",
     "cook_time": "25 min",
@@ -43955,7 +43955,7 @@
   {
     "id": 445,
     "title": "Empanadas Fueguinas de Centolla del Canal Beagle (Argentina)",
-    "category": "Plato Principal",
+    "category": "Empanadas",
     "country": "Argentina",
     "prep_time": "40 min",
     "cook_time": "15 min",
@@ -44132,7 +44132,7 @@
   {
     "id": 447,
     "title": "Risotto Cacio e Pepe al Estilo Heston Blumenthal (Inglaterra / Italia)",
-    "category": "Plato Principal",
+    "category": "Arroces & Risottos",
     "country": "Inglaterra / Italia",
     "prep_time": "20 min",
     "cook_time": "25 min",
@@ -44245,7 +44245,7 @@
   {
     "id": 448,
     "title": "Steak Tartare Clásico de Autor al Estilo Heston Blumenthal (Inglaterra / Francia)",
-    "category": "Plato Principal",
+    "category": "Carnes",
     "country": "Inglaterra / Francia",
     "prep_time": "25 min",
     "cook_time": "0 min (en crudo)",
@@ -44356,7 +44356,7 @@
   {
     "id": 449,
     "title": "Langostinos con Tres Salsas para Dipear - Prawns Trio Dips (Australia)",
-    "category": "Tapas / Picoteo",
+    "category": "Pescados & Mariscos",
     "country": "Australia",
     "prep_time": "25 min",
     "cook_time": "5 min",
@@ -44484,7 +44484,7 @@
   {
     "id": 450,
     "title": "Masa Casera para Arrolladitos Primavera - Spring Roll Wrappers (China)",
-    "category": "Panadería",
+    "category": "Panadería & Masas",
     "country": "China",
     "prep_time": "20 min",
     "cook_time": "25 min",
@@ -44582,7 +44582,7 @@
   {
     "id": 451,
     "title": "Empanadas Chinas a la Sartén - Guotie (China)",
-    "category": "Tapas / Picoteo",
+    "category": "Empanadas",
     "country": "China",
     "prep_time": "35 min",
     "cook_time": "15 min",
@@ -44721,7 +44721,7 @@
   {
     "id": 452,
     "title": "Pizza a la Parrilla al Estilo Bob Blumer (Canadá / Internacional)",
-    "category": "Pizzas / Tartas / Masas",
+    "category": "Pizzas & Tartas",
     "country": "Canadá / Internacional",
     "prep_time": "30 min",
     "cook_time": "10 min",
@@ -44955,7 +44955,7 @@
   {
     "id": 454,
     "title": "Milanesa Gourmet de Autor con Burrata Fresca, Albahaca y Papas en Grasa de Pato (Argentina)",
-    "category": "Carnes",
+    "category": "Pollo & Aves",
     "country": "Argentina",
     "prep_time": "35 min",
     "cook_time": "20 min",
@@ -45064,7 +45064,7 @@
     "id": 455,
     "title": "Il Crostolo di Sompiano alla Brace (Italia)",
     "country": "Italia",
-    "category": "Panadería",
+    "category": "Panadería & Masas",
     "tags": [
       "Italia",
       "Borgo Pace",
@@ -45484,7 +45484,7 @@
     "id": 459,
     "title": "Il Bostrengo del Montefeltro (Italia)",
     "country": "Italia",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "Italia",
       "Borgo Pace",
@@ -45609,7 +45609,7 @@
     "id": 460,
     "title": "La Cade Toulonnaise (Francia)",
     "country": "Francia",
-    "category": "Panadería",
+    "category": "Panadería & Masas",
     "tags": [
       "Francia",
       "Toulon",
@@ -45705,7 +45705,7 @@
     "id": 461,
     "title": "Le Chanteclair de Toulon (Francia)",
     "country": "Francia",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "Francia",
       "Toulon",
@@ -45830,7 +45830,7 @@
     "id": 462,
     "title": "La Bourride Toulonnaise (Francia)",
     "country": "Francia",
-    "category": "Sopas y Potajes",
+    "category": "Pescados & Mariscos",
     "tags": [
       "Francia",
       "Toulon",
@@ -46204,7 +46204,7 @@
     "id": 465,
     "title": "La Pizza Rossini de Pesaro (Italia)",
     "country": "Italia",
-    "category": "Pizzas / Tartas / Masas",
+    "category": "Pizzas & Tartas",
     "tags": [
       "Italia",
       "Pesaro",
@@ -46321,7 +46321,7 @@
     "id": 466,
     "title": "Pancakes Japoneses Soufflé - Fluffy Soufflé Pancakes (Japón)",
     "country": "Japón",
-    "category": "Huevos / Desayunos",
+    "category": "Postres & Dulces",
     "tags": [
       "Japón",
       "Pancakes",
@@ -46468,7 +46468,7 @@
     "id": 467,
     "title": "Margarita Clásica (México)",
     "country": "México",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "tags": [
       "México",
       "Tequila",
@@ -46564,7 +46564,7 @@
     "id": 468,
     "title": "Fernet con Cola / \"Fernandito\" (Argentina)",
     "country": "Argentina",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "tags": [
       "Argentina",
       "Córdoba",
@@ -46644,7 +46644,7 @@
     "id": 469,
     "title": "Caipirinha Tradicional de Cachaça (Brasil)",
     "country": "Brasil",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "tags": [
       "Brasil",
       "Cachaça",
@@ -46733,7 +46733,7 @@
     "id": 470,
     "title": "Piña Colada Clásica (Puerto Rico)",
     "country": "Puerto Rico",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "tags": [
       "Puerto Rico",
       "Caribe",
@@ -46825,7 +46825,7 @@
     "id": 471,
     "title": "Postre Chajá Tradicional de Paysandú (Uruguay)",
     "country": "Uruguay",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "Uruguay",
       "Paysandú",
@@ -46954,7 +46954,7 @@
     "id": 472,
     "title": "Postre Massini Tradicional (Uruguay)",
     "country": "Uruguay",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "Uruguay",
       "Montevideo",
@@ -47076,7 +47076,7 @@
     "id": 473,
     "title": "Postre Martín Fierro con Reducción de Tannat y Nueces Crocantes (Uruguay)",
     "country": "Uruguay",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "Uruguay",
       "Martín Fierro",
@@ -47292,7 +47292,7 @@
     "id": 475,
     "title": "Milanesa a la Suiza Tradicional de Bodegón con Bechamel y Queso Gratinado (Uruguay)",
     "country": "Uruguay",
-    "category": "Carnes",
+    "category": "Guarniciones",
     "tags": [
       "Uruguay",
       "Milanesas",
@@ -47529,7 +47529,7 @@
     "id": 477,
     "title": "Empanadas de Pino (Chile)",
     "country": "Chile",
-    "category": "Pizzas / Tartas / Masas",
+    "category": "Empanadas",
     "tags": [
       "Chile",
       "Empanadas de Pino",
@@ -47656,7 +47656,7 @@
     "id": 478,
     "title": "Chow Fan - Arroz Frito al Wok (China)",
     "country": "China",
-    "category": "Arroces y Risottos",
+    "category": "Arroces & Risottos",
     "tags": [
       "China",
       "Chau Fan",
@@ -47914,7 +47914,7 @@
     "id": 480,
     "title": "Roghani Murgh - Curry de Pollo del Norte de India (India)",
     "country": "India",
-    "category": "Guisos & Platos de Olla",
+    "category": "Pollo & Aves",
     "tags": [
       "India",
       "Roghani Murgh",
@@ -48040,7 +48040,7 @@
     "id": 481,
     "title": "Kassler con Chucrut (Alemania)",
     "country": "Alemania",
-    "category": "Carnes",
+    "category": "Conservas & Lácteos",
     "tags": [
       "Alemania",
       "Kassler",
@@ -48161,7 +48161,7 @@
     "id": 482,
     "title": "Pastel Mandi'o - Empanadas de Mandioca (Paraguay)",
     "country": "Paraguay",
-    "category": "Pizzas / Tartas / Masas",
+    "category": "Empanadas",
     "tags": [
       "Paraguay",
       "Pastel Mandi'o",
@@ -48288,7 +48288,7 @@
     "id": 483,
     "title": "Bizcochuelo Esponjoso de Vainilla (Argentina)",
     "country": "Argentina",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "Argentina",
       "Bizcocho Esponjoso",
@@ -48389,7 +48389,7 @@
     "id": 484,
     "title": "Roti - Pan Plano en Sartén (India)",
     "country": "India",
-    "category": "Panadería",
+    "category": "Panadería & Masas",
     "tags": [
       "India",
       "Roti Tradicional",
@@ -48489,7 +48489,7 @@
     "id": 485,
     "title": "Arepas Caseras de Maíz (Venezuela)",
     "country": "Venezuela",
-    "category": "Panadería",
+    "category": "Panadería & Masas",
     "tags": [
       "Venezuela",
       "Arepas Tradicionales",
@@ -48591,7 +48591,7 @@
     "id": 486,
     "title": "Yakitori de Pollo y Salsa Tare a la Plancha (Japón)",
     "country": "Japón",
-    "category": "Carnes",
+    "category": "Pollo & Aves",
     "tags": [
       "Japón",
       "Yakitori",
@@ -48714,7 +48714,7 @@
     "id": 487,
     "title": "Okonomiyaki de Osaka a la Plancha (Japón)",
     "country": "Japón",
-    "category": "Plato Principal",
+    "category": "Salsas & Condimentos",
     "tags": [
       "Japón",
       "Okonomiyaki",
@@ -49091,7 +49091,7 @@
     "id": 490,
     "title": "Cookies Gruesas Rellenas Estilo Crumbl (Estados Unidos)",
     "country": "Estados Unidos",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "Estados Unidos",
       "Cookies Gruesas",
@@ -49202,7 +49202,7 @@
     "id": 491,
     "title": "Niku Dango - Albóndigas Japonesas de Cerdo (Japón)",
     "country": "Japón",
-    "category": "Carnes",
+    "category": "Postres & Dulces",
     "tags": [
       "Japón",
       "Niku Dango",
@@ -49692,7 +49692,7 @@
     "id": 495,
     "title": "Arroz con Pollo en Olla a Presión (España)",
     "country": "España",
-    "category": "Arroces y Risottos",
+    "category": "Arroces & Risottos",
     "tags": [
       "España",
       "Arroz con Pollo",
@@ -49813,7 +49813,7 @@
     "id": 496,
     "title": "Suprema Maryland (Argentina)",
     "country": "Argentina",
-    "category": "Pollo / Aves",
+    "category": "Postres & Dulces",
     "tags": [
       "Argentina",
       "Bodegón",
@@ -49982,7 +49982,7 @@
     "id": 497,
     "title": "Corpse Reviver Nº 1 (Reino Unido)",
     "country": "Reino Unido",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "tags": [
       "Reino Unido",
       "Savoy",
@@ -50075,7 +50075,7 @@
     "id": 498,
     "title": "Corpse Reviver Nº 2 (Reino Unido)",
     "country": "Reino Unido",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "tags": [
       "Reino Unido",
       "Savoy",
@@ -50171,7 +50171,7 @@
     "id": 499,
     "title": "Corpse Reviver Nº 3 (Reino Unido)",
     "country": "Reino Unido",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "tags": [
       "Reino Unido",
       "Café Royal",
@@ -50265,7 +50265,7 @@
     "id": 500,
     "title": "Corpse Reviver Blue (Nueva Zelanda)",
     "country": "Nueva Zelanda",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "tags": [
       "Nueva Zelanda",
       "Corpse Reviver",
@@ -50356,7 +50356,7 @@
     "id": 501,
     "title": "Oaxacan Corpse Reviver (México)",
     "country": "México",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "tags": [
       "México",
       "Oaxaca",
@@ -50449,7 +50449,7 @@
     "id": 502,
     "title": "Churros Madrileños (España)",
     "country": "España",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "España",
       "Madrid",
@@ -50545,7 +50545,7 @@
     "id": 503,
     "title": "Churros con Dulce de Leche (Argentina)",
     "country": "Argentina",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "Argentina",
       "Churros",
@@ -50647,7 +50647,7 @@
     "id": 504,
     "title": "Churros con Canela (México)",
     "country": "México",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "México",
       "Churros",
@@ -50746,7 +50746,7 @@
     "id": 505,
     "title": "Pisco Sour (Perú)",
     "country": "Perú",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "tags": [
       "Perú",
       "Pisco",
@@ -50840,7 +50840,7 @@
     "id": 506,
     "title": "Paloma (México)",
     "country": "México",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "tags": [
       "México",
       "Tequila",
@@ -50936,7 +50936,7 @@
     "id": 507,
     "title": "Submarino (Argentina)",
     "country": "Argentina",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "tags": [
       "Argentina",
       "Submarino",
@@ -51029,7 +51029,7 @@
     "id": 508,
     "title": "Chocolate a la Taza (España)",
     "country": "España",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "tags": [
       "España",
       "Madrid",
@@ -51128,7 +51128,7 @@
     "id": 509,
     "title": "Champurrado (México)",
     "country": "México",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "tags": [
       "México",
       "Champurrado",
@@ -51227,7 +51227,7 @@
     "id": 510,
     "title": "Bicerin (Italia)",
     "country": "Italia",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "tags": [
       "Italia",
       "Turín",
@@ -51325,7 +51325,7 @@
     "id": 511,
     "title": "Medialunas de Manteca (Argentina)",
     "country": "Argentina",
-    "category": "Panadería",
+    "category": "Postres & Dulces",
     "tags": [
       "Argentina",
       "Panadería",
@@ -51476,7 +51476,7 @@
     "id": 512,
     "title": "Medialunas de Grasa (Argentina)",
     "country": "Argentina",
-    "category": "Panadería",
+    "category": "Panadería & Masas",
     "tags": [
       "Argentina",
       "Panadería",
@@ -51608,7 +51608,7 @@
     "id": 513,
     "title": "Sacristanes Salados de Queso (Argentina)",
     "country": "Argentina",
-    "category": "Panadería",
+    "category": "Panadería & Masas",
     "tags": [
       "Argentina",
       "Panadería",
@@ -51704,7 +51704,7 @@
     "id": 514,
     "title": "Vieiras con Morcilla Vasca (Argentina)",
     "country": "Argentina",
-    "category": "Plato Principal",
+    "category": "Pescados & Mariscos",
     "tags": [
       "Argentina",
       "Alta Cocina",
@@ -51810,7 +51810,7 @@
     "id": 515,
     "title": "Vieiras con Crujiente de Morcilla y Crema de Coliflor Trufada (Argentina)",
     "country": "Argentina",
-    "category": "Plato Principal",
+    "category": "Pescados & Mariscos",
     "tags": [
       "Argentina",
       "Alta Cocina",
@@ -51933,7 +51933,7 @@
     "id": 516,
     "title": "Tortilla de Papas Chips de José Andrés (España)",
     "country": "España",
-    "category": "Tapas / Picoteo",
+    "category": "Desayunos & Huevos",
     "tags": [
       "España",
       "José Andrés",
@@ -52020,7 +52020,7 @@
     "id": 517,
     "title": "Omelette al Microondas con Mayonesa (España)",
     "country": "España",
-    "category": "Huevos / Desayunos",
+    "category": "Salsas & Condimentos",
     "tags": [
       "España",
       "José Andrés",
@@ -52106,7 +52106,7 @@
     "id": 518,
     "title": "Philly Cheesesteak en Airbread (Estados Unidos)",
     "country": "Estados Unidos",
-    "category": "Plato Principal",
+    "category": "Hamburguesas",
     "tags": [
       "Estados Unidos",
       "José Andrés",
@@ -52233,7 +52233,7 @@
     "id": 519,
     "title": "Croquetas Cremosas de Pollo de Jaleo (España)",
     "country": "España",
-    "category": "Tapas / Picoteo",
+    "category": "Pollo & Aves",
     "tags": [
       "España",
       "José Andrés",
@@ -52475,7 +52475,7 @@
     "id": 521,
     "title": "Steak Frites con Manteca Maître d'Hôtel (Francia)",
     "country": "Francia",
-    "category": "Carnes",
+    "category": "Guarniciones",
     "tags": [
       "Francia",
       "Anthony Bourdain",
@@ -52592,7 +52592,7 @@
     "id": 522,
     "title": "Huesos de Caracú Asados con Ensalada de Perejil (Francia)",
     "country": "Francia",
-    "category": "Carnes",
+    "category": "Ensaladas",
     "tags": [
       "Francia",
       "Reino Unido",
@@ -52701,7 +52701,7 @@
     "id": 523,
     "title": "Postre Sandy de Chocolate (Argentina)",
     "country": "Argentina",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "Argentina",
       "Chocolate",
@@ -52809,7 +52809,7 @@
     "id": 524,
     "title": "Postre de Nesquik en Vaso (Argentina)",
     "country": "Argentina",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "Argentina",
       "Nesquik",
@@ -52918,7 +52918,7 @@
     "id": 525,
     "title": "Tiramisú en Vaso (Argentina)",
     "country": "Argentina",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "Argentina",
       "Tiramisú",
@@ -53027,7 +53027,7 @@
     "id": 526,
     "title": "Brownies de Nesquik (Argentina)",
     "country": "Argentina",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "Argentina",
       "Brownies",
@@ -53115,7 +53115,7 @@
     "id": 527,
     "title": "Torre de Panqueques de Chocolate y Dulce de Leche (Argentina)",
     "country": "Argentina",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "Argentina",
       "Panqueques",
@@ -53221,7 +53221,7 @@
     "id": 528,
     "title": "Milkshake Espeso de Nesquik (Argentina)",
     "country": "Argentina",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "tags": [
       "Argentina",
       "Milkshake",
@@ -53316,7 +53316,7 @@
     "id": 529,
     "title": "Licuado de Chocolate, Frutillas y Almendras (Argentina)",
     "country": "Argentina",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "tags": [
       "Argentina",
       "Licuado",
@@ -53388,7 +53388,7 @@
     "id": 530,
     "title": "Postre Cremoso Bicolor de Nesquik y Café (Argentina)",
     "country": "Argentina",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "Argentina",
       "Postre Bicolor",
@@ -53487,7 +53487,7 @@
     "id": 531,
     "title": "Ramen Completo de Serious Eats (Japón)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "Japón",
       "Ramen",
@@ -53612,7 +53612,7 @@
     "id": 532,
     "title": "Ramen de Mondongo y Albóndigas (Japón)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "ramen",
       "mondongo",
@@ -53738,7 +53738,7 @@
     "id": 533,
     "title": "Tinola Paitan Ramen de Pollo (Filipinas)",
     "country": "Filipinas",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "ramen",
       "tinola",
@@ -53967,7 +53967,7 @@
     "id": 535,
     "title": "Ramen de Pato y Hongos Silvestres (Francia)",
     "country": "Francia",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "ramen",
       "pato",
@@ -54083,7 +54083,7 @@
     "id": 536,
     "title": "Tom Yum Ramen con Tempura de Langostinos (Tailandia)",
     "country": "Tailandia",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "ramen",
       "tom yum",
@@ -54205,7 +54205,7 @@
     "id": 537,
     "title": "Svíčková Ramen con Lomo Mechado y Knedlíky (República Checa)",
     "country": "República Checa",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "tags": [
       "ramen",
       "svickova",
@@ -54324,7 +54324,7 @@
     "id": 538,
     "title": "Kitsune Udon (Japón)",
     "country": "Japón",
-    "category": "Sopas y Potajes",
+    "category": "Postres & Dulces",
     "tags": [
       "udon",
       "kitsune udon",
@@ -54549,7 +54549,7 @@
     "id": 540,
     "title": "Pollo General Tso (China)",
     "country": "China",
-    "category": "Pollo / Aves",
+    "category": "Postres & Dulces",
     "tags": [
       "pollo general tso",
       "china",
@@ -54669,7 +54669,7 @@
     "id": 541,
     "title": "Pollo Kung Pao (China)",
     "country": "China",
-    "category": "Pollo / Aves",
+    "category": "Pollo & Aves",
     "tags": [
       "pollo kung pao",
       "china",
@@ -54901,7 +54901,7 @@
     "id": 543,
     "title": "Fufu con Sopa Ligera (Ghana)",
     "country": "Ghana",
-    "category": "Guisos & Platos de Olla",
+    "category": "Pescados & Mariscos",
     "tags": [
       "fufu",
       "ghana",
@@ -55004,7 +55004,7 @@
     "id": 544,
     "title": "Injera de Teff (Etiopía)",
     "country": "Etiopía",
-    "category": "Panadería",
+    "category": "Panadería & Masas",
     "tags": [
       "injera",
       "etiopía",
@@ -55204,7 +55204,7 @@
     "id": 546,
     "title": "Shakshuka con Huevos Escalfados (Túnez)",
     "country": "Túnez",
-    "category": "Huevos / Desayunos",
+    "category": "Guisos & Platos de Olla",
     "tags": [
       "shakshuka",
       "túnez",
@@ -55313,7 +55313,7 @@
     "id": 547,
     "title": "Puff Puff Esponjoso (Nigeria)",
     "country": "Nigeria",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "puff puff",
       "nigeria",
@@ -55413,7 +55413,7 @@
     "id": 548,
     "title": "Arroz Jollof al Estilo Nigeriano (Nigeria)",
     "country": "Nigeria",
-    "category": "Arroces y Risottos",
+    "category": "Arroces & Risottos",
     "tags": [
       "jollof rice",
       "nigeria",
@@ -55530,7 +55530,7 @@
     "id": 549,
     "title": "Buñuelos de Acelga (Argentina)",
     "country": "Argentina",
-    "category": "Tapas / Picoteo",
+    "category": "Entradas",
     "tags": [
       "queso sardo",
       "picada",
@@ -55635,7 +55635,7 @@
     "id": 550,
     "title": "Buñuelos de Manzana (Argentina)",
     "country": "Argentina",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "tags": [
       "pera",
       "frutas",
@@ -55739,7 +55739,7 @@
     "title": "Tortilla de Hojas de Remolacha (Argentina)",
     "original_title": "Tortilla de Hojas de Remolacha",
     "country": "Argentina",
-    "category": "Huevos / Desayunos",
+    "category": "Desayunos & Huevos",
     "tags": [
       "tortilla de hojas de remolacha",
       "cocina de aprovechamiento",
@@ -55955,7 +55955,7 @@
     "title": "Salsa de Ajo Árabe (Líbano)",
     "original_title": "Salsa de Ajo Árabe",
     "country": "Líbano",
-    "category": "Salsas y Aderezos",
+    "category": "Salsas & Condimentos",
     "tags": [
       "toum",
       "crema de ajo",
@@ -56050,7 +56050,7 @@
     "title": "Dados de Ternera a la Plancha (Japón)",
     "original_title": "Dados de Ternera a la Plancha",
     "country": "Japón",
-    "category": "Carnes",
+    "category": "Guarniciones",
     "tags": [
       "saikoro steak",
       "ternera a la plancha",
@@ -56640,7 +56640,7 @@
     "id": 558,
     "title": "Repollitos de Bruselas Gratinados a la Leche (Argentina)",
     "country": "Argentina",
-    "category": "Vegetarianas",
+    "category": "Guarniciones",
     "prep_time": "15 min",
     "cook_time": "25 min",
     "servings": 4,
@@ -56741,7 +56741,7 @@
     "id": 559,
     "title": "Queso Mantecoso Cremoso (Argentina)",
     "country": "Argentina",
-    "category": "Conservas / Embutidos",
+    "category": "Pizzas & Tartas",
     "prep_time": "45 min",
     "cook_time": "4 h",
     "servings": "1 kg (horma de 10-12 porciones)",
@@ -56863,7 +56863,7 @@
     "id": 560,
     "title": "Truffaux - Falsas Trufas Negras con Champiñones (Estados Unidos)",
     "country": "Estados Unidos",
-    "category": "Cocina Moderna / Técnicas",
+    "category": "Pastas",
     "prep_time": "40 min",
     "cook_time": "8 h",
     "servings": "4 a 6 piezas (250 g de trufa laminable)",
@@ -56981,7 +56981,7 @@
     "id": 561,
     "title": "Dulce de Leche a la Cacerola (Argentina)",
     "country": "Argentina",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "prep_time": "10 min",
     "cook_time": "2 h 30 min",
     "servings": "1 kg (aprox. 2 frascos de 500 g)",
@@ -57085,7 +57085,7 @@
     "id": 562,
     "title": "Tamago Kake Gohan - Arroz con Huevo (Japón)",
     "country": "Japón",
-    "category": "Arroces y Risottos",
+    "category": "Arroces & Risottos",
     "prep_time": "5 min",
     "cook_time": "15 min",
     "servings": "1 porción",
@@ -57178,7 +57178,7 @@
     "id": 563,
     "title": "Ensalada Japonesa de Papa con Huevas de Trucha (Japón)",
     "country": "Japón",
-    "category": "Ensaladas / Guarniciones",
+    "category": "Ramen",
     "prep_time": "20 min",
     "cook_time": "25 min",
     "servings": "4 porciones",
@@ -57286,7 +57286,7 @@
     "id": 564,
     "title": "Bao de Panceta Glaseada de Cerdo (Japón)",
     "country": "Japón",
-    "category": "Sándwiches / Burgers",
+    "category": "Ramen",
     "prep_time": "30 min",
     "cook_time": "2 h 30 min",
     "servings": "6 unidades (3 porciones)",
@@ -57375,7 +57375,7 @@
     "id": 565,
     "title": "Pollo Frito Karaage con Salsa Tártara Kewpie (Japón)",
     "country": "Japón",
-    "category": "Pollo / Aves",
+    "category": "Ramen",
     "prep_time": "20 min",
     "cook_time": "15 min",
     "servings": "4 porciones",
@@ -57470,7 +57470,7 @@
     "id": 566,
     "title": "Langostinos Crocantes con Mayo de Limón y Yuzu (Japón)",
     "country": "Japón",
-    "category": "Pescados / Mariscos",
+    "category": "Ramen",
     "prep_time": "20 min",
     "cook_time": "10 min",
     "servings": "3 a 4 porciones",
@@ -57554,7 +57554,7 @@
     "id": 567,
     "title": "Tártaro de Atún con Ponzu y Yuzu Kosho (Japón)",
     "country": "Japón",
-    "category": "Pescados / Mariscos",
+    "category": "Ramen",
     "prep_time": "15 min",
     "cook_time": "0 min",
     "servings": "2 a 3 porciones",
@@ -57643,7 +57643,7 @@
     "id": 568,
     "title": "Gyozas Crocantes de Cordero Especiado (Japón)",
     "country": "Japón",
-    "category": "Pastas",
+    "category": "Ramen",
     "prep_time": "40 min",
     "cook_time": "15 min",
     "servings": "20 unidades (4 porciones)",
@@ -57738,7 +57738,7 @@
     "id": 569,
     "title": "Pepinos Japoneses Encurtidos Picantes (Japón)",
     "country": "Japón",
-    "category": "Conservas / Embutidos",
+    "category": "Ramen",
     "prep_time": "15 min",
     "cook_time": "0 min",
     "servings": "4 porciones",
@@ -57817,7 +57817,7 @@
     "id": 570,
     "title": "Tofu Crocante con Reducción de Dashi y Jengibre (Japón)",
     "country": "Japón",
-    "category": "Plato Principal",
+    "category": "Ramen",
     "prep_time": "20 min",
     "cook_time": "10 min",
     "servings": "3 a 4 porciones",
@@ -57909,7 +57909,7 @@
   {
     "id": 571,
     "title": "Crema de Avellanas y Cacao (Italia)",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "country": "Italia",
     "difficulty": "Fácil",
     "prep_time": "30 min",
@@ -58224,7 +58224,7 @@
   {
     "id": 574,
     "title": "Tarta de Pollo Salteado (Argentina)",
-    "category": "Tartas y Empanadas",
+    "category": "Pizzas & Tartas",
     "country": "Argentina",
     "difficulty": "Fácil",
     "prep_time": "25 min",
@@ -58325,7 +58325,7 @@
   {
     "id": 575,
     "title": "Tarta de Cebolla, Puerro y Verdeo (Argentina)",
-    "category": "Tartas y Empanadas",
+    "category": "Pizzas & Tartas",
     "country": "Argentina",
     "difficulty": "Fácil",
     "prep_time": "20 min",
@@ -58429,7 +58429,7 @@
   {
     "id": 576,
     "title": "Buñuelos de Cebolla con Claras a Nieve (Argentina)",
-    "category": "Entradas y Guarniciones",
+    "category": "Entradas",
     "country": "Argentina",
     "difficulty": "Fácil",
     "prep_time": "15 min",
@@ -58533,7 +58533,7 @@
   {
     "id": 577,
     "title": "Torta Casera de Taza sin Batir (Argentina)",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "country": "Argentina",
     "difficulty": "Fácil",
     "prep_time": "10 min",
@@ -58633,7 +58633,7 @@
   {
     "id": 578,
     "title": "Pollo Frito de Louisiana Estilo Popeyes (Estados Unidos)",
-    "category": "Platos Principales",
+    "category": "Pollo & Aves",
     "country": "Estados Unidos",
     "difficulty": "Media",
     "prep_time": "20 min",
@@ -58761,7 +58761,7 @@
   {
     "id": 579,
     "title": "Pollo Frito Chickenjoy con Salsa Gravy (Filipinas)",
-    "category": "Platos Principales",
+    "category": "Pollo & Aves",
     "country": "Filipinas",
     "difficulty": "Media",
     "prep_time": "25 min",
@@ -58923,7 +58923,7 @@
   {
     "id": 580,
     "title": "Mozzarella Casera Hilada (Italia)",
-    "category": "Conservas / Embutidos",
+    "category": "Pastas",
     "country": "Italia",
     "difficulty": "Media",
     "prep_time": "30 min",
@@ -59043,7 +59043,7 @@
   {
     "id": 581,
     "title": "Birria Ramen (México)",
-    "category": "Sopas y Potajes",
+    "category": "Ramen",
     "country": "México",
     "difficulty": "Media",
     "prep_time": "30 min",
@@ -59183,7 +59183,7 @@
   {
     "id": 582,
     "title": "Mercimek Çorbası - Sopa de Lentejas Rojas (Turquía)",
-    "category": "Sopas y Potajes",
+    "category": "Sopas & Caldos",
     "country": "Turquía",
     "difficulty": "Fácil",
     "prep_time": "15 min",
@@ -59288,7 +59288,7 @@
   {
     "id": 583,
     "title": "Tater Tots Caseros de Papa (Estados Unidos)",
-    "category": "Entradas y Guarniciones",
+    "category": "Guarniciones",
     "country": "Estados Unidos",
     "difficulty": "Fácil",
     "prep_time": "25 min",
@@ -59394,7 +59394,7 @@
   {
     "id": 584,
     "title": "Šaltibarščiai - Sopa Fría de Remolacha (Lituania)",
-    "category": "Sopas y Potajes",
+    "category": "Sopas & Caldos",
     "country": "Lituania",
     "difficulty": "Fácil",
     "prep_time": "20 min",
@@ -59489,7 +59489,7 @@
   {
     "id": 585,
     "title": "Swedish Meatbowl - Albóndigas Desconstruidas (Suecia)",
-    "category": "Platos Principales",
+    "category": "Carnes",
     "country": "Suecia",
     "difficulty": "Fácil",
     "prep_time": "20 min",
@@ -59639,7 +59639,7 @@
   {
     "id": 586,
     "title": "Pilau de Ternera con Especias (Kenia)",
-    "category": "Arroces y Risottos",
+    "category": "Arroces & Risottos",
     "country": "Kenia",
     "difficulty": "Media",
     "prep_time": "25 min",
@@ -59882,7 +59882,7 @@
   {
     "id": 588,
     "title": "Tarte Flambée Alsaciana (Francia)",
-    "category": "Pizzas / Tartas / Masas",
+    "category": "Pizzas & Tartas",
     "country": "Francia",
     "difficulty": "Fácil",
     "prep_time": "20 min",
@@ -60195,7 +60195,7 @@
   {
     "id": 591,
     "title": "Consomé Cristalino de Pollo por Filtración de Hielo (Reino Unido)",
-    "category": "Sopas y Caldos",
+    "category": "Pollo & Aves",
     "country": "Reino Unido",
     "difficulty": "Fácil",
     "prep_time": "20 min",
@@ -60316,7 +60316,7 @@
   {
     "id": 592,
     "title": "Hanger Steak con Salsa Bordelaise (Francia)",
-    "category": "Carnes y Aves",
+    "category": "Carnes",
     "country": "Francia",
     "difficulty": "Media",
     "prep_time": "15 min",
@@ -60454,7 +60454,7 @@
   {
     "id": 593,
     "title": "Papas Fritas en Freidora de Aire (Estados Unidos)",
-    "category": "Acompañamientos y Guarniciones",
+    "category": "Guarniciones",
     "country": "Estados Unidos",
     "difficulty": "Fácil",
     "prep_time": "10 min",
@@ -60556,7 +60556,7 @@
   {
     "id": 594,
     "title": "Soufflé Invertido de Chocolate (Francia)",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "country": "Francia",
     "difficulty": "Media",
     "prep_time": "25 min",
@@ -60679,7 +60679,7 @@
   {
     "id": 595,
     "title": "Everlasting Latte - Café con Microespuma Estable (Estados Unidos)",
-    "category": "Bebidas e Infusiones",
+    "category": "Cocktails & Bebidas",
     "country": "Estados Unidos",
     "difficulty": "Fácil",
     "prep_time": "5 min",
@@ -60789,7 +60789,7 @@
   {
     "id": 596,
     "title": "Chantilly de Chocolate al Agua (Francia)",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "country": "Francia",
     "difficulty": "Fácil",
     "prep_time": "10 min",
@@ -60895,7 +60895,7 @@
   {
     "id": 597,
     "title": "Döner Kebab Casero con Carne Congelada Rallada (Turquía)",
-    "category": "Carnes y Aves",
+    "category": "Carnes",
     "country": "Turquía",
     "difficulty": "Fácil",
     "prep_time": "25 min",
@@ -61021,7 +61021,7 @@
   {
     "id": 598,
     "title": "Shoyu Ramen de Doble Caldo Estilo Ramen Lord (Japón)",
-    "category": "Sopas y Caldos",
+    "category": "Ramen",
     "country": "Japón",
     "difficulty": "Avanzada",
     "prep_time": "45 min",
@@ -61147,7 +61147,7 @@
   {
     "id": 599,
     "title": "Shio Ramen de Doble Caldo Estilo Ivan Orkin (Japón)",
-    "category": "Sopas y Caldos",
+    "category": "Ramen",
     "country": "Japón",
     "difficulty": "Avanzada",
     "prep_time": "40 min",
@@ -61270,7 +61270,7 @@
   {
     "id": 600,
     "title": "Éclair de Café con Glaseado Espejo (Francia)",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "country": "Francia",
     "difficulty": "Media",
     "prep_time": "45 min",
@@ -61395,7 +61395,7 @@
   {
     "id": 601,
     "title": "Crème Brûlée de Vainilla Natural al Horno Suave (Francia)",
-    "category": "Postres y Dulces",
+    "category": "Postres & Dulces",
     "country": "Francia",
     "difficulty": "Media",
     "prep_time": "20 min",
@@ -61503,7 +61503,7 @@
   {
     "id": 602,
     "title": "Salsa Holandesa Clásica con Manteca Clarificada (Francia)",
-    "category": "Salsas y Condimentos",
+    "category": "Salsas & Condimentos",
     "country": "Francia",
     "difficulty": "Media",
     "prep_time": "15 min",
@@ -61612,7 +61612,7 @@
   {
     "id": 603,
     "title": "Kimchi Casero de Fermentación Lenta (Corea del Sur)",
-    "category": "Ensaladas y Verduras",
+    "category": "Ensaladas",
     "country": "Corea del Sur",
     "difficulty": "Media",
     "prep_time": "1 hora",
@@ -61736,7 +61736,7 @@
   {
     "id": 604,
     "title": "Croissants Franceses de Masa Hojaldrada Fermentada (Francia)",
-    "category": "Panes y Masas",
+    "category": "Panadería & Masas",
     "country": "Francia",
     "difficulty": "Avanzada",
     "prep_time": "1 hora",
@@ -61853,7 +61853,7 @@
   {
     "id": 605,
     "title": "Pain au Chocolat de Masa Laminada (Francia)",
-    "category": "Panes y Masas",
+    "category": "Panadería & Masas",
     "country": "Francia",
     "difficulty": "Avanzada",
     "prep_time": "1 hora",
@@ -61956,7 +61956,7 @@
   {
     "id": 606,
     "title": "Shakshuka de Pimientos Caramelizados y Tomate con Huevos (Túnez)",
-    "category": "Guisos y Cazuelas",
+    "category": "Guisos & Platos de Olla",
     "country": "Túnez",
     "difficulty": "Fácil",
     "prep_time": "15 min",
@@ -62077,7 +62077,7 @@
   {
     "id": 607,
     "title": "Mozzarella Artesanal con Fermentación Láctica Natural (Italia)",
-    "category": "Quesos y Lácteos",
+    "category": "Conservas & Lácteos",
     "country": "Italia",
     "difficulty": "Avanzada",
     "prep_time": "30 min",
@@ -62195,7 +62195,7 @@
   {
     "id": 608,
     "title": "Aceites Aromáticos para Ramen (Japón)",
-    "category": "Salsas y Condimentos",
+    "category": "Ramen",
     "country": "Japón",
     "difficulty": "Intermedio",
     "prep_time": "20 min",
@@ -62365,7 +62365,7 @@
   {
     "id": 609,
     "title": "Sopa de Cebolla Francesa Gratinada (Francia)",
-    "category": "Sopas y Caldos",
+    "category": "Sopas & Caldos",
     "country": "Francia",
     "difficulty": "Media",
     "prep_time": "20 min",
@@ -62894,7 +62894,7 @@
     "id": 613,
     "title": "Almejas Fritas con Salsa Agridulce (Italia)",
     "original_title": "Fried Surf Clams with Agrodolce and Onion, Fennel, and Cherry Pepper Salad - Le Marche Coastal Style",
-    "category": "Pescados y Mariscos",
+    "category": "Postres & Dulces",
     "country": "Italia",
     "prep_time": "30 min",
     "cook_time": "10 min",
@@ -63034,7 +63034,7 @@
     "id": 614,
     "title": "Crudo de Lenguado con Aceitunas Rellenas y Cítricos (Italia)",
     "original_title": "Fluke Crudo, Sausage-Stuffed Olives, and Citrus - Senigallia Style (Moreno Cedroni Tribute)",
-    "category": "Pescados y Mariscos",
+    "category": "Pescados & Mariscos",
     "country": "Italia",
     "prep_time": "35 min",
     "cook_time": "5 min",
@@ -63288,7 +63288,7 @@
     "id": 616,
     "title": "Khao Soi Kai - Sopa de Fideos al Curry con Pollo (Tailandia)",
     "original_title": "Khao Soi Kai - Northern-Style Chicken Curry with Noodles (Chef Thai Ngoc Hieu / Sala Mae Nam)",
-    "category": "Sopas y Caldos",
+    "category": "Pastas",
     "country": "Tailandia",
     "prep_time": "20 min",
     "cook_time": "25 min",
@@ -63408,7 +63408,7 @@
     "id": 617,
     "title": "Sopa Picante de Pollo y Fideos Udon (Fusión)",
     "original_title": "Spicy Chicken and Udon Soup with Lime and Avocado (Chef Walter Hinds / poco)",
-    "category": "Sopas y Caldos",
+    "category": "Pastas",
     "country": "Fusión",
     "prep_time": "15 min",
     "cook_time": "15 min",
@@ -63519,7 +63519,7 @@
     "id": 618,
     "title": "Lasaña Tailandesa de Pollo Satay y Mango (Fusión)",
     "original_title": "Thai Lasagna with Rice Noodles, Cashew Chicken and Tropical Mango Salad (Chef Matthew Gray)",
-    "category": "Pastas",
+    "category": "Ensaladas",
     "country": "Fusión",
     "prep_time": "40 min",
     "cook_time": "15 min",
@@ -64304,7 +64304,7 @@
   {
     "id": 627,
     "title": "Salsa Goop para Hamburguesas (Estados Unidos)",
-    "category": "Salsas y Aderezos",
+    "category": "Hamburguesas",
     "country": "Estados Unidos",
     "difficulty": "Fácil",
     "prep_time": "5 min",
@@ -64346,7 +64346,7 @@
   {
     "id": 628,
     "title": "Salsa Schnäck de Chipotle para Hamburguesas (Estados Unidos)",
-    "category": "Salsas y Aderezos",
+    "category": "Hamburguesas",
     "country": "Estados Unidos",
     "difficulty": "Fácil",
     "prep_time": "5 min",
@@ -64431,7 +64431,7 @@
   {
     "id": 630,
     "title": "Papas Chips con Chile Rojo en Air Fryer (Estados Unidos)",
-    "category": "Guarniciones",
+    "category": "Hamburguesas",
     "country": "Estados Unidos",
     "difficulty": "Fácil",
     "prep_time": "25 min (incluye remojo)",
@@ -64531,7 +64531,7 @@
   {
     "id": 632,
     "title": "Quesadillas de Chorizo a la Parrilla con Salsa de Mango (México)",
-    "category": "Platos Principales",
+    "category": "Entradas",
     "country": "México",
     "difficulty": "Media",
     "prep_time": "20 min",
@@ -64582,7 +64582,7 @@
   {
     "id": 633,
     "title": "Cebolla Morada Encurtida con Especias (México)",
-    "category": "Salsas y Condimentos",
+    "category": "Hamburguesas",
     "country": "México",
     "difficulty": "Fácil",
     "prep_time": "15 min",
@@ -64630,7 +64630,7 @@
   {
     "id": 634,
     "title": "Chimichurri Criollo para Asado (Argentina)",
-    "category": "Salsas y Condimentos",
+    "category": "Salsas & Condimentos",
     "country": "Argentina",
     "difficulty": "Fácil",
     "prep_time": "15 min",
@@ -64677,7 +64677,7 @@
   {
     "id": 635,
     "title": "Loco Moco (Estados Unidos)",
-    "category": "Platos Principales",
+    "category": "Hamburguesas",
     "country": "Estados Unidos",
     "difficulty": "Media",
     "prep_time": "20 min",
@@ -64776,7 +64776,7 @@
   {
     "id": 637,
     "title": "Fischrouladen - Rollos de Col Rellenos de Bacalao (Alemania)",
-    "category": "Pescados y Mariscos",
+    "category": "Pescados & Mariscos",
     "country": "Alemania",
     "difficulty": "Media",
     "prep_time": "30 min",
@@ -64928,7 +64928,7 @@
   {
     "id": 640,
     "title": "Chucrut Fermentado Casero (Alemania)",
-    "category": "Conservas / Embutidos",
+    "category": "Pollo & Aves",
     "country": "Alemania",
     "difficulty": "Fácil",
     "prep_time": "30 min",
@@ -64976,7 +64976,7 @@
   {
     "id": 641,
     "title": "Chucrut Bávaro Estofado con Panceta y Cerveza (Alemania)",
-    "category": "Guarniciones",
+    "category": "Guisos & Platos de Olla",
     "country": "Alemania",
     "difficulty": "Fácil",
     "prep_time": "15 min",
@@ -65027,7 +65027,7 @@
   {
     "id": 642,
     "title": "Queso Cottage Casero (Reino Unido)",
-    "category": "Quesos y Lácteos",
+    "category": "Conservas & Lácteos",
     "country": "Reino Unido",
     "difficulty": "Fácil",
     "prep_time": "15 min",
@@ -65067,7 +65067,7 @@
   {
     "id": 643,
     "title": "The 866 - Cóctel de Aquavit y Pomelo (Dinamarca)",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "country": "Dinamarca",
     "difficulty": "Fácil",
     "prep_time": "5 min",
@@ -65108,7 +65108,7 @@
   {
     "id": 644,
     "title": "French 75 (Francia)",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "country": "Francia",
     "difficulty": "Fácil",
     "prep_time": "5 min",
@@ -65151,7 +65151,7 @@
   {
     "id": 645,
     "title": "Mai Tai (Estados Unidos)",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "country": "Estados Unidos",
     "difficulty": "Fácil",
     "prep_time": "5 min",
@@ -65196,7 +65196,7 @@
   {
     "id": 646,
     "title": "Strawberry Mojito (Cuba)",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "country": "Cuba",
     "difficulty": "Fácil",
     "prep_time": "5 min",
@@ -65240,7 +65240,7 @@
   {
     "id": 647,
     "title": "Sex on the Beach (Estados Unidos)",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "country": "Estados Unidos",
     "difficulty": "Fácil",
     "prep_time": "5 min",
@@ -65283,7 +65283,7 @@
   {
     "id": 648,
     "title": "Cosmopolitan (Estados Unidos)",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "country": "Estados Unidos",
     "difficulty": "Fácil",
     "prep_time": "5 min",
@@ -65327,7 +65327,7 @@
   {
     "id": 649,
     "title": "Tequila Sunrise (Estados Unidos)",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "country": "Estados Unidos",
     "difficulty": "Fácil",
     "prep_time": "5 min",
@@ -65369,7 +65369,7 @@
   {
     "id": 650,
     "title": "B-52 (Canadá)",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "country": "Canadá",
     "difficulty": "Fácil",
     "prep_time": "5 min",
@@ -65410,7 +65410,7 @@
   {
     "id": 651,
     "title": "Amaretto Sour (Estados Unidos)",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "country": "Estados Unidos",
     "difficulty": "Media",
     "prep_time": "5 min",
@@ -65453,7 +65453,7 @@
   {
     "id": 652,
     "title": "Moscow Mule (Estados Unidos)",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "country": "Estados Unidos",
     "difficulty": "Fácil",
     "prep_time": "5 min",
@@ -65494,7 +65494,7 @@
   {
     "id": 653,
     "title": "Bloody Mary (Francia)",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "country": "Francia",
     "difficulty": "Fácil",
     "prep_time": "5 min",
@@ -65538,7 +65538,7 @@
   {
     "id": 654,
     "title": "Penicillin (Estados Unidos)",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "country": "Estados Unidos",
     "difficulty": "Media",
     "prep_time": "5 min",
@@ -65581,7 +65581,7 @@
   {
     "id": 655,
     "title": "Paper Plane (Estados Unidos)",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "country": "Estados Unidos",
     "difficulty": "Fácil",
     "prep_time": "4 min",
@@ -65625,7 +65625,7 @@
   {
     "id": 656,
     "title": "New York Sour (Estados Unidos)",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "country": "Estados Unidos",
     "difficulty": "Media",
     "prep_time": "5 min",
@@ -65668,7 +65668,7 @@
   {
     "id": 657,
     "title": "Clover Club (Estados Unidos)",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "country": "Estados Unidos",
     "difficulty": "Media",
     "prep_time": "5 min",
@@ -65712,7 +65712,7 @@
   {
     "id": 658,
     "title": "Whiskey Sour (Estados Unidos)",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "country": "Estados Unidos",
     "difficulty": "Media",
     "prep_time": "5 min",
@@ -65757,7 +65757,7 @@
   {
     "id": 659,
     "title": "Sidecar (Francia)",
-    "category": "Cocktails & Tragos",
+    "category": "Cocktails & Bebidas",
     "country": "Francia",
     "difficulty": "Fácil",
     "prep_time": "4 min",
