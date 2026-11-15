@@ -65104,5 +65104,435 @@
       "Colar sobre el hielo del vaso preparado y decorar con una ramita de eneldo fresco."
     ],
     "notes": "La sal en el borde no es decorativa: neutraliza químicamente el exceso de amargor y acidez, permitiendo que resalten las notas anisadas de la alcaravea y el eneldo del aquavit."
+  },
+  {
+    "id": 644,
+    "title": "French 75 (Francia)",
+    "category": "Cocktails & Tragos",
+    "country": "Francia",
+    "difficulty": "Fácil",
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "rest_time": "0 min",
+    "servings": "1 copa",
+    "calories": "140 kcal",
+    "diet_badges": [
+      "Sin Gluten",
+      "Vegano"
+    ],
+    "tags": [
+      "French 75",
+      "Gin",
+      "Champagne",
+      "Cava",
+      "Limón",
+      "Cóctel con burbujas",
+      "Harry MacElhone"
+    ],
+    "image": "https://lh3.googleusercontent.com/-vsCs61LZsUs/avkxtZ-gneI/AAAAAAAQCbQ/pQZgT3xJWqkutTX44FBuSUVhU1Ses_67gCNcBGAsYHQ/s1600/french_75_16_9.jpg",
+    "story": "Creado durante la Primera Guerra Mundial en el célebre New York Bar de París por el barman Harry MacElhone, este cóctel debe su nombre al cañón de campaña francés de 75 milímetros, célebre por su precisión y demoledor impacto. Combina la frescura botánica de la ginebra con la acidez del limón fresco y la vivacidad efervescente del Champagne brut en copa flauta.",
+    "ingredients": [
+      "45 ml (1.5 oz) de Gin London Dry",
+      "15 ml (0.5 oz) de jugo de limón fresco recién exprimido y colado",
+      "15 ml (0.5 oz) de almíbar simple (1:1)",
+      "60 ml (2 oz) de Champagne brut, Cava o espumante seco frío",
+      "Cáscara de limón cortada en espiral fino (twist) para aromatizar"
+    ],
+    "instructions": [
+      "Enfriar previamente una copa flauta de Champagne con hielo picado.",
+      "En una coctelera con abundante hielo macizo, verter el gin, el jugo de limón recién exprimido y el almíbar simple.",
+      "Batir enérgicamente durante 10 a 12 segundos hasta que la coctelera esté escarchada.",
+      "Descartar el hielo de la copa flauta y colar la mezcla doblemente en la copa.",
+      "Completar lentamente con el Champagne bien frío para no romper la burbuja.",
+      "Aromatizar la superficie con los aceites de la cáscara de limón y decorar con el espiral."
+    ],
+    "notes": "En mi barra siempre utilizo un espumante brut nature bien seco; si se usa un espumante dulce o demi-sec el trago pierde el balance cítrico cortante que lo caracteriza."
+  },
+  {
+    "id": 645,
+    "title": "Mai Tai (Estados Unidos)",
+    "category": "Cocktails & Tragos",
+    "country": "Estados Unidos",
+    "difficulty": "Fácil",
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "rest_time": "0 min",
+    "servings": "1 trago",
+    "calories": "260 kcal",
+    "diet_badges": [
+      "Sin Gluten",
+      "Vegano"
+    ],
+    "tags": [
+      "Mai Tai",
+      "Cóctel Tiki",
+      "Ron blanco",
+      "Ron oscuro",
+      "Orgeat",
+      "Trader Vic",
+      "Polinesia"
+    ],
+    "image": "https://lh3.googleusercontent.com/-nUShHl1LOW0/avkxut-dUbI/AAAAAAAQCbY/yf5LoskJyj0q9tFrYKEH_NgY3XwcZiETwCNcBGAsYHQ/s1600/mai_tai_16_9.jpg",
+    "story": "El estandarte indiscutido de la coctelería Tiki, concebido por Victor Bergeron ('Trader Vic') en Oakland, California, en 1944. Cuenta la historia que al servírselo a amigos de Tahití, una de las invitadas exclamó 'Maita'i roa ae!' ('¡El mejor, fuera de este mundo!'), bautizando para siempre a esta sublime mezcla de rones caribeños, licor de naranja y jarabe de almendras.",
+    "ingredients": [
+      "30 ml (1 oz) de ron blanco agrícola o ligero",
+      "30 ml (1 oz) de ron oscuro añejo jamaicano con cuerpo (para float superior)",
+      "15 ml (0.5 oz) de Orange Curaçao o Cointreau",
+      "15 ml (0.5 oz) de jarabe de almendras (orgeat)",
+      "20 ml (0.7 oz) de jugo de lima fresco recién exprimido",
+      "1 chorrito pequeño de granadina",
+      "Hielo picado abundante",
+      "Garnish: triángulo de piña fresca, cereza marrasquino y ramillete de menta fresca"
+    ],
+    "instructions": [
+      "En la coctelera con hielo picado, añadir el ron blanco, el Orange Curaçao, el orgeat y el jugo de lima fresco.",
+      "Agitar con fuerza durante 10 segundos para enfriar e integrar.",
+      "Verter todo el contenido (con el hielo picado) dentro de un vaso Old Fashioned ancho o copa tiki.",
+      "Con la ayuda de una cuchara de bar, verter el ron oscuro suavemente sobre la superficie formando una capa flotante (*float*).",
+      "Decorar con la cuña de piña, la cereza y un penacho de menta fresca previamente golpeado contra la palma para liberar sus aceites esenciales."
+    ],
+    "notes": "El jarabe de almendras (orgeat) es el corazón insustituible del Mai Tai: aporta una sedosidad láctea vegetal y notas florales que redondean la astringencia del ron añejo."
+  },
+  {
+    "id": 646,
+    "title": "Strawberry Mojito (Cuba)",
+    "category": "Cocktails & Tragos",
+    "country": "Cuba",
+    "difficulty": "Fácil",
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "rest_time": "0 min",
+    "servings": "1 trago",
+    "calories": "180 kcal",
+    "diet_badges": [
+      "Sin Gluten",
+      "Vegano"
+    ],
+    "tags": [
+      "Mojito",
+      "Frutilla",
+      "Fresa",
+      "Ron cubano",
+      "Hierbabuena",
+      "Cóctel de verano"
+    ],
+    "image": "https://lh3.googleusercontent.com/-3wsCGU_ZuM4/avkxv3FHtrI/AAAAAAAQCbg/-A_bJFguaj8Jl8TeuGu6NJpR2KAvKNtxQCNcBGAsYHQ/s1600/strawberry_mojito_16_9.jpg",
+    "story": "Una brillante y refrescante evolución del clásico mojito habanero que incorpora frutillas frescas de temporada. La dulzura frutal y el color rubí de la fruta machacada en el fondo del vaso armonizan a la perfección con el frescor balsámico de la hierbabuena y el filo cítrico de la lima recién exprimida.",
+    "ingredients": [
+      "50 ml (1.7 oz) de ron blanco cubano ligero",
+      "4 frutillas frescas maduras, lavadas y sin cabito",
+      "8 a 10 hojas de hierbabuena fresca limpia",
+      "25 ml (0.8 oz) de jugo de lima fresco recién exprimido",
+      "2 cucharaditas de azúcar común",
+      "Soda o agua con gas para completar",
+      "Hielo picado abundante"
+    ],
+    "instructions": [
+      "En un vaso alto tipo Highball, colocar 3 de las frutillas cortadas al medio junto con el azúcar y el jugo de lima.",
+      "Machacar suavemente con un mortero de bar para extraer todo el jugo y pulpa.",
+      "Sumar las hojas de hierbabuena y presionar apenas un par de veces para liberar sus aromas sin romperlas ni generar amargor.",
+      "Verter el ron blanco y llenar el vaso con abundante hielo picado.",
+      "Completar con un golpe de soda fría y remover con cuchara imperial con movimientos ascendentes.",
+      "Decorar con la frutilla restante cortada en abanico y una ramita de hierbabuena fresca."
+    ],
+    "notes": "En mi cocina siempre recuerdo no licuar jamás las frutillas para este cóctel; el encanto del mojito reside en la textura rústica de los trocitos de fruta macerados a mortero."
+  },
+  {
+    "id": 647,
+    "title": "Sex on the Beach (Estados Unidos)",
+    "category": "Cocktails & Tragos",
+    "country": "Estados Unidos",
+    "difficulty": "Fácil",
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "rest_time": "0 min",
+    "servings": "1 trago",
+    "calories": "210 kcal",
+    "diet_badges": [
+      "Sin Gluten",
+      "Vegano"
+    ],
+    "tags": [
+      "Sex on the Beach",
+      "Vodka",
+      "Licor de durazno",
+      "Arándano",
+      "Naranja",
+      "Cóctel playero",
+      "Florida"
+    ],
+    "image": "https://lh3.googleusercontent.com/-OVCZkTycjEw/avkxxeIaapI/AAAAAAAQCbo/up4Y2vyu-gI8v3SeMQRnew4bJ_llVcXtgCNcBGAsYHQ/s1600/sex_on_the_beach_16_9.jpg",
+    "story": "Nacido en Florida en la primavera de 1987 de la mano de un barman del Confetti's Bar, este trago saltó de inmediato a la fama global como el cóctel playero por antonomasia. Combina la neutralidad del vodka con la dulzura frutal del licor de durazno (peach schnapps) y el contraste entre el jugo de naranja recién exprimido y la acidez punzante de los arándanos rojos.",
+    "ingredients": [
+      "45 ml (1.5 oz) de vodka neutro de calidad",
+      "25 ml (0.8 oz) de licor de durazno (Peach Schnapps)",
+      "45 ml (1.5 oz) de jugo de naranja recién exprimido y colado",
+      "45 ml (1.5 oz) de jugo de arándanos rojos (cranberry)",
+      "Cubos de hielo macizo",
+      "Garnish: rodaja de naranja y cereza al marrasquino"
+    ],
+    "instructions": [
+      "Llenar un vaso alto tipo Highball o Hurricane con cubos de hielo hasta el tope.",
+      "En coctelera con hielo, batir el vodka, el licor de durazno y el jugo de naranja durante 10 segundos.",
+      "Colar sobre el vaso preparado con hielo.",
+      "Verter suavemente el jugo de arándanos rojos en la superficie; por diferencia de densidad se generará un degradé natural rojizo.",
+      "Decorar con media rodaja de naranja en el borde y una cereza roja."
+    ],
+    "notes": "Para que el degradé de colores luzca perfecto en la cristalería, verter siempre el jugo de arándanos haciéndolo rebotar despacio sobre un cubito de hielo en la superficie."
+  },
+  {
+    "id": 648,
+    "title": "Cosmopolitan (Estados Unidos)",
+    "category": "Cocktails & Tragos",
+    "country": "Estados Unidos",
+    "difficulty": "Fácil",
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "rest_time": "0 min",
+    "servings": "1 copa",
+    "calories": "165 kcal",
+    "diet_badges": [
+      "Sin Gluten",
+      "Vegano"
+    ],
+    "tags": [
+      "Cosmopolitan",
+      "Cosmo",
+      "Vodka Citron",
+      "Cointreau",
+      "Cranberry",
+      "Toby Cecchini",
+      "Nueva York"
+    ],
+    "image": "https://lh3.googleusercontent.com/-31TIglXRFP4/avkxymhR7zI/AAAAAAAQCbw/SBEpjNNSG8kka284ltfE2WcyqXwjQWodwCNcBGAsYHQ/s1600/cosmopolitan_16_9.jpg",
+    "story": "Perfeccionado en 1988 por Toby Cecchini en The Odeon de Manhattan, el Cosmopolitan se convirtió en el cóctel urbano más icónico de los años noventa. A diferencia de las versiones sobreazucaradas, el verdadero Cosmo es seco, cítrico y de un elegante color rosa translúcido gracias al jugo de arándano agrio y la pureza del vodka macerado al limón.",
+    "ingredients": [
+      "45 ml (1.5 oz) de vodka saborizado al limón (Absolut Citron)",
+      "20 ml (0.7 oz) de licor triple sec de naranja (Cointreau)",
+      "30 ml (1 oz) de jugo de arándanos rojos (cranberry juice no azucarado)",
+      "15 ml (0.5 oz) de jugo de lima fresco recién exprimido",
+      "Hielo entero abundante",
+      "Garnish: piel de naranja flameada o rodajita fina de lima"
+    ],
+    "instructions": [
+      "Enfriar una copa de cóctel tipo Martini o Coupé en el congelador.",
+      "Llenar una coctelera con hielo macizo hasta tres cuartos de su capacidad.",
+      "Incorporar el vodka al limón, el Cointreau, el jugo de arándanos y el jugo de lima fresco.",
+      "Batir enérgicamente durante 15 segundos hasta sentir el metal helado.",
+      "Doble colar (usando colador oruga y malla fina) sobre la copa helada para evitar esquirlas de hielo.",
+      "Aromatizar la copa flameando los aceites esenciales de una cáscara de naranja sobre una llama y depositarla en el borde."
+    ],
+    "notes": "El error más común en el Cosmopolitan es usar demasiado jugo de arándanos: debe tener solo el volumen justo para teñir el trago de rosa rubí pálido sin ahogar la potencia del vodka y el Cointreau."
+  },
+  {
+    "id": 649,
+    "title": "Tequila Sunrise (Estados Unidos)",
+    "category": "Cocktails & Tragos",
+    "country": "Estados Unidos",
+    "difficulty": "Fácil",
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "rest_time": "0 min",
+    "servings": "1 trago",
+    "calories": "190 kcal",
+    "diet_badges": [
+      "Sin Gluten",
+      "Vegano"
+    ],
+    "tags": [
+      "Tequila Sunrise",
+      "Tequila blanco",
+      "Granadina",
+      "Jugo de naranja",
+      "The Trident",
+      "California"
+    ],
+    "image": "https://lh3.googleusercontent.com/-8Uq8wPrYQPQ/avkx0TVEYzI/AAAAAAAQCb4/FLo47vPkX6YhFI0Dy3QcSkY0T87ofImvgCNcBGAsYHQ/s1600/tequila_sunrise_16_9.jpg",
+    "story": "Popularizado a principios de los años 70 en el bar The Trident de Sausalito, California, por Bobby Lozoff y Billy Rice, e inmortalizado por la mítica gira de 1972 de The Rolling Stones. Su nombre celebra el espectacular efecto visual de un amanecer mexicano sobre el Pacífico, logrado sin artificios mediante la diferencia de densidades entre la granadina y el jugo de naranja.",
+    "ingredients": [
+      "50 ml (1.7 oz) de tequila blanco 100% de agave",
+      "100 ml (3.5 oz) de jugo de naranja recién exprimido y finamente colado",
+      "15 ml (0.5 oz) de jarabe de granadina puro",
+      "Cubos de hielo macizo",
+      "Garnish: media rodaja de naranja fresca y cereza al marrasquino"
+    ],
+    "instructions": [
+      "Llenar un vaso alto tipo Highball o Collins con cubos de hielo enteros.",
+      "Verter el tequila blanco y añadir el jugo de naranja recién exprimido.",
+      "Remover suavemente con la cuchara de bar para integrar el destilado con el cítrico.",
+      "Verter muy despacio la granadina contra el borde interior del vaso; por su densidad caerá directo al fondo.",
+      "Dejar reposar 30 segundos sin mezclar para que se asiente el degradé de tres colores: rojo profundo, naranja cálido y amarillo brillante en la cima.",
+      "Decorar con la rodaja de naranja y la cereza ensartadas en un palillo de bambú."
+    ],
+    "notes": "Es fundamental no revolver el cóctel una vez añadida la granadina; se debe servir con sorbete o pajita para que quien lo disfrute pueda ir descubriendo la transición de sabores de lo dulce a lo cítrico."
+  },
+  {
+    "id": 650,
+    "title": "B-52 (Canadá)",
+    "category": "Cocktails & Tragos",
+    "country": "Canadá",
+    "difficulty": "Fácil",
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "rest_time": "0 min",
+    "servings": "1 shot (60 ml)",
+    "calories": "170 kcal",
+    "diet_badges": [
+      "Sin Gluten",
+      "Vegetariano"
+    ],
+    "tags": [
+      "B-52",
+      "Chupito en capas",
+      "Kahlúa",
+      "Baileys",
+      "Grand Marnier",
+      "Banff Springs",
+      "Cóctel digestivo"
+    ],
+    "image": "https://lh3.googleusercontent.com/-r46Ki0JaktE/avkx1miwFjI/AAAAAAAQCcA/oagsWEtFWeQgRpaLNztkIEn-wv720CTEQCNcBGAsYHQ/s1600/b_52_16_9.jpg",
+    "story": "Creado en 1977 por Peter Fich en el Banff Springs Hotel de Alberta, Canadá, y nombrado en tributo a la icónica banda de rock The B-52's (y al mítico bombardero estadounidense). Es la obra maestra mundial de los chupitos estratificados (*pousse-café*), donde tres licores de densidades cuidadosamente calculadas descansan uno sobre otro formando franjas horizontales perfectas.",
+    "ingredients": [
+      "20 ml (0.7 oz) de licor de café (Kahlúa o Tía María) — Densidad alta",
+      "20 ml (0.7 oz) de crema irlandesa (Baileys Irish Cream) — Densidad media",
+      "20 ml (0.7 oz) de licor triple sec / coñac de naranja (Grand Marnier o Cointreau) — Densidad baja"
+    ],
+    "instructions": [
+      "Disponer un vaso de chupito o shot recto de 60 ml bien limpio y seco.",
+      "Verter primero el licor de café en el fondo del vaso con pulso firme.",
+      "Colocar el dorso de una cucharilla de bar tocando suavemente la pared interna del vaso, justo por encima del licor de café.",
+      "Verter con extrema lentitud la crema irlandesa Baileys haciéndola resbalar por la cuchara para que repose sobre la capa oscura sin mezclarse.",
+      "Limpiar la cucharilla y repetir exactamente la misma operación con el Grand Marnier en la parte superior.",
+      "Servir de inmediato para contemplar las tres franjas perfectamente delimitadas y beber de un solo trago."
+    ],
+    "notes": "El secreto reside en la temperatura de las botellas: tener el Baileys ligeramente frío ayuda a que su viscosidad sea mayor y flote sobre el Kahlúa con facilidad pasmosa."
+  },
+  {
+    "id": 651,
+    "title": "Amaretto Sour (Estados Unidos)",
+    "category": "Cocktails & Tragos",
+    "country": "Estados Unidos",
+    "difficulty": "Media",
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "rest_time": "0 min",
+    "servings": "1 trago",
+    "calories": "220 kcal",
+    "diet_badges": [
+      "Sin Gluten",
+      "Vegetariano"
+    ],
+    "tags": [
+      "Amaretto Sour",
+      "Disaronno",
+      "Bourbon",
+      "Jeffrey Morgenthaler",
+      "Sour con clara",
+      "Almendra"
+    ],
+    "image": "https://lh3.googleusercontent.com/-cnQmgRcNmrU/avkx3Ky73sI/AAAAAAAQCcI/oT7UVER-qREpYPU2ei11sZuKGBNx_iamgCNcBGAsYHQ/s1600/amaretto_sour_16_9.jpg",
+    "story": "Durante décadas el Amaretto Sour fue despreciado por considerarse un trago dulzón y artificial hecho con mezclas industriales. En 2012, el maestro barman Jeffrey Morgenthaler de Portland revolucionó la receta agregando una dosis de Bourbon de alta graduación para aportar estructura alcohólica y una clara de huevo fresca para lograr una emulsión cremosa y sedosa.",
+    "ingredients": [
+      "45 ml (1.5 oz) de licor de almendras Amaretto Disaronno",
+      "25 ml (0.8 oz) de Bourbon de alta graduación (100 proof / Cask Strength)",
+      "30 ml (1 oz) de jugo de limón fresco recién exprimido",
+      "5 ml (1 cucharadita) de almíbar simple (1:1)",
+      "1 clara de huevo grande fresca (o 15 ml de aquafaba)",
+      "Garnish: piel de limón y cereza Amarena en el centro"
+    ],
+    "instructions": [
+      "Enfriar una copa Coupé o vaso Old Fashioned.",
+      "Realizar un batido en seco (*Dry Shake*): colocar el Amaretto, Bourbon, jugo de limón, almíbar y la clara de huevo en la coctelera sin hielo. Batir con fuerza durante 15 segundos para emulsionar la proteína.",
+      "Abrir la coctelera, llenar con cubos de hielo macizo y realizar el batido en frío (*Hard Shake*) durante otros 15 segundos hasta que esté bien helado.",
+      "Doble colar el contenido en la copa o vaso con un cubo de hielo grande.",
+      "Dejar reposar 15 segundos para que la espuma blanca de clara suba a la superficie formando una corona densa y suave.",
+      "Decorar con la piel de limón y una cereza Amarena italiana."
+    ],
+    "notes": "En mi experiencia en coctelería, el corte de Bourbon es indispensable: sus notas amaderadas y alcohólicas secan el licor italiano y convierten este trago en un sour de alta gama indiscutible."
+  },
+  {
+    "id": 652,
+    "title": "Moscow Mule (Estados Unidos)",
+    "category": "Cocktails & Tragos",
+    "country": "Estados Unidos",
+    "difficulty": "Fácil",
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "rest_time": "0 min",
+    "servings": "1 jarro",
+    "calories": "160 kcal",
+    "diet_badges": [
+      "Sin Gluten",
+      "Vegano"
+    ],
+    "tags": [
+      "Moscow Mule",
+      "Vodka",
+      "Ginger Beer",
+      "Jarro de cobre",
+      "Cock 'n Bull",
+      "Lima fresca"
+    ],
+    "image": "https://lh3.googleusercontent.com/-iMJ-ttq2KEc/avkx4hIF_8I/AAAAAAAQCcQ/S9GPfSv9WkUcN7dI4U0USerZEUGrXc7ZQCNcBGAsYHQ/s1600/moscow_mule_16_9.jpg",
+    "story": "Creado en 1941 en el restaurante Cock 'n Bull de Hollywood por John Martin (distribuidor de vodka Smirnoff) y Jack Morgan (productor de cerveza de jengibre artesanal). Para promocionarlo, mandaron a fabricar los icónicos jarros de cobre grabados con una mula pateadora, desatando la primera gran fiebre del vodka en los Estados Unidos.",
+    "ingredients": [
+      "50 ml (1.7 oz) de vodka neutro",
+      "15 ml (0.5 oz) de jugo de lima fresco recién exprimido",
+      "120 ml (4 oz) de Ginger Beer picante de buena calidad (no ginger ale)",
+      "Hielo picado o frappé abundante",
+      "Garnish: rueda de lima fresca y un ramillete generoso de menta fresca"
+    ],
+    "instructions": [
+      "Llenar el jarro de cobre tradicional con hielo picado hasta el tope.",
+      "Añadir el vodka y el jugo de lima fresco sobre el hielo.",
+      "Completar lentamente con la Ginger Beer picante bien fría.",
+      "Remover suavemente con la cuchara imperial de abajo hacia arriba una sola vez para no perder gas carbónico.",
+      "Decorar con una rodaja de lima fresca en el hielo y una ramita de menta recién aplaudida en las manos para activar sus aromas."
+    ],
+    "notes": "El jarro de cobre no es solo tradición visual: su alta conductividad térmica enfría las paredes metálicas de inmediato, intensificando la sensación gélida y refrescante en los labios en cada sorbo."
+  },
+  {
+    "id": 653,
+    "title": "Bloody Mary (Francia)",
+    "category": "Cocktails & Tragos",
+    "country": "Francia",
+    "difficulty": "Fácil",
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "rest_time": "0 min",
+    "servings": "1 vaso",
+    "calories": "125 kcal",
+    "diet_badges": [
+      "Sin Gluten",
+      "Sin Lactosa"
+    ],
+    "tags": [
+      "Bloody Mary",
+      "Vodka",
+      "Jugo de tomate",
+      "Tabasco",
+      "Salsa inglesa",
+      "Harry's Bar París",
+      "Brunch"
+    ],
+    "image": "https://lh3.googleusercontent.com/-SR4o9q1po5I/avkx6HLMYiI/AAAAAAAQCcY/2PqciRUfkdcowzZ-92DBM8iVbGTeLxGOwCNcBGAsYHQ/s1600/bloody_mary_16_9.jpg",
+    "story": "Concebido en 1921 por Fernand Petiot en el mítico Harry's New York Bar de París. Originalmente una simple mezcla de vodka y jugo de tomate enlatado traído de América, Petiot lo perfeccionó años más tarde en el King Cole Bar del hotel St. Regis de Nueva York añadiendo sal, pimienta negra, cayena, jugo de limón y la emblemática salsa Worcestershire.",
+    "ingredients": [
+      "50 ml (1.7 oz) de vodka",
+      "120 ml (4 oz) de jugo de tomate puro de calidad",
+      "15 ml (0.5 oz) de jugo de limón fresco recién exprimido",
+      "4 golpes generosos de salsa inglesa Worcestershire",
+      "3 a 4 gotas de salsa picante Tabasco (al gusto)",
+      "1 pizca de sal de apio y pimienta negra recién molida",
+      "Hielo en cubos macizos",
+      "Garnish: tallo de apio fresco con sus hojas verdes y una rodaja de limón"
+    ],
+    "instructions": [
+      "En el vaso mezclador con hielo, incorporar el vodka, el jugo de tomate, el jugo de limón, la salsa inglesa, el Tabasco, la sal de apio y la pimienta.",
+      "Mezclar con la técnica de *rolling* (pasar suavemente la mezcla de un vaso a otro 4 o 5 veces con hielo) para enfriar y airear sin romper la textura ni aguar el tomate.",
+      "Colar sobre un vaso alto tipo Highball lleno de hielo fresco.",
+      "Introducir una penca de apio fresco para usar como agitador natural y decorar con la rodaja de limón en el borde."
+    ],
+    "notes": "Nunca batir el Bloody Mary en coctelera; la agitación violenta emulsiona el jugo de tomate con el aire y el hielo, volviéndolo espumoso y aguado en vez de denso y aterciopelado."
   }
 ]
