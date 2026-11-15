@@ -64651,7 +64651,7 @@
       "Orégano y ají molido",
       "Condimento criollo"
     ],
-    "image": "https://lh3.googleusercontent.com/-4TvBrKcHbMQ/avi301UfWsI/AAAAAAAQCUY/Fb6Ms4yUwEAtnwmYin9OYcQtoOQ2R8bjwCNcBGAsYHQ/s1600/chimichurri_criollo_asado.jpg",
+    "image": "https://lh3.googleusercontent.com/-Sthx2HqjsxM/avktTdQIBWI/AAAAAAAQCas/ixFb5CWaYBkqPqbrbbNNm7nzcqznL1e5QCNcBGAsYHQ/s1600/chimichurri_criollo_asado_definitiva.jpg",
     "story": "El chimichurri es el alma líquida indiscutida del asado argentino. Popularizado por maestros parrilleros y difundido por creadores como Senza Nervi Cocina, este aderezo rústico debe su excelencia a una técnica fundamental que muchos saltean: la hidratación previa de las hierbas y especias secas. Al despertar el orégano seco y el ají molido con un toque de agua tibia antes de incorporar el vinagre y el aceite, se liberan los aceites esenciales dormidos y se evita que absorban la acidez del vinagre de golpe. El resultado es una emulsión aromática, viva, equilibrada y sin astringencia, con el picor exacto para bañar cortes a las brasas, achuras, choripanes o carnes al horno.",
     "ingredients": [
       "1 vaso (200 ml) de aceite de girasol, maíz o mezcla suave",
@@ -65023,5 +65023,86 @@
       "Servicio: Retirar la hoja de laurel y las bayas de enebro si se prefieren descartar. Probar y rectificar de sal si hiciera falta. Servir de inmediato humeante junto a salchichas alemanas doradas, puré de papas o mostaza dulce de Múnich."
     ],
     "notes": "En mi cocina siempre recomiendo enjuagar muy brevemente el chucrut bajo el grifo solo si la fermentación original quedó con una acidez excesivamente agresiva; si el fermento es equilibrado, basta con escurrirlo bien con las manos. El agregado de la manzana verde rallada es un secreto bávaro indispensable: su pectina y acidez frutal suavizan el repollo sin tapar el carácter ahumado de la panceta ni las notas terrosas de la alcaravea."
+  },
+  {
+    "id": 642,
+    "title": "Queso Cottage Casero (Reino Unido)",
+    "category": "Quesos y Lácteos",
+    "country": "Reino Unido",
+    "difficulty": "Fácil",
+    "prep_time": "15 min",
+    "cook_time": "15 min",
+    "rest_time": "30 min",
+    "servings": "400 g",
+    "calories": "98 kcal por 100g",
+    "diet_badges": [
+      "Vegetariano",
+      "Alto en Proteínas",
+      "Sin Gluten"
+    ],
+    "tags": [
+      "Queso cottage",
+      "Lácteos caseros",
+      "Queso fresco",
+      "Proteico"
+    ],
+    "image": "https://lh3.googleusercontent.com/-Sthx2HqjsxM/avktTdQIBWI/AAAAAAAQCas/ixFb5CWaYBkqPqbrbbNNm7nzcqznL1e5QCNcBGAsYHQ/s1600/chimichurri_criollo_asado_definitiva.jpg",
+    "story": "El queso cottage es uno de los quesos frescos más antiguos de las granjas británicas y norteamericanas. A diferencia de otros quesos, se obtiene cortando la leche pasteurizada con ácido, enjuagando los granos de cuajada para quitarles acidez y terminándolos con un toque de crema de leche fresca.",
+    "ingredients": [
+      "2 litros de leche entera fresca pasteurizada (no ultrapasteurizada / UHT)",
+      "½ taza (120 ml) de vinagre blanco de alcohol o jugo de limón filtrado",
+      "½ cucharadita de sal fina",
+      "3 cucharadas de crema de leche fresca (para humectar)"
+    ],
+    "instructions": [
+      "Calentar la leche en una cacerola a fuego medio hasta alcanzar 85°C (punto antes de hervir, humeante con burbujitas en los bordes).",
+      "Apagar el fuego, verter el vinagre blanco de golpe y remover suavemente durante 1 minuto hasta ver la separación clara de cuajada blanca y suero amarillo.",
+      "Dejar reposar 30 minutos a temperatura ambiente sin mover.",
+      "Colar sobre un lienzo fino o gasa quesera apoyada en un colador durante 5 minutos.",
+      "Enjuagar la cuajada bajo un chorro suave de agua fría durante 1 minuto para eliminar el gusto a vinagre y dejar los granos dulces y limpios.",
+      "Escurrir suavemente sin apretar en exceso, pasar a un bol, desgranar con tenedor y mezclar con la sal y la crema de leche fresca. Guardar en heladera."
+    ],
+    "notes": "En mi cocina siempre uso leche entera pasteurizada de sachet; la leche UHT en cartón no sirve porque la temperatura ultra alta desnaturaliza las proteínas y no forma cuajada firme. El enjuague en agua fría es el secreto para que no quede ácido."
+  },
+  {
+    "id": 643,
+    "title": "The 866 - Cóctel de Aquavit y Pomelo (Dinamarca)",
+    "category": "Cocktails & Tragos",
+    "country": "Dinamarca",
+    "difficulty": "Fácil",
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "rest_time": "0 min",
+    "servings": "1 trago",
+    "calories": "160 kcal",
+    "diet_badges": [
+      "Sin Gluten",
+      "Vegano"
+    ],
+    "tags": [
+      "The 866",
+      "Aquavit",
+      "Campari",
+      "Pomelo",
+      "Cócteles nórdicos",
+      "Ruby Copenhague"
+    ],
+    "image": "https://lh3.googleusercontent.com/-Sthx2HqjsxM/avktTdQIBWI/AAAAAAAQCas/ixFb5CWaYBkqPqbrbbNNm7nzcqznL1e5QCNcBGAsYHQ/s1600/chimichurri_criollo_asado_definitiva.jpg",
+    "story": "Creado en el célebre bar Ruby de Copenhague y nombrado en honor a la línea de autobuses 866 de Dinamarca, este trago combina la fuerza herbal del aquavit con el amargor del Campari y la frescura del pomelo rosado, equilibrado con sal en el borde.",
+    "ingredients": [
+      "30 ml (1 oz) de Aquavit nórdico",
+      "30 ml (1 oz) de Campari",
+      "30 ml (1 oz) de jugo de pomelo rosado fresco recién exprimido",
+      "Sal marina fina (para escarchar el vaso)",
+      "Hielo entero y hielo picado",
+      "Ramita de eneldo fresco para decorar"
+    ],
+    "instructions": [
+      "Escarchar medio borde de un vaso bajo tipo rocks con gajo de pomelo y sal marina fina.",
+      "Llenar el vaso con cubos de hielo macizo.",
+      "En un vaso mezclador con abundante hielo, refrescar el aquavit, el Campari y el jugo de pomelo durante 20 segundos con cuchara imperial.",
+      "Colar sobre el hielo del vaso preparado y decorar con una ramita de eneldo fresco."
+    ],
+    "notes": "La sal en el borde no es decorativa: neutraliza químicamente el exceso de amargor y acidez, permitiendo que resalten las notas anisadas de la alcaravea y el eneldo del aquavit."
   }
 ]
