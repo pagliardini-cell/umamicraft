@@ -65797,5 +65797,56 @@
       "Exprimir los aceites esenciales de una piel de naranja sobre la superficie del trago y apoyar delicadamente la piel en el borde."
     ],
     "notes": "En mi barra siempre escarcho solamente la mitad de la copa con azúcar; así quien lo bebe puede elegir si tomar los sorbos con el contrapunto dulce del azúcar o disfrutar de la acidez nítida del Cognac puro con el limón."
+  },
+  {
+    "id": 660,
+    "title": "Hummus Sedoso de Tres Días (Líbano)",
+    "category": "Entradas",
+    "country": "Líbano",
+    "difficulty": "Media",
+    "prep_time": "20 min",
+    "cook_time": "30 min",
+    "rest_time": "48 h",
+    "servings": "6 porciones",
+    "calories": "220 kcal",
+    "diet_badges": [
+      "Vegano",
+      "Sin Gluten",
+      "Sin Lactosa"
+    ],
+    "tags": [
+      "Hummus",
+      "Garbanzos",
+      "Tahini",
+      "Técnica Michelin",
+      "Fork the People",
+      "Aquafaba helada",
+      "Mezze",
+      "Líbano",
+      "Entrada"
+    ],
+    "image": "https://lh3.googleusercontent.com/-aD9ChnF2P10/avoN7ls-quI/AAAAAAAQCfY/Z-jJQGS7ysElqOwlbjxFFuXupT7ShF0pwCNcBGAsYHQ/s1600/hummus_sedoso_definitiva.jpg",
+    "story": "Durante años busqué la textura definitiva del hummus: esa crema aterciopelada que parece una mousse y se deshace en el paladar sin un solo grumo ni aspereza. Esta técnica, popularizada por restaurantes con estrella Michelin y divulgada por creadores de alta cocina, descarta por completo el bicarbonato y el tedioso trabajo de pelar garbanzo por garbanzo. El secreto radica en tres días de paciencia culinaria: salmuera previa para debilitar las pectinas de la piel, cocción a fondo y una emulsión fría final utilizando el agua de cocción de los propios garbanzos congelada en cubos.",
+    "ingredients": [
+      "250 g de garbanzos secos de calibre mediano (no utilizar garbanzos enlatados)",
+      "1 cucharada sopera colmada de sal gruesa marina (para el agua de remojo)",
+      "120 g a 150 g de pasta de sésamo tahini de alta calidad (fluida y bien mezclada)",
+      "35 a 45 ml de jugo de limón fresco recién exprimido",
+      "1 cucharadita de sal fina marina (para sazonar al final, al gusto)",
+      "2 cucharadas soperas de aceite de oliva virgen extra (para el licuado)",
+      "Para servir: abundante aceite de oliva virgen extra, pimentón dulce ahumado, unos pocos garbanzos cocidos enteros reservados y pan pita casero recién horneado"
+    ],
+    "instructions": [
+      "Día 1 (Remojo en salmuera): Colocar los garbanzos secos en un bol grande, cubrir con el triple de su volumen en agua fría y disolver la cucharada de sal gruesa. Dejar reposar durante 12 a 16 horas. La sal penetra la cáscara y rompe la estructura de las pectinas duras sin necesidad de químicos.",
+      "Día 2 (Cocción y primer licuado): Escurrir los garbanzos y enjuagarlos dos o tres veces bajo el agua corriente. Llevarlos a la olla a presión cubiertos con 4 cm de agua limpia y cocinar durante 30 minutos a presión alta (o 2 horas en olla convencional) hasta que queden tan tiernos que se desarmen al tocarlos.",
+      "Colar los garbanzos inmediatamente sobre un cuenco para recoger y conservar toda el agua de cocción (aquafaba natural rica en almidón y proteínas vegetales).",
+      "Pasar los garbanzos calientes a la licuadora potente junto con solo la cantidad necesaria de su propio caldo caliente para que las cuchillas giren sin esfuerzo. Procesar a máxima velocidad durante 2 minutos hasta obtener un puré absolutamente fino y brillante.",
+      "Pasar el puré a un recipiente, tapar al ras con papel film y enfriar en la heladera durante 24 horas. Al mismo tiempo, verter 150 ml del caldo de cocción restante en una cubetera y llevarlo al freezer toda la noche.",
+      "Día 3 (La emulsión fría): Colocar en la licuadora el puré de garbanzos frío junto con los cubos de caldo congelados. Procesar a máxima potencia: la fricción de las cuchillas derretirá el hielo lentamente mientras el frío constante evita que la grasa se recaliente y airea la pasta.",
+      "Con el motor en marcha a velocidad media-baja, incorporar el tahini en hilo continuo y el jugo de limón recién exprimido. Observar cómo la preparación adquiere un color marfil perlado y una textura esponjosa y ligera.",
+      "Finalizar agregando la cucharadita de sal fina y las dos cucharadas de aceite de oliva para aportar brillo (*gloss*). Procesar 20 segundos más y rectificar: si falta intensidad, añadir una pizca más de sal o tahini.",
+      "Emplatado de alta cocina: Servir a temperatura ambiente sobre un plato hondo o fuente plana, trazando un surco circular amplio con el dorso de la cuchara. Verter en el centro un charco generoso de aceite de oliva virgen extra, espolvorear pimentón ahumado y coronar con garbanzos enteros. Acompañar con pan pita caliente."
+    ],
+    "notes": "En mi cocina este método cambió por completo el concepto de hummus: el uso de los cubos de aquafaba congelada es un truco científico maestro. Al no agregar agua común no se diluye el sabor profundo de la legumbre, y el choque térmico del hielo estabiliza la grasa del sésamo logrando una emulsión espesa, sedosa y sumamente liviana."
   }
 ]
