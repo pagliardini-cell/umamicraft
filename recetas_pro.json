@@ -65534,5 +65534,268 @@
       "Introducir una penca de apio fresco para usar como agitador natural y decorar con la rodaja de limón en el borde."
     ],
     "notes": "Nunca batir el Bloody Mary en coctelera; la agitación violenta emulsiona el jugo de tomate con el aire y el hielo, volviéndolo espumoso y aguado en vez de denso y aterciopelado."
+  },
+  {
+    "id": 654,
+    "title": "Penicillin (Estados Unidos)",
+    "category": "Cocktails & Tragos",
+    "country": "Estados Unidos",
+    "difficulty": "Media",
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "rest_time": "0 min",
+    "servings": "1 copa",
+    "calories": "195 kcal",
+    "diet_badges": [
+      "Sin Gluten",
+      "Sin Lactosa"
+    ],
+    "tags": [
+      "Penicillin",
+      "Scotch",
+      "Islay Single Malt",
+      "Sam Ross",
+      "Milk & Honey",
+      "Jengibre y Miel",
+      "Sour Moderno"
+    ],
+    "image": "https://lh3.googleusercontent.com/-20Ye9dJGZLU/avk2rHHmSyI/AAAAAAAQCdM/Ru-ZhAxNWdEOfkOWq2-5q_63Mi77Sk1zwCNcBGAsYHQ/s1600/penicillin_definitiva.jpg",
+    "story": "Creado en 2005 por el bartender Sam Ross en el legendario bar speakeasy Milk & Honey de Manhattan, Nueva York. Es ampliamente considerado el cóctel moderno de autor más aclamado e influyente del siglo XXI, un giro maestro sobre la estructura clásica del whisky sour incorporando la calidez balsámica del jengibre y la turba ahumada escocesa.",
+    "ingredients": [
+      "60 ml (2 oz) de Blended Scotch Whisky",
+      "22.5 ml (0.75 oz) de jugo de limón fresco recién exprimido",
+      "22.5 ml (0.75 oz) de jarabe de miel y jengibre fresco (partes iguales de miel pura, agua y jugo de jengibre fresco)",
+      "7.5 ml (0.25 oz) de Islay Single Malt ahumado (tipo Laphroaig o Ardbeg) para el float superior",
+      "Hielo macizo en cubos",
+      "Garnish: lámina de jengibre confitado o piel de limón"
+    ],
+    "instructions": [
+      "En una coctelera con abundante hielo en cubos macizos, incorporar el Blended Scotch whisky, el jugo de limón fresco y el jarabe de miel y jengibre.",
+      "Batir enérgicamente (*hard shake*) durante unos 12 a 15 segundos hasta lograr un frío profundo y una correcta dilución.",
+      "Colar con doble colador (oruga y malla fina) sobre un vaso bajo tipo Rocks / Old Fashioned con un gran bloque de hielo macizo.",
+      "Hacer resbalar suavemente los 7.5 ml de Islay Single Malt ahumado sobre el dorso de la cuchara de bar, depositándolo en la superficie para formar una capa flotante (*float* aromático).",
+      "Decorar con una lámina de jengibre confitado en un pincho sobre la copa."
+    ],
+    "notes": "El secreto de este trago es no mezclar el Islay: al llevar el vaso a la boca, la nariz recibe el golpe ahumado y turbado del malta escocés, mientras que el paladar descubre de inmediato la frescura cítrica, la miel y el picor limpio del jengibre."
+  },
+  {
+    "id": 655,
+    "title": "Paper Plane (Estados Unidos)",
+    "category": "Cocktails & Tragos",
+    "country": "Estados Unidos",
+    "difficulty": "Fácil",
+    "prep_time": "4 min",
+    "cook_time": "0 min",
+    "rest_time": "0 min",
+    "servings": "1 copa",
+    "calories": "180 kcal",
+    "diet_badges": [
+      "Sin Gluten",
+      "Vegetariano"
+    ],
+    "tags": [
+      "Paper Plane",
+      "Bourbon",
+      "Aperol",
+      "Amaro Nonino",
+      "Sam Ross",
+      "The Violet Hour",
+      "Modern Classic"
+    ],
+    "image": "https://lh3.googleusercontent.com/-T6ncbIUYiow/avk2sVD_WRI/AAAAAAAQCdU/kHC45MUawx019meKQBqNu124xGU6B8oxACNcBGAsYHQ/s1600/paper_plane_definitiva.jpg",
+    "story": "Creado en 2008 por Sam Ross para la apertura del bar The Violet Hour en Chicago, e inspirado en el tema Paper Planes de M.I.A. Nació como una reinterpretación moderna y luminosa del clásico The Last Word, sustituyendo la ginebra y el Chartreuse por Bourbon y dos amari italianos de perfil cítrico y herbal.",
+    "ingredients": [
+      "22.5 ml (0.75 oz) de Bourbon americano",
+      "22.5 ml (0.75 oz) de Aperol",
+      "22.5 ml (0.75 oz) de Amaro Nonino Quintessentia",
+      "22.5 ml (0.75 oz) de jugo de limón fresco recién exprimido",
+      "Hielo en cubos macizos",
+      "Garnish: pequeño avioncito de papel doblado en el borde o piel de naranja"
+    ],
+    "instructions": [
+      "Enfriar previamente una copa Coupé o Nick & Nora colocándole hielo o manteniéndola en el freezer.",
+      "En la coctelera, verter las cuatro partes iguales: Bourbon, Aperol, Amaro Nonino y jugo de limón recién exprimido.",
+      "Agregar cubos de hielo macizo hasta tres cuartos de la coctelera.",
+      "Batir con fuerza durante 12 a 15 segundos hasta que el metal de la coctelera quede completamente escarchado.",
+      "Doble colar con colador de gusanillo y malla fina directamente en la copa bien fría.",
+      "Servir sin hielo, coronando con el pequeño avioncito de papel sujetado con una pincita o perfumando los bordes con la piel de naranja."
+    ],
+    "notes": "En mi barra este trago es sagrado por su armonía matemática: partes iguales exactas. El Amaro Nonino aporta botánicos alpinos y naranja amarga que balancean a la perfección la fuerza del Bourbon y la acidez del limón."
+  },
+  {
+    "id": 656,
+    "title": "New York Sour (Estados Unidos)",
+    "category": "Cocktails & Tragos",
+    "country": "Estados Unidos",
+    "difficulty": "Media",
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "rest_time": "0 min",
+    "servings": "1 vaso",
+    "calories": "210 kcal",
+    "diet_badges": [
+      "Sin Gluten",
+      "Vegetariano"
+    ],
+    "tags": [
+      "New York Sour",
+      "Bourbon",
+      "Vino Tinto",
+      "Malbec",
+      "Whiskey Sour",
+      "Float",
+      "Bicolor"
+    ],
+    "image": "https://lh3.googleusercontent.com/-tX5TczpmI9c/avk2tDV_X_I/AAAAAAAQCdc/g0R9q4m6hlwa7fAE3p41F6xoHvFfueroQCNcBGAsYHQ/s1600/new_york_sour_definitiva.jpg",
+    "story": "Surgido a finales del siglo XIX en Chicago bajo el nombre de Continental Sour y rebautizado en Manhattan por los bartenders neoyorquinos que lo convirtieron en furor. Es una de las creaciones visuales más elegantes de la coctelería gracias a su distintiva corona bicolor de vino tinto flotando sobre la base dorada del whisky.",
+    "ingredients": [
+      "60 ml (2 oz) de Bourbon o Rye Whiskey",
+      "22.5 ml (0.75 oz) de jugo de limón fresco recién exprimido",
+      "22.5 ml (0.75 oz) de almíbar simple (1:1)",
+      "15 ml (0.5 oz) de vino tinto seco con cuerpo y fruta (un buen Malbec, Cabernet o Syrah)",
+      "Hielo macizo en cubos",
+      "Garnish: cereza Marrasquino y media rodaja o twist de limón"
+    ],
+    "instructions": [
+      "En la coctelera, verter el Bourbon (o Rye), el jugo de limón y el almíbar simple junto con cubos de hielo macizo.",
+      "Batir vigorosamente durante 12 a 15 segundos para lograr una emulsión fría y sedosa.",
+      "Colar sobre un vaso Old Fashioned / Rocks con hielo nuevo y macizo.",
+      "Con mucho pulso, colocar la cuchara de bar con el dorso hacia arriba rozando la superficie de la bebida, y verter lentamente el vino tinto sobre el dorso para que resbale sin mezclarse, formando una capa roja perfecta en la parte superior.",
+      "Decorar con la cereza y la piel de limón."
+    ],
+    "notes": "Suelo usar un Malbec argentino joven y frutal: los taninos secos y las notas de ciruela y frutos rojos cortan la dulzura del Bourbon y añaden una acidez vinosa exquisita que ennoblece todo el trago."
+  },
+  {
+    "id": 657,
+    "title": "Clover Club (Estados Unidos)",
+    "category": "Cocktails & Tragos",
+    "country": "Estados Unidos",
+    "difficulty": "Media",
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "rest_time": "0 min",
+    "servings": "1 copa",
+    "calories": "190 kcal",
+    "diet_badges": [
+      "Sin Gluten",
+      "Vegetariano"
+    ],
+    "tags": [
+      "Clover Club",
+      "Gin",
+      "London Dry",
+      "Frambuesa",
+      "Clara de huevo",
+      "Filadelfia",
+      "Sour aterciopelado"
+    ],
+    "image": "https://lh3.googleusercontent.com/-dLMMV6X5_FM/avk2ucGyVdI/AAAAAAAQCdk/LaJO__8fku4eY7BXaVyF1FDOIFuI6nkeACNcBGAsYHQ/s1600/clover_club_definitiva.jpg",
+    "story": "Nacido a finales del siglo XIX en el exclusivo club de caballeros del Bellevue-Stratford Hotel de Filadelfia, frecuentado por escritores y hombres de negocios. Aunque fue olvidado durante décadas tras la Prohibición, resurgió en los mejores bares del mundo gracias a su inconfundible textura cremosa y su delicado tono rosa pastel.",
+    "ingredients": [
+      "50 ml (1.7 oz) de London Dry Gin",
+      "20 ml (0.7 oz) de jugo de limón fresco recién exprimido",
+      "15 ml (0.5 oz) de jarabe de frambuesas frescas (o 5 frambuesas machacadas con 15 ml de almíbar)",
+      "1 clara de huevo fresca (o 15 ml de aquafaba)",
+      "Hielo en cubos macizos",
+      "Garnish: 3 frambuesas frescas ensartadas en un pincho de bambú"
+    ],
+    "instructions": [
+      "Enfriar previamente una copa Coupé.",
+      "En la coctelera sin hielo (*Dry Shake*), colocar el gin, el jugo de limón, el jarabe de frambuesa y la clara de huevo. Batir en seco con fuerza durante 15 segundos para emulsionar la proteína.",
+      "Abrir la coctelera, colmar de cubos de hielo macizo y realizar el batido en frío (*Hard Shake*) durante 12 segundos.",
+      "Doble colar con colador de gusanillo y malla fina directamente en la copa fría.",
+      "Dejar asentar unos segundos para que la espuma blanca de clara suba a la superficie formando una corona densa y esponjosa sobre el líquido rosado.",
+      "Apoyar delicadamente el pincho con las frambuesas sobre la corona de espuma."
+    ],
+    "notes": "En mi barra preparo el almíbar de frambuesa en frío macerando fruta madura con azúcar para conservar el perfume silvestre y la acidez viva de la baya sin notas de mermelada cocida."
+  },
+  {
+    "id": 658,
+    "title": "Whiskey Sour (Estados Unidos)",
+    "category": "Cocktails & Tragos",
+    "country": "Estados Unidos",
+    "difficulty": "Media",
+    "prep_time": "5 min",
+    "cook_time": "0 min",
+    "rest_time": "0 min",
+    "servings": "1 vaso",
+    "calories": "195 kcal",
+    "diet_badges": [
+      "Sin Gluten",
+      "Vegetariano"
+    ],
+    "tags": [
+      "Whiskey Sour",
+      "Bourbon",
+      "Limón",
+      "Almíbar simple",
+      "Clara de huevo",
+      "Fórmula de Oro",
+      "Angostura"
+    ],
+    "image": "https://lh3.googleusercontent.com/-wKrzHFmDjHc/avk2vWKRbkI/AAAAAAAQCds/xzif3Aw7_owCxQE5ycgo34jgj6HY5ZJAACNcBGAsYHQ/s1600/whiskey_sour_definitiva.jpg",
+    "story": "El patriarca indiscutido de toda la familia de cócteles sour, registrado por primera vez en la biblia de la coctelería de Jerry Thomas en 1862. Se rige por la legendaria Fórmula de Oro (2 partes de destilado, 3/4 de cítrico y 3/4 de dulce), logrando un balance milimétrico entre la fuerza del roble americano y la acidez del limón.",
+    "ingredients": [
+      "60 ml (2 oz) de Bourbon americano (o Rye Whiskey)",
+      "22.5 ml (0.75 oz) de jugo de limón fresco recién exprimido",
+      "22.5 ml (0.75 oz) de almíbar simple (1:1)",
+      "1 clara de huevo fresca (o 15 ml de aquafaba)",
+      "3 a 4 gotas de bitter aromático Angostura",
+      "Hielo macizo en cubos",
+      "Garnish: cereza Marrasquino y media rodaja de naranja"
+    ],
+    "instructions": [
+      "Colocar en la coctelera el Bourbon, el jugo de limón fresco, el almíbar simple y la clara de huevo sin hielo.",
+      "Realizar el batido en seco (*Dry Shake*) durante 15 segundos enérgicos para crear la emulsión aterciopelada.",
+      "Añadir hielo en cubos macizos a la coctelera y volver a batir con energía durante 12 a 15 segundos hasta que esté bien frío.",
+      "Colar doble sobre un vaso Old Fashioned con un gran cubo de hielo macizo (o en copa Coupé sin hielo).",
+      "Dejar que la corona de espuma blanca se estabilice en la superficie.",
+      "Dejar caer 3 gotas de bitter Angostura sobre la espuma y pasar suavemente un palillo para dibujar corazones aromáticos."
+    ],
+    "notes": "En mi barra considero la clara de huevo indispensable para este clásico: no le aporta sabor a huevo en absoluto, sino que doma la acidez cítrica y le da esa cremosidad voluptuosa inigualable al trago."
+  },
+  {
+    "id": 659,
+    "title": "Sidecar (Francia)",
+    "category": "Cocktails & Tragos",
+    "country": "Francia",
+    "difficulty": "Fácil",
+    "prep_time": "4 min",
+    "cook_time": "0 min",
+    "rest_time": "0 min",
+    "servings": "1 copa",
+    "calories": "175 kcal",
+    "diet_badges": [
+      "Sin Gluten",
+      "Sin Lactosa"
+    ],
+    "tags": [
+      "Sidecar",
+      "Cognac",
+      "Cointreau",
+      "Triple Sec",
+      "Limón",
+      "Ritz París",
+      "Borde de azúcar"
+    ],
+    "image": "https://lh3.googleusercontent.com/-edSR1FW6rog/avk2wiqYLTI/AAAAAAAQCd0/B3f4hOZU3D04Fp0x7bkkB0mFei0WGgoYgCNcBGAsYHQ/s1600/sidecar_definitiva.jpg",
+    "story": "Nacido hacia el final de la Primera Guerra Mundial, disputado entre el Harrys New York Bar y el Hotel Ritz de París. Su nombre rinde homenaje a un capitán del ejército excéntrico que solía llegar al bar parisino a bordo del sidecar de una motocicleta militar, pidiendo un trago cálido pero cítrico que aliviara el frío del trayecto.",
+    "ingredients": [
+      "50 ml (1.7 oz) de Cognac francés (VSOP o un buen brandy de uva)",
+      "25 ml (0.8 oz) de licor de naranja Cointreau (o Triple Sec seco de calidad)",
+      "20 ml (0.7 oz) de jugo de limón fresco recién exprimido",
+      "Azúcar refinada fina (para escarchar la mitad del borde)",
+      "Hielo en cubos macizos",
+      "Garnish: twist de piel de naranja"
+    ],
+    "instructions": [
+      "Pasar un gajo de limón húmedo por la mitad exterior del borde de una copa Coupé y sumergirla con suavidad en azúcar fina para crear un medio borde escarchado (*sugar rim*). Reservar la copa en frío.",
+      "En la coctelera, verter el Cognac, el Cointreau y el jugo de limón fresco.",
+      "Llenar con abundantes cubos de hielo macizo.",
+      "Batir con fuerza durante 12 a 15 segundos hasta escarchar las paredes de la coctelera.",
+      "Doble colar con colador de gusanillo y malla fina en la copa preparada.",
+      "Exprimir los aceites esenciales de una piel de naranja sobre la superficie del trago y apoyar delicadamente la piel en el borde."
+    ],
+    "notes": "En mi barra siempre escarcho solamente la mitad de la copa con azúcar; así quien lo bebe puede elegir si tomar los sorbos con el contrapunto dulce del azúcar o disfrutar de la acidez nítida del Cognac puro con el limón."
   }
 ]
