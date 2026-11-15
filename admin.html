@@ -1091,7 +1091,9 @@
 
       const sWrap = document.getElementById('stepGroupsWrapper');
       sWrap.innerHTML = '';
-      const sGroups = r.step_groups && r.step_groups.length ? r.step_groups : [{ name: 'Preparación', steps: [] }];
+      const sGroups = (r.step_groups && r.step_groups.length) 
+        ? r.step_groups 
+        : [{ name: 'Preparación', steps: (Array.isArray(r.steps) && r.steps.length ? r.steps : (Array.isArray(r.instructions) ? r.instructions : (typeof r.instructions === 'string' ? r.instructions.split('\n').filter(Boolean) : []))) }];
       sGroups.forEach(sg => addStepGroupInput(sg.name, (sg.steps || []).join('\n'), sg.image || ''));
 
       switchTab('editor');

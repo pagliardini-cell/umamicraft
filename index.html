@@ -3005,6 +3005,8 @@
         } else {
           sGroups = [{ name: 'Preparación', steps: r.steps }];
         }
+      } else if (Array.isArray(r.instructions) && r.instructions.length > 0) {
+        sGroups = [{ name: 'Preparación', steps: r.instructions }];
       } else if (typeof r.instructions === 'string' && r.instructions.trim()) {
         sGroups = [{ name: 'Preparación', steps: r.instructions.split('\n').filter(x => x.trim()) }];
       } else {
@@ -3122,7 +3124,7 @@
       const imgUrl = (r.image || '').startsWith('http') ? r.image : new URL(r.image || '', window.location.href).href;
       const ingredients = (r.ingredient_groups || []).flatMap(g => g.items || []);
       const rawSteps = (r.step_groups || []).flatMap(g => g.steps || g.items || []);
-      const finalSteps = rawSteps.length > 0 ? rawSteps : (r.steps || []);
+      const finalSteps = rawSteps.length > 0 ? rawSteps : (r.steps || r.instructions || []);
 
       const slug = (typeof idToSlugMap !== 'undefined' && idToSlugMap[r.id]) ? idToSlugMap[r.id] : (typeof makeSlug === 'function' ? makeSlug(r.title) : r.id);
       const pageUrl = `https://umamicraft.vercel.app/receta/${slug}`;
