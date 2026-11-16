@@ -11,8 +11,12 @@ function makeSlug(title) {
     .replace(/^-+|-+$/g, '');
 }
 
-function parseDurationIso(s) {
-  if (!s) return null;
+function parseDurationIso(s, allowZero = false) {
+  if (!s) return allowZero ? 'PT0M' : null;
+  const str = String(s).trim().toLowerCase();
+  if (allowZero && (str === '0' || str === '0 min' || str.includes('0 min') || str.includes('sin cocci') || str.includes('no requiere'))) {
+    return 'PT0M';
+  }
   let tot = 0;
   const hm = s.match(/(\d+)\s*(?:hora|hr|h)/i);
   const mm = s.match(/(\d+)\s*(?:min|m)/i);
@@ -22,13 +26,13 @@ function parseDurationIso(s) {
     const num = s.match(/\d+/);
     if (num) tot = parseInt(num[0], 10);
   }
-  if (tot <= 0) return null;
+  if (tot <= 0) return allowZero ? 'PT0M' : null;
   const hrs = Math.floor(tot / 60);
   const mins = tot % 60;
   let iso = 'PT';
   if (hrs > 0) iso += `${hrs}H`;
   if (mins > 0) iso += `${mins}M`;
-  return iso !== 'PT' ? iso : null;
+  return iso !== 'PT' ? iso : (allowZero ? 'PT0M' : null);
 }
 
 function makeStepName(pos, rawText) {
@@ -101,12 +105,20 @@ module.exports = (req, res) => {
       const pageUrl = `https://umamicraft.vercel.app/receta/${foundSlug}`;
 
       const ingredients = [];
-      if (recipe.ingredient_groups) {
+      if (recipe.ingredient_groups && Array.isArray(recipe.ingredient_groups)) {
         recipe.ingredient_groups.forEach(g => {
-          if (g.items) ingredients.push(...g.items);
+          const list = g.items || g.ingredients || [];
+          list.forEach(i => {
+            const name = (typeof i === 'object' && i !== null) ? (i.name || i.item || '') : String(i || '');
+            if (name && name.trim()) ingredients.push(name.trim());
+          });
         });
-      } else if (recipe.ingredients) {
-        ingredients.push(...recipe.ingredients);
+      }
+      if (ingredients.length === 0 && Array.isArray(recipe.ingredients)) {
+        recipe.ingredients.forEach(i => {
+          const name = (typeof i === 'object' && i !== null) ? (i.name || i.item || '') : String(i || '');
+          if (name && name.trim()) ingredients.push(name.trim());
+        });
       }
 
       const instructions = [];
@@ -121,7 +133,8 @@ module.exports = (req, res) => {
               "position": pos,
               "name": makeStepName(pos, stepText),
               "text": stepText,
-              "url": `${pageUrl}#paso-${pos}`
+              "url": `${pageUrl}#paso-${pos}`,
+              "image": imgUrl
             });
             pos++;
           });
@@ -135,7 +148,8 @@ module.exports = (req, res) => {
             "position": pos,
             "name": makeStepName(pos, stepText),
             "text": stepText,
-            "url": `${pageUrl}#paso-${pos}`
+            "url": `${pageUrl}#paso-${pos}`,
+            "image": imgUrl
           });
         });
       }
@@ -180,9 +194,9 @@ module.exports = (req, res) => {
         }
       };
 
-      const prepIso = parseDurationIso(recipe.prep_time);
+      const prepIso = parseDurationIso(recipe.prep_time, false);
       if (prepIso) schema.prepTime = prepIso;
-      const cookIso = parseDurationIso(recipe.cook_time);
+      const cookIso = parseDurationIso(recipe.cook_time, true);
       if (cookIso) schema.cookTime = cookIso;
 
       if (recipe.calories) {
