@@ -72339,5 +72339,499 @@
       "Queso y espinacas: Agregar el queso Parmigiano-Reggiano rallado revolviendo hasta que se funda y emulsione la salsa haciéndola brillante y aterciopelada. Incorporar las hojas de espinaca fresca y mezclar con suavidad durante 1 minuto hasta que apenas se ablanden con el calor.",
       "Reintegración y servicio: Devolver los filetes de pollo dorado junto con los jugos acumulados en el plato al interior de la salsa. Bañar las piezas con la crema toscana y cocinar todo junto durante 2 minutos más para que los sabores se amalgamen. Servir de inmediato caliente."
     ]
+  },
+  {
+    "id": 663,
+    "title": "Pollo a la Manteca Florentina (Italia)",
+    "slug": "pollo-a-la-manteca-florentina-italia",
+    "category": "Pollo & Aves",
+    "country": "Italia",
+    "prep_time": "10 min",
+    "cook_time": "15 min",
+    "calories": "580 kcal por porción",
+    "servings": "2 a 4 porciones",
+    "image": "img/pollo_manteca_florentina.jpg",
+    "story": "En Florencia, el santuario del pollo al burro es la histórica Trattoria Sostanza. Es un plato legendario por su sencillez y su técnica milimétrica: pechugas tiernas pasadas apenas por huevo y harina que se sumergen en una sartén con abundante manteca dorada crepitante. En mi cocina utilizo manteca de campo de excelente calidad; la clave es cucharear constantemente la espuma avellanada sobre la carne para formar una corteza dorada y esponjosa, manteniendo el corazón extraordinariamente jugoso.",
+    "notes": "Secretos del chef:\n1. Manteca espumosa a fuego medio: la manteca debe espumar y tomar color avellana (beurre noisette) sin quemarse; el sonido debe ser un crepitar suave y constante.\n2. El baño continuo: con una cuchara sopera, regar sin descanso la pechuga con la manteca hirviente; esto cocina la superficie por calor envolvente y crea esa costra aireada inconfundible.\n3. Acabado fresco: terminar con sal marina gruesa molida al momento y apenas unas gotas de jugo de limón en la sartén para balancear la untuosidad de la grasa láctea.",
+    "tags": [
+      "pollo al burro",
+      "pollo a la manteca",
+      "trattoria sostanza",
+      "cocina toscana",
+      "florencia",
+      "pechuga de pollo",
+      "manteca avellanada",
+      "comida italiana"
+    ],
+    "diet_badges": [
+      "Keto / Low-Carb",
+      "Alto en Proteína"
+    ],
+    "ingredients": [
+      "2 pechugas de pollo enteras (deshuesadas, sin piel y emparejadas a unos 2 cm de grosor)",
+      "150 g de manteca sin sal de excelente calidad",
+      "2 huevos de campo batidos",
+      "4 cucharadas de harina de trigo (o almidón de maíz)",
+      "1 cucharada de aceite de oliva suave (estabiliza el punto de humo)",
+      "1/2 limón fresco (unas gotas al final)",
+      "Sal marina fina y pimienta negra recién molida"
+    ],
+    "steps": [
+      "Emparejar las pechugas de pollo entre dos láminas de papel manteca con suaves golpes para que tengan un grosor uniforme.",
+      "Condimentar la carne con sal marina y pimienta negra de ambos lados.",
+      "Pasar las pechugas primero por harina, sacudiendo el exceso, y luego por los huevos batidos, escurriendo el sobrante.",
+      "En una sartén de aluminio o hierro a fuego medio, fundir la manteca junto con la cucharada de aceite de oliva hasta que comience a espumar y adquiera un leve tono avellana.",
+      "Colocar las pechugas con cuidado en la manteca espumante. Cocinar durante unos 6 a 8 minutos por lado, utilizando una cuchara sopera para bañar continuamente la parte superior con la manteca caliente.",
+      "Dar vuelta la pieza cuando esté profundamente dorada y continuar cuchareando manteca hasta que esté bien cocida y tierna por dentro.",
+      "Retirar del fuego, rociar unas gotas de limón fresco en la sartén, servir de inmediato en plato caliente y bañar con la manteca dorada."
+    ]
+  },
+  {
+    "id": 664,
+    "title": "Pici con Ajo Asado y Tomates (Italia)",
+    "slug": "pici-con-ajo-asado-y-tomates-italia",
+    "category": "Pastas",
+    "country": "Italia",
+    "prep_time": "30 min",
+    "cook_time": "20 min",
+    "calories": "520 kcal por porción",
+    "servings": "4 porciones",
+    "image": "img/pici_ajo_asado_tomates.jpg",
+    "story": "Los pici son la pasta más rústica y conmovedora de la campiña de Siena y el valle de Chiana en la Toscana. Se elaboran a mano estirando tiras gruesas e irregulares de masa solo con harina y agua ('appiciare'). En mi familia, cuando preparo pici, los acompaño con la salsa de aglione: una cocción lenta de dientes enteros de ajo dulce y confitado que se deshacen en puré junto a tomates maduros aplastados, vino blanco toscano y albahaca fresca.",
+    "notes": "Secretos del chef:\n1. El secreto del aglione: el ajo debe cocinarse a fuego mínimo con aceite de oliva y vino blanco tapado, sin dorarse jamás; debe quedar tan tierno que se deshaga con el lomo de una cuchara de madera.\n2. Textura del pici: la cocción al dente es primordial; al ser una pasta gruesa y cilíndrica, conserva una mordida elástica y sustanciosa inigualable.\n3. Emulsión: unir los pici directamente en la sartén con la salsa caliente, dos cucharadas del agua de cocción almidonada y queso pecorino toscano recién rallado.",
+    "tags": [
+      "pici toscani",
+      "pici all aglione",
+      "pasta casera",
+      "cocina toscana",
+      "siena",
+      "ajo confitado",
+      "tomates pelados",
+      "pecorino toscano"
+    ],
+    "diet_badges": [
+      "Vegetariano"
+    ],
+    "ingredients": [
+      "400 g de harina de trigo 00",
+      "100 g de sémola de trigo candeal (semola rimacinata)",
+      "250 ml de agua tibia",
+      "1 cucharada de aceite de oliva virgen extra",
+      "1 pizca de sal fina",
+      "8 a 10 dientes de ajo grandes pelados y aplastados (o 2 cabezas de ajo tierno toscano)",
+      "800 g de tomates maduros pelados picados (o tomates San Marzano en conserva)",
+      "6 cucharadas de aceite de oliva virgen extra toscano",
+      "80 ml de vino blanco seco (Trebbiano o Vernaccia)",
+      "1 manojo de albahaca fresca",
+      "1 pizca de peperoncino seco (guindilla)",
+      "60 g de queso Pecorino Toscano recién rallado",
+      "Sal marina y pimienta negra a gusto"
+    ],
+    "steps": [
+      "En una mesada, formar una corona con la harina y la sémola. Verter el agua tibia, el aceite y la pizca de sal en el centro. Amasar durante 10 minutos hasta obtener una masa elástica y suave. Envolver en film y dejar reposar 30 minutos.",
+      "Estirar la masa a 1 cm de espesor y cortar tiras. Hacer rodar cada tira con las palmas de las manos sobre la mesada enharinada hasta formar cilindros gruesos e irregulares parecidos a espaguetis rústicos (pici).",
+      "En una sartén amplia, colocar el aceite de oliva, los dientes de ajo aplastados y una pizca de peperoncino. Cocinar a fuego muy bajo con el vino blanco, tapado, durante 15 minutos hasta que el ajo esté completamente tierno.",
+      "Aplastar los ajos con la cuchara de madera formando una crema homogénea. Incorporar los tomates troceados y cocinar a fuego medio durante 15 minutos hasta que la salsa espese.",
+      "Hervir los pici en abundante agua con sal durante unos 4 a 6 minutos hasta que suban a la superficie y queden firmes al dente.",
+      "Traspasar los pici directamente a la sartén con la salsa de tomate y ajo, agregar medio cucharón del agua de cocción y saltear enérgicamente durante 1 minuto.",
+      "Apagar el fuego, incorporar las hojas de albahaca fresca troceadas a mano y abundante Pecorino Toscano rallado antes de servir."
+    ]
+  },
+  {
+    "id": 665,
+    "title": "Crostini de Hígado de Pollo (Italia)",
+    "slug": "crostini-de-higado-de-pollo-italia",
+    "category": "Entradas",
+    "country": "Italia",
+    "prep_time": "15 min",
+    "cook_time": "25 min",
+    "calories": "320 kcal por porción",
+    "servings": "6 a 8 porciones",
+    "image": "img/crostini_higado_pollo.jpg",
+    "story": "No existe mesa festiva toscana sin una fuente de crostini neri recién salidos de la cocina. Esta receta de paté rústico de hígados de pollo salteados con panceta, salvia, alcaparras y anchoas, desglasados con vino dulce, es el aperitivo que mi abuela preparaba siempre sobre rebanadas de pan toscano crujiente. En mi cocina corono el paté con daditos de manzana caramelizados a la manteca y hojas de salvia frita, logrando un balance perfecto entre la intensidad del hígado y el dulzor de la fruta.",
+    "notes": "Secretos del chef:\n1. Limpieza de los hígados: retirar minuciosamente cualquier resto de vesícula o tejido conectivo para evitar amargores.\n2. El alma del paté toscano: las anchoas y las alcaparras desaladas no aportan gusto a pescado; son potenciadores naturales de umami que redondean la untuosidad del hígado.\n3. Desglasar con vino generoso: el Vin Santo toscano o un buen vino dulce/licoroso le otorga ese aroma noble y tradicional.\n4. Pan bien crocante: tostar el pan de campo al horno o a la chapa y untar el paté tibio antes de colocar los daditos tibios de manzana y la salvia frita.",
+    "tags": [
+      "crostini toscani",
+      "crostini neri",
+      "higados de pollo",
+      "pate casero",
+      "panceta",
+      "vin santo",
+      "cocina toscana",
+      "aperitivo italiano"
+    ],
+    "diet_badges": [
+      "Alto en Proteína"
+    ],
+    "ingredients": [
+      "400 g de hígados de pollo frescos y limpios",
+      "80 g de panceta ahumada cortada en cubitos pequeños",
+      "1 cebolla morada mediana picada finamente",
+      "1 tallo de apio picado",
+      "4 hojas de salvia fresca (más hojas enteras para freír)",
+      "30 g de manteca",
+      "2 cucharadas de aceite de oliva virgen extra",
+      "60 ml de Vin Santo toscano (o vino blanco dulce / Marsala)",
+      "100 ml de caldo de pollo caliente",
+      "2 filetes de anchoas en aceite",
+      "1 cucharada de alcaparras desaladas",
+      "1 manzana pelada y cortada en cubitos pequeños",
+      "1 baguette o pan de campo cortado en rebanadas",
+      "Sal marina y pimienta negra recién molida"
+    ],
+    "steps": [
+      "Limpiar minuciosamente los hígados de pollo quitando grasas y partes oscuras. Cortar en trozos medianos.",
+      "En una sartén con aceite de oliva y 15 g de manteca, dorar la panceta a fuego medio. Agregar la cebolla picada, el apio y las hojas de salvia picadas; rehogar 8 minutos hasta transparentar.",
+      "Subir el fuego, agregar los hígados de pollo y saltear durante 5 a 6 minutos hasta que cambien de color pero sigan tiernos.",
+      "Verter el Vin Santo para desglasar la sartén. Reducir a la mitad e incorporar las anchoas y las alcaparras picadas. Añadir el caldo caliente y cocinar a fuego suave por 10 minutos.",
+      "Retirar del fuego y picar todo con cuchilla sobre una tabla de madera (o procesar con pulsos cortos) hasta lograr una pasta rústica con textura untable pero con tropezones. Salpimentar a gusto.",
+      "En una sartén pequeña con la manteca restante, saltear los cubitos de manzana durante 4 minutos hasta dorar y caramelizar ligeramente. En el mismo fondo freír unas hojitas de salvia enteras hasta que queden crocantes.",
+      "Tostar las rebanadas de pan, untar generosamente con el paté de hígado tibio y coronar con los cubitos de manzana dorada, panceta crujiente y una hoja de salvia frita."
+    ]
+  },
+  {
+    "id": 666,
+    "title": "Tortine di Riso agli Agrumi (Italia)",
+    "slug": "tortine-di-riso-agli-agrumi-italia",
+    "category": "Postres & Dulces",
+    "country": "Italia",
+    "prep_time": "20 min",
+    "cook_time": "45 min",
+    "calories": "380 kcal por porción",
+    "servings": "6 cazuelas individuales",
+    "image": "img/tortine_riso_agrumi.jpg",
+    "story": "Las tortine di riso son un emblema de las pastelerías de Florencia y Lucca desde el Renacimiento. En mi cocina las preparo al estilo de natillas horneadas en cazuelitas individuales de barro: cocino arroz arborio en leche perfumada con piel de naranjas sanguinas y limones italianos, vainilla natural y una pizca de canela, que luego integro con yemas y crema de leche. Al salir del horno, espolvoreo azúcar y la quemo con soplete para crear una fina capa de caramelo crocante brûlée, decorando con gajos frescos de naranja roja.",
+    "notes": "Secretos del chef:\n1. Selección del arroz: utilizar arroz Arborio o Carnaroli; su alto almidón libera una cremosidad láctea sedosa al cocerse a fuego muy suave.\n2. Infusión de cítricos: pelar las cáscaras de naranja y limón evitando la parte blanca amarga (albedo); dejar reposar la leche tibia para que los aceites esenciales perfumen a fondo.\n3. Horneado suave a baño María: cocinar a temperatura moderada (160 °C) para que las natillas cuajen con textura sedosa sin hervir.\n4. Costra brûlée: dejar enfriar por completo antes de aplicar el azúcar rubia y quemar con soplete justo antes de servir.",
+    "tags": [
+      "tortine di riso",
+      "arroz con leche italiano",
+      "creme brulee de arroz",
+      "citricos",
+      "naranja sanguina",
+      "florencia",
+      "reposteria toscana",
+      "postre italiano"
+    ],
+    "diet_badges": [
+      "Vegetariano",
+      "Sin Gluten"
+    ],
+    "ingredients": [
+      "150 g de arroz italiano Arborio o Carnaroli",
+      "800 ml de leche entera",
+      "200 ml de crema de leche (nata para batir)",
+      "120 g de azúcar blanco",
+      "3 yemas de huevo frescas",
+      "Piel de 1 naranja (idealmente sanguina) en tiras finas",
+      "Piel de 1 limón fresco",
+      "1 vaina de vainilla (o 1 cdta de extracto natural de vainilla)",
+      "1 ramita pequeña de canela",
+      "30 g de manteca",
+      "1 pizca de sal marina fina",
+      "4 cucharadas de azúcar rubia (para quemar con soplete)",
+      "Gajos de naranja sanguina fresca para decorar"
+    ],
+    "steps": [
+      "En una cacerola, calentar la leche y la crema con las pieles de cítricos, la canela, la vainilla y la pizca de sal hasta romper hervor. Retirar del fuego, tapar y dejar infusionar 15 minutos.",
+      "Colar la leche aromática, regresar al fuego e incorporar el arroz Arborio. Cocinar a fuego mínimo revolviendo con cuchara de madera durante unos 25 minutos, hasta que el arroz esté muy tierno y haya absorbido gran parte del líquido formando una crema densa.",
+      "Retirar del fuego, agregar la manteca y el azúcar blanco, mezclando hasta integrar. Dejar entibiar.",
+      "Batir las yemas de huevo e incorporarlas al arroz tibio con movimientos suaves y envolventes.",
+      "Distribuir la mezcla en cazuelas individuales de cerámica o barro aptas para horno. Disponerlas en una fuente para horno con 2 cm de agua caliente (baño María).",
+      "Hornear a 160 °C durante unos 20 a 25 minutos hasta que la superficie esté apenas cuajada pero conserve un ligero temblor en el centro.",
+      "Dejar enfriar a temperatura ambiente y luego refrigerar al menos 2 horas. Al momento de servir, espolvorear azúcar rubia en la superficie, quemar con soplete para formar una costra crocante y coronar con un gajo de naranja sanguina fresca."
+    ]
+  },
+  {
+    "id": 667,
+    "title": "Ribollita (Italia)",
+    "slug": "ribollita-italia",
+    "category": "Sopas & Caldos",
+    "country": "Italia",
+    "prep_time": "25 min",
+    "cook_time": "1 hora 30 min",
+    "calories": "410 kcal por porción",
+    "servings": "6 porciones abundantes",
+    "image": "img/ribollita_toscana.jpg",
+    "story": "La ribollita es el monumento campesino de la cocina toscana. Nació de la necesidad de no desperdiciar nada: una sopa densa de porotos cannellini, repollo y cavolo nero (col negra rizada toscana) cocinada un día, que al día siguiente se vuelve a hervir ('ribollita') alternada con capas de pan toscano añejo sin sal. En mi cocina siempre la preparo en olla de barro y la dejo reposar de un día para el otro; al recalentarla, el pan se deshace fundiéndose con el caldo hasta lograr una textura untuosa que se corona con un hilo generoso de aceite de oliva virgen extra toscano crudo y queso parmesano recién rallado.",
+    "notes": "Secretos del chef:\n1. El reposo obligatorio: recién hecha es una buena sopa de verduras; solo al día siguiente, cuando el pan absorbe todo el caldo y se vuelve a calentar suavemente, se transforma en auténtica ribollita.\n2. Cannellini en dos texturas: procesar o pisar la mitad de los porotos cocidos para espesar el caldo, y dejar la otra mitad enteros para aportar textura.\n3. Cavolo nero toscano: retirar el tallo fibroso central y usar las hojas oscuras cortadas en tiras; si no se consigue col negra toscana, se puede usar kale negro o acelga criolla.\n4. Pan rústico: usar pan casero de corteza dura y miga consistente con 2 o 3 días de añejamiento.",
+    "tags": [
+      "ribollita toscana",
+      "sopa toscana",
+      "cavolo nero",
+      "porotos cannellini",
+      "pan toscano",
+      "cocina campesina",
+      "florencia",
+      "sopa de invierno"
+    ],
+    "diet_badges": [
+      "Vegetariano",
+      "Alto en Fibra"
+    ],
+    "ingredients": [
+      "400 g de porotos cannellini secos (remojados y cocidos, o 2 frascos de buena calidad)",
+      "1 atado de cavolo nero (col negra toscana / kale negro)",
+      "1/2 repollo blanco cortado en tiras finas",
+      "1 atado de acelgas frescas",
+      "1 cebolla grande picada",
+      "2 zanahorias picadas en cubitos",
+      "2 ramas de apio picadas",
+      "2 papas medianas cortadas en cubitos",
+      "2 tomates maduros pelados y picados (o 2 cucharadas de extracto de tomate)",
+      "1 ramita de romero y 2 hojas de laurel",
+      "1 litro de caldo vegetal o de cocción de los porotos",
+      "300 g de pan de campo o toscano añejo (de 2 o 3 días)",
+      "6 cucharadas de aceite de oliva virgen extra toscano",
+      "Queso Parmigiano-Reggiano o Pecorino rallado",
+      "Sal marina y pimienta negra recién molida"
+    ],
+    "steps": [
+      "En una olla grande (idealmente de barro o hierro fundido), calentar 4 cucharadas de aceite de oliva y sofreír la cebolla, la zanahoria y el apio a fuego suave durante 10 minutos.",
+      "Incorporar las papas en cubos, el romero y el laurel. Agregar los tomates picados y cocinar 5 minutos más.",
+      "Lavar y cortar en tiras el cavolo nero (sin tallos gruesos), el repollo y las acelgas. Sumar las verduras de hoja a la olla y remover hasta que bajen su volumen.",
+      "Tomar la mitad de los porotos cannellini cocidos y triturarlos con un cucharón de caldo hasta lograr un puré cremoso. Añadir este puré y los porotos enteros restantes a la olla.",
+      "Cubrir con el caldo caliente, salpimentar y cocinar a fuego bajo tapado durante 1 hora, revolviendo ocasionalmente.",
+      "En una cazuela honda, disponer rebanadas de pan añejo en el fondo, verter cucharones de sopa caliente por encima, alternar otra capa de pan y terminar con más sopa. Dejar reposar (idealmente hasta el día siguiente).",
+      "Al momento de servir, recalentar la preparación ('ribollire') a fuego muy suave hasta que el pan se funda por completo con el guiso. Servir en cuencos calientes con un hilo generoso de aceite de oliva virgen extra crudo y abundante queso rallado."
+    ]
+  },
+  {
+    "id": 668,
+    "title": "Peposo dell'Impruneta (Italia)",
+    "slug": "peposo-dell-impruneta-italia",
+    "category": "Carnes",
+    "country": "Italia",
+    "prep_time": "15 min",
+    "cook_time": "3 horas",
+    "calories": "620 kcal por porción",
+    "servings": "4 a 6 porciones",
+    "image": "img/peposo_dell_impruneta.jpg",
+    "story": "El peposo nació a principios del siglo XV en Impruneta, en las colinas al sur de Florencia. Los fornacini (artesanos de los hornos de terracota que cocían los ladrillos para la cúpula de Brunelleschi del Duomo) colocaban cortes duros de carne vacuna en ollas de barro al fondo de los hornos, cubiertos con abundante vino Chianti tinto, cabezas de ajo y granos enteros de pimienta negra. En mi casa lo preparo con osobuco o aguja vacuna en cocción ultra lenta de 3 horas; la carne se vuelve tan tierna que se deshace con el tenedor, envuelta en una salsa oscura y densa que sirvo sobre una polenta cremosa recién batida.",
+    "notes": "Secretos del chef:\n1. Sin grasa agregada: la receta histórica de Impruneta no lleva aceite ni manteca para sofreír; la carne se cocina directamente inmersa en el vino tinto, fundiendo su propio colágeno natural.\n2. Pimienta negra en grano: usar abundante pimienta negra entera machacada apenas con mortero; durante las 3 horas de cocción, la pimienta pierde su picor agresivo y aporta un perfume balsámico y amaderado profundo.\n3. Selección del vino: utilizar un vino tinto seco con cuerpo y buena acidez (preferentemente Chianti o Sangiovese); el alcohol se evapora por completo y deja un fondo concentrado color caoba.\n4. Servir sobre polenta cremosa o rebanadas de pan toscano frotadas con ajo.",
+    "tags": [
+      "peposo toscano",
+      "peposo impruneta",
+      "estofado de carne",
+      "vino chianti",
+      "pimienta negra",
+      "polenta cremosa",
+      "brunelleschi",
+      "cocina toscana"
+    ],
+    "diet_badges": [
+      "Sin Gluten",
+      "Alto en Proteína"
+    ],
+    "ingredients": [
+      "1.2 kg de carne vacuna para estofar (muslo, aguja, osobuco o morcillo) cortada en cubos grandes de 4-5 cm",
+      "1 botella (750 ml) de vino tinto seco toscano (Chianti o Sangiovese)",
+      "1 cabeza de ajo entera (dientes pelados y aplastados ligeramente)",
+      "2 cucharadas soperas de granos de pimienta negra enteros (ligeramente machacados en mortero)",
+      "1 cucharadita de pimienta negra recién molida",
+      "2 ramitas de romero fresco",
+      "3 hojas de laurel",
+      "1 cucharadita de sal marina gruesa",
+      "Para acompañar: Polenta cremosa caliente recién cocida con manteca y queso Parmesano"
+    ],
+    "steps": [
+      "En una olla pesada de hierro fundido o barro apta para horno o fuego suave, disponer los cubos de carne vacuna.",
+      "Agregar los dientes de ajo aplastados, los granos de pimienta negra machacados, las ramitas de romero atadas y las hojas de laurel.",
+      "Verter la botella entera de vino tinto Chianti hasta cubrir la carne por completo. Añadir la sal marina gruesa.",
+      "Llevar a hervor suave sobre la hornalla para evaporar el alcohol inicial durante unos 10 minutos.",
+      "Tapar la olla con tapa hermética y cocinar a fuego mínimo (o en horno precalentado a 150 °C) durante 3 horas completas.",
+      "A las 2 horas y media, destapar para verificar la terneza de la carne y permitir que la salsa reduzca hasta volverse espesa, untuosa y de un color caoba oscuro brillante.",
+      "Retirar las ramas de romero y laurel. Servir la carne tierna que se desarma sola sobre un lecho de polenta cremosa caliente, bañando con la reducción de vino y pimienta."
+    ]
+  },
+  {
+    "id": 669,
+    "title": "Pasta alla Boscaiola (Italia)",
+    "slug": "pasta-alla-boscaiola-italia",
+    "category": "Pastas",
+    "country": "Italia",
+    "prep_time": "15 min",
+    "cook_time": "20 min",
+    "calories": "560 kcal por porción",
+    "servings": "4 porciones",
+    "image": "img/pasta_alla_boscaiola.jpg",
+    "story": "La pasta alla boscaiola ('al estilo del leñador') es una de las preparaciones otoñales más reconfortantes de las regiones boscosas de la Toscana y los Apeninos. Combina salchicha de cerdo desmenuzada, hongos salteados a la sartén con ajo y vino blanco, envueltos en una crema suave emulsionada con queso parmesano y perejil fresco. En mi cocina utilizo penne rigate de bronce para que los relieves atrapen hasta la última gota de la salsa cremosa.",
+    "notes": "Secretos del chef:\n1. Dorar bien la salchicha: retirar la piel de la salchicha toscana (o parrillera pura de cerdo) y desmenuzarla con cuchara de madera en la sartén bien caliente hasta que tome un dorado profundo.\n2. Hongos a fuego vivo: los champiñones o portobellos deben saltearse a fuego fuerte sin tapar para que se doren y concentren su sabor en lugar de hervir en su propia agua.\n3. Desglasado: desglasar el fondo con vino blanco seco para integrar los jugos de la carne caramelizada.\n4. La mantecatura: añadir la pasta al dente con un cucharón de agua de cocción y la crema, salteando enérgicamente para lograr una textura sedosa sin que la salsa se corte.",
+    "tags": [
+      "pasta alla boscaiola",
+      "penne rigate",
+      "salchicha italiana",
+      "champinones",
+      "crema y hongos",
+      "cocina toscana",
+      "comida italiana"
+    ],
+    "diet_badges": [
+      "Alto en Proteína"
+    ],
+    "ingredients": [
+      "400 g de penne rigate (o rigatoni / tagliatelle)",
+      "300 g de salchicha de cerdo de buena calidad (sin piel y desmenuzada)",
+      "300 g de hongos champiñones o portobellos limpios y cortados en láminas",
+      "1 echalote o 1/2 cebolla blanca picada finamente",
+      "2 dientes de ajo picados",
+      "80 ml de vino blanco seco",
+      "150 ml de crema de leche (nata para cocinar)",
+      "3 cucharadas de aceite de oliva virgen extra",
+      "60 g de queso Parmigiano-Reggiano o Grana Padano rallado",
+      "2 cucharadas de perejil fresco picado",
+      "Sal marina y pimienta negra recién molida"
+    ],
+    "steps": [
+      "En una sartén amplia con 2 cucharadas de aceite de oliva a fuego medio-alto, dorar la salchicha desmenuzada durante unos 6 a 8 minutos hasta que esté crocante y cocida. Retirar y reservar.",
+      "En la misma sartén con los jugos de la salchicha, agregar el resto del aceite de oliva, el echalote picado y el ajo. Rehogar 2 minutos.",
+      "Añadir los hongos laminados y saltear a fuego fuerte durante 5 minutos hasta que tomen color dorado.",
+      "Regresar la salchicha a la sartén, verter el vino blanco y dejar evaporar el alcohol durante 2 minutos raspando el fondo para desglasar.",
+      "Incorporar la crema de leche, bajar el fuego y cocinar suavemente durante 3 minutos hasta que tome cuerpo. Salpimentar a gusto.",
+      "Hervir la pasta en abundante agua con sal hasta que esté al dente (1 o 2 minutos antes de lo que indica el paquete).",
+      "Pasar la pasta directamente a la sartén con la salsa, añadir 3 o 4 cucharadas del agua almidonada de cocción y saltear durante 1 minuto a fuego vivo para emulsionar.",
+      "Apagar el fuego, espolvorear el perejil fresco y el queso Parmesano rallado, mezclar y servir caliente."
+    ]
+  },
+  {
+    "id": 670,
+    "title": "Rigatoni con Salchicha y Cavolo Nero (Italia)",
+    "slug": "rigatoni-con-salchicha-y-cavolo-nero-italia",
+    "category": "Pastas",
+    "country": "Italia",
+    "prep_time": "15 min",
+    "cook_time": "20 min",
+    "calories": "540 kcal por porción",
+    "servings": "4 porciones",
+    "image": "img/pasta_salchicha_cavolo_nero.jpg",
+    "story": "Esta receta une dos estandartes indiscutibles de la cocina toscana: la salchicha campesina con semillas de hinojo y el cavolo nero (la col negra rizada toscana de hojas oscuras y sabor mineral profundo). En mi mesa lo sirvo en plato hondo de cerámica tradicional, acompañado de una copa de vino blanco seco y abundante queso pecorino toscano de pasta dura.",
+    "notes": "Secretos del chef:\n1. Cocinar el cavolo nero en la misma agua de la pasta: blanquear las hojas de col en el agua hirviendo de la pasta durante 3 o 4 minutos; luego retirarlas con espumadera y en esa misma agua rica en sabor cocinar los rigatoni.\n2. Salchicha al hinojo: si las salchichas no tienen hinojo, machacar 1/2 cucharadita de semillas de hinojo en mortero y añadirlas al dorar la carne.\n3. Emulsión almidonada: no usar crema; la untuosidad de este plato proviene exclusivamente de la grasa de la salchicha, el aceite toscano crudo y el agua con almidón de la pasta emulsionada con el queso pecorino rallado.",
+    "tags": [
+      "rigatoni",
+      "cavolo nero",
+      "salchicha toscana",
+      "cocina toscana",
+      "col negra",
+      "pecorino toscano",
+      "pasta rustica",
+      "comida italiana"
+    ],
+    "diet_badges": [
+      "Alto en Proteína"
+    ],
+    "ingredients": [
+      "400 g de rigatoni de grano duro",
+      "350 g de salchicha de cerdo toscana (sin piel y desmenuzada)",
+      "1 atado de cavolo nero toscano (col negra / kale negro), hojas lavadas sin el tallo leñoso central",
+      "2 dientes de ajo pelados y machacados",
+      "1 pizca de peperoncino seco (guindilla)",
+      "60 ml de vino blanco seco",
+      "4 cucharadas de aceite de oliva virgen extra toscano",
+      "70 g de queso Pecorino Toscano recién rallado (o Parmigiano-Reggiano)",
+      "Sal marina y pimienta negra recién molida"
+    ],
+    "steps": [
+      "Retirar el tallo fibroso central de cada hoja de cavolo nero y cortar las hojas oscuras en trozos medianos.",
+      "Poner a hervir una olla grande con abundante agua salada. Cuando hierva, sumergir el cavolo nero durante 3 a 4 minutos hasta tiernizar. Retirar las hojas con una espumadera y escurrir.",
+      "En la misma agua donde se blanqueó la col, echar los rigatoni y cocinar hasta que queden al dente.",
+      "Mientras tanto, en una sartén grande calentar 2 cucharadas de aceite de oliva y dorar la salchicha desmenuzada con el ajo machacado y el peperoncino durante 6 a 8 minutos.",
+      "Desglasar la sartén con el vino blanco y dejar evaporar el alcohol por 2 minutos.",
+      "Incorporar el cavolo nero cocido a la sartén junto con la salchicha y saltear todo junto durante 2 minutos para que los sabores se fundan.",
+      "Escurrir los rigatoni al dente reservando media taza del agua de cocción. Volcar la pasta en la sartén caliente.",
+      "Agregar un chorro del agua de cocción y dos cucharadas de aceite de oliva crudo. Saltear enérgicamente fuera del fuego incorporando el Pecorino Toscano rallado para crear una emulsión sedosa.",
+      "Servir de inmediato con pimienta negra recién molida y más pecorino por encima."
+    ]
+  },
+  {
+    "id": 671,
+    "title": "Cenci de Carnaval (Italia)",
+    "slug": "cenci-de-carnaval-italia",
+    "category": "Postres & Dulces",
+    "country": "Italia",
+    "prep_time": "25 min",
+    "cook_time": "15 min",
+    "calories": "280 kcal por porción",
+    "servings": "6 a 8 porciones",
+    "image": "img/cenci_di_carnevale.jpg",
+    "story": "En la Toscana, el carnaval tiene perfume a cenci recién fritos y azúcar impalpable. Los cenci ('harapos' en dialecto toscano) son cintas delgadísimas de masa perfumadas con ralladura de limón, naranja y un toque de licor de anís o Vin Santo. Al freírse en aceite bien caliente, la masa se infla al instante llenándose de miles de burbujas crujientes y quebradizas que se deshacen en la boca. En mi cocina los preparo estirando la masa casi transparente con la máquina de pasta; es la merienda festiva que nunca falta en febrero.",
+    "notes": "Secretos del chef:\n1. Masa casi transparente: estirar la masa con máquina de pasta hasta el punto 6 o 7; cuanto más delgada sea la masa, más burbujas aireadas y ligeras se formarán al entrar en contacto con el aceite caliente.\n2. Licor en la masa: el alcohol del licor (anís, grappa o Vin Santo) se evapora rápidamente en la fritura, impidiendo que la masa absorba aceite y garantizando que queden ultra secas y crujientes.\n3. Temperatura del aceite: freír en abundante aceite a 175 °C apenas 30 segundos por lado; deben quedar de un color dorado pálido.\n4. Espolvoreado generoso: escurrir sobre papel secante y espolvorear de inmediato con abundante azúcar impalpable mientras estén tibias.",
+    "tags": [
+      "cenci toscani",
+      "chiacchiere",
+      "dulces de carnaval",
+      "crostoli",
+      "bugie",
+      "fritura dulce",
+      "cocina toscana",
+      "reposteria italiana"
+    ],
+    "diet_badges": [
+      "Vegetariano"
+    ],
+    "ingredients": [
+      "300 g de harina de trigo 00",
+      "2 huevos medianos",
+      "40 g de azúcar blanco",
+      "30 g de manteca derretida",
+      "2 cucharadas de licor de anís (o Grappa / Vin Santo / ron)",
+      "Ralladura fina de 1 limón y 1 naranja",
+      "1 pizca de sal marina fina",
+      "Aceite para freír (girasol o maíz)",
+      "Abundante azúcar impalpable (azúcar glas) para espolvorear"
+    ],
+    "steps": [
+      "En un bol o sobre la mesada, colocar la harina en corona. En el centro añadir los huevos, el azúcar, la manteca derretida, el licor, las ralladuras de cítricos y la pizca de sal.",
+      "Integrar con tenedor y luego amasar durante 8 a 10 minutos hasta lograr una masa lisa, homogénea y elástica. Envolver en film y dejar reposar 30 minutos a temperatura ambiente.",
+      "Dividir la masa en 4 porciones. Pasar cada porción por la máquina de pasta afinando progresivamente hasta lograr una lámina de 1 mm de espesor, casi transparente.",
+      "Con una ruedita dentada para masa, cortar tiras de unos 4 x 12 cm. Hacer uno o dos cortes longitudinales en el centro de cada tira para darles su forma típica.",
+      "Calentar abundante aceite en una sartén honda a 175 °C. Freír los cenci de a 3 o 4 por vez durante unos 25 a 30 segundos por lado; deben inflarse con burbujas y tomar un dorado muy claro.",
+      "Retirar con espumadera y escurrir sobre papel absorbente.",
+      "Disponer en una fuente y espolvorear copiosamente con azúcar impalpable antes de servir."
+    ]
+  },
+  {
+    "id": 672,
+    "title": "Tortellini a la Crema (Italia)",
+    "slug": "tortellini-a-la-crema-italia",
+    "category": "Pastas",
+    "country": "Italia",
+    "prep_time": "15 min",
+    "cook_time": "15 min",
+    "calories": "590 kcal por porción",
+    "servings": "4 porciones",
+    "image": "img/tortellini_alla_panna.jpg",
+    "story": "Aunque los tortellini son la joya indiscutida de Emilia-Romagna, en toda la Toscana central los tortellini alla panna con piselli (crema y arvejas tiernas) son el plato de pasta reconfortante por excelencia de los domingos. La combinación de la pasta fresca rellena envuelta en una crema suave reducida con manteca, queso Parmigiano-Reggiano y arvejas dulces de primavera crea un bocado untuoso y elegante que en mi mesa siempre despierta aplausos.",
+    "notes": "Secretos del chef:\n1. Reducción de la crema: reducir la crema de leche a fuego mínimo con manteca y una pizca de nuez moscada antes de agregar la pasta; no debe hervir con fuerza para mantener su textura aterciopelada.\n2. Arvejas tiernas: usar arvejas frescas de primavera o congeladas finas; cocinarlas apenas 3 minutos en la crema para que conserven su color verde brillante y su dulzor intacto.\n3. Agua de cocción de la pasta: guardar siempre dos cucharadas del agua de hervir los tortellini para ligar la salsa en la mantecatura final.\n4. Queso fuera del fuego: incorporar el queso Parmigiano-Reggiano recién rallado con el fuego apagado para que se funda en una crema sedosa sin formar hilos gomosos.",
+    "tags": [
+      "tortellini alla panna",
+      "pasta rellena",
+      "crema y arvejas",
+      "parmigiano reggiano",
+      "pasta italiana",
+      "comida de domingo",
+      "pasta clasica"
+    ],
+    "diet_badges": [
+      "Alto en Proteína"
+    ],
+    "ingredients": [
+      "500 g de tortellini frescos rellenos de carne o jamón (o ricota y espinaca)",
+      "250 ml de crema de leche espesa (nata para cocinar)",
+      "30 g de manteca",
+      "150 g de arvejas tiernas (frescas o congeladas)",
+      "1/2 cebolla chica picada muy fino",
+      "1 cucharada de aceite de oliva virgen extra",
+      "80 g de queso Parmigiano-Reggiano recién rallado",
+      "1 pizca de nuez moscada recién rallada",
+      "Sal marina y pimienta negra recién molida"
+    ],
+    "steps": [
+      "En una sartén amplia a fuego medio, calentar el aceite de oliva y la manteca. Rehogar la cebolla picada durante 4 minutos hasta que esté transparente sin dorarse.",
+      "Incorporar las arvejas y saltear suavemente durante 2 minutos.",
+      "Verter la crema de leche, condimentar con una pizca de sal, pimienta negra molida y la nuez moscada. Cocinar a fuego bajo durante 4 a 5 minutos hasta que la crema espese levemente.",
+      "Al mismo tiempo, hervir los tortellini en abundante agua hirviendo con sal durante 3 a 4 minutos hasta que suban a la superficie y estén al dente.",
+      "Con una espumadera, traspasar los tortellini directamente a la sartén con la crema y las arvejas, sumando 2 cucharadas del agua de cocción almidonada.",
+      "Saltear suavemente durante 1 minuto a fuego medio para que la pasta absorba la salsa.",
+      "Apagar el fuego, incorporar el Parmigiano-Reggiano rallado y mezclar enérgicamente con movimientos envolventes hasta lograr una emulsión cremosa y brillante. Servir de inmediato en cuencos calientes."
+    ]
   }
 ]
