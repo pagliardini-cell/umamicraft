@@ -86,6 +86,7 @@
 ├── vercel.json                    # Configuración de rutas limpias, rewrites y caché
 ├── actualizar_catalogo.py         # Script maestro de compilación y sincronización
 ├── actualizar.bat                 # Ejecutable de 1 clic para Windows
+├── renovar_token.bat              # Renovador de 1 clic de credenciales OAuth de Google Blogger
 ├── notificar_indexnow.py          # Script cliente de envío a la API de IndexNow
 └── server.py                      # Servidor backend de desarrollo con File Watcher
 ```
