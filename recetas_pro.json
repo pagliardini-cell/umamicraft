@@ -1283,7 +1283,7 @@
     "id": 15,
     "title": "Salsa Big Mac — Receta Real (Estados Unidos)",
     "country": "Estados Unidos",
-    "category": "Hamburguesas",
+    "category": "Salsas & Condimentos",
     "tags": [
       "Estados Unidos",
       "EEUU",
@@ -2583,7 +2583,7 @@
     "id": 28,
     "title": "Lahmacun — Lehmeyún (Turquía)",
     "country": "Turquía",
-    "category": "Carnes",
+    "category": "Panadería & Masas",
     "tags": [
       "Turquia",
       "Armenia",
@@ -2794,7 +2794,7 @@
     "id": 30,
     "title": "Borsch — Sopa de Remolacha (Rusia)",
     "country": "Rusia",
-    "category": "Pollo & Aves",
+    "category": "Sopas & Caldos",
     "tags": [
       "Rusia",
       "Sopa",
@@ -3095,7 +3095,7 @@
     "id": 33,
     "title": "Pollo a la Kiev (Rusia)",
     "country": "Rusia",
-    "category": "Arroces & Risottos",
+    "category": "Pollo & Aves",
     "tags": [
       "Rusia",
       "Ucrania",
@@ -3348,7 +3348,7 @@
     "id": 36,
     "title": "Matuffi — Polenta en Capas con Ragú y Hongos (Italia)",
     "country": "Italia",
-    "category": "Arroces & Risottos",
+    "category": "Guisos & Platos de Olla",
     "tags": [
       "Italia",
       "Lucca",
@@ -3544,7 +3544,7 @@
     "id": 38,
     "title": "Crostini di Fegatini — Crostini Toscanos de Hígado (Italia)",
     "country": "Italia",
-    "category": "Pollo & Aves",
+    "category": "Entradas",
     "tags": [
       "Italia",
       "Toscana",
@@ -4611,7 +4611,7 @@
     "id": 50,
     "title": "Bindaetteok — Tortilla Coreana de Poroto Mung y Kimchi (Corea del Sur)",
     "country": "Corea del Sur",
-    "category": "Conservas & Lácteos",
+    "category": "Entradas",
     "tags": [
       "Corea",
       "Tortilla",
@@ -5784,7 +5784,7 @@
     "id": 61,
     "title": "Guiso de Lentejas Criollo (Argentina)",
     "country": "Receta de Autor (Argentina)",
-    "category": "Sopas & Caldos",
+    "category": "Guisos & Platos de Olla",
     "tags": [
       "Argentina",
       "Carne",
@@ -5892,7 +5892,7 @@
     "id": 62,
     "title": "Pasta de Ají Amarillo Casera (Perú)",
     "country": "Perú",
-    "category": "Pastas",
+    "category": "Salsas & Condimentos",
     "tags": [
       "Perú",
       "Chile",
@@ -7190,7 +7190,7 @@
     "id": 76,
     "title": "Bún Chả — Albóndigas de Cerdo a las Brasas con Fideos de Arroz (Vietnam)",
     "country": "Vietnam",
-    "category": "Arroces & Risottos",
+    "category": "Pastas",
     "tags": [
       "Vietnam",
       "Hanoi",
@@ -7866,7 +7866,7 @@
     "id": 83,
     "title": "Tom Yum Goong (Tailandia)",
     "country": "Tailandia",
-    "category": "Pescados & Mariscos",
+    "category": "Sopas & Caldos",
     "tags": [
       "Curry",
       "Sopa",
@@ -8702,7 +8702,7 @@
     "id": 92,
     "title": "Hiroshimana Onigiri - Técnica de Arroz Grano Largo (Japón)",
     "country": "Japón",
-    "category": "Panadería & Masas",
+    "category": "Arroces & Risottos",
     "tags": [
       "Arroz",
       "Bento",
@@ -10760,7 +10760,7 @@
     "id": 114,
     "title": "Caracú Asado con Ensalada de Perejil y Alcaparras — St. John (Reino Unido)",
     "country": "Reino Unido",
-    "category": "Ensaladas",
+    "category": "Carnes",
     "tags": [
       "Caracú",
       "Inglaterra",
@@ -11319,7 +11319,7 @@
     "id": 120,
     "title": "Kebabs (Koftas) de Cordero y Pistachos en Pan Árabe (Medio Oriente)",
     "country": "Medio Oriente",
-    "category": "Panadería & Masas",
+    "category": "Carnes",
     "tags": [
       "Arabe",
       "Cordero",
@@ -11832,7 +11832,7 @@
     "id": 125,
     "title": "Hummus Clásico con Piñones Tostados y Chips de Pita (Medio Oriente)",
     "country": "Medio Oriente",
-    "category": "Salsas & Condimentos",
+    "category": "Entradas",
     "tags": [
       "Ajo",
       "Arabe",
@@ -11922,7 +11922,7 @@
     "id": 126,
     "title": "Baba Ganoush con Berenjena Asada y Garbanzos (Medio Oriente)",
     "country": "Medio Oriente",
-    "category": "Salsas & Condimentos",
+    "category": "Entradas",
     "tags": [
       "Arabe",
       "Berenjena",
@@ -12105,7 +12105,7 @@
     "id": 128,
     "title": "Muhammara (Mahamara) — Pasta de Morrones Ahumados y Nueces (Líbano / Siria)",
     "country": "Líbano / Siria",
-    "category": "Pastas",
+    "category": "Entradas",
     "tags": [
       "Arabe",
       "Morron",
@@ -12353,7 +12353,7 @@
     "id": 131,
     "title": "Lentejas con Chorizo y Panceta (España)",
     "country": "España",
-    "category": "Sopas & Caldos",
+    "category": "Guisos & Platos de Olla",
     "tags": [
       "Cerdo",
       "España",
@@ -12609,7 +12609,7 @@
     "id": 134,
     "title": "Pickles Chinos (China)",
     "country": "China",
-    "category": "Pollo & Aves",
+    "category": "Conservas & Lácteos",
     "tags": [
       "China",
       "Pickles",
@@ -12701,7 +12701,7 @@
     "id": 135,
     "title": "Hakusai Asazuke (Japón)",
     "country": "Japón",
-    "category": "Pollo & Aves",
+    "category": "Conservas & Lácteos",
     "tags": [
       "Hakusai",
       "Japón",
@@ -12968,7 +12968,7 @@
     "id": 138,
     "title": "Cerdo Agridulce (China)",
     "country": "China",
-    "category": "Postres & Dulces",
+    "category": "Carnes",
     "tags": [
       "Cerdo",
       "China",
@@ -13479,7 +13479,7 @@
     "id": 142,
     "title": "Phở Bò Tradicional (Vietnam)",
     "country": "Vietnam",
-    "category": "Arroces & Risottos",
+    "category": "Sopas & Caldos",
     "tags": [
       "Caldo",
       "Carne",
@@ -14328,7 +14328,7 @@
     "id": 151,
     "title": "Myoga no Amazu-zuke (Pickles Agridulces de Myoga) (Japón)",
     "country": "Japón",
-    "category": "Postres & Dulces",
+    "category": "Conservas & Lácteos",
     "tags": [
       "Japón",
       "Myoga",
@@ -15194,7 +15194,7 @@
     "id": 161,
     "title": "Sopa Cremosa de Almejas, Puerros y Papas (Reino Unido)",
     "country": "Reino Unido",
-    "category": "Pescados & Mariscos",
+    "category": "Sopas & Caldos",
     "tags": [
       "Almejas",
       "Inglaterra",
@@ -15602,7 +15602,7 @@
     "id": 165,
     "title": "Sopa Fría de Manzana al Curry (Fusión)",
     "country": "Fusión",
-    "category": "Pollo & Aves",
+    "category": "Sopas & Caldos",
     "tags": [
       "Caldo",
       "Curry",
@@ -16206,7 +16206,7 @@
     "id": 172,
     "title": "Sopa Ácida y Picante — Suan La Tang (China)",
     "country": "China",
-    "category": "Pollo & Aves",
+    "category": "Sopas & Caldos",
     "tags": [
       "China",
       "Sopa",
@@ -16403,7 +16403,7 @@
     "id": 174,
     "title": "Bollito di Manzo con Salsa Verde (Italia)",
     "country": "Italia",
-    "category": "Sopas & Caldos",
+    "category": "Carnes",
     "tags": [
       "Italia",
       "Toscana",
@@ -17211,7 +17211,7 @@
     "id": 181,
     "title": "Pot-au-Feu (Francia)",
     "country": "Francia",
-    "category": "Sopas & Caldos",
+    "category": "Guisos & Platos de Olla",
     "tags": [
       "Carne",
       "Cocina",
@@ -17336,7 +17336,7 @@
     "id": 182,
     "title": "Puchero Criollo Completo (Argentina)",
     "country": "Argentina",
-    "category": "Sopas & Caldos",
+    "category": "Guisos & Platos de Olla",
     "tags": [
       "Argentina",
       "Cocina",
@@ -17748,7 +17748,7 @@
     "id": 185,
     "title": "Cómo Hacer Yogur Casero (Argentina)",
     "country": "Receta de Autor (Argentina)",
-    "category": "Postres & Dulces",
+    "category": "Conservas & Lácteos",
     "tags": [
       "Azucar",
       "Leche",
@@ -17859,7 +17859,7 @@
     "id": 186,
     "title": "Pasta de Curry Verde Tailandés (Tailandia)",
     "country": "Tailandia",
-    "category": "Pastas",
+    "category": "Salsas & Condimentos",
     "tags": [
       "Cocina",
       "Curry",
@@ -17943,7 +17943,7 @@
     "id": 187,
     "title": "Guay Tiaw Tom Yam Nuea — Sopa Picante de Carne y Fideos (Tailandia)",
     "country": "Tailandia",
-    "category": "Arroces & Risottos",
+    "category": "Sopas & Caldos",
     "tags": [
       "Arroz",
       "Cocina",
@@ -18040,7 +18040,7 @@
     "id": 188,
     "title": "Haggis Tradicional (Reino Unido)",
     "country": "Reino Unido",
-    "category": "Conservas & Lácteos",
+    "category": "Carnes",
     "tags": [
       "Cocina",
       "Cordero",
@@ -18138,7 +18138,7 @@
     "id": 189,
     "title": "Omelette Arnold Bennett (Reino Unido)",
     "country": "Reino Unido",
-    "category": "Pescados & Mariscos",
+    "category": "Desayunos & Huevos",
     "tags": [
       "Cocina",
       "Huevos",
@@ -18347,7 +18347,7 @@
     "id": 191,
     "title": "Osobuco Braseado con Puré a Dos Colores (Italia)",
     "country": "Italia",
-    "category": "Guarniciones",
+    "category": "Carnes",
     "tags": [
       "Cocina",
       "Italia",
@@ -18572,7 +18572,7 @@
     "id": 193,
     "title": "Tourin a l'Ail — Sopa Francesa de Pan y Ajo a la Grasa de Pato (Francia)",
     "country": "Francia",
-    "category": "Panadería & Masas",
+    "category": "Sopas & Caldos",
     "tags": [
       "Cocina",
       "Francia",
@@ -20196,7 +20196,7 @@
     "id": 210,
     "title": "Kushi Katsu 串カツ — Estilo Kanto y Kansai (Japón)",
     "country": "Japón",
-    "category": "Pollo & Aves",
+    "category": "Carnes",
     "tags": [
       "Japon",
       "Kushikatsu",
@@ -20403,7 +20403,7 @@
     "id": 212,
     "title": "Pollo en Salsa de Mostaza Dijon y Miel con Arroz de Almendras (Argentina)",
     "country": "Argentina",
-    "category": "Arroces & Risottos",
+    "category": "Pollo & Aves",
     "tags": [
       "Argentina",
       "Pollo",
@@ -21375,7 +21375,7 @@
     "id": 222,
     "title": "Spaghetti alla Trapanese — Pesto Siciliano de Almendras y Tomate (Italia)",
     "country": "Italia",
-    "category": "Panadería & Masas",
+    "category": "Pastas",
     "tags": [
       "Italia",
       "Sicilia",
@@ -21916,7 +21916,7 @@
     "id": 228,
     "title": "Caldo Aromático de Pollo Asado (Argentina)",
     "country": "Receta de Autor (Argentina)",
-    "category": "Pollo & Aves",
+    "category": "Sopas & Caldos",
     "tags": [
       "Caldo",
       "Pollo",
@@ -22018,7 +22018,7 @@
     "id": 229,
     "title": "Ensaimada Mallorquina (España)",
     "country": "España",
-    "category": "Postres & Dulces",
+    "category": "Panadería & Masas",
     "tags": [
       "España",
       "Mallorca",
@@ -22134,7 +22134,7 @@
     "id": 230,
     "title": "Pollo Salteado con Castañas de Cajú — Gai Pad Med Mamuang (Tailandia)",
     "country": "Tailandia",
-    "category": "Arroces & Risottos",
+    "category": "Pollo & Aves",
     "tags": [
       "Tailandia",
       "Pollo",
@@ -23955,7 +23955,7 @@
     "id": 250,
     "title": "Alambre Mexicano con Queso Fundido (México)",
     "country": "México",
-    "category": "Pollo & Aves",
+    "category": "Carnes",
     "tags": [
       "Burrito",
       "Cerdo",
@@ -24151,7 +24151,7 @@
     "id": 252,
     "title": "Wrap de Pollo y Repollo al Estilo Burrito (Argentina)",
     "country": "Receta de Autor (Argentina)",
-    "category": "Salsas & Condimentos",
+    "category": "Pollo & Aves",
     "tags": [
       "Burrito",
       "Mayonesa",
@@ -24330,7 +24330,7 @@
     "id": 254,
     "title": "Tortas Fritas Criollas (Argentina)",
     "country": "Argentina",
-    "category": "Postres & Dulces",
+    "category": "Panadería & Masas",
     "tags": [
       "Argentina",
       "Cocina",
@@ -25484,7 +25484,7 @@
     "id": 264,
     "title": "Souvlaki Griego de Cerdo con Pan Pita Casero y Tzatziki (Grecia)",
     "country": "Grecia",
-    "category": "Panadería & Masas",
+    "category": "Carnes",
     "tags": [
       "cerdo",
       "grecia",
@@ -25874,7 +25874,7 @@
     "id": 267,
     "title": "Milanesa a la Napolitana de Bife de Chorizo al Estilo Bodegón (Argentina)",
     "country": "Argentina",
-    "category": "Guarniciones",
+    "category": "Carnes",
     "tags": [
       "carnes",
       "argentina",
@@ -26881,7 +26881,7 @@
     "id": 275,
     "title": "Silpancho Tradicional Cochabambino (Bolivia)",
     "country": "Bolivia",
-    "category": "Arroces & Risottos",
+    "category": "Carnes",
     "tags": [
       "carnes",
       "bolivia",
@@ -27008,7 +27008,7 @@
     "id": 276,
     "title": "Pique Macho Tradicional (Bolivia)",
     "country": "Bolivia",
-    "category": "Guarniciones",
+    "category": "Carnes",
     "tags": [
       "carnes",
       "bolivia",
@@ -30125,7 +30125,7 @@
     "title": "Tostada de Masa Madre con Queso Cottage, Palta y Huevo (Australia)",
     "original_title": "TOSTADA CON COTTAGE, PALTA Y HUEVO (DESAYUNO O CENA IDEAL)",
     "country": "Australia",
-    "category": "Panadería & Masas",
+    "category": "Desayunos & Huevos",
     "tags": [
       "Tostada",
       "Queso Cottage",
@@ -31459,7 +31459,7 @@
     "title": "Pita od Jabuka — Tarta Yugoslava de Manzana y Canela (Balcanes)",
     "original_title": "Prhka Pita od Jabuka / Lenja Pita (Ex Yugoslavia / Balcanes)",
     "country": "Balcanes",
-    "category": "Pizzas & Tartas",
+    "category": "Postres & Dulces",
     "tags": [
       "Balcanes",
       "Yugoslavia",
@@ -31896,7 +31896,7 @@
     "title": "Oi Sobagi — Kimchi de Pepino Relleno y Crujiente (Corea del Sur)",
     "original_title": "Oi Sobagi (오이소박이 - Corea del Sur)",
     "country": "Corea del Sur",
-    "category": "Pastas",
+    "category": "Conservas & Lácteos",
     "tags": [
       "Corea",
       "Kimchi",
@@ -32811,7 +32811,7 @@
     "title": "Pastel de Papas (Argentina)",
     "original_title": "Pastel de Papas (Argentina)",
     "country": "Argentina",
-    "category": "Guarniciones",
+    "category": "Carnes",
     "tags": [
       "Argentina",
       "Pastel de Papas",
@@ -32953,7 +32953,7 @@
     "title": "Matambre a la Pizza a la Parrilla (Argentina)",
     "original_title": "Matambre a la Pizza a la Parrilla (Argentina)",
     "country": "Argentina",
-    "category": "Pizzas & Tartas",
+    "category": "Carnes",
     "tags": [
       "Argentina",
       "Matambre",
@@ -33200,7 +33200,7 @@
     "title": "Vitel Toné (Argentina)",
     "original_title": "Vitel Toné (Argentina)",
     "country": "Argentina",
-    "category": "Pescados & Mariscos",
+    "category": "Carnes",
     "tags": [
       "Argentina",
       "Vitel Toné",
@@ -33635,7 +33635,7 @@
     "title": "Choripán de Costanera (Argentina)",
     "original_title": "Choripán de Costanera (Argentina)",
     "country": "Argentina",
-    "category": "Salsas & Condimentos",
+    "category": "Hamburguesas",
     "tags": [
       "Argentina",
       "Choripán",
@@ -33906,7 +33906,7 @@
     "title": "Pastafrola de Membrillo (Argentina)",
     "original_title": "Pastafrola de Membrillo (Argentina)",
     "country": "Argentina",
-    "category": "Pizzas & Tartas",
+    "category": "Postres & Dulces",
     "tags": [
       "Argentina",
       "Pastafrola",
@@ -34186,7 +34186,7 @@
     "title": "Tacos de Birria de Res con Consomé (México)",
     "original_title": "Tacos de Birria de Res con Consomé (México)",
     "country": "México",
-    "category": "Sopas & Caldos",
+    "category": "Carnes",
     "tags": [
       "México",
       "Birria",
@@ -42927,7 +42927,7 @@
     "title": "Sopa de Wantan Clásica (China)",
     "original_title": "Yúntūn Miàn Tāng (Sopa Cantonesa de Wantanes de Cerdo y Langostinos con Fideos)",
     "country": "China",
-    "category": "Empanadas",
+    "category": "Sopas & Caldos",
     "tags": [
       "Sopa de Wantan",
       "Wonton",
@@ -43179,7 +43179,7 @@
     "title": "Sopa Picante y Ácida de Chongqing (China)",
     "original_title": "Suan La Fen (Fideos Gruesos de Batata en Caldo Málà con Vinagre Negro y Maní)",
     "country": "China",
-    "category": "Pastas",
+    "category": "Sopas & Caldos",
     "tags": [
       "Suan La Fen",
       "Sichuan",
@@ -43516,7 +43516,7 @@
     "id": 403,
     "title": "Sánguche de Milanesa Tucumano (Argentina)",
     "country": "Argentina",
-    "category": "Carnes",
+    "category": "Hamburguesas",
     "tags": [
       "Argentina",
       "Tucumán",
@@ -44814,7 +44814,7 @@
     "id": 414,
     "title": "Bori Bori de Gallina (Argentina)",
     "country": "Argentina",
-    "category": "Sopas & Caldos",
+    "category": "Guisos & Platos de Olla",
     "tags": [
       "Argentina",
       "Formosa",
@@ -44944,7 +44944,7 @@
     "id": 415,
     "title": "Boga a la Parrilla con Chimichurri Entrerriano (Argentina)",
     "country": "Argentina",
-    "category": "Salsas & Condimentos",
+    "category": "Pescados & Mariscos",
     "tags": [
       "Argentina",
       "Entre Ríos",
@@ -49385,7 +49385,7 @@
   {
     "id": 454,
     "title": "Milanesa Gourmet de Autor con Burrata Fresca, Albahaca y Papas en Grasa de Pato (Argentina)",
-    "category": "Pollo & Aves",
+    "category": "Carnes",
     "country": "Argentina",
     "prep_time": "35 min",
     "cook_time": "20 min",
@@ -50350,7 +50350,7 @@
     "id": 462,
     "title": "La Bourride Toulonnaise (Francia)",
     "country": "Francia",
-    "category": "Pescados & Mariscos",
+    "category": "Guisos & Platos de Olla",
     "tags": [
       "Francia",
       "Toulon",
@@ -51956,7 +51956,7 @@
     "id": 475,
     "title": "Milanesa a la Suiza Tradicional de Bodegón con Bechamel y Queso Gratinado (Uruguay)",
     "country": "Uruguay",
-    "category": "Guarniciones",
+    "category": "Carnes",
     "tags": [
       "Uruguay",
       "Milanesas",
@@ -52767,7 +52767,7 @@
     "id": 481,
     "title": "Kassler con Chucrut (Alemania)",
     "country": "Alemania",
-    "category": "Conservas & Lácteos",
+    "category": "Carnes",
     "tags": [
       "Alemania",
       "Kassler",
@@ -54049,7 +54049,7 @@
     "id": 491,
     "title": "Niku Dango - Albóndigas Japonesas de Cerdo (Japón)",
     "country": "Japón",
-    "category": "Postres & Dulces",
+    "category": "Carnes",
     "tags": [
       "Japón",
       "Niku Dango",
@@ -54723,7 +54723,7 @@
     "id": 496,
     "title": "Suprema Maryland (Argentina)",
     "country": "Argentina",
-    "category": "Postres & Dulces",
+    "category": "Pollo & Aves",
     "tags": [
       "Argentina",
       "Bodegón",
@@ -56357,7 +56357,7 @@
     "id": 511,
     "title": "Medialunas de Manteca (Argentina)",
     "country": "Argentina",
-    "category": "Postres & Dulces",
+    "category": "Panadería & Masas",
     "tags": [
       "Argentina",
       "Panadería",
@@ -56783,7 +56783,7 @@
     "id": 514,
     "title": "Vieiras con Morcilla Vasca (Argentina)",
     "country": "Argentina",
-    "category": "Pescados & Mariscos",
+    "category": "Entradas",
     "tags": [
       "Argentina",
       "Alta Cocina",
@@ -56902,7 +56902,7 @@
     "id": 515,
     "title": "Vieiras con Crujiente de Morcilla y Crema de Coliflor Trufada (Argentina)",
     "country": "Argentina",
-    "category": "Pescados & Mariscos",
+    "category": "Entradas",
     "tags": [
       "Argentina",
       "Alta Cocina",
@@ -57138,7 +57138,7 @@
     "id": 517,
     "title": "Omelette al Microondas con Mayonesa (España)",
     "country": "España",
-    "category": "Salsas & Condimentos",
+    "category": "Desayunos & Huevos",
     "tags": [
       "España",
       "José Andrés",
@@ -57376,7 +57376,7 @@
     "id": 519,
     "title": "Croquetas Cremosas de Pollo de Jaleo (España)",
     "country": "España",
-    "category": "Pollo & Aves",
+    "category": "Entradas",
     "tags": [
       "España",
       "José Andrés",
@@ -57646,7 +57646,7 @@
     "id": 521,
     "title": "Steak Frites con Manteca Maître d'Hôtel (Francia)",
     "country": "Francia",
-    "category": "Guarniciones",
+    "category": "Carnes",
     "tags": [
       "Francia",
       "Anthony Bourdain",
@@ -57775,7 +57775,7 @@
     "id": 522,
     "title": "Huesos de Caracú Asados con Ensalada de Perejil (Francia)",
     "country": "Francia",
-    "category": "Ensaladas",
+    "category": "Carnes",
     "tags": [
       "Francia",
       "Reino Unido",
@@ -59670,7 +59670,7 @@
     "id": 538,
     "title": "Kitsune Udon (Japón)",
     "country": "Japón",
-    "category": "Postres & Dulces",
+    "category": "Pastas",
     "tags": [
       "udon",
       "kitsune udon",
@@ -59913,7 +59913,7 @@
     "id": 540,
     "title": "Pollo General Tso (China)",
     "country": "China",
-    "category": "Postres & Dulces",
+    "category": "Pollo & Aves",
     "tags": [
       "pollo general tso",
       "china",
@@ -60295,7 +60295,7 @@
     "id": 543,
     "title": "Fufu con Sopa Ligera (Ghana)",
     "country": "Ghana",
-    "category": "Pescados & Mariscos",
+    "category": "Sopas & Caldos",
     "tags": [
       "fufu",
       "ghana",
@@ -61565,7 +61565,7 @@
     "title": "Dados de Ternera a la Plancha (Japón)",
     "original_title": "Dados de Ternera a la Plancha",
     "country": "Japón",
-    "category": "Guarniciones",
+    "category": "Carnes",
     "tags": [
       "saikoro steak",
       "ternera a la plancha",
@@ -62314,7 +62314,7 @@
     "id": 559,
     "title": "Queso Mantecoso Cremoso (Argentina)",
     "country": "Argentina",
-    "category": "Pizzas & Tartas",
+    "category": "Conservas & Lácteos",
     "prep_time": "45 min",
     "cook_time": "4 h",
     "servings": "1 kg (horma de 10-12 porciones)",
@@ -62453,7 +62453,7 @@
     "id": 560,
     "title": "Truffaux - Falsas Trufas Negras con Champiñones (Estados Unidos)",
     "country": "Estados Unidos",
-    "category": "Pastas",
+    "category": "Entradas",
     "prep_time": "40 min",
     "cook_time": "8 h",
     "servings": "4 a 6 piezas (250 g de trufa laminable)",
@@ -64718,7 +64718,7 @@
   {
     "id": 580,
     "title": "Mozzarella Casera Hilada (Italia)",
-    "category": "Pastas",
+    "category": "Conservas & Lácteos",
     "country": "Italia",
     "difficulty": "Media",
     "prep_time": "30 min",
@@ -66112,7 +66112,7 @@
   {
     "id": 591,
     "title": "Consomé Cristalino de Pollo por Filtración de Hielo (Reino Unido)",
-    "category": "Pollo & Aves",
+    "category": "Sopas & Caldos",
     "country": "Reino Unido",
     "difficulty": "Fácil",
     "prep_time": "20 min",
@@ -67529,7 +67529,7 @@
   {
     "id": 603,
     "title": "Kimchi Casero de Fermentación Lenta (Corea del Sur)",
-    "category": "Ensaladas",
+    "category": "Conservas & Lácteos",
     "country": "Corea del Sur",
     "difficulty": "Media",
     "prep_time": "1 hora",
@@ -67770,7 +67770,7 @@
   {
     "id": 605,
     "title": "Pain au Chocolat de Masa Laminada (Francia)",
-    "category": "Panadería & Masas",
+    "category": "Postres & Dulces",
     "country": "Francia",
     "difficulty": "Avanzada",
     "prep_time": "1 hora",
@@ -68843,7 +68843,7 @@
     "id": 613,
     "title": "Almejas Fritas con Salsa Agridulce (Italia)",
     "original_title": "Fried Surf Clams with Agrodolce and Onion, Fennel, and Cherry Pepper Salad - Le Marche Coastal Style",
-    "category": "Postres & Dulces",
+    "category": "Pescados & Mariscos",
     "country": "Italia",
     "prep_time": "30 min",
     "cook_time": "10 min",
@@ -69508,7 +69508,7 @@
     "id": 618,
     "title": "Lasaña Tailandesa de Pollo Satay y Mango (Fusión)",
     "original_title": "Thai Lasagna with Rice Noodles, Cashew Chicken and Tropical Mango Salad (Chef Matthew Gray)",
-    "category": "Ensaladas",
+    "category": "Pastas",
     "country": "Fusión",
     "prep_time": "40 min",
     "cook_time": "15 min",
@@ -70364,7 +70364,7 @@
   {
     "id": 627,
     "title": "Salsa Goop para Hamburguesas (Estados Unidos)",
-    "category": "Hamburguesas",
+    "category": "Salsas & Condimentos",
     "country": "Estados Unidos",
     "difficulty": "Fácil",
     "prep_time": "5 min",
@@ -70412,7 +70412,7 @@
   {
     "id": 628,
     "title": "Salsa Schnäck de Chipotle para Hamburguesas (Estados Unidos)",
-    "category": "Hamburguesas",
+    "category": "Salsas & Condimentos",
     "country": "Estados Unidos",
     "difficulty": "Fácil",
     "prep_time": "5 min",
@@ -70509,7 +70509,7 @@
   {
     "id": 630,
     "title": "Papas Chips con Chile Rojo en Air Fryer (Estados Unidos)",
-    "category": "Hamburguesas",
+    "category": "Guarniciones",
     "country": "Estados Unidos",
     "difficulty": "Fácil",
     "prep_time": "25 min (incluye remojo)",
@@ -70684,7 +70684,7 @@
   {
     "id": 633,
     "title": "Cebolla Morada Encurtida con Especias (México)",
-    "category": "Hamburguesas",
+    "category": "Conservas & Lácteos",
     "country": "México",
     "difficulty": "Fácil",
     "prep_time": "15 min",
@@ -71084,7 +71084,7 @@
   {
     "id": 640,
     "title": "Chucrut Fermentado Casero (Alemania)",
-    "category": "Pollo & Aves",
+    "category": "Conservas & Lácteos",
     "country": "Alemania",
     "difficulty": "Fácil",
     "prep_time": "30 min",
@@ -72164,6 +72164,74 @@
       "Con la máquina funcionando, incorporar 130 g de tahini fluido y el jugo de limón fresco en hilo constante. La mezcla se aclarará hacia un color marfil brillante y ganará cuerpo aterciopelado.",
       "Terminar con 1 cucharadita de sal fina y 2 cucharadas de aceite de oliva virgen extra para darle brillo sedoso (gloss). Rectificar sazón al gusto.",
       "Servido del video: Emplatar en un cuenco circular extendiendo el hummus con una cuchara. Rodear con un hilo de aceite de oliva, decorar con cuatro líneas finas de pimentón en cruz, coronar el centro con garbanzos cocidos enteros y acompañar con pan pita casero recién inflado."
+    ]
+  },
+  {
+    "id": 661,
+    "title": "Pollo Frito Crujiente de Fallow (Reino Unido)",
+    "slug": "pollo-frito-crujiente-fallow-reino-unido",
+    "category": "Pollo & Aves",
+    "country": "Reino Unido",
+    "prep_time": "25 min (+ 12 h marinado)",
+    "cook_time": "15 min",
+    "calories": "620 kcal por porción",
+    "servings": "4 porciones (8 piezas)",
+    "image": "https://lh3.googleusercontent.com/-JsEBueriWg4/avpbKkzdsXI/AAAAAAAQCf0/saI2T79Ttq8sWlDngHi5fWDdblI_LV0DwCNcBGAsYHQ/s1600/pollo_frito_fallow_16_9.jpg",
+    "story": "En mi cocina siempre me fascinó la precisión culinaria aplicada a platos populares. Esta técnica la desarrollaron los chefs Will Murray y Jack Croft en el restaurante Fallow de Londres tras exhaustivas pruebas científicas. En lugar de aplastar la harina contra la carne —lo que apelmaza el rebozado y crea costras duras—, descubrieron que voltear y airear el pollo suavemente 60 veces en la mezcla seca genera una intrincada red de escamas y crestas ultra crujientes que no se desprenden jamás de la carne al morder.",
+    "notes": "Secretos de la técnica Fallow:\n1. La marinada base contiene Sriracha, polvo dashi (MSG natural) y mostaza; no solo ablanda la fibra sino que crea la primera capa de agarre para que el rebozado no se desprenda jamás.\n2. La técnica de los 60 volteos: mover y airear las piezas con suavidad en la harina sin presionar con los dedos; cada curva de la carne atrapa aire y forma escamas irregulares.\n3. Temperatura de fritura a 160 °C (320 °F): al ser pechuga tierna, un fuego moderado cocina la carne en 5 minutos exactos manteniéndola sumamente jugosa sin quemar la costra exterior.\n4. Al salir, reposar sobre rejilla metálica (nunca sobre papel secante que acumula vapor) y bañar con miel picante caliente (hot honey) infusionada con vinagre de manzana y un espolvoreado de caldo de pollo concentrado.",
+    "tags": [
+      "pollo frito",
+      "fallow",
+      "crispy fried chicken",
+      "hot honey",
+      "comida britanica",
+      "tecnica chef",
+      "reino unido",
+      "pechuga de pollo"
+    ],
+    "diet_badges": [
+      "Alto en Proteína",
+      "Sin Lácteos"
+    ],
+    "ingredients": [
+      "1 kg de pechugas de pollo de campo (cortadas en filetes gruesos o tenders)",
+      "3 cdas de salsa Sriracha o salsa picante fermentada",
+      "1 cda de mostaza tipo francesa o Dijon suave",
+      "1 cdta de polvo de caldo dashi de alga kombu (o 1/2 cdta de glutamato monosódico MSG)",
+      "250 g de harina de trigo 0000",
+      "60 g de almidón de maíz (maicena)",
+      "40 g de almidón de tapioca o fécula de papa",
+      "1 cdta de polvo de hornear",
+      "1/2 cdta de bicarbonato de sodio",
+      "1 cda de pimentón dulce ahumado",
+      "1 cdta de ajo en polvo",
+      "1 cdta de pimienta blanca molida",
+      "1 cda de sal fina",
+      "1 huevo entero grande",
+      "150 ml de agua helada o leche vegetal",
+      "Aceite vegetal limpio para freír (girasol o maíz)",
+      "4 cdas de miel pura caliente",
+      "1 cdta de copos de chile o salsa picante (para el hot honey)",
+      "1 cdta de vinagre de manzana",
+      "1 cdta de caldo de pollo en polvo (chicken bouillon dust)"
+    ],
+    "steps": [
+      "Marinada científica previa: Mezclar las piezas de pollo con la Sriracha, la mostaza, el polvo de dashi (MSG) y 1 cucharada de la mezcla seca de harina. Masajear bien y dejar reposar tapado en la heladera durante 12 horas.",
+      "Preparación de la mezcla seca: En un recipiente amplio y hondo, tamizar la harina de trigo, el almidón de maíz, el almidón de tapioca, el polvo de hornear, el bicarbonato, el pimentón, el ajo en polvo, la pimienta blanca y la sal fina. Mezclar bien con batidor de alambre para oxigenar.",
+      "Preparación del baño húmedo intermedio: En un cuenco mediano, batir el huevo entero con los 150 ml de agua helada hasta lograr un líquido homogéneo, ligero y bien fluido.",
+      "Primer dragado (técnica de los 60 volteos): Tomar las piezas de pollo escurridas de la marinada y colocarlas en el recipiente de harina seca. Con movimientos envolventes y suaves, voltear el pollo 60 veces sin apretar ni compactar la harina con los dedos, permitiendo que la carne se doble y atrape aire. Sacudir enérgicamente el exceso golpeando suavemente las muñecas.",
+      "Baño húmedo y segundo dragado: Sumergir las piezas en el huevo batido durante 2 segundos, escurrir de inmediato todo el exceso de líquido y regresar al recipiente de harina seca. Repetir otros 60 volteos suaves y aireados hasta formar un relieve de escamas crocantes tipo estalactitas. Sacudir con firmeza el sobrante de harina.",
+      "Fritura controlada a 160 °C: Calentar abundante aceite limpio en una olla pesada o freidora a 160 °C (320 °F). Sumergir las piezas despacio, sin canastilla metálica para no aplastar la costra. Cocinar durante 5 minutos exactos sin pinchar ni mover innecesariamente.",
+      "Reposo y glaseado final: Retirar con espumadera y colocar inmediatamente sobre una rejilla metálica de enfriamiento para que el vapor circule libremente. Rociar en caliente con la miel picante infusionada con vinagre de manzana y terminar con una lluvia de caldo de pollo en polvo antes de servir."
+    ],
+    "instructions": [
+      "Marinada científica previa: Mezclar las piezas de pollo con la Sriracha, la mostaza, el polvo de dashi (MSG) y 1 cucharada de la mezcla seca de harina. Masajear bien y dejar reposar tapado en la heladera durante 12 horas.",
+      "Preparación de la mezcla seca: En un recipiente amplio y hondo, tamizar la harina de trigo, el almidón de maíz, el almidón de tapioca, el polvo de hornear, el bicarbonato, el pimentón, el ajo en polvo, la pimienta blanca y la sal fina. Mezclar bien con batidor de alambre para oxigenar.",
+      "Preparación del baño húmedo intermedio: En un cuenco mediano, batir el huevo entero con los 150 ml de agua helada hasta lograr un líquido homogéneo, ligero y bien fluido.",
+      "Primer dragado (técnica de los 60 volteos): Tomar las piezas de pollo escurridas de la marinada y colocarlas en el recipiente de harina seca. Con movimientos envolventes y suaves, voltear el pollo 60 veces sin apretar ni compactar la harina con los dedos, permitiendo que la carne se doble y atrape aire. Sacudir enérgicamente el exceso golpeando suavemente las muñecas.",
+      "Baño húmedo y segundo dragado: Sumergir las piezas en el huevo batido durante 2 segundos, escurrir de inmediato todo el exceso de líquido y regresar al recipiente de harina seca. Repetir otros 60 volteos suaves y aireados hasta formar un relieve de escamas crocantes tipo estalactitas. Sacudir con firmeza el sobrante de harina.",
+      "Fritura controlada a 160 °C: Calentar abundante aceite limpio en una olla pesada o freidora a 160 °C (320 °F). Sumergir las piezas despacio, sin canastilla metálica para no aplastar la costra. Cocinar durante 5 minutos exactos sin pinchar ni mover innecesariamente.",
+      "Reposo y glaseado final: Retirar con espumadera y colocar inmediatamente sobre una rejilla metálica de enfriamiento para que el vapor circule libremente. Rociar en caliente con la miel picante infusionada con vinagre de manzana y terminar con una lluvia de caldo de pollo en polvo antes de servir."
     ]
   }
 ]
