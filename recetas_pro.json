@@ -72884,5 +72884,91 @@
       "Deslizar el panqueque a un plato con las manzanas hacia arriba. Espolvorear copiosamente con azúcar blanco y quemar con plancha de hierro al rojo vivo (o soplete) hasta formar una costra crujiente de caramelo vítreo.",
       "Servir de inmediato bien caliente, acompañado de una bocha de helado de crema americana."
     ]
+  },
+  {
+    "id": 674,
+    "title": "Crumble de Manzana Deconstruido (Argentina)",
+    "category": "Postres & Dulces",
+    "country": "Argentina",
+    "prep_time": "30 min",
+    "cook_time": "20 min",
+    "total_time": "50 min",
+    "servings": "4 porciones",
+    "calories": "370 kcal",
+    "difficulty": "Media",
+    "image": "https://lh3.googleusercontent.com/-l5srX-nmIok/avtKc38XReI/AAAAAAAQCkY/xs_aBjxMmNkly7G9VI_TmKStc7E56v_wACNcBGAsYHQ/s1600/crumble_manzana_deconstruido.jpg",
+    "story": "El crumble de manzana llevado a la pastelería moderna en formato de lingote individual. En lugar de hornear todo en una fuente rústica tradicional, aquí la manzana verde Granny Smith se corta en una brunoise milimétrica de cinco milímetros y se estofa en sartén con manteca y azúcar rubia hasta quedar tierna, brillante y sostenida por su propia pectina. Se compacta en tibio dentro de un molde rectangular de pastelería y se corona con una capa uniforme de streusel fino horneado por separado, logrando una crocancia seca perfecta que nunca se ablanda. Emplatado sobre pizarra negra junto a una quenelle fría de helado de crema americana, el contraste de temperaturas, cortes y texturas es impecable.",
+    "ingredient_groups": [
+      {
+        "name": "Lingote de Manzana en Brunoise",
+        "ingredients": [
+          "4 manzanas verdes Granny Smith (peladas, sin corazón y cortadas en brunoise fina de 5 mm)",
+          "40 g de manteca",
+          "50 g de azúcar rubia o mascabo",
+          "1/2 cucharadita de canela molida",
+          "1 cucharada de jugo de limón fresco"
+        ]
+      },
+      {
+        "name": "Crumble Fino y Crocante (Streusel)",
+        "ingredients": [
+          "80 g de harina 0000",
+          "40 g de harina de almendras (o almendras tostadas molidas fino)",
+          "60 g de manteca bien fría en cubos pequeños",
+          "50 g de azúcar rubia",
+          "1 pizca de sal marina fina"
+        ]
+      },
+      {
+        "name": "Acompañamiento y Emplatado",
+        "ingredients": [
+          "4 quenelles o bochas de helado de crema americana o vainilla (bien frías)",
+          "Crumble arenado extra para base de la quenelle"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Paso 1: Horneado del crumble arenado",
+        "instructions": [
+          "En un bowl, combiná la harina 0000, la harina de almendras, el azúcar rubia y la pizca de sal marina.",
+          "Agregá los cubos de manteca bien fría y pellizcá con la punta de los dedos hasta lograr un arenado parejo y fino, sin amasar ni calentar la materia grasa.",
+          "Distribuí el arenado en una placa con papel manteca y horneá a 170 °C durante 12 a 15 minutos hasta que adquiera un tono rubio dorado uniforme. Retirá del horno y dejá enfriar por completo para que quede bien seco y crujiente."
+        ]
+      },
+      {
+        "name": "Paso 2: Cocción de la brunoise de manzana",
+        "instructions": [
+          "Pelá las manzanas verdes, retirá el centro y cortalas con cuchillo afilado en cubos prolijos y milimétricos de aproximadamente 5 mm (corte brunoise parejo).",
+          "En una sartén a fuego medio, fundí los 40 g de manteca, incorporá los cubitos de manzana y rociá con el jugo de limón.",
+          "Espolvoreá el azúcar rubia y la canela. Salteá a fuego suave durante 8 a 10 minutos moviendo con espátula: la manzana debe ablandarse y quedar translúcida pero firme, manteniendo la forma cúbica y ligada por un almíbar espeso y brillante sin llegar a puré. Retirá del fuego."
+        ]
+      },
+      {
+        "name": "Paso 3: Moldeado del lingote y emplatado sobre pizarra",
+        "instructions": [
+          "Colocá un aro o molde rectangular de pastelería (lingotera de aproximadamente 10 x 4 cm) directamente sobre el plato o pizarra de servicio.",
+          "Rellená el molde con la manzana tibia en brunoise, presionando suave y parejamente con el dorso de una cuchara pequeña para compactar los cubitos sin aplastarlos.",
+          "Cubrí la superficie superior con una capa generosa y prolija del crumble arenado horneado, emparejando los bordes.",
+          "Retirá el molde deslizándolo hacia arriba con cuidado: el lingote quedará con sus paredes rectas de manzana visible y su techo crocante.",
+          "Al lado derecho del lingote, colocá una pizca de crumble sobre la pizarra y apoyá encima una quenelle perfecta de helado de crema americana bien frío. Serví de inmediato para disfrutar el contraste de temperaturas."
+        ]
+      }
+    ],
+    "notes": "El secreto del lingote perfecto está en el corte brunoise parejo de 5 mm: cubos demasiado grandes no compactan y se derrumban al retirar el molde, mientras que cubos demasiado chicos se transforman en puré y pierden la estética geométrica. La camita de crumble debajo de la quenelle evita que el helado resbale sobre la superficie lisa de la pizarra.",
+    "tags": [
+      "postre",
+      "crumble",
+      "manzana",
+      "deconstruido",
+      "lingote",
+      "pasteleria",
+      "alta cocina",
+      "helado",
+      "granny smith"
+    ],
+    "diet": [
+      "Vegetariano"
+    ]
   }
 ]
