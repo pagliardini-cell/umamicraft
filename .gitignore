@@ -5,7 +5,9 @@ publicar_facebook.py
 publicar_10_facebook.bat
 .env
 
+# Carpetas de páginas estáticas innecesarias (rutas dinámicas servidas por vercel.json)
 r/
+recetas/
 
 # Blogger API Credentials
 client_secret*.json
