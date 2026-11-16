@@ -4873,7 +4873,7 @@
   },
   {
     "id": 53,
-    "title": "Ceviche Peruano Clásico con Camarones (Perú)",
+    "title": "Ceviche Peruano con Camarones (Perú)",
     "country": "Perú",
     "category": "Pescados & Mariscos",
     "tags": [
@@ -4883,7 +4883,8 @@
       "Limon",
       "Locoto",
       "Chile",
-      "Ceviche"
+      "Ceviche",
+      "Tradicional"
     ],
     "prep_time": "25 min",
     "cook_time": "25 min (choclo y batatas)",
@@ -5476,7 +5477,7 @@
   },
   {
     "id": 58,
-    "title": "Pan Pita Tradicional (Líbano / Siria)",
+    "title": "Pan Pita Casero (Líbano / Siria)",
     "country": "Líbano / Siria",
     "category": "Panadería & Masas",
     "tags": [
@@ -5484,7 +5485,8 @@
       "Medio Oriente",
       "Harina",
       "Pan",
-      "Pan Pita"
+      "Pan Pita",
+      "Tradicional"
     ],
     "prep_time": "25 min",
     "cook_time": "6 min por tanda",
@@ -9725,7 +9727,7 @@
   },
   {
     "id": 105,
-    "title": "Onigiri Clásico / Omusubi (Japón)",
+    "title": "Onigiri / Omusubi (Japón)",
     "country": "Japón",
     "category": "Arroces & Risottos",
     "tags": [
@@ -9734,7 +9736,8 @@
       "Japon",
       "Onigiri",
       "Bento",
-      "Salmón"
+      "Salmón",
+      "Tradicional"
     ],
     "prep_time": "15 min",
     "cook_time": "20 min (cocción del arroz)",
@@ -10841,7 +10844,7 @@
   },
   {
     "id": 115,
-    "title": "Guriltai Shul — Sopa Tradicional de Cordero y Fideos Caseros (Mongolia)",
+    "title": "Guriltai Shul — Sopa de Cordero y Fideos Caseros (Mongolia)",
     "country": "Mongolia",
     "category": "Pastas",
     "tags": [
@@ -10850,7 +10853,8 @@
       "Mongolia",
       "Sopa",
       "Cordero",
-      "Caldo"
+      "Caldo",
+      "Tradicional"
     ],
     "prep_time": "25 min",
     "cook_time": "30 min",
@@ -11830,7 +11834,7 @@
   },
   {
     "id": 125,
-    "title": "Hummus Clásico con Piñones Tostados y Chips de Pita (Medio Oriente)",
+    "title": "Hummus con Piñones Tostados y Chips de Pita (Medio Oriente)",
     "country": "Medio Oriente",
     "category": "Entradas",
     "tags": [
@@ -11840,7 +11844,8 @@
       "Hummus",
       "Tahini",
       "Vegano",
-      "Vegetariano"
+      "Vegetariano",
+      "Tradicional"
     ],
     "prep_time": "10 min",
     "cook_time": "10 min (solo si se hornean chips de pan pita)",
@@ -12264,7 +12269,7 @@
   },
   {
     "id": 130,
-    "title": "Arroz con Leche Espumoso Tradicional (Argentina)",
+    "title": "Arroz con Leche Espumoso (Argentina)",
     "country": "Argentina",
     "category": "Postres & Dulces",
     "tags": [
@@ -12274,7 +12279,8 @@
       "Postre",
       "Argentina",
       "Canela",
-      "Vainilla"
+      "Vainilla",
+      "Tradicional"
     ],
     "prep_time": "10 min",
     "cook_time": "40 min",
@@ -13344,7 +13350,7 @@
   },
   {
     "id": 141,
-    "title": "Tempura Clásico de Mariscos y Vegetales (Japón)",
+    "title": "Tempura de Mariscos y Vegetales (Japón)",
     "country": "Japón",
     "category": "Pescados & Mariscos",
     "tags": [
@@ -13354,7 +13360,8 @@
       "Pescado",
       "Verduras",
       "Tempura",
-      "Langostinos"
+      "Langostinos",
+      "Tradicional"
     ],
     "prep_time": "35 min",
     "cook_time": "15 min",
@@ -13477,7 +13484,7 @@
   },
   {
     "id": 142,
-    "title": "Phở Bò Tradicional (Vietnam)",
+    "title": "Phở Bò de Res (Vietnam)",
     "country": "Vietnam",
     "category": "Sopas & Caldos",
     "tags": [
@@ -13487,7 +13494,8 @@
       "Sopa",
       "Vietnam",
       "Fideos de Arroz",
-      "Especias"
+      "Especias",
+      "Tradicional"
     ],
     "prep_time": "30 min",
     "cook_time": "3 h 30 min",
@@ -15024,7 +15032,7 @@
   },
   {
     "id": 159,
-    "title": "Chanfaina Tradicional de Cordero (España)",
+    "title": "Chanfaina de Cordero (España)",
     "country": "España",
     "category": "Guisos & Platos de Olla",
     "tags": [
@@ -16036,7 +16044,7 @@
   },
   {
     "id": 170,
-    "title": "Mbejú Tradicional (Paraguay)",
+    "title": "Mbejú de Almidón y Queso (Paraguay)",
     "country": "Paraguay",
     "category": "Panadería & Masas",
     "tags": [
@@ -16045,7 +16053,8 @@
       "Mandioca",
       "Queso",
       "Sin TACC",
-      "Guaraní"
+      "Guaraní",
+      "Tradicional"
     ],
     "prep_time": "20 min",
     "cook_time": "5 min por unidad",
@@ -16788,7 +16797,7 @@
   },
   {
     "id": 177,
-    "title": "Masas Tradicionales para Dim Sum y Char Siu Bao (China)",
+    "title": "Masas para Dim Sum y Char Siu Bao (China)",
     "country": "China",
     "category": "Panadería & Masas",
     "tags": [
@@ -16798,7 +16807,8 @@
       "Bao",
       "Har Gow",
       "Vapor",
-      "Cantonesa"
+      "Cantonesa",
+      "Tradicional"
     ],
     "prep_time": "40 min",
     "cook_time": "15 min (al vapor)",
@@ -17080,7 +17090,7 @@
   },
   {
     "id": 180,
-    "title": "Oden Tradicional (おでん) — Cazuela Invernal Japonesa (Japón)",
+    "title": "Oden (おでん) — Cazuela Invernal Japonesa (Japón)",
     "country": "Japón",
     "category": "Sopas & Caldos",
     "tags": [
@@ -17090,7 +17100,8 @@
       "Daikon",
       "Tofu",
       "Shiitake",
-      "Kombu"
+      "Kombu",
+      "Tradicional"
     ],
     "prep_time": "45 min (más remojo previo de kombu y shiitake)",
     "cook_time": "45 min",
@@ -18038,7 +18049,7 @@
   },
   {
     "id": 188,
-    "title": "Haggis Tradicional (Reino Unido)",
+    "title": "Haggis Escocés (Reino Unido)",
     "country": "Reino Unido",
     "category": "Carnes",
     "tags": [
@@ -18048,7 +18059,8 @@
       "Haggis",
       "receta",
       "Avena",
-      "Embutidos"
+      "Embutidos",
+      "Tradicional"
     ],
     "prep_time": "45 min (estimado)",
     "cook_time": "5 h a 6 h",
@@ -18910,7 +18922,7 @@
     "id": 197,
     "title": "Pirozhki de Carne al Horno (Rusia)",
     "country": "Rusia",
-    "category": "Carnes",
+    "category": "Empanadas",
     "tags": [
       "Carne",
       "Cocina",
@@ -19974,7 +19986,7 @@
   },
   {
     "id": 208,
-    "title": "Moussaka Tradicional (Grecia)",
+    "title": "Moussaka de Berenjenas (Grecia)",
     "country": "Grecia",
     "category": "Carnes",
     "tags": [
@@ -19985,7 +19997,8 @@
       "Carne",
       "Cordero",
       "Vaca",
-      "Cocina"
+      "Cocina",
+      "Tradicional"
     ],
     "prep_time": "35 min (estimado)",
     "cook_time": "1 h 10 min",
@@ -20899,7 +20912,7 @@
   },
   {
     "id": 217,
-    "title": "Mapo Tofu Tradicional de Sichuan (China)",
+    "title": "Mapo Tofu de Sichuan (China)",
     "country": "China",
     "category": "Carnes",
     "tags": [
@@ -20909,7 +20922,8 @@
       "Tofu",
       "Cerdo",
       "Picante",
-      "Cocina"
+      "Cocina",
+      "Tradicional"
     ],
     "prep_time": "30 min (incluye prensado del tofu)",
     "cook_time": "12 min",
@@ -21639,7 +21653,7 @@
   },
   {
     "id": 225,
-    "title": "Gazpacho Andaluz Tradicional (España)",
+    "title": "Gazpacho Andaluz (España)",
     "country": "España",
     "category": "Sopas & Caldos",
     "tags": [
@@ -21648,7 +21662,8 @@
       "Gazpacho",
       "Tomate",
       "Sopa Fria",
-      "Cocina"
+      "Cocina",
+      "Tradicional"
     ],
     "prep_time": "15 min",
     "cook_time": "0 min",
@@ -24234,7 +24249,7 @@
   },
   {
     "id": 253,
-    "title": "Blinis Tradicionales (Rusia)",
+    "title": "Blinis Esponjosos (Rusia)",
     "country": "Rusia",
     "category": "Panadería & Masas",
     "tags": [
@@ -24244,7 +24259,8 @@
       "Blinis",
       "Crema Agria",
       "Caviar",
-      "Salmón"
+      "Salmón",
+      "Tradicional"
     ],
     "prep_time": "15 min",
     "cook_time": "15 min",
@@ -24902,7 +24918,7 @@
   },
   {
     "id": 259,
-    "title": "Tacos al Pastor Tradicionales con Piña Asada (México)",
+    "title": "Tacos al Pastor con Piña Asada (México)",
     "country": "México",
     "category": "Carnes",
     "tags": [
@@ -24914,7 +24930,8 @@
       "al pastor",
       "achiote",
       "chiles secos",
-      "piña"
+      "piña",
+      "Tradicional"
     ],
     "prep_time": "30 min",
     "cook_time": "25 min",
@@ -25167,7 +25184,7 @@
   },
   {
     "id": 261,
-    "title": "Cacio e Pepe Auténtico Romano (Italia)",
+    "title": "Cacio e Pepe Romano (Italia)",
     "country": "Italia",
     "category": "Pastas",
     "tags": [
@@ -25178,7 +25195,8 @@
       "pecorino romano",
       "pimienta negra",
       "clasico",
-      "tradicion"
+      "tradicion",
+      "Tradicional"
     ],
     "prep_time": "10 min",
     "cook_time": "12 min",
@@ -25752,7 +25770,7 @@
   },
   {
     "id": 266,
-    "title": "Feijoada Completa Tradicional (Brasil)",
+    "title": "Feijoada Completa (Brasil)",
     "country": "Brasil",
     "category": "Guisos & Platos de Olla",
     "tags": [
@@ -25764,7 +25782,8 @@
       "porotos negros",
       "ahumado",
       "farofa",
-      "tradicion"
+      "tradicion",
+      "Tradicional"
     ],
     "prep_time": "40 min",
     "cook_time": "2 horas 30 min",
@@ -26244,7 +26263,7 @@
   },
   {
     "id": 270,
-    "title": "Revuelto Gramajo Tradicional (Uruguay)",
+    "title": "Revuelto Gramajo (Uruguay)",
     "country": "Uruguay",
     "category": "Desayunos & Huevos",
     "tags": [
@@ -26255,7 +26274,8 @@
       "jamon",
       "arvejas",
       "revuelto gramajo",
-      "clasico"
+      "clasico",
+      "Tradicional"
     ],
     "prep_time": "20 min",
     "cook_time": "12 min",
@@ -26497,7 +26517,7 @@
   },
   {
     "id": 272,
-    "title": "Pão de Queijo Tradicional (Brasil)",
+    "title": "Pão de Queijo (Brasil)",
     "country": "Brasil",
     "category": "Panadería & Masas",
     "tags": [
@@ -26508,7 +26528,8 @@
       "pao de queijo",
       "sin gluten",
       "snack",
-      "desayuno"
+      "desayuno",
+      "Tradicional"
     ],
     "prep_time": "20 min",
     "cook_time": "25 min",
@@ -26879,7 +26900,7 @@
   },
   {
     "id": 275,
-    "title": "Silpancho Tradicional Cochabambino (Bolivia)",
+    "title": "Silpancho Cochabambino (Bolivia)",
     "country": "Bolivia",
     "category": "Carnes",
     "tags": [
@@ -26890,7 +26911,8 @@
       "milanesa",
       "arroz",
       "huevos fritos",
-      "locoto"
+      "locoto",
+      "Tradicional"
     ],
     "prep_time": "25 min",
     "cook_time": "20 min",
@@ -27006,7 +27028,7 @@
   },
   {
     "id": 276,
-    "title": "Pique Macho Tradicional (Bolivia)",
+    "title": "Pique Macho (Bolivia)",
     "country": "Bolivia",
     "category": "Carnes",
     "tags": [
@@ -27017,7 +27039,8 @@
       "salchichas",
       "cerveza",
       "locoto",
-      "picante"
+      "picante",
+      "Tradicional"
     ],
     "prep_time": "25 min",
     "cook_time": "20 min",
@@ -27135,7 +27158,7 @@
   },
   {
     "id": 277,
-    "title": "Vori Vori de Pollo Tradicional (Paraguay)",
+    "title": "Vori Vori de Pollo (Paraguay)",
     "country": "Paraguay",
     "category": "Pollo & Aves",
     "tags": [
@@ -27146,7 +27169,8 @@
       "harina de maiz",
       "queso paraguay",
       "premiada",
-      "caldo"
+      "caldo",
+      "Tradicional"
     ],
     "prep_time": "30 min",
     "cook_time": "45 min",
@@ -27265,7 +27289,7 @@
   },
   {
     "id": 278,
-    "title": "Sopa Paraguaya Tradicional al Horno (Paraguay)",
+    "title": "Sopa Paraguaya al Horno (Paraguay)",
     "country": "Paraguay",
     "category": "Panadería & Masas",
     "tags": [
@@ -27276,7 +27300,8 @@
       "queso paraguay",
       "cebolla",
       "tradicion",
-      "sin gluten"
+      "sin gluten",
+      "Tradicional"
     ],
     "prep_time": "25 min",
     "cook_time": "40 min",
@@ -27647,7 +27672,7 @@
   },
   {
     "id": 281,
-    "title": "Croque Monsieur Tradicional Gratinado (Francia)",
+    "title": "Croque Monsieur Gratinado (Francia)",
     "original_title": "Traditional French Croque Monsieur",
     "country": "Francia",
     "category": "Hamburguesas",
@@ -27657,7 +27682,8 @@
       "Bistró",
       "Queso",
       "Gratinado",
-      "Clásico"
+      "Clásico",
+      "Tradicional"
     ],
     "prep_time": "15 min",
     "cook_time": "15 min",
@@ -27956,7 +27982,7 @@
   },
   {
     "id": 284,
-    "title": "Coronation Chicken Sandwich Tradicional (Reino Unido)",
+    "title": "Coronation Chicken Sandwich (Reino Unido)",
     "original_title": "Classic British Coronation Chicken Sandwich",
     "country": "Reino Unido",
     "category": "Hamburguesas",
@@ -27966,7 +27992,8 @@
       "Pollo",
       "Curry",
       "Clásico",
-      "Té de la Tarde"
+      "Té de la Tarde",
+      "Tradicional"
     ],
     "prep_time": "20 min",
     "cook_time": "15 min",
@@ -28415,7 +28442,7 @@
   },
   {
     "id": 288,
-    "title": "Francesinha Tradicional con Salsa de Cerveza (Portugal)",
+    "title": "Francesinha con Salsa de Cerveza (Portugal)",
     "original_title": "Francesinha Tradicional à Moda do Porto",
     "country": "Portugal",
     "category": "Hamburguesas",
@@ -28425,7 +28452,8 @@
       "Carnes",
       "Queso Fundido",
       "Cerveza",
-      "Contundente"
+      "Contundente",
+      "Tradicional"
     ],
     "prep_time": "20 min",
     "cook_time": "30 min",
@@ -29506,7 +29534,7 @@
   },
   {
     "id": 297,
-    "title": "Doble Smash Cheeseburger Clásica con Costra Crocante (Estados Unidos)",
+    "title": "Doble Smash Cheeseburger con Costra Crocante (Estados Unidos)",
     "original_title": "Classic Double Smash Cheeseburger",
     "country": "Estados Unidos",
     "category": "Hamburguesas",
@@ -29516,7 +29544,8 @@
       "Smash Burger",
       "Queso Fundido",
       "Doble",
-      "Clásico"
+      "Clásico",
+      "Tradicional"
     ],
     "prep_time": "15 min",
     "cook_time": "6 min",
@@ -29742,7 +29771,7 @@
   },
   {
     "id": 299,
-    "title": "Patty Melt Tradicional en Pan de Centeno y Queso Suizo (Estados Unidos)",
+    "title": "Patty Melt en Pan de Centeno y Queso Suizo (Estados Unidos)",
     "original_title": "Classic Diner Style Patty Melt",
     "country": "Estados Unidos",
     "category": "Hamburguesas",
@@ -29752,7 +29781,8 @@
       "Estados Unidos",
       "Diner",
       "Centeno",
-      "Queso Fundido"
+      "Queso Fundido",
+      "Tradicional"
     ],
     "prep_time": "15 min",
     "cook_time": "20 min",
@@ -30353,7 +30383,7 @@
   },
   {
     "id": 304,
-    "title": "Focaccia Genovese Clásica sin Amasado (Italia)",
+    "title": "Focaccia Genovese sin Amasado (Italia)",
     "original_title": "Focaccia Genovese (Italia)",
     "country": "Italia",
     "category": "Panadería & Masas",
@@ -30366,7 +30396,8 @@
       "Masa",
       "Oliva",
       "Romero",
-      "Salmuera"
+      "Salmuera",
+      "Tradicional"
     ],
     "prep_time": "25 min (distribuido)",
     "cook_time": "20 a 25 min",
@@ -30511,7 +30542,7 @@
   },
   {
     "id": 305,
-    "title": "Sake Casero Tradicional — Licor de Arroz Japonés (Japón)",
+    "title": "Sake Casero — Licor de Arroz Japonés (Japón)",
     "original_title": "Sake Casero Tradicional — Nihonshu (Japón)",
     "country": "Japón",
     "category": "Cocktails & Bebidas",
@@ -31165,7 +31196,7 @@
   },
   {
     "id": 309,
-    "title": "Culurgiones Tradicionales de Cerdeña (Italia)",
+    "title": "Culurgiones de Cerdeña (Italia)",
     "original_title": "Culurgionis d'Ogliastra IGP con Patate, Menta e Pecorino (Sardegna, Italia)",
     "country": "Italia",
     "category": "Pastas",
@@ -31613,7 +31644,7 @@
   },
   {
     "id": 312,
-    "title": "Baechu Kimchi Tradicional — Kimchi Clásico de Col China (Corea del Sur)",
+    "title": "Baechu Kimchi — Kimchi de Col China (Corea del Sur)",
     "original_title": "Tongbaechu Kimchi (통배추김치 - Corea del Sur)",
     "country": "Corea del Sur",
     "category": "Conservas & Lácteos",
@@ -42924,7 +42955,7 @@
   },
   {
     "id": 398,
-    "title": "Sopa de Wantan Clásica (China)",
+    "title": "Sopa de Wantan (China)",
     "original_title": "Yúntūn Miàn Tāng (Sopa Cantonesa de Wantanes de Cerdo y Langostinos con Fideos)",
     "country": "China",
     "category": "Sopas & Caldos",
@@ -42935,7 +42966,8 @@
       "Cocina Cantonesa",
       "Dumplings",
       "Hong Kong",
-      "China"
+      "China",
+      "Tradicional"
     ],
     "prep_time": "35 min",
     "cook_time": "15 min",
@@ -45306,7 +45338,7 @@
   },
   {
     "id": 418,
-    "title": "Empanadas Cordobesas Tradicionales (Argentina)",
+    "title": "Empanadas Cordobesas (Argentina)",
     "country": "Argentina",
     "category": "Empanadas",
     "tags": [
@@ -46284,7 +46316,7 @@
   },
   {
     "id": 426,
-    "title": "Empanadas Tucumanas Tradicionales de Matambre (Argentina)",
+    "title": "Empanadas Tucumanas de Matambre (Argentina)",
     "category": "Empanadas",
     "country": "Argentina",
     "prep_time": "45 min",
@@ -47520,7 +47552,7 @@
   },
   {
     "id": 438,
-    "title": "Empanadas Puntanas Tradicionales Fritas (Argentina)",
+    "title": "Empanadas Puntanas Fritas (Argentina)",
     "category": "Empanadas",
     "country": "Argentina",
     "prep_time": "40 min",
@@ -48592,7 +48624,7 @@
   },
   {
     "id": 448,
-    "title": "Steak Tartare Clásico de Autor al Estilo Heston Blumenthal (Inglaterra / Francia)",
+    "title": "Steak Tartare de Autor al Estilo Heston Blumenthal (Inglaterra / Francia)",
     "category": "Carnes",
     "country": "Inglaterra / Francia",
     "prep_time": "25 min",
@@ -48609,7 +48641,8 @@
       "Gourmet",
       "Bistró",
       "Francia",
-      "Inglaterra"
+      "Inglaterra",
+      "Tradicional"
     ],
     "ingredient_groups": [
       {
@@ -51056,7 +51089,7 @@
   },
   {
     "id": 467,
-    "title": "Margarita Clásica (México)",
+    "title": "Margarita (México)",
     "country": "México",
     "category": "Cocktails & Bebidas",
     "tags": [
@@ -51069,7 +51102,8 @@
       "Lima",
       "Clásico",
       "Cocktail",
-      "Bebidas"
+      "Bebidas",
+      "Tradicional"
     ],
     "prep_time": "5 min",
     "cook_time": "0 min",
@@ -51248,7 +51282,7 @@
   },
   {
     "id": 469,
-    "title": "Caipirinha Tradicional de Cachaça (Brasil)",
+    "title": "Caipirinha de Cachaça (Brasil)",
     "country": "Brasil",
     "category": "Cocktails & Bebidas",
     "tags": [
@@ -51261,7 +51295,8 @@
       "Playa",
       "Clásico",
       "Cocktail",
-      "Bebidas"
+      "Bebidas",
+      "Tradicional"
     ],
     "prep_time": "5 min",
     "cook_time": "0 min",
@@ -51348,7 +51383,7 @@
   },
   {
     "id": 470,
-    "title": "Piña Colada Clásica (Puerto Rico)",
+    "title": "Piña Colada (Puerto Rico)",
     "country": "Puerto Rico",
     "category": "Cocktails & Bebidas",
     "tags": [
@@ -51362,7 +51397,8 @@
       "Tropical",
       "Clásico",
       "Cocktail",
-      "Bebidas"
+      "Bebidas",
+      "Tradicional"
     ],
     "prep_time": "5 min",
     "cook_time": "0 min",
@@ -51448,7 +51484,7 @@
   },
   {
     "id": 471,
-    "title": "Postre Chajá Tradicional de Paysandú (Uruguay)",
+    "title": "Postre Chajá de Paysandú (Uruguay)",
     "country": "Uruguay",
     "category": "Postres & Dulces",
     "tags": [
@@ -51461,7 +51497,8 @@
       "Chantilly",
       "Duraznos",
       "Clásicos Rioplatenses",
-      "Repostería Tradicional"
+      "Repostería Tradicional",
+      "Tradicional"
     ],
     "prep_time": "45 min",
     "cook_time": "30 min",
@@ -51588,7 +51625,7 @@
   },
   {
     "id": 472,
-    "title": "Postre Massini Tradicional (Uruguay)",
+    "title": "Postre Massini (Uruguay)",
     "country": "Uruguay",
     "category": "Postres & Dulces",
     "tags": [
@@ -51601,7 +51638,8 @@
       "Yema Quemada",
       "Pionono",
       "Repostería Tradicional",
-      "Clásicos Rioplatenses"
+      "Clásicos Rioplatenses",
+      "Tradicional"
     ],
     "prep_time": "40 min",
     "cook_time": "25 min",
@@ -51830,7 +51868,7 @@
   },
   {
     "id": 474,
-    "title": "Capeletis a la Caruso Tradicionales (Uruguay)",
+    "title": "Capeletis a la Caruso (Uruguay)",
     "country": "Uruguay",
     "category": "Pastas",
     "tags": [
@@ -51842,7 +51880,8 @@
       "Champiñones",
       "Jamón Cocido",
       "Crema",
-      "Patrimonio Gastronómico"
+      "Patrimonio Gastronómico",
+      "Tradicional"
     ],
     "prep_time": "25 min",
     "cook_time": "20 min",
@@ -51954,7 +51993,7 @@
   },
   {
     "id": 475,
-    "title": "Milanesa a la Suiza Tradicional de Bodegón con Bechamel y Queso Gratinado (Uruguay)",
+    "title": "Milanesa a la Suiza de Bodegón con Bechamel y Queso Gratinado (Uruguay)",
     "country": "Uruguay",
     "category": "Carnes",
     "tags": [
@@ -51966,7 +52005,8 @@
       "Salsa Bechamel",
       "Papas Fritas",
       "Queso Gratinado",
-      "Clásicos Rioplatenses"
+      "Clásicos Rioplatenses",
+      "Tradicional"
     ],
     "prep_time": "30 min",
     "cook_time": "20 min",
@@ -52090,7 +52130,7 @@
   },
   {
     "id": 476,
-    "title": "Auténtica Milanesa Suiza Rellena - Cordon Bleu (Suiza)",
+    "title": "Milanesa Suiza Rellena - Cordon Bleu (Suiza)",
     "country": "Suiza",
     "category": "Carnes",
     "tags": [
@@ -52102,7 +52142,8 @@
       "Queso Gruyère",
       "Jamón Cocido",
       "Fritura Crujiente",
-      "Clásicos Europeos"
+      "Clásicos Europeos",
+      "Tradicional"
     ],
     "prep_time": "20 min",
     "cook_time": "15 min",
@@ -53512,7 +53553,7 @@
     "id": 487,
     "title": "Okonomiyaki de Osaka a la Plancha (Japón)",
     "country": "Japón",
-    "category": "Salsas & Condimentos",
+    "category": "Panadería & Masas",
     "tags": [
       "Japón",
       "Okonomiyaki",
@@ -67419,7 +67460,7 @@
   },
   {
     "id": 602,
-    "title": "Salsa Holandesa Clásica con Manteca Clarificada (Francia)",
+    "title": "Salsa Holandesa con Manteca Clarificada (Francia)",
     "category": "Salsas & Condimentos",
     "country": "Francia",
     "difficulty": "Media",
@@ -67466,7 +67507,8 @@
       "alex french guy",
       "salsas madre",
       "emulsion",
-      "alta cocina"
+      "alta cocina",
+      "Tradicional"
     ],
     "img_local": "img/salsa_holandesa_casera.jpg",
     "img_filename": "salsa_holandesa_casera.jpg",
@@ -70793,7 +70835,7 @@
   {
     "id": 635,
     "title": "Loco Moco (Estados Unidos)",
-    "category": "Hamburguesas",
+    "category": "Carnes",
     "country": "Estados Unidos",
     "difficulty": "Media",
     "prep_time": "20 min",
@@ -72232,6 +72274,70 @@
       "Baño húmedo y segundo dragado: Sumergir las piezas en el huevo batido durante 2 segundos, escurrir de inmediato todo el exceso de líquido y regresar al recipiente de harina seca. Repetir otros 60 volteos suaves y aireados hasta formar un relieve de escamas crocantes tipo estalactitas. Sacudir con firmeza el sobrante de harina.",
       "Fritura controlada a 160 °C: Calentar abundante aceite limpio en una olla pesada o freidora a 160 °C (320 °F). Sumergir las piezas despacio, sin canastilla metálica para no aplastar la costra. Cocinar durante 5 minutos exactos sin pinchar ni mover innecesariamente.",
       "Reposo y glaseado final: Retirar con espumadera y colocar inmediatamente sobre una rejilla metálica de enfriamiento para que el vapor circule libremente. Rociar en caliente con la miel picante infusionada con vinagre de manzana y terminar con una lluvia de caldo de pollo en polvo antes de servir."
+    ]
+  },
+  {
+    "id": 662,
+    "title": "Pollo a la Toscana (Italia)",
+    "slug": "pollo-a-la-toscana-italia",
+    "category": "Pollo & Aves",
+    "country": "Italia",
+    "prep_time": "15 min",
+    "cook_time": "25 min",
+    "calories": "540 kcal por porción",
+    "servings": "4 porciones",
+    "image": "https://lh3.googleusercontent.com/-2rqjM93yXqA/avprBrB9T_I/AAAAAAAQCgA/v1XtDNO3sZg_DM9Jid2OtcWvVihdoB2BgCNcBGAsYHQ/s1600/pollo_toscana_16_9.jpg",
+    "story": "Las raíces de mi abuela paterna Lemmi vienen de Villa Collemandina, en la Garfagnana toscana. El pollo a la toscana es un clásico de sartén donde la doradura del pollo se funde con una salsa sedosa de tomates secos, espinacas frescas, ajo y parmesano, perfumada con vino blanco y romero.",
+    "notes": "Secretos del chef:\n1. Utilizar pechugas fileteadas finas (o muslos deshuesados) y pasarlas apenas por harina antes de sellar; eso sella los jugos y ayuda a emulsionar la salsa después.\n2. No descartar el aceite de los tomates secos: usar dos cucharadas para dorar el pollo y saltear el ajo, aportando una intensidad aromática única.\n3. Desglasar la sartén con un vino blanco seco italiano (tipo Trebbiano o Pinot Grigio) para despegar todos los fondos caramelizados del pollo antes de incorporar la crema y el caldo.\n4. Las espinacas se agregan al final, solo 1 o 2 minutos hasta que colapsen por el propio calor residual sin perder su color verde vivo.",
+    "tags": [
+      "pollo a la toscana",
+      "pollo toscano",
+      "tuscan chicken",
+      "comida italiana",
+      "crema y espinacas",
+      "tomates secos",
+      "pechuga de pollo",
+      "toscana",
+      "garfagnana"
+    ],
+    "diet_badges": [
+      "Keto / Low-Carb",
+      "Alto en Proteína",
+      "Sin Gluten"
+    ],
+    "ingredients": [
+      "800 g de pechugas de pollo (cortadas transversalmente en escalopes medianos)",
+      "2 cdas de harina de trigo (o almidón de maíz para opción sin gluten)",
+      "3 cdas de aceite de oliva virgen extra (preferentemente el del frasco de tomates secos)",
+      "30 g de manteca",
+      "4 dientes de ajo picados finamente",
+      "100 g de tomates secos en aceite de oliva, escurridos y cortados en tiras",
+      "120 ml de vino blanco seco (o caldo de pollo)",
+      "150 ml de caldo concentrado de pollo",
+      "200 ml de crema de leche espesa (nata para cocinar)",
+      "60 g de queso Parmigiano-Reggiano rallado al momento",
+      "150 g de hojas tiernas de espinaca fresca (baby spinach), lavadas y secas",
+      "1 cdta de orégano seco",
+      "1 ramita de romero fresco",
+      "Sal marina y pimienta negra recién molida a gusto"
+    ],
+    "steps": [
+      "Preparación del pollo: Salpimentar los filetes de pechuga de pollo a gusto. Pasarlos ligeramente por harina sacudiendo cualquier exceso para dejar apenas un velo fino.",
+      "Sellado dorado: En una sartén amplia y profunda (o sartén de hierro fundido), calentar a fuego medio-alto el aceite de oliva y la manteca. Dorar los filetes de pollo durante 4 a 5 minutos por lado hasta que adquieran un color dorado parejo y estén cocidos por dentro. Retirar de la sartén y reservar en un plato tapado.",
+      "Base aromática: En la misma sartén con los jugos de cocción, reducir a fuego medio y agregar los dientes de ajo picados junto con las tiras de tomates secos. Saltear durante 1 minuto revolviendo constantemente con cuchara de madera hasta que el ajo libere su fragancia sin quemarse.",
+      "Desglase y reducción: Verter el vino blanco seco raspando el fondo de la sartén para despegar todo el sedimento dorado caramelizado. Dejar hervir a fuego vivo durante 2 a 3 minutos hasta que el alcohol se evapore y el líquido se reduzca a la mitad.",
+      "Salsa toscana cremosa: Bajar a fuego medio-bajo e incorporar el caldo de pollo, la crema de leche, el orégano seco y las hojas de romero. Dejar cocinar a suave borboteo durante 3 a 4 minutos hasta que la salsa comience a espesar y tomar cuerpo.",
+      "Queso y espinacas: Agregar el queso Parmigiano-Reggiano rallado revolviendo hasta que se funda y emulsione la salsa haciéndola brillante y aterciopelada. Incorporar las hojas de espinaca fresca y mezclar con suavidad durante 1 minuto hasta que apenas se ablanden con el calor.",
+      "Reintegración y servicio: Devolver los filetes de pollo dorado junto con los jugos acumulados en el plato al interior de la salsa. Bañar las piezas con la crema toscana y cocinar todo junto durante 2 minutos más para que los sabores se amalgamen. Servir de inmediato caliente."
+    ],
+    "instructions": [
+      "Preparación del pollo: Salpimentar los filetes de pechuga de pollo a gusto. Pasarlos ligeramente por harina sacudiendo cualquier exceso para dejar apenas un velo fino.",
+      "Sellado dorado: En una sartén amplia y profunda (o sartén de hierro fundido), calentar a fuego medio-alto el aceite de oliva y la manteca. Dorar los filetes de pollo durante 4 a 5 minutos por lado hasta que adquieran un color dorado parejo y estén cocidos por dentro. Retirar de la sartén y reservar en un plato tapado.",
+      "Base aromática: En la misma sartén con los jugos de cocción, reducir a fuego medio y agregar los dientes de ajo picados junto con las tiras de tomates secos. Saltear durante 1 minuto revolviendo constantemente con cuchara de madera hasta que el ajo libere su fragancia sin quemarse.",
+      "Desglase y reducción: Verter el vino blanco seco raspando el fondo de la sartén para despegar todo el sedimento dorado caramelizado. Dejar hervir a fuego vivo durante 2 a 3 minutos hasta que el alcohol se evapore y el líquido se reduzca a la mitad.",
+      "Salsa toscana cremosa: Bajar a fuego medio-bajo e incorporar el caldo de pollo, la crema de leche, el orégano seco y las hojas de romero. Dejar cocinar a suave borboteo durante 3 a 4 minutos hasta que la salsa comience a espesar y tomar cuerpo.",
+      "Queso y espinacas: Agregar el queso Parmigiano-Reggiano rallado revolviendo hasta que se funda y emulsione la salsa haciéndola brillante y aterciopelada. Incorporar las hojas de espinaca fresca y mezclar con suavidad durante 1 minuto hasta que apenas se ablanden con el calor.",
+      "Reintegración y servicio: Devolver los filetes de pollo dorado junto con los jugos acumulados en el plato al interior de la salsa. Bañar las piezas con la crema toscana y cocinar todo junto durante 2 minutos más para que los sabores se amalgamen. Servir de inmediato caliente."
     ]
   }
 ]

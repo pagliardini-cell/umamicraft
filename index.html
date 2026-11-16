@@ -2476,6 +2476,16 @@
       if (lower.includes('pasta')) return 'Pastas';
       if (lower.includes('carne')) return 'Carnes';
       if (lower.includes('ensalada')) return 'Ensaladas';
+      if (lower.includes('panader') || lower.includes('masa')) return 'Panadería & Masas';
+      if (lower.includes('guiso') || lower.includes('cazuela') || lower.includes('olla')) return 'Guisos & Platos de Olla';
+      if (lower.includes('guarnicion')) return 'Guarniciones';
+      if (lower.includes('conserva') || lower.includes('lacteo')) return 'Conservas & Lácteos';
+      if (lower.includes('desayuno') || lower.includes('huevo')) return 'Desayunos & Huevos';
+      if (lower.includes('pizza') || lower.includes('tarta')) return 'Pizzas & Tartas';
+      if (lower.includes('salsa') || lower.includes('condimento')) return 'Salsas & Condimentos';
+      if (lower.includes('entrada')) return 'Entradas';
+      if (lower === 'ee. uu.' || lower === 'eeuu' || lower === 'usa' || lower === 'estados unidos') return 'Estados Unidos';
+      if (lower.includes('reino unido') || lower === 'uk') return 'Reino Unido';
       return t;
     }
 
@@ -2567,84 +2577,6 @@
                             (r.country || '').toLowerCase().includes('autor') ||
                             [11, 16, 22, 61, 65, 87, 112, 129, 185, 202, 211, 223, 227, 228, 240, 252, 346, 389, 393, 454].includes(r.id);
             if (!isAutor) return false;
-          } else if (currentQuickTag === 'Ramen') {
-            const titleLower = (r.title || '').toLowerCase();
-            const tagsLower = (r.tags || []).map(t => String(t).toLowerCase());
-            const isRamen = category === 'Ramen' ||
-                            titleLower.includes('ramen') ||
-                            titleLower.includes('kamaboko') ||
-                            tagsLower.includes('ramen') ||
-                            tagsLower.includes('kamaboko');
-            if (!isRamen) return false;
-          } else if (currentQuickTag === 'Hamburguesas' || currentQuickTag === 'Burgers' || currentQuickTag === 'Burgers & Sándwiches') {
-            const isBurger = category === 'Hamburguesas' ||
-                             category.toLowerCase().includes('burger') || 
-                             category.toLowerCase().includes('hamburguesa') ||
-                             (r.title || '').toLowerCase().includes('burger') ||
-                             (r.title || '').toLowerCase().includes('hamburguesa') ||
-                             (r.tags || []).some(t => {
-                               const s = String(t).toLowerCase();
-                               return s.includes('burger') || s.includes('sandwich') || s.includes('hamburguesa');
-                             });
-            if (!isBurger) return false;
-          } else if (currentQuickTag === 'Cocktails & Bebidas' || currentQuickTag === 'Cocktails & Tragos' || currentQuickTag === 'Tragos' || currentQuickTag === 'Bebidas') {
-            const isDrink = category === 'Cocktails & Bebidas' ||
-                            category.toLowerCase().includes('cocktail') || 
-                            category.toLowerCase().includes('trago') || 
-                            category.toLowerCase().includes('bebida') ||
-                            (r.tags || []).some(t => {
-                              const s = String(t).toLowerCase();
-                              return s.includes('cocktail') || s.includes('trago') || s.includes('bebida');
-                            });
-            if (!isDrink) return false;
-          } else if (currentQuickTag === 'Sopas & Caldos' || currentQuickTag === 'Sopas y Potajes' || currentQuickTag === 'Sopas') {
-            const isSopa = category === 'Sopas & Caldos' ||
-                           category.toLowerCase().includes('sopa') ||
-                           category.toLowerCase().includes('caldo') ||
-                           category.toLowerCase().includes('potaje');
-            if (!isSopa) return false;
-          } else if (currentQuickTag === 'Pollo & Aves' || currentQuickTag === 'Pollo / Aves' || currentQuickTag === 'Pollo y Aves' || currentQuickTag === 'Aves') {
-            const isPollo = category === 'Pollo & Aves' ||
-                            category.toLowerCase().includes('pollo') ||
-                            category.toLowerCase().includes('ave');
-            if (!isPollo) return false;
-          } else if (currentQuickTag === 'Postres & Dulces' || currentQuickTag === 'Postres y Dulces' || currentQuickTag === 'Postres') {
-            const isPostre = category === 'Postres & Dulces' ||
-                             category.toLowerCase().includes('postre') ||
-                             category.toLowerCase().includes('dulce');
-            if (!isPostre) return false;
-          } else if (currentQuickTag === 'Empanadas' || currentQuickTag === 'Empanada') {
-            const isEmpanada = category === 'Empanadas' ||
-                               (r.title || '').toLowerCase().includes('empanada') ||
-                               (r.tags || []).some(t => String(t).toLowerCase().includes('empanada'));
-            if (!isEmpanada) return false;
-          } else if (currentQuickTag === 'Arroces & Risottos' || currentQuickTag === 'Arroces') {
-            const isArroz = category === 'Arroces & Risottos' ||
-                            category.toLowerCase().includes('arroz') ||
-                            category.toLowerCase().includes('risotto');
-            if (!isArroz) return false;
-          } else if (currentQuickTag === 'Pescados & Mariscos' || currentQuickTag === 'Pescados') {
-            const isPescado = category === 'Pescados & Mariscos' ||
-                              category.toLowerCase().includes('pescado') ||
-                              category.toLowerCase().includes('marisco');
-            if (!isPescado) return false;
-          } else if (currentQuickTag === 'Panadería & Masas' || currentQuickTag === 'Panadería') {
-            const isPan = category === 'Panadería & Masas' ||
-                          category.toLowerCase().includes('panader') ||
-                          category.toLowerCase().includes('masa');
-            if (!isPan) return false;
-          } else if (currentQuickTag === 'Guisos & Platos de Olla' || currentQuickTag === 'Guisos') {
-            const isGuiso = category === 'Guisos & Platos de Olla' ||
-                            category.toLowerCase().includes('guiso') ||
-                            category.toLowerCase().includes('olla');
-            if (!isGuiso) return false;
-          } else if (currentQuickTag === 'Ensaladas' || currentQuickTag === 'Ensalada') {
-            const isEnsalada = category === 'Ensaladas' ||
-                               category.toLowerCase().includes('ensalada');
-            if (!isEnsalada) return false;
-          } else if (currentQuickTag === 'Entradas' || currentQuickTag === 'Entrada') {
-            const isEntrada = category === 'Entradas';
-            if (!isEntrada) return false;
           } else {
             const matchCat = category.toLowerCase() === currentQuickTag.toLowerCase();
             const matchCountry = country.toLowerCase().includes(currentQuickTag.toLowerCase());
