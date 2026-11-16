@@ -15,3 +15,6 @@ token_blogger*.json
 credentials*.json
 
 
+
+# No subir carpeta de imagenes locales (se sirven desde Google CDN)
+img/
