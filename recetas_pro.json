@@ -72833,5 +72833,56 @@
       "Saltear suavemente durante 1 minuto a fuego medio para que la pasta absorba la salsa.",
       "Apagar el fuego, incorporar el Parmigiano-Reggiano rallado y mezclar enérgicamente con movimientos envolventes hasta lograr una emulsión cremosa y brillante. Servir de inmediato en cuencos calientes."
     ]
+  },
+  {
+    "id": 673,
+    "title": "Panqueque de Manzana Quemado al Caramelo (Argentina)",
+    "slug": "panqueque-de-manzana-quemado-al-caramelo-argentina",
+    "category": "Postres & Dulces",
+    "country": "Argentina",
+    "prep_time": "15 min",
+    "cook_time": "15 min",
+    "calories": "420 kcal por porción",
+    "servings": "4 porciones",
+    "image": "img/panqueque_de_manzana_caramelo.jpg",
+    "story": "El panqueque de manzana quemado al caramelo es el postre emblemático de los bodegones porteños. En mi cocina siempre lo preparo en sartén de hierro bien curada: la acidez de la manzana verde cortada en láminas finas se funde con manteca y azúcar hasta caramelizar en un dorado profundo, antes de verter una masa liviana de crepé que atrapa la fruta. El remate es innegociable: espolvorear azúcar por encima y quemarlo con una plancha de hierro al rojo vivo (o flambearlo con ron o coñac) para lograr esa costra crujiente de caramelo amargo que contrasta con una bocha de helado de crema americana.",
+    "notes": "Secretos del chef:\n1. Manzana verde ácida (Granny Smith): usar manzanas verdes bien firmes; su acidez equilibra la dulzura del caramelo y resisten la cocción sin desarmarse en puré.\n2. Grosor del corte: cortar láminas de 2 a 3 mm exactos para que queden tiernas pero conserven mordida.\n3. Masa sin azúcar: la masa de panqueque no lleva azúcar; todo el dulzor proviene del caramelo de la sartén y la costra quemada superficial.\n4. El quemado de bodegón: espolvorear azúcar blanco sobre la manzana dorada y pasar una plancha de hierro al rojo vivo (o soplete potente) para lograr el crujido vítreo de caramelo amargo.",
+    "tags": [
+      "panqueque de manzana",
+      "manzana caramelizada",
+      "bodegon porteno",
+      "postre argentino",
+      "granny smith",
+      "panqueque quemado",
+      "helado de crema",
+      "postre clasico"
+    ],
+    "diet_badges": [
+      "Vegetariano"
+    ],
+    "ingredients": [
+      "2 manzanas verdes Granny Smith (peladas, sin corazón y cortadas en láminas de 2 a 3 mm)",
+      "50 g de manteca sin sal",
+      "60 g de azúcar blanco (para caramelizar en la sartén)",
+      "4 cucharadas de azúcar extra (para espolvorear y quemar)",
+      "50 ml de ron dorado o coñac (opcional para flambear)",
+      "2 huevos medianos",
+      "250 ml de leche entera",
+      "120 g de harina de trigo 0000",
+      "20 g de manteca derretida",
+      "1 cucharadita de extracto de vainilla natural",
+      "1 pizca de sal fina",
+      "Bocha de helado de crema americana para acompañar"
+    ],
+    "steps": [
+      "En un bol, batir los huevos con la pizca de sal, la vainilla y la mitad de la leche. Incorporar la harina tamizada batiendo para evitar grumos. Añadir la leche restante y los 20 g de manteca derretida tibia. Dejar reposar la masa 15 minutos.",
+      "Pelar las manzanas verdes, quitar el centro y cortarlas en rodajas o medias lunas finas de 2 a 3 mm de espesor.",
+      "Calentar una sartén mediana de fondo grueso a fuego medio. Fundir 25 g de manteca y espolvorear 2 cucharadas de azúcar en la base.",
+      "Disponer las láminas de manzana verde en abanico concéntrico cubriendo todo el fondo. Cocinar a fuego moderado durante 4 a 5 minutos hasta que el azúcar tome color caramelo dorado y las manzanas comiencen a tiernizar.",
+      "Verter un cucharón y medio de masa sobre las manzanas, asegurando que penetre entre los huecos y forme una capa delgada y uniforme.",
+      "Cocinar a fuego suave 3 minutos hasta que los bordes se despeguen y la superficie cuaje. Dar vuelta con ayuda de un plato llano aceitado y dorar la otra cara 1 minuto y medio.",
+      "Deslizar el panqueque a un plato con las manzanas hacia arriba. Espolvorear copiosamente con azúcar blanco y quemar con plancha de hierro al rojo vivo (o soplete) hasta formar una costra crujiente de caramelo vítreo.",
+      "Servir de inmediato bien caliente, acompañado de una bocha de helado de crema americana."
+    ]
   }
 ]
