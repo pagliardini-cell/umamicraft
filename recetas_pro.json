@@ -73201,94 +73201,111 @@
     "title": "Fideos con Aceite de Cebollino — Cong You Ban Mian (China)",
     "category": "Pastas",
     "country": "China",
-    "prep_time": "10 min",
-    "cook_time": "20 min",
-    "total_time": "30 min",
+    "prep_time": "15 min",
+    "cook_time": "25 min",
+    "total_time": "40 min",
     "servings": "2 porciones",
-    "calories": "440 kcal",
-    "difficulty": "Fácil",
+    "calories": "480 kcal",
+    "difficulty": "Media",
     "image": "https://lh3.googleusercontent.com/-tvcyoHI9ieg/avwjxL5oWUI/AAAAAAAQCmE/bKnCmsveGmcrsb0xHFAonq6nke9JZ0sLQCNcBGAsYHQ/s1600/fideos_aceite_cebollino.jpg",
-    "story": "Nacidos en los callejones residenciales (longtang) de Shanghái a finales del siglo XIX, los Cong You Ban Mian (葱油拌面) representan la cúspide de la cocina Benbang: la gastronomía tradicional shanghainesa basada en sublimar ingredientes cotidianos mediante maestría en el fuego. Nació como el desayuno humilde y energético de los trabajadores portuarios del río Huangpu. El secreto reside en la confitura lenta del verdeo en aceite vegetal hasta deshidratarlo en hebras crujientes, que luego se ligan con salsa de soja y azúcar para napar los fideos de trigo. En mi cocina es uno de mis platos de cabecera por su sencillez y potencia aromática.",
+    "story": "Originarios de los callejones residenciales (longtang) de Shanghái a finales de la dinastía Qing (siglo XIX), los Cong You Ban Mian (葱油拌面) son el ícono supremo de la cocina Benbang (la gastronomía tradicional shanghainesa). Nació en los puestos callejeros matutinos del puerto fluvial del río Huangpu como un desayuno rápido y energizante para estibadores y comerciantes. La técnica tradicional no se limita al verdeo: el aceite se aromatiza a fuego muy lento con chalotas, ajo machacado y jengibre, mientras que la base de soja oscura y clara se reduce con azúcar y especias enteras —anís estrellado y canela en rama— aportando un fondo aromático y licoroso que laquea cada hebra de fideo de trigo al mezclarse.",
     "ingredient_groups": [
       {
         "name": "Fideos de Trigo (Base)",
         "ingredients": [
-          "250 g de fideos de trigo finos (frescos o secos, tipo fideos chinos o ramen)"
+          "250 g de fideos de trigo finos frescos (tipo Shanghái, lamian o fideos finos de ramen)"
         ]
       },
       {
-        "name": "Aceite de Cebollino Caramelizado",
+        "name": "Aceite Aromático Infusionado",
         "ingredients": [
-          "1 atado grande de cebolla de verdeo fresca (150 g, partes blancas y verdes separadas en bastones de 5 cm)",
-          "80 ml de aceite vegetal neutro (girasol o maíz)"
+          "10 a 12 tallos de cebolla de verdeo fresca (partes blancas y verdes separadas en bastones de 5 cm)",
+          "2 chalotas o 1 cebolla morada pequeña finamente laminada",
+          "4 dientes de ajo enteros aplastados",
+          "3 rodajas finas de jengibre fresco",
+          "150 ml de aceite vegetal neutro (girasol, maíz o maní)"
         ]
       },
       {
-        "name": "Salsa de Soja Reducida y Terminación",
+        "name": "Salsa de Soja Especiada de Shanghái",
         "ingredients": [
-          "2 cucharadas de salsa de soja clara (sheng chou)",
-          "1 cucharada colmada de salsa de soja oscura (lao chou, para densidad y color laqueado)",
-          "1 cucharada rasa de azúcar rubia o blanca",
-          "1/2 cucharadita de aceite de sésamo tostado (opcional)",
-          "1 cucharada de semillas de sésamo tostado"
+          "60 ml de salsa de soja clara (sheng chou)",
+          "35 ml de salsa de soja oscura (lao chou, para densidad y color laqueado intenso)",
+          "2 cucharadas colmadas de azúcar rubia o azúcar de caña",
+          "1 estrella de anís estrellado",
+          "1 trozo pequeño de canela en rama (o corteza de casia)",
+          "1 cucharada de semillas de sésamo tostado para terminar"
         ]
       }
     ],
     "step_groups": [
       {
-        "name": "Paso 1: Infusión y confitado del aceite de verdeo",
+        "name": "Paso 1: Confitado lento del aceite aromático con chalota, ajo y jengibre",
         "steps": [
-          "Lavá y secá perfectamente las cebollas de verdeo con papel absorbente (el agua salpicaría en el aceite caliente). Cortá los tallos en bastones de unos 5 a 6 cm de largo, separando la parte blanca de la verde.",
-          "En una sartén o wok a fuego bajo-medio, calentá los 80 ml de aceite e incorporá primero la parte blanca del verdeo, que es más densa y tarda más en cocinarse. Cociná 5 minutos hasta que empiece a dorarse.",
-          "Sumá la parte verde y bajá el fuego al mínimo. Dejá que se confiten lentamente durante 12 a 15 minutos, removiendo de vez en cuando, hasta que las tiras de verdeo tomen un color caoba oscuro y queden crocantes (sin quemarse a negro).",
-          "Retirá las tiras crocantes de verdeo con pinza o espumadera y reservalas sobre papel para usarlas de guarnición crujiente."
+          "Lavá y secá meticulosamente las cebollas de verdeo con papel absorbente (cualquier resto de humedad frena el caramelizado y salpica en el aceite caliente). Cortá los tallos en bastones de unos 5 cm, separando la parte blanca de la verde.",
+          "En una sartén amplia o wok a fuego bajo-medio, calentá los 150 ml de aceite neutro. Agregá las chalotas laminadas, los 4 dientes de ajo aplastados, las rodajas de jengibre y la parte blanca del verdeo.",
+          "Cociná a fuego muy lento durante 8 a 10 minutos para que los bulbos y el ajo liberen todos sus aceites esenciales en la grasa sin quemarse.",
+          "Incorporá la parte verde del verdeo y bajá el fuego al mínimo absoluto. Confitá durante 12 a 15 minutos más, removiendo con cuidado, hasta que las hebras de verdeo se deshidraten por completo, tomen un tono caoba dorado y queden crujientes como hojas secas.",
+          "Retirá inmediatamente las hebras crujientes de verdeo, chalota y ajo con una espumadera y escurrilas sobre papel absorbente para la guarnición final."
         ]
       },
       {
-        "name": "Paso 2: Elaboración de la salsa en el wok",
+        "name": "Paso 2: Reducción de la salsa de soja especiada con anís y canela",
         "steps": [
-          "En la misma sartén con el aceite aromatizado caliente (a fuego mínimo), agregá la salsa de soja clara, la salsa de soja oscura y el azúcar.",
-          "Cociná durante 1 a 2 minutos revolviendo suavemente con cuchara de madera hasta que el azúcar se disuelva por completo y la salsa burbujee ligeramente formando un almíbar brillante y denso. Apagá el fuego."
+          "En una cacerolita pequeña (o en el mismo wok dejando 2 cucharadas del aceite recién hecho), verté la salsa de soja clara, la salsa de soja oscura y las 2 cucharadas de azúcar rubia.",
+          "Incorporá la estrella de anís estrellado y el trozo de canela en rama.",
+          "Cociná a fuego suave durante 3 a 4 minutos, revolviendo con cuchara de madera hasta que el azúcar se disuelva por completo y la salsa reduzca a un almíbar denso, oscuro y fragante.",
+          "Retirá del fuego y descartá el anís estrellado y la canela (ya habrán transferido sus aceites esenciales)."
         ]
       },
       {
-        "name": "Paso 3: Cocción de los fideos y ensamblaje",
+        "name": "Paso 3: Cocción de los fideos y emulsión al cuenco",
         "steps": [
-          "En una olla con abundante agua hirviendo sin sal, cociná los fideos de trigo al dente según las instrucciones del paquete (generalmente 2 a 3 minutos para fideos frescos).",
-          "Escurrí bien los fideos sacudiendo el colador para retirar todo el exceso de agua (el agua diluiría la salsa).",
-          "Pasá los fideos de inmediato a los cuencos de servicio, verté por encima 2 a 3 cucharadas de la salsa caliente de aceite de cebolleta y mezclá enérgicamente con palillos hasta que los fideos adquieran un color caramelo oscuro homogéneo y brillo satinado.",
-          "Coroná en el centro con una porción de las cebollas de verdeo crujientes reservadas y unas semillas de sésamo tostado. Serví de inmediato."
+          "En una olla con abundante agua hirviendo sin sal, cociná los fideos de trigo frescos al dente (unos 2 a 3 minutos).",
+          "Escurrí los fideos en un colador sacudiendo con firmeza para eliminar hasta la última gota de agua de cocción (el exceso de agua arruina la adherencia del aceite).",
+          "En la base de cada cuenco de servicio, colocá 2 cucharadas de la salsa de soja especiada reducida y 1 a 2 cucharadas del aceite de cebollino aromático.",
+          "Volcá los fideos humeantes directamente sobre la mezcla y revolvé vigorosamente con palillos desde el fondo hacia arriba: cada hebra se impregnará de un color caoba oscuro brillante y sedoso.",
+          "Coroná generosamente con los trozos crujientes de verdeo y chalota reservados y una lluvia de sésamo tostado. Serví de inmediato."
         ]
       }
     ],
     "steps": [
-      "Cortá el verdeo en bastones secos y confitalos en aceite a fuego mínimo hasta que estén bronceados y crocantes; retirálos y reservalos.",
-      "En el aceite perfumado del wok, sumá la soja clara, soja oscura y azúcar, reduciendo 1-2 minutos hasta espesar.",
-      "Herví los fideos de trigo al dente y escurrilas bien.",
-      "Mezclá los fideos calientes con la salsa reducida y coroná con el verdeo crujiente y sésamo tostado."
+      "Lavá y secá perfectamente el verdeo con papel absorbente; cortá en bastones de 5 cm separando la parte blanca de la verde.",
+      "En un wok o sartén amplia con el aceite a fuego bajo, incorporá las chalotas, el ajo aplastado, el jengibre y la parte blanca del verdeo; confitá lentamente 8-10 minutos hasta que aromaticen y empiecen a dorar.",
+      "Sumá las hojas verdes del verdeo a fuego mínimo y dejá confitar 12-15 minutos hasta que queden de un color bronce tostado y crujientes; retirá los aromáticos crocantes con espumadera y reservalos.",
+      "En una cacerolita o en el mismo wok con un poco del aceite colado, mezclá la soja clara, soja oscura, azúcar, el anís estrellado y la canela; herví suavemente 3-4 minutos hasta que el azúcar se funda y espese en un jarabe brillante. Retirá las especias.",
+      "Herví los fideos de trigo al dente en abundante agua sin sal, escurrilos enérgicamente y pasalos a los cuencos.",
+      "Verté 2 cucharadas de la salsa especiada y 1-2 cucharadas del aceite tibio de verdeo sobre los fideos, mezclá con palillos hasta que queden laqueados y coroná con el verdeo y ajo crujiente y semillas de sésamo."
     ],
-    "notes": "Secar meticulosamente la cebolla de verdeo antes de cocinarla es el gran truco: cualquier gota de humedad frena el caramelizado y ablanda la verdura. La salsa de soja oscura aporta el color profundo característico de Shanghái sin aportar sal excesiva.",
+    "notes": "El secado meticuloso del verdeo es innegociable para que caramelice y no se hierva en el aceite. La infusión de la salsa con anís estrellado, canela y el confitado previo con ajo y chalota es la marca de fábrica que eleva este plato de un simple aderezo a la técnica de taberna auténtica de Shanghái (estilo My Name Is Andong).",
     "tags": [
       "fideos",
       "shanghai",
       "verdeo",
       "cebollin",
-      "wok",
-      "rapido",
-      "comida callejera",
+      "anis estrellado",
+      "canela",
+      "ajo",
+      "chalotas",
+      "andong",
+      "oriental",
       "vegetariano"
     ],
     "diet": [
       "Vegetariano"
     ],
     "ingredients": [
-      "250 g de fideos de trigo finos (frescos o secos, tipo fideos chinos o ramen)",
-      "1 atado grande de cebolla de verdeo fresca (150 g, partes blancas y verdes separadas en bastones)",
-      "80 ml de aceite vegetal neutro (girasol o maíz)",
-      "2 cucharadas de salsa de soja clara (sheng chou)",
-      "1 cucharada colmada de salsa de soja oscura (lao chou)",
-      "1 cucharada rasa de azúcar rubia o blanca",
-      "1/2 cucharadita de aceite de sésamo tostado (opcional)",
+      "250 g de fideos de trigo finos frescos (tipo Shanghái o ramen)",
+      "10 a 12 tallos de cebolla de verdeo fresca (partes blancas y verdes)",
+      "2 chalotas o 1 cebolla morada pequeña laminada",
+      "4 dientes de ajo enteros aplastados",
+      "3 rodajas finas de jengibre fresco",
+      "150 ml de aceite vegetal neutro",
+      "60 ml de salsa de soja clara (sheng chou)",
+      "35 ml de salsa de soja oscura (lao chou)",
+      "2 cucharadas colmadas de azúcar rubia o de caña",
+      "1 estrella de anís estrellado",
+      "1 trozo pequeño de canela en rama",
       "1 cucharada de semillas de sésamo tostado"
     ]
   },
