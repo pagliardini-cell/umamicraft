@@ -51497,7 +51497,7 @@
     "total_time": "1 hora 5 min",
     "servings": "10 porciones",
     "calories": "390 kcal por porción",
-    "image": "https://lh3.googleusercontent.com/-vQnxa8WS0Uw/avydHv7BvjI/AAAAAAAQCtE/C3FvizEa9iMrq-YNv2ZI9GsCwoe8eZwkwCNcBGAsYHQ/s1600/postre_chaja_uruguay.jpg",
+    "image": "https://lh3.googleusercontent.com/-fUyZPzPn5_c/avzP_8u31eI/AAAAAAAQCt0/9Qb9WQrwb300UDKQrd82W_JRw0rX0i94ACNcBGAsYHQ/s1600/postre_chaja_uruguay.jpg",
     "source": "Orlando Castelluccio (Confitería Las Familias, Paysandú, 1927)",
     "source_url": "",
     "story": "El Postre Chajá fue creado el 23 de mayo de 1927 por don Orlando Castelluccio en la emblemática Confitería Las Familias de la ciudad de Paysandú, Uruguay. Inspirado en el ave autóctona de las lagunas rioplatenses por su plumaje blanco, abundante y liviano que evocan las capas de merengue desmenuzado, se convirtió en el mayor ícono dulce del país y en un postre entrañable adoptado en las celebraciones familiares de toda la región.",
@@ -76258,6 +76258,328 @@
       "Mejor Imitación",
       "Clon de Coca Cola",
       "Receta Secreta"
+    ]
+  },
+  {
+    "id": 709,
+    "title": "Vermut Rosso (Italia)",
+    "original_title": "Vermouth Rosso di Torino",
+    "country": "Italia",
+    "flag": "🇮🇹",
+    "region": "Piamonte / Turín",
+    "category": "Bebidas y Cócteles",
+    "subcategory": "Aperitivos y Vermuts",
+    "difficulty": "Fácil",
+    "prep_time": "15 min",
+    "cook_time": "10 min (+ 7 días maceración)",
+    "total_time": "25 min (+ 7 días)",
+    "servings": "1 litro",
+    "calories": "145 kcal por copa",
+    "image": "https://lh3.googleusercontent.com/-zOOLlf1lVio/avzet25bUDI/AAAAAAAQCug/pXMi0J0s8-ol0m0Sv837jp4yjYr6i-oWwCNcBGAsYHQ/s1600/vermut_rosso_italia.jpg",
+    "source": "Tradición Piamontesa y Bodegón Rioplatense",
+    "source_url": "",
+    "story": "Nacido a fines del siglo XVIII en la ciudad de Turín, Piamonte, el vermut fue creado en 1786 por el destilador Antonio Benedetto Carpano al aromatizar vino con ajenjo y más de treinta botánicos aromáticos. Su consumo se convirtió en el ritual social por excelencia del aperitivo en toda Italia y el Río de la Plata, marcando el compás de las tertulias previas a las comidas familiares. En casa disfruto macerar mi propia botella para revivir el sabor profundo y amargo de los viejos bodegones.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Vino y Alcohol",
+        "ingredients": [
+          "750 ml de vino blanco seco o tinto joven (Torrontés, Chenin o Bonarda ligero)",
+          "100 ml de alcohol etílico neutro de grado alimenticio al 95% (o vodka puro)"
+        ]
+      },
+      {
+        "name": "Botánicos y Especias de Maceración",
+        "ingredients": [
+          "4 g de ajenjo seco (Artemisia absinthium — el amargo imprescindible)",
+          "3 g de raíz de genciana o corteza de naranja amarga",
+          "1 rama de canela en rama partida",
+          "4 bayas de cardamomo machacadas",
+          "3 clavos de olor",
+          "1 anís estrellado",
+          "Piel de 1 naranja fresca (sin la parte blanca)",
+          "Piel de 1 limón fresco (sin la parte blanca)"
+        ]
+      },
+      {
+        "name": "Almíbar de Caramelo",
+        "ingredients": [
+          "150 g de azúcar blanco o rubio",
+          "50 ml de agua caliente"
+        ]
+      },
+      {
+        "name": "Para el Servicio Clásico",
+        "ingredients": [
+          "Hielo macizo en cubos",
+          "Un golpe de soda helada de sifón",
+          "Media rodaja de naranja fresca",
+          "1 aceituna verde ensartada en palillo"
+        ]
+      }
+    ],
+    "ingredients": [
+      "750 ml de vino blanco seco o tinto joven",
+      "100 ml de alcohol etílico neutro o vodka",
+      "4 g de ajenjo seco (Artemisia absinthium)",
+      "3 g de raíz de genciana",
+      "1 rama de canela en rama",
+      "4 bayas de cardamomo machacadas",
+      "3 clavos de olor",
+      "1 anís estrellado",
+      "Piel de 1 naranja fresca (sin albedo blanco)",
+      "Piel de 1 limón fresco (sin albedo blanco)",
+      "150 g de azúcar común",
+      "50 ml de agua caliente",
+      "Hielo, soda helada, rodaja de naranja y aceituna verde para servir"
+    ],
+    "step_groups": [
+      {
+        "name": "1. Maceración Botánica Alcohólica",
+        "steps": [
+          "En un frasco de vidrio de boca ancha esterilizado, colocá el ajenjo, la raíz de genciana, la rama de canela partida, las bayas de cardamomo abiertas, los clavos, el anís estrellado y las pieles de naranja y limón.",
+          "Verté los 100 ml de alcohol neutro (o vodka) sobre las hierbas. Cerrá herméticamente, agitá con fuerza y dejá macerar en un lugar fresco y oscuro durante 7 a 10 días, batiendo una vez al día para liberar todos los aceites esenciales."
+        ]
+      },
+      {
+        "name": "2. Filtrado del Extracto",
+        "steps": [
+          "Cumplida la semana de maceración, pasá el extracto alcohólico por un colador de malla fina y luego por un filtro de café o lienzo fino. Te quedará una tintura botánica brillante, intensamente aromática y amarga."
+        ]
+      },
+      {
+        "name": "3. Elaboración del Caramelo y Ensamblado",
+        "steps": [
+          "En una sartén pequeña, poné 50 g de azúcar a fuego medio sin tocar hasta formar un caramelo dorado oscuro. Con extremo cuidado, verté los 50 ml de agua caliente y los 100 g de azúcar restantes, revolviendo hasta disolución total. Dejá enfriar.",
+          "En una botella de vidrio de 1 litro limpia, verté los 750 ml de vino, sumá la tintura botánica filtrada y el almíbar de caramelo frío. Tapá, agitá bien y guardá en heladera durante 48 horas antes de abrir para que los sabores maduren y armonicen."
+        ]
+      },
+      {
+        "name": "4. Servicio de Bodegón",
+        "steps": [
+          "Llená un vaso bajo con hielo macizo, serví el vermut hasta tres cuartos del vaso, agregá un chorrito de soda helada para despertar las burbujas, perfumá con la media rodaja de naranja y decorá con la aceituna verde."
+        ]
+      }
+    ],
+    "steps": [
+      "Colocá en frasco de vidrio el alcohol con el ajenjo, genciana, canela, cardamomo, clavos, anís y pieles cítricas; macerá 7 a 10 días en oscuridad agitando a diario.",
+      "Filtrá el extracto botánico con filtro de café para obtener una tintura límpida.",
+      "Hacé un caramelo con 50 g de azúcar, diluí con 50 ml de agua caliente y sumá el resto del azúcar; enfriá.",
+      "Mezclá en botella el vino, la tintura botánica y el almíbar de caramelo; reposá en heladera 48 horas.",
+      "Serví en vaso con hielo, golpe de soda, media rodaja de naranja y aceituna verde ensartada."
+    ],
+    "notes": "• El ajenjo (*Artemisia absinthium*) es el botánico legal y reglamentario que da origen a la palabra 'Vermouth' (del alemán *Wermut*). Se consigue en cualquier herboristería tradicional.\n• El caramelo oscuro es el secreto tradicional que le confiere su color caoba y equilibra el amargor con notas de toffee tostado.\n• Una vez abierto, conservalo siempre en la heladera para evitar la oxidación del vino base.",
+    "tags": [
+      "Vermut Rosso",
+      "Vermouth",
+      "Aperitivo",
+      "Italia",
+      "Turín",
+      "Bodegón",
+      "Artesanal",
+      "Casero",
+      "Bebidas",
+      "Cócteles"
+    ]
+  },
+  {
+    "id": 710,
+    "title": "Limoncello (Italia)",
+    "original_title": "Limoncello Tradizionale di Sorrento",
+    "country": "Italia",
+    "flag": "🇮🇹",
+    "region": "Campania / Costa Amalfitana",
+    "category": "Bebidas y Cócteles",
+    "subcategory": "Licores Digestivos",
+    "difficulty": "Fácil",
+    "prep_time": "20 min",
+    "cook_time": "10 min (+ 15 días maceración)",
+    "total_time": "30 min (+ 15 días)",
+    "servings": "1,2 litros",
+    "calories": "160 kcal por copita",
+    "image": "https://lh3.googleusercontent.com/-Er8-G138Zkk/avzeu-b9brI/AAAAAAAQCuo/cfTLVEgqgFcoyyQ4i9AkQfjcfvZJgLNjQCNcBGAsYHQ/s1600/limoncello_italia.jpg",
+    "source": "Tradición de la Costa Amalfitana y Sorrento",
+    "source_url": "",
+    "story": "Originario de los soleados acantilados de la Costa Amalfitana, Capri y la península de Sorrento a principios del siglo XX, el limoncello nació en los hogares campesinos y pescadores del sur italiano como un cordial digestivo tras las largas sobremesas. Elaborado a partir de la fragante cáscara del limón Femminello St. Teresa, su tradición se expandió como símbolo indiscutido de hospitalidad mediterránea. En mi familia, una botella helada en el freezer nunca falta para coronar una comida de domingo.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Limón y Alcohol",
+        "ingredients": [
+          "8 limones medianos frescos de piel gruesa (preferentemente orgánicos, sin cera)",
+          "500 ml de alcohol etílico puro de grado alimenticio al 95% (o vodka neutro de calidad)"
+        ]
+      },
+      {
+        "name": "Almíbar Ligero",
+        "ingredients": [
+          "500 ml de agua pura o mineral",
+          "400 g de azúcar blanco común"
+        ]
+      }
+    ],
+    "ingredients": [
+      "8 limones frescos de piel gruesa sin cera",
+      "500 ml de alcohol etílico al 95% de grado alimenticio",
+      "500 ml de agua",
+      "400 g de azúcar común"
+    ],
+    "step_groups": [
+      {
+        "name": "1. Pelado de Limones y Maceración",
+        "steps": [
+          "Lavá bien los limones con agua tibia frotando suavemente con cepillo y secalos con un paño limpio.",
+          "Con un pelapapas bien afilado, retirá únicamente la cáscara amarilla exterior en tiras largas. Es fundamental no cortar la parte blanca (albedo), ya que aportaría un amargor indeseado.",
+          "Colocá las cáscaras amarillas dentro de un frasco de vidrio hermético de 1 litro y verté los 500 ml de alcohol al 95%. Tapá bien y dejá macerar en un lugar oscuro y fresco durante 15 a 20 días. Notarás que el alcohol se vuelve amarillo dorado brillante y las cáscaras quedan blanquecinas y rígidas."
+        ]
+      },
+      {
+        "name": "2. Preparación del Almíbar y Unión",
+        "steps": [
+          "En una cacerola, calentá los 500 ml de agua con los 400 g de azúcar a fuego bajo revolviendo hasta que se disuelva por completo. Dejá enfriar a temperatura ambiente por completo.",
+          "Colá el alcohol para retirar las cáscaras y filtralo con un colador fino o filtro de papel. Verté el almíbar frío sobre el alcohol; al mezclarse, se producirá una reacción espontánea que tornará el licor opaco, aterciopelado y de un amarillo radiante."
+        ]
+      },
+      {
+        "name": "3. Embotellado y Servicio Bajo Cero",
+        "steps": [
+          "Embotellá en botellas de vidrio limpias y dejá reposar en la heladera durante 1 semana para que los aromas se equilibren.",
+          "Llevá la botella directamente al freezer (no se congela gracias al alcohol). Serví bien denso, espeso y helado en pequeñas copitas congeladas al finalizar la sobremesa."
+        ]
+      }
+    ],
+    "steps": [
+      "Lavá los limones y pelá solo la parte amarilla sin albedo blanco con pelapapas.",
+      "Macerá las cáscaras en los 500 ml de alcohol al 95% dentro de frasco cerrado durante 15 a 20 días en oscuridad.",
+      "Hacé un almíbar calentando el agua con el azúcar hasta disolver y dejalo enfriar totalmente.",
+      "Colá el alcohol retirando las cáscaras y mezclalo con el almíbar frío hasta que tome su color amarillo lechoso característico.",
+      "Embotellá, dejá reposar 1 semana y conservá la botella siempre en el freezer para servir bajo cero."
+    ],
+    "notes": "• El secreto de la textura cremosa: Al unir el alcohol con el almíbar a temperatura ambiente, los aceites esenciales de limón se emulsionan de forma natural, otorgando esa viscosidad aterciopelada única.\n• Servicio óptimo: Mantener las copitas en el congelador junto con la botella para que el licor se sirva a -15 °C o -18 °C.\n• Aprovechamiento: Los limones pelados se pueden exprimir para hacer cubitos de jugo de limón congelados.",
+    "tags": [
+      "Limoncello",
+      "Licor",
+      "Digestivo",
+      "Italia",
+      "Campania",
+      "Sorrento",
+      "Limón",
+      "Casero",
+      "Artesanal",
+      "Bebidas"
+    ]
+  },
+  {
+    "id": 711,
+    "title": "Amaro de Hierbas (Italia)",
+    "original_title": "Amaro Tradizionale alle Erbe",
+    "country": "Italia",
+    "flag": "🇮🇹",
+    "region": "Lombardía / Milán",
+    "category": "Bebidas y Cócteles",
+    "subcategory": "Licores Digestivos y Aperitivos",
+    "difficulty": "Intermedia",
+    "prep_time": "25 min",
+    "cook_time": "10 min (+ 20 días maceración)",
+    "total_time": "35 min (+ 20 días)",
+    "servings": "1,2 litros",
+    "calories": "150 kcal por copa",
+    "image": "https://lh3.googleusercontent.com/-RpRL4UCVxt0/avzewEFEJ5I/AAAAAAAQCuw/uESf085Fut87gxSTTgHaILjY56_x9KdogCNcBGAsYHQ/s1600/amaro_de_hierbas_italia.jpg",
+    "source": "Tradición Monástica y Botica Italiana",
+    "source_url": "",
+    "story": "Surgido en los monasterios y boticas del norte de Italia a mediados del siglo XIX, el amaro botánico nació como un elixir medicinal concebido para favorecer la digestión tras comidas contundentes mediante la extracción de cortezas, raíces y flores aromáticas. Casas históricas milanesas popularizaron licores amargos legendarios como el Fernet, que pronto cruzaron el océano para convertirse en un emblema indiscutido de la cultura popular rioplatense. En casa mantengo la costumbre de macerar este amaro con botánicos enteros para lograr un final balsámico y reconfortante.",
+    "ingredient_groups": [
+      {
+        "name": "Base Alcohólica",
+        "ingredients": [
+          "500 ml de alcohol etílico de grado alimenticio al 95% (o alcohol neutro de cereal)",
+          "500 ml de agua pura filtrada"
+        ]
+      },
+      {
+        "name": "Botánicos y Raíces Amargas",
+        "ingredients": [
+          "15 g de raíz de genciana seca troceada (el amargo profundo característico)",
+          "10 g de flores secas de manzanilla dulce",
+          "8 g de raíz de ruibarbo seco (o corteza de quina)",
+          "5 g de hojas secas de menta piperita (aporta frescura balsámica)",
+          "1 pizca de hebras de azafrán (aporta color caoba noble)",
+          "1 rama de canela partida",
+          "3 bayas de cardamomo abiertas",
+          "2 estrellas de anís estrellado",
+          "Piel seca de 1 naranja (sin parte blanca)"
+        ]
+      },
+      {
+        "name": "Almíbar y Toque de Color",
+        "ingredients": [
+          "180 g de azúcar rubio o común",
+          "40 ml de caramelo líquido oscuro (para cuerpo y tono caoba)"
+        ]
+      }
+    ],
+    "ingredients": [
+      "500 ml de alcohol al 95% de grado alimenticio",
+      "500 ml de agua pura",
+      "15 g de raíz de genciana seca",
+      "10 g de flores de manzanilla",
+      "8 g de raíz de ruibarbo seco",
+      "5 g de menta piperita seca",
+      "1 pizca de hebras de azafrán",
+      "1 rama de canela en rama",
+      "3 bayas de cardamomo abiertas",
+      "2 anís estrellado",
+      "Piel seca de 1 naranja",
+      "180 g de azúcar rubio",
+      "40 ml de caramelo líquido oscuro"
+    ],
+    "step_groups": [
+      {
+        "name": "1. Maceración Botánica Completa",
+        "steps": [
+          "En un frasco de vidrio hermético grande (de 1,5 a 2 litros), colocá la genciana, manzanilla, ruibarbo, menta piperita, azafrán, canela, cardamomo, anís estrellado y la piel de naranja.",
+          "Verté los 500 ml de alcohol puro sobre los botánicos. Cerrá herméticamente, agitá con energía y guardá en un lugar oscuro y fresco durante 20 días, batiendo suavemente cada dos días para permitir una extracción profunda y homogénea."
+        ]
+      },
+      {
+        "name": "2. Preparación del Almíbar Balsámico",
+        "steps": [
+          "En una cacerola, calentá los 500 ml de agua con los 180 g de azúcar y el caramelo oscuro hasta disolver por completo. Dejá enfriar a temperatura ambiente."
+        ]
+      },
+      {
+        "name": "3. Filtrado y Ensamblado",
+        "steps": [
+          "Cumplidos los 20 días, colá la maceración con colador fino y luego pasá el líquido por filtro de café o paño de lino para asegurar una tintura cristalina y sin impurezas vegetales.",
+          "Integrá el extracto alcohólico con el almíbar frío revolviendo despacio con cuchara de metal. Notarás un tono oscuro, caoba brillante y una densidad aromática excepcional."
+        ]
+      },
+      {
+        "name": "4. Maduración y Degustación",
+        "steps": [
+          "Embotellá en botella de vidrio oscura y dejá madurar en bodega o lugar fresco durante al menos 15 días antes del primer descorche (el reposo redondea los taninos vegetales de la genciana).",
+          "Disfrutalo solo como digestivo a temperatura ambiente, servido con un hielo grande y piel de naranja retorcida, o como trago largo con hielo y gaseosa de cola."
+        ]
+      }
+    ],
+    "steps": [
+      "Colocá en frasco de vidrio la genciana, manzanilla, ruibarbo, menta, azafrán, canela, cardamomo, anís y piel de naranja; cubrí con 500 ml de alcohol al 95% y macerá 20 días en oscuridad.",
+      "Calentá los 500 ml de agua con el azúcar y el caramelo oscuro hasta disolver y dejá enfriar.",
+      "Filtrá el extracto de hierbas con filtro de café fino y combinalo con el almíbar frío.",
+      "Embotellá en botella oscura y dejá madurar en reposo durante 15 días antes de consumir.",
+      "Serví solo con hielo y piel de naranja como digestivo, o con soda / gaseosa de cola."
+    ],
+    "notes": "• La genciana y el ruibarbo aportan el amargor terroso y tónico que distingue al auténtico amaro italiano de un licor dulce común.\n• El azafrán y el caramelo tostado son los artífices del color caoba intenso y la profundidad en boca.\n• Es un digestivo formidable que mejora con los meses de guarda en la botella.",
+    "tags": [
+      "Amaro de Hierbas",
+      "Amaro Italiano",
+      "Fernet Casero",
+      "Digestivo",
+      "Italia",
+      "Milán",
+      "Hierbas Botánicas",
+      "Artesanal",
+      "Genciana",
+      "Bebidas",
+      "Aperitivo"
     ]
   }
 ]
