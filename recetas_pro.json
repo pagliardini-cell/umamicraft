@@ -76040,5 +76040,220 @@
       "sobremesa",
       "bodegon"
     ]
+  },
+  {
+    "id": 707,
+    "title": "Agua Tónica (Reino Unido)",
+    "original_title": "Indian Tonic Water",
+    "country": "Reino Unido",
+    "flag": "🇬🇧",
+    "region": "Europa / Reino Unido",
+    "category": "Bebidas y Cócteles",
+    "subcategory": "Bebidas sin Alcohol y Aperitivos",
+    "difficulty": "Fácil",
+    "prep_time": "10 min",
+    "cook_time": "5 min",
+    "total_time": "15 min",
+    "servings": "8 vasos",
+    "calories": "65 kcal",
+    "image": "https://lh3.googleusercontent.com/-6EY4Oxy5kpM/avy_C5k0PbI/AAAAAAAQCtc/zS5RdZUKPS4T_RdjuNR8XwUmyOCyXls9wCNcBGAsYHQ/s1600/agua_tonica_reino_unido.jpg",
+    "source": "Cocina Tradicional y Coctelería Británica",
+    "source_url": "",
+    "story": "Nacida a mediados del siglo XIX durante el dominio colonial británico en la India, el agua tónica surgió como una necesidad médica preventiva frente a la malaria. Los soldados consumían quinina disuelta —alcaloide natural extraído de la corteza del árbol de la quina (Cinchona)—, cuyo amargor punzante los llevó a combinarla con agua, azúcar y cítricos frescos, sentando el origen de una de las bebidas más emblemáticas de la coctelería internacional. En casa preparo este cordial cítrico para armar una tónica limpia, perfumada y con burbuja vivaz.",
+    "ingredient_groups": [
+      {
+        "name": "Para el cordial de tónica (Jarabe amargo)",
+        "ingredients": [
+          "250 ml de agua",
+          "250 g de azúcar blanco o rubio",
+          "Piel de 1 limón (sin la parte blanca)",
+          "Piel de 1 lima (sin la parte blanca)",
+          "2 cucharadas de jugo de lima o limón recién exprimido",
+          "10 a 15 gotas de tintura madre de quina (extracto de Cinchona officinalis)",
+          "1 pizca de sal marina (realza los cítricos)"
+        ]
+      },
+      {
+        "name": "Para el armado y servicio",
+        "ingredients": [
+          "Hielo macizo en cubos",
+          "150 a 180 ml de agua con gas (soda bien helada) por vaso",
+          "Rodajas finas de lima fresca para perfumar y decorar"
+        ]
+      }
+    ],
+    "ingredients": [
+      "250 ml de agua",
+      "250 g de azúcar blanco o rubio",
+      "Piel de 1 limón (sin la parte blanca)",
+      "Piel de 1 lima (sin la parte blanca)",
+      "2 cucharadas de jugo de lima o limón recién exprimido",
+      "10 a 15 gotas de tintura madre de quina (extracto de Cinchona officinalis)",
+      "1 pizca de sal marina",
+      "Hielo macizo en cubos",
+      "150 a 180 ml de agua con gas (soda bien helada) por vaso",
+      "Rodajas finas de lima fresca para perfumar y decorar"
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación del cordial y servicio",
+        "steps": [
+          "Colocá en una cacerola pequeña el agua, el azúcar, las pieles de limón y de lima, y la pizca de sal. Llevá a fuego medio hasta que rompa el primer hervor.",
+          "Bajá el fuego al mínimo y dejá cocinar suavemente durante 5 minutos para que los aceites esenciales de los cítricos aromaticen por completo el almíbar. Apagá el fuego y dejá enfriar a temperatura ambiente.",
+          "Retirá las pieles de los cítricos, agregá las 2 cucharadas de jugo fresco de lima y las 10 a 15 gotas de tintura madre de quina. Revolvé bien y probá para calibrar el nivel de amargor deseado (podés sumar un par de gotas más si te gusta extra seca). Envasá en un frasco o botellita de vidrio en la heladera.",
+          "Para servir, llená un vaso bajo o copa con abundante hielo en cubos. Agregá 2 a 3 cucharadas (unos 30 a 40 ml) del cordial de tónica y completá despacio con soda bien helada.",
+          "Mezclá suavemente con una cuchara de bar con un solo movimiento envolvente de abajo hacia arriba para no disipar el gas, decorá con una rodaja de lima fresca y disfrutá de inmediato."
+        ]
+      }
+    ],
+    "steps": [
+      "Colocá en una cacerola pequeña el agua, el azúcar, las pieles de limón y de lima, y la pizca de sal. Llevá a fuego medio hasta que rompa el primer hervor.",
+      "Bajá el fuego al mínimo y dejá cocinar suavemente durante 5 minutos para que los aceites esenciales de los cítricos aromaticen por completo el almíbar. Apagá el fuego y dejá enfriar a temperatura ambiente.",
+      "Retirá las pieles de los cítricos, agregá las 2 cucharadas de jugo fresco de lima y las 10 a 15 gotas de tintura madre de quina. Revolvé bien y probá para calibrar el nivel de amargor deseado (podés sumar un par de gotas más si te gusta extra seca). Envasá en un frasco o botellita de vidrio en la heladera.",
+      "Para servir, llená un vaso bajo o copa con abundante hielo en cubos. Agregá 2 a 3 cucharadas (unos 30 a 40 ml) del cordial de tónica y completá despacio con soda bien helada.",
+      "Mezclá suavemente con una cuchara de bar con un solo movimiento envolvente de abajo hacia arriba para no disipar el gas, decorá con una rodaja de lima fresca y disfrutá de inmediato."
+    ],
+    "notes": "• Ventaja de la tintura madre: Permite obtener el sabor amargo y seco de la quinina natural pura al instante, sin necesidad de hervir astillas ni realizar filtrados engorrosos de café. Se consigue fácilmente en farmacias homeopáticas y dietéticas.\n• Proporción para Gin Tonic: Si querés armar un cóctel insuperable, colocá 50 ml de gin en copa balón con mucho hielo, sumá 30 ml de este cordial artesanal y completá con 120 ml de soda helada.\n• Conservación: El cordial se conserva en perfecto estado dentro de la heladera durante 3 a 4 semanas gracias a la concentración de azúcar y la acidez del limón.",
+    "tags": [
+      "Agua Tónica",
+      "Tonic Water",
+      "Bebidas",
+      "Cócteles",
+      "Sin Alcohol",
+      "Gin Tonic",
+      "Casero",
+      "Fácil",
+      "Quinina",
+      "Reino Unido",
+      "Aperitivo"
+    ]
+  },
+  {
+    "id": 708,
+    "title": "Bebida de Cola (Estados Unidos)",
+    "original_title": "Original Coca-Cola Replication (Version 111C)",
+    "country": "Estados Unidos",
+    "flag": "🇺🇸",
+    "region": "América del Norte",
+    "category": "Bebidas y Cócteles",
+    "subcategory": "Gaseosas y Refrescos Caseros",
+    "difficulty": "Avanzado",
+    "prep_time": "30 min",
+    "cook_time": "10 min",
+    "total_time": "40 min",
+    "servings": "10 litros",
+    "calories": "140 kcal",
+    "image": "https://lh3.googleusercontent.com/-JLk-y-T23D8/avy_dxrOILI/AAAAAAAQCto/pRkcpnYc7qIN7JO8EKhvd8yynTtmuk4AACNcBGAsYHQ/s1600/bebida_de_cola_estados_unidos.jpg",
+    "source": "LabCoatz (Canal Oficial)",
+    "source_url": "https://www.youtube.com/watch?v=TDkH3EbWTYc",
+    "story": "Creada en 1886 en Atlanta, Georgia, por el farmacéutico John Stith Pemberton, la bebida de cola nació originalmente como un tónico estimulante formulado a partir de extractos de hojas de coca y nueces de cola africanas. Tras asociarse con el empresario Asa Griggs Candler, el brebaje se transformó en la gaseosa más consumida y emblemática de la historia moderna, protegida durante más de un siglo bajo la mítica e inalcanzable Fórmula 7X. Esta formulación reproduce con rigor científico el perfil químico exacto descifrado mediante espectrometría de masas.",
+    "ingredient_groups": [
+      {
+        "name": "Solución de Sabor A (Fórmula 7X - Base alcohólica para 1 litro de concentrado)",
+        "ingredients": [
+          "45,8 ml de aceite esencial puro de limón",
+          "36,5 ml de aceite esencial puro de lima",
+          "8,0 ml de aceite esencial de árbol de té (Tea Tree / Melaleuca Alternifolia)",
+          "4,5 ml de aceite esencial de canela cassia",
+          "2,7 ml de aceite esencial de nuez moscada",
+          "1,2 ml de aceite esencial de naranja dulce",
+          "0,7 ml de aceite esencial de cilantro (coriander)",
+          "0,6 ml de alfa-fenchol (compuesto terpénico puro >90%)",
+          "Alcohol etílico de grado alimenticio al 95% (para aforar a 1 litro de solución)"
+        ]
+      },
+      {
+        "name": "Solución de Sabor B (Base acuosa, acidez y color para 1 litro de concentrado)",
+        "ingredients": [
+          "185 ml de colorante caramelo (Durkee / Caramelo IV)",
+          "150 g de glicerina vegetal pura de grado alimenticio",
+          "43 ml de ácido fosfórico al 85% de grado alimenticio",
+          "10 g de tanino enológico de uva",
+          "9,65 g de cafeína anhidra pura en polvo",
+          "10 ml de vinagre de alcohol blanco al 5%",
+          "10 ml de extracto natural de vainilla (o solución de vainillina)",
+          "Agua destilada o filtrada (para aforar a 1 litro de solución)"
+        ]
+      },
+      {
+        "name": "Proporción final por cada 1 litro de bebida",
+        "ingredients": [
+          "104 g de azúcar blanco común",
+          "1 ml de Solución de Sabor A",
+          "10 ml de Solución de Sabor B",
+          "Agua con gas (soda de sifón a alta presión) muy fría para completar a 1 litro"
+        ]
+      }
+    ],
+    "ingredients": [
+      "45,8 ml de aceite esencial puro de limón",
+      "36,5 ml de aceite esencial puro de lima",
+      "8,0 ml de aceite esencial de árbol de té (Tea Tree)",
+      "4,5 ml de aceite esencial de canela cassia",
+      "2,7 ml de aceite esencial de nuez moscada",
+      "1,2 ml de aceite esencial de naranja dulce",
+      "0,7 ml de aceite esencial de cilantro",
+      "0,6 ml de alfa-fenchol",
+      "Alcohol etílico de grado alimenticio al 95%",
+      "185 ml de colorante caramelo",
+      "150 g de glicerina vegetal de grado alimenticio",
+      "43 ml de ácido fosfórico al 85%",
+      "10 g de tanino de uva",
+      "9,65 g de cafeína pura",
+      "10 ml de vinagre blanco al 5%",
+      "10 ml de extracto de vainilla",
+      "Agua destilada",
+      "104 g de azúcar por litro",
+      "Agua con gas (soda bien fría) para completar"
+    ],
+    "step_groups": [
+      {
+        "name": "1. Elaboración de la Solución de Sabor A (Aceites Esenciales 7X)",
+        "steps": [
+          "En un matraz o frasco de vidrio graduado, combiná con pipeta o jeringa de precisión los aceites esenciales: 45,8 ml de limón, 36,5 ml de lima, 8 ml de tea tree, 4,5 ml de canela cassia, 2,7 ml de nuez moscada, 1,2 ml de naranja dulce, 0,7 ml de cilantro y 0,6 ml de alfa-fenchol.",
+          "Tomá exactamente 20 ml de esta mezcla concentrada de aceites esenciales y diluila en alcohol etílico de grado alimenticio al 95% hasta alcanzar un volumen total de 1 litro. Mezclá bien y rotulá como Solución A (se conserva indefinidamente en frasco oscuro de vidrio)."
+        ]
+      },
+      {
+        "name": "2. Elaboración de la Solución de Sabor B (Acidez, Color y Cuerpo)",
+        "steps": [
+          "En un recipiente de vidrio resistente, disolvé los 10 g de tanino de uva y los 9,65 g de cafeína anhidra en unos 300 ml de agua destilada tibia revolviendo bien hasta disolución total.",
+          "Incorporá los 185 ml de colorante caramelo, los 150 g de glicerina vegetal, los 10 ml de vinagre y los 10 ml de extracto de vainilla. Con sumo cuidado y guantes, agregá los 43 ml de ácido fosfórico al 85%.",
+          "Completá con agua destilada hasta alcanzar 1 litro de volumen total. Homogeneizá bien y rotulá como Solución B."
+        ]
+      },
+      {
+        "name": "3. Armado y Gasificación de la Bebida de Cola",
+        "steps": [
+          "Disolvé 104 g de azúcar común en la mínima cantidad posible de agua tibia (unos 60-80 ml) para formar un jarabe denso simple.",
+          "Agregá al jarabe exactamente 1 ml de la Solución A y 10 ml de la Solución B. Revolvé para integrar los aromas y la base ácida.",
+          "Verté el jarabe en una botella de vidrio o botella apta para sifón / carbonatador, completá lentamente con agua helada carbonatada (soda con gas fuerte) hasta completar 1 litro, cerrá y girá suavemente para homogeneizar sin perder gasificación. Serví en vaso con abundante hielo y disfrutá del clon químico perfecto."
+        ]
+      }
+    ],
+    "steps": [
+      "En un matraz o frasco de vidrio graduado, combiná con pipeta o jeringa de precisión los aceites esenciales: 45,8 ml de limón, 36,5 ml de lima, 8 ml de tea tree, 4,5 ml de canela cassia, 2,7 ml de nuez moscada, 1,2 ml de naranja dulce, 0,7 ml de cilantro y 0,6 ml de alfa-fenchol.",
+      "Tomá exactamente 20 ml de esta mezcla concentrada de aceites esenciales y diluila en alcohol etílico de grado alimenticio al 95% hasta alcanzar un volumen total de 1 litro. Mezclá bien y rotulá como Solución A (se conserva indefinidamente en frasco oscuro de vidrio).",
+      "En un recipiente de vidrio resistente, disolvé los 10 g de tanino de uva y los 9,65 g de cafeína anhidra en unos 300 ml de agua destilada tibia revolviendo bien hasta disolución total.",
+      "Incorporá los 185 ml de colorante caramelo, los 150 g de glicerina vegetal, los 10 ml de vinagre y los 10 ml de extracto de vainilla. Con sumo cuidado y guantes, agregá los 43 ml de ácido fosfórico al 85%.",
+      "Completá con agua destilada hasta alcanzar 1 litro de volumen total. Homogeneizá bien y rotulá como Solución B.",
+      "Disolvé 104 g de azúcar común en la mínima cantidad posible de agua tibia (unos 60-80 ml) para formar un jarabe denso simple.",
+      "Agregá al jarabe exactamente 1 ml de la Solución A y 10 ml de la Solución B. Revolvé para integrar los aromas y la base ácida.",
+      "Verté el jarabe en una botella de vidrio o botella apta para sifón / carbonatador, completá lentamente con agua helada carbonatada (soda con gas fuerte) hasta completar 1 litro, cerrá y girá suavemente para homogeneizar sin perder gasificación. Serví en vaso con abundante hielo y disfrutá del clon químico perfecto."
+    ],
+    "notes": "• CRÉDITOS Y AUTORÍA OFICIAL:\n- Investigación principal y desarrollo: Canal oficial de YouTube LabCoatz (https://www.youtube.com/@LabCoatz) en su video de investigación 'Perfectly Replicating Coca Cola (It Took Me A Year)' - Versión 111C.\n- Espectrometría de Masas (GC-MS): Vince (@Neptunium: https://www.youtube.com/@Neptunium) y Ben (@MassSpecEverything: https://www.youtube.com/@MassSpecEverything).\n- Referencias culinarias y científicas: Darcy O'Neil (@Artofdrink), Glen & Friends Cooking, HowToCookThat y Nighthawkinlight.\n- Paper científico: Journal of Agricultural and Food Chemistry (ACS Publications): 'Characterization of the Most Odor-Active Compounds in Cola-Flavored Beverages' (DOI: 10.1021/jf504954p).\n\n• PRECAUCIONES DE SEGURIDAD:\n- El ácido fosfórico concentrado al 85% y los aceites esenciales puros son corrosivos e irritantes; deben manipularse con guantes, gafas de seguridad y dosificarse con jeringa de laboratorio. Nunca consumir puros.\n- El aceite de árbol de té (Tea Tree) se utiliza en proporciones mínimas (menos de 2 ppm en la bebida final, 5 veces por debajo del límite regulatorio GRAS).\n\n• VARIANTE 'MEXICAN COKE':\n- Para replicar la versión clásica embotellada en vidrio con azúcar de caña mexicana, incrementá un 20% la cantidad de aceite de lima en la Solución A.",
+    "tags": [
+      "Bebida de Cola",
+      "Coca Cola",
+      "Gaseosa",
+      "Refresco",
+      "Fórmula Secreta",
+      "LabCoatz",
+      "Espectrometría de Masas",
+      "Estados Unidos",
+      "Bebidas",
+      "Coctelería",
+      "Fórmula 7X"
+    ]
   }
 ]
