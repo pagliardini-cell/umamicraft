@@ -73211,21 +73211,26 @@
     "story": "Nacidos en los callejones residenciales (longtang) de Shanghái a finales del siglo XIX, los Cong You Ban Mian (葱油拌面) representan la cúspide de la cocina Benbang: la gastronomía tradicional shanghainesa basada en sublimar ingredientes cotidianos mediante maestría en el fuego. Nació como el desayuno humilde y energético de los trabajadores portuarios del río Huangpu. El secreto reside en la confitura lenta del verdeo en aceite vegetal hasta deshidratarlo en hebras crujientes, que luego se ligan con salsa de soja y azúcar para napar los fideos de trigo. En mi cocina es uno de mis platos de cabecera por su sencillez y potencia aromática.",
     "ingredient_groups": [
       {
-        "name": "Aceite Aromático y Cebollas Caramelizadas",
+        "name": "Fideos de Trigo (Base)",
         "ingredients": [
-          "1 atado grande de cebolla de verdeo (unos 150 g, partes verdes y blancas separadas)",
+          "250 g de fideos de trigo finos (frescos o secos, tipo fideos chinos o ramen)"
+        ]
+      },
+      {
+        "name": "Aceite de Cebollino Caramelizado",
+        "ingredients": [
+          "1 atado grande de cebolla de verdeo fresca (150 g, partes blancas y verdes separadas en bastones de 5 cm)",
           "80 ml de aceite vegetal neutro (girasol o maíz)"
         ]
       },
       {
-        "name": "Salsa Reducida y Fideos",
+        "name": "Salsa de Soja Reducida y Terminación",
         "ingredients": [
-          "200 g de fideos de trigo finos (frescos o secos)",
-          "2 cucharadas de salsa de soja clara (regular)",
-          "1 cucharada de salsa de soja oscura (dark soy sauce para color y densidad)",
+          "2 cucharadas de salsa de soja clara (sheng chou)",
+          "1 cucharada colmada de salsa de soja oscura (lao chou, para densidad y color laqueado)",
           "1 cucharada rasa de azúcar rubia o blanca",
           "1/2 cucharadita de aceite de sésamo tostado (opcional)",
-          "Semillas de sésamo tostado para terminar"
+          "1 cucharada de semillas de sésamo tostado"
         ]
       }
     ],
@@ -73275,6 +73280,16 @@
     ],
     "diet": [
       "Vegetariano"
+    ],
+    "ingredients": [
+      "250 g de fideos de trigo finos (frescos o secos, tipo fideos chinos o ramen)",
+      "1 atado grande de cebolla de verdeo fresca (150 g, partes blancas y verdes separadas en bastones)",
+      "80 ml de aceite vegetal neutro (girasol o maíz)",
+      "2 cucharadas de salsa de soja clara (sheng chou)",
+      "1 cucharada colmada de salsa de soja oscura (lao chou)",
+      "1 cucharada rasa de azúcar rubia o blanca",
+      "1/2 cucharadita de aceite de sésamo tostado (opcional)",
+      "1 cucharada de semillas de sésamo tostado"
     ]
   },
   {
