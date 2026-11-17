@@ -74103,5 +74103,640 @@
       "1 rama de canela",
       "1 cucharadita de pimienta negra en grano"
     ]
+  },
+  {
+    "id": 687,
+    "title": "Risotto de Espinacas (Italia)",
+    "category": "Arroces & Pastas",
+    "country": "Italia",
+    "prep_time": "15 min",
+    "cook_time": "25 min",
+    "total_time": "40 min",
+    "servings": "4 porciones",
+    "calories": "460 kcal por porción",
+    "difficulty": "Media",
+    "image": "https://lh3.googleusercontent.com/-kUEQUU9a-xk/avxr70nv16I/AAAAAAAQCno/RsS-mYUo9QYFzj0IFwuiGu6jCYIGVCIbACNcBGAsYHQ/s1600/risotto_espinacas.jpg",
+    "story": "Originario de las planicies arroceras del Véneto y la Lombardía, el risotto con espinacas frescas representa la cocina de huerta del norte italiano al inicio de la primavera. Surgió en las aldeas rurales como una manera reconfortante de incorporar las verduras de hoja tierna al grano de arroz carnaroli antes de las cosechas estivales.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Arroz y Fondo",
+        "ingredients": [
+          "320 g de arroz Carnaroli (o Arborio)",
+          "1 cebolla blanca pequeña finamente picada en brunoise",
+          "1 diente de ajo rallado",
+          "½ taza de vino blanco seco",
+          "1,2 litros de caldo de verduras suave hirviendo",
+          "2 cucharadas de aceite de oliva virgen extra"
+        ]
+      },
+      {
+        "name": "Espinacas Frescas y Mantecatura",
+        "ingredients": [
+          "300 g de hojas tiernas de espinaca fresca (lavadas, secas y picadas grueso)",
+          "50 g de manteca sin sal bien fría cortada en cubitos",
+          "60 g de queso Parmigiano Reggiano recién rallado",
+          "1 pizca de nuez moscada recién rallada",
+          "Sal marina y pimienta negra recién molida al gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Paso 1: Sofrito, tostatura y desglasado",
+        "steps": [
+          "En una cazuela amplia a fuego medio, calentá el aceite de oliva y rehogá la cebolla picada durante 3 minutos hasta transparentar.",
+          "Sumá el arroz Carnaroli sin lavar y tostalo en seco (tostatura) durante 2 a 3 minutos removiendo constantemente, hasta que los granos se sientan calientes al tacto y los bordes se vuelvan translúcidos.",
+          "Verté el vino blanco seco para desglasar raspando el fondo y dejá evaporar completamente el alcohol a fuego vivo."
+        ]
+      },
+      {
+        "name": "Paso 2: Hidratación gradual con caldo hirviendo",
+        "steps": [
+          "Mantené el caldo de verduras hirviendo suavemente en una olla contigua.",
+          "Comenzá a incorporar el caldo de a un cucharón por vez, revolviendo suavemente con movimientos circulares para liberar el almidón sin romper el grano.",
+          "Esperá a que el arroz absorba casi todo el líquido antes de sumar el siguiente cucharón; continuá durante unos 14 minutos.",
+          "Sumá las hojas de espinaca picadas en los últimos 3 a 4 minutos de cocción; se marchitarán inmediatamente integrando su color verde brillante al arroz al dente."
+        ]
+      },
+      {
+        "name": "Paso 3: Mantecatura all'onda y reposo",
+        "steps": [
+          "Apagá el fuego cuando el arroz esté al dente y conserve una fina capa de caldo fluido.",
+          "Agregá la manteca bien fría de heladera, el queso Parmigiano Reggiano rallado y la pizca de nuez moscada.",
+          "Tapá la cazuela durante 2 minutos para generar choque térmico.",
+          "Destapá y batí enérgicamente en círculos (mantecare) hasta formar una crema brillante y fluida que forme ondas al mover el plato (all'onda). Serví en platos hondos calientes."
+        ]
+      }
+    ],
+    "steps": [
+      "Rehogá la cebolla en aceite de oliva en cazuela amplia hasta que transparente.",
+      "Incorporá el arroz Carnaroli sin lavar y tostalo en seco durante 2 a 3 minutos hasta que los bordes brillen translúcidos.",
+      "Desglasá con el vino blanco seco y dejá evaporar el alcohol por completo.",
+      "Agregá el caldo hirviendo cucharón a cucharón, esperando a que se absorba antes de la siguiente adición (unos 14 minutos).",
+      "Sumá las espinacas frescas picadas en los últimos 3 minutos de cocción hasta que tiernicen integrándose al grano.",
+      "Apagá el fuego, sumá la manteca helada en cubos, el Parmigiano y nuez moscada; tapá 2 minutos y batí enérgicamente para mantecar all'onda."
+    ],
+    "notes": "Nunca laves el arroz de risotto: el almidón superficial es el único responsable de la crema natural del plato. Las espinacas deben incorporarse frescas al final para no sobrecocer su clorofila ni oscurecer su color vivo.",
+    "tags": [
+      "risotto",
+      "espinacas",
+      "carnaroli",
+      "italia",
+      "arroz",
+      "vegetariano",
+      "parmigiano",
+      "all onda"
+    ],
+    "diet": [
+      "Vegetariano",
+      "Sin Gluten"
+    ],
+    "ingredients": [
+      "320 g de arroz Carnaroli o Arborio",
+      "1 cebolla blanca pequeña finamente picada",
+      "1 diente de ajo rallado",
+      "½ taza de vino blanco seco",
+      "1,2 litros de caldo de verduras suave hirviendo",
+      "300 g de hojas tiernas de espinaca fresca",
+      "50 g de manteca sin sal fría en cubos",
+      "60 g de queso Parmigiano Reggiano rallado",
+      "2 cucharadas de aceite de oliva virgen extra",
+      "1 pizca de nuez moscada recién rallada",
+      "Sal marina y pimienta negra al gusto"
+    ]
+  },
+  {
+    "id": 688,
+    "title": "Risotto Trufado con Chorizo (Argentina)",
+    "category": "Arroces & Pastas",
+    "country": "Argentina",
+    "prep_time": "20 min",
+    "cook_time": "1 h",
+    "total_time": "1 h 20 min",
+    "servings": "4 porciones",
+    "calories": "560 kcal por porción",
+    "difficulty": "Media",
+    "image": "https://lh3.googleusercontent.com/-mk7iD3Riy7U/avxr9PoWniI/AAAAAAAQCnw/gNlu3dXirpInEsH5icr7kHwh64-C0pqKQCNcBGAsYHQ/s1600/risotto_trufado_chorizo.jpg",
+    "story": "Una creación de autor que fusiona la técnica noble del risotto del norte italiano con los sabores más viscerales de la cocina criolla argentina: el chorizo parrillero y la cebolla asada al horno. La incorporación del aroma profundo de la trufa negra aporta una dimensión terrosa que eleva los jugos grasos y especiados del chorizo, logrando un diálogo entre la cocina de bodegón y la alta gastronomía.",
+    "ingredient_groups": [
+      {
+        "name": "Horneado de Cebollas y Crumble de Chorizo",
+        "ingredients": [
+          "3 chorizos parrilleros de puro cerdo (sin piel y desmenuzados a mano)",
+          "3 cebollas medianas enteras con su piel",
+          "1 chorrito fino de aceite de oliva virgen extra"
+        ]
+      },
+      {
+        "name": "Infusión Ácida de Manteca a la Cebolla",
+        "ingredients": [
+          "80 g de manteca sin sal en cubos",
+          "1 cebolla blanca pequeña finamente picada",
+          "3 cucharadas de vinagre de alcohol blanco (neutro, para no aportar sabor residual)",
+          "4 cucharadas de agua pura"
+        ]
+      },
+      {
+        "name": "Arroz y Cocción del Risotto",
+        "ingredients": [
+          "320 g de arroz Carnaroli (o Arborio)",
+          "1 diente de ajo rallado fino",
+          "½ taza de vino blanco seco",
+          "1,2 litros de caldo suave de carne o vegetales hirviendo",
+          "2 cucharadas de aceite de oliva"
+        ]
+      },
+      {
+        "name": "Mantecatura Trufada y Terminado",
+        "ingredients": [
+          "1 a 2 cucharaditas de aceite de trufa negra de excelente calidad",
+          "60 g de queso Parmigiano Reggiano o Sardo estacionado recién rallado",
+          "Sal marina y pimienta negra recién molida al gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Paso 1: Asado lento de chorizo y cebollas al horno (Crumble y Puré)",
+        "steps": [
+          "Precalentá el horno a 180 °C.",
+          "En una asadera, disponé las cebollas enteras con su piel y, a los costados, el relleno desmenuzado de los chorizos en trozos irregulares con un hilo de oliva.",
+          "Horneá durante unos 50 a 60 minutos: el chorizo se desgrasará quedando crocante como un crumble rústico, y las cebollas quedarán tiernas y dulces en su corazón.",
+          "Retirá del horno. Escurrí el crumble de chorizo sobre papel absorbente para secar y maximizar la textura crocante. Pelá las cebollas tibias (la cáscara sale sola) y pisá la pulpa caramelizada con tenedor hasta hacer un puré dulce."
+        ]
+      },
+      {
+        "name": "Paso 2: Infusión de manteca, agua, vinagre de alcohol y cebolla",
+        "steps": [
+          "En una cacerolita a fuego mínimo, colocá la cebolla picada con el agua y las 3 cucharadas de vinagre de alcohol blanco.",
+          "Dejá cocinar 3 minutos para que el ácido acético neutro degrade las paredes celulares y extraiga los compuestos azufrados de la cebolla.",
+          "Agregá la manteca y mantené a fuego ultra bajo durante 5 minutos para que los lípidos lácteos disuelvan y capturen los aceites aromáticos de la cebolla sin quemarse. Reservá tibia."
+        ]
+      },
+      {
+        "name": "Paso 3: Tostado del arroz y cocción con caldo",
+        "steps": [
+          "En una cazuela amplia con 2 cucharadas de aceite de oliva y una cucharada de la manteca infusionada, salteá el ajo rallado 30 segundos.",
+          "Incorporá el arroz Carnaroli en seco y tostalo (tostatura) durante 2 a 3 minutos hasta que los granos se sientan calientes y los bordes se vuelvan translúcidos.",
+          "Desglasá con el vino blanco y dejá evaporar completamente el alcohol a fuego vivo.",
+          "Comenzá a verter el caldo hirviendo cucharón a cucharón, removiendo con movimientos circulares suaves y esperando la absorción antes de agregar el siguiente (unos 16 a 18 minutos).",
+          "A mitad de cocción, incorporá el puré de las cebollas horneadas para que se funda en el grano aportando dulzor natural."
+        ]
+      },
+      {
+        "name": "Paso 4: Mantecatura trufada y emplatado con crumble",
+        "steps": [
+          "Apagá el fuego cuando el arroz esté al dente y conserve una capa fluida de caldo.",
+          "Añadí el resto de la manteca infusionada bien fría, el queso rallado y las cucharaditas de aceite de trufa negra. Tapá la cazuela durante 2 minutos.",
+          "Batí enérgicamente en círculos con cuchara de madera (mantecare) para emulsionar las grasas con el almidón libre hasta lograr el punto all'onda. Rectificá sal y pimienta.",
+          "Serví en platos hondos calientes y coroná generosamente con el crumble crujiente de chorizo por encima para dar el contraste crujiente."
+        ]
+      }
+    ],
+    "steps": [
+      "Horneá las cebollas enteras con piel y el chorizo desmenuzado a 180 °C durante 50-60 minutos hasta que el chorizo quede crocante y las cebollas tiernas.",
+      "Escurrí el chorizo sobre papel absorbente y hacé un puré con la pulpa de las cebollas asadas.",
+      "Infusioná a fuego mínimo la cebolla picada con agua y vinagre de alcohol blanco durante 3 minutos; sumá la manteca a fuego bajo para atrapar los aromas sin quemar.",
+      "Tostá el arroz Carnaroli en seco con aceite y una cucharada de manteca infusionada durante 2-3 minutos; desglasá con vino blanco seco.",
+      "Cociná con caldo hirviendo de a un cucharón por vez durante 16-18 minutos, sumando el puré de cebollas asadas a mitad de cocción.",
+      "Fuera del fuego, sumá la manteca fría infusionada, queso rallado y aceite de trufa; tapá 2 minutos y batí all'onda. Serví con el crumble crujiente de chorizo por encima."
+    ],
+    "notes": "Se utiliza exclusivamente vinagre de alcohol blanco: su acidez neutra abre las células de la cebolla para liberar sus azúcares y sulfuros sin transferir aromas a frutas o vino que ensuciarían la manteca. El crumble de chorizo por encima aporta el contrapunto crujiente a la suntuosidad del arroz trufado.",
+    "tags": [
+      "risotto",
+      "chorizo",
+      "trufa",
+      "cebolla asada",
+      "autor",
+      "argentina",
+      "carnaroli",
+      "crumble",
+      "manteca infusionada"
+    ],
+    "diet": [
+      "Sin Gluten"
+    ],
+    "ingredients": [
+      "3 chorizos parrilleros de puro cerdo desmenuzados",
+      "3 cebollas medianas enteras con piel",
+      "320 g de arroz Carnaroli o Arborio",
+      "80 g de manteca sin sal en cubos",
+      "1 cebolla blanca pequeña picada",
+      "3 cucharadas de vinagre de alcohol blanco",
+      "4 cucharadas de agua pura",
+      "1 diente de ajo rallado",
+      "½ taza de vino blanco seco",
+      "1,2 litros de caldo suave hirviendo",
+      "1 a 2 cucharaditas de aceite de trufa negra",
+      "60 g de queso Parmigiano Reggiano o Sardo rallado",
+      "2 cucharadas de aceite de oliva",
+      "Sal marina y pimienta negra al gusto"
+    ]
+  },
+  {
+    "id": 689,
+    "title": "Risotto ai Funghi (Italia)",
+    "category": "Arroces & Pastas",
+    "country": "Italia",
+    "prep_time": "20 min",
+    "cook_time": "25 min",
+    "total_time": "45 min",
+    "servings": "4 porciones",
+    "calories": "470 kcal por porción",
+    "difficulty": "Media",
+    "image": "https://lh3.googleusercontent.com/-m8RXH4HqA0I/avxr-bRYvbI/AAAAAAAQCn4/NCx1V8tdmXMufJcaVxHgGyOQbiOBOLBcgCNcBGAsYHQ/s1600/risotto_ai_funghi.jpg",
+    "story": "Nacido en los valles boscosos del Piamonte y la Lombardía septentrional, el risotto con hongos celebra la temporada otoñal de recolección en los Apeninos y los Alpes italianos. Es el gran estandarte de la cocina de recolección campesina del norte de Italia, donde los hongos porcini silvestres (Boletus edulis) definen la identidad de las mesas de montaña.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Arroz y Caldo Umami",
+        "ingredients": [
+          "320 g de arroz Carnaroli (o Arborio)",
+          "30 g de hongos porcini secos (hidratados en 250 ml de agua tibia 20 min; agua filtrada e integrada al caldo)",
+          "1 cebolla blanca pequeña en brunoise fina",
+          "1 diente de ajo aplastado",
+          "½ taza de vino blanco seco",
+          "1,2 litros de caldo suave de carne o verduras hirviendo"
+        ]
+      },
+      {
+        "name": "Hongos Frescos y Mantecatura",
+        "ingredients": [
+          "250 g de champiñones o portobellos frescos laminados",
+          "50 g de manteca sin sal bien fría cortada en cubitos",
+          "60 g de queso Parmigiano Reggiano recién rallado",
+          "2 cucharadas de aceite de oliva virgen extra",
+          "2 cucharadas de perejil fresco finamente picado",
+          "Sal marina y pimienta negra recién molida al gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Paso 1: Hidratación de porcini y salteado de hongos frescos",
+        "steps": [
+          "Hidratá los porcini secos en agua tibia durante 20 minutos; escurrilos y picalos groseramente. Colá el líquido de remojo por lienzo fino y sumalo a la olla del caldo hirviendo.",
+          "En una sartén bien caliente con una cucharada de oliva, dorá los champiñones frescos laminados y los porcini hidratados a fuego vivo durante 3 a 4 minutos con sal y pimienta; reservalos."
+        ]
+      },
+      {
+        "name": "Paso 2: Tostado del arroz y cocción gradual",
+        "steps": [
+          "En la cazuela principal con aceite de oliva a fuego medio, rehogá la cebolla con el ajo aplastado durante 3 minutos; descartá el ajo.",
+          "Sumá el arroz Carnaroli sin lavar y tostalo en seco (tostatura) durante 2 a 3 minutos hasta que los granos se sientan calientes y los bordes se vuelvan translúcidos.",
+          "Desglasá con el vino blanco seco raspando el fondo y dejá evaporar por completo el alcohol.",
+          "Comenzá a incorporar el caldo hirviendo enriquecido con la infusión de porcini cucharón a cucharón, removiendo en círculos para liberar el almidón.",
+          "A los 10 minutos de cocción, incorporá tres cuartas partes de los hongos salteados para que impregnen su sabor en el grano."
+        ]
+      },
+      {
+        "name": "Paso 3: Mantecatura all'onda y coronación",
+        "steps": [
+          "Cuando el arroz esté al dente (unos 16 a 18 minutos), retirá del fuego.",
+          "Agregá la manteca helada en cubos y el queso Parmigiano Reggiano rallado; tapá 2 minutos para el choque térmico.",
+          "Batí enérgicamente en círculos con cuchara de madera para emulsionar la mantecatura all'onda.",
+          "Serví en platos hondos calientes y coroná con el resto de los hongos salteados y una lluvia de perejil fresco picado."
+        ]
+      }
+    ],
+    "steps": [
+      "Hidratá los porcini en agua tibia 20 minutos; colá el líquido e integralo a la olla del caldo hirviendo.",
+      "Salteá los hongos frescos y porcini a fuego vivo en sartén con oliva 3-4 minutos y reservalos.",
+      "Rehogá la cebolla en cazuela con oliva; sumá el arroz sin lavar y tostalo en seco 2-3 minutos.",
+      "Desglasá con vino blanco seco hasta evaporar el alcohol por completo.",
+      "Cociná con caldo hirviendo de a un cucharón por vez durante 16-18 minutos, incorporando los hongos a mitad de cocción.",
+      "Fuera del fuego, sumá la manteca helada y el Parmigiano; tapá 2 minutos y batí enérgicamente all'onda. Serví con hongos reservados y perejil fresco."
+    ],
+    "notes": "Filtrar el agua de los porcini a través de un colador con papel o lienzo es fundamental para eliminar cualquier arenilla del bosque sin perder su extracto de umami natural, que actúa como el mejor potenciador de sabor para el grano.",
+    "tags": [
+      "risotto",
+      "funghi",
+      "porcini",
+      "champiñones",
+      "carnaroli",
+      "italia",
+      "piamonte",
+      "otoño",
+      "arroz"
+    ],
+    "diet": [
+      "Vegetariano",
+      "Sin Gluten"
+    ],
+    "ingredients": [
+      "320 g de arroz Carnaroli o Arborio",
+      "30 g de hongos porcini secos",
+      "250 g de champiñones o portobellos frescos",
+      "1 cebolla blanca pequeña en brunoise",
+      "1 diente de ajo aplastado",
+      "½ taza de vino blanco seco",
+      "1,2 litros de caldo hirviendo",
+      "50 g de manteca fría en cubos",
+      "60 g de queso Parmigiano Reggiano rallado",
+      "2 cucharadas de aceite de oliva",
+      "2 cucharadas de perejil fresco picado",
+      "Sal marina y pimienta negra al gusto"
+    ]
+  },
+  {
+    "id": 690,
+    "title": "Risotto alla Milanese (Italia)",
+    "category": "Arroces & Pastas",
+    "country": "Italia",
+    "prep_time": "15 min",
+    "cook_time": "25 min",
+    "total_time": "40 min",
+    "servings": "4 porciones",
+    "calories": "490 kcal por porción",
+    "difficulty": "Media",
+    "image": "https://lh3.googleusercontent.com/-SNjVTMxqtgo/avxr_rsqsfI/AAAAAAAQCoA/I3GMiKzRycklnAcM9-mmxRfmK-Io2Qb6ACNcBGAsYHQ/s1600/risotto_alla_milanese.jpg",
+    "story": "Documentado por primera vez en 1574 en Milán, la leyenda atribuye su creación a Valerio de Flandes, maestro vidriero que trabajaba en los vitrales del Duomo de Milán y utilizaba azafrán para teñir los cristales de amarillo dorado. En la boda de su hija, sus aprendices colorearon el arroz con azafrán como broma, creando involuntariamente el ícono cromático más célebre de la cocina lombarda.",
+    "ingredient_groups": [
+      {
+        "name": "Arroz e Infusión Dorada de Azafrán",
+        "ingredients": [
+          "320 g de arroz Carnaroli (o Arborio)",
+          "0,2 g de hebras de azafrán puro (infusionadas en ½ taza de caldo caliente durante 15 minutos)",
+          "1 cebolla pequeña picada finísima en brunoise",
+          "½ taza de vino blanco seco (o vino blanco lombardo)",
+          "1,2 litros de caldo de carne rico y desgrasado bien caliente (idealmente con tuétano/midollo)"
+        ]
+      },
+      {
+        "name": "Mantecatura y Tradición Lombarda",
+        "ingredients": [
+          "60 g de manteca sin sal bien fría cortada en cubitos",
+          "80 g de queso Parmigiano Reggiano recién rallado fino",
+          "2 cucharadas de manteca para el sofrito inicial",
+          "Sal marina fina al gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Paso 1: Infusión del azafrán y sofrito de cebolla",
+        "steps": [
+          "Colocá las hebras de azafrán en una taza pequeña con un cucharón de caldo caliente; dejá infusionar 15 minutos para que liberen su color oro profundo y perfume característico.",
+          "En una cazuela pesada a fuego suave, derretí 2 cucharadas de manteca y rehogá la cebolla finamente picada durante 4 a 5 minutos, cuidando que sude y se vuelva transparente sin tomar ningún color dorado."
+        ]
+      },
+      {
+        "name": "Paso 2: Tostado, vino y caldo de carne",
+        "steps": [
+          "Agregá el arroz Carnaroli sin lavar y tostalo en seco (tostatura) durante 2 a 3 minutos removiendo constantemente hasta que los granos estén calientes al tacto y brillen translúcidos.",
+          "Desglasá con el vino blanco seco y dejá evaporar completamente el alcohol a fuego vivo.",
+          "Comenzá a incorporar el caldo de carne hirviendo de a un cucharón por vez, revolviendo suavemente y esperando la absorción entre cada adición.",
+          "A los 10 minutos de cocción, volcá la infusión de azafrán con todas sus hebras; el arroz se teñirá de inmediato de un color amarillo dorado brillante."
+        ]
+      },
+      {
+        "name": "Paso 3: Mantecatura all'onda lombarda",
+        "steps": [
+          "Cuando el grano esté al dente (unos 16 a 18 minutos), retirá la cazuela del fuego.",
+          "Añadí la manteca helada de heladera en cubos y el queso Parmigiano Reggiano rallado fino.",
+          "Tapá durante 2 minutos para provocar el choque térmico.",
+          "Batí enérgicamente en círculos con la cuchara de madera (mantecare) hasta lograr una crema suntuosa y fluida que forme ondas al sacudir el plato. Serví inmediatamente en platos llanos calientes."
+        ]
+      }
+    ],
+    "steps": [
+      "Infusioná las hebras de azafrán en media taza de caldo caliente durante 15 minutos.",
+      "Rehogá la cebolla picada fina en manteca a fuego bajo sin dejar que dore.",
+      "Incorporá el arroz Carnaroli sin lavar y tostalo en seco 2-3 minutos hasta que los bordes se vuelvan translúcidos.",
+      "Desglasá con vino blanco seco hasta evaporar el alcohol por completo.",
+      "Cociná con caldo de carne hirviendo cucharón a cucharón, sumando la infusión de azafrán a mitad de cocción.",
+      "Fuera del fuego, sumá la manteca helada en cubos y el Parmigiano; tapá 2 minutos y batí enérgicamente all'onda."
+    ],
+    "notes": "Infusionar el azafrán previamente en caldo caliente es indispensable: volcar las hebras directamente en la cazuela las quema y no dispersa uniformemente su aroma ni su pigmento carotenoide dorado.",
+    "tags": [
+      "risotto",
+      "milanese",
+      "azafran",
+      "carnaroli",
+      "milano",
+      "lombardia",
+      "italia",
+      "ossobuco",
+      "all onda"
+    ],
+    "diet": [
+      "Sin Gluten"
+    ],
+    "ingredients": [
+      "320 g de arroz Carnaroli o Arborio",
+      "0,2 g de hebras de azafrán puro",
+      "1 cebolla pequeña finamente picada",
+      "½ taza de vino blanco seco",
+      "1,2 litros de caldo de carne caliente",
+      "80 g de manteca sin sal (2 cdas. para sofrito y el resto bien frío)",
+      "80 g de queso Parmigiano Reggiano rallado",
+      "Sal marina al gusto"
+    ]
+  },
+  {
+    "id": 691,
+    "title": "Risotto ai Frutti di Mare (Italia)",
+    "category": "Pescados & Mariscos",
+    "country": "Italia",
+    "prep_time": "20 min",
+    "cook_time": "25 min",
+    "total_time": "45 min",
+    "servings": "4 porciones",
+    "calories": "480 kcal por porción",
+    "difficulty": "Media",
+    "image": "https://lh3.googleusercontent.com/-fFKiK5uhInE/avxsA7G6QiI/AAAAAAAQCoI/02cqFtv8jnAah7261ZOqNe6tFioZyFTPgCNcBGAsYHQ/s1600/risotto_ai_frutti_di_mare.jpg",
+    "story": "Originario de las costas del mar Adriático en el Véneto y extendido a lo largo de los pueblos pesqueros de Campania y Nápoles, este risotto representa la pureza del mar Mediterráneo. En la ortodoxia culinaria italiana costera rige la ley inmutable de no agregar queso parmesano a los risottos marinos, preservando intacto el sabor salino de los mariscos frescos.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Arroz y Fumet Marino",
+        "ingredients": [
+          "320 g de arroz Carnaroli o Vialone Nano",
+          "2 dientes de ajo picados finos",
+          "1 chalota finamente picada",
+          "½ taza de vino blanco seco",
+          "1,2 litros de caldo de pescado (fumet) bien caliente",
+          "2 tomates perita pelados y cortados en concassé (cubos pequeños sin semillas)",
+          "2 cucharadas de aceite de oliva virgen extra"
+        ]
+      },
+      {
+        "name": "Frutos de Mar Frescos y Mantecatura Marina",
+        "ingredients": [
+          "200 g de calamares limpios cortados en anillas finas",
+          "200 g de langostinos limpios pelados",
+          "300 g de mejillones frescos en valva (abiertos al vapor con ajo y vino; líquido colado sumado al caldo)",
+          "40 g de manteca sin sal bien fría (o 3 cucharadas de aceite de oliva crudo)",
+          "Abundante perejil fresco picado fino",
+          "Sal marina y pimienta blanca molida al gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Paso 1: Apertura de mejillones y preparación marina",
+        "steps": [
+          "En una sartén con un hilo de aceite y un diente de ajo, abrí los mejillones tapados a fuego vivo durante 2 a 3 minutos; descartá los que no abran. Colá su jugo por tamiz fino y sumalo a la olla del caldo fumet hirviendo.",
+          "En una cazuela amplia con 2 cucharadas de oliva, rehogá la chalota y el ajo restante hasta transparentar."
+        ]
+      },
+      {
+        "name": "Paso 2: Tostado, calamares y cocción con caldo",
+        "steps": [
+          "Incorporá el arroz sin lavar y tostalo en seco (tostatura) durante 2 a 3 minutos hasta que los bordes brillen translúcidos.",
+          "Desglasá con el vino blanco seco y dejá evaporar completamente el alcohol.",
+          "Agregá las anillas de calamar y los cubitos de tomate concassé.",
+          "Comenzá a hidratar con el caldo de pescado hirviendo de a un cucharón por vez, revolviendo constantemente para emulsionar el almidón.",
+          "En los últimos 3 minutos de cocción, incorporá los langostinos y los mejillones cocidos para que tomen temperatura sin sobrecocinarse."
+        ]
+      },
+      {
+        "name": "Paso 3: Mantecatura marina sin queso (Regla Italiana)",
+        "steps": [
+          "Retirá la cazuela del fuego cuando el grano esté al dente.",
+          "Añadí la manteca helada en cubos (o un hilo generoso de oliva crudo) y abundante perejil fresco picado; jamás uses queso parmesano.",
+          "Tapá durante 2 minutos y batí enérgicamente en círculos para ligar la mantecatura all'onda.",
+          "Serví en platos hondos calientes decorando con valvas de mejillón."
+        ]
+      }
+    ],
+    "steps": [
+      "Abrí los mejillones al vapor con ajo y vino; colá su líquido e integralo a la olla del caldo de pescado hirviendo.",
+      "Rehogá la chalota y el ajo en oliva; sumá el arroz sin lavar y tostalo en seco durante 2 a 3 minutos.",
+      "Desglasá con vino blanco seco hasta evaporar el alcohol por completo.",
+      "Sumá las anillas de calamar, el tomate concassé y cociná con caldo hirviendo de a un cucharón por vez.",
+      "Agregá los langostinos y mejillones en los últimos 3 minutos de fuego.",
+      "Fuera del fuego, emulsioná con manteca fría y perejil fresco (sin queso); tapá 2 minutos, batí all'onda y serví."
+    ],
+    "notes": "En Italia está terminantemente prohibido usar queso con frutos de mar (il formaggio sui frutti di mare è vietato): las proteínas lácteas fermentadas del queso enmascaran la sutileza salina del marisco. La cremosidad se obtiene exclusivamente del almidón del grano emulsionado con la grasa fría y el perejil.",
+    "tags": [
+      "risotto",
+      "frutti di mare",
+      "mariscos",
+      "langostinos",
+      "mejillones",
+      "calamares",
+      "carnaroli",
+      "italia",
+      "sin queso",
+      "mediterraneo"
+    ],
+    "diet": [
+      "Sin Gluten",
+      "Pescetariano"
+    ],
+    "ingredients": [
+      "320 g de arroz Carnaroli o Vialone Nano",
+      "200 g de calamares limpios en anillas",
+      "200 g de langostinos limpios",
+      "300 g de mejillones frescos en valva",
+      "2 tomates perita en concassé",
+      "1 chalota finamente picada",
+      "2 dientes de ajo picados",
+      "½ taza de vino blanco seco",
+      "1,2 litros de caldo de pescado (fumet) caliente",
+      "40 g de manteca fría o aceite de oliva virgen extra",
+      "Abundante perejil fresco picado",
+      "Sal marina y pimienta blanca al gusto"
+    ]
+  },
+  {
+    "id": 692,
+    "title": "Risotto al Limone (Italia)",
+    "category": "Arroces & Pastas",
+    "country": "Italia",
+    "prep_time": "10 min",
+    "cook_time": "25 min",
+    "total_time": "35 min",
+    "servings": "4 porciones",
+    "calories": "450 kcal por porción",
+    "difficulty": "Fácil",
+    "image": "https://lh3.googleusercontent.com/-L9m_DXDzHSs/avxsCPjnY7I/AAAAAAAQCoQ/oezavJpJs7Isz272jjp30rkVVbwaulcogCNcBGAsYHQ/s1600/risotto_al_limone.jpg",
+    "story": "Nacido en los campos de limoneros de la Costa Amalfitana y la península de Sorrento, en la región de Campania, este risotto rinde tributo al limón sfusato amalfitano. Tradicionalmente servido en las noches cálidas de verano como una alternativa refrescante, aromática y ligera a los risottos de invierno del norte italiano.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Arroz y Caldo Cítrico",
+        "ingredients": [
+          "320 g de arroz Carnaroli (o Arborio)",
+          "Ralladura fina (sin parte blanca) y jugo colado de 2 limones amarillos orgánicos",
+          "1 cebolla blanca pequeña picada en brunoise fina",
+          "½ taza de vino blanco seco",
+          "1,2 litros de caldo suave de verduras o ave hirviendo",
+          "2 cucharadas de aceite de oliva virgen extra"
+        ]
+      },
+      {
+        "name": "Mantecatura Perfumada y Hierbas",
+        "ingredients": [
+          "50 g de manteca sin sal bien fría cortada en cubitos",
+          "70 g de queso Parmigiano Reggiano recién rallado fino",
+          "1 cucharada de hojas frescas de menta o albahaca picadas finas",
+          "Sal marina fina y pimienta blanca recién molida al gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Paso 1: Sofrito, tostatura y desglasado",
+        "steps": [
+          "En una cazuela amplia con aceite de oliva a fuego medio, rehogá la cebolla picada durante 3 minutos hasta transparentar.",
+          "Sumá el arroz Carnaroli sin lavar y tostalo en seco (tostatura) durante 2 a 3 minutos removiendo constantemente hasta que los granos se calienten y los bordes se vuelvan translúcidos.",
+          "Desglasá con el vino blanco seco y dejá evaporar completamente el alcohol a fuego vivo."
+        ]
+      },
+      {
+        "name": "Paso 2: Cocción con caldo e incorporación del jugo",
+        "steps": [
+          "Mantené el caldo suave hirviendo a fuego mínimo en la olla vecina.",
+          "Agregá el caldo de a un cucharón por vez, revolviendo suavemente con cuchara de madera para desprender el almidón.",
+          "Esperá a que el grano absorba el líquido antes de sumar el siguiente cucharón; continuá durante unos 15 minutos.",
+          "En los últimos 2 minutos de cocción, incorporá el jugo recién exprimido de los 2 limones para aportar la acidez viva sin evaporar su frescura."
+        ]
+      },
+      {
+        "name": "Paso 3: Mantecatura con aceites esenciales y menta",
+        "steps": [
+          "Retirá la cazuela del fuego cuando el arroz esté cocido al dente.",
+          "Añadí la manteca helada en cubos, el queso Parmigiano Reggiano rallado, las hierbas frescas y la ralladura fina de limón (la cáscara nunca debe hervir).",
+          "Tapá durante 2 minutos para provocar el choque térmico.",
+          "Batí enérgicamente en círculos (mantecare) hasta formar una crema untuosa y brillante que forme ondas all'onda. Serví en platos hondos calientes decorados con rodajas finas de limón fresco."
+        ]
+      }
+    ],
+    "steps": [
+      "Rehogá la cebolla en aceite de oliva en cazuela amplia hasta que transparente.",
+      "Sumá el arroz Carnaroli sin lavar y tostalo en seco durante 2 a 3 minutos hasta que los bordes brillen translúcidos.",
+      "Desglasá con el vino blanco seco hasta evaporar el alcohol por completo.",
+      "Cociná con caldo suave hirviendo cucharón a cucharón durante 15 minutos removiendo suavemente.",
+      "Incorporá el jugo de limón colado en los últimos 2 minutos de cocción.",
+      "Fuera del fuego, sumá la manteca helada, el Parmigiano, las hierbas y la ralladura de limón; tapá 2 minutos, batí all'onda y serví sobre rodajas finas de limón."
+    ],
+    "notes": "La ralladura de limón contiene los aceites esenciales perfumados (limoneno); si se hierve se vuelve amarga. Por eso debe incorporarse exclusivamente fuera del fuego durante la mantecatura junto a la manteca fría y el queso.",
+    "tags": [
+      "risotto",
+      "limone",
+      "limon",
+      "amalfitano",
+      "costa amalfitana",
+      "sorrento",
+      "carnaroli",
+      "italia",
+      "parmigiano",
+      "fresco"
+    ],
+    "diet": [
+      "Vegetariano",
+      "Sin Gluten"
+    ],
+    "ingredients": [
+      "320 g de arroz Carnaroli o Arborio",
+      "Jugo y ralladura fina de 2 limones orgánicos",
+      "1 cebolla blanca pequeña en brunoise",
+      "½ taza de vino blanco seco",
+      "1,2 litros de caldo suave hirviendo",
+      "50 g de manteca fría en cubos",
+      "70 g de queso Parmigiano Reggiano rallado",
+      "1 cucharada de hojas de menta fresca picada",
+      "2 cucharadas de aceite de oliva",
+      "Sal marina y pimienta blanca al gusto"
+    ]
   }
 ]
