@@ -73208,7 +73208,7 @@
     "calories": "480 kcal",
     "difficulty": "Media",
     "image": "https://lh3.googleusercontent.com/-tvcyoHI9ieg/avwjxL5oWUI/AAAAAAAQCmE/bKnCmsveGmcrsb0xHFAonq6nke9JZ0sLQCNcBGAsYHQ/s1600/fideos_aceite_cebollino.jpg",
-    "story": "Originarios de los callejones residenciales (longtang) de Shanghái a finales de la dinastía Qing (siglo XIX), los Cong You Ban Mian (葱油拌面) son el ícono supremo de la cocina Benbang (la gastronomía tradicional shanghainesa). Nació en los puestos callejeros matutinos del puerto fluvial del río Huangpu como un desayuno rápido y energizante para estibadores y comerciantes. La técnica tradicional no se limita al verdeo: el aceite se aromatiza a fuego muy lento con chalotas, ajo machacado y jengibre, mientras que la base de soja oscura y clara se reduce con azúcar y especias enteras —anís estrellado y canela en rama— aportando un fondo aromático y licoroso que laquea cada hebra de fideo de trigo al mezclarse.",
+    "story": "Originarios de los callejones residenciales (longtang) de Shanghái a finales de la dinastía Qing (siglo XIX), los Cong You Ban Mian (葱油拌面) son el ícono supremo de la cocina Benbang (la gastronomía tradicional shanghainesa). Nació en los puestos callejeros matutinos del puerto fluvial del río Huangpu como un desayuno rápido y energizante para estibadores y comerciantes. La técnica de infusión a fuego lento de cebollas de verdeo, chalotas, ajo machacado y jengibre fresco se combina con una reducción de soja oscura y clara especiada con anís estrellado, azúcar, salsa de ostras y un toque picante de ají molido, logrando un laqueado brillante, fragante y profundamente umami que baña cada hebra de fideo de trigo.",
     "ingredient_groups": [
       {
         "name": "Fideos de Trigo (Base)",
@@ -73227,13 +73227,16 @@
         ]
       },
       {
-        "name": "Salsa de Soja Especiada de Shanghái",
+        "name": "Salsa de Soja Especiada y Emulsión",
         "ingredients": [
           "60 ml de salsa de soja clara (sheng chou)",
           "35 ml de salsa de soja oscura (lao chou, para densidad y color laqueado intenso)",
+          "1 a 2 cucharadas de salsa de ostras (o salsa de hongos shiitake)",
           "2 cucharadas colmadas de azúcar rubia o azúcar de caña",
           "1 estrella de anís estrellado",
-          "1 trozo pequeño de canela en rama (o corteza de casia)",
+          "1 cucharadita de ají molido (o hojuelas de chile seco)",
+          "1 pizca de pimienta blanca molida",
+          "1 cucharadita de aceite de sésamo tostado",
           "1 cucharada de semillas de sésamo tostado para terminar"
         ]
       }
@@ -73250,12 +73253,12 @@
         ]
       },
       {
-        "name": "Paso 2: Reducción de la salsa de soja especiada con anís y canela",
+        "name": "Paso 2: Reducción de la salsa de soja especiada con ají molido y anís estrellado",
         "steps": [
-          "En una cacerolita pequeña (o en el mismo wok dejando 2 cucharadas del aceite recién hecho), verté la salsa de soja clara, la salsa de soja oscura y las 2 cucharadas de azúcar rubia.",
-          "Incorporá la estrella de anís estrellado y el trozo de canela en rama.",
-          "Cociná a fuego suave durante 3 a 4 minutos, revolviendo con cuchara de madera hasta que el azúcar se disuelva por completo y la salsa reduzca a un almíbar denso, oscuro y fragante.",
-          "Retirá del fuego y descartá el anís estrellado y la canela (ya habrán transferido sus aceites esenciales)."
+          "En una cacerolita pequeña (o en el mismo wok dejando 2 cucharadas del aceite recién aromatizado), verté la salsa de soja clara, la salsa de soja oscura, la salsa de ostras y las 2 cucharadas de azúcar rubia.",
+          "Incorporá la estrella de anís estrellado, la cucharadita de ají molido y la pizca de pimienta blanca.",
+          "Cociná a fuego suave durante 3 a 4 minutos, revolviendo con cuchara de madera hasta que el azúcar se disuelva por completo, el ají molido infusione su calor y la salsa reduzca a un almíbar denso, oscuro y fragante. Sumá el chorrito de aceite de sésamo.",
+          "Retirá del fuego y descartá el anís estrellado."
         ]
       },
       {
@@ -73263,7 +73266,7 @@
         "steps": [
           "En una olla con abundante agua hirviendo sin sal, cociná los fideos de trigo frescos al dente (unos 2 a 3 minutos).",
           "Escurrí los fideos en un colador sacudiendo con firmeza para eliminar hasta la última gota de agua de cocción (el exceso de agua arruina la adherencia del aceite).",
-          "En la base de cada cuenco de servicio, colocá 2 cucharadas de la salsa de soja especiada reducida y 1 a 2 cucharadas del aceite de cebollino aromático.",
+          "En la base de cada cuenco de servicio, colocá 2 cucharadas de la salsa de soja especiada reducida con ají molido y 1 a 2 cucharadas del aceite de cebollino aromático.",
           "Volcá los fideos humeantes directamente sobre la mezcla y revolvé vigorosamente con palillos desde el fondo hacia arriba: cada hebra se impregnará de un color caoba oscuro brillante y sedoso.",
           "Coroná generosamente con los trozos crujientes de verdeo y chalota reservados y una lluvia de sésamo tostado. Serví de inmediato."
         ]
@@ -73271,25 +73274,27 @@
     ],
     "steps": [
       "Lavá y secá perfectamente el verdeo con papel absorbente; cortá en bastones de 5 cm separando la parte blanca de la verde.",
-      "En un wok o sartén amplia con el aceite a fuego bajo, incorporá las chalotas, el ajo aplastado, el jengibre y la parte blanca del verdeo; confitá lentamente 8-10 minutos hasta que aromaticen y empiecen a dorar.",
-      "Sumá las hojas verdes del verdeo a fuego mínimo y dejá confitar 12-15 minutos hasta que queden de un color bronce tostado y crujientes; retirá los aromáticos crocantes con espumadera y reservalos.",
-      "En una cacerolita o en el mismo wok con un poco del aceite colado, mezclá la soja clara, soja oscura, azúcar, el anís estrellado y la canela; herví suavemente 3-4 minutos hasta que el azúcar se funda y espese en un jarabe brillante. Retirá las especias.",
+      "En un wok con el aceite a fuego bajo, incorporá las chalotas, el ajo aplastado, el jengibre y la parte blanca del verdeo; confitá lentamente 8-10 minutos hasta aromatizar.",
+      "Sumá las hojas verdes del verdeo a fuego mínimo y dejá confitar 12-15 minutos hasta que queden crocantes y doradas; retirá las hebras crujientes con espumadera y reservalas.",
+      "En una cacerolita o en el mismo wok con un poco del aceite colado, mezclá la soja clara, soja oscura, salsa de ostras, azúcar, el anís estrellado, el ají molido y la pimienta blanca; herví suavemente 3-4 minutos hasta lograr un almíbar denso y perfumado. Agregá el aceite de sésamo y retirá el anís.",
       "Herví los fideos de trigo al dente en abundante agua sin sal, escurrilos enérgicamente y pasalos a los cuencos.",
-      "Verté 2 cucharadas de la salsa especiada y 1-2 cucharadas del aceite tibio de verdeo sobre los fideos, mezclá con palillos hasta que queden laqueados y coroná con el verdeo y ajo crujiente y semillas de sésamo."
+      "Verté 2 cucharadas de la salsa especiada con ají molido y 1-2 cucharadas del aceite tibio de verdeo sobre los fideos, mezclá con palillos hasta que queden laqueados y coroná con el verdeo crujiente y sésamo tostado."
     ],
-    "notes": "El secado meticuloso del verdeo es innegociable para que caramelice y no se hierva en el aceite. La infusión de la salsa con anís estrellado, canela y el confitado previo con ajo y chalota es la marca de fábrica que eleva este plato de un simple aderezo a la técnica de taberna auténtica de Shanghái (estilo My Name Is Andong).",
+    "notes": "El confitado lento y el secado minucioso del verdeo son indispensables para lograr la textura crocante sin amargor. El toque de ají molido reducido junto a la salsa de ostras, la soja y el anís estrellado aporta un calor vibrante que equilibra la grasa sedosa del aceite de cebollino.",
     "tags": [
       "fideos",
       "shanghai",
       "verdeo",
       "cebollin",
+      "aji molido",
       "anis estrellado",
-      "canela",
+      "pimienta blanca",
+      "salsa de ostras",
       "ajo",
       "chalotas",
       "andong",
       "oriental",
-      "vegetariano"
+      "picante suave"
     ],
     "diet": [
       "Vegetariano"
@@ -73303,9 +73308,12 @@
       "150 ml de aceite vegetal neutro",
       "60 ml de salsa de soja clara (sheng chou)",
       "35 ml de salsa de soja oscura (lao chou)",
+      "1 a 2 cucharadas de salsa de ostras",
       "2 cucharadas colmadas de azúcar rubia o de caña",
       "1 estrella de anís estrellado",
-      "1 trozo pequeño de canela en rama",
+      "1 cucharadita de ají molido (o hojuelas de chile)",
+      "1 pizca de pimienta blanca molida",
+      "1 cucharadita de aceite de sésamo tostado",
       "1 cucharada de semillas de sésamo tostado"
     ]
   },
