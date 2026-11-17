@@ -74845,5 +74845,104 @@
       "receta tradicional",
       "guiso marinero"
     ]
+  },
+  {
+    "id": 694,
+    "title": "Tarta de Coco y Dulce de Leche (Argentina)",
+    "original_title": "Tarta de Coco y Dulce de Leche",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "region": "Río de la Plata (Argentina / Uruguay)",
+    "category": "Postres & Dulces",
+    "subcategory": "Tartas & Pastelería",
+    "difficulty": "Fácil",
+    "prep_time": "25 min",
+    "cook_time": "55 min",
+    "total_time": "1 hora 20 min",
+    "servings": "8 porciones",
+    "calories": "420 kcal por porción",
+    "image": "https://lh3.googleusercontent.com/-jvZD_KQtyrA/avyHrkeuK0I/AAAAAAAQCqs/-77WlNDzQqU7g-oa3QCEOcnOW34EpGG5wCNcBGAsYHQ/s1600/tarta_coco_dulce_de_leche.jpg",
+    "source": "Nestlé Uruguay (recetasnestle.com.uy)",
+    "source_url": "https://www.recetasnestle.com.uy/",
+    "story": "La tarta de coco y dulce de leche es uno de los mayores emblemas de la pastelería tradicional rioplatense, infaltable en las vitrinas de confiterías de barrio y en las mesas familiares de merienda tanto en Argentina como en Uruguay. Nacida a mediados del siglo XX como una evolución criolla de las tartas europeas de masa quebrada, consagró la alianza definitiva entre el dulce de leche repostero y el coco rallado tostado, convirtiéndose en un clásico indiscutido de domingos y celebraciones.",
+    "ingredient_groups": [
+      {
+        "name": "Para la Masa Quebrada",
+        "ingredients": [
+          "200 g de harina de trigo 0000",
+          "1 pizca de sal fina",
+          "50 g de azúcar común",
+          "100 g de manteca fría, cortada en cubitos",
+          "1 huevo"
+        ]
+      },
+      {
+        "name": "Para el Relleno y Cobertura de Coco",
+        "ingredients": [
+          "400 g de dulce de leche repostero de buena consistencia",
+          "1 lata o paquete de leche condensada (395 g)",
+          "100 ml de leche entera (1/2 taza)",
+          "3 huevos",
+          "200 g de coco rallado fino"
+        ]
+      }
+    ],
+    "ingredients": [
+      "200 g de harina de trigo 0000",
+      "1 pizca de sal fina",
+      "50 g de azúcar común",
+      "100 g de manteca fría, cortada en cubitos",
+      "1 huevo",
+      "400 g de dulce de leche repostero de buena consistencia",
+      "1 lata o paquete de leche condensada (395 g)",
+      "100 ml de leche entera (1/2 taza)",
+      "3 huevos",
+      "200 g de coco rallado fino"
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación de la Masa y Precocción",
+        "steps": [
+          "En una procesadora o en un bowl amplio con las yemas de los dedos, procesá o mezclá ligeramente la harina, la sal y el azúcar. Añadí la manteca bien fría cortada en cubitos y arená rápidamente sin transmitir calor.",
+          "Incorporá el huevo y uní la masa con movimientos suaves hasta formar un bollo uniforme, sin amasar en exceso para no desarrollar gluten.",
+          "Envolvé la masa en papel film y llevala a descansar en la heladera durante al menos 30 minutos.",
+          "Estirá la masa con palote sobre la mesada apenas enharinada y tapizá la base y los bordes de una tartera desmontable de 24 cm de diámetro.",
+          "Pinchá la superficie de la masa con un tenedor para que no se infle y precocinala en horno precalentado a temperatura media (180 °C) durante 10 minutos. Retirá y dejá entibiar."
+        ]
+      },
+      {
+        "name": "Relleno, Cobertura y Horneado Final",
+        "steps": [
+          "Distribuí y untá de manera pareja los 400 g de dulce de leche repostero sobre toda la base de masa precocida.",
+          "En un bowl, mezclá la leche condensada, la media taza de leche entera, los 3 huevos y el coco rallado fino hasta lograr una preparación homogénea y cremosa.",
+          "Verté la mezcla de coco cuidadosamente sobre la capa de dulce de leche, alisando la superficie con espátula.",
+          "Llevá la tarta nuevamente al horno a 180 °C y horneá durante unos 40 a 45 minutos adicionales, hasta que la cubierta de coco adquiera un tono dorado intenso y tentador y el relleno esté firme.",
+          "Dejá enfriar a temperatura ambiente antes de desmoldar y cortar en porciones para que el dulce de leche y la crema de coco asienten su estructura."
+        ]
+      }
+    ],
+    "steps": [
+      "En una procesadora o en un bowl amplio con las yemas de los dedos, procesá o mezclá ligeramente la harina, la sal y el azúcar. Añadí la manteca bien fría cortada en cubitos y arená rápidamente sin transmitir calor.",
+      "Incorporá el huevo y uní la masa con movimientos suaves hasta formar un bollo uniforme, sin amasar en exceso para no desarrollar gluten.",
+      "Envolvé la masa en papel film y llevala a descansar en la heladera durante al menos 30 minutos.",
+      "Estirá la masa con palote sobre la mesada apenas enharinada y tapizá la base y los bordes de una tartera desmontable de 24 cm de diámetro.",
+      "Pinchá la superficie de la masa con un tenedor para que no se infle y precocinala en horno precalentado a temperatura media (180 °C) durante 10 minutos. Retirá y dejá entibiar.",
+      "Distribuí y untá de manera pareja los 400 g de dulce de leche repostero sobre toda la base de masa precocida.",
+      "En un bowl, mezclá la leche condensada, la media taza de leche entera, los 3 huevos y el coco rallado fino hasta lograr una preparación homogénea y cremosa.",
+      "Verté la mezcla de coco cuidadosamente sobre la capa de dulce de leche, alisando la superficie con espátula.",
+      "Llevá la tarta nuevamente al horno a 180 °C y horneá durante unos 40 a 45 minutos adicionales, hasta que la cubierta de coco adquiera un tono dorado intenso y tentador y el relleno esté firme.",
+      "Dejá enfriar a temperatura ambiente antes de desmoldar y cortar en porciones para que el dulce de leche y la crema de coco asienten su estructura."
+    ],
+    "notes": "• **Dulce de leche repostero estricto:** Es fundamental utilizar dulce de leche repostero de buena consistencia y firmeza. Si se usa dulce de leche común o colonial, con el calor del horno hervirá, se volverá líquido y se mezclará con el coco perdiendo las capas definidas.\n• **Descanso de la masa:** No saltear los 30 minutos de heladera de la masa quebrada; permite que la manteca solidifique y la masa no se baje de los bordes del molde durante la cocción.\n• **Variante dulce:** Si querés un contraste ácido, podés colocar una fina capa de mermelada de frambuesas o frutos rojos debajo o sobre el dulce de leche antes de verter el coco.",
+    "tags": [
+      "tarta de coco",
+      "dulce de leche",
+      "coco y dulce de leche",
+      "pasteleria argentina",
+      "reposteria rioplatense",
+      "merienda",
+      "tarta dulce",
+      "leche condensada"
+    ]
   }
 ]
