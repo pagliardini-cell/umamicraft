@@ -1487,7 +1487,7 @@
     "diet_badges": [
       "Sin Lácteos"
     ],
-    "story": "Originario de la provincia insular de Hainan, en el sur de China, este plato cruzó fronteras a principios del siglo XX con la migración hacia el sudeste asiático y fue adoptado como el plato nacional indiscutido de Singapur. Destaca por la absoluta sencillez y delicadeza: el pollo se escalfa a fuego muy suave con jengibre fresco, anís estrellado y cebollín, y con ese mismo caldo dorado se cocina el arroz de grano largo previamente sellado. Se sirve a temperatura ambiente con pepino fresco, salsa Sriracha cítrica y la legendaria \"Salsa de Cielo Aceitoso\".",
+    "story": "Originario de la provincia insular de Hainan, en el sur de China, este plato cruzó fronteras a principios del siglo XX con la migración hacia el sudeste asiático y fue adoptado como el plato nacional indiscutido de Singapur, representando el auge de los puestos callejeros (hawker centres).",
     "ingredient_groups": [
       {
         "name": "Para el Pollo Hainanés y su Caldo",
@@ -2390,7 +2390,7 @@
       "Keto / Low-Carb",
       "Alto en Proteína"
     ],
-    "story": "Originario del Panyab y con raíces en las cocinas imperiales mogoles, el Murgh Makhani es célebre en todo el mundo. Su primer paso fundamental —que también se sirve por sí solo en la India como plato de parrilla sobre pan naan, roti o parathas— consiste en marinar muslos de pollo en yogur griego, harina de garbanzos tostada (besan), azafrán y garam masala, y asarlos en brochetas pincelados continuamente con manteca clarificada o derretida.",
+    "story": "Nacido en Nueva Delhi en la década de 1950 en el legendario restaurante Moti Mahal, el Murgh Makhani fue creado por Kundan Lal Gujral como una ingeniosa solución para no desperdiciar los restos de pollo tandoori, dando origen a uno de los platos indios más famosos del mundo.",
     "ingredient_groups": [
       {
         "name": "Ingredientes",
@@ -2922,7 +2922,7 @@
     "diet_badges": [
       "Alto en Proteína"
     ],
-    "story": "Conocidas mundialmente como albóndigas suecas, las Köttbullar se elaboran combinando carne picada vacuna y de cerdo con miga de pan remojada en leche, hierbas frescas y un toque inconfundible de pimienta de Jamaica (allspice). Se sirven tradicionalmente bañadas en una salsa cremosa de caldo de carne (gräddsås), acompañadas de papas hervidas o puré y mermelada ácida de arándanos rojos (lingonberries).",
+    "story": "Las Köttbullar son el emblema gastronómico de Suecia desde el siglo XVIII, cuando el rey Carlos XII las introdujo en la corte tras su regreso del Imperio Otomano. Forman parte indivisible del clásico smörgåsbord festivo sueco.",
     "ingredient_groups": [
       {
         "name": "Para las albóndigas",
@@ -4994,7 +4994,7 @@
     "servings": "5 a 6 porciones",
     "calories": "560 kcal aprox. por porción",
     "diet_badges": [],
-    "story": "Una receta adaptada por el autor a partir de un plato de Norberto D'Oro: cintas de pasta envueltas en una salsa perfumada con cáscaras de limón doradas en manteca y oliva, desglasadas con vino blanco o vermut seco y terminadas con crema de leche, atún, parmesano y perejil fresco.",
+    "story": "Un clásico de la cocina costera italiana que resuelve una comida elegante en pocos minutos. Es una de mis preparaciones de cabecera cuando busco la frescura ácida de los limones combinada con la riqueza del atún.",
     "ingredient_groups": [
       {
         "name": "Ingredientes",
@@ -5083,7 +5083,7 @@
       "Vegetariano",
       "Sin Lácteos"
     ],
-    "story": "Más elaboradas y adictivas que unas papas fritas convencionales, estas papas salteadas al estilo chino se hierven brevemente en bastones finos, se doran en un aceite previamente perfumado con jengibre, ajo, cebolla y chile, y se glasean a fuego vivo con salsa de soja, vinagre de arroz, kétchup, sésamo tostado y cilantro.",
+    "story": "Un clásico de la comida callejera y de los puestos nocturnos en las provincias del norte de China, donde los vegetales al wok se condimentan con perfiles agridulces y picantes característicos de la gastronomía popular.",
     "ingredient_groups": [
       {
         "name": "Ingredientes",
@@ -6468,7 +6468,7 @@
     "diet_badges": [
       "Alto en Proteína"
     ],
-    "story": "La célebre Jucy Lucy nació en el sur de Minneapolis, Minnesota, donde dos bares históricos separados por pocas cuadras se disputan su paternidad desde los años 50: el Matt's Bar (que la escribe sin «i», «Jucy Lucy», bajo el lema «si está bien escrito, estás en el lugar equivocado») y el 5-8 Club («Juicy Lucy»). Su sello consiste en encerrar el queso dentro de dos medallones de carne sellados en los bordes para que al morder brote un corazón de queso fundido.",
+    "story": "La célebre Jucy Lucy nació en el sur de Minneapolis, Minnesota, donde dos bares históricos separados por pocas cuadras se disputan su paternidad desde los años 50: el Matt's Bar y el 5-8 Club, convirtiéndose en un ícono de la comida rápida del Medio Oeste norteamericano.",
     "ingredient_groups": [
       {
         "name": "Ingredientes (para 6 Jucy Lucys)",
@@ -7041,7 +7041,7 @@
       "Sin Lácteos",
       "Alto en Proteína"
     ],
-    "story": "El Kaki Furai (カキフライ) es uno de los platos de invierno más queridos de la cocina yōshoku japonesa, preparado en plena temporada de ostras (y uno de los favoritos del chef Takehiro Ohno). Las ostras frescas se pasan por harina, huevo y panko japonés y se fríen apenas un par de minutos para lograr una corteza ultracrujiente con el interior cremoso y marino, servidas sobre un colchón de col china (hakusai) en juliana.",
+    "story": "Las Kaki Furai son las protagonistas del otoño e invierno en Japón dentro de la categoría yōshoku (cocina occidental adaptada al gusto japonés), nacida a finales del siglo XIX en los restaurantes de Tokio.",
     "ingredient_groups": [
       {
         "name": "Ingredientes",
@@ -7646,7 +7646,7 @@
       "Vegetariano",
       "Sin Gluten"
     ],
-    "story": "El método Pilaf (o Pulao en la India, de raíces persas y turcas extendidas por el Medio Oriente, el Cáucaso y los Balcanes) consiste en nacarar primero el arroz de grano largo en manteca junto a una base aromática de cebolla antes de sumar el caldo hirviendo y terminar la cocción tapado en el horno, logrando granos sueltos, enteros y perfumados.",
+    "story": "De raíces persas e introducido en el subcontinente indio por los emperadores mogoles en el siglo XVI, el método Pilaf (o Pulao) es uno de los estilos de arroz con más abolengo y difusión en toda Asia Central y Medio Oriente.",
     "ingredient_groups": [
       {
         "name": "Ingredientes",
@@ -8933,7 +8933,7 @@
       "Sin Lácteos",
       "Alto en Proteína"
     ],
-    "story": "Niku Dango significa literalmente «albóndigas de carne» en japonés y es uno de los clásicos indiscutidos de las cajas bento familiares, ya que se mantienen jugosas incluso a temperatura ambiente y son muy divertidas de moldear con los niños. Se doran en sartén y se terminan en un glaseado brillante de salsa de soja, mirin y sake.",
+    "story": "Niku Dango significa literalmente 'albóndigas de carne' en japonés y es uno de los clásicos indiscutidos de las cajas bento familiares desde la era Showa, populares por mantener su textura impecable a temperatura ambiente.",
     "ingredient_groups": [
       {
         "name": "Para las albóndigas",
@@ -9508,7 +9508,7 @@
       "Sin Lácteos",
       "Alto en Proteína"
     ],
-    "story": "El kara-age (唐揚げ) es la técnica clásica de fritura japonesa, aplicada por excelencia al pollo (tori no kara-age). Consiste en marinar bocados pequeños de carne en una mezcla aromática de salsa de soja, jengibre fresco rallado y ajo, rebozarlos en una mezcla ligera de fécula de maíz y harina, y freírlos hasta lograr una corteza extracrujiente. Se consume durante todo el año en Japón, tanto en bares izakaya como en cajas bento.",
+    "story": "El kara-age (唐揚げ) es una de las técnicas culinarias más tradicionales de Japón, consolidada a nivel popular durante los años de posguerra como el bocado imprescindible en tabernas izakaya y puestos callejeros.",
     "ingredient_groups": [
       {
         "name": "Para el pollo y la marinada",
@@ -10563,7 +10563,7 @@
       "Sin Lácteos",
       "Alto en Proteína"
     ],
-    "story": "Receta propia del autor del blog para lograr unas alitas de pollo doradas y bañadas en una reducción espesa y brillante de miel, salsa de soja, ajo, chile rojo fresco y un toque de kétchup. A diferencia de las alitas marinadas en crudo, aquí el pollo se dora primero por separado y luego se baña en el almíbar especiado recién caramelizado en sartén.",
+    "story": "Una receta que desarrollé en mi cocina buscando el equilibrio justo entre el laqueado oriental y la intensidad de las alitas de pollo doradas.",
     "ingredient_groups": [
       {
         "name": "Para las alitas de pollo",
@@ -11071,7 +11071,7 @@
     "diet_badges": [
       "Vegetariano"
     ],
-    "story": "Una creación golosa de la escritora gastronómica británica Nigella Lawson (su famosa Doughnut French Toast): el pan blanco empapado en huevo, leche y abundante vainilla se dora en manteca y, apenas sale caliente de la sartén, se reboza en un plato con azúcar blanca común para que forme la misma costra cristalina y crujiente de una dona recién hecha. Acompañadas con un coulis rápido de mermelada de cerezas y limón, pasan del desayuno a un postre de lujo en diez minutos.",
+    "story": "Las tostadas francesas tienen raíces que se remontan al Imperio Romano (recogidas en el recetario de Apicio en el siglo V), creadas como método para no desperdiciar el pan duro de días anteriores.",
     "ingredient_groups": [
       {
         "name": "Para las tostadas francesas azucaradas",
@@ -11859,7 +11859,7 @@
       "Sin Gluten",
       "Sin Lácteos"
     ],
-    "story": "Como bien señala el autor en su nota original, esta receta básica de hummus utiliza garbanzos en conserva bien enjuagados: tras probar a remojar y hervir garbanzos secos desde cero, comprobó que los garbanzos enlatados de buena calidad ya vienen muy tiernos y se emulsionan de maravilla con una proporción generosa de tahini (pasta de sésamo), jugo de limón recién exprimido, ajo y aceite de oliva.",
+    "story": "El hummus coronado con piñones es un emblema de la mesa libanesa y de todo el Levante mediterráneo, donde se sirve como centro de los mezze ceremoniales.",
     "ingredient_groups": [
       {
         "name": "Para el hummus",
@@ -12134,7 +12134,7 @@
       "Sin Lácteos",
       "Keto / Low-Carb"
     ],
-    "story": "Originaria de la ciudad de Alepo en Siria (donde su nombre محمرة deriva de ahmar, «rojo»), la Muhammara o Mahamara es una pasta untuosa y fragante de morrones rojos asados a las brasas o a la llama, nueces molidas en mortero, aceite de oliva y jugo de limón. Como destaca el autor, el secreto fundamental de esta receta es lograr que los pimientos adquieran ese inconfundible perfume y gustito ahumado al quemarles la piel.",
+    "story": "Originaria de Alepo (Siria) y adoptada como estandarte en toda la cocina levantina, la muhammara es una pasta milenaria que representa la histórica ruta de las especias en Medio Oriente.",
     "ingredient_groups": [
       {
         "name": "Ingredientes",
@@ -15718,7 +15718,7 @@
       "Sin Lácteos",
       "Bajo en Calorías"
     ],
-    "story": "Esta salsa madre de fusión franco-china aplica la técnica francesa de desglasado y reducción en cascada sobre la tríada aromática fundamental de la cocina china (ajo, jengibre fresco y cebolla de verdeo), desglasada con vino de arroz Shaoxing, salsa de soja y fondo de ave. Es una base comodín extraordinaria para salteados al wok, carnes grilladas, pescados o fideos.",
+    "story": "Inspirada en las salsas maestras de la culinaria cantonesa, donde la tríada aromática de jengibre, verdeo y ajo forma la columna vertebral del sabor de los salteados al wok desde la dinastía Song.",
     "ingredient_groups": [
       {
         "name": "Ingredientes",
@@ -18601,7 +18601,7 @@
     "servings": "2 porciones",
     "calories": "430 kcal aprox. por porción",
     "diet_badges": [],
-    "story": "Tradicional del suroeste de Francia (regiones de Gascuña, Périgord y Dordoña), esta sopa campesina de pan y ajo utiliza la aromática grasa de pato o de ganso para rehogar suavemente el ajo antes de cocerlo a fuego lento con tomillo, laurel y caldo, sirviéndose bien caliente sobre rebanadas de pan tostado coronadas con queso Comté o Gruyère fundido.",
+    "story": "Tradicional del suroeste de Francia (regiones históricas de Gascuña, Périgord y Dordoña), el Tourin es una sopa campesina milenaria nacida en los hogares rurales para reponer fuerzas durante las duras jornadas agrícolas de invierno.",
     "ingredient_groups": [
       {
         "name": "Ingredientes (para 2 platos)",
@@ -19587,7 +19587,7 @@
       "Sin Lácteos",
       "Alto en Proteína"
     ],
-    "story": "El Sukiyaki (スキヤキ) es uno de los platos más festivos del estilo nabemono (cazuela japonesa en la mesa), infaltable en los días más fríos del año y en las «bōnenkai» (fiestas japonesas de fin de año). Se prepara en el centro de la mesa en una cazuela de hierro baja donde finísimas láminas de lomo vacuno marmoleado se cocinan junto a col china, hongos shiitake, verdeo, fideos shirataki y tofu en salsa warishita (soja, mirin, sake y azúcar), y cada comensal pasa el bocado recién cocido por un cuenco con huevo crudo batido. Como recuerda el autor del blog: «Comiendo shabu-shabu y sukiyaki en mi cumpleaños 39».",
+    "story": "El Sukiyaki (スキヤキ) es uno de los platos más festivos del estilo nabemono (cazuela japonesa en la mesa), infaltable en los días más fríos del año y en las bōnenkai (fiestas de fin de año). Nació a mediados del siglo XIX durante la Restauración Meiji, cuando se levantó la prohibición del consumo de carne vacuna en Japón.",
     "ingredient_groups": [
       {
         "name": "Carnes, vegetales y tofu",
@@ -21494,7 +21494,7 @@
       "Sin Lácteos",
       "Alto en Proteína"
     ],
-    "story": "Receta personal del autor («para una persona... ¡chiste, para 5 personas!») de empanadas criollas bien jugosas de roast beef cortado a cuchillo. El secreto de su jugosidad extraordinaria está en dorar la carne en grasa de cerdo, preparar una salsa base licuando la parte blanca de la cebolla de verdeo con tomate, comino y ají molido/pimentón, y dejar descansar el relleno en frío al menos 6 horas con el verdeo fresco antes de armar y freír en grasa vacuna.",
+    "story": "Emblema absoluto de la identidad criolla argentina desde el período colonial, las empanadas cortadas a cuchillo preservan la costumbre gauchesca de picar la carne a mano en lugar de molerla.",
     "ingredient_groups": [
       {
         "name": "Para la masa y la fritura",
@@ -21953,7 +21953,7 @@
       "Keto / Low-Carb",
       "Bajo en Calorías"
     ],
-    "story": "La receta de cabecera del autor para lograr un caldo de pollo dorado y lleno de cuerpo: tuesta previamente las alitas en el horno para desarrollar notas tostadas, las combina con carcasas frescas y perfuma la cocción lenta de cuatro horas con mirepoix clásico, hierbas francesas (tomillo, laurel, perejil) y un toque oriental sutil de jengibre, anís estrellado y salsa de soja natural.",
+    "story": "Heredero de la cocina de aprovechamiento campesina, el caldo de pollo asado es la base aromática indispensable en mi cocina para dar profundidad y fondo a risottos, sopas y guisados.",
     "ingredient_groups": [
       {
         "name": "Ingredientes",
@@ -23190,7 +23190,7 @@
     "diet_badges": [
       "Vegetariano"
     ],
-    "story": "Las Crêpes Suzette son el postre flambeado más célebre de la alta gastronomía francesa, creado a fines del siglo XIX en el Café de Paris de Montecarlo (atribuido a Henri Charpentier en honor al futuro rey Eduardo VII de Inglaterra y su acompañante Suzette). Consiste en crêpes delicadísimas dobladas en cuartos (pañuelos) y bañadas en una reducción de manteca, azúcar caramelizada, jugo y piel de naranja, Triple Sec o Grand Marnier y Cognac flambeado frente al comensal.",
+    "story": "Las Crêpes Suzette son el postre flambeado más célebre de la alta gastronomía francesa de la Belle Époque, creado a fines del siglo XIX en el Café de Paris de Montecarlo en honor al Príncipe de Gales.",
     "ingredient_groups": [
       {
         "name": "Para la masa de crêpes",
@@ -23640,7 +23640,7 @@
       "Sin Gluten",
       "Alto en Proteína"
     ],
-    "story": "Mi versión personal del clásico Chili con Carne estilo Tex-Mex de cocción larga (entre 2 horas y media y 3 horas). En lugar de carne picada, lleva carne vacuna cortada a cuchillo en cubos combinando roast beef bien limpio con osobuco y su tuétano para darle cuerpo gelatinoso a la salsa, junto con un agregado escalonado de especias en tres tiempos (técnica de competencia en Texas) y frijoles refritos licuados que espesan el guiso de forma natural.",
+    "story": "El Chili con Carne es el estandarte culinario de Texas y la cocina Tex-Mex, nacido en San Antonio en el siglo XIX gracias a las célebres 'Chili Queens', mujeres que montaban puestos de comida al aire libre en las plazas públicas.",
     "ingredient_groups": [
       {
         "name": "Ingredientes principales",
@@ -27053,7 +27053,7 @@
       "Alto en Proteína"
     ],
     "published": "2024-07-02T20:45:00.000-03:00",
-    "story": "Creado en la década de 1970 por Honorato Quiñones y Evangelina Gómez en el restaurante 'El Prado' de Cochabamba para un grupo de comensales que pedían a altas horas un plato contundente que los 'picara' y desafiara su resistencia al picante ('pique para machos'). Es una espectacular fuente compartida con base de papas fritas caseras cubiertas por lomo vacuno y salchichas salteadas a fuego vivo con cebollas, pimientos y locoto, desglasadas en reducción de cerveza, coronadas con huevos duros y queso.",
+    "story": "Nacido a fines de los años 70 en Cochabamba, Bolivia, en el restaurante 'El Prado', el Pique Macho es el ícono de las reuniones festivas y comidas abundantes de la gastronomía valluna boliviana.",
     "ingredient_groups": [
       {
         "name": "Para el salteado de carnes",
@@ -29323,7 +29323,7 @@
     "diet_badges": [
       "Alto en Proteína"
     ],
-    "story": "Nacido en 1921 en Wichita (Kansas) con la fundación de White Castle —la primera cadena de hamburgueserías de la historia—, el slider al vapor revolucionó el fast food moderno. Su técnica única consiste en cocinar finos medallones cuadrados de carne sobre un colchón de cebolla picada muy fina con abundante vapor, atravesando la carne a través de 5 orificios característicos sin necesidad de darla vuelta, mientras el pan reposa encima absorbiendo todos los aromas.",
+    "story": "Los sliders nacieron en 1921 en Wichita, Kansas, con la fundación de White Castle, la primera cadena de hamburgueserías del mundo, revolucionando la comida rápida del siglo XX.",
     "ingredient_groups": [
       {
         "name": "Para los medallones y el pan",
@@ -49424,7 +49424,7 @@
     "cook_time": "20 min",
     "servings": "4 porciones",
     "calories": "680 kcal por porción",
-    "story": "La vanguardia gastronómica de los bistrós porteños reinventa la milanesa con una propuesta de contrastes térmicos y texturas memorables. Sobre una base de ojo de bife con crujiente rebozado de panko, se aplica una intensa emulsión de tomates secos y hojas de albahaca fresca. En lugar de queso derretido al horno, el plato se corona en la mesa con una auténtica burrata fresca entera cortada al medio, permitiendo que su corazón cremoso de stracciatella fluya tibio sobre la carne crujiente. Como escolta de lujo, se acompaña con papas fritas rústicas de triple cocción doradas en grasa de pato (duck fat fries), técnica que logra una costra de vidrio y un interior aterciopelado.",
+    "story": "Un homenaje contemporáneo a la tradición de los bodegones porteños, combinando la clásica milanesa argentina con productos de la alta gastronomía.",
     "image": "https://lh3.googleusercontent.com/-YnoakEPfbZQ/avFGjOhRfXI/AAAAAAAP78g/ihm2laZgBLEzz2FBHMWC4O20WmQq7WceACNcBGAsYHQ/s1600/milanesa_burrata_grasa_pato.jpg",
     "tags": [
       "Milanesa",
@@ -56002,7 +56002,7 @@
       "Vegetariano",
       "Clásico de Cafetería Porteña"
     ],
-    "story": "El submarino es una de las instituciones más entrañables de la cafetería argentina y un ritual que marcó a fuego la infancia de generaciones. Consiste en sumergir una barra rectangular de chocolate negro en leche hirviendo servida en el clásico vaso de vidrio templado con soporte metálico y asa, esperando ese mágico momento en que el chocolate se derrite lentamente en el fondo y se revuelve con la cucharita larga. Esta receta es un homenaje especial a los cafés notables porteños, y en particular al tradicional Bar Botánico frente al Jardín Botánico de Buenos Aires, donde el autor disfrutaba de este ritual cada tarde de su infancia junto a su abuelo.",
+    "story": "El submarino es una institución de los cafés y confiterías de Buenos Aires surgida a mediados del siglo XX, símbolo de las meriendas porteñas de invierno.",
     "ingredient_groups": [
       {
         "name": "Componentes del Submarino",
@@ -69457,7 +69457,7 @@
       "poco",
       "sopas"
     ],
-    "story": "Creada por el chef Walter Hinds en el restaurante poco, esta sopa representa una audaz y brillante armonía entre la calidez de la cocina japonesa y la frescura vibrante del recetario mexicano. El fondo parte de un mirepoix aromático con cebolla roja, apio, zanahoria, morrón rojo, ajo y jalapeño fresco, cocinado en caldo de pollo con fideos udon japoneses gruesos y pechuga de pollo desmenuzada. El golpe maestro de sabor se completa en el cuenco con gotas tostadas de aceite de sésamo, dados cremosos de palta fresca (aguacate) y cuartos de lima recién exprimida, creando una sopa untuosa, picante y profundamente reconfortante.",
+    "story": "Una preparación reconfortante inspirada en las tabernas izakaya y en los tazones de fideos del este asiático.",
     "ingredients": [
       "2 cucharadas de aceite de oliva",
       "40 g (1/4 taza) de cebolla roja cortada en cubitos pequeños",
@@ -70318,7 +70318,7 @@
       "Umami"
     ],
     "image": "https://lh3.googleusercontent.com/-NAb3ZL7G48g/avi66cpUZ1I/AAAAAAAQCVU/Tf02MxGQEYoNwjYy8ccEYiZlqGd5JfP-wCNcBGAsYHQ/s1600/teriyaki_burger_definitiva.jpg",
-    "story": "En Hawái, la Teriyaki Burger es un pilar cultural tan cotidiano y venerado como el Loco Moco. Nacida de la profunda influencia japonesa en las islas y popularizada por los tradicionales 'okazuya' y locales históricos como W&M Bar-B-Q en Honolulu (abierto en los años 50), George Motz la destaca en sus investigaciones como el epítome de la explosión umami. La técnica consiste en marinar brevemente los medallones formados en una marinada tibia de soja, mirin, azúcar rubia, ajo y jengibre, cocinarlos a fuego medio-bajo en hierro fundido para caramelizar sin quemar los azúcares, y servirlos en pan blanco extra tierno sin semillas sobre un colchón crujiente de lechuga iceberg, cebolla dulce y mayonesa japonesa Kewpie.",
+    "story": "Nacida en Hawái a mediados del siglo XX tras la llegada de inmigrantes japoneses a las islas, la Teriyaki Burger es el resultado perfecto de la fusión entre la hamburguesa estadounidense y la tradicional salsa tare nipona.",
     "ingredients": [
       "1 kg (2 libras) de carne picada vacuna fresca (aguja o rosbif 80/20)",
       "8 panes blancos suaves de hamburguesa (sin semillas)",
@@ -72897,7 +72897,7 @@
     "calories": "370 kcal",
     "difficulty": "Media",
     "image": "https://lh3.googleusercontent.com/-l5srX-nmIok/avtKc38XReI/AAAAAAAQCkY/xs_aBjxMmNkly7G9VI_TmKStc7E56v_wACNcBGAsYHQ/s1600/crumble_manzana_deconstruido.jpg",
-    "story": "El crumble de manzana llevado a la pastelería moderna en formato de lingote individual. En lugar de hornear todo en una fuente rústica tradicional, aquí la manzana verde Granny Smith se corta en una brunoise milimétrica de cinco milímetros y se estofa en sartén con manteca y azúcar rubia hasta quedar tierna, brillante y sostenida por su propia pectina. Se compacta en tibio dentro de un molde rectangular de pastelería y se corona con una capa uniforme de streusel fino horneado por separado, logrando una crocancia seca perfecta que nunca se ablanda. Emplatado sobre pizarra negra junto a una quenelle fría de helado de crema americana, el contraste de temperaturas, cortes y texturas es impecable.",
+    "story": "Nacido en Gran Bretaña durante el racionamiento de la Segunda Guerra Mundial, el crumble de manzana surgió como una alternativa económica e ingeniosa a las tartas tradicionales con masa quebrada. Esta versión moderna traslada aquel reconfortante postre hogareño a la pastelería contemporánea en formato de lingote individual.",
     "ingredient_groups": [
       {
         "name": "Lingote de Manzana en Brunoise",
@@ -72996,7 +72996,7 @@
     "calories": "520 kcal",
     "difficulty": "Media",
     "image": "https://lh3.googleusercontent.com/-8AlZF8f9PdI/avt1-4aq4RI/AAAAAAAQCkk/P91feckmtXQ7CHE75gE4K8J_Kgmy07rIgCNcBGAsYHQ/s1600/kebabs_tortilla_plancha.jpg",
-    "story": "Una técnica contemporánea fascinante que une la tradición del kebab turco con la practicidad de las tortillas de trigo. En lugar de modelar la carne sobre la espada al fuego de carbón, extiendo capas finas de carne picada especiada (con cebolla escurrida, ajo, comino, pimentón ahumado y cilantro) entre tortillas de trigo formando un hojaldrado cárnico. Al cortarlo en tiras, atravesarlo con brochetas y dorarlo a la plancha de hierro bien caliente, la grasa natural de la carne se funde hacia la masa, friéndola hasta dejarla crujiente como un nacho con un corazón tierno y jugoso. Acompañado de una salsa fresca de yogur griego batido con jalapeño fresco y hierbas, el equilibrio es absoluto.",
+    "story": "Nacido en las calles de Estambul y Anatolia, el kebab representa siglos de tradición parrillera en Medio Oriente. Esta adaptación contemporánea toma las técnicas de comida callejera moderna que fusionan los sabores tradicionales del kebab turco con la practicidad de las tortillas de trigo.",
     "ingredient_groups": [
       {
         "name": "Carne Especiada para Kebab",
@@ -73109,7 +73109,7 @@
     "calories": "460 kcal",
     "difficulty": "Fácil",
     "image": "https://lh3.googleusercontent.com/-quU46SiRMyo/avugyOemQhI/AAAAAAAQClM/aHfWogsnfvgbc7zAoYgE2DRcsm0Ld7SUQCNcBGAsYHQ/s1600/arroz_a_la_cubana.jpg",
-    "story": "Uno de los platos más emblemáticos de la cocina casera hispana. Aunque su nombre remite a la Cuba colonial del siglo XIX, se arraigó en España como el gran clásico del confort familiar. La magia del arroz a la cubana está en la armonía de sus cuatro elementos: el arroz blanco de grano redondo salteado con ajo y laurel moldeado en timbal, una salsa casera de tomate frito reducida pacientemente en aceite de oliva virgen extra, los huevos fritos con puntilla dorada y yema líquida para romper sobre el grano, y el plátano maduro frito que aporta la untuosidad y dulzor justos para equilibrar la acidez del tomate y la riqueza del huevo.",
+    "story": "Surgido en la Cuba colonial del siglo XIX durante el dominio español, este plato nació de la fusión entre las costumbres hispanas y los ingredientes del Caribe. Al regresar a la península, los emigrantes y marineros lo popularizaron como un emblema de la comida familiar y hogareña en toda España.",
     "ingredient_groups": [
       {
         "name": "Arroz Blanco con Ajo y Laurel",
@@ -73208,7 +73208,7 @@
     "calories": "480 kcal",
     "difficulty": "Media",
     "image": "https://lh3.googleusercontent.com/-tvcyoHI9ieg/avwjxL5oWUI/AAAAAAAQCmE/bKnCmsveGmcrsb0xHFAonq6nke9JZ0sLQCNcBGAsYHQ/s1600/fideos_aceite_cebollino.jpg",
-    "story": "Originarios de los callejones residenciales (longtang) de Shanghái a finales de la dinastía Qing (siglo XIX), los Cong You Ban Mian (葱油拌面) son el ícono supremo de la cocina Benbang (la gastronomía tradicional shanghainesa). Nació en los puestos callejeros matutinos del puerto fluvial del río Huangpu como un desayuno rápido y energizante para estibadores y comerciantes. La técnica de infusión a fuego lento de cebollas de verdeo, chalotas, ajo machacado y jengibre fresco se combina con una reducción de soja oscura y clara especiada con anís estrellado, azúcar, salsa de ostras y un toque picante de ají molido, logrando un laqueado brillante, fragante y profundamente umami que baña cada hebra de fideo de trigo.",
+    "story": "Originarios de los callejones residenciales (longtang) de Shanghái a finales de la dinastía Qing (siglo XIX), los Cong You Ban Mian (葱油拌面) son el emblema de la cocina Benbang (gastronomía tradicional de Shanghái). Nacieron en los puestos callejeros matutinos del puerto del río Huangpu como un desayuno rápido y energizante para los trabajadores portuarios y comerciantes.",
     "ingredient_groups": [
       {
         "name": "Fideos de Trigo (Base)",
@@ -73329,7 +73329,7 @@
     "calories": "320 kcal",
     "difficulty": "Media",
     "image": "https://lh3.googleusercontent.com/-2ZMI91V-1Ow/avu8eqAA5PI/AAAAAAAQClg/N2YHink-JeMLTPlz7XqdDldpbNXyD9vMACNcBGAsYHQ/s1600/caldo_tonkotsu_ramen.jpg",
-    "story": "La consagración definitiva del ramen de Hakata: un caldo lechoso, espeso y untuoso cuya magia reside en la física y química del colágeno. Siguiendo la técnica tradicional, combino tres fuentes de colágeno complementarias: rodillas de cerdo por su densidad mineral y médula, manitas de cerdo por su colágeno denso y patas de pollo por su gelatina soluble de rápida extracción. Al hervir a borbotones vigorosos durante horas, el colágeno se hidroliza en gelatina y emulsiona la grasa con el agua, creando esa textura láctea característica sin necesidad de lácteos. Las cebollas quemadas a fuego directo con soplete y el jengibre aportan el dulzor caramelizado y el fondo ahumado que redondea la potencia del cerdo.",
+    "story": "Nacido en 1937 en el puesto callejero Nankin Senryo de la ciudad de Kurume (prefectura de Fukuoka, isla de Kyushu), el caldo Tonkotsu es el pilar indiscutido de la cultura del ramen del sur de Japón. Su característico color blanco y opaco surgió originalmente por un descuido al hervir huesos a fuego vivo descontrolado, creando la emulsión que hoy define la gastronomía de Hakata.",
     "ingredient_groups": [
       {
         "name": "Trilogía de Huesos y Colágeno",
@@ -73402,5 +73402,706 @@
       "base"
     ],
     "diet": []
+  },
+  {
+    "id": 679,
+    "title": "Risotto al Miso con Langostinos de Roca (Estados Unidos)",
+    "category": "Pescados & Mariscos",
+    "country": "Estados Unidos",
+    "prep_time": "20 min",
+    "cook_time": "25 min",
+    "total_time": "45 min",
+    "servings": "4 porciones",
+    "calories": "520 kcal",
+    "difficulty": "Media",
+    "image": "https://lh3.googleusercontent.com/-OYV9KND1hXQ/avxeX_TsmOI/AAAAAAAQCmU/wlMNfouitTYfEWii-xdnvNfFTk0nYScvACNcBGAsYHQ/s1600/risotto_miso_langostinos_roca.jpg",
+    "story": "Plato insignia del restaurante Blue Ginger en Wellesley (Boston), creado por el chef Ming Tsai a principios de los años 2000. Representa la fusión entre la técnica del risotto clásico del norte de Italia con arroz de sushi de grano corto hidratado grano a grano en caldo dashi de miso blanco, coronado con langostinos de roca (rock shrimp) de las costas de Florida.",
+    "ingredient_groups": [
+      {
+        "name": "Arroz y Caldo de Miso Dashi",
+        "ingredients": [
+          "250 g de arroz para sushi de grano corto (o arroz arborio)",
+          "1 litro de caldo dashi caliente con 4 cucharadas de pasta shiro miso blanco disuelta",
+          "1 cebolla pequeña finamente picada en brunoise",
+          "2 dientes de ajo rallados o picados finos",
+          "½ taza de sake seco",
+          "2 cucharadas de aceite de oliva virgen extra"
+        ]
+      },
+      {
+        "name": "Langostinos de Roca y Mantecatura",
+        "ingredients": [
+          "350 g de langostinos de roca pelados (rock shrimp o langostinos limpios en bocados)",
+          "1 taza colmada de hojas de espinaca baby frescas",
+          "2 cucharadas de manteca sin sal bien fría cortada en cubitos",
+          "1 cucharada de aceite neutro para el salteado",
+          "Sal marina fina y pimienta blanca molida al gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Paso 1: Sofrito, nacarado y desglasado",
+        "steps": [
+          "En una cacerola amplia a fuego medio, calentá las 2 cucharadas de aceite de oliva y rehogá la cebolla picada con el ajo rallado durante 3 a 4 minutos hasta que transparenten sin tomar color.",
+          "Agregá el arroz de sushi en seco y nacará durante 1 a 2 minutos removiendo con cuchara de madera hasta que los granos se vuelvan translúcidos y brillantes.",
+          "Verté el sake seco para desglasar el fondo y dejá hervir a fuego vivo hasta que el alcohol se evapore por completo."
+        ]
+      },
+      {
+        "name": "Paso 2: Hidratación con el caldo de miso dashi",
+        "steps": [
+          "Mantené el caldo dashi con miso blanco bien caliente a fuego mínimo en una ollita contigua.",
+          "Comenzá a incorporar el caldo al arroz de a un cucharón por vez, revolviendo suavemente de forma continua para que el almidón se desprenda y cree una crema natural.",
+          "Esperá a que el grano absorba casi todo el líquido antes de verter el siguiente cucharón. Continuá este proceso durante 16 a 18 minutos hasta que el arroz esté cocido al dente."
+        ]
+      },
+      {
+        "name": "Paso 3: Salteado de langostinos y mantecatura final",
+        "steps": [
+          "En una sartén bien caliente aparte con una cucharada de aceite, salteá los langostinos de roca sazonados con sal y pimienta blanca durante 1 a 2 minutos, solo hasta que tomen un tono rosado nacarado y queden tiernos.",
+          "Retirá el risotto del fuego, incorporá las espinacas baby frescas y los langostinos salteados calientes con sus jugos.",
+          "Agregá los cubitos de manteca fría y batí enérgicamente en círculos con la cacerola para lograr una mantecatura cremosa y fluida (all'onda). Serví inmediatamente en cuencos hondos calientes."
+        ]
+      }
+    ],
+    "steps": [
+      "En una cacerola con aceite de oliva a fuego medio, rehogá la cebolla picada y el ajo rallado hasta transparentar sin dorar.",
+      "Incorporá el arroz de sushi y nacará 1-2 minutos removiendo hasta que los granos brillen.",
+      "Desglasá con el sake seco y dejá evaporar completamente el alcohol.",
+      "Agregá el caldo dashi con miso caliente de a un cucharón por vez, revolviendo suavemente y esperando la absorción entre cada adición (16 a 18 minutos hasta el punto al dente).",
+      "Salteá los langostinos de roca en sartén bien caliente con un hilo de aceite durante 1-2 minutos hasta que tomen color rosado.",
+      "Fuera del fuego, sumá las espinacas baby, los langostinos y la manteca fría en cubos; batí enérgicamente para mantecar all'onda y serví en cuencos hondos."
+    ],
+    "notes": "El secreto de Ming Tsai consiste en utilizar arroz de sushi de grano corto en lugar de granos italianos convencionales; el mayor contenido de amilopectina del arroz japonés genera una cremosidad sedosa sin necesidad de crema de leche ni queso parmesano, dejando que el umami del shiro miso y el dashi brillen con total sutileza.",
+    "tags": [
+      "risotto",
+      "ming tsai",
+      "blue ginger",
+      "miso",
+      "dashi",
+      "langostinos",
+      "sushi rice",
+      "fusion",
+      "pescados y mariscos",
+      "estados unidos",
+      "japon"
+    ],
+    "diet": [
+      "Sin Gluten"
+    ],
+    "ingredients": [
+      "250 g de arroz para sushi de grano corto (o arroz arborio)",
+      "1 litro de caldo dashi caliente con 4 cucharadas de pasta shiro miso blanco disuelta",
+      "1 cebolla pequeña finamente picada en brunoise",
+      "2 dientes de ajo rallados o picados finos",
+      "½ taza de sake seco",
+      "2 cucharadas de aceite de oliva virgen extra",
+      "350 g de langostinos de roca pelados (rock shrimp o langostinos limpios en bocados)",
+      "1 taza colmada de hojas de espinaca baby frescas",
+      "2 cucharadas de manteca sin sal bien fría cortada en cubitos",
+      "1 cucharada de aceite neutro para el salteado",
+      "Sal marina fina y pimienta blanca molida al gusto"
+    ]
+  },
+  {
+    "id": 680,
+    "title": "Salsa de Ajo, Jengibre y Cebollino (Fusión)",
+    "category": "Salsas & Condimentos",
+    "country": "Fusión",
+    "prep_time": "10 min",
+    "cook_time": "5 min",
+    "total_time": "15 min",
+    "servings": "500 ml",
+    "calories": "85 kcal por porción",
+    "difficulty": "Fácil",
+    "image": "https://lh3.googleusercontent.com/-kt9lLxQ3wAI/avxmNgSlx7I/AAAAAAAQCmk/9Hy-KiQE4zofCLkMXOnqRPMpqO2zXRbPwCNcBGAsYHQ/s1600/salsa_ajo_jengibre_cebollino.jpg",
+    "story": "Creada por el chef Ming Tsai en su emblemático restaurante Blue Ginger de Wellesley (Massachusetts) a finales de los años 90, esta salsa sintetiza el movimiento culinario East-Meets-West. Nació de la necesidad de trasladar la frescura inmediata de la tríada aromática cantonesa a la agilidad de los salteados rápidos de la cocina contemporánea estadounidense.",
+    "ingredient_groups": [
+      {
+        "name": "Tríada Aromática Fresca",
+        "ingredients": [
+          "1 taza de dientes de ajo picados finos",
+          "½ taza de jengibre fresco picado fino",
+          "3 atados de cebolla de verdeo (partes blancas y verdes cortadas en rodajitas de ½ cm)",
+          "2 a 3 chiles serranos frescos picados con sus semillas"
+        ]
+      },
+      {
+        "name": "Base Líquida y Sazón",
+        "ingredients": [
+          "300 ml de salsa de ostras vegetariana (a base de extracto de hongos) o tradicional",
+          "2 cucharadas de aceite neutro de pepita de uva o girasol",
+          "Sal kosher y pimienta negra recién molida al gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Paso 1: Salteado rápido de los aromáticos",
+        "steps": [
+          "Calentá las 2 cucharadas de aceite en un wok amplio a fuego medio-alto.",
+          "Incorporá el ajo, el jengibre, el verdeo y los chiles serranos picados; salpimentá ligeramente.",
+          "Salteá durante 2 minutos continuos, solo hasta que los aromas se desprendan y los vegetales se ablanden ligeramente, sin permitir que tomen color dorado oscuro."
+        ]
+      },
+      {
+        "name": "Paso 2: Integración y embotellado",
+        "steps": [
+          "Verté la botella completa de salsa de ostras y revolvé enérgicamente.",
+          "Llevá a un hervor suave durante 30 a 45 segundos para que la salsa se homogenice y retirá de inmediato del fuego.",
+          "Dejá enfriar por completo a temperatura ambiente y embotellá en un frasco o botella de vidrio hermética. Conservá refrigerada."
+        ]
+      }
+    ],
+    "steps": [
+      "Calentá el aceite en un wok amplio a fuego medio-alto.",
+      "Incorporá el ajo, el jengibre, el verdeo y los chiles serranos; salpimentá ligeramente y salteá 2 minutos hasta ablandar sin dorar.",
+      "Verté la salsa de ostras completa y cociná a hervor suave durante 30 a 45 segundos removiendo.",
+      "Retirá del fuego, dejá enfriar a temperatura ambiente y guardá en botella hermética en la heladera."
+    ],
+    "notes": "Esta salsa es el as bajo la manga para cualquier salteado exprés al wok: basta agregar 2 o 3 cucharadas sobre vegetales crujientes, pollo, camarones o fideos en los últimos 30 segundos de fuego vivo para lograr una capa brillante, umami y picante sin requerir marinadas previas.",
+    "tags": [
+      "salsa",
+      "ming tsai",
+      "blue ginger",
+      "salteados",
+      "wok",
+      "ajo",
+      "jengibre",
+      "verdeo",
+      "cebollino",
+      "fusion"
+    ],
+    "diet": [
+      "Vegetariano"
+    ],
+    "ingredients": [
+      "1 taza de dientes de ajo picados finos",
+      "½ taza de jengibre fresco picado fino",
+      "3 atados de cebolla de verdeo cortados en rodajas de ½ cm",
+      "2 a 3 chiles serranos frescos picados",
+      "300 ml de salsa de ostras vegetariana o tradicional",
+      "2 cucharadas de aceite neutro de pepita de uva o girasol",
+      "Sal kosher y pimienta negra recién molida al gusto"
+    ]
+  },
+  {
+    "id": 681,
+    "title": "Salsa BBQ Asiática (Fusión)",
+    "category": "Salsas & Condimentos",
+    "country": "Fusión",
+    "prep_time": "15 min",
+    "cook_time": "25 min",
+    "total_time": "40 min",
+    "servings": "750 ml",
+    "calories": "95 kcal por porción",
+    "difficulty": "Fácil",
+    "image": "https://lh3.googleusercontent.com/-91ZvjWf26Z8/avxmPB7nXuI/AAAAAAAQCms/gbuFffkJXH4aQQ0P5CJvQLBJOTEQkqUiACNcBGAsYHQ/s1600/salsa_bbq_asiatica.jpg",
+    "story": "Desarrollada por Ming Tsai en su programa Simply Ming como una de sus 'salsas maestras', esta preparación reinterpreta la tradicional barbacoa del sur de Estados Unidos a través de los condimentos milenarios del este asiático. Representa la fusión entre la cultura de las carnes ahumadas a la parrilla y la despensa cantonesa.",
+    "ingredient_groups": [
+      {
+        "name": "Sofrito Aromático",
+        "ingredients": [
+          "2 cucharadas de aceite neutro",
+          "1 cebolla blanca o amarilla finamente picada",
+          "4 dientes de ajo picados",
+          "2 cucharadas de jengibre fresco picado",
+          "2 cucharadas de porotos negros fermentados chinos (douchi), enjuagados y machacados",
+          "2 cucharadas de pasta de chile Sambal Oelek"
+        ]
+      },
+      {
+        "name": "Base de Reducción y Glaseado",
+        "ingredients": [
+          "1 taza de tomates perita triturados (o salsa de tomate natural)",
+          "½ taza de salsa hoisin",
+          "½ taza de vinagre de arroz",
+          "¼ taza de salsa de soja oscura o tamari",
+          "Jugo recién exprimido de 1 limón",
+          "Sal marina y pimienta negra recién molida al gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Paso 1: Dorado de los aromáticos y porotos fermentados",
+        "steps": [
+          "Calentá el aceite en una cacerola mediana a fuego medio-alto.",
+          "Añadí la cebolla, el ajo, el jengibre, los porotos negros fermentados machacados y el sambal oelek.",
+          "Rehogá durante 6 a 8 minutos, revolviendo con frecuencia, hasta que la cebolla esté dorada y los porotos liberen su aroma profundo y terroso."
+        ]
+      },
+      {
+        "name": "Paso 2: Cocción lenta, emulsionado y terminación",
+        "steps": [
+          "Incorporá los tomates triturados, la salsa hoisin, el vinagre de arroz y la salsa de soja oscura.",
+          "Bajá el fuego al mínimo y dejá reducir a borbotones suaves durante 15 minutos, hasta que espese y tome una tonalidad caoba oscura.",
+          "Retirá del fuego, añadí el jugo de limón y procesá con minipimer o licuadora hasta lograr una textura completamente lisa y untuosa. Rectificá sal y pimienta."
+        ]
+      }
+    ],
+    "steps": [
+      "En una cacerola con aceite a fuego medio-alto, dorá la cebolla, ajo, jengibre, porotos fermentados machacados y sambal oelek durante 6 a 8 minutos.",
+      "Sumá los tomates triturados, la salsa hoisin, el vinagre de arroz y la salsa de soja oscura.",
+      "Cociná a fuego mínimo durante 15 minutos hasta que reduzca a textura untuosa.",
+      "Agregá el jugo de limón, procesá con minipimer hasta dejarla sedosa y guardá en frasco refrigerado."
+    ],
+    "notes": "Los porotos negros fermentados (douchi) aportan la nota de fermentación y fondo añejo que reemplaza al humo artificial de las barbacoas industriales. Usala para pincelar costillas de cerdo, alitas crocantes, pechito asado o tofu firme en los últimos 5 minutos de parrilla.",
+    "tags": [
+      "bbq",
+      "barbacoa",
+      "ming tsai",
+      "simply ming",
+      "fusion",
+      "hoisin",
+      "sambal",
+      "porotos fermentados",
+      "parrilla"
+    ],
+    "diet": [
+      "Vegetariano"
+    ],
+    "ingredients": [
+      "2 cucharadas de aceite neutro",
+      "1 cebolla blanca finamente picada",
+      "4 dientes de ajo picados",
+      "2 cucharadas de jengibre fresco picado",
+      "2 cucharadas de porotos negros fermentados chinos (douchi)",
+      "2 cucharadas de pasta Sambal Oelek",
+      "1 taza de tomates perita triturados",
+      "½ taza de salsa hoisin",
+      "½ taza de vinagre de arroz",
+      "¼ taza de salsa de soja oscura o tamari",
+      "Jugo de 1 limón fresco",
+      "Sal marina y pimienta negra al gusto"
+    ]
+  },
+  {
+    "id": 682,
+    "title": "Salsa Kung Pao Master (China)",
+    "category": "Salsas & Condimentos",
+    "country": "China",
+    "prep_time": "10 min",
+    "cook_time": "10 min",
+    "total_time": "20 min",
+    "servings": "600 ml",
+    "calories": "110 kcal por porción",
+    "difficulty": "Fácil",
+    "image": "https://lh3.googleusercontent.com/-2TwgJFijcEI/avxmQe9L6PI/AAAAAAAQCm0/wue2GeRQuD8b4dCP-d8xZxW6s5AXgKQsQCNcBGAsYHQ/s1600/salsa_kung_pao_master.jpg",
+    "story": "Inspirada en el clásico plato Gong Bao Ji Ding de la provincia de Sichuan creado en honor al gobernador Ding Baozhen durante la dinastía Qing (siglo XIX). Ming Tsai adaptó la fórmula tradicional a un formato maestro embotellable para permitir que el equilibrio agridulce y picante sichuanés se integre al instante en salteados hogareños.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Aromáticos y Fuego",
+        "ingredients": [
+          "3 cucharadas de aceite neutro de pepita de uva o maíz",
+          "3 cucharadas de ajo picado fino",
+          "2 cucharadas de jengibre fresco picado fino",
+          "2 cucharadas de pasta de chile fresco Sambal Oelek"
+        ]
+      },
+      {
+        "name": "Líquidos, Sazón y Ligazón",
+        "ingredients": [
+          "1 taza de salsa de soja oscura naturalmente fermentada",
+          "½ taza de vinagre de arroz natural",
+          "3 cucharadas de azúcar rubia o azúcar de caña",
+          "1 cucharadita de aceite de sésamo tostado",
+          "1 cucharada colmada de almidón de maíz disuelta en 1 cucharada de agua fría (slurry)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Paso 1: Salteado rápido y desglasado",
+        "steps": [
+          "Calentá el aceite en un wok a fuego fuerte.",
+          "Agregá el ajo y el jengibre picados; salteá durante 1 minuto para abrir los aromas.",
+          "Incorporá el sambal oelek y cociná 30 segundos más con ventilación.",
+          "Verté la salsa de soja oscura, el vinagre de arroz y el azúcar; revolvé con cuchara de madera hasta disolver el azúcar por completo."
+        ]
+      },
+      {
+        "name": "Paso 2: Ligado con almidón y acabado brillante",
+        "steps": [
+          "Llevá la mezcla a ebullición franca a fuego medio-alto.",
+          "Verté el almidón de maíz disuelto en un hilo fino mientras batís con batidor de alambre continuamente.",
+          "Herví durante 30 a 45 segundos hasta que la salsa espese, se vuelva translúcida y cubra el dorso de la cuchara con una laca brillante.",
+          "Retirá del fuego, aromatizá con el aceite de sésamo y dejá enfriar antes de almacenar."
+        ]
+      }
+    ],
+    "steps": [
+      "Calentá el aceite en un wok a fuego fuerte y salteá el ajo y el jengibre durante 1 minuto.",
+      "Sumá el sambal oelek y rehogá 30 segundos.",
+      "Desglasá con la salsa de soja oscura, el vinagre de arroz y el azúcar hasta que rompa el hervor.",
+      "Verté el almidón de maíz disuelto en agua batiendo hasta espesar y tornar brillante; retirá del fuego y sumá el aceite de sésamo."
+    ],
+    "notes": "Al tener el almidón de maíz ya incorporado y cocido, esta salsa se adhiere directamente al pollo, cerdo o maní tostado en los últimos 45 segundos de salteado sin requerir preparar ligazones en el momento.",
+    "tags": [
+      "kung pao",
+      "sichuan",
+      "ming tsai",
+      "simply ming",
+      "wok",
+      "picante",
+      "soja oscura",
+      "sambal",
+      "china"
+    ],
+    "diet": [
+      "Vegetariano"
+    ],
+    "ingredients": [
+      "3 cucharadas de aceite neutro",
+      "3 cucharadas de ajo picado",
+      "2 cucharadas de jengibre picado",
+      "2 cucharadas de Sambal Oelek",
+      "1 taza de salsa de soja oscura",
+      "½ taza de vinagre de arroz",
+      "3 cucharadas de azúcar",
+      "1 cucharada de almidón de maíz disuelta en 1 cucharada de agua fría",
+      "1 cucharadita de aceite de sésamo tostado"
+    ]
+  },
+  {
+    "id": 683,
+    "title": "Salsa 3-2-1 para Salteados (Fusión)",
+    "category": "Salsas & Condimentos",
+    "country": "Fusión",
+    "prep_time": "5 min",
+    "cook_time": "6 min",
+    "total_time": "11 min",
+    "servings": "4 porciones",
+    "calories": "120 kcal por porción",
+    "difficulty": "Fácil",
+    "image": "https://lh3.googleusercontent.com/-ZMhknO0eucw/avxmRpkkXcI/AAAAAAAQCm8/P92tGfYEhBo2jq0XrJVMV8WHy9UyFUUDgCNcBGAsYHQ/s1600/salsa_321_salteados.jpg",
+    "story": "Heredada de la cocina casera de la madre de Ming Tsai, Iris Tsai, esta fórmula representa la sabiduría de la cocina familiar china trasplantada a Estados Unidos. Su estructura mnemotécnica se complementa con la técnica clásica francesa de montar salsas con manteca fría al momento del servicio.",
+    "ingredient_groups": [
+      {
+        "name": "Fórmula Mnemotécnica 3-2-1",
+        "ingredients": [
+          "3 cucharadas de vinagre de arroz (o vinagre negro chino Chinkiang)",
+          "2 cucharadas de miel pura de abejas (o azúcar rubia)",
+          "1 cucharada de salsa de soja oscura o tamari"
+        ]
+      },
+      {
+        "name": "Aromáticos y Emulsión Francesa",
+        "ingredients": [
+          "1 cucharada de aceite neutro",
+          "1 cucharada de ajo finamente rallado",
+          "1 cucharada de jengibre fresco finamente rallado",
+          "3 cucharadas de manteca sin sal cortada en cubitos bien fríos de heladera",
+          "Sal marina y pimienta blanca recién molida al gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Paso 1: Mezcla base y reducción a la sartén",
+        "steps": [
+          "En un cuenco pequeño, mezclá las 3 cucharadas de vinagre, las 2 cucharadas de miel y la cucharada de salsa de soja hasta disolver por completo.",
+          "En la sartén o wok donde acabás de sellar langostinos, pollo o verduras, agregá el ajo y el jengibre rallados por 30 segundos con el fuego a tope.",
+          "Verté la mezcla 3-2-1 para desglasar la sartén raspando los jugos del fondo; dejá reducir a fuego medio-alto durante 2 minutos hasta que el líquido merme a la mitad y burbujee denso."
+        ]
+      },
+      {
+        "name": "Paso 2: Montado con manteca fría (Monter au Beurre)",
+        "steps": [
+          "Apagá el fuego o retirá la sartén de la hornalla.",
+          "Agregá los cubitos de manteca helada de a poco mientras agitás la sartén en movimientos circulares continuos.",
+          "La grasa fría emulsionará con los azúcares y el vinagre, creando una salsa dorada, untuosa y brillante. Serví de inmediato sobre la proteína elegida."
+        ]
+      }
+    ],
+    "steps": [
+      "Disolvé el vinagre de arroz, la miel y la salsa de soja en un cuenco.",
+      "En la sartén caliente con el fondo de cocción, salteá el ajo y jengibre rallados 30 segundos.",
+      "Volcá la mezcla 3-2-1 y dejá reducir a fuego medio-alto a la mitad hasta burbujear densa.",
+      "Apagá el fuego, incorporá los cubitos de manteca helada batiendo en círculos para emulsionar y serví."
+    ],
+    "notes": "La proporción 3 partes de vinagre, 2 de dulce y 1 de salada es infalible para memorizar. El secreto técnico está en apagar el fuego antes de sumar la manteca; si hierve con la manteca adentro, la emulsión se corta.",
+    "tags": [
+      "salsa",
+      "ming tsai",
+      "3-2-1",
+      "miel",
+      "vinagre de arroz",
+      "manteca",
+      "monter au beurre",
+      "fusion",
+      "rapida"
+    ],
+    "diet": [
+      "Vegetariano"
+    ],
+    "ingredients": [
+      "3 cucharadas de vinagre de arroz o Chinkiang",
+      "2 cucharadas de miel o azúcar",
+      "1 cucharada de salsa de soja o tamari",
+      "1 cucharada de aceite neutro",
+      "1 cucharada de ajo rallado",
+      "1 cucharada de jengibre rallado",
+      "3 cucharadas de manteca fría en cubos",
+      "Sal marina y pimienta blanca al gusto"
+    ]
+  },
+  {
+    "id": 684,
+    "title": "Glaseado Teriyaki Master (Japón)",
+    "category": "Salsas & Condimentos",
+    "country": "Japón",
+    "prep_time": "10 min",
+    "cook_time": "18 min",
+    "total_time": "28 min",
+    "servings": "300 ml",
+    "calories": "80 kcal por porción",
+    "difficulty": "Fácil",
+    "image": "https://lh3.googleusercontent.com/-hRNXro8QWM0/avxmSi_TGCI/AAAAAAAQCnE/EEcoLOfdf2Q1sv5_6staMxftjrR4B1qGwCNcBGAsYHQ/s1600/glaseado_teriyaki_master.jpg",
+    "story": "El teriyaki se originó en Japón durante el período Edo (siglos XVII-XIX) como técnica de laqueado para pescados grasos a la parrilla. La versión maestra de Ming Tsai incorpora la influencia cítrica norteamericana mediante el uso de naranjas frescas y tamari libre de gluten, representativa de su cocina inclusiva.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Aromáticos",
+        "ingredients": [
+          "1 cucharada de aceite neutro de pepita de uva",
+          "4 dientes de ajo picados finos",
+          "1 cucharada colmada de jengibre fresco picado fino"
+        ]
+      },
+      {
+        "name": "Infusión Cítrica y Reducción",
+        "ingredients": [
+          "1 taza de salsa tamari (salsa de soja 100% libre de gluten)",
+          "Jugo recién exprimido de 2 naranjas frescas",
+          "Ralladura fina de las 2 naranjas",
+          "3 cucharadas de azúcar morena o azúcar rubia",
+          "Pimienta negra recién molida al gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Paso 1: Rehogado aromático y combinación cítrica",
+        "steps": [
+          "Calentá el aceite en una cacerolita a fuego medio.",
+          "Añadí el ajo y el jengibre picados y cociná durante 2 minutos hasta ablandar sin que tomen color marrón.",
+          "Incorporá la salsa tamari, el jugo de naranja colado, la ralladura y el azúcar morena.",
+          "Revolvé hasta disolver el azúcar y llevá a hervor a fuego vivo."
+        ]
+      },
+      {
+        "name": "Paso 2: Reducción almibarada",
+        "steps": [
+          "Bajá el fuego a medio-bajo para mantener un hervor suave y constante.",
+          "Cociná durante 12 a 15 minutos, removiendo ocasionalmente, hasta que el líquido reduzca a la mitad y logre la textura densa de un jarabe espeso.",
+          "Retirá del fuego, sazoná con un toque de pimienta negra y dejá enfriar. Pincelá sobre salmón, pollo o bifes al salir de las brasas."
+        ]
+      }
+    ],
+    "steps": [
+      "En una cacerolita con aceite a fuego medio, rehogá el ajo y el jengibre durante 2 minutos.",
+      "Sumá el tamari, el jugo y ralladura de las naranjas y el azúcar morena; revolvé y llevá a ebullición.",
+      "Cociná a fuego suave 12 a 15 minutos hasta que reduzca a la mitad y adquiera textura de almíbar espeso.",
+      "Retirá del fuego, rectificá sazón y utilizá para glasear carnes o vegetales asados."
+    ],
+    "notes": "Al usar tamari en lugar de salsa de soja común, la salsa es apta para celíacos. Los aceites esenciales de la ralladura de naranja aportan un brillo frutal que corta la riqueza grasa de pescados azules como el salmón o el atún rojo.",
+    "tags": [
+      "teriyaki",
+      "ming tsai",
+      "tamari",
+      "sin gluten",
+      "naranja",
+      "glaseado",
+      "japon",
+      "fusion",
+      "parrilla"
+    ],
+    "diet": [
+      "Sin Gluten",
+      "Vegetariano"
+    ],
+    "ingredients": [
+      "1 cucharada de aceite neutro",
+      "4 dientes de ajo picados",
+      "1 cucharada de jengibre fresco picado",
+      "1 taza de salsa tamari",
+      "Jugo y ralladura de 2 naranjas frescas",
+      "3 cucharadas de azúcar morena",
+      "Pimienta negra al gusto"
+    ]
+  },
+  {
+    "id": 685,
+    "title": "Caldo Dashi con Miso Filtrado (Japón)",
+    "category": "Sopas & Caldos",
+    "country": "Japón",
+    "prep_time": "10 min",
+    "cook_time": "15 min",
+    "total_time": "25 min",
+    "servings": "1 litro",
+    "calories": "35 kcal por taza",
+    "difficulty": "Fácil",
+    "image": "https://lh3.googleusercontent.com/-7TyAjzg1VJs/avxmT7nrR5I/AAAAAAAQCnM/vX5Ny_KbchElI7XuZD8Sm4dFnUJSfKFHACNcBGAsYHQ/s1600/caldo_dashi_miso_filtrado.jpg",
+    "story": "El caldo dashi de alga kombu y copos de bonito deshidratado (katsuobushi) es la piedra basal del sabor umami en Japón desde el período Muromachi. La técnica de filtrar pasta de shiro miso blanco disuelta al momento es la que Ming Tsai adoptó para dar profundidad marina a risottos y fondos de pochado sin utilizar lácteos pesados.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Caldo Dashi Tradicional",
+        "ingredients": [
+          "1 litro de agua mineral pura",
+          "1 lámina de alga Kombu seca (aprox. 10x10 cm, limpia con paño húmedo)",
+          "1 taza colmada de Katsuobushi (copos de bonito seco ahumado)"
+        ]
+      },
+      {
+        "name": "Disolución de Miso y Toque Nobu",
+        "ingredients": [
+          "4 cucharadas colmadas de pasta Shiro Miso (miso blanco suave de fermentación corta)",
+          "2 cucharadas de sake japonés seco"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Paso 1: Extracción del caldo dashi",
+        "steps": [
+          "Colocá el agua mineral y el alga kombu en una olla a fuego bajo.",
+          "Calentá lentamente durante 8 a 10 minutos; justo en el instante en que rompan las primeras burbujas en los bordes (unos 80-85 °C), retirá el kombu con pinzas (hervir el alga amarga el caldo).",
+          "Agregá el katsuobushi de golpe, apagá el fuego de inmediato y dejá reposar 5 minutos sin remover para que los copos decanten al fondo.",
+          "Colá el caldo por un colador fino con lienzo de algodón o papel absorbente."
+        ]
+      },
+      {
+        "name": "Paso 2: Filtrado del Shiro Miso",
+        "steps": [
+          "Mantené el dashi colado a fuego mínimo muy suave en la olla.",
+          "Colocá las 4 cucharadas de shiro miso dentro de un colador metálico de malla fina sumergido hasta la mitad en el caldo caliente.",
+          "Con el lomo de una cuchara, frotá la pasta de miso contra la malla para disolverla uniformemente dentro del caldo sin que caigan grumos sólidos de poroto de soja.",
+          "Sumá el sake seco y mantené caliente a temperatura de servicio para mojar risottos o pochar pescados blancos."
+        ]
+      }
+    ],
+    "steps": [
+      "Calentá el agua con el alga kombu a fuego bajo; retirá el alga antes del punto de hervor.",
+      "Incorporá el katsuobushi, apagá el fuego y dejá infusionar 5 minutos.",
+      "Colá el dashi por lienzo fino y devolvelo a la olla a fuego mínimo.",
+      "Disolvé el shiro miso a través de un colador sumergido con la ayuda de una cuchara, sumá el sake y mantené caliente."
+    ],
+    "notes": "Filtrar el miso a través del colador de malla es la regla de oro de Ming Tsai tomada del chef Nobu Matsuhisa: garantiza que el líquido sea homogéneo y sedoso, evitando los sedimentos terrosos de soja que arruinarían la textura de un risotto o una emulsión fina.",
+    "tags": [
+      "dashi",
+      "miso",
+      "kombu",
+      "katsuobushi",
+      "ming tsai",
+      "japon",
+      "caldo",
+      "umami",
+      "sopas y caldos"
+    ],
+    "diet": [
+      "Sin Gluten"
+    ],
+    "ingredients": [
+      "1 litro de agua mineral",
+      "1 lámina de alga Kombu (10x10 cm)",
+      "1 taza de Katsuobushi en copos",
+      "4 cucharadas de pasta Shiro Miso blanco",
+      "2 cucharadas de sake seco"
+    ]
+  },
+  {
+    "id": 686,
+    "title": "Caldo de Braseado Estilo Lo Shui (China)",
+    "category": "Sopas & Caldos",
+    "country": "China",
+    "prep_time": "15 min",
+    "cook_time": "35 min",
+    "total_time": "50 min",
+    "servings": "1,5 litros",
+    "calories": "115 kcal por taza",
+    "difficulty": "Media",
+    "image": "https://lh3.googleusercontent.com/-V7am7t7vlww/avxmUuj-PjI/AAAAAAAQCnU/Z0LWFgv2-nsz7sKeRGlBTY6fR0WfUie_ACNcBGAsYHQ/s1600/caldo_braseado_lo_shui.jpg",
+    "story": "El Lo Shui (fondo maestro o 'líquido de cocción roja' Hong Shao) es una técnica milenaria de las provincias de Cantón y Fujian donde los caldos aromáticos con soja, vino y especias se conservan y enriquecen cocción tras cocción. Ming Tsai adaptó esta base integrando vino tinto seco y cítricos para braseados largos de carnes nobles.",
+    "ingredient_groups": [
+      {
+        "name": "Líquidos Maestros de Cocción",
+        "ingredients": [
+          "3 tazas de salsa de soja (2 tazas de clara y 1 de oscura)",
+          "1 ½ tazas de vino tinto seco (o vino de arroz Shaoxing)",
+          "1 ½ tazas de agua o caldo de carne ligero",
+          "¾ taza de vinagre balsámico de calidad (o vinagre negro chino Chinkiang)",
+          "400 g de azúcar morena o azúcar rubia"
+        ]
+      },
+      {
+        "name": "Aromáticos y Especias Enteras",
+        "ingredients": [
+          "6 tallos de cebolla de verdeo cortados en bastones de 5 cm",
+          "1 trozo de jengibre fresco de 10 cm cortado en rodajas gruesas",
+          "1 cabeza entera de ajo cortada al medio de forma transversal",
+          "1 naranja mediana cortada en cuartos con su piel",
+          "3 chiles secos rojos enteros",
+          "3 estrellas de anís estrellado",
+          "1 rama de canela en rama (4 cm)",
+          "1 cucharadita de granos enteros de pimienta negra"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Paso 1: Disolución y ensamble de aromáticos",
+        "steps": [
+          "En una olla de hierro fundido (Dutch oven) o cacerola grande pesada, verté la salsa de soja, el vino tinto, el agua, el vinagre balsámico y el azúcar morena.",
+          "Llevá a fuego medio-alto revolviendo hasta que los cristales de azúcar se fundan completamente.",
+          "Incorporá los bastones de verdeo, las rodajas de jengibre, la cabeza de ajo abierta al medio, los cuartos de naranja, el anís estrellado, la canela, los chiles y la pimienta negra."
+        ]
+      },
+      {
+        "name": "Paso 2: Hervor inicial y método de conservación",
+        "steps": [
+          "Llevá el caldo a un hervor vigoroso durante 5 minutos para que las especias liberen sus aceites esenciales.",
+          "Sumergí la pieza de carne dorada previamente (panceta, bondiola o garrón de cordero), tapá herméticamente y cociná a fuego mínimo durante 2 horas y media a 3 horas.",
+          "Al finalizar la cocción de la carne, colá el caldo restante. Dejalo enfriar, desgrásalo en frío y congelalo: este caldo maestro puede reutilizarse indefinidamente, ganando complejidad en cada braseado."
+        ]
+      }
+    ],
+    "steps": [
+      "En una olla pesada mezclá la soja, el vino tinto, el agua, el vinagre balsámico y el azúcar morena hasta disolver.",
+      "Agregá el verdeo, el jengibre en rodajas, la cabeza de ajo cortada al medio, la naranja en cuartos, el anís, la canela y los chiles.",
+      "Herví 5 minutos para extraer los aromas de las especias antes de incorporar la carne para su braseado lento.",
+      "Colá el caldo tras la cocción, desgrásalo en frío y conservalo para reutilizarlo como fondo maestro de braseado."
+    ],
+    "notes": "En la tradición culinaria china, un buen fondo Lo Shui se hereda de generación en generación; cada nueva carne que se cocina en él enriquece el perfil gelatinoso y aromático del líquido. El aporte del vinagre balsámico y la naranja de Ming Tsai le da una acidez frutal que armoniza a la perfección con cortes grasos de cerdo.",
+    "tags": [
+      "lo shui",
+      "fondo maestro",
+      "braseado",
+      "red cooking",
+      "ming tsai",
+      "china",
+      "anís estrellado",
+      "canela",
+      "especias",
+      "cerdo"
+    ],
+    "diet": [
+      "Sin Lácteos"
+    ],
+    "ingredients": [
+      "3 tazas de salsa de soja (mezcla clara y oscura)",
+      "1 ½ tazas de vino tinto seco o Shaoxing",
+      "1 ½ tazas de agua o caldo",
+      "¾ taza de vinagre balsámico o Chinkiang",
+      "400 g de azúcar morena",
+      "6 tallos de cebolla de verdeo",
+      "1 trozo grande de jengibre fresco en rodajas",
+      "1 cabeza entera de ajo",
+      "1 naranja en cuartos",
+      "3 chiles secos",
+      "3 estrellas de anís estrellado",
+      "1 rama de canela",
+      "1 cucharadita de pimienta negra en grano"
+    ]
   }
 ]
