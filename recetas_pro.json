@@ -74217,12 +74217,12 @@
     "calories": "560 kcal por porción",
     "difficulty": "Media",
     "image": "https://lh3.googleusercontent.com/-1tU0eU0Pavw/avxu3A4chCI/AAAAAAAQCoo/r5z-iJyKeEYdfp2TaFauuJ3179whyIA2QCNcBGAsYHQ/s1600/risotto_trufado_chorizo.jpg",
-    "story": "Una creación de autor que fusiona la técnica noble del risotto del norte italiano con los sabores más viscerales de la cocina criolla argentina: el chorizo parrillero y la cebolla asada al horno. La incorporación del aroma profundo de la trufa negra aporta una dimensión terrosa que eleva los jugos grasos y especiados del chorizo, logrando un diálogo entre la cocina de bodegón y la alta gastronomía.",
+    "story": "Una creación de autor que fusiona la técnica noble del risotto del norte italiano con los sabores más intensos de la cocina criolla e ibérica: el chorizo colorado curado al pimentón y la cebolla asada al horno. La incorporación del aroma profundo de la trufa negra aporta una dimensión terrosa que eleva los jugos especiados del chorizo colorado, logrando un diálogo entre la cocina tradicional y la alta gastronomía.",
     "ingredient_groups": [
       {
-        "name": "Horneado de Cebollas y Crumble de Chorizo",
+        "name": "Horneado de Cebollas y Crumble de Chorizo Colorado",
         "ingredients": [
-          "3 chorizos parrilleros de puro cerdo (sin piel y desmenuzados a mano)",
+          "2 a 3 chorizos colorados de buena calidad (sin piel y desmenuzados/picados a mano en trozos rústicos)",
           "3 cebollas medianas enteras con su piel",
           "1 chorrito fino de aceite de oliva virgen extra"
         ]
@@ -74257,12 +74257,12 @@
     ],
     "step_groups": [
       {
-        "name": "Paso 1: Asado lento de chorizo y cebollas al horno (Crumble y Puré)",
+        "name": "Paso 1: Asado lento de chorizo colorado y cebollas al horno (Crumble y Puré)",
         "steps": [
           "Precalentá el horno a 180 °C.",
-          "En una asadera, disponé las cebollas enteras con su piel y, a los costados, el relleno desmenuzado de los chorizos en trozos irregulares con un hilo de oliva.",
-          "Horneá durante unos 50 a 60 minutos: el chorizo se desgrasará quedando crocante como un crumble rústico, y las cebollas quedarán tiernas y dulces en su corazón.",
-          "Retirá del horno. Escurrí el crumble de chorizo sobre papel absorbente para secar y maximizar la textura crocante. Pelá las cebollas tibias (la cáscara sale sola) y pisá la pulpa caramelizada con tenedor hasta hacer un puré dulce."
+          "En una asadera, disponé las cebollas enteras con su piel y, a los costados, el chorizo colorado desmenuzado en trocitos rústicos con un hilo de oliva.",
+          "Horneá durante unos 45 a 50 minutos: el chorizo colorado se tostará desgrasando y soltando sus aceites de pimentón, quedando como un crumble crujiente y crocante de color rubí intenso, mientras las cebollas quedarán tiernas y dulces en su corazón.",
+          "Retirá del horno. Escurrí el crumble de chorizo colorado sobre papel absorbente para secar y maximizar su textura crujiente. Pelá las cebollas tibias y pisá la pulpa caramelizada con tenedor hasta hacer un puré dulce."
         ]
       },
       {
@@ -74294,17 +74294,17 @@
       }
     ],
     "steps": [
-      "Horneá las cebollas enteras con piel y el chorizo desmenuzado a 180 °C durante 50-60 minutos hasta que el chorizo quede crocante y las cebollas tiernas.",
+      "Horneá las cebollas enteras con piel y el chorizo colorado desmenuzado a 180 °C durante 45-50 minutos hasta que el chorizo quede crocante como crumble y las cebollas tiernas.",
       "Escurrí el chorizo sobre papel absorbente y hacé un puré con la pulpa de las cebollas asadas.",
       "Infusioná a fuego mínimo la cebolla picada con agua y vinagre de alcohol blanco durante 3 minutos; sumá la manteca a fuego bajo para atrapar los aromas sin quemar.",
       "Tostá el arroz Carnaroli en seco con aceite y una cucharada de manteca infusionada durante 2-3 minutos; desglasá con vino blanco seco.",
       "Cociná con caldo hirviendo de a un cucharón por vez durante 16-18 minutos, sumando el puré de cebollas asadas a mitad de cocción.",
-      "Fuera del fuego, sumá la manteca fría infusionada, queso rallado y aceite de trufa; tapá 2 minutos y batí all'onda. Serví con el crumble crujiente de chorizo por encima."
+      "Fuera del fuego, sumá la manteca fría infusionada, queso rallado y aceite de trufa; tapá 2 minutos y batí all'onda. Serví con el crumble crujiente de chorizo colorado por encima."
     ],
-    "notes": "Se utiliza exclusivamente vinagre de alcohol blanco: su acidez neutra abre las células de la cebolla para liberar sus azúcares y sulfuros sin transferir aromas a frutas o vino que ensuciarían la manteca. El crumble de chorizo por encima aporta el contrapunto crujiente a la suntuosidad del arroz trufado.",
+    "notes": "El uso de chorizo colorado curado con pimentón es el alma del plato: al hornearse desgrasado se convierte en un crumble crujiente y aromático que contrasta con la suntuosidad del risotto trufado. Se utiliza exclusivamente vinagre de alcohol blanco: su acidez neutra abre las células de la cebolla para liberar sus azúcares y sulfuros sin transferir aromas a frutas o vino que ensuciarían la manteca.",
     "tags": [
       "risotto",
-      "chorizo",
+      "chorizo colorado",
       "trufa",
       "cebolla asada",
       "autor",
@@ -74317,7 +74317,7 @@
       "Sin Gluten"
     ],
     "ingredients": [
-      "3 chorizos parrilleros de puro cerdo desmenuzados",
+      "2 a 3 chorizos colorados de buena calidad (sin piel y desmenuzados)",
       "3 cebollas medianas enteras con piel",
       "320 g de arroz Carnaroli o Arborio",
       "80 g de manteca sin sal en cubos",
