@@ -72930,7 +72930,7 @@
     "step_groups": [
       {
         "name": "Paso 1: Horneado del crumble arenado",
-        "instructions": [
+        "steps": [
           "En un bowl, combiná la harina 0000, la harina de almendras, el azúcar rubia y la pizca de sal marina.",
           "Agregá los cubos de manteca bien fría y pellizcá con la punta de los dedos hasta lograr un arenado parejo y fino, sin amasar ni calentar la materia grasa.",
           "Distribuí el arenado en una placa con papel manteca y horneá a 170 °C durante 12 a 15 minutos hasta que adquiera un tono rubio dorado uniforme. Retirá del horno y dejá enfriar por completo para que quede bien seco y crujiente."
@@ -72938,7 +72938,7 @@
       },
       {
         "name": "Paso 2: Cocción de la brunoise de manzana",
-        "instructions": [
+        "steps": [
           "Pelá las manzanas verdes, retirá el centro y cortalas con cuchillo afilado en cubos prolijos y milimétricos de aproximadamente 5 mm (corte brunoise parejo).",
           "En una sartén a fuego medio, fundí los 40 g de manteca, incorporá los cubitos de manzana y rociá con el jugo de limón.",
           "Espolvoreá el azúcar rubia y la canela. Salteá a fuego suave durante 8 a 10 minutos moviendo con espátula: la manzana debe ablandarse y quedar translúcida pero firme, manteniendo la forma cúbica y ligada por un almíbar espeso y brillante sin llegar a puré. Retirá del fuego."
@@ -72946,7 +72946,7 @@
       },
       {
         "name": "Paso 3: Moldeado del lingote y emplatado sobre pizarra",
-        "instructions": [
+        "steps": [
           "Colocá un aro o molde rectangular de pastelería (lingotera de aproximadamente 10 x 4 cm) directamente sobre el plato o pizarra de servicio.",
           "Rellená el molde con la manzana tibia en brunoise, presionando suave y parejamente con el dorso de una cuchara pequeña para compactar los cubitos sin aplastarlos.",
           "Cubrí la superficie superior con una capa generosa y prolija del crumble arenado horneado, emparejando los bordes.",
@@ -72969,6 +72969,19 @@
     ],
     "diet": [
       "Vegetariano"
+    ],
+    "steps": [
+      "En un bowl, combiná la harina 0000, la harina de almendras, el azúcar rubia y la pizca de sal marina.",
+      "Agregá los cubos de manteca bien fría y pellizcá con la punta de los dedos hasta lograr un arenado parejo y fino, sin amasar ni calentar la materia grasa.",
+      "Distribuí el arenado en una placa con papel manteca y horneá a 170 °C durante 12 a 15 minutos hasta que adquiera un tono rubio dorado uniforme. Retirá del horno y dejá enfriar por completo para que quede bien seco y crujiente.",
+      "Pelá las manzanas verdes, retirá el centro y cortalas con cuchillo afilado en cubos prolijos y milimétricos de aproximadamente 5 mm (corte brunoise parejo).",
+      "En una sartén a fuego medio, fundí los 40 g de manteca, incorporá los cubitos de manzana y rociá con el jugo de limón.",
+      "Espolvoreá el azúcar rubia y la canela. Salteá a fuego suave durante 8 a 10 minutos moviendo con espátula: la manzana debe ablandarse y quedar translúcida pero firme, manteniendo la forma cúbica y ligada por un almíbar espeso y brillante sin llegar a puré. Retirá del fuego.",
+      "Colocá un aro o molde rectangular de pastelería (lingotera de aproximadamente 10 x 4 cm) directamente sobre el plato o pizarra de servicio.",
+      "Rellená el molde con la manzana tibia en brunoise, presionando suave y parejamente con el dorso de una cuchara pequeña para compactar los cubitos sin aplastarlos.",
+      "Cubrí la superficie superior con una capa generosa y prolija del crumble arenado horneado, emparejando los bordes.",
+      "Retirá el molde deslizándolo hacia arriba con cuidado: el lingote quedará con sus paredes rectas de manzana visible y su techo crocante.",
+      "Al lado derecho del lingote, colocá una pizca de crumble sobre la pizarra y apoyá encima una quenelle perfecta de helado de crema americana bien frío. Serví de inmediato para disfrutar el contraste de temperaturas."
     ]
   },
   {
@@ -73025,14 +73038,14 @@
     "step_groups": [
       {
         "name": "Paso 1: Amasado de la carne especiada",
-        "instructions": [
+        "steps": [
           "En un bowl amplio, colocá la carne picada con la cebolla rallada bien escurrida, el ajo, el perejil y todas las especias (comino, pimentón, coriandro, chile, sal y pimienta).",
           "Amasá enérgicamente con la mano durante 2 a 3 minutos: este amasado desarrolla la proteína (miosina) de la carne, volviéndola compacta y elástica para que no se desarme ni se separe de las tortillas."
         ]
       },
       {
         "name": "Paso 2: Laminado y armado de las brochetas",
-        "instructions": [
+        "steps": [
           "Apoyá una tortilla de trigo sobre la tabla. Untá una capa pareja y delgada de carne cruda de borde a borde (unos 3 a 4 mm de espesor).",
           "Cubrí con otra tortilla, presioná firmemente con las palmas y volvé a untar carne. Repetí hasta completar 3 o 4 capas de carne y tortilla.",
           "Con un cuchillo afilado de chef, emparejá los cuatro lados para lograr un bloque cuadrado.",
@@ -73042,7 +73055,7 @@
       },
       {
         "name": "Paso 3: Cocción crujiente a la plancha",
-        "instructions": [
+        "steps": [
           "Calentá una plancha o sartén de hierro a fuego medio-fuerte con un hilo fino de aceite de oliva.",
           "Disponé las brochetas y doralas durante 2 a 3 minutos por lado, girándolas para sellar los 4 costados: la grasa de la carne se transferirá a la tortilla dorándola hasta dejarla súper crocante mientras la carne se cocina a punto jugoso.",
           "Retirá de la plancha y dejá reposar 1 minuto."
@@ -73050,7 +73063,7 @@
       },
       {
         "name": "Paso 4: Salsa de yogur y emplatado",
-        "instructions": [
+        "steps": [
           "En el vaso del mixer o procesadora, colocá el yogur griego, el jalapeño en rodajas, el cilantro, la menta, el ajo, el jugo de lima, el aceite de oliva y la sal. Procesá hasta obtener una salsa cremosa verde brillante y sedosa.",
           "Serví las brochetas calientes sobre una fuente o tabla junto al cuenco de salsa fresca de yogur, gajos de lima y ensalada de tomate y cebolla morada."
         ]
@@ -73068,6 +73081,119 @@
       "comida callejera",
       "oriental"
     ],
-    "diet": []
+    "diet": [],
+    "steps": [
+      "En un bowl amplio, colocá la carne picada con la cebolla rallada bien escurrida, el ajo, el perejil y todas las especias (comino, pimentón, coriandro, chile, sal y pimienta).",
+      "Amasá enérgicamente con la mano durante 2 a 3 minutos: este amasado desarrolla la proteína (miosina) de la carne, volviéndola compacta y elástica para que no se desarme ni se separe de las tortillas.",
+      "Apoyá una tortilla de trigo sobre la tabla. Untá una capa pareja y delgada de carne cruda de borde a borde (unos 3 a 4 mm de espesor).",
+      "Cubrí con otra tortilla, presioná firmemente con las palmas y volvé a untar carne. Repetí hasta completar 3 o 4 capas de carne y tortilla.",
+      "Con un cuchillo afilado de chef, emparejá los cuatro lados para lograr un bloque cuadrado.",
+      "Cortá el bloque en tiras parejas de unos 3 a 4 cm de ancho.",
+      "Ensartá cada tira a lo largo por el centro con una brocheta o palillo de madera, asegurando que las capas de carne y masa queden bien compactadas.",
+      "Calentá una plancha o sartén de hierro a fuego medio-fuerte con un hilo fino de aceite de oliva.",
+      "Disponé las brochetas y doralas durante 2 a 3 minutos por lado, girándolas para sellar los 4 costados: la grasa de la carne se transferirá a la tortilla dorándola hasta dejarla súper crocante mientras la carne se cocina a punto jugoso.",
+      "Retirá de la plancha y dejá reposar 1 minuto.",
+      "En el vaso del mixer o procesadora, colocá el yogur griego, el jalapeño en rodajas, el cilantro, la menta, el ajo, el jugo de lima, el aceite de oliva y la sal. Procesá hasta obtener una salsa cremosa verde brillante y sedosa.",
+      "Serví las brochetas calientes sobre una fuente o tabla junto al cuenco de salsa fresca de yogur, gajos de lima y ensalada de tomate y cebolla morada."
+    ]
+  },
+  {
+    "id": 676,
+    "title": "Arroz a la Cubana (España)",
+    "category": "Arroces & Legumbres",
+    "country": "España",
+    "prep_time": "15 min",
+    "cook_time": "20 min",
+    "total_time": "35 min",
+    "servings": "4 porciones",
+    "calories": "460 kcal",
+    "difficulty": "Fácil",
+    "image": "https://lh3.googleusercontent.com/-quU46SiRMyo/avugyOemQhI/AAAAAAAQClM/aHfWogsnfvgbc7zAoYgE2DRcsm0Ld7SUQCNcBGAsYHQ/s1600/arroz_a_la_cubana.jpg",
+    "story": "Uno de los platos más emblemáticos de la cocina casera hispana. Aunque su nombre remite a la Cuba colonial del siglo XIX, se arraigó en España como el gran clásico del confort familiar. La magia del arroz a la cubana está en la armonía de sus cuatro elementos: el arroz blanco de grano redondo salteado con ajo y laurel moldeado en timbal, una salsa casera de tomate frito reducida pacientemente en aceite de oliva virgen extra, los huevos fritos con puntilla dorada y yema líquida para romper sobre el grano, y el plátano maduro frito que aporta la untuosidad y dulzor justos para equilibrar la acidez del tomate y la riqueza del huevo.",
+    "ingredient_groups": [
+      {
+        "name": "Arroz Blanco con Ajo y Laurel",
+        "ingredients": [
+          "300 g de arroz blanco de grano redondo",
+          "2 dientes de ajo enteros aplastados",
+          "1 hoja de laurel",
+          "650 ml de agua caliente",
+          "2 cucharadas de aceite de oliva virgen extra",
+          "1 cucharadita de sal fina"
+        ]
+      },
+      {
+        "name": "Salsa Casera de Tomate Frito",
+        "ingredients": [
+          "500 g de tomate perita triturado natural",
+          "1 cebolla pequeña picada fina",
+          "1 diente de ajo picado",
+          "3 cucharadas de aceite de oliva virgen extra",
+          "1/2 cucharadita de azúcar",
+          "Sal y pimienta negra recién molida"
+        ]
+      },
+      {
+        "name": "Huevos y Plátano Caramelizado",
+        "ingredients": [
+          "4 huevos frescos de campo (o 2 por persona)",
+          "2 plátanos maduros (o bananas de piel moteada) cortados al medio a lo largo",
+          "Abundante aceite de oliva virgen extra para freír"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Paso 1: Cocción del arroz blanco con ajo y laurel",
+        "steps": [
+          "En una cacerola mediana a fuego medio, calentá las 2 cucharadas de oliva con los 2 dientes de ajo aplastados y el laurel. Cuando el ajo empiece a dorarse y perfumar, incorporá el arroz y nacaralo durante 1 minuto revolviendo para impregnar cada grano.",
+          "Verté el agua caliente y la cucharadita de sal. Cociná a fuego fuerte hasta romper hervor, bajá a fuego suave, tapá y cociná durante 15 a 17 minutos hasta que el líquido se absorba por completo.",
+          "Apagá el fuego, retirá el laurel y dejá reposar 3 minutos tapado."
+        ]
+      },
+      {
+        "name": "Paso 2: La salsa de tomate frito casera",
+        "steps": [
+          "En una sartén con las 3 cucharadas de oliva a fuego medio, pochá la cebolla y el ajo picado con una pizca de sal durante 6 a 8 minutos hasta que la cebolla quede transparente y dulce.",
+          "Incorporá el tomate triturado, el azúcar, pimienta y sal. Cociná a fuego bajo durante 15 a 20 minutos moviendo de vez en cuando, hasta que el tomate reduzca, espese y el aceite de oliva comience a asomar en la superficie (el clásico tomate frito español)."
+        ]
+      },
+      {
+        "name": "Paso 3: Fritura del plátano y huevos con puntilla",
+        "steps": [
+          "En una sartén con 2 o 3 cucharadas de oliva a fuego medio-alto, dorá los medios plátanos maduros durante 2 o 3 minutos por lado hasta que adquieran un color caoba dorado y caramelizado. Retirá sobre papel absorbente.",
+          "En abundante aceite de oliva bien caliente, freí los huevos de a uno: con la cuchara bañá la clara con aceite caliente para inflarla y lograr la tradicional puntilla crocante en los bordes, manteniendo la yema líquida y tierna."
+        ]
+      },
+      {
+        "name": "Paso 4: Montaje del plato tradicional",
+        "steps": [
+          "Enjuagá una taza pequeña o flanerita con unas gotas de agua o aceite, llenala de arroz presionando suavemente y desmoldá en el plato para formar un montículo o timbal perfecto.",
+          "Salseá la parte superior del arroz con abundante tomate frito caliente.",
+          "Apoyá el huevo frito al lado del arroz y acompañá con las mitades de plátano dorado caramelizado."
+        ]
+      }
+    ],
+    "steps": [
+      "En una cacerola con oliva, dorá los dientes de ajo aplastados y el laurel; nacará el arroz 1 minuto, añadí el agua caliente con sal y cociná tapado a fuego bajo 15-17 minutos.",
+      "Para la salsa, pochá cebolla y ajo en oliva, añadí el tomate triturado y azúcar, cocinando a fuego lento 20 minutos hasta que espese y corte el aceite.",
+      "Dorá los plátanos maduros en rodajas longitudinales en sartén hasta que caramelicen.",
+      "Freí los huevos en oliva bien caliente logrando bordes crocantes con puntilla y yema líquida.",
+      "Emplatá el arroz moldeado en timbal, cubrilo con salsa de tomate frito y acompañá con el huevo frito y el plátano dorado."
+    ],
+    "notes": "La yema debe quedar completamente fluida: al hundir el tenedor en la mesa, la yema se funde con el tomate frito y el arroz, creando una emulsión cremosa irresistible. El plátano debe ser maduro (con manchitas oscuras) para que caramelice sus azúcares naturales en la fritura.",
+    "tags": [
+      "arroz",
+      "huevo",
+      "platano",
+      "tomate",
+      "confort",
+      "casero",
+      "española",
+      "economico"
+    ],
+    "diet": [
+      "Vegetariano"
+    ]
   }
 ]

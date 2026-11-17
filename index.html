@@ -3034,7 +3034,7 @@
           <div class="step-group-img" style="margin: 14px 0 16px 0; text-align: center;">
             <img src="${sg.image}" alt="${sgName || 'Paso'}" style="width:100%; max-width:680px; height:auto; border-radius:10px; box-shadow:0 4px 14px rgba(0,0,0,0.09); display:block; margin:0 auto;" loading="lazy" />
           </div>` : '';
-        const stepItems = sg.steps || sg.items || [];
+        const stepItems = sg.steps || sg.items || sg.instructions || [];
         return `
         ${(sgName && sgName.toLowerCase() !== 'preparación')
           ? `<div class="group-subtitle">${sgName}</div>`
