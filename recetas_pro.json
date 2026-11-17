@@ -51484,143 +51484,119 @@
   },
   {
     "id": 471,
-    "title": "Postre Chajá de Paysandú (Uruguay)",
+    "title": "Postre Chajá (Uruguay)",
+    "original_title": "Postre Chajá",
     "country": "Uruguay",
+    "flag": "🇺🇾",
+    "region": "Paysandú / Río de la Plata",
     "category": "Postres & Dulces",
-    "tags": [
-      "Uruguay",
-      "Paysandú",
-      "Postre Chajá",
-      "Postres",
-      "Merengue",
-      "Dulce de Leche",
-      "Chantilly",
-      "Duraznos",
-      "Clásicos Rioplatenses",
-      "Repostería Tradicional",
-      "Tradicional"
-    ],
-    "prep_time": "45 min",
+    "subcategory": "Tortas & Pastelería",
+    "difficulty": "Intermedia",
+    "prep_time": "35 min",
     "cook_time": "30 min",
-    "rest_time": "4 h (refrigeración)",
-    "temperature": "170 °C (horno)",
-    "servings": "10 a 12 porciones",
-    "calories": "395 kcal por porción",
-    "diet_badges": [
-      "Vegetariano",
-      "Clásico Rioplatense",
-      "Patrimonio Gastronómico"
-    ],
-    "story": "El Postre Chajá es el emblema dulce más célebre de la República Oriental del Uruguay, creado el 23 de mayo de 1927 por don Orlando Rivera, maestro confitero y propietario de la mítica Confitería Las Familias en la ciudad de Paysandú. Rivera concibió un postre que desafiara la pesadez de la pastelería colonial de la época, inspirándose en la fisonomía del 'chajá' (Chauna torquata), ave autóctona de los humedales del litoral del río Uruguay conocida por su abundante y vaporoso plumaje grisáceo y su cuerpo llamativamente liviano al vuelo. La genialidad de Rivera radicó en combinar tres pilares: un bizcochuelo genovés sumamente esponjoso y aireado humedecido con almíbar suave, una doble capa untuosa de dulce de leche repostero y crema chantilly perfumada con vainilla y trozos de duraznos en almíbar, y una cobertura exterior completa tapizada de merengue seco casero quebrado a mano. Al degustarlo, el contraste es sublime: la fragilidad crujiente del merengue se funde de inmediato con la sedosidad de la crema, la acidez frutal del durazno y la profundidad láctea y acaramelada del dulce de leche.",
+    "total_time": "1 hora 5 min",
+    "servings": "10 porciones",
+    "calories": "390 kcal por porción",
+    "image": "https://lh3.googleusercontent.com/-vQnxa8WS0Uw/avydHv7BvjI/AAAAAAAQCtE/C3FvizEa9iMrq-YNv2ZI9GsCwoe8eZwkwCNcBGAsYHQ/s1600/postre_chaja_uruguay.jpg",
+    "source": "Orlando Castelluccio (Confitería Las Familias, Paysandú, 1927)",
+    "source_url": "",
+    "story": "El Postre Chajá fue creado el 23 de mayo de 1927 por don Orlando Castelluccio en la emblemática Confitería Las Familias de la ciudad de Paysandú, Uruguay. Inspirado en el ave autóctona de las lagunas rioplatenses por su plumaje blanco, abundante y liviano que evocan las capas de merengue desmenuzado, se convirtió en el mayor ícono dulce del país y en un postre entrañable adoptado en las celebraciones familiares de toda la región.",
     "ingredient_groups": [
       {
-        "name": "Bizcochuelo Genovés Clásico",
-        "items": [
-          "4 unidades de Huevos grandes a temperatura ambiente (Clave batir a punto cinta o letra)",
-          "120 g de Azúcar común refinada (Agregada en forma de lluvia)",
-          "120 g de Harina de trigo 0000 tamizada (Integrada con espátula y movimientos envolventes)",
-          "1 cdta de Esencia pura de vainilla (Aromatizante)",
-          "1 g de Pizca de sal (Para estabilizar el batido)"
+        "name": "Para el Bizcochuelo Clásico",
+        "ingredients": [
+          "4 huevos frescos",
+          "120 g de azúcar común",
+          "120 g de harina leudante (o harina 0000 con 1 cucharadita de polvo para hornear)",
+          "1 pizca de sal fina",
+          "1 cucharadita de esencia de vainilla"
         ]
       },
       {
-        "name": "Almíbar Ligero de Humectación",
-        "items": [
-          "150 ml de Almíbar de la lata de duraznos (Aporta aroma frutal directo)",
-          "50 ml de Agua mineral (Para aligerar dulzor)",
-          "1 cda de Cognac o ron añejo (opcional) (Toque tradicional de confitería)"
+        "name": "Para el Relleno y Cobertura",
+        "ingredients": [
+          "1 lata grande de duraznos en almíbar (820 g, peso escurrido ~480 g)",
+          "500 ml de crema de leche fresca bien fría",
+          "50 g de azúcar impalpable",
+          "200 g de merengues secos (merenguitos de panadería)"
         ]
       },
       {
-        "name": "Rellenos y Fruta",
-        "items": [
-          "400 g de Dulce de leche repostero uruguayo (Denso y de corte limpio)",
-          "600 ml de Crema de leche fresca (tenor graso >36%) (Bien fría para montar firme)",
-          "90 g de Azúcar impalpable (glas) (Para endulzar la chantilly)",
-          "1 cdta de Esencia de vainilla (Para la crema)",
-          "400 g de Duraznos amarillos en almíbar escurridos (Cortados en cubos pequeños (reservar 2 mitades para decorar))"
-        ]
-      },
-      {
-        "name": "Cobertura de Merengue Crocante",
-        "items": [
-          "250 g de Discos o merenguitos secos caseros (Merengue seco tradicional al horno bajo, desgranado toscamente con las manos)"
+        "name": "Para la Decoración",
+        "ingredients": [
+          "Gajos de durazno en almíbar para la cubierta",
+          "Merengues secos desmenuzados para cubrir tapa y laterales"
         ]
       }
+    ],
+    "ingredients": [
+      "4 huevos frescos",
+      "120 g de azúcar común",
+      "120 g de harina leudante",
+      "1 pizca de sal",
+      "1 cucharadita de esencia de vainilla",
+      "1 lata grande de duraznos en almíbar",
+      "500 ml de crema de leche fresca",
+      "50 g de azúcar impalpable",
+      "200 g de merengues secos",
+      "Gajos de durazno para decorar"
     ],
     "step_groups": [
       {
-        "name": "1. Elaboración del Bizcochuelo Genovés",
+        "name": "Elaboración del Bizcochuelo Esponjoso",
         "steps": [
-          "Enmantecar y enharinar un molde desmontable de 22 cm de diámetro. En un bol amplio, batir con batidora eléctrica los 4 huevos con el azúcar y la pizca de sal durante 8 a 10 minutos continuos hasta alcanzar el 'punto letra' (la masa triplica su volumen, adquiere un tono marfil claro y al levantar las varillas se puede escribir una letra que no se borra por 5 segundos). (Consejo: La elasticidad del batido es el único leudante; no necesita polvo de hornear.)",
-          "Incorporar la esencia de vainilla. Añadir la harina tamizada en tres tandas, mezclando con una espátula de goma mediante movimientos envolventes lentos desde el fondo hacia los bordes, cuidando de no desinflar el aire atrapado. (Consejo: Gira el bol mientras mueves la espátula en círculos envolventes.)",
-          "Verter la preparación en el molde y hornear a 170 °C durante 25 a 30 minutos, hasta que al insertar un palillo en el centro salga completamente seco y la superficie esté dorada. Retirar, dejar entibiar 10 minutos sobre rejilla, desmoldar y dejar enfriar por completo. Luego cortar horizontalmente en 3 discos parejos. (Consejo: Es ideal preparar el bizcochuelo el día anterior para que al cortarlo no se desmigue.)"
+          "En un bowl amplio, batí los 4 huevos con los 120 g de azúcar y la esencia de vainilla con batidora eléctrica a velocidad alta durante 8 a 10 minutos, hasta alcanzar el 'punto letra' o punto cinta (la preparación triplica su volumen, se torna casi blanca y permite dibujar trazos que no se borran al caer).",
+          "Tamizá la harina leudante junto con la pizca de sal e incorporala en dos partes al batido de huevos, integrando con espátula de goma mediante movimientos envolventes suaves de abajo hacia arriba para no perder el aire acumulado.",
+          "Volcá la mezcla en un molde desmontable de 22 a 24 cm de diámetro previamente enmantecado y enharinado.",
+          "Llevá a horno precalentado a 180 °C y horneá durante 25 a 30 minutos, hasta que al insertar un palillo en el centro salga seco y limpio. Dejá enfriar sobre rejilla y cortalo transversalmente en dos capas parejas."
         ]
       },
       {
-        "name": "2. Crema Chantilly y Preparación de Rellenos",
+        "name": "Preparación del Relleno y Chantilly",
         "steps": [
-          "Colocar el bol y las paletas de la batidora en el congelador durante 15 minutos. Verter la crema de leche bien fría junto con el azúcar impalpable tamizado y la vainilla. Batir a velocidad media-alta hasta obtener una crema chantilly de picos sostenidos y textura densa, deteniendo inmediatamente para evitar que se corte en manteca. (Consejo: Separar un tercio de la chantilly para el relleno y los dos tercios restantes para cubrir el exterior.)",
-          "Picar los duraznos escurridos en cubos de 1 cm y secarlos ligeramente con papel absorbente para que no desprendan exceso de líquido sobre la crema. En un recipiente aparte, mezclar el almíbar de durazno con el agua y el licor. (Consejo: Secar los duraznos evita que la crema pierda consistencia con las horas.)"
+          "Escurrí los duraznos en almíbar reservando todo su líquido para humedecer. Cortá la mitad de los duraznos en cubitos pequeños para el interior y reservá los mejores gajos para decorar la superficie.",
+          "En un bowl bien frío, batí la crema de leche junto con los 50 g de azúcar impalpable hasta obtener una crema chantilly bien firme y sostenida.",
+          "Rompé con las manos 150 g de los merengues secos dejando trozos medianos y rústicos (no los hagas polvo, para que conserven su crujido característico)."
         ]
       },
       {
-        "name": "3. Montaje y Embebido",
+        "name": "Armado, Embetunado y Terminación",
         "steps": [
-          "Colocar el primer disco de bizcochuelo en el plato de presentación o aro contenedor. Pincelar generosamente con el almíbar. Extender una capa uniforme y abundante de dulce de leche repostero (aprox. 300 g). Sobre el dulce de leche, esparcir una capa de trozos de merengue seco quebrado para aportar crujido interno. (Consejo: Una manga pastelera facilita esparcir el dulce de leche sin arrastrar el bizcochuelo.)",
-          "Disponer el segundo disco de bizcochuelo y presionar con suavidad. Pincelar con almíbar. Extender una capa generosa de crema chantilly mezclada con los cubos de durazno escurridos. Cubrir con el tercer disco de bizcochuelo y humedecer la superficie con la última tanda de almíbar. (Consejo: Nivelar bien la parte superior para que el pastel quede perfectamente recto.)"
-        ]
-      },
-      {
-        "name": "4. Cobertura Emplumada al Estilo Chajá",
-        "steps": [
-          "Con una espátula de repostería, cubrir toda la superficie y los laterales de la torta con la crema chantilly reservada, alisando con una capa de al menos medio centímetro. (Consejo: La chantilly actúa como adhesivo para fijar el merengue.)",
-          "Tomar los merengues secos y quebrarlos con los dedos en trozos medianos y pequeños, combinando polvo y pedazos crujientes. Con las palmas de las manos, adherir los trozos de merengue presionando con delicadeza por todos los laterales y cubriendo por completo la corona superior, logrando el icónico aspecto plumoso del chajá. (Consejo: Llevar a heladera un mínimo de 4 horas (preferentemente de un día para el otro) antes de cortar.)"
+          "Colocá la primera capa de bizcochuelo sobre la fuente o plato de presentación y humedecela generosamente con el almíbar de los duraznos.",
+          "Distribuí una capa pareja de crema chantilly.",
+          "Esparcí de manera abundante los cubitos de durazno sobre la crema.",
+          "Cubrí con una capa generosa de los merengues secos partidos a mano.",
+          "Colocá la segunda capa de bizcochuelo, humedecela con más almíbar y presioná suavemente para asentar el relleno.",
+          "Embetuná por completo la torta (tanto la superficie como los laterales) con el resto de la crema chantilly.",
+          "Adherí los merengues desmenuzados restantes por todos los laterales y bordes de la superficie, presionando ligeramente con la palma de la mano.",
+          "Disponé los gajos de durazno en corona concéntrica sobre la parte superior.",
+          "Llevá a la heladera durante al menos 3 a 4 horas (o preferentemente de un día para el otro) antes de cortar para que el bizcochuelo absorba la humedad y los sabores se amalgamen a la perfección."
         ]
       }
     ],
-    "notes": "El secreto de Paysandú: Los merengues deben estar bien secos y crujientes (horneados a 90-100 °C durante 2 horas) para que mantengan su textura crocante en contacto con la crema durante las primeras 24 horas. Variante con frutillas: En temporada de primavera y verano uruguayo, es muy popular intercalar frutillas frescas fileteadas junto a los duraznos. Conservación: Guardar siempre refrigerado entre 2 °C y 5 °C. Se conserva impecable hasta por 72 horas.",
-    "image": "https://lh3.googleusercontent.com/-dInnwb57UDk/avFDoyDJ6xI/AAAAAAAP7sg/UWc7zXA-_FUAJggxz6iCQYnYkK3LU6PsgCNcBGAsYHQ/s1600/postre_chaja_uruguay.jpg",
-    "url": "",
-    "original_title": "Postre Chajá Tradicional de Paysandú",
-    "published": "2026-11-05",
     "steps": [
-      "Enmantecar y enharinar un molde desmontable de 22 cm de diámetro. En un bol amplio, batir con batidora eléctrica los 4 huevos con el azúcar y la pizca de sal durante 8 a 10 minutos continuos hasta alcanzar el 'punto letra' (la masa triplica su volumen, adquiere un tono marfil claro y al levantar las varillas se puede escribir una letra que no se borra por 5 segundos). (Consejo: La elasticidad del batido es el único leudante; no necesita polvo de hornear.)",
-      "Incorporar la esencia de vainilla. Añadir la harina tamizada en tres tandas, mezclando con una espátula de goma mediante movimientos envolventes lentos desde el fondo hacia los bordes, cuidando de no desinflar el aire atrapado. (Consejo: Gira el bol mientras mueves la espátula en círculos envolventes.)",
-      "Verter la preparación en el molde y hornear a 170 °C durante 25 a 30 minutos, hasta que al insertar un palillo en el centro salga completamente seco y la superficie esté dorada. Retirar, dejar entibiar 10 minutos sobre rejilla, desmoldar y dejar enfriar por completo. Luego cortar horizontalmente en 3 discos parejos. (Consejo: Es ideal preparar el bizcochuelo el día anterior para que al cortarlo no se desmigue.)",
-      "Colocar el bol y las paletas de la batidora en el congelador durante 15 minutos. Verter la crema de leche bien fría junto con el azúcar impalpable tamizado y la vainilla. Batir a velocidad media-alta hasta obtener una crema chantilly de picos sostenidos y textura densa, deteniendo inmediatamente para evitar que se corte en manteca. (Consejo: Separar un tercio de la chantilly para el relleno y los dos tercios restantes para cubrir el exterior.)",
-      "Picar los duraznos escurridos en cubos de 1 cm y secarlos ligeramente con papel absorbente para que no desprendan exceso de líquido sobre la crema. En un recipiente aparte, mezclar el almíbar de durazno con el agua y el licor. (Consejo: Secar los duraznos evita que la crema pierda consistencia con las horas.)",
-      "Colocar el primer disco de bizcochuelo en el plato de presentación o aro contenedor. Pincelar generosamente con el almíbar. Extender una capa uniforme y abundante de dulce de leche repostero (aprox. 300 g). Sobre el dulce de leche, esparcir una capa de trozos de merengue seco quebrado para aportar crujido interno. (Consejo: Una manga pastelera facilita esparcir el dulce de leche sin arrastrar el bizcochuelo.)",
-      "Disponer el segundo disco de bizcochuelo y presionar con suavidad. Pincelar con almíbar. Extender una capa generosa de crema chantilly mezclada con los cubos de durazno escurridos. Cubrir con el tercer disco de bizcochuelo y humedecer la superficie con la última tanda de almíbar. (Consejo: Nivelar bien la parte superior para que el pastel quede perfectamente recto.)",
-      "Con una espátula de repostería, cubrir toda la superficie y los laterales de la torta con la crema chantilly reservada, alisando con una capa de al menos medio centímetro. (Consejo: La chantilly actúa como adhesivo para fijar el merengue.)",
-      "Tomar los merengues secos y quebrarlos con los dedos en trozos medianos y pequeños, combinando polvo y pedazos crujientes. Con las palmas de las manos, adherir los trozos de merengue presionando con delicadeza por todos los laterales y cubriendo por completo la corona superior, logrando el icónico aspecto plumoso del chajá. (Consejo: Llevar a heladera un mínimo de 4 horas (preferentemente de un día para el otro) antes de cortar.)"
+      "Batí los huevos con el azúcar y la vainilla a punto letra (8-10 minutos).",
+      "Incorporá la harina tamizada con sal en movimientos envolventes suaves.",
+      "Horneá en molde de 22-24 cm a 180 °C durante 25-30 minutos; enfriá y cortá en dos capas.",
+      "Escurrí los duraznos reservando el almíbar; picá la mitad en cubos y cortá gajos para decorar.",
+      "Batí la crema de leche con el azúcar impalpable a punto chantilly firme.",
+      "Partí los merengues secos a mano en trozos medianos.",
+      "Disponé la base de bizcochuelo, humedecé con almíbar, untá chantilly, agregá los duraznos y merengues partidos.",
+      "Colocá la segunda capa de bizcochuelo, humedecé y cubrí tapa y laterales con chantilly.",
+      "Rebozá los laterales con merengue picado y decorá la superficie con gajos de durazno en corona.",
+      "Refrigerá de 3 a 4 horas antes de servir."
     ],
-    "ingredients": [
-      "4 unidades de Huevos grandes a temperatura ambiente (Clave batir a punto cinta o letra)",
-      "120 g de Azúcar común refinada (Agregada en forma de lluvia)",
-      "120 g de Harina de trigo 0000 tamizada (Integrada con espátula y movimientos envolventes)",
-      "1 cdta de Esencia pura de vainilla (Aromatizante)",
-      "1 g de Pizca de sal (Para estabilizar el batido)",
-      "150 ml de Almíbar de la lata de duraznos (Aporta aroma frutal directo)",
-      "50 ml de Agua mineral (Para aligerar dulzor)",
-      "1 cda de Cognac o ron añejo (opcional) (Toque tradicional de confitería)",
-      "400 g de Dulce de leche repostero uruguayo (Denso y de corte limpio)",
-      "600 ml de Crema de leche fresca (tenor graso >36%) (Bien fría para montar firme)",
-      "90 g de Azúcar impalpable (glas) (Para endulzar la chantilly)",
-      "1 cdta de Esencia de vainilla (Para la crema)",
-      "400 g de Duraznos amarillos en almíbar escurridos (Cortados en cubos pequeños (reservar 2 mitades para decorar))",
-      "250 g de Discos o merenguitos secos caseros (Merengue seco tradicional al horno bajo, desgranado toscamente con las manos)"
-    ],
-    "instructions": [
-      "Enmantecar y enharinar un molde desmontable de 22 cm de diámetro. En un bol amplio, batir con batidora eléctrica los 4 huevos con el azúcar y la pizca de sal durante 8 a 10 minutos continuos hasta alcanzar el 'punto letra' (la masa triplica su volumen, adquiere un tono marfil claro y al levantar las varillas se puede escribir una letra que no se borra por 5 segundos). (Consejo: La elasticidad del batido es el único leudante; no necesita polvo de hornear.)",
-      "Incorporar la esencia de vainilla. Añadir la harina tamizada en tres tandas, mezclando con una espátula de goma mediante movimientos envolventes lentos desde el fondo hacia los bordes, cuidando de no desinflar el aire atrapado. (Consejo: Gira el bol mientras mueves la espátula en círculos envolventes.)",
-      "Verter la preparación en el molde y hornear a 170 °C durante 25 a 30 minutos, hasta que al insertar un palillo en el centro salga completamente seco y la superficie esté dorada. Retirar, dejar entibiar 10 minutos sobre rejilla, desmoldar y dejar enfriar por completo. Luego cortar horizontalmente en 3 discos parejos. (Consejo: Es ideal preparar el bizcochuelo el día anterior para que al cortarlo no se desmigue.)",
-      "Colocar el bol y las paletas de la batidora en el congelador durante 15 minutos. Verter la crema de leche bien fría junto con el azúcar impalpable tamizado y la vainilla. Batir a velocidad media-alta hasta obtener una crema chantilly de picos sostenidos y textura densa, deteniendo inmediatamente para evitar que se corte en manteca. (Consejo: Separar un tercio de la chantilly para el relleno y los dos tercios restantes para cubrir el exterior.)",
-      "Picar los duraznos escurridos en cubos de 1 cm y secarlos ligeramente con papel absorbente para que no desprendan exceso de líquido sobre la crema. En un recipiente aparte, mezclar el almíbar de durazno con el agua y el licor. (Consejo: Secar los duraznos evita que la crema pierda consistencia con las horas.)",
-      "Colocar el primer disco de bizcochuelo en el plato de presentación o aro contenedor. Pincelar generosamente con el almíbar. Extender una capa uniforme y abundante de dulce de leche repostero (aprox. 300 g). Sobre el dulce de leche, esparcir una capa de trozos de merengue seco quebrado para aportar crujido interno. (Consejo: Una manga pastelera facilita esparcir el dulce de leche sin arrastrar el bizcochuelo.)",
-      "Disponer el segundo disco de bizcochuelo y presionar con suavidad. Pincelar con almíbar. Extender una capa generosa de crema chantilly mezclada con los cubos de durazno escurridos. Cubrir con el tercer disco de bizcochuelo y humedecer la superficie con la última tanda de almíbar. (Consejo: Nivelar bien la parte superior para que el pastel quede perfectamente recto.)",
-      "Con una espátula de repostería, cubrir toda la superficie y los laterales de la torta con la crema chantilly reservada, alisando con una capa de al menos medio centímetro. (Consejo: La chantilly actúa como adhesivo para fijar el merengue.)",
-      "Tomar los merengues secos y quebrarlos con los dedos en trozos medianos y pequeños, combinando polvo y pedazos crujientes. Con las palmas de las manos, adherir los trozos de merengue presionando con delicadeza por todos los laterales y cubriendo por completo la corona superior, logrando el icónico aspecto plumoso del chajá. (Consejo: Llevar a heladera un mínimo de 4 horas (preferentemente de un día para el otro) antes de cortar.)"
+    "notes": "• **Punto letra indispensable:** El batido prolongado de los huevos es el único secreto para un bizcochuelo aireado y liviano sin necesidad de grasas adicionales.\n• **Crujido del merengue:** Al romper los merengues a mano en trozos medianos, se crea el contraste de texturas que define al auténtico Chajá sanducero frente a la suavidad de la crema y el durazno.\n• **Reposo en frío:** Cuanto más frío tenga la torta, más prolijo será el corte de cada porción, manteniendo las capas perfectamente definidas.",
+    "tags": [
+      "postre chaja",
+      "chaja",
+      "paysandu",
+      "uruguay",
+      "torta clasica",
+      "merengue seco",
+      "duraznos en almibar",
+      "crema chantilly",
+      "reposteria rioplatense"
     ]
   },
   {
@@ -74207,9 +74183,9 @@
   },
   {
     "id": 688,
-    "title": "Risotto Trufado con Chorizo (Argentina)",
+    "title": "Risotto Trufado con Chorizo (Mi Receta)",
     "category": "Arroces & Pastas",
-    "country": "Argentina",
+    "country": "Mi Receta",
     "prep_time": "20 min",
     "cook_time": "1 h",
     "total_time": "1 h 20 min",
@@ -74331,7 +74307,8 @@
       "60 g de queso Parmigiano Reggiano o Sardo rallado",
       "2 cucharadas de aceite de oliva",
       "Sal marina y pimienta negra al gusto"
-    ]
+    ],
+    "flag": "👨‍🍳"
   },
   {
     "id": 689,
@@ -75631,6 +75608,437 @@
       "bodegon",
       "postre clasico",
       "sobremesa"
+    ]
+  },
+  {
+    "id": 702,
+    "title": "Copa Don Pedro (Argentina)",
+    "original_title": "Copa Don Pedro",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "region": "Buenos Aires / Río de la Plata",
+    "category": "Postres & Dulces",
+    "subcategory": "Copas Heladas & Sobremesa",
+    "difficulty": "Fácil",
+    "prep_time": "10 min",
+    "cook_time": "0 min",
+    "total_time": "10 min",
+    "servings": "2 copas",
+    "calories": "380 kcal por porción",
+    "image": "https://lh3.googleusercontent.com/-TYJDrD4B72s/avydDHJUSJI/AAAAAAAQCsc/eOwdf-iRAvEM9ls17Ph3ajKWFKADN6U7wCNcBGAsYHQ/s1600/copa_don_pedro.jpg",
+    "source": "Confitería La Biela (Buenos Aires)",
+    "source_url": "",
+    "story": "Nacida a mediados de la década de 1950 en las mesas de la mítica confitería La Biela, en el barrio porteño de Recoleta, la Copa Don Pedro fue ideada por el mozo del salón a pedido del habitué Pedro Benavente, quien buscaba disimular su consumo de whisky tras el almuerzo dentro de una copa de helado. La combinación se expandió velozmente por todos los restaurantes, parrillas y bodegones de Buenos Aires, convirtiéndose en el brindis dulce por excelencia de la sobremesa adulta argentina.",
+    "ingredient_groups": [
+      {
+        "name": "Base Helada",
+        "ingredients": [
+          "4 bochas generosas de helado artesanal de crema americana bien firme"
+        ]
+      },
+      {
+        "name": "El Golpe Espirituoso",
+        "ingredients": [
+          "60 ml (2 medidas) de whisky escocés o bourbon de buena calidad (o ron añejo)"
+        ]
+      },
+      {
+        "name": "Frutos Secos y Cobertura",
+        "ingredients": [
+          "50 g de nueces mariposa peladas, tostadas ligeramente y picadas a cuchillo",
+          "1 cucharada de chocolate semiamargo rallado fino"
+        ]
+      }
+    ],
+    "ingredients": [
+      "4 bochas generosas de helado de crema americana",
+      "60 ml de whisky escocés o bourbon",
+      "50 g de nueces mariposa tostadas y picadas",
+      "1 cucharada de chocolate semiamargo rallado"
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación y Montaje",
+        "steps": [
+          "Enfriá previamente dos vasos cortos de cristal tallado o copas anchas en el congelador durante 15 minutos.",
+          "Colocá en el fondo de cada copa la mitad de las nueces tostadas picadas.",
+          "Acomodá dos bochas compactas de helado de crema americana en cada vaso.",
+          "Verté la medida de whisky en hilo justo antes de llevar a la mesa, rodeando y bañando suavemente el helado sin derretirlo por completo.",
+          "Coroná con el resto de las nueces tostadas y una lluvia de chocolate semiamargo rallado. Serví de inmediato con cuchara de postre."
+        ]
+      }
+    ],
+    "steps": [
+      "Enfriá previamente dos vasos cortos de cristal en el congelador.",
+      "Disponé en el fondo una base de nueces tostadas picadas.",
+      "Acomodá dos bochas de helado de crema americana bien firme.",
+      "Bañá con la medida de whisky justo al momento de servir.",
+      "Terminá con más nueces picadas y chocolate rallado."
+    ],
+    "notes": "• **Helado bien congelado:** Es fundamental que el helado esté a temperatura muy baja para resistir el golpe de alcohol a temperatura ambiente sin fundirse de inmediato.\n• **Calidad del whisky:** Un whisky blended suave o un bourbon aportan notas de roble, vainilla y caramelo que combinan a la perfección con la crema americana y las nueces.",
+    "tags": [
+      "copa don pedro",
+      "whisky",
+      "helado",
+      "crema americana",
+      "nueces",
+      "bodegon porteno",
+      "la biela",
+      "sobremesa",
+      "postre con alcohol"
+    ]
+  },
+  {
+    "id": 703,
+    "title": "Copa Alaska (Argentina)",
+    "original_title": "Copa Alaska",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "region": "Buenos Aires / Río de la Plata",
+    "category": "Postres & Dulces",
+    "subcategory": "Copas Flambeadas & Bodegón",
+    "difficulty": "Intermedia",
+    "prep_time": "25 min",
+    "cook_time": "5 min",
+    "total_time": "30 min",
+    "servings": "2 copas",
+    "calories": "440 kcal por porción",
+    "image": "https://lh3.googleusercontent.com/-eFaFEXXWEhg/avydD2NrzgI/AAAAAAAQCsk/dp5Ic-wQnQsl3PCZCz8dB-Ktn4W295OOwCNcBGAsYHQ/s1600/copa_alaska.jpg",
+    "source": "Cantinas y Bodegones Porteños",
+    "source_url": "",
+    "story": "Adaptación rioplatense de la célebre Omelette Norvégienne francesa y el Baked Alaska decimonónico, este postre fue adoptado por las grandes cantinas porteñas de La Boca y Palermo como su número de cierre más teatral. Celebrado por el asombro físico de conservar el helado bajo un domo de merengue dorado al calor directo del soplete o el flambeado en mesa con licor, representó durante décadas el clímax de las celebraciones familiares en los restaurantes de barrio.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Bizcocho y Fruta",
+        "ingredients": [
+          "2 discos de pionono o bizcochuelo de vainilla del tamaño de la base de la copa",
+          "4 mitades de frutillas frescas y cubitos de durazno en almíbar",
+          "2 cucharadas de almíbar suave"
+        ]
+      },
+      {
+        "name": "Helado Bicolor",
+        "ingredients": [
+          "2 bochas de helado de vainilla o crema americana",
+          "2 bochas de helado de frutilla a la crema o frutos rojos"
+        ]
+      },
+      {
+        "name": "Merengue Italiano Sopleteado",
+        "ingredients": [
+          "2 claras de huevo",
+          "120 g de azúcar común",
+          "40 ml de agua",
+          "Unas gotas de jugo de limón"
+        ]
+      },
+      {
+        "name": "Terminación",
+        "ingredients": [
+          "Frutillas en abanico",
+          "Salsa tibia de chocolate o caramelo para acompañar"
+        ]
+      }
+    ],
+    "ingredients": [
+      "2 discos de pionono o bizcochuelo",
+      "Frutillas frescas y duraznos en almíbar",
+      "2 bochas de helado de vainilla",
+      "2 bochas de helado de frutilla a la crema",
+      "2 claras de huevo",
+      "120 g de azúcar común",
+      "40 ml de agua",
+      "Gotas de jugo de limón",
+      "Salsa de chocolate o caramelo"
+    ],
+    "step_groups": [
+      {
+        "name": "Merengue Italiano y Armado",
+        "steps": [
+          "Prepará el almíbar con el azúcar y agua hasta alcanzar 118-120 °C (punto bola blanda). Batí las claras a nieve con el limón y volcá el almíbar caliente en hilo continuo sin parar de batir hasta que el merengue enfríe y quede firme y brillante.",
+          "En la base de dos copas resistentes al calor, colocá un disco de pionono humedecido con almíbar y trozos de fruta.",
+          "Disponé una bocha de helado de vainilla y una de frutilla formando un domo.",
+          "Cubrí completamente el helado con el merengue italiano usando manga pastelera, sin dejar aberturas.",
+          "Dorá la superficie con soplete de cocina hasta caramelizar los picos y decorá con frutillas. Serví de inmediato."
+        ]
+      }
+    ],
+    "steps": [
+      "Elaborá un merengue italiano batiendo claras con almíbar a 118 °C hasta que enfríe y monte firme.",
+      "En copas resistentes, disponé el disco de pionono y la fruta.",
+      "Acomodá las bochas de helado de vainilla y frutilla.",
+      "Cubrí herméticamente con el merengue italiano en picos.",
+      "Dorá con soplete de cocina y serví inmediatamente con salsa tibia."
+    ],
+    "notes": "• **Sellado perfecto:** El merengue actúa como aislante térmico. Debe sellar los bordes de la copa para que el helado se mantenga intacto frente al soplete.\n• **Merengue italiano obligatorio:** No uses merengue francés (claras crudas con azúcar); el merengue italiano está cocido por el almíbar y ofrece máxima estabilidad.",
+    "tags": [
+      "copa alaska",
+      "baked alaska",
+      "merengue italiano",
+      "helado",
+      "bodegon porteno",
+      "cantina",
+      "postre flambeado"
+    ]
+  },
+  {
+    "id": 704,
+    "title": "Copa Almendrada (Argentina)",
+    "original_title": "Copa Almendrada",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "region": "Buenos Aires / Río de la Plata",
+    "category": "Postres & Dulces",
+    "subcategory": "Copas Heladas & Bodegón",
+    "difficulty": "Fácil",
+    "prep_time": "15 min",
+    "cook_time": "10 min",
+    "total_time": "25 min",
+    "servings": "2 copas",
+    "calories": "460 kcal por porción",
+    "image": "https://lh3.googleusercontent.com/-y1P1rBltmik/avydE3GDyuI/AAAAAAAQCss/2WfNPrUVWvssZfXkXF_JaoKcfSVMHUDjACNcBGAsYHQ/s1600/copa_almendrada.jpg",
+    "source": "Parrillas y Bodegones Porteños",
+    "source_url": "",
+    "story": "El helado almendrado en barra, cubierto de praliné crocante y bañado en charco de dulce de leche tibio, constituyó durante más de medio siglo la insignia indiscutida del menú de postres de bodegones y parrillas porteñas. Esta versión en copa recupera esa memoria colectiva concentrando en capas individuales la untuosidad de la crema americana artesanal, el caramelo lácteo espeso y el crujido tostado de las almendras garrapiñadas.",
+    "ingredient_groups": [
+      {
+        "name": "Base y Helado",
+        "ingredients": [
+          "4 bochas generosas de helado artesanal de crema americana",
+          "4 cucharadas de salsa de chocolate semiamargo espesa"
+        ]
+      },
+      {
+        "name": "Praliné de Almendras Crocante",
+        "ingredients": [
+          "100 g de almendras enteras tostadas",
+          "100 g de azúcar común",
+          "1 cucharadita de manteca"
+        ]
+      },
+      {
+        "name": "Salsa de Dulce de Leche y Decoración",
+        "ingredients": [
+          "150 g de dulce de leche repostero aligerado con 2 cucharadas de crema de leche tibia",
+          "2 barquillos o cubanitos de chocolate crocantes"
+        ]
+      }
+    ],
+    "ingredients": [
+      "4 bochas de helado de crema americana",
+      "4 cucharadas de salsa de chocolate",
+      "100 g de almendras tostadas",
+      "100 g de azúcar común",
+      "1 cucharadita de manteca",
+      "150 g de dulce de leche repostero",
+      "2 cucharadas de crema de leche",
+      "2 cubanitos de chocolate"
+    ],
+    "step_groups": [
+      {
+        "name": "Praliné y Armado en Copa",
+        "steps": [
+          "Hacé un caramelo rubio con el azúcar en una sartén. Agregá las almendras tostadas y la manteca, revolvé rápido y volcá sobre papel manteca aceitado. Al enfriar, picalo a cuchillo grueso.",
+          "En el fondo de dos copas altas de postre, colocá una base de salsa de chocolate espeso.",
+          "Intercalá dulce de leche aligerado y una capa generosa de praliné crocante.",
+          "Sumá dos bochas de helado de crema americana por copa.",
+          "Bañá con más dulce de leche y cubrí toda la superficie con una lluvia abundante de praliné crujiente.",
+          "Clavá un cubanito en cada copa y serví de inmediato."
+        ]
+      }
+    ],
+    "steps": [
+      "Prepará el praliné acaramelando azúcar con almendras y manteca; enfriá y picá en trozos crujientes.",
+      "Colocá en el fondo de las copas la salsa de chocolate.",
+      "Agregá capas de dulce de leche aligerado y praliné.",
+      "Disponé las bochas de crema americana.",
+      "Cubrí con más dulce de leche y abundante praliné crocante.",
+      "Decorá con un cubanito y serví."
+    ],
+    "notes": "• **Caramelo crocante:** No tritures el praliné en procesadora; picarlo a cuchillo permite conservar pedazos grandes de almendra caramelizada que contrastan con la suavidad del helado.\n• **Contraste de temperaturas:** Si servís el dulce de leche apenas tibio sobre el helado frío, la experiencia emula el clásico almendrado a la minuta de parrilla.",
+    "tags": [
+      "copa almendrada",
+      "helado almendrado",
+      "praline",
+      "dulce de leche",
+      "crema americana",
+      "parrilla portena",
+      "bodegon",
+      "almendras"
+    ]
+  },
+  {
+    "id": 705,
+    "title": "Copa Balcarce (Argentina)",
+    "original_title": "Copa Balcarce",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "region": "Buenos Aires / Balcarce",
+    "category": "Postres & Dulces",
+    "subcategory": "Copas Heladas & Bodegón",
+    "difficulty": "Fácil",
+    "prep_time": "20 min",
+    "cook_time": "5 min",
+    "total_time": "25 min",
+    "servings": "2 copas",
+    "calories": "480 kcal por porción",
+    "image": "https://lh3.googleusercontent.com/-71nL3M3ajKU/avydFzBhNrI/AAAAAAAQCs0/_whXEkynUkQu2YQRwBBjTEOzX52WIjRFwCNcBGAsYHQ/s1600/copa_balcarce.jpg",
+    "source": "Confitería París (Balcarce, 1950)",
+    "source_url": "",
+    "story": "El Postre Balcarce, originalmente bautizado como Imperial por su creador Guillermo Talou en 1950 en la Confitería París de la ciudad bonaerense de Balcarce, es uno de los mayores emblemas de la pastelería criolla argentina. Su adaptación en copa individual recrea fielmente la armonía entre el bizcocho suave, la abundancia de dulce de leche repostero, el merengue seco triturado, la crema chantilly fresca y el toque distintivo de nueces y pasta de almendras tostadas.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Bizcochuelo y Almíbar",
+        "ingredients": [
+          "Cubitos de pionono o bizcochuelo casero de vainilla",
+          "4 cucharadas de almíbar suave perfumado con vainilla"
+        ]
+      },
+      {
+        "name": "Relleno Tradicional Balcarce",
+        "ingredients": [
+          "160 g de dulce de leche repostero",
+          "6 merengues secos triturados a mano",
+          "40 g de nueces mariposa picadas",
+          "50 g de pasta marroc o pasta de almendras desmenuzada"
+        ]
+      },
+      {
+        "name": "Crema y Coronación",
+        "ingredients": [
+          "200 ml de crema chantilly batida firme",
+          "Nueces enteras y tabletas de chocolate marroc para decorar",
+          "Azúcar impalpable para quemar con soplete"
+        ]
+      }
+    ],
+    "ingredients": [
+      "Cubitos de pionono o bizcochuelo de vainilla",
+      "4 cucharadas de almíbar",
+      "160 g de dulce de leche repostero",
+      "6 merengues secos triturados",
+      "40 g de nueces picadas",
+      "50 g de pasta marroc o almendras",
+      "200 ml de crema chantilly",
+      "Nueces enteras y marroc para decorar",
+      "Azúcar impalpable"
+    ],
+    "step_groups": [
+      {
+        "name": "Armado por Capas",
+        "steps": [
+          "En el fondo de dos copas de cristal transparente, colocá una base de cubitos de pionono humedecidos con el almíbar.",
+          "Agregá una capa generosa de dulce de leche repostero con manga.",
+          "Espolvoreá una capa abundante de merengues secos partidos y nueces picadas.",
+          "Incorporá los trocitos de pasta marroc o pasta de almendras.",
+          "Cubrí con crema chantilly y repetí una fina capa de merengue y nueces.",
+          "Terminá con un copete de crema chantilly, espolvoreá con azúcar impalpable y dale un suave toque de soplete para tostar.",
+          "Coroná con media nuez mariposa y un trozo de bocadito marroc. Refrigerá 30 minutos antes de servir."
+        ]
+      }
+    ],
+    "steps": [
+      "En dos copas, disponé una base de bizcochuelo humedecido con almíbar.",
+      "Sumá una capa generosa de dulce de leche repostero.",
+      "Espolvoreá con merengues secos partidos y nueces picadas.",
+      "Agregá pasta marroc desmenuzada.",
+      "Cubrí con crema chantilly y repetí finamente las capas.",
+      "Decorá con copete de crema, sopleteá el azúcar y coroná con nuez y marroc."
+    ],
+    "notes": "• **Identidad Balcarce:** La combinación de merengue seco roto, nuez y pasta de almendras/marroc es la huella digital que distingue al postre Balcarce de cualquier otro postre de capas.\n• **Textura contrastante:** Los merengues deben colocarse secos y en trozos rústicos para crujir entre el dulce de leche y la crema.",
+    "tags": [
+      "copa balcarce",
+      "postre balcarce",
+      "dulce de leche",
+      "merengue seco",
+      "nueces",
+      "marroc",
+      "crema chantilly",
+      "reposteria argentina"
+    ]
+  },
+  {
+    "id": 706,
+    "title": "Copa Imperial Rioplatense (Argentina)",
+    "original_title": "Copa Imperial Rioplatense",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "region": "Río de la Plata / Buenos Aires",
+    "category": "Postres & Dulces",
+    "subcategory": "Copas Heladas & Bodegón",
+    "difficulty": "Fácil",
+    "prep_time": "20 min",
+    "cook_time": "0 min",
+    "total_time": "20 min",
+    "servings": "2 copas",
+    "calories": "390 kcal por porción",
+    "image": "https://lh3.googleusercontent.com/-XyAWsaKfy28/avydG9BdNaI/AAAAAAAQCs8/qffg0zMrRDgaD65O6hRSlGvyyjrd8gH7gCNcBGAsYHQ/s1600/copa_imperial_rioplatense.jpg",
+    "source": "Receta de Autor",
+    "source_url": "",
+    "story": "Heredera de la tradición repostera compartida a ambas orillas del Río de la Plata, esta copa rinde homenaje a los emblemáticos postres de capas frías donde la rusticidad de los merengues secos horneados contrasta con la jugosidad de los duraznos en conserva mendocinos y la suavidad de la crema diplomata. Concebida como una fórmula ágil para disfrutar del clásico postre familiar en formato individual, resalta por su balance entre texturas aireadas, crocantes y frutales.",
+    "ingredient_groups": [
+      {
+        "name": "Base y Fruta",
+        "ingredients": [
+          "Cubos de bizcochuelo de vainilla o soletillas desmenuzadas",
+          "1 lata de duraznos en almíbar (peso escurrido 400 g), cortados en dados pequeños",
+          "4 cucharadas del almíbar frutal con unas gotas de licor"
+        ]
+      },
+      {
+        "name": "Crema Diplomata Sedosa",
+        "ingredients": [
+          "250 g de crema diplomata a la vainilla bien fría"
+        ]
+      },
+      {
+        "name": "Manto de Merengues y Decoración",
+        "ingredients": [
+          "8 merengues secos triturados a mano en trozos medianos",
+          "Almendras enteras tostadas y ramito de menta para coronar"
+        ]
+      }
+    ],
+    "ingredients": [
+      "Cubos de bizcochuelo de vainilla o soletillas",
+      "1 lata de duraznos en almíbar en cubos",
+      "4 cucharadas de almíbar frutal",
+      "250 g de crema diplomata a la vainilla",
+      "8 merengues secos triturados",
+      "Almendras tostadas y menta para coronar"
+    ],
+    "step_groups": [
+      {
+        "name": "Armado en Copa",
+        "steps": [
+          "En el fondo de dos copas de postre, colocá una capa de bizcochuelo embebido en el almíbar de durazno.",
+          "Agregá una capa generosa de duraznos en almíbar en cubos.",
+          "Cubrí con una capa sedosa de crema diplomata fría.",
+          "Intercalá una barrera crocante de merengues secos partidos a mano.",
+          "Repetí una segunda capa de duraznos y crema diplomata.",
+          "Cubrí toda la cima con una montaña abundante de merengue seco desmenuzado.",
+          "Decorá con almendras tostadas y hojitas de menta. Refrigerá 30 minutos antes de servir."
+        ]
+      }
+    ],
+    "steps": [
+      "En dos copas, disponé una base de bizcochuelo embebido en almíbar.",
+      "Sumá una capa de dados de durazno en almíbar.",
+      "Cubrí con crema diplomata fría.",
+      "Intercalá merengues secos partidos a mano.",
+      "Repetí con más duraznos y crema.",
+      "Coroná con abundante merengue desmenuzado, almendras tostadas y menta."
+    ],
+    "notes": "• **Crujido asegurado:** El secreto reside en no pulverizar el merengue; los trozos de 1 a 2 cm crean cámaras de aire que crujen al morder junto con la crema y la fruta.\n• **Frío de heladera:** Mantené las copas bien frías para que la crema diplomata conserve su consistencia untuosa.",
+    "tags": [
+      "copa imperial",
+      "postre en copa",
+      "durazno en almibar",
+      "merengue seco",
+      "crema diplomata",
+      "rioplatense",
+      "sobremesa",
+      "bodegon"
     ]
   }
 ]
