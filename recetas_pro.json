@@ -72970,5 +72970,104 @@
     "diet": [
       "Vegetariano"
     ]
+  },
+  {
+    "id": 675,
+    "title": "Kebabs de Tortilla a la Plancha (Turquía)",
+    "category": "Carnes",
+    "country": "Turquía",
+    "prep_time": "20 min",
+    "cook_time": "10 min",
+    "total_time": "30 min",
+    "servings": "4 porciones",
+    "calories": "520 kcal",
+    "difficulty": "Media",
+    "image": "https://lh3.googleusercontent.com/-8AlZF8f9PdI/avt1-4aq4RI/AAAAAAAQCkk/P91feckmtXQ7CHE75gE4K8J_Kgmy07rIgCNcBGAsYHQ/s1600/kebabs_tortilla_plancha.jpg",
+    "story": "Una técnica contemporánea fascinante que une la tradición del kebab turco con la practicidad de las tortillas de trigo. En lugar de modelar la carne sobre la espada al fuego de carbón, extiendo capas finas de carne picada especiada (con cebolla escurrida, ajo, comino, pimentón ahumado y cilantro) entre tortillas de trigo formando un hojaldrado cárnico. Al cortarlo en tiras, atravesarlo con brochetas y dorarlo a la plancha de hierro bien caliente, la grasa natural de la carne se funde hacia la masa, friéndola hasta dejarla crujiente como un nacho con un corazón tierno y jugoso. Acompañado de una salsa fresca de yogur griego batido con jalapeño fresco y hierbas, el equilibrio es absoluto.",
+    "ingredient_groups": [
+      {
+        "name": "Carne Especiada para Kebab",
+        "ingredients": [
+          "500 g de carne picada vacuna (15-20% grasa, tipo roast beef o mezcla con cordero)",
+          "1 cebolla mediana rallada (bien escurrida con lienzo para retirar el exceso de líquido)",
+          "2 dientes de ajo rallados fino",
+          "1 cucharadita colmada de comino molido",
+          "1 cucharadita de pimentón ahumado o dulce",
+          "1/2 cucharadita de coriandro molido",
+          "1/2 cucharadita de escamas de chile seco (ají molido)",
+          "3 cucharadas de perejil fresco picado fino",
+          "1 cucharadita de sal marina fina y pimienta negra molida",
+          "4 a 5 tortillas de trigo grandes (tipo wraps o fajitas)"
+        ]
+      },
+      {
+        "name": "Salsa Cremosa de Yogur, Jalapeño y Hierbas",
+        "ingredients": [
+          "200 g de yogur griego natural sin endulzar",
+          "1 jalapeño fresco (sin semillas para picor suave, o entero para más carácter)",
+          "1 puñado generoso de hojas y tallos tiernos de cilantro fresco",
+          "1 ramita pequeña de menta fresca",
+          "1 diente de ajo pequeño",
+          "Jugo de 1/2 lima o limón fresco",
+          "2 cucharadas de aceite de oliva virgen extra",
+          "1 pizca de sal marina fina"
+        ]
+      },
+      {
+        "name": "Guarnición y Servicio",
+        "ingredients": [
+          "Gajos de lima o limón fresco",
+          "Ensalada fresca de tomate, cebolla morada y cilantro",
+          "Aceite de oliva virgen extra para la plancha"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Paso 1: Amasado de la carne especiada",
+        "instructions": [
+          "En un bowl amplio, colocá la carne picada con la cebolla rallada bien escurrida, el ajo, el perejil y todas las especias (comino, pimentón, coriandro, chile, sal y pimienta).",
+          "Amasá enérgicamente con la mano durante 2 a 3 minutos: este amasado desarrolla la proteína (miosina) de la carne, volviéndola compacta y elástica para que no se desarme ni se separe de las tortillas."
+        ]
+      },
+      {
+        "name": "Paso 2: Laminado y armado de las brochetas",
+        "instructions": [
+          "Apoyá una tortilla de trigo sobre la tabla. Untá una capa pareja y delgada de carne cruda de borde a borde (unos 3 a 4 mm de espesor).",
+          "Cubrí con otra tortilla, presioná firmemente con las palmas y volvé a untar carne. Repetí hasta completar 3 o 4 capas de carne y tortilla.",
+          "Con un cuchillo afilado de chef, emparejá los cuatro lados para lograr un bloque cuadrado.",
+          "Cortá el bloque en tiras parejas de unos 3 a 4 cm de ancho.",
+          "Ensartá cada tira a lo largo por el centro con una brocheta o palillo de madera, asegurando que las capas de carne y masa queden bien compactadas."
+        ]
+      },
+      {
+        "name": "Paso 3: Cocción crujiente a la plancha",
+        "instructions": [
+          "Calentá una plancha o sartén de hierro a fuego medio-fuerte con un hilo fino de aceite de oliva.",
+          "Disponé las brochetas y doralas durante 2 a 3 minutos por lado, girándolas para sellar los 4 costados: la grasa de la carne se transferirá a la tortilla dorándola hasta dejarla súper crocante mientras la carne se cocina a punto jugoso.",
+          "Retirá de la plancha y dejá reposar 1 minuto."
+        ]
+      },
+      {
+        "name": "Paso 4: Salsa de yogur y emplatado",
+        "instructions": [
+          "En el vaso del mixer o procesadora, colocá el yogur griego, el jalapeño en rodajas, el cilantro, la menta, el ajo, el jugo de lima, el aceite de oliva y la sal. Procesá hasta obtener una salsa cremosa verde brillante y sedosa.",
+          "Serví las brochetas calientes sobre una fuente o tabla junto al cuenco de salsa fresca de yogur, gajos de lima y ensalada de tomate y cebolla morada."
+        ]
+      }
+    ],
+    "notes": "Escurrir completamente el jugo de la cebolla rallada antes de incorporarla es fundamental para que la carne mantenga adherencia a la masa y no largue vapor en la plancha. Podés remojar los palillos de brocheta en agua durante 15 minutos antes de armar para que no se quemen en la plancha.",
+    "tags": [
+      "kebab",
+      "tortilla",
+      "plancha",
+      "carne",
+      "brocheta",
+      "yogur",
+      "jalapeño",
+      "comida callejera",
+      "oriental"
+    ],
+    "diet": []
   }
 ]
