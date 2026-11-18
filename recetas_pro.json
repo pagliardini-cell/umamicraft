@@ -78061,5 +78061,660 @@
       "Guiso de carne",
       "Comida tradicional inglesa"
     ]
+  },
+  {
+    "id": 725,
+    "title": "Sandwich de Pollo Crispy (Estados Unidos)",
+    "country": "Estados Unidos",
+    "region": "Norteamérica",
+    "category": "Hamburguesas",
+    "difficulty": "Fácil",
+    "prep_time": "25 min (más marinado)",
+    "cook_time": "15 min",
+    "total_time": "40 min",
+    "servings": "4 porciones",
+    "image": "https://lh3.googleusercontent.com/-rYyVnK_FN6U/av3DFvIBfLI/AAAAAAAQCzY/skQNzHWbQDk_HLa677AIBV7skjTf-T_dgCNcBGAsYHQ/s1600/sandwich_de_pollo_crispy_estados_unidos.jpg",
+    "story": "El sandwich de pollo frito crujiente tiene sus raíces históricas en la tradición culinaria del sur de los Estados Unidos, donde la técnica del marinado en suero de leche y la doble fritura en sartén de hierro se perfeccionaron a mediados del siglo XX. Con el correr de las décadas, este ícono de la cocina urbana traspasó fronteras hasta consagrarse en un clásico indiscutido de la comida callejera global.",
+    "ingredient_groups": [
+      {
+        "name": "Pollo y Marinado",
+        "ingredients": [
+          "4 supremas de pechuga de pollo medianas y parejas",
+          "300 ml de leche cortada con 1 cucharada de jugo de limón (buttermilk casero)",
+          "1 cucharadita de pimentón dulce",
+          "1 cucharadita de ajo en polvo",
+          "1 cucharadita de sal fina y pimienta negra molida"
+        ]
+      },
+      {
+        "name": "Rebozado Ultra Crujiente",
+        "ingredients": [
+          "200 g de harina de trigo común 0000",
+          "50 g de almidón de maíz (maicena)",
+          "1 cucharadita de polvo de hornear",
+          "1 cucharada de pimentón ahumado",
+          "1 cucharadita de cebolla en polvo",
+          "Aceite de girasol para freír"
+        ]
+      },
+      {
+        "name": "Montaje del Sándwich",
+        "ingredients": [
+          "4 panes de hamburguesa tipo brioche con semillas de sésamo",
+          "2 cucharadas de manteca para dorar el pan",
+          "8 rodajas de pepinillos agridulces encurtidos",
+          "4 hojas de lechuga capuchina crujiente lavadas y secas",
+          "4 cucharadas de mayonesa con toque de mostaza y miel"
+        ]
+      }
+    ],
+    "ingredients": [
+      "4 supremas de pechuga de pollo",
+      "300 ml de buttermilk (leche con limón)",
+      "200 g de harina común y 50 g de maicena",
+      "Pimentón ahumado, ajo en polvo y cebolla en polvo",
+      "Sal, pimienta negra y polvo de hornear",
+      "Aceite de girasol para freír",
+      "4 panes brioche de sésamo y 2 cucharadas de manteca",
+      "Pepinillos encurtidos, lechuga crujiente y salsa mayonesa especial"
+    ],
+    "step_groups": [
+      {
+        "name": "",
+        "steps": [
+          "Golpeá suavemente las pechugas de pollo entre dos hojas de papel film hasta lograr un grosor parejo de 1,5 cm para garantizar una cocción uniforme.",
+          "Colocá las pechugas en un recipiente hondo, cubrilas con el buttermilk casero, el pimentón, el ajo en polvo, sal y pimienta. Dejá reposar en la heladera durante al menos 1 hora para tiernizar las fibras de la carne.",
+          "En un recipiente amplio prepará el rebozado mezclando la harina, la maicena, el polvo de hornear, pimentón ahumado, cebolla en polvo y sal. Salpicá 3 cucharadas de la marinada líquida sobre la harina y frotala con los dedos formando pequeños grumos crocantes.",
+          "Retirá cada pechuga del marinado escurriendo el exceso y pasala por la harina presionando firmemente con ambas manos para que los grumos se adhieran a toda la superficie.",
+          "Calentá abundante aceite en una olla profunda o sartén de hierro a 170 °C. Freí las pechugas durante 6 a 8 minutos, dándolas vuelta una vez, hasta que alcancen un dorado profundo y una temperatura interna de 74 °C.",
+          "Retirá las piezas de pollo y colocalas sobre una rejilla metálica para que no se ablanden con el vapor residual.",
+          "Untá las caras internas de los panes brioche con manteca y doralos sobre una plancha caliente hasta lograr una costra dorada crocante.",
+          "Untá la base del pan con la salsa cremosa, disponé las rodajas de pepinillos, colocá la pechuga de pollo crujiente bien caliente, la lechuga fresca, tapá con la corona del pan y serví de inmediato."
+        ]
+      }
+    ],
+    "steps": [
+      "Golpeá las pechugas de pollo hasta lograr 1,5 cm de espesor parejo.",
+      "Mariná el pollo en buttermilk con pimentón, ajo, sal y pimienta por 1 hora en heladera.",
+      "Mezclá harina, maicena, polvo de hornear y especias, salpicando gotas de marinada para crear grumos.",
+      "Rebozá cada pechuga presionando la harina para fijar la costra crujiente.",
+      "Freí en abundante aceite a 170 °C durante 6 a 8 minutos hasta dorar intensamente.",
+      "Drená sobre rejilla metálica para mantener la crocancia extrema.",
+      "Dorá los panes brioche con manteca en plancha caliente.",
+      "Armá el sándwich con salsa especial, pepinillos, pollo caliente y lechuga fresca."
+    ],
+    "notes": "El secreto de la textura reside en el almidón de maíz combinado con las gotas de marinada añadidas a la harina seca: crean escamas irregulares que al freír se expanden logrando esa corteza crujiente legendaria. Drenar siempre sobre rejilla, jamás sobre papel absorbente.",
+    "tags": [
+      "chicken sándwich",
+      "sandwich de pollo",
+      "recetas con pollo",
+      "recetas de pollo",
+      "recetas con pechuga",
+      "Pollo crispy",
+      "Comida urbana",
+      "Hamburguesas"
+    ]
+  },
+  {
+    "id": 726,
+    "title": "Pollo a la Cerveza al Disco (Argentina)",
+    "country": "Argentina",
+    "region": "Rioplatense y Pampeana",
+    "category": "Pollo & Aves",
+    "difficulty": "Fácil",
+    "prep_time": "20 min",
+    "cook_time": "45 min",
+    "total_time": "1 h 5 min",
+    "servings": "6 porciones",
+    "image": "https://lh3.googleusercontent.com/-mJtpuyy7Iys/av3DG9JtWeI/AAAAAAAQCzg/sI5c_mmxOCo1GHmXiiyHAUCuZT56KCQDQCNcBGAsYHQ/s1600/pollo_a_la_cerveza_al_disco_argentina.jpg",
+    "story": "El pollo al disco cocido con cerveza rubia es una de las grandes ceremonias culinarias camperas de la Argentina contemporánea. Nacido en el campo pampeano al reutilizar los viejos discos de arado de acero para cocinar sobre fuego de leña, este guisado al aire libre simboliza la reunión de amigos y familia en torno a una cocción comunitaria generosa y humeante.",
+    "ingredient_groups": [
+      {
+        "name": "Pollo y Dorado Inicial",
+        "ingredients": [
+          "1 pollo entero trozado en presas (patas, muslos, pechugas partidas al medio)",
+          "3 cucharadas de aceite de girasol",
+          "Sal gruesa y pimienta negra molida a gusto"
+        ]
+      },
+      {
+        "name": "Verduras del Disco y Cerveza",
+        "ingredients": [
+          "2 cebollas grandes cortadas en pluma gruesa",
+          "1 pimiento morrón rojo y 1 pimiento verde en tiras",
+          "2 zanahorias cortadas en rodajas finas",
+          "3 dientes de ajo picados",
+          "2 papas medianas cortadas en rodajas de 1 cm",
+          "500 ml de cerveza rubia o ámbar (lager o golden)",
+          "2 cucharadas de mostaza tipo Dijon o clásica",
+          "1 cucharadita de ají molido",
+          "1 cucharadita de orégano seco",
+          "3 tallos de cebolla de verdeo picada fina para el final"
+        ]
+      }
+    ],
+    "ingredients": [
+      "1 pollo entero trozado en presas",
+      "500 ml de cerveza rubia o dorada",
+      "2 cebollas grandes en pluma",
+      "1 pimiento rojo y 1 pimiento verde en tiras",
+      "2 zanahorias en rodajas finas",
+      "2 papas cortadas en rodajas de 1 cm",
+      "3 dientes de ajo picados",
+      "2 cucharadas de mostaza",
+      "Ají molido, orégano, sal gruesa y pimienta",
+      "Aceite de girasol y cebolla de verdeo picada"
+    ],
+    "step_groups": [
+      {
+        "name": "",
+        "steps": [
+          "Calentá el disco de arado o cacerola amplia de hierro a fuego medio-fuerte con el aceite de girasol.",
+          "Salpimentá las presas de pollo y colocalas con la piel hacia abajo en el centro del disco, sellándolas durante 10 minutos hasta que queden profundamente doradas y crocantes. Retirá las presas hacia los bordes menos calientes del disco.",
+          "En el centro del disco con los jugos naturales del pollo, agregá las cebollas, los pimientos morrones y las zanahorias. Salteá a fuego vivo durante 6 a 8 minutos hasta que los vegetales caramelicen.",
+          "Sumá el ajo picado y condimentá con el orégano seco y el ají molido, removiendo durante 1 minuto para despertar los aromas.",
+          "Verté la cerveza rubia raspando el fondo del disco con una cuchara de madera para despegar todos los azúcares caramelizados.",
+          "Incorporá la mostaza disolviéndola en el fondo de cocción y acomodá las rodajas de papa junto con las presas de pollo sumergidas en el líquido.",
+          "Cociná a fuego medio-bajo durante 25 a 30 minutos, permitiendo que la cerveza reduzca a una salsa brillante, espesa y concentrada mientras las papas se cocinan tiernas y absorben todo el sabor.",
+          "Apagá el fuego, espolvoreá abundante cebolla de verdeo fresco picado en el centro del disco y dejá reposar 5 minutos antes de llevar a la mesa con abundante pan de campo."
+        ]
+      }
+    ],
+    "steps": [
+      "Calentá el disco de arado o cacerola de hierro con aceite a fuego medio-fuerte.",
+      "Sellá las presas de pollo salpimentadas durante 10 minutos hasta dorar la piel y llevalas al borde.",
+      "En el centro salteá cebollas, pimientos y zanahorias hasta caramelizar.",
+      "Agregá el ajo, orégano y ají molido revolviendo por 1 minuto.",
+      "Desglasá con la cerveza rubia raspando el fondo con cuchara de madera.",
+      "Sumá la mostaza, acomodá las rodajas de papa y reintegrá el pollo al líquido.",
+      "Cociná 25 a 30 minutos a fuego suave hasta reducir la salsa y tiernizar las papas.",
+      "Terminá con cebolla de verdeo fresco picado y reposá 5 minutos antes de servir."
+    ],
+    "notes": "No uses cerveza demasiado amarga o excesivamente lupulada (como una IPA extrema), ya que la reducción concentraría el amargor en el fondo; una cerveza rubia clásica, Kölsch o Honey equilibrada entrega notas malteadas dulces que armonizan a la perfección con la mostaza y la cebolla caramelizada.",
+    "tags": [
+      "pollo a la cerveza",
+      "pollo al disco",
+      "pollo en salsa",
+      "pollo con salsa",
+      "pollo y salsa",
+      "pollo al jugo",
+      "cocinar pollo",
+      "recetas para cocinar pollo",
+      "salsa pollo",
+      "recetas de cocina",
+      "recetas con pollo",
+      "recetas de pollo"
+    ]
+  },
+  {
+    "id": 727,
+    "title": "Pan de Carne (Argentina)",
+    "country": "Argentina",
+    "region": "Rioplatense",
+    "category": "Carnes",
+    "difficulty": "Fácil",
+    "prep_time": "20 min",
+    "cook_time": "50 min",
+    "total_time": "1 h 10 min",
+    "servings": "6 porciones",
+    "image": "https://lh3.googleusercontent.com/-ZXISFBfDtPU/av3DH5_kDFI/AAAAAAAQCzo/67EtjYs8zVkTAUSFaunlu_DA6gcGxE4egCNcBGAsYHQ/s1600/pan_de_carne_argentina.jpg",
+    "story": "Presente en los recetarios familiares argentinos desde las grandes olas migratorias de comienzos del siglo XX, el pan de carne horneado es la síntesis de la economía doméstica inteligente y la devoción rioplatense por la carne vacuna. Inspirado en el meatloaf de raíz germana y adaptado con el clásico relleno de huevos duros y morrones asados, se consolidó como un plato central de los almuerzos de domingo.",
+    "ingredient_groups": [
+      {
+        "name": "Masa de Carne Picada",
+        "ingredients": [
+          "800 g de carne picada vacuna magra (especial o bola de lomo)",
+          "1 cebolla mediana picada en brunoise microscópica y rehogada",
+          "1/2 pimiento morrón rojo picado fino y rehogado",
+          "2 dientes de ajo rallados fino",
+          "2 huevos frescos",
+          "1/2 taza de pan rallado fino",
+          "1/4 taza de leche entera",
+          "1 cucharada de perejil fresco picado",
+          "1 cucharada de mostaza",
+          "1 cucharadita de pimentón dulce, sal entrefina y pimienta negra molida"
+        ]
+      },
+      {
+        "name": "Relleno Tradicional y Glaseado",
+        "ingredients": [
+          "3 huevos duros enteros pelados",
+          "100 g de jamón cocido en fetas",
+          "100 g de queso mozzarella o barra en tiras",
+          "3 cucharadas de kétchup con 1 cucharada de azúcar negra y unas gotas de salsa Worcestershire para glasear"
+        ]
+      }
+    ],
+    "ingredients": [
+      "800 g de carne picada vacuna magra",
+      "1 cebolla y 1/2 morrón rehogados",
+      "2 dientes de ajo y perejil picado",
+      "2 huevos frescos y 3 huevos duros",
+      "1/2 taza de pan rallado y 1/4 taza de leche",
+      "100 g de jamón cocido y 100 g de queso mozzarella",
+      "Mostaza, pimentón dulce, sal y pimienta",
+      "Kétchup, azúcar negra y salsa inglesa para el glaseado"
+    ],
+    "step_groups": [
+      {
+        "name": "",
+        "steps": [
+          "En un recipiente pequeño hidratá el pan rallado con la leche entera durante 5 minutos para formar un panade que asegurará la máxima humedad en la carne horneada.",
+          "En un bol grande colocá la carne picada, la cebolla y el morrón rehogados tibios, el ajo rallado, los 2 huevos frescos, el perejil, la mostaza, el pan rallado hidratado, el pimentón dulce, sal y pimienta.",
+          "Amasá enérgicamente con las manos durante 3 minutos hasta que la preparación quede compacta y ligada por las proteínas de la carne.",
+          "Extendé un papel film o papel manteca aceitado sobre la mesada y aplastá la carne formando un rectángulo uniforme de 2 cm de grosor.",
+          "Disponé las fetas de jamón y el queso sobre la carne, y alineá los 3 huevos duros a lo largo en una fila central.",
+          "Enrollá la carne sobre el relleno ayudándote con el papel, sellando bien los extremos y las uniones para que el queso no se escape durante el horno.",
+          "Colocá el pan de carne en una asadera engrasada, pincelá toda la superficie con la mezcla de kétchup, azúcar negra y salsa Worcestershire.",
+          "Horneá a 180 °C en horno precalentado durante 45 a 50 minutos hasta que esté firme y el glaseado adquiera un tono caramelizado brillante.",
+          "Dejá reposar 10 minutos fuera del horno antes de cortar en rebanadas gruesas para que los jugos se asienten y no se desarme al trinchar."
+        ]
+      }
+    ],
+    "steps": [
+      "Hidratá el pan rallado con la leche para formar una pasta húmeda.",
+      "Mezclá la carne picada con verduras rehogadas, huevos, condimentos y el pan hidratado.",
+      "Amasá 3 minutos hasta obtener una masa cárnica bien ligada.",
+      "Estirá la mezcla sobre papel formando un rectángulo parejo de 2 cm.",
+      "Colocá jamón, queso y los huevos duros alineados en el centro.",
+      "Enrollá cerrando bien los bordes y colocalo en asadera aceitada.",
+      "Pintá la superficie con el glaseado de kétchup, azúcar y salsa inglesa.",
+      "Horneá a 180 °C durante 50 minutos hasta dorar y acaramelar.",
+      "Reposá 10 minutos antes de cortar en rebanadas gruesas."
+    ],
+    "notes": "El secreto de un pan de carne jugoso que no se seca jamás es el 'panade' (pan rallado remojado en leche): retiene la humedad natural de la carne impidiendo que la grasa se drene por completo en la asadera.",
+    "tags": [
+      "pan de carne",
+      "pan de carnes",
+      "recetas con carne picada",
+      "carne picada",
+      "carne salsa",
+      "recetas de carne",
+      "recetas con carne",
+      "Comida casera argentina",
+      "Meatloaf"
+    ]
+  },
+  {
+    "id": 728,
+    "title": "Salsa Blanca (Francia)",
+    "country": "Francia",
+    "region": "Europa Occidental",
+    "category": "Salsas & Condimentos",
+    "difficulty": "Fácil",
+    "prep_time": "5 min",
+    "cook_time": "10 min",
+    "total_time": "15 min",
+    "servings": "4 porciones (500 ml)",
+    "image": "https://lh3.googleusercontent.com/--cCsUQfHpXw/av3DJEXRWsI/AAAAAAAQCzw/zvVfCHoWppQWuwZKc2PXUefpVSTAEXtXQCNcBGAsYHQ/s1600/salsa_blanca_francia.jpg",
+    "story": "La salsa blanca o béchamel es una de las cinco salsas madre consagradas en la codificación de la alta cocina francesa por Auguste Escoffier a comienzos del siglo XX, bautizada en honor al marqués Louis de Béchameil en la corte de Luis XIV. Su estructura elemental basada en una roux rubia y leche aromatizada revolucionó la gastronomía europea al proporcionar una textura aterciopelada que unifica gratinados, pastas y verduras.",
+    "ingredient_groups": [
+      {
+        "name": "Roux y Líquido",
+        "ingredients": [
+          "50 g de manteca de buena calidad",
+          "50 g de harina de trigo común 0000",
+          "500 ml de leche entera tibia o a temperatura ambiente"
+        ]
+      },
+      {
+        "name": "Condimentos y Sazón",
+        "ingredients": [
+          "1/2 cucharadita de sal fina",
+          "1 pizca de pimienta blanca molida",
+          "1/4 cucharadita de nuez moscada recién rallada"
+        ]
+      }
+    ],
+    "ingredients": [
+      "50 g de manteca",
+      "50 g de harina común 0000",
+      "500 ml de leche entera tibia",
+      "Nuez moscada recién rallada",
+      "Sal fina y pimienta blanca a gusto"
+    ],
+    "step_groups": [
+      {
+        "name": "",
+        "steps": [
+          "Derretí la manteca en una cacerola pequeña de fondo grueso a fuego medio-bajo sin que se queme ni tome color marrón.",
+          "Agregá la harina de golpe y revolvé enérgicamente con batidor de alambre o cuchara de madera durante 2 minutos a fuego suave, cocinando la roux para eliminar el sabor a harina cruda.",
+          "Verté un tercio de la leche tibia batiendo sin interrupción enérgicamente para disolver la roux y evitar la formación de grumos.",
+          "Sumá el resto de la leche en dos tandas mientras continuás batiendo con ritmo constante.",
+          "Cociná a fuego medio revolviendo continuamente hasta que la salsa rompa en hervor suave y espese a una textura sedosa, cremosa y brillante que napa el dorso de una cuchara (unos 5 minutos).",
+          "Retirá del fuego de inmediato, sazoná con la sal fina, la pimienta blanca y abundante nuez moscada recién rallada.",
+          "Utilizá caliente sobre pastas, lasagnas, canelones o verduras gratinadas; si necesitás reservarla, cubrí la superficie con papel film en contacto directo para evitar que forme costra seca."
+        ]
+      }
+    ],
+    "steps": [
+      "Derretí la manteca en cacerola gruesa a fuego suave.",
+      "Sumá la harina de golpe y cociná la roux durante 2 minutos revolviendo.",
+      "Verté la leche tibia en tres tandas batiendo enérgicamente para evitar grumos.",
+      "Cociná a fuego medio batiendo constantemente hasta romper hervor y espesar.",
+      "Retirá del fuego y condimentá con sal, pimienta blanca y nuez moscada recién rallada.",
+      "Serví caliente sobre pastas o gratinados, o conservá con film al contacto."
+    ],
+    "notes": "La regla infalible para cero grumos es la temperatura del líquido: agregá siempre leche templada o tibia a la roux caliente. La nuez moscada recién rallada al final de la cocción es el sello aromático indispensable que distingue una bechamel noble de una preparación plana.",
+    "tags": [
+      "salsa blanca",
+      "salsa blanca receta",
+      "receta salsa blanca",
+      "salsas para pastas",
+      "salsa casera",
+      "Bechamel",
+      "Salsas madres",
+      "Cocina clásica"
+    ]
+  },
+  {
+    "id": 729,
+    "title": "Salsa Criolla (Argentina)",
+    "country": "Argentina",
+    "region": "Rioplatense y Pampeana",
+    "category": "Salsas & Condimentos",
+    "difficulty": "Fácil",
+    "prep_time": "15 min",
+    "cook_time": "0 min",
+    "total_time": "15 min (más reposo)",
+    "servings": "6 porciones",
+    "image": "https://lh3.googleusercontent.com/-oE9S8_cCqXc/av3DKnMuFvI/AAAAAAAQCz4/hIUvIHQQecMwRKj8aG5E9vPw_myYEB2IgCNcBGAsYHQ/s1600/salsa_criolla_argentina.jpg",
+    "story": "Hermana inseparable del chimichurri en la liturgia del asado criollo y el clásico choripán, la salsa criolla nació en las estancias y fogones pampeanos durante el siglo XIX a partir de la adaptación hispanoamericana de las vinagretas mediterráneas. Su frescura ácida y vegetal corta la untuosidad de las carnes a las brasas, convirtiéndola en el aderezo patrimonial indiscutido de la parrilla argentina.",
+    "ingredient_groups": [
+      {
+        "name": "Vegetales Frescos",
+        "ingredients": [
+          "1 cebolla morada o blanca grande",
+          "1 pimiento morrón rojo",
+          "1 pimiento morrón verde",
+          "2 tomates maduros y firmes (sin semillas)",
+          "2 cucharadas de perejil fresco picado fino"
+        ]
+      },
+      {
+        "name": "Emulsión y Sazón Criolla",
+        "ingredients": [
+          "120 ml de aceite de girasol, maíz o mezcla con oliva suave",
+          "60 ml de vinagre de alcohol, manzana o vino blanco",
+          "1 cucharadita de sal entrefina o fina",
+          "1/2 cucharadita de ají molido",
+          "1/4 cucharadita de pimienta negra recién molida"
+        ]
+      }
+    ],
+    "ingredients": [
+      "1 cebolla morada o blanca grande",
+      "1 morrón rojo y 1 morrón verde",
+      "2 tomates maduros y firmes",
+      "Perejil fresco picado",
+      "120 ml de aceite",
+      "60 ml de vinagre de alcohol o manzana",
+      "Sal, ají molido y pimienta negra molida"
+    ],
+    "step_groups": [
+      {
+        "name": "",
+        "steps": [
+          "Cortá la cebolla, el morrón rojo, el morrón verde y los tomates pelados y sin semillas en una brunoise microscópica y regular de 2 a 3 milímetros.",
+          "Colocá todos los vegetales cortados en un cuenco amplio de vidrio o cerámica.",
+          "En un frasco o cuenco pequeño, mezclá la sal fina con el vinagre batiendo con un tenedor hasta que la sal se disuelva completamente.",
+          "Agregá el aceite, el ají molido, la pimienta negra y el perejil picado, batiendo unos segundos para emulsionar el aderezo.",
+          "Volcá la vinagreta sobre los vegetales picados y mezclá con suavidad para que todo quede perfectamente cubierto.",
+          "Tapá y dejá reposar en la heladera durante al menos 2 horas antes de servir para que los sabores maceren y la cebolla suavice su potencia natural.",
+          "Serví fresca acompañando carnes asadas, achuras, choripanes, milanesas o empanadas."
+        ]
+      }
+    ],
+    "steps": [
+      "Picá cebolla, morrones y tomates sin semillas en brunoise fina milimétrica.",
+      "En cuenco disolvé la sal en el vinagre antes de incorporar el aceite.",
+      "Emulsioná con el aceite, ají molido, pimienta negra y perejil fresco.",
+      "Volcá la vinagreta sobre los vegetales y mezclá suavemente.",
+      "Dejá reposar en heladera durante 2 horas para amalgamar la acidez.",
+      "Serví fresca para acompañar carnes a la parrilla, choripanes y sándwiches."
+    ],
+    "notes": "La proporción maestra áurea de la salsa criolla es 2 partes de aceite por 1 parte de vinagre (2:1). Disolver la sal en el vinagre antes de sumar el aceite es el secreto químico para que se integre de forma homogénea sin dejar cristales sueltos.",
+    "tags": [
+      "salsa criolla",
+      "salsa criolla receta",
+      "criolla salsa",
+      "criollo salsa",
+      "salsas frescas",
+      "salsa casera",
+      "Asado argentino",
+      "Aderezos parrilla"
+    ]
+  },
+  {
+    "id": 730,
+    "title": "Salsa Cheddar (Estados Unidos)",
+    "country": "Estados Unidos",
+    "region": "Norteamérica",
+    "category": "Salsas & Condimentos",
+    "difficulty": "Fácil",
+    "prep_time": "5 min",
+    "cook_time": "10 min",
+    "total_time": "15 min",
+    "servings": "6 porciones",
+    "image": "https://lh3.googleusercontent.com/-Y9fHZeHQHIU/av3DLZ_O6-I/AAAAAAAQC0A/oTCzoG9t-cgRydftv4A8w8ruh-zP5xwOACNcBGAsYHQ/s1600/salsa_cheddar_estados_unidos.jpg",
+    "story": "Derivada de las salsas de queso Mornay y popularizada en la cultura de los diners y estadios deportivos norteamericanos a mediados del siglo XX, la salsa cheddar cremosa es el dip caliente más reverenciado de la comida informal moderna. Su emulsión estable permite disfrutar la intensidad del queso cheddar curado con una textura sedosa que no se corta ni endurece al enfriar.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Queso y Crema",
+        "ingredients": [
+          "250 g de queso cheddar madurado rallado fino (en bloque, no de paquete)",
+          "20 g de manteca",
+          "20 g de harina de trigo común",
+          "250 ml de leche entera tibia",
+          "80 ml de crema de leche o leche evaporada"
+        ]
+      },
+      {
+        "name": "Aromas y Toque Americano",
+        "ingredients": [
+          "1/2 cucharadita de pimentón dulce o ahumado",
+          "1/4 cucharadita de mostaza en polvo o Dijon",
+          "1 pizca de ajo en polvo y sal fina a gusto"
+        ]
+      }
+    ],
+    "ingredients": [
+      "250 g de queso cheddar madurado rallado",
+      "20 g de manteca y 20 g de harina",
+      "250 ml de leche entera tibia",
+      "80 ml de crema de leche",
+      "Pimentón ahumado, mostaza en polvo, ajo y sal"
+    ],
+    "step_groups": [
+      {
+        "name": "",
+        "steps": [
+          "Rallá el queso cheddar en hebras finas a partir de un bloque fresco a temperatura ambiente para asegurar un fundido perfecto.",
+          "En una cacerola pequeña a fuego suave derretí la manteca y sumá la harina, revolviendo con batidor de alambre durante 1 minuto para formar una roux clara.",
+          "Verté la leche tibia gradualmente batiendo continuamente hasta que espese y rompa en hervor suave.",
+          "Bajá el fuego al mínimo absoluto, incorporá la crema de leche, el pimentón ahumado, la mostaza y el ajo en polvo.",
+          "Agregá el queso cheddar rallado en tres tandas, revolviendo en círculos suaves con cuchara de madera o espátula hasta que se funda completamente en una crema brillante y lisa.",
+          "Retirá de inmediato del calor apenas el queso se integre; no dejes que hierva una vez añadido el queso para que las grasas no se separen.",
+          "Serví caliente y fluida en un cuenco para acompañar papas fritas, nachos de maíz, hamburguesas o aros de cebolla."
+        ]
+      }
+    ],
+    "steps": [
+      "Rallá el queso cheddar fresco en hebras finas.",
+      "Cociná la manteca con la harina en cacerola durante 1 minuto.",
+      "Agregá la leche tibia batiendo hasta formar una base espesa sin grumos.",
+      "Sumá la crema de leche y los condimentos a fuego mínimo.",
+      "Añadí el cheddar rallado en tandas revolviendo hasta fundir con brillo.",
+      "Retirá del fuego inmediatamente para evitar que la grasa se corte.",
+      "Serví tibia con papas fritas, nachos crocantes o hamburguesas."
+    ],
+    "notes": "Nunca compres cheddar pre-rallado en bolsa: contiene almidones antiaglomerantes (como celulosa) que vuelven la salsa arenosa. Rallar un bloque de queso cheddar natural garantiza una emulsión aterciopelada y elástica digna de los mejores diners.",
+    "tags": [
+      "salsa cheddar",
+      "salsa de queso",
+      "salsa con queso",
+      "salsa de queso cheddar",
+      "salsa queso cheddar",
+      "Salsa casera",
+      "Dips",
+      "Nachos y burgers"
+    ]
+  },
+  {
+    "id": 731,
+    "title": "Pan de Queso (Brasil)",
+    "country": "Brasil",
+    "region": "Sudamérica",
+    "category": "Panadería & Masas",
+    "difficulty": "Fácil",
+    "prep_time": "15 min",
+    "cook_time": "20 min",
+    "total_time": "35 min",
+    "servings": "20 pancitos",
+    "image": "https://lh3.googleusercontent.com/-Xb5GRkuQetE/av3DNH3HYRI/AAAAAAAQC0I/EkdQmkSAy0Qf81hGBJDl1hA1V_vESLvFACNcBGAsYHQ/s1600/pan_de_queso_brasil.jpg",
+    "story": "Símbolo culinario indiscutido del estado brasileño de Minas Gerais desde el siglo XVIII, el pão de queijo surgió en las haciendas coloniales cuando la harina de trigo era un bien escaso y las cocineras locales empleaban el polvilho de mandioca sobrante de los molinos combinado con el queso curado artesanal de la región. Su característico interior elástico y gomoso es una gloria de la panadería sin gluten de Sudamérica.",
+    "ingredient_groups": [
+      {
+        "name": "Masa de Almidón de Mandioca",
+        "ingredients": [
+          "250 g de almidón de mandioca dulce (polvilho doce)",
+          "250 g de almidón de mandioca agrio (polvilho azedo) o 500 g de fécula de mandioca común",
+          "200 ml de leche entera",
+          "100 ml de aceite de girasol",
+          "1 cucharadita de sal fina"
+        ]
+      },
+      {
+        "name": "Huevos y Quesos Curados",
+        "ingredients": [
+          "2 huevos frescos grandes a temperatura ambiente",
+          "250 g de queso semiduro rallado fino (Meia Cura tradicional, queso Mar del Plata o Sardo)",
+          "50 g de queso parmesano rallado fino"
+        ]
+      }
+    ],
+    "ingredients": [
+      "500 g de almidón de mandioca (polvilho)",
+      "200 ml de leche entera",
+      "100 ml de aceite",
+      "1 cucharadita de sal fina",
+      "2 huevos frescos",
+      "250 g de queso semiduro rallado",
+      "50 g de queso parmesano rallado"
+    ],
+    "step_groups": [
+      {
+        "name": "",
+        "steps": [
+          "Colocá el almidón de mandioca y la sal en un bol grande.",
+          "En un jarrito calentá la leche con el aceite hasta que rompa el primer hervor.",
+          "Volcá el líquido hirviendo sobre el almidón de golpe (proceso de escaldado) y mezclá rápidamente con cuchara de madera hasta integrar; dejá entibiar 10 minutos.",
+          "Agregá los 2 huevos de a uno amasando con las manos para que la masa los absorba por completo.",
+          "Incorporá los quesos rallados y continuá amasando durante 4 minutos hasta obtener una masa elástica, brillante, suave y apenas pegajosa.",
+          "Untate las manos con unas gotas de aceite y formá bolitas del tamaño de una nuez o pelota de golf (unos 35 g cada una).",
+          "Disponé las bolitas en una placa para horno dejando 3 cm de separación entre ellas para permitir que crezcan.",
+          "Horneá a 190 °C en horno precalentado durante 20 a 25 minutos hasta que los panes se inflen y tomen un tono dorado claro con manchas tostadas de queso.",
+          "Serví calientes inmediatamente para disfrutar su corazón elástico y su costra crocante."
+        ]
+      }
+    ],
+    "steps": [
+      "Disponé el almidón de mandioca con sal en un bol amplio.",
+      "Herví la leche con el aceite y volcalo caliente sobre el almidón para escaldar.",
+      "Mezclá con cuchara de madera y dejá entibiar 10 minutos.",
+      "Agregá los huevos de a uno amasando hasta integrar.",
+      "Sumá los quesos rallados y amasá hasta lograr una textura elástica y suave.",
+      "Formá bolitas parejas con las manos aceitadas y colocalas en placa.",
+      "Horneá a 190 °C durante 20 minutos hasta que inflen y doren.",
+      "Serví bien calientes recién salidos del horno."
+    ],
+    "notes": "El escaldado previo con líquido hirviendo es el secreto técnico indispensable: gelatiniza los almidones de la mandioca logrando esa miga hueca, gomosa y aireada tan adictiva que ninguna harina con levadura puede replicar.",
+    "tags": [
+      "pan de queso",
+      "receta con huevos",
+      "Pão de queijo",
+      "Panadería sin gluten",
+      "Mandioca",
+      "Cocina brasileña",
+      "Pancitos de queso"
+    ]
+  },
+  {
+    "id": 732,
+    "title": "Pancakes de Queso Cottage (Estados Unidos)",
+    "country": "Estados Unidos",
+    "region": "Norteamérica",
+    "category": "Desayunos & Huevos",
+    "difficulty": "Fácil",
+    "prep_time": "10 min",
+    "cook_time": "10 min",
+    "total_time": "20 min",
+    "servings": "3 porciones (8 pancakes)",
+    "image": "https://lh3.googleusercontent.com/-lUJHzLq4hvQ/av3DOWm1eXI/AAAAAAAQC0Q/vUybTleQZiQdFvekSpXruonJjru3c0zGwCNcBGAsYHQ/s1600/pancakes_de_queso_cottage_estados_unidos.jpg",
+    "story": "Evolucionados a partir de los tradicionales syrniki de Europa del Este y adoptados como un clásico del desayuno saludable en la costa oeste norteamericana, los pancakes de queso cottage representan la cumbre del desayuno proteico contemporáneo. La riqueza láctea y la sutil acidez del cottage logran una miga etérea y esponjosa que se funde en el paladar sin necesidad de excesos de harina refinada.",
+    "ingredient_groups": [
+      {
+        "name": "Batido Esponjoso",
+        "ingredients": [
+          "200 g de queso cottage cremoso",
+          "2 huevos frescos grandes",
+          "80 g de harina de avena o harina de trigo 0000",
+          "1 cucharadita de polvo de hornear",
+          "1 cucharada de miel pura o azúcar mascabo",
+          "1 cucharadita de extracto de vainilla puro",
+          "1 pizca de sal fina"
+        ]
+      },
+      {
+        "name": "Cocción y Acompañamiento",
+        "ingredients": [
+          "1 cucharadita de manteca o aceite de coco para la sartén",
+          "Arándanos frescos, frutillas en láminas y miel para servir"
+        ]
+      }
+    ],
+    "ingredients": [
+      "200 g de queso cottage cremoso",
+      "2 huevos frescos",
+      "80 g de harina de avena o común",
+      "1 cucharadita de polvo de hornear",
+      "Miel, extracto de vainilla y pizca de sal",
+      "Manteca para la sartén",
+      "Frutos rojos frescos para acompañar"
+    ],
+    "step_groups": [
+      {
+        "name": "",
+        "steps": [
+          "Colocá en el vaso de la licuadora o procesadora el queso cottage, los 2 huevos, la miel, el extracto de vainilla y la pizca de sal.",
+          "Procesá durante 30 segundos hasta obtener una mezcla líquida, suave y homogénea sin grumos de requesón.",
+          "Sumá la harina de avena y el polvo de hornear, pulsando apenas 10 segundos para integrar sin sobrebatir la masa.",
+          "Calentá una sartén antiadherente a fuego medio-bajo y derretí una nuez pequeña de manteca retirando el exceso con papel absorbente.",
+          "Verté cucharones de masa formando círculos de 8 cm de diámetro.",
+          "Cociná durante 2 a 3 minutos hasta que comiencen a aparecer burbujas firmes en la superficie y los bordes se vean secos y cocidos.",
+          "Dalo vuelta con espátula fina en un solo movimiento y cociná durante 1 a 2 minutos más por el otro lado hasta que dore suavemente.",
+          "Apilá los pancakes tibios en un plato, coroná con una cucharada extra de queso cottage fresco, frutos rojos y un hilo de miel pura."
+        ]
+      }
+    ],
+    "steps": [
+      "Licuá el queso cottage con los huevos, miel, vainilla y pizca de sal hasta alisar.",
+      "Agregá la harina y polvo de hornear mezclando solo hasta integrar.",
+      "Calentá una sartén antiadherente a fuego medio-bajo con apenas manteca.",
+      "Volcá porciones de masa formando círculos de 8 cm.",
+      "Cociná 2 a 3 minutos hasta que burbujee la superficie.",
+      "Dalo vuelta con espátula y dorá 1 minuto más del lado opuesto.",
+      "Serví apilados con queso cottage fresco, frutas y miel pura."
+    ],
+    "notes": "Licuar previamente el queso cottage con los huevos es la clave para romper los grumos del cuajo y lograr que la tortita quede con una textura de soufflé esponjoso y aireado. Cocinar siempre a fuego moderado-bajo para que el interior cuaje sin quemar el exterior.",
+    "tags": [
+      "queso cottage recetas",
+      "recetas con queso cottage",
+      "receta con huevos",
+      "Pancakes proteicos",
+      "Desayuno saludable",
+      "Tortitas esponjosas",
+      "Cocina americana"
+    ]
   }
 ]
