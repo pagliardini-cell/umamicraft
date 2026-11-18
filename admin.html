@@ -560,7 +560,7 @@
                   <option value="Pastas">Pastas</option>
                   <option value="Pollo / Aves">Pollo / Aves</option>
                   <option value="Postres y Dulces">Postres y Dulces</option>
-                  <option value="Cocktails & Tragos">Cocktails & Tragos</option>
+                  <option value="Cocktails & Bebidas">Cocktails & Bebidas</option>
                   <option value="Plato Principal">Plato Principal</option>
                   <option value="Sándwiches / Burgers">Sándwiches / Burgers</option>
                   <option value="Arroces y Risottos">Arroces y Risottos</option>
@@ -698,7 +698,7 @@
     const COUNTRY_FLAGS = {
       'Italia': 'it', 'Japón': 'jp', 'China': 'cn', 'Argentina': 'ar', 'Receta de Autor (Argentina)': 'ar',
       'España': 'es', 'Francia': 'fr', 'Estados Unidos': 'us', 'Tailandia': 'th', 'Filipinas': 'ph', 'República Checa': 'cz', 'Reino Unido': 'gb',
-      'Inglaterra': 'gb', 'México': 'mx', 'Vietnam': 'vn', 'Rusia': 'ru', 'Corea del Sur': 'kr',
+      'Inglaterra': 'gb-eng', 'México': 'mx', 'Vietnam': 'vn', 'Rusia': 'ru', 'Corea del Sur': 'kr',
       'India': 'in', 'Grecia': 'gr', 'Turquía': 'tr', 'Perú': 'pe', 'Alemania': 'de', 'Irlanda': 'ie',
       'Suecia': 'se', 'Egipto': 'eg', 'Paraguay': 'py', 'Mongolia': 'mn', 'Armenia': 'am', 'Venezuela': 've',
       'Sudáfrica': 'za', 'Senegal': 'sn', 'Ghana': 'gh', 'Etiopía': 'et', 'Kenia': 'ke', 'Túnez': 'tn', 'Nigeria': 'ng',  'Marruecos': 'ma', 'Bélgica': 'be', 'Cuba': 'cu', 'Líbano / Siria': 'lb',
@@ -859,7 +859,15 @@
       const sortAscOpt = document.querySelector('#tableSortOrder option[value="id_asc"]');
       if (sortAscOpt) sortAscOpt.textContent = `📑 Orden original (#1 a #${recipes.length})`;
 
-      document.getElementById('mCocktails').textContent = recipes.filter(r => r.category === 'Cocktails & Tragos').length;
+      // Cocktails Reales (exclusivamente tragos y cócteles mixológicos, excluyendo licores, cafés, gaseosas y chocolates)
+      document.getElementById('mCocktails').textContent = recipes.filter(r => {
+        if (r.is_cocktail === true) return true;
+        if (r.is_cocktail === false) return false;
+        if (r.category !== 'Cocktails & Bebidas' && r.category !== 'Cocktails & Tragos') return false;
+        const t = (r.title || '').toLowerCase();
+        const nonCocktails = ['licuado', 'milkshake', 'submarino', 'chocolate a la taza', 'champurrado', 'bicerin', 'latte', 'café', 'cafe', 'agua tónica', 'coca-cola', 'new york egg cream', 'licor de crema', 'licor casero de huevo', 'limoncello', 'vermut rosso', 'fernet casero', 'sake casero'];
+        return !nonCocktails.some(k => t.includes(k));
+      }).length;
       const countries = new Set(recipes.map(r => r.country).filter(Boolean));
       document.getElementById('mCountries').textContent = countries.size;
       const cats = new Set(recipes.map(r => r.category).filter(Boolean));

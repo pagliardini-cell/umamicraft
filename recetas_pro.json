@@ -3089,7 +3089,8 @@
       "Para el almíbar de romero: en una cacerola pequeña a fuego medio calentar el agua y el azúcar revolviendo durante unos 5 minutos hasta que el azúcar se disuelva por completo. Retirar del fuego, agregar las 6 ramitas de romero y dejar infusionar tapado durante 1 hora hasta enfriar; luego colar y embotellar.",
       "Para el cóctel: llenar un vaso con abundante hielo, verter el vodka, el almíbar de romero y el jugo de pomelo.",
       "Integrar suavemente con cucharilla y decorar con una ramita de romero fresco."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 33,
@@ -4767,7 +4768,8 @@
       "Llenar una copa amplia de vino con abundante hielo en cubos.",
       "Verter primero el vino espumante seco y luego el aperitivo Spritz en movimientos circulares.",
       "Completar con un golpe de soda fría, remover muy suavemente de abajo hacia arriba una sola vez para no perder las burbujas y decorar con la rodaja de naranja dentro de la copa."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 52,
@@ -5477,8 +5479,8 @@
   },
   {
     "id": 58,
-    "title": "Pan Pita Casero (Líbano / Siria)",
-    "country": "Líbano / Siria",
+    "title": "Pan Pita Casero (Líbano)",
+    "country": "Líbano",
     "category": "Panadería & Masas",
     "tags": [
       "Arabe",
@@ -6034,7 +6036,8 @@
       "Apoyar dos palillos paralelos sobre la boca del vaso de cerveza, separados unos 2,5 cm entre sí, y equilibrar con cuidado el vasito de sake encima de los palillos.",
       "Realizar la cuenta regresiva en grupo («¡Uno, dos, tres!» o en japonés «Ichi, ni, san... Sake Bomba! / ¡Kanpai!») y golpear la mesa con los puños a ambos lados del vaso para que los palillos se abran y el shot de sake caiga dentro de la cerveza.",
       "Beber de inmediato mientras espuma."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 64,
@@ -7862,7 +7865,8 @@
       "Colocar en el vaso de la licuadora las bananas maduras, las bochas de helado de vainilla, la leche fría, el azúcar a gusto y la 1/2 cucharadita de pimienta de Jamaica molida.",
       "Licuar a máxima potencia durante 30 a 45 segundos hasta obtener una textura homogénea, cremosa y espumosa.",
       "Servir de inmediato en vasos altos bien fríos y terminar espolvoreando una pizca de pimienta de Jamaica en la superficie."
-    ]
+    ],
+    "is_cocktail": false
   },
   {
     "id": 83,
@@ -8041,7 +8045,8 @@
       "Verter el gin hasta cubrir aproximadamente 1/3 de la capacidad libre del vaso (ajustando según cuán intenso se prefiera el cóctel).",
       "Completar suavemente el resto del vaso con el agua tónica bien fría, cuidando de no romper la burbuja.",
       "Integrar con un único movimiento suave usando la hoja del mismo cuchillo con el que se cortó la lima."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 85,
@@ -8114,7 +8119,8 @@
       "Colocar abundante hielo en la coctelera y verter el vodka, el vermut rojo, la crema de cassis y el Drambuie.",
       "Batir enérgicamente durante unos 10 a 12 segundos hasta enfriar e integrar bien los licores.",
       "Colar y servir en un vaso corto y ancho (tipo Old Fashioned)."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 86,
@@ -8221,7 +8227,8 @@
       "Presionar suavemente las hojas con un pisón (muddler) solo para liberar sus aceites esenciales sin destrozarlas.",
       "Agregar hielo en cubos o picado, 1 1/2 a 2 oz de ron dorado u oscuro, 1 oz de jugo de lima o limón y 1 o 2 golpes de amargo de Angostura. Agitar vigorosamente.",
       "Verter en el vaso alto, completar en la superficie con un chorrito de buen vino espumante bien frío y decorar con una o dos ramitas de menta fresca."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 87,
@@ -8298,7 +8305,8 @@
       "Colocar abundante hielo en la coctelera junto con la medida de vodka, el vermut seco, el vermut dulce, el jugo de pomelo y el azúcar impalpable.",
       "Batir enérgicamente durante 10 a 15 segundos para que el azúcar impalpable se disuelva por completo y la mezcla quede bien fría y espumosa.",
       "Servir en un vaso largo con hielo nuevo."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 88,
@@ -8844,7 +8852,8 @@
     "instructions": [
       "Verter la cerveza bien fría en 4 vasos altos inclinándolos ligeramente hasta llenar unos 3/4 de su capacidad.",
       "Depositar con cuidado una bocha de helado de vainilla en cada vaso (al contacto con el helado se formará una espuma cremosa abundante) y servir de inmediato con cuchara larga y sorbete."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 94,
@@ -8906,7 +8915,8 @@
     "instructions": [
       "En una copa flauta alta o en una jarra de cristal bien fría, verter primero las 4 medidas de champagne.",
       "Incorporar lentamente las 4 medidas de cerveza Stout bien fría (si se vierte en copa flauta sobre el dorso de una cuchara, la cerveza flotará formando dos capas; si se vierte en jarra, se integrará con un color oscuro aterciopelado)."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 95,
@@ -9061,7 +9071,8 @@
     "instructions": [
       "Colocar cubos grandes de hielo en un vaso corto tipo Old Fashioned.",
       "Verter el vodka y el licor de café directamente sobre el hielo, remover suavemente con una cucharilla y servir."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 97,
@@ -9160,7 +9171,8 @@
       "Incorporar el jugo fresco de limón y de lima, mezclar bien y refrigerar en botella hermética hasta que esté bien frío (se conserva hasta 1 semana en la heladera).",
       "Combinar en la licuadora (o coctelera) el vodka, el Blue Curaçao y el Sweet and Sour Mix durante 15 a 20 segundos hasta integrar.",
       "Servir en un vaso alto lleno de hielo, completar con un golpe de Sprite bien fría y decorar con una rodaja de limón y una cereza al marrasquino."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 98,
@@ -9231,7 +9243,8 @@
       "Colocar abundante hielo en un vaso corto tipo Old Fashioned.",
       "Verter sobre el hielo la medida de vodka, el almíbar frío y el licor de café, integrando suavemente la base oscura.",
       "Verter lentamente por encima la crema de leche fría (ayudándose con el dorso de una cuchara) para que flote en la superficie sobre el cóctel sin mezclarse, logrando el contraste bicolor clásico."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 99,
@@ -12008,8 +12021,8 @@
   },
   {
     "id": 127,
-    "title": "Keppe Crudo - Kibbeh Nayyeh (Líbano / Siria)",
-    "country": "Líbano / Siria",
+    "title": "Keppe Crudo - Kibbeh Nayyeh (Líbano)",
+    "country": "Líbano",
     "category": "Carnes",
     "tags": [
       "Arabe",
@@ -12108,8 +12121,8 @@
   },
   {
     "id": 128,
-    "title": "Muhammara (Mahamara) — Pasta de Morrones Ahumados y Nueces (Líbano / Siria)",
-    "country": "Líbano / Siria",
+    "title": "Muhammara (Mahamara) — Pasta de Morrones Ahumados y Nueces (Líbano)",
+    "country": "Líbano",
     "category": "Entradas",
     "tags": [
       "Arabe",
@@ -12265,7 +12278,8 @@
       "Incorporar el ron e integrar suavemente.",
       "Sumar abundante hielo picado y, justo en el momento de servir, verter el litro de sidra bien fría inclinando la jarra para conservar todas sus burbujas.",
       "Remover apenas con cuchara larga y servir de inmediato en copas frías."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 130,
@@ -14178,7 +14192,8 @@
       "Verter la leche bien fría en el fondo de un vaso alto tipo fuente de soda.",
       "Agregar un chorro vigoroso de agua de Seltz (soda de sifón) hasta que se forme una corona alta de espuma blanca en el borde del vaso.",
       "Incorporar el jarabe de chocolate y revolver rápidamente desde el fondo con una cuchara larga mediante un giro rápido de muñeca para teñir el líquido de chocolate manteniendo intacta la espuma blanca superior. Servir al instante."
-    ]
+    ],
+    "is_cocktail": false
   },
   {
     "id": 149,
@@ -15498,8 +15513,8 @@
   },
   {
     "id": 164,
-    "title": "Fatay — Empanadas Árabes y Mezclas de Baharat (Líbano / Siria)",
-    "country": "Líbano / Siria",
+    "title": "Fatay — Empanadas Árabes y Mezclas de Baharat (Líbano)",
+    "country": "Líbano",
     "category": "Empanadas",
     "tags": [
       "Árabe",
@@ -19238,8 +19253,8 @@
   },
   {
     "id": 200,
-    "title": "Arroz Gratinado con Panceta, Crema y Albahaca (Fusión Internacional)",
-    "country": "Fusión Internacional",
+    "title": "Arroz Gratinado con Panceta, Crema y Albahaca (Fusión)",
+    "country": "Fusión",
     "category": "Arroces & Risottos",
     "tags": [
       "Arroz",
@@ -30717,7 +30732,8 @@
       "Llevar a fuego suave controlando la temperatura con un termómetro hasta alcanzar los 60 °C. En ese instante exacto, cerrar herméticamente las botellas con sus tapones, apagar el fuego y dejar reposar 5 minutos en el agua caliente.",
       "Retirar las botellas con cuidado y dejarlas enfriar a temperatura ambiente durante al menos 2 horas antes de refrigerar, para evitar roturas por shock térmico.",
       "Servir bien frío (a 10-12 °C) en copas o en jarrita tradicional tokkuri con vasitos ochoko, o bien atemperado a baño María a 40 °C durante los meses fríos. ¡Kanpai!"
-    ]
+    ],
+    "is_cocktail": false
   },
   {
     "id": 306,
@@ -48395,9 +48411,9 @@
   },
   {
     "id": 446,
-    "title": "Puré de Papas Perfecto de Heston Blumenthal (Inglaterra)",
+    "title": "Puré de Papas Perfecto de Heston Blumenthal (Reino Unido)",
     "category": "Guarniciones",
-    "country": "Inglaterra",
+    "country": "Reino Unido",
     "prep_time": "30 min",
     "cook_time": "35 min",
     "servings": "4 a 6 porciones",
@@ -48498,9 +48514,9 @@
   },
   {
     "id": 447,
-    "title": "Risotto Cacio e Pepe al Estilo Heston Blumenthal (Inglaterra / Italia)",
+    "title": "Risotto Cacio e Pepe al Estilo Heston Blumenthal (Reino Unido)",
     "category": "Arroces & Risottos",
-    "country": "Inglaterra / Italia",
+    "country": "Reino Unido",
     "prep_time": "20 min",
     "cook_time": "25 min",
     "servings": "4 porciones",
@@ -48624,9 +48640,9 @@
   },
   {
     "id": 448,
-    "title": "Steak Tartare de Autor al Estilo Heston Blumenthal (Inglaterra / Francia)",
+    "title": "Steak Tartare de Autor al Estilo Heston Blumenthal (Reino Unido)",
     "category": "Carnes",
-    "country": "Inglaterra / Francia",
+    "country": "Reino Unido",
     "prep_time": "25 min",
     "cook_time": "0 min (en crudo)",
     "servings": "2 a 4 porciones",
@@ -49158,9 +49174,9 @@
   },
   {
     "id": 452,
-    "title": "Pizza a la Parrilla al Estilo Bob Blumer (Canadá / Internacional)",
+    "title": "Pizza a la Parrilla al Estilo Bob Blumer (Canadá)",
     "category": "Pizzas & Tartas",
-    "country": "Canadá / Internacional",
+    "country": "Canadá",
     "prep_time": "30 min",
     "cook_time": "10 min",
     "servings": "4 porciones (3 pizzas medianas)",
@@ -51191,7 +51207,8 @@
       "Cerrar la coctelera y agitar vigorosamente durante 12 a 15 segundos hasta que el exterior del metal esté completamente escarchado y frío.",
       "Colar el cóctel utilizando un colador de oruga (Hawthorne) y un colador de malla fina directamente sobre la copa escarchada previamente enfriada.",
       "Decorar el borde con una rodaja fina de lima fresca y servir de inmediato."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 468,
@@ -51278,7 +51295,8 @@
       "Inclinar el vaso unos 45 grados y verter la gaseosa cola lentamente deslizándola por la pared de cristal para no perder el gas.",
       "A medida que el líquido asciende, enderezar el vaso; el contacto de las burbujas con las hierbas y aceites aromáticos del Fernet formará de manera natural una corona de espuma densa, cremosa y de dos dedos de altura.",
       "Dar un suave movimiento vertical de abajo hacia arriba con una cuchara de bar o sorbete para integrar sin romper la efervescencia. Servir de inmediato."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 469,
@@ -51379,7 +51397,8 @@
       "Llenar el vaso hasta el borde con hielo roto o cubos.",
       "Verter la Cachaça sobre el hielo.",
       "Remover enérgicamente de abajo hacia arriba con cuchara de bar (o batir brevemente en coctelera) para que el azúcar del fondo se emulsione y enfríe por completo el cóctel. Servir con sorbetes cortos."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 470,
@@ -51480,7 +51499,8 @@
       "Verter la mezcla densa y espumosa en una copa Huracán (o vaso alto) previamente enfriada.",
       "Adornar el borde con un triángulo de piña fresca encajado en la copa y una cereza al marrasquino sujeta con un palillo.",
       "Servir con sorbete y disfrutar inmediatamente bien helada."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 471,
@@ -55019,7 +55039,8 @@
       "En un vaso mezclador, verter el cognac, el calvados y el vermut dulce.",
       "Agregar hielo macizo hasta tres cuartos y remover con cuchara de bar durante 25 a 30 segundos sin quebrar el hielo para mantener el líquido brillante y cristalino.",
       "Descartar el hielo de la copa, colar con colador Julep y expresar los aceites esenciales del twist de naranja sobre la superficie del cóctel antes de colocarlo como decoración."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 498,
@@ -55120,7 +55141,8 @@
       "Verter la absenta en la copa Coupé fría, girarla cubriendo todas las paredes internas del cristal y descartar el sobrante.",
       "En la coctelera verter el gin, el Lillet Blanc, el Cointreau y el jugo fresco de limón. Añadir hielo hasta el tope y batir con fuerza durante 12 a 15 segundos.",
       "Servir con doble colado fino dentro de la copa perfumada, colocar la cereza al fondo y perfumar con el twist de limón."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 499,
@@ -55219,7 +55241,8 @@
       "En una coctelera con hielo, agregar el brandy, el jugo de limón, la crema de menta y la gota de absenta. Batir 10 segundos.",
       "Colar en la copa flauta fría hasta la mitad y completar lentamente con el Champagne brut helado.",
       "Decorar con una espiral de limón y una hojita de menta flotando sobre la espuma."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 500,
@@ -55315,7 +55338,8 @@
       "Rociar la copa Coupé con un dash de absenta y descartar el exceso.",
       "Verter el gin, el Blue Curaçao, el Lillet y el jugo de limón en la coctelera. Batir enérgicamente con hielo abundante durante 12 segundos.",
       "Doble colar sobre la copa fría logrando el color azul zafiro y decorar con el twist de limón amarillo."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 501,
@@ -55413,7 +55437,8 @@
       "Humedecer un tercio del borde exterior con limón y pasar por sal de gusano. Enjuagar el interior con absenta.",
       "Verter el mezcal, el Cointreau, el Lillet y el jugo de limón con abundante hielo. Batir 12 a 15 segundos.",
       "Doble colar en la copa y colocar la rodaja de limón deshidratado en el centro."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 502,
@@ -55842,7 +55867,8 @@
       "Tapar firmemente la coctelera y batir vigorosamente con ritmo constante durante 15 a 18 segundos para emulsionar la clara de huevo, enfriar la mezcla y generar una espuma consistente y cremosa.",
       "Servir en dos tiempos en la copa fría para permitir que el líquido verde lima se asiente en la base y la corona blanca de espuma se eleve en la parte superior.",
       "Dejar caer 3 gotas de amargo de Angostura en el centro de la espuma; su función aromática mitiga el olor del huevo y aporta notas especiadas al acercar la copa a la nariz."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 506,
@@ -55945,7 +55971,8 @@
       "Verter el tequila blanco, el jugo fresco de lima y una pizca milimétrica de sal marina.",
       "Rellenar lentamente con el refresco de pomelo rosado bien frío y revolver suavemente una sola vez con cuchara de bar para integrar sin romper la efervescencia.",
       "Decorar con la media luna de pomelo rosado en el borde y servir de inmediato."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 507,
@@ -56045,7 +56072,8 @@
       "Verter la leche humeante dentro del vaso alto de vidrio templado con su soporte metálico, llenándolo hasta un dedo por debajo del borde.",
       "Servir inmediatamente en la mesa junto a la tableta de chocolate entera apoyada sobre el platito.",
       "Introducir la tableta de chocolate en el vaso para sumergirla hasta el fondo y comenzar a revolver en círculos continuos con la cuchara de mango largo durante 1 a 2 minutos hasta que el chocolate se funda por completo, formando una leche chocolatada densa, perfumada y tibia."
-    ]
+    ],
+    "is_cocktail": false
   },
   {
     "id": 508,
@@ -56153,7 +56181,8 @@
       "Verter la leche con la maicena disuelta en forma de hilo continuo dentro de la cacerola, sin dejar de revolver.",
       "Cocinar a fuego suave sin parar de batir durante 3 a 5 minutos, hasta que rompa un hervor suave y espese alcanzando una consistencia cremosa, densa y brillante como terciopelo.",
       "Retirar de inmediato y servir humeante en tazas gruesas junto a los churros."
-    ]
+    ],
+    "is_cocktail": false
   },
   {
     "id": 509,
@@ -56261,7 +56290,8 @@
       "Cocinar a fuego bajo removiendo constantemente en círculos con una cuchara de madera o molinillo artesanal durante 12 a 15 minutos, cuidando que la masa no se asiente en el fondo ni se queme.",
       "Cuando el champurrado tome cuerpo, adquiera una textura aterciopelada y espese cubriendo el dorso de la cuchara, retirar la rama de canela.",
       "Batir vigorosamente unos segundos con molinillo de madera para levantar una ligera espuma y servir de inmediato en jarritos de barro bien calientes."
-    ]
+    ],
+    "is_cocktail": false
   },
   {
     "id": 510,
@@ -56368,7 +56398,8 @@
       "Colocar una cuchara de bar invertida rozando la superficie del chocolate y verter el espresso lentamente sobre el dorso de la cuchara para que repose sobre el chocolate sin mezclarse del todo.",
       "Con la misma técnica de la cuchara invertida, deslizar suavemente la crema semimontada fría sobre el café hasta coronar el vaso.",
       "Servir de inmediato para disfrutar del contraste térmico y visual de las tres capas. Recordar no mezclar con la cuchara al beber."
-    ]
+    ],
+    "is_cocktail": false
   },
   {
     "id": 511,
@@ -58584,7 +58615,8 @@
       "En el vaso de la licuadora, colocar el helado de vainilla, la leche bien fría y las 2 cucharadas de Nesquik.",
       "Licuar a velocidad máxima en pulsos cortos durante 30 a 45 segundos, cuidando de no sobrelicuar para que el helado mantenga su densidad espesa de milkshake de cafetería.",
       "Verter inmediatamente en las copas frías, coronar con un generoso copo de crema chantilly y una lluvia de chocolate rallado."
-    ]
+    ],
+    "is_cocktail": false
   },
   {
     "id": 529,
@@ -58662,7 +58694,8 @@
       "En la licuadora, verter la leche, el Nesquik, las frutillas, las almendras tostadas y el hielo picado.",
       "Licuar a máxima potencia durante 1 minuto y medio, permitiendo que las almendras se pulvericen e integren aportando textura cremosa y microcrocante.",
       "Servir inmediatamente en vasos fríos decorados con una frutilla entera en el borde."
-    ]
+    ],
+    "is_cocktail": false
   },
   {
     "id": 530,
@@ -63852,7 +63885,8 @@
       "Esto garantiza que la grasa de la crema no se sobrebata ni se transforme en manteca, logrando una textura fluida, aterciopelada y homogénea.",
       "Verter el licor a través de un embudo con colador de malla fina en una botella de vidrio limpia con tapón hermético. Tapar bien.",
       "Llevar a la heladera durante al menos 12 a 24 horas antes del primer consumo. Durante este reposo en frío, el alcohol del whisky se redondea, los aromas a chocolate, café y vainilla se funden y la textura adquiere su cuerpo denso definitivo."
-    ]
+    ],
+    "is_cocktail": false
   },
   {
     "id": 573,
@@ -63967,7 +64001,8 @@
       "Pasar toda la preparación por un colador de malla muy fina (o lienzo de tela) para retirar cualquier filamento de huevo y asegurar una textura de seda.",
       "Verter el licor en una botella de vidrio previamente esterilizada con tapón hermético. Tapar bien.",
       "Llevar a la heladera y dejar reposar entre 3 y 5 días antes de consumir para que los alcoholes se asienten y la crema tome su densidad justa. Agitar la botella antes de servir en copitas pequeñas bien frías."
-    ]
+    ],
+    "is_cocktail": false
   },
   {
     "id": 574,
@@ -66724,7 +66759,8 @@
         ]
       }
     ],
-    "original_title": "Everlasting Latte: Stable Microfoam Hack - Chris Young"
+    "original_title": "Everlasting Latte: Stable Microfoam Hack - Chris Young",
+    "is_cocktail": false
   },
   {
     "id": 596,
@@ -71314,7 +71350,8 @@
       "Llenar el vaso con cubos de hielo macizo.",
       "En un vaso mezclador con abundante hielo, refrescar el aquavit, el Campari y el jugo de pomelo durante 20 segundos con cuchara imperial.",
       "Colar sobre el hielo del vaso preparado y decorar con una ramita de eneldo fresco."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 644,
@@ -71365,7 +71402,8 @@
       "Descartar el hielo de la copa flauta y colar la mezcla doblemente en la copa.",
       "Completar lentamente con el Champagne bien frío para no romper la burbuja.",
       "Aromatizar la superficie con los aceites de la cáscara de limón y decorar con el espiral."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 645,
@@ -71417,7 +71455,8 @@
       "Verter todo el contenido (con el hielo picado) dentro de un vaso Old Fashioned ancho o copa tiki.",
       "Con la ayuda de una cuchara de bar, verter el ron oscuro suavemente sobre la superficie formando una capa flotante (*float*).",
       "Decorar con la cuña de piña, la cereza y un penacho de menta fresca previamente golpeado contra la palma para liberar sus aceites esenciales."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 646,
@@ -71469,7 +71508,8 @@
       "Verter el ron blanco y llenar el vaso con abundante hielo picado.",
       "Completar con un golpe de soda fría y remover con cuchara imperial con movimientos ascendentes.",
       "Decorar con la frutilla restante cortada en abanico y una ramita de hierbabuena fresca."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 647,
@@ -71519,7 +71559,8 @@
       "Colar sobre el vaso preparado con hielo.",
       "Verter suavemente el jugo de arándanos rojos en la superficie; por diferencia de densidad se generará un degradé natural rojizo.",
       "Decorar con media rodaja de naranja en el borde y una cereza roja."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 648,
@@ -71571,7 +71612,8 @@
       "Batir enérgicamente durante 15 segundos hasta sentir el metal helado.",
       "Doble colar (usando colador oruga y malla fina) sobre la copa helada para evitar esquirlas de hielo.",
       "Aromatizar la copa flameando los aceites esenciales de una cáscara de naranja sobre una llama y depositarla en el borde."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 649,
@@ -71621,7 +71663,8 @@
       "Verter muy despacio la granadina contra el borde interior del vaso; por su densidad caerá directo al fondo.",
       "Dejar reposar 30 segundos sin mezclar para que se asiente el degradé de tres colores: rojo profundo, naranja cálido y amarillo brillante en la cima.",
       "Decorar con la rodaja de naranja y la cereza ensartadas en un palillo de bambú."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 650,
@@ -71670,7 +71713,8 @@
       "Verter con extrema lentitud la crema irlandesa Baileys haciéndola resbalar por la cuchara para que repose sobre la capa oscura sin mezclarse.",
       "Limpiar la cucharilla y repetir exactamente la misma operación con el Grand Marnier en la parte superior.",
       "Servir de inmediato para contemplar las tres franjas perfectamente delimitadas y beber de un solo trago."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 651,
@@ -71721,7 +71765,8 @@
       "Doble colar el contenido en la copa o vaso con un cubo de hielo grande.",
       "Dejar reposar 15 segundos para que la espuma blanca de clara suba a la superficie formando una corona densa y suave.",
       "Decorar con la piel de limón y una cereza Amarena italiana."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 652,
@@ -71769,7 +71814,8 @@
       "Completar lentamente con la Ginger Beer picante bien fría.",
       "Remover suavemente con la cuchara imperial de abajo hacia arriba una sola vez para no perder gas carbónico.",
       "Decorar con una rodaja de lima fresca en el hielo y una ramita de menta recién aplaudida en las manos para activar sus aromas."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 653,
@@ -71819,7 +71865,8 @@
       "Mezclar con la técnica de *rolling* (pasar suavemente la mezcla de un vaso a otro 4 o 5 veces con hielo) para enfriar y airear sin romper la textura ni aguar el tomate.",
       "Colar sobre un vaso alto tipo Highball lleno de hielo fresco.",
       "Introducir una penca de apio fresco para usar como agitador natural y decorar con la rodaja de limón en el borde."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 654,
@@ -71869,7 +71916,8 @@
       "Colar con doble colador (oruga y malla fina) sobre un vaso bajo tipo Rocks / Old Fashioned con un gran bloque de hielo macizo.",
       "Hacer resbalar suavemente los 7.5 ml de Islay Single Malt ahumado sobre el dorso de la cuchara de bar, depositándolo en la superficie para formar una capa flotante (*float* aromático).",
       "Decorar con una lámina de jengibre confitado en un pincho sobre la copa."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 655,
@@ -71921,7 +71969,8 @@
       "Batir con fuerza durante 12 a 15 segundos hasta que el metal de la coctelera quede completamente escarchado.",
       "Doble colar con colador de gusanillo y malla fina directamente en la copa bien fría.",
       "Servir sin hielo, coronando con el pequeño avioncito de papel sujetado con una pincita o perfumando los bordes con la piel de naranja."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 656,
@@ -71971,7 +72020,8 @@
       "Colar sobre un vaso Old Fashioned / Rocks con hielo nuevo y macizo.",
       "Con mucho pulso, colocar la cuchara de bar con el dorso hacia arriba rozando la superficie de la bebida, y verter lentamente el vino tinto sobre el dorso para que resbale sin mezclarse, formando una capa roja perfecta en la parte superior.",
       "Decorar con la cereza y la piel de limón."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 657,
@@ -72023,7 +72073,8 @@
       "Doble colar con colador de gusanillo y malla fina directamente en la copa fría.",
       "Dejar asentar unos segundos para que la espuma blanca de clara suba a la superficie formando una corona densa y esponjosa sobre el líquido rosado.",
       "Apoyar delicadamente el pincho con las frambuesas sobre la corona de espuma."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 658,
@@ -72076,7 +72127,8 @@
       "Colar doble sobre un vaso Old Fashioned con un gran cubo de hielo macizo (o en copa Coupé sin hielo).",
       "Dejar que la corona de espuma blanca se estabilice en la superficie.",
       "Dejar caer 3 gotas de bitter Angostura sobre la espuma y pasar suavemente un palillo para dibujar corazones aromáticos."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 659,
@@ -72128,7 +72180,8 @@
       "Batir con fuerza durante 12 a 15 segundos hasta escarchar las paredes de la coctelera.",
       "Doble colar con colador de gusanillo y malla fina en la copa preparada.",
       "Exprimir los aceites esenciales de una piel de naranja sobre la superficie del trago y apoyar delicadamente la piel en el borde."
-    ]
+    ],
+    "is_cocktail": true
   },
   {
     "id": 660,
@@ -74189,9 +74242,9 @@
   },
   {
     "id": 688,
-    "title": "Risotto Trufado con Chorizo (Mi Receta)",
+    "title": "Risotto Trufado con Chorizo (Receta de Autor (Argentina))",
     "category": "Arroces & Pastas",
-    "country": "Mi Receta",
+    "country": "Receta de Autor (Argentina)",
     "prep_time": "20 min",
     "cook_time": "1 h",
     "total_time": "1 h 20 min",
@@ -76054,7 +76107,7 @@
     "country": "Reino Unido",
     "flag": "🇬🇧",
     "region": "Europa / Reino Unido",
-    "category": "Bebidas y Cócteles",
+    "category": "Cocktails & Bebidas",
     "subcategory": "Bebidas sin Alcohol y Aperitivos",
     "difficulty": "Fácil",
     "prep_time": "10 min",
@@ -76132,7 +76185,8 @@
       "Quinina",
       "Reino Unido",
       "Aperitivo"
-    ]
+    ],
+    "is_cocktail": false
   },
   {
     "id": 708,
@@ -76141,7 +76195,7 @@
     "country": "Estados Unidos",
     "flag": "🇺🇸",
     "region": "América del Norte",
-    "category": "Bebidas y Cócteles",
+    "category": "Cocktails & Bebidas",
     "subcategory": "Gaseosas y Refrescos Caseros",
     "difficulty": "Avanzado",
     "prep_time": "30 min",
@@ -76264,7 +76318,8 @@
       "Mejor Imitación",
       "Clon de Coca Cola",
       "Receta Secreta"
-    ]
+    ],
+    "is_cocktail": false
   },
   {
     "id": 709,
@@ -76273,7 +76328,7 @@
     "country": "Italia",
     "flag": "🇮🇹",
     "region": "Piamonte / Turín",
-    "category": "Bebidas y Cócteles",
+    "category": "Cocktails & Bebidas",
     "subcategory": "Aperitivos y Vermuts",
     "difficulty": "Fácil",
     "prep_time": "15 min",
@@ -76385,7 +76440,8 @@
       "Casero",
       "Bebidas",
       "Cócteles"
-    ]
+    ],
+    "is_cocktail": false
   },
   {
     "id": 710,
@@ -76394,7 +76450,7 @@
     "country": "Italia",
     "flag": "🇮🇹",
     "region": "Campania / Costa Amalfitana",
-    "category": "Bebidas y Cócteles",
+    "category": "Cocktails & Bebidas",
     "subcategory": "Licores Digestivos",
     "difficulty": "Fácil",
     "prep_time": "20 min",
@@ -76471,7 +76527,8 @@
       "Casero",
       "Artesanal",
       "Bebidas"
-    ]
+    ],
+    "is_cocktail": false
   },
   {
     "id": 711,
@@ -76480,7 +76537,7 @@
     "country": "Italia",
     "flag": "🇮🇹",
     "region": "Lombardía / Milán",
-    "category": "Bebidas y Cócteles",
+    "category": "Cocktails & Bebidas",
     "subcategory": "Licores Digestivos y Aperitivos",
     "difficulty": "Intermedia",
     "prep_time": "25 min",
@@ -76591,7 +76648,8 @@
       "Receta de Fernet",
       "Fernet con Cola",
       "Fernet Branca Clon"
-    ]
+    ],
+    "is_cocktail": false
   },
   {
     "id": 712,
@@ -76891,9 +76949,9 @@
   },
   {
     "id": 715,
-    "title": "Ossobuco al Vino Tinto con Polenta (Italia / Argentina)",
+    "title": "Ossobuco al Vino Tinto con Polenta (Italia)",
     "original_title": "Ossobuco Brasato al Vino Rosso con Polenta",
-    "country": "Italia / Argentina",
+    "country": "Italia",
     "flag": "🇮🇹 🇦🇷",
     "region": "Lombardía / Río de la Plata",
     "category": "Platos Principales",
