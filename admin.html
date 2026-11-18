@@ -701,18 +701,23 @@
       'Inglaterra': 'gb-eng', 'México': 'mx', 'Vietnam': 'vn', 'Rusia': 'ru', 'Corea del Sur': 'kr',
       'India': 'in', 'Grecia': 'gr', 'Turquía': 'tr', 'Perú': 'pe', 'Alemania': 'de', 'Irlanda': 'ie',
       'Suecia': 'se', 'Egipto': 'eg', 'Paraguay': 'py', 'Mongolia': 'mn', 'Armenia': 'am', 'Venezuela': 've',
-      'Sudáfrica': 'za', 'Senegal': 'sn', 'Ghana': 'gh', 'Etiopía': 'et', 'Kenia': 'ke', 'Túnez': 'tn', 'Nigeria': 'ng',  'Marruecos': 'ma', 'Bélgica': 'be', 'Cuba': 'cu', 'Líbano / Siria': 'lb',
+      'Sudáfrica': 'za', 'Senegal': 'sn', 'Ghana': 'gh', 'Etiopía': 'et', 'Kenia': 'ke', 'Túnez': 'tn', 'Nigeria': 'ng',  'Marruecos': 'ma', 'Bélgica': 'be', 'Cuba': 'cu', 'Líbano / Siria': 'lb', 'Líbano': 'lb', 'Libano': 'lb',
       'Medio Oriente': 'lb', 'Palestina': 'ps', 'Escocia': 'gb-sct', 'Singapur': 'sg', 'Taiwán': 'tw',
       'Afganistán': 'af', 'Caribe': 'cu', 'Uruguay': 'uy', 'Brasil': 'br', 'Portugal': 'pt',
       'Chile': 'cl', 'Bolivia': 'bo', 'Indonesia': 'id', 'Fusión': 'un', 'Internacional': 'un',
       'Australia': 'au', 'Balcanes': 'rs', 'Canadá / Internacional': 'ca', 'Canadá': 'ca',
       'Fusión Internacional': 'un', 'Hungría': 'hu', 'Inglaterra / Francia': 'gb',
-      'Inglaterra / Italia': 'gb', 'Nueva Zelanda': 'nz', 'Puerto Rico': 'pr', 'Suiza': 'ch'
+      'Inglaterra / Italia': 'gb', 'Nueva Zelanda': 'nz', 'Puerto Rico': 'pr', 'Suiza': 'ch',
+      'Camerún': 'cm', 'Camerun': 'cm', 'Dinamarca': 'dk', 'Lituania': 'lt',
+      'África': "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 18 13'%3E%3Crect width='18' height='4.33' fill='%23C8102E'/%3E%3Crect y='4.33' width='18' height='4.33' fill='%23000000'/%3E%3Crect y='8.66' width='18' height='4.34' fill='%23007A3D'/%3E%3C/svg%3E", 'Africa': "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 18 13'%3E%3Crect width='18' height='4.33' fill='%23C8102E'/%3E%3Crect y='4.33' width='18' height='4.33' fill='%23000000'/%3E%3Crect y='8.66' width='18' height='4.34' fill='%23007A3D'/%3E%3C/svg%3E"
     };
 
     function getCountryBadgeHtml(country) {
       const code = COUNTRY_FLAGS[country];
       if (code) {
+        if (code.startsWith('data:') || code.startsWith('http') || code.startsWith('/')) {
+          return `<img src="${code}" width="18" height="13" alt="${country}" class="flag-img"> ${country}`;
+        }
         return `<img src="https://flagcdn.com/w40/${code}.png" srcset="https://flagcdn.com/w80/${code}.png 2x" width="18" height="13" alt="${country}" class="flag-img"> ${country}`;
       }
       return `🌍 ${country}`;
