@@ -63619,7 +63619,7 @@
   },
   {
     "id": 571,
-    "title": "Crema de Avellanas y Cacao (Italia)",
+    "title": "Nutella Casera — La Mejor Imitación (Italia)",
     "category": "Postres & Dulces",
     "country": "Italia",
     "difficulty": "Fácil",
@@ -63640,7 +63640,12 @@
       "Chocolate y avellanas",
       "Pasta de avellanas",
       "Desayunos y meriendas",
-      "Repostería italiana"
+      "Repostería italiana",
+      "Nutella",
+      "Nutella Casera",
+      "Clon de Nutella",
+      "La Mejor Imitación",
+      "Receta Secreta"
     ],
     "story": "Cuando preparo esta crema en mi cocina, busco la untuosidad y el brillo satinado exactos de la histórica fórmula de Alba en el Piamonte. El secreto reside en no apurar la procesadora: las avellanas tostadas pasan de polvo a una masa densa y, finalmente, liberan sus aceites naturales hasta convertirse en un líquido brillante y tibio. Al incorporar la leche descremada en polvo, el cacao alcalinizado y la lecitina de soja, logramos esa textura de seda inalterable que se funde con pan crujiente sin endurecerse jamás en la alacena.",
     "ingredients": [
@@ -63730,7 +63735,8 @@
       "Con el motor en marcha a velocidad baja, añadir en hilo el aceite vegetal neutro, la lecitina de soja líquida y el extracto de vainilla. Procesar a máxima potencia durante 2 minutos ininterrumpidos hasta obtener una textura completamente lisa, untuosa y con brillo espejo.",
       "Verter la crema aún tibia y fluida en un frasco de vidrio limpio y seco con cierre hermético. Dejar reposar destapado a temperatura ambiente durante 6 a 8 horas para que los cristales de grasa se estabilicen.",
       "Una vez fría, tomará su consistencia densa y perfectamente untable. Conservar siempre a temperatura ambiente en alacena oscura (nunca en la heladera para evitar que las grasas se solidifiquen)."
-    ]
+    ],
+    "original_title": "Nutella Casera / Crema Gianduja Ferrero"
   },
   {
     "id": 572,
@@ -77243,6 +77249,759 @@
       "Azafrán",
       "Pescados y Mariscos",
       "Bodegón"
+    ]
+  },
+  {
+    "id": 718,
+    "title": "Ndolé (Camerún)",
+    "country": "Camerún",
+    "region": "África Central",
+    "category": "Platos Principales",
+    "difficulty": "Media",
+    "prep_time": "30 min",
+    "cook_time": "1 h 15 min",
+    "total_time": "1 h 45 min",
+    "servings": "6 porciones",
+    "image": "https://lh3.googleusercontent.com/--1akmJpHRG4/av0nEsX0EcI/AAAAAAAQCwo/LIzEESho9oYK3eOwip04AXJkw15ZljBSgCNcBGAsYHQ/s1600/ndole_camerun.jpg",
+    "story": "El ndolé es el emblema gastronómico supremo del pueblo duala en la costa de Camerún, considerado el plato nacional indiscutido del país. Históricamente elaborado con hojas amargas de vernonia silvestres, este guiso denso y suntuoso es el protagonista obligado de las celebraciones solemnes, banquetes y bodas tradicionales camerunesas.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Verduras y Maní",
+        "ingredients": [
+          "500 g de hojas de acelga o espinaca lavadas y cortadas finas (sustituto ideal de las bitterleaf)",
+          "300 g de maní crudo sin sal y pelado",
+          "2 cebollas medianas picadas fino",
+          "4 dientes de ajo triturados",
+          "1 trozo de jengibre fresco de 3 cm rallado",
+          "1 chile habanero o ají picante entero (sin romper, para aromatizar)",
+          "3 cucharadas de aceite de girasol o maíz"
+        ]
+      },
+      {
+        "name": "Carnes y Mariscos",
+        "ingredients": [
+          "600 g de carne vacuna para estofado (roast beef o palomita), hervida tierna y cortada en tiras finas",
+          "300 g de langostinos o camarones limpios",
+          "2 cucharadas de camarones secos molidos (crayfish tradicional)",
+          "1 litro de caldo concentrado de la cocción de la carne",
+          "Sal gruesa y pimienta negra recién molida a gusto"
+        ]
+      },
+      {
+        "name": "Acompañamiento Tradicional",
+        "ingredients": [
+          "Plátanos machos maduros fritos (aloco), mandioca hervida o arroz blanco al vapor"
+        ]
+      }
+    ],
+    "ingredients": [
+      "500 g de hojas de acelga o espinaca lavadas y cortadas finas",
+      "300 g de maní crudo sin sal y pelado",
+      "2 cebollas medianas picadas fino",
+      "4 dientes de ajo triturados",
+      "1 trozo de jengibre fresco de 3 cm rallado",
+      "1 chile habanero entero",
+      "3 cucharadas de aceite de girasol",
+      "600 g de carne vacuna cocida tierna en tiras finas",
+      "300 g de langostinos o camarones limpios",
+      "2 cucharadas de camarones secos molidos",
+      "1 litro de caldo de carne",
+      "Sal y pimienta a gusto",
+      "Plátanos machos maduros fritos, mandioca o arroz para acompañar"
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación de la Pasta de Maní y las Hojas",
+        "steps": [
+          "Herví el maní crudo pelado en agua hirviendo durante 10 minutos para ablandarlo. Escurrí y procesalo en licuadora con 1 taza de caldo tibio de la carne hasta lograr una pasta densa, sedosa y completamente lisa.",
+          "Blanqueá las hojas cortadas de acelga en abundante agua hirviendo con sal durante 3 minutos. Escurrilas de inmediato y sumergilas en un baño de agua helada; luego exprimilas enérgicamente con las manos para extraer todo el exceso de líquido."
+        ]
+      },
+      {
+        "name": "Cocción del Guisado y Fusión de Sabores",
+        "steps": [
+          "En una olla grande o cacerola de fondo grueso, calentá 2 cucharadas de aceite y dorá 1 cebolla picada con el ajo y el jengibre hasta transparentar.",
+          "Verté la pasta de maní licuada y sumá 2 tazas de caldo de carne caliente junto con los camarones secos molidos. Cociná a fuego medio-bajo durante 15 minutos revolviendo continuamente para que no se pegue en el fondo.",
+          "Incorporá la carne vacuna en tiras tiernas y las hojas verdes escurridas. Mezclá suavemente con cuchara de madera, bajá el fuego al mínimo y dejá cocinar tapado durante 20 minutos hasta que la salsa quede bien untuosa y se formen pequeñas gotas de aceite en la superficie."
+        ]
+      },
+      {
+        "name": "Toque Final de Langostinos y Servido",
+        "steps": [
+          "En una sartén aparte bien caliente con un hilo de aceite, salteá a fuego vivo la otra cebolla cortada en pluma fina junto con los langostinos durante 2 minutos hasta dorar.",
+          "Volcá este salteado caliente sobre la cacerola de ndolé al momento de servir y rectificá sal.",
+          "Serví bien humeante en cuencos hondos acompañado de rodajas de plátano macho maduro frito, mandioca caliente o arroz blanco."
+        ]
+      }
+    ],
+    "steps": [
+      "Herví el maní crudo pelado en agua hirviendo durante 10 minutos. Escurrí y procesalo con 1 taza de caldo tibio hasta lograr una pasta densa y lisa.",
+      "Blanqueá las hojas de acelga en agua hirviendo durante 3 minutos, pasalas por agua helada y exprimilas muy bien con las manos para quitar el líquido.",
+      "En una olla gruesa calentá 2 cucharadas de aceite y dorá 1 cebolla picada con el ajo y jengibre hasta transparentar.",
+      "Verté la pasta de maní, 2 tazas de caldo de carne caliente y los camarones secos molidos. Cociná a fuego medio-bajo por 15 minutos revolviendo.",
+      "Incorporá la carne vacuna en tiras y las hojas verdes escurridas. Cociná a fuego suave tapado durante 20 minutos hasta lograr una textura cremosa.",
+      "En sartén salteá la otra cebolla en pluma con los langostinos limpios por 2 minutos hasta dorar.",
+      "Volcá el salteado de langostinos sobre el guisado y rectificá condimentos.",
+      "Serví bien caliente acompañado de plátanos machos fritos, mandioca o arroz blanco."
+    ],
+    "notes": "El maní debe ser estrictamente crudo; el maní tostado altera el color y la textura aterciopelada clásica del ndolé. Si no conseguís camarones secos molidos, podés potenciar el sofrito con 1 cucharada de salsa de pescado o pasta de camarón para aportar ese toque umami costero indispensable.",
+    "tags": [
+      "Ndolé",
+      "Camerún",
+      "África Central",
+      "Guiso de maní",
+      "Carne y mariscos",
+      "Bitterleaf",
+      "Platos tradicionales africanos",
+      "Cocina camerunesa"
+    ]
+  },
+  {
+    "id": 719,
+    "title": "Salsa de Maní al Djansan (Camerún)",
+    "country": "Camerún",
+    "region": "África Central",
+    "category": "Platos Principales",
+    "difficulty": "Fácil",
+    "prep_time": "25 min",
+    "cook_time": "50 min",
+    "total_time": "1 h 15 min",
+    "servings": "6 porciones",
+    "image": "https://lh3.googleusercontent.com/-oIzpqpDJ3a4/av0nGJEfsJI/AAAAAAAQCww/hLucn8YwdEYO4eegTPj06coduSkQm_EJACNcBGAsYHQ/s1600/salsa_de_mani_al_djansan_camerun.jpg",
+    "story": "La salsa de maní perfumada con semillas de djansan (akpi o Ricinodendron heudelotii) es una de las joyas aromáticas más reverenciadas de los hogares del golfo de Guinea y el sur boscoso de Camerún. El tostado de estas semillas oleaginosas aporta un aroma tostado amaderado único que transforma un guisado de carne cotidiano en un manjar festivo familiar.",
+    "ingredient_groups": [
+      {
+        "name": "Especias y Base Aromática",
+        "ingredients": [
+          "200 g de maní tostado sin sal pelado",
+          "2 cucharadas de semillas de djansan tostadas (o avellanas tostadas molidas con toque de nuez moscada como alternativa)",
+          "2 tomates maduros perita pelados y sin semillas",
+          "2 cebollas medianas",
+          "3 dientes de ajo",
+          "1 trozo de jengibre de 2 cm pelado",
+          "3 cucharadas de aceite de maíz o palma rojo suave"
+        ]
+      },
+      {
+        "name": "Carne y Estofado",
+        "ingredients": [
+          "800 g de carne vacuna (tapa de asado, paleta o aguja) tierna y cortada en trozos medianos o desmechada",
+          "800 ml de caldo de carne casero bien sabroso",
+          "1 hoja de laurel",
+          "1 ramita de tomillo fresco",
+          "Sal gruesa y pimienta blanca molida a gusto"
+        ]
+      },
+      {
+        "name": "Para Servir",
+        "ingredients": [
+          "Arroz blanco largo fino al vapor, fou-fou de mandioca o plátano hervido"
+        ]
+      }
+    ],
+    "ingredients": [
+      "200 g de maní tostado sin sal pelado",
+      "2 cucharadas de semillas de djansan tostadas molidas",
+      "2 tomates maduros perita pelados",
+      "2 cebollas medianas",
+      "3 dientes de ajo",
+      "1 trozo de jengibre de 2 cm",
+      "3 cucharadas de aceite",
+      "800 g de carne vacuna en cubos o desmechada",
+      "800 ml de caldo de carne casero",
+      "1 hoja de laurel",
+      "Tomillo, sal y pimienta a gusto",
+      "Arroz blanco al vapor o fou-fou para acompañar"
+    ],
+    "step_groups": [
+      {
+        "name": "Molienda de Aromas y Maní",
+        "steps": [
+          "Tostá ligeramente en sartén seca las semillas de djansan hasta que desprendan su perfume a frutos secos del bosque.",
+          "Colocá en la licuadora el maní tostado, el djansan tostado, los tomates en trozos, 1 cebolla, los dientes de ajo, el jengibre y 1 taza de caldo. Licuá a máxima potencia hasta obtener un puré aromático denso y homogéneo."
+        ]
+      },
+      {
+        "name": "Sellado y Cocción de la Carne",
+        "steps": [
+          "En una cacerola de hierro o barro, dorá los trozos de carne vacuna en el aceite bien caliente a fuego vivo hasta formar costra dorada. Salpimentá y reservá la carne.",
+          "En el mismo fondo de cocción con los jugos de la carne, dorá la otra cebolla cortada en brunoise fina durante 5 minutos."
+        ]
+      },
+      {
+        "name": "Cocción Lenta de la Salsa Espesa",
+        "steps": [
+          "Volcá el licuado de maní y djansan en la cacerola junto con la cebolla dorada. Cociná a fuego medio revolviendo constantemente durante 10 minutos para que el maní y el djansan liberen sus aceites naturales.",
+          "Reintegrá la carne con sus jugos, agregá la hoja de laurel, el tomillo y el resto del caldo de carne caliente.",
+          "Tapá y cociná a fuego muy bajo durante 35 minutos, revolviendo de vez en cuando, hasta que la salsa reduzca a una consistencia espesa, brillante y de color marrón dorado apetitoso.",
+          "Serví bien caliente en cazuelas hondas coronado con un toque de chile fresco si te gusta el picante y acompañado de arroz blanco bien graneado."
+        ]
+      }
+    ],
+    "steps": [
+      "Tostá en sartén seca el djansan hasta que desprenda aroma a frutos secos.",
+      "Licuá el maní tostado, el djansan, los tomates, 1 cebolla, ajos, jengibre y 1 taza de caldo hasta lograr una pasta untuosa.",
+      "En cacerola dorá la carne vacuna a fuego fuerte en aceite, salpimentá y reservala.",
+      "En la misma olla rehogá la segunda cebolla picada fina hasta dorar.",
+      "Sumá la pasta licuada y cociná 10 minutos a fuego suave revolviendo para cocinar el maní.",
+      "Agregá la carne con sus jugos, laurel, tomillo y el resto del caldo caliente.",
+      "Cociná tapado a fuego mínimo 35 minutos hasta que la salsa espese y brille.",
+      "Serví sobre abundante arroz blanco al vapor o fou-fou de mandioca."
+    ],
+    "notes": "El secreto del djansan radica en dorar suavemente las semillas enteras antes de molerlas; no solo espesa la preparación de forma natural por su alto contenido de almidones y lípidos, sino que entrega una nota de fondo similar al sésamo tostado y la avellana silvestre.",
+    "tags": [
+      "Salsa de Maní",
+      "Djansan",
+      "Camerún",
+      "Guiso de carne",
+      "Cocina africana",
+      "Akpi",
+      "África Central",
+      "Comida tradicional camerunesa"
+    ]
+  },
+  {
+    "id": 720,
+    "title": "Cuscús con Carne y Verduras (Marruecos)",
+    "country": "Marruecos",
+    "region": "Norte de África",
+    "category": "Platos Principales",
+    "difficulty": "Media",
+    "prep_time": "30 min",
+    "cook_time": "1 h 30 min",
+    "total_time": "2 h",
+    "servings": "6 porciones",
+    "image": "https://lh3.googleusercontent.com/-B0KLJbWmqig/av0nHbF_0wI/AAAAAAAQCw4/o57rcknszropNbLz21umGYdkBLBq0I0CACNcBGAsYHQ/s1600/cuscus_con_carne_y_verduras_marruecos.jpg",
+    "story": "El cuscús es el corazón identitario de la civilización bereber del Magreb, documentado desde el siglo XIII en las llanuras del Atlas y extendido por todo el norte de África. Declarado Patrimonio Cultural Inmaterial de la Humanidad por la UNESCO, este plato es el banquete sagrado de los viernes musulmanes, donde las familias se reúnen en torno a una única fuente comunal.",
+    "ingredient_groups": [
+      {
+        "name": "Sémola de Cuscús",
+        "ingredients": [
+          "500 g de sémola de trigo duro de grano medio",
+          "50 g de manteca o smen (manteca fermentada tradicional)",
+          "2 cucharadas de aceite de oliva virgen extra",
+          "Agua tibia con sal para hidratar"
+        ]
+      },
+      {
+        "name": "Carne y Caldo al Azafrán",
+        "ingredients": [
+          "800 g de carne vacuna o cordero en trozos grandes con hueso (osobuco, aguja o falda)",
+          "2 cebollas grandes picadas en pluma",
+          "1 taza de garbanzos cocidos",
+          "1 pizca generosa de hebras de azafrán puro",
+          "1 cucharadita de cúrcuma molida",
+          "1 cucharadita de jengibre molido",
+          "1 rama de canela",
+          "1 atado de perejil y cilantro fresco atado con hilo de cocina",
+          "3 cucharadas de aceite de oliva",
+          "Sal y pimienta negra molida a gusto"
+        ]
+      },
+      {
+        "name": "Las 7 Verduras Tradicionales",
+        "ingredients": [
+          "3 zanahorias peladas cortadas a lo largo",
+          "2 calabacines o zuchinis cortados en bastones gruesos",
+          "300 g de calabaza pelada en trozos grandes",
+          "2 nabos pequeños pelados y partidos al medio",
+          "1 trozo de repollo blanco en cuartos"
+        ]
+      }
+    ],
+    "ingredients": [
+      "500 g de sémola de cuscús de grano medio",
+      "50 g de manteca",
+      "5 cucharadas de aceite de oliva",
+      "800 g de carne vacuna o cordero en trozos",
+      "2 cebollas grandes picadas",
+      "1 taza de garbanzos cocidos",
+      "Hebras de azafrán, cúrcuma, jengibre y rama de canela",
+      "Atado de perejil y cilantro",
+      "Zanahorias, zuchinis, calabaza, nabos y repollo",
+      "Sal y pimienta a gusto"
+    ],
+    "step_groups": [
+      {
+        "name": "Base de Carne y Caldo Aromático",
+        "steps": [
+          "En la base de una cuscusera o en una olla alta profunda, calentá el aceite de oliva y dorá la carne con las cebollas durante 10 minutos a fuego vivo.",
+          "Sumá las especias (azafrán, cúrcuma, jengibre, canela), sal, pimienta y el atado de hierbas frescas. Cubrí con 2 litros de agua hirviendo, tapá y cociná a fuego medio durante 45 minutos."
+        ]
+      },
+      {
+        "name": "Cocción al Vapor de la Sémola y Verduras",
+        "steps": [
+          "En un recipiente amplio (gsaa), rociá la sémola con 2 cucharadas de aceite de oliva y frotala con las palmas de las manos para lubricar cada grano. Agregá media taza de agua con sal, mezclá y dejá reposar 10 minutos para que absorba.",
+          "Incorporá a la olla del caldo las verduras de cocción más firme (zanahorias, nabos y repollo) junto con los garbanzos.",
+          "Colocá la parte superior perforada de la cuscusera sobre la olla con la sémola. Dejá que el vapor del caldo aromático cocine el cuscús durante 20 minutos.",
+          "Retirá la sémola al recipiente amplio, separala con un tenedor o las manos humedecidas en agua fría, incorporá trozos de manteca y dejá ventilar.",
+          "Sumá a la olla las verduras tiernas (calabacín y calabaza). Volvé a montar la sémola sobre la cuscusera y cociná al vapor otros 15 minutos finales."
+        ]
+      },
+      {
+        "name": "Armado Noble y Presentación",
+        "steps": [
+          "Disponé la sémola caliente en una gran fuente redonda formando un volcán o domo amplio.",
+          "Colocá la carne tierna desmenuzada en el centro y acomodá las verduras en rayos decorativos sobre la sémola, coronando con los garbanzos.",
+          "Rociá generosamente con unos cucharones del caldo dorado bien caliente y serví el resto del caldo aromatizado al azafrán en una salsera al lado."
+        ]
+      }
+    ],
+    "steps": [
+      "En olla alta dorá la carne con las cebollas en aceite de oliva durante 10 minutos.",
+      "Agregá las especias, atado de hierbas y 2 litros de agua hirviendo; cociná tapado 45 minutos.",
+      "Humectá la sémola con aceite y agua con sal, frotando con las palmas para airear los granos.",
+      "Sumá a la olla las zanahorias, nabos, repollo y garbanzos.",
+      "Cociná la sémola al vapor sobre la olla durante 20 minutos.",
+      "Retirá la sémola, aireala con manteca y volvé a cocinar 15 minutos más junto con el zuchini y calabaza en el caldo.",
+      "Serví la sémola en fuente formando un domo con la carne en el centro y las verduras en rayos.",
+      "Bañá con caldo caliente al azafrán y llevá a la mesa."
+    ],
+    "notes": "Nunca ahogues la sémola directamente en agua hirviendo si querés textura magrebí auténtica; cocinarla al vapor sobre el mismo vapor especiado del cordero y las verduras infunde cada grano de un aroma incomparable sin apelmazarlo.",
+    "tags": [
+      "Cuscús",
+      "Marruecos",
+      "Magreb",
+      "Norte de África",
+      "Cuscús noble",
+      "Semola al vapor",
+      "UNESCO",
+      "Cocina bereber"
+    ]
+  },
+  {
+    "id": 721,
+    "title": "Porotos Colorados con Carne (África)",
+    "country": "África",
+    "region": "África Oriental y Central",
+    "category": "Guisos y Cazuelas",
+    "difficulty": "Fácil",
+    "prep_time": "20 min (más remojo previo)",
+    "cook_time": "1 h 15 min",
+    "total_time": "1 h 35 min",
+    "servings": "6 porciones",
+    "image": "https://lh3.googleusercontent.com/-z7Jm-LiG2Jc/av0nIz_zJOI/AAAAAAAQCxA/0gZBHS869J4mGh0StCtluWr3c9B2wy2TwCNcBGAsYHQ/s1600/porotos_colorados_con_carne_africa.jpg",
+    "story": "El guisado de porotos colorados cocidos lentamente con carne vacuna desmechada y sofrito especiado —conocido popularmente en varios países subsaharianos y en comedores populares como la fórmula 'Cinco Estrellas'— es un plato cotidiano de fuerza y nutrición. Nacido en los hogares comunitarios de la región de los Grandes Lagos y África oriental, combina la nobleza de las legumbres con el poder reconstituyente de los cortes de carne de cocción prolongada.",
+    "ingredient_groups": [
+      {
+        "name": "Porotos y Cocción Base",
+        "ingredients": [
+          "400 g de porotos colorados (kidney beans o judías rojas) remojados 8 horas en agua fría",
+          "1 hoja de laurel",
+          "1 cebolla entera pelada",
+          "Agua limpia para cocción"
+        ]
+      },
+      {
+        "name": "Carne y Sofrito Africano",
+        "ingredients": [
+          "600 g de carne vacuna (paleta, tortuguita o roast beef) cortada en cubos o desmechada",
+          "2 cebollas medianas picadas en brunoise",
+          "1 pimiento rojo en cubitos",
+          "3 dientes de ajo picados",
+          "2 tomates maduros rallados o triturados",
+          "1 cucharada de pimentón dulce",
+          "1 cucharadita de comino molido",
+          "1/2 cucharadita de ají molido o cayena",
+          "3 cucharadas de aceite de girasol",
+          "Sal gruesa y pimienta a gusto",
+          "Perejil o cilantro fresco picado para terminar"
+        ]
+      }
+    ],
+    "ingredients": [
+      "400 g de porotos colorados remojados",
+      "600 g de carne vacuna en trozos tiernos o desmechada",
+      "3 cebollas",
+      "1 pimiento rojo picado",
+      "3 dientes de ajo picados",
+      "2 tomates maduros triturados",
+      "Pimentón dulce, comino y ají molido",
+      "Aceite, sal, pimienta y laurel",
+      "Perejil fresco picado"
+    ],
+    "step_groups": [
+      {
+        "name": "Hervor de Legumbres y Carne",
+        "steps": [
+          "Enjuagá los porotos remojados y hervilos en una cacerola con abundante agua fresca, una cebolla entera y la hoja de laurel a fuego medio durante 45 a 50 minutos hasta que estén tiernos pero enteros. Reservá los porotos con su caldo de cocción.",
+          "En otra cacerola o sartén honda, dorá los trozos de carne con sal y pimienta en 1 cucharada de aceite hasta sellar bien. Agregá un poco de agua o caldo, tapá y cociná a fuego bajo hasta que la carne esté sumamente tierna para desmechar fácilmente con dos tenedores."
+        ]
+      },
+      {
+        "name": "Armado del Guisado y Concentración",
+        "steps": [
+          "En una olla amplia, calentá el aceite restante y rehogá las dos cebollas picadas y el pimiento rojo a fuego medio durante 8 minutos hasta que caramelicen suavemente.",
+          "Agregá el ajo, el pimentón dulce, el comino y el ají molido. Remové 30 segundos para despertar las especias e incorporá de inmediato los tomates triturados.",
+          "Dejá espesar el sofrito durante 6 minutos hasta que el tomate reduzca y tome un tono rojo oscuro brillante.",
+          "Sumá la carne desmechada con sus jugos y los porotos colorados cocidos junto con 2 cucharones de su agua de cocción almidonada.",
+          "Cociná todo a fuego lento durante 20 minutos semi-tapado, aplastando con el revés de la cuchara unos pocos porotos contra el borde de la olla para espesar y amalgamar el guiso naturalmente.",
+          "Apagá el fuego, dejá reposar 5 minutos para asentar los sabores y serví con perejil fresco espolvoreado por encima."
+        ]
+      }
+    ],
+    "steps": [
+      "Herví los porotos colorados remojados con laurel y 1 cebolla por 50 minutos hasta tiernizar.",
+      "Sellá la carne vacuna en cubos, cocinala a fuego suave hasta tiernizar y desmechala.",
+      "En olla rehogá las cebollas picadas y el pimiento rojo hasta caramelizar.",
+      "Sumá ajo, pimentón, comino y ají molido, y luego incorporá los tomates triturados hasta reducir.",
+      "Añadí la carne desmechada, los porotos y 2 cucharones de su caldo de cocción.",
+      "Cociná a fuego suave 20 minutos aplastando algunos porotos para lograr una salsa espesa y untuosa.",
+      "Espolvoreá con perejil fresco y serví bien caliente."
+    ],
+    "notes": "Aplastá una pequeña porción de los porotos cocidos directamente contra la pared de la cacerola: el almidón natural de la legumbre se integra a la salsa de tomate y carne logrando una densidad aterciopelada sin necesidad de añadir harinas.",
+    "tags": [
+      "Porotos con carne",
+      "África",
+      "Guiso de porotos",
+      "Legumbres",
+      "Carne desmechada",
+      "Cinco Estrellas",
+      "Guisos tradicionales",
+      "Kidney beans"
+    ]
+  },
+  {
+    "id": 722,
+    "title": "Beef Wellington (Reino Unido)",
+    "country": "Reino Unido",
+    "region": "Europa Occidental",
+    "category": "Platos Principales",
+    "difficulty": "Difícil",
+    "prep_time": "50 min",
+    "cook_time": "40 min",
+    "total_time": "1 h 30 min (más refrigeración)",
+    "servings": "6 porciones",
+    "image": "https://lh3.googleusercontent.com/-A9aZ4Pt-bfk/av0n0IUuFjI/AAAAAAAQCxY/z4eukN1gYjQzhIuPpKnmnOw-Ct6XDV_gQCNcBGAsYHQ/s1600/beef_wellington_reino_unido.jpg",
+    "story": "Atribuido históricamente a Arthur Wellesley, primer duque de Wellington tras su célebre triunfo en la batalla de Waterloo en 1815, este plato cumbre de la alta cocina británica es una sofisticada reinterpretación del clásico filet de bœuf en croûte continental. Consagrado en los banquetes de gala de Londres durante el siglo XX, representa la cúspide de la precisión técnica en el dominio térmico por capas.",
+    "ingredient_groups": [
+      {
+        "name": "Lomo Vacuno y Sellado",
+        "ingredients": [
+          "1 pieza cilíndrica de lomo vacuno central (solomillo limpio de grasa y cordón) de 900 g a 1 kg",
+          "2 cucharadas de aceite de oliva virgen extra",
+          "2 cucharadas de mostaza inglesa picante o mostaza de Dijon",
+          "Sal entrefina y pimienta negra recién molida"
+        ]
+      },
+      {
+        "name": "Duxelle Deshidratada de Hongos",
+        "ingredients": [
+          "500 g de champiñones frescos y hongos Portobello",
+          "30 g de hongos silvestres secos (boletus o de pino) rehidratados en agua tibia y escurridos",
+          "2 echalotes picados en brunoise microscópica",
+          "2 dientes de ajo rallados fino",
+          "2 ramitas de tomillo fresco deshojado",
+          "2 cucharadas de manteca",
+          "Sal y pimienta blanca a gusto"
+        ]
+      },
+      {
+        "name": "Envoltura y Costra de Hojaldre",
+        "ingredients": [
+          "8 a 10 fetas muy finas de jamón crudo tipo Parma o prosciutto crudo",
+          "1 lámina de masa de hojaldre puro manteca de 30x40 cm (4 mm de espesor)",
+          "2 yemas de huevo batidas con una cucharadita de leche para dorar",
+          "Sal marina en escamas para decorar"
+        ]
+      },
+      {
+        "name": "Salsa de Acompañamiento",
+        "ingredients": [
+          "300 ml de salsa demi-glace oscura de carne reducida con vino tinto y tomillo"
+        ]
+      }
+    ],
+    "ingredients": [
+      "1 pieza de lomo vacuno central limpia de 1 kg",
+      "2 cucharadas de aceite de oliva",
+      "2 cucharadas de mostaza inglesa o Dijon",
+      "500 g de champiñones y portobellos picados fino",
+      "30 g de hongos silvestres secos hidratados",
+      "2 echalotes y 2 dientes de ajo picados",
+      "Tomillo fresco, sal entrefina y pimienta negra",
+      "8 a 10 fetas finas de jamón crudo tipo prosciutto",
+      "1 lámina de masa de hojaldre mantecoso de 30x40 cm",
+      "2 yemas de huevo para pintar",
+      "Sal marina en escamas y demi-glace de carne para acompañar"
+    ],
+    "step_groups": [
+      {
+        "name": "Sellado Térmico y Sellado con Mostaza",
+        "steps": [
+          "Atá el lomo con hilo de cocina para asegurar una forma perfectamente cilíndrica y regular. Salpimentá generosamente toda la superficie de la carne.",
+          "Calentá una sartén de fondo grueso con 2 cucharadas de aceite de oliva hasta que comience a humear. Sellá el lomo a fuego vivo durante solo 1 minuto por cada cara, dorando la superficie exterior sin transmitir calor al corazón crudo de la pieza.",
+          "Retirá de inmediato a una tabla, quitá el hilo de cocina y pintá en caliente toda la superficie con la mostaza inglesa. Dejá enfriar a temperatura ambiente y luego llevalo a la heladera durante 30 minutos para cortar por completo la cocción interna."
+        ]
+      },
+      {
+        "name": "Preparación de la Duxelle Ultra Deshidratada",
+        "steps": [
+          "Procesá los champiñones, portobellos y los hongos silvestres hidratados hasta obtener una picadura muy fina sin llegar a hacerlos puré líquido.",
+          "En una sartén amplia a fuego medio-alto con la manteca, salteá los echalotes y el ajo durante 2 minutos. Agregá los hongos procesados y el tomillo.",
+          "Cociná durante 15 a 20 minutos revolviendo constantemente hasta que se evapore absolutamente toda la humedad y el agua de vegetación de los hongos. La duxelle debe quedar compacta, untable y seca como una pasta; si queda humedad, arruinará el hojaldre. Dejá enfriar por completo en heladera."
+        ]
+      },
+      {
+        "name": "Ensamblado y Relleno Hermético",
+        "steps": [
+          "Extendé un pliego amplio de papel film sobre la mesada. Disponé las fetas de jamón crudo superponiéndolas ligeramente para formar un rectángulo del tamaño del lomo.",
+          "Untá la duxelle de hongos de manera uniforme sobre el manto de jamón crudo.",
+          "Colocá el lomo frío en el centro. Con la ayuda del papel film, enrollá firmemente el jamón y los hongos alrededor del lomo, presionando los extremos hacia adentro como un caramelo apretado. Llevá el cilindro a la heladera durante 20 minutos para que tome firmeza estructural."
+        ]
+      },
+      {
+        "name": "Envoltura en Hojaldre y Horneado con Sonda",
+        "steps": [
+          "Estirá la masa de hojaldre fría sobre la mesada ligeramente enharinada. Retirá el film del cilindro de carne y colocalo en el centro del hojaldre.",
+          "Pintá los bordes de la masa con yema batida y envolvé el lomo con el hojaldre, recortando los excesos de masa en los extremos para que no queden pliegues gruesos sin cocer. Sellá bien las uniones hacia abajo.",
+          "Pintá toda la superficie externa con yema de huevo y realizá finos cortes decorativos superficiales con el revés del cuchillo sin perforar la masa. Espolvoreá con escamas de sal marina.",
+          "Llevá a la heladera 15 minutos más mientras precalentás el horno a 200 °C con calor envolvente.",
+          "Insertá una sonda térmica en el centro exacto del lomo y horneá durante 30 a 35 minutos hasta que la masa esté dorada y crocante y la sonda marque exactamente 50 °C para punto jugoso rosado (medium-rare).",
+          "Retirá del horno y dejá reposar sobre una rejilla durante 10 a 12 minutos para que los jugos internos se redistribuyan y no humedezcan la masa. Cortá con cuchillo de sierra filoso en rodajas gruesas y serví con la demi-glace caliente."
+        ]
+      }
+    ],
+    "steps": [
+      "Atá el lomo cilíndrico, salpimentalo y sellalo a fuego vivo en sartén humeante 1 minuto por cara.",
+      "Pintá en caliente con mostaza inglesa y enfriá en heladera 30 minutos.",
+      "Salteá los hongos procesados con echalotes y ajo hasta evaporar el 100% de la humedad; enfriá la duxelle seca.",
+      "Sobre papel film armá un manto con las fetas de jamón crudo, cubrí con la duxelle y enrollá el lomo apretado como caramelo; enfriá 20 minutos.",
+      "Envolvé el cilindro en la lámina de hojaldre, sellá bordes, pintá con yema batida y decorá con cortes superficiales.",
+      "Horneá a 200 °C hasta que el hojaldre esté dorado y la sonda marque 50 °C al centro (30-35 minutos).",
+      "Reposá 10 minutos sobre rejilla antes de cortar en rebanadas gruesas y serví con salsa demi-glace caliente."
+    ],
+    "notes": "La clave absoluta de un Wellington perfecto radica en la deshidratación total de la duxelle y en respetar los descansos en frío: si los hongos conservan humedad o el lomo se envuelve tibio, el vapor ablandará el hojaldre por dentro creando el temido fondo blando ('soggy bottom'). El uso de sonda térmica asegura el punto rosado perfecto sin margen de error.",
+    "tags": [
+      "Beef Wellington",
+      "Reino Unido",
+      "Solomillo Wellington",
+      "Hojaldre",
+      "Lomo vacuno",
+      "Alta cocina británica",
+      "Duxelle",
+      "Platos de fiesta"
+    ]
+  },
+  {
+    "id": 723,
+    "title": "Lancashire Hotpot (Reino Unido)",
+    "country": "Reino Unido",
+    "region": "Noroeste de Inglaterra",
+    "category": "Guisos y Cazuelas",
+    "difficulty": "Media",
+    "prep_time": "25 min",
+    "cook_time": "2 h 30 min",
+    "total_time": "2 h 55 min",
+    "servings": "6 porciones",
+    "image": "https://lh3.googleusercontent.com/-HswIy8eVh7s/av0n2LamuOI/AAAAAAAQCxg/D9kVeWwHNWgRucrHcg6HTt0Ml8FRHdIKACNcBGAsYHQ/s1600/lancashire_hotpot_reino_unido.jpg",
+    "story": "Nacido en el condado de Lancashire durante el auge de la Revolución Industrial inglesa en el siglo XIX, este guiso fue la comida emblema de las familias trabajadoras de los telares y molinos de algodón. Se dejaba la cazuela de barro tapada cociéndose a fuego mínimo durante largas horas en los hornos comunales del pueblo para encontrar al regresar a casa una cena caliente, tierna y reconfortante.",
+    "ingredient_groups": [
+      {
+        "name": "Cordero y Fondo de Cocción",
+        "ingredients": [
+          "900 g de cordero en trozos con hueso (chuletitas, garrón o cuello deshuesado)",
+          "2 cucharadas de grasa de cordero o manteca",
+          "3 cebollas grandes cortadas en aros medianos",
+          "2 zanahorias grandes cortadas en rodajas gruesas",
+          "2 cucharadas colmadas de harina de trigo común",
+          "600 ml de caldo de cordero o carne gelatinoso casero",
+          "1 cucharada de salsa Worcestershire (salsa inglesa)",
+          "2 ramitas de tomillo fresco y 1 hoja de laurel",
+          "Sal gruesa y abundante pimienta negra recién molida"
+        ]
+      },
+      {
+        "name": "Cubierta de Papas en Teja",
+        "ingredients": [
+          "900 g de papas medianas (variedad harinosa) peladas y cortadas en rodajas parejas de 3 mm",
+          "40 g de manteca derretida",
+          "Sal entrefina y pimienta negra a gusto"
+        ]
+      },
+      {
+        "name": "Guarnición Tradicional",
+        "ingredients": [
+          "Repollo morado encurtido o remolacha asada tradicional"
+        ]
+      }
+    ],
+    "ingredients": [
+      "900 g de cordero en trozos con hueso",
+      "2 cucharadas de grasa de cordero o manteca",
+      "3 cebollas cortadas en aros",
+      "2 zanahorias en rodajas gruesas",
+      "2 cucharadas de harina común",
+      "600 ml de caldo de cordero o carne gelatinoso",
+      "1 cucharada de salsa Worcestershire",
+      "Tomillo fresco, laurel, sal y pimienta negra",
+      "900 g de papas cortadas en rodajas de 3 mm",
+      "40 g de manteca derretida para pincelar",
+      "Repollo morado encurtido para acompañar"
+    ],
+    "step_groups": [
+      {
+        "name": "Sellado del Cordero y Sofrito",
+        "steps": [
+          "En una cazuela de hierro fundido esmaltado apta para horno, derretí 1 cucharada de grasa o manteca a fuego fuerte. Sellá los trozos de cordero salpimentados hasta dorar bien por fuera. Retirá y reservá la carne.",
+          "En la misma cazuela a fuego medio, dorá las cebollas y las zanahorias durante 8 minutos hasta que comiencen a caramelizar en los jugos del cordero.",
+          "Espolvoreá la harina sobre las verduras y revolvé durante 1 minuto para tostarla sin quemar."
+        ]
+      },
+      {
+        "name": "Armado por Capas y Disposición en Teja",
+        "steps": [
+          "Reintegrá los trozos de cordero a la cazuela alternándolos con las verduras doradas, el tomillo y el laurel.",
+          "Verté el caldo de carne caliente enriquecido con la salsa Worcestershire. El líquido debe cubrir la carne pero sin sobrepasar el nivel superior.",
+          "Disponé las rodajas de papa en capas superpuestas concéntricas, solapándolas como escamas o tejas de tejado hasta sellar completamente la superficie de la cazuela.",
+          "Pintá generosamente las papas con la manteca derretida y sazoná con sal entrefina y pimienta negra recién molida."
+        ]
+      },
+      {
+        "name": "Cocción Lenta y Gratinado Dorado",
+        "steps": [
+          "Tapá la cazuela herméticamente con su tapa o con papel aluminio doble y llevala a horno precalentado a 160 °C durante 2 horas para que el colágeno del cordero se disuelva en una salsa densa y las papas inferiores se cocinen en el vapor del caldo.",
+          "Retirá la tapa, subí la temperatura del horno a 200 °C y horneá destapado durante 30 a 35 minutos finales hasta que los bordes de las papas superiores queden profundamente dorados, crujientes y caramelizados.",
+          "Dejá reposar 10 minutos antes de servir en la misma cazuela de hierro en el centro de la mesa, acompañado de repollo morado encurtido."
+        ]
+      }
+    ],
+    "steps": [
+      "Sellá el cordero salpimentado en cazuela de hierro hasta dorar y reservá.",
+      "Rehogá las cebollas y zanahorias en el fondo de cocción, espolvoreá la harina y cociná 1 minuto.",
+      "Acomodá el cordero con las verduras, tomillo, laurel y verté el caldo con salsa Worcestershire.",
+      "Cubrí toda la superficie con las rodajas de papa superpuestas en teja y pincelá con manteca derretida.",
+      "Horneá tapado a 160 °C durante 2 horas hasta que la carne esté ultra tierna.",
+      "Destapá y horneá a 200 °C por 30 minutos hasta dorar y crocantar las papas superiores.",
+      "Reposá 10 minutos y serví en la misma cazuela acompañado de encurtidos tradicionales."
+    ],
+    "notes": "El corte de las papas no debe ser ni demasiado fino (se desarmarían en el vapor) ni excesivamente grueso (no quedarían crocantes al gratinar); 3 mm exactos permiten que la base absorba el caldo gelatinoso mientras la cresta superior se tuesta con la manteca como una patata frita rústica.",
+    "tags": [
+      "Lancashire Hotpot",
+      "Reino Unido",
+      "Inglaterra",
+      "Guiso de cordero",
+      "Papas en teja",
+      "Cocina tradicional británica",
+      "Cazuela de hierro",
+      "Comfort food"
+    ]
+  },
+  {
+    "id": 724,
+    "title": "Steak and Ale Pie (Reino Unido)",
+    "country": "Reino Unido",
+    "region": "Inglaterra",
+    "category": "Tartas y Empanadas",
+    "difficulty": "Media",
+    "prep_time": "30 min",
+    "cook_time": "2 h 15 min",
+    "total_time": "2 h 45 min",
+    "servings": "6 porciones",
+    "image": "https://lh3.googleusercontent.com/-3WxRw8yFdX0/av0n3YbT7NI/AAAAAAAQCxo/T_G6oDYzesYGdDH3zMbchUjC1CguXHhQACNcBGAsYHQ/s1600/steak_and_ale_pie_reino_unido.jpg",
+    "story": "Pilar indiscutido de las históricas tabernas y posadas campestres de las islas británicas, el steak and ale pie encarna la centenaria devoción inglesa por los pasteles de carne estofada con cerveza de malta oscura. Nacido en las cocinas de pub victorianas, este plato combinó la tradición medieval de hornear carnes bajo masa con la intensidad caramelizada de las cervezas ales tostadas y las stouts.",
+    "ingredient_groups": [
+      {
+        "name": "Guisado de Ternera a la Cerveza Negra",
+        "ingredients": [
+          "1 kg de carne vacuna rica en colágeno (roast beef, aguja o paleta) cortada en cubos de 3 cm",
+          "400 ml de cerveza ale oscura tradicional (tipo bitter inglesa, Newcastle Brown Ale o cerveza negra stout)",
+          "400 ml de caldo oscuro de carne vacuno gelatinoso",
+          "2 cebollas grandes picadas en cubos medianos",
+          "2 zanahorias grandes cortadas en rodajas de 1 cm",
+          "250 g de champiñones o portobellos cortados al medio",
+          "3 dientes de ajo picados fino",
+          "2 cucharadas colmadas de harina de trigo común",
+          "1 cucharada colmada de extracto concentrado de tomate",
+          "1 cucharada de salsa Worcestershire",
+          "2 ramitas de tomillo fresco y 2 hojas de laurel",
+          "3 cucharadas de aceite o manteca",
+          "Sal gruesa y abundante pimienta negra molida a gusto"
+        ]
+      },
+      {
+        "name": "Corteza Superior de Hojaldre",
+        "ingredients": [
+          "1 lámina de masa de hojaldre mantecoso de 30 cm de diámetro (grosor de 4 a 5 mm)",
+          "1 huevo batido con 1 cucharada de leche para dorar",
+          "Sal en escamas para espolvorear"
+        ]
+      },
+      {
+        "name": "Guarnición de Taberna",
+        "ingredients": [
+          "Puré de papas mantecoso y arvejas verdes salteadas a la manteca"
+        ]
+      }
+    ],
+    "ingredients": [
+      "1 kg de carne vacuna en cubos de 3 cm",
+      "400 ml de cerveza ale oscura o stout",
+      "400 ml de caldo oscuro de carne",
+      "2 cebollas grandes picadas",
+      "2 zanahorias en rodajas",
+      "250 g de champiñones al medio",
+      "3 dientes de ajo picados",
+      "2 cucharadas de harina común",
+      "1 cucharada de extracto de tomate",
+      "1 cucharada de salsa Worcestershire",
+      "Tomillo fresco, laurel, sal y pimienta negra",
+      "1 lámina de masa de hojaldre mantecoso",
+      "1 huevo para pincelar",
+      "Puré de papas y arvejas para acompañar"
+    ],
+    "step_groups": [
+      {
+        "name": "Sellado de la Carne y Base Aromática",
+        "steps": [
+          "Secá bien los cubos de carne con papel absorbente y salpimentalos. En una olla gruesa con 2 cucharadas de aceite bien caliente, dorá la carne en tandas a fuego fuerte hasta formar una costra marrón oscura caramelizada. Retirá la carne a un plato.",
+          "En el mismo fondo con los jugos concentrados, agregá las cebollas, zanahorias y champiñones con 1 cucharada de manteca. Salteá a fuego medio durante 6 minutos.",
+          "Sumá el ajo picado y el extracto de tomate; cociná 1 minuto revolviendo para concentrar sabores.",
+          "Espolvoreá la harina sobre los vegetales y revolvé durante 1 minuto para cocinar el almidón."
+        ]
+      },
+      {
+        "name": "Estofado Prolongado con Ale Oscura",
+        "steps": [
+          "Desglasá la olla vertiendo la cerveza ale oscura raspando enérgicamente el fondo con cuchara de madera para despegar todos los azúcares adheridos.",
+          "Reintegrá la carne sellada con sus jugos, agregá el caldo de carne caliente, la salsa Worcestershire, el tomillo y el laurel.",
+          "Llevá a hervor suave, bajá el fuego al mínimo, tapá y cociná a fuego lento durante 1 hora y media hasta que la carne esté mantecosa que se deshaga sola y la salsa haya espesado a un gravy brillante y oscuro.",
+          "Retirá del fuego, rectificá sazón y dejá enfriar el relleno por completo a temperatura ambiente (requisito indispensable para no ablandar el hojaldre)."
+        ]
+      },
+      {
+        "name": "Armado del Pie y Horneado Inflado",
+        "steps": [
+          "Volcá el estofado frío con su gravy en una fuente profunda de cerámica o hierro esmaltado para pie.",
+          "Humedecé el borde superior de la fuente con agua. Colocá la tapa de masa de hojaldre sobre la fuente, presionando los bordes con los dedos o un tenedor para sellar herméticamente.",
+          "Hacé un pequeño corte en cruz en el centro de la masa para que escape el vapor durante la cocción.",
+          "Pintá toda la superficie con el huevo batido y espolvoreá unas escamas de sal marina.",
+          "Horneá en horno precalentado a 200 °C durante 25 a 30 minutos hasta que el hojaldre esté inflado, crocante y profundamente dorado.",
+          "Serví de inmediato en la mesa llevando la fuente humeante acompañada de puré de papas y arvejas verdes a la manteca."
+        ]
+      }
+    ],
+    "steps": [
+      "Dorá la carne en cubos en tandas a fuego fuerte hasta formar costra oscura y reservá.",
+      "En la misma olla salteá cebollas, zanahorias y champiñones, agregá ajo, extracto de tomate y harina.",
+      "Desglasá con la cerveza ale oscura raspando el fondo y sumá el caldo, salsa inglesa y hierbas.",
+      "Cociná tapado a fuego suave durante 1 hora y media hasta tiernizar la carne y espesar el gravy.",
+      "Dejá enfriar el guisado por completo antes de volcarlo en la fuente para pie.",
+      "Cubrí con la tapa de hojaldre, sellá los bordes, hacé un orificio central y pintá con huevo batido.",
+      "Horneá a 200 °C por 25 a 30 minutos hasta que el hojaldre infle y dore intensamente.",
+      "Serví bien caliente acompañado de puré de papas cremoso y arvejas a la manteca."
+    ],
+    "notes": "Nunca coloques la masa de hojaldre sobre un relleno caliente: el calor derretiría la manteca del hojaldre antes de entrar al horno impidiendo que suban las capas de masa. Enfriar el estofado primero garantiza una corteza airosa, alta y crujiente que contrasta con el gravy espeso interior.",
+    "tags": [
+      "Steak and Ale Pie",
+      "Reino Unido",
+      "Pastel de carne",
+      "Cerveza negra",
+      "Pub food británico",
+      "Hojaldre",
+      "Guiso de carne",
+      "Comida tradicional inglesa"
     ]
   }
 ]
