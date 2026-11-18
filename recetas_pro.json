@@ -76586,5 +76586,301 @@
       "Fernet con Cola",
       "Fernet Branca Clon"
     ]
+  },
+  {
+    "id": 712,
+    "title": "Mousse de Chocolate (Francia)",
+    "original_title": "Mousse au Chocolat Classique",
+    "country": "Francia",
+    "flag": "🇫🇷",
+    "region": "Isla de Francia / París",
+    "category": "Postres & Dulces",
+    "subcategory": "Mousses y Cremas",
+    "difficulty": "Fácil",
+    "prep_time": "20 min",
+    "cook_time": "5 min (+ 4 hs frío)",
+    "total_time": "25 min (+ 4 hs)",
+    "servings": "6 porciones",
+    "calories": "280 kcal por porción",
+    "image": "https://lh3.googleusercontent.com/-IXnXN7Qwndk/avzkQfvrIqI/AAAAAAAQCvQ/hukfdV9wpioHtrylgCQq8P_7MAGxestyQCNcBGAsYHQ/s1600/mousse_de_chocolate_francia.jpg",
+    "source": "Pastelería Francesa Tradicional de Bistró",
+    "source_url": "",
+    "story": "Documentada por primera vez en el recetario francés Les soupers de la Cour del cocinero Menon en 1755 bajo el nombre de 'mousse de chocolat', esta preparación alcanzó su apogeo técnico a fines del siglo XIX en los bistrós de París. A diferencia de las versiones modernas con crema batida, la fórmula tradicional gala prescinde por completo de los lácteos pesados, confiando exclusivamente en el poder aireador de las claras batidas a nieve para lograr una estructura porosa y etérea. En mi cocina es el postre de cabecera cuando busco la pureza absoluta del cacao.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Cacao y Yemas",
+        "ingredients": [
+          "200 g de chocolate amargo de repostería (entre 65% y 70% de cacao)",
+          "30 g de manteca sin sal",
+          "4 yemas de huevos frescos a temperatura ambiente",
+          "1 cucharada de café espresso recién tirado (resalta el sabor del cacao)"
+        ]
+      },
+      {
+        "name": "Merengue Francés de Claras",
+        "ingredients": [
+          "4 claras de huevos frescos",
+          "30 g de azúcar común",
+          "1 pizca de sal fina"
+        ]
+      },
+      {
+        "name": "Terminación",
+        "ingredients": [
+          "Virutas o rulos de chocolate amargo 70% para espolvorear"
+        ]
+      }
+    ],
+    "ingredients": [
+      "200 g de chocolate amargo (65-70% cacao)",
+      "30 g de manteca sin sal",
+      "4 yemas de huevos frescos",
+      "1 cucharada de café espresso recién tirado",
+      "4 claras de huevos frescos",
+      "30 g de azúcar común",
+      "1 pizca de sal fina",
+      "Virutas de chocolate amargo para decorar"
+    ],
+    "step_groups": [
+      {
+        "name": "1. Fundido y emulsión de chocolate",
+        "steps": [
+          "Picá el chocolate amargo en trozos parejos y llevalo a un bowl resistente al calor junto con la manteca y la cucharada de café espresso. Fundí a baño maría suave a fuego bajo, revolviendo despacio hasta lograr una salsa lisa, sedosa y brillante. Retirá del calor y dejá templar 3 minutos.",
+          "Agregá las 4 yemas de a una al chocolate tibio, integrando enérgicamente con batidor de alambre tras cada adición hasta obtener una mezcla espesa y homogénea."
+        ]
+      },
+      {
+        "name": "2. Montado de las claras a nieve",
+        "steps": [
+          "En un bowl bien limpio y seco, batí las 4 claras junto con la pizca de sal a velocidad media hasta que formen espuma densa.",
+          "Espolvoreá el azúcar en forma de lluvia y continuá batiendo a velocidad máxima hasta lograr picos firmes, sostenidos y satinados (evitá sobrebatir para que no pierdan elasticidad)."
+        ]
+      },
+      {
+        "name": "3. Integración envolvente y frío",
+        "steps": [
+          "Añadí una tercera parte de las claras batidas sobre la crema de chocolate y mezclá con espátula de goma con firmeza para aligerar la densidad.",
+          "Incorporá las dos terceras partes restantes con movimientos envolventes muy suaves, lentos y amplios de abajo hacia arriba, girando el bowl para conservar el aire atrapado en los alvéolos.",
+          "Repartí la mousse en 6 ramekins o copas de vidrio, cubrí con papel film en contacto y refrigerá durante al menos 4 a 6 horas (ideal de un día para el otro). Espolvoreá con virutas de chocolate antes de servir."
+        ]
+      }
+    ],
+    "steps": [
+      "Fundí el chocolate amargo con la manteca y el café a baño maría suave hasta que quede sedoso; dejá entibiar.",
+      "Incorporá las 4 yemas una a una al chocolate batiendo bien.",
+      "Batí las 4 claras a nieve con la pizca de sal y agregá el azúcar en lluvia hasta formar picos firmes.",
+      "Aligerá el chocolate con un tercio de las claras e incorporá el resto con movimientos envolventes suaves para no perder aire.",
+      "Distribuí en cuencos individuales, enfriá en heladera al menos 4 horas y decorá con virutas de chocolate."
+    ],
+    "notes": "• El secreto de la textura francesa: Al no llevar crema de leche, la textura es infinitamente más ligera y el sabor a chocolate es rotundo y limpio.\n• Calidad del chocolate: Utilizá un chocolate cobertura de entre 65% y 70% de cacao; los chocolates de taza industriales con exceso de grasa hidrogenada no logran la emulsión adecuada.\n• El toque de café: La cucharada de espresso no le da sabor a café, sino que actúa como potenciador de los taninos y notas florales del grano de cacao.",
+    "tags": [
+      "Mousse de Chocolate",
+      "Mousse au Chocolat",
+      "Postres",
+      "Francia",
+      "Bistró",
+      "Clásico",
+      "Cacao Puro",
+      "Sin Crema",
+      "Chocolate Amargo"
+    ]
+  },
+  {
+    "id": 713,
+    "title": "Mousse de Chocolate Porteña (Argentina)",
+    "original_title": "Mousse de Bodegón Porteño",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "region": "Buenos Aires / Río de la Plata",
+    "category": "Postres & Dulces",
+    "subcategory": "Mousses y Cremas",
+    "difficulty": "Intermedia",
+    "prep_time": "25 min",
+    "cook_time": "10 min (+ 4 hs frío)",
+    "total_time": "35 min (+ 4 hs)",
+    "servings": "6 copas",
+    "calories": "420 kcal por copa",
+    "image": "https://lh3.googleusercontent.com/-sxpoZHt2PtQ/avzkRwIbYjI/AAAAAAAQCvY/yQmE4NtfsBggy54nI5bsYefjT06LK7TjQCNcBGAsYHQ/s1600/mousse_de_chocolate_portena_argentina.jpg",
+    "source": "Tradición de Bodegones y Confiterías Porteñas",
+    "source_url": "",
+    "story": "Consagrada a lo largo del siglo XX en las cartas de los grandes bodegones, cantinas y confiterías clásicas de Buenos Aires, la mousse porteña transformó la técnica gala en un postre sumamente suntuoso, dulce y voluptuoso. Los maestros pasteleros locales adoptaron la técnica del aparato bomba —yemas pasteurizadas con almíbar a punto hilo— para garantizar una textura cremosa inquebrantable y sumaron crema de leche batida junto a un toque espirituoso de cognac o licor de naranja. En casa lo sirvo en copa de vidrio pesado con chantilly, tal como se disfruta en una clásica noche de bodegón.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Chocolate y Espirituoso",
+        "ingredients": [
+          "250 g de chocolate semiamargo de repostería (55% a 60% cacao)",
+          "50 g de manteca sin sal",
+          "2 cucharadas de cognac, ron añejo o licor de naranja (Cointreau)"
+        ]
+      },
+      {
+        "name": "Aparato Bomba (Yemas Pasteurizadas)",
+        "ingredients": [
+          "4 yemas de huevos frescos",
+          "80 g de azúcar blanco común",
+          "40 ml de agua"
+        ]
+      },
+      {
+        "name": "Crema y Aireado",
+        "ingredients": [
+          "250 ml de crema de leche fresca bien fría"
+        ]
+      },
+      {
+        "name": "Guarnición de Bodegón",
+        "ingredients": [
+          "Crema chantilly firme para coronar",
+          "Rulos rizados de chocolate semiamargo",
+          "Barquillos crocantes para acompañar"
+        ]
+      }
+    ],
+    "ingredients": [
+      "250 g de chocolate semiamargo (55-60% cacao)",
+      "50 g de manteca sin sal",
+      "2 cucharadas de cognac, ron o licor de naranja",
+      "4 yemas de huevo",
+      "80 g de azúcar común",
+      "40 ml de agua",
+      "250 ml de crema de leche fresca",
+      "Crema chantilly, rulos de chocolate y barquillos para servir"
+    ],
+    "step_groups": [
+      {
+        "name": "1. Fundido del chocolate",
+        "steps": [
+          "Picá el chocolate semiamargo y fundilo junto con la manteca a baño maría suave hasta que no queden grumos. Retirá del fuego, sumá las 2 cucharadas de cognac, integrá y dejá templar a temperatura ambiente."
+        ]
+      },
+      {
+        "name": "2. Elaboración del aparato bomba",
+        "steps": [
+          "En una ollita pequeña, calentá el azúcar con los 40 ml de agua a fuego medio hasta alcanzar un almíbar a punto hilo o 118 °C.",
+          "Mientras el almíbar hierve, comenzá a batir las 4 yemas enérgicamente con batidora eléctrica. Cuando el almíbar alcance el punto, vertelo en forma de hilo continuo sobre las yemas mientras batís sin parar.",
+          "Continuá batiendo hasta que la preparación triplique su volumen, quede aireada, pálida y el bowl se sienta a temperatura ambiente."
+        ]
+      },
+      {
+        "name": "3. Crema batida y ensamblado final",
+        "steps": [
+          "En un bowl frío, batí los 250 ml de crema de leche a medio punto (debe marcar huella pero mantenerse sedosa y fluida).",
+          "Integrá el chocolate fundido tibio al batido de yemas con movimientos envolventes.",
+          "Añadí la crema a medio punto en dos tandas con espátula de goma, realizando movimientos envolventes suaves hasta obtener una mousse espesa, aterciopelada y brillante.",
+          "Serví en copas pesadas de postre y llevá a la heladera durante un mínimo de 4 horas. Coroná con un copo de crema chantilly, rulos de chocolate y un barquillo."
+        ]
+      }
+    ],
+    "steps": [
+      "Fundí el chocolate con la manteca a baño maría suave y agregá el cognac; templá a temperatura ambiente.",
+      "Cociná el azúcar y agua a punto hilo (118 °C) y vertelo en hilo sobre las yemas mientras batís hasta enfriar y triplicar volumen (aparato bomba).",
+      "Batí la crema de leche a medio punto.",
+      "Mezclá el chocolate con el batido de yemas e integrá la crema semibatida con movimientos envolventes.",
+      "Distribuí en copas de vidrio, refrigerá 4 horas y coroná con chantilly, rulos de chocolate y barquillo."
+    ],
+    "notes": "• Seguridad y textura del aparato bomba: Al verter el almíbar a 118 °C sobre las yemas, estas se pasteurizan por completo de forma segura y otorgan una untuosidad inigualable que no decae jamás.\n• El licor: El cognac o ron aporta ese toque cálido y espirituoso característico de las sobremesas porteñas.\n• Consistencia: Es una mousse densa y sedosa, pensada para comer a cucharadas lentas acompañada de un buen café de filtro.",
+    "tags": [
+      "Mousse de Chocolate",
+      "Bodegón Porteño",
+      "Argentina",
+      "Buenos Aires",
+      "Postres Tradicionales",
+      "Aparato Bomba",
+      "Crema Chantilly",
+      "Cognac",
+      "Chocolate Semiamargo"
+    ]
+  },
+  {
+    "id": 714,
+    "title": "Mousse de Chocolate al Agua (Francia)",
+    "original_title": "Mousse au Chocolat à l'Eau (Méthode Hervé This)",
+    "country": "Francia",
+    "flag": "🇫🇷",
+    "region": "Isla de Francia / París",
+    "category": "Postres & Dulces",
+    "subcategory": "Mousses y Cremas de Vanguardia",
+    "difficulty": "Fácil",
+    "prep_time": "10 min",
+    "cook_time": "5 min (+ 1 hora frío)",
+    "total_time": "15 min (+ 1 hora)",
+    "servings": "4 porciones",
+    "calories": "220 kcal por porción",
+    "image": "https://lh3.googleusercontent.com/-eRLKPyqIEkg/avzkS9VzefI/AAAAAAAQCvg/e2BNfYVyhtAQhU16490rdYu4k-d_Y7XrwCNcBGAsYHQ/s1600/mousse_de_chocolate_al_agua_francia.jpg",
+    "source": "Gastronomía Molecular (Hervé This, 1995)",
+    "source_url": "",
+    "story": "Desarrollada en París en 1995 por el fisicoquímico francés Hervé This, uno de los fundadores de la gastronomía molecular junto a Nicholas Kurti, esta mousse revolucionó la pastelería contemporánea al demostrar que la manteca de cacao pura contiene suficientes lípidos para estabilizar una emulsión de aire sin necesidad de huevos ni lácteos. Adoptada rápidamente por chefs de alta cocina como Heston Blumenthal, esta técnica permite degustar las notas aromáticas del grano de cacao con una pureza y nitidez inalcanzables por métodos tradicionales. En mi cocina es una revelación mágica por su sencillez y elegancia.",
+    "ingredient_groups": [
+      {
+        "name": "La Emulsión Pura (Solo 2 Ingredientes)",
+        "ingredients": [
+          "225 g de chocolate amargo de alta gama (mínimo 70% cacao, con buen contenido de manteca de cacao)",
+          "180 ml de agua mineral natural (o café filtrado suave para una variante moka)",
+          "1 cucharada de azúcar común o mascabo (opcional, solo si el chocolate es muy amargo)"
+        ]
+      },
+      {
+        "name": "Para el Baño María Inverso",
+        "ingredients": [
+          "Abundante hielo en cubos y agua fría"
+        ]
+      },
+      {
+        "name": "Para el Toque Gourmet de Vanguardia",
+        "ingredients": [
+          "Escamas de sal marina (fleur de sel)",
+          "Unas gotas de aceite de oliva virgen extra frutado suave"
+        ]
+      }
+    ],
+    "ingredients": [
+      "225 g de chocolate amargo 70% de alta pureza",
+      "180 ml de agua mineral natural",
+      "1 cucharada de azúcar (opcional)",
+      "Escamas de sal marina y gotas de aceite de oliva virgen extra para servir"
+    ],
+    "step_groups": [
+      {
+        "name": "1. Fundido del chocolate en agua",
+        "steps": [
+          "Picá el chocolate amargo en trozos finos y colócalo en una cacerola pequeña o bowl metálico junto con los 180 ml de agua mineral (y el azúcar si decidís usar).",
+          "Llevá a fuego mínimo revolviendo suavemente con batidor de alambre manual hasta que el chocolate se funda por completo y se integre con el agua en una salsa brillante y completamente líquida. Apagá el fuego."
+        ]
+      },
+      {
+        "name": "2. Montado en baño maría inverso",
+        "steps": [
+          "Prepará un bowl grande con abundante hielo y un poco de agua fría para hacer el baño maría inverso.",
+          "Colocá el bowl con la salsa de chocolate caliente dentro del bowl con hielo.",
+          "Comenzá a batir inmediatamente con batidor de alambre manual o batidora eléctrica a velocidad media-baja. A medida que la temperatura desciende por el contacto con el hielo, la manteca de cacao empezará a cristalizar y la mezcla comenzará a espesar, cambiando de un tono oscuro brillante a un marrón más claro y cremoso, atrapando microburbujas de aire."
+        ]
+      },
+      {
+        "name": "3. Punto exacto y presentación",
+        "steps": [
+          "¡Atención al punto clave!: en el instante exacto en que la mezcla tome la consistencia de una crema chantilly sostenida o mayonesa densa, retirá de inmediato el bowl del hielo para detener el enfriamiento (si te pasás de frío se endurece; si eso pasa, basta calentarla unos segundos al fuego y volver a batir).",
+          "Serví con una cuchara templada formando quenelles elegantes sobre platos hondos o copas de diseño. Dejá reposar 30 minutos en heladera y terminá con escamas de sal marina y un hilo casi invisible de aceite de oliva virgen extra."
+        ]
+      }
+    ],
+    "steps": [
+      "Picá el chocolate 70% y fundilo a fuego bajo con los 180 ml de agua mineral hasta lograr una salsa homogénea y líquida.",
+      "Colocá el bowl con chocolate caliente sobre un baño maría inverso con abundante hielo y agua fría.",
+      "Batí de inmediato con batidor de alambre; la manteca de cacao cristalizará por el frío y montará atrapando aire.",
+      "Retirá del hielo en cuanto espese y tome textura de crema chantilly firme.",
+      "Serví en quenelles, refrigerá 30 minutos y finalizá con escamas de sal marina y unas gotas de aceite de oliva virgen extra."
+    ],
+    "notes": "• El milagro físico de Hervé This: El chocolate ya contiene un emulsionante natural (lecitina) y grasa (manteca de cacao). Al enfriarlo rápidamente mientras se bate, la grasa cristaliza en una red tridimensional que atrapa el agua y las burbujas de aire, logrando una mousse sin huevo ni lácteo.\n• Qué hacer si se pasa: Si batiste de más y se pone arenosa o dura, ponela 15 segundos sobre la hornalla para fundirla de nuevo y volvé a batir sobre el hielo.\n• Variaciones líquidas: Podés reemplazar los 180 ml de agua por café espresso filtrado, jugo de frambuesas colado o té Earl Grey infusionado para crear mousses aromatizadas.",
+    "tags": [
+      "Mousse de Chocolate al Agua",
+      "Hervé This",
+      "Gastronomía Molecular",
+      "Francia",
+      "Vegano",
+      "Sin Lácteos",
+      "Sin Huevos",
+      "Chocolate 70%",
+      "Postres de Vanguardia"
+    ]
   }
 ]
