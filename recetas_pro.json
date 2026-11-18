@@ -76882,5 +76882,367 @@
       "Chocolate 70%",
       "Postres de Vanguardia"
     ]
+  },
+  {
+    "id": 715,
+    "title": "Ossobuco al Vino Tinto con Polenta (Italia / Argentina)",
+    "original_title": "Ossobuco Brasato al Vino Rosso con Polenta",
+    "country": "Italia / Argentina",
+    "flag": "🇮🇹 🇦🇷",
+    "region": "Lombardía / Río de la Plata",
+    "category": "Platos Principales",
+    "subcategory": "Carnes de Olla y Estofados",
+    "difficulty": "Intermedia",
+    "prep_time": "25 min",
+    "cook_time": "2 horas 30 min",
+    "total_time": "2 horas 55 min",
+    "servings": "4 porciones",
+    "calories": "650 kcal por porción",
+    "image": "https://lh3.googleusercontent.com/-kM-VPvcea9E/av0W5cKrfII/AAAAAAAQCvw/XR4R85hBUMcHesI3jFpVVHcjaZvo4PofwCNcBGAsYHQ/s1600/ossobuco_al_vino_tinto_con_polenta_italia_argentina.jpg",
+    "source": "Tradición Lombarda y Bodegón Rioplatense",
+    "source_url": "",
+    "story": "Nacido en la Lombardía italiana bajo el nombre de òs büc (hueso hueco), el corte vacuno con su correspondiente médula o caracú fue traído al Río de la Plata por la gran inmigración peninsular de finales del siglo XIX. En las cocinas familiares y los bodegones de barrio, la técnica milanesa de braseado lento se fusionó con los tintos robustos locales y la polenta de maíz, consagrándose como uno de los estofados más entrañables de los domingos fríos. En casa lo preparo a fuego muy bajo hasta que la carne se desprende sola del hueso.",
+    "ingredient_groups": [
+      {
+        "name": "Para el Ossobuco Braseado",
+        "ingredients": [
+          "4 ruedas gruesas de ossobuco de ternera (de 3 a 4 cm de espesor)",
+          "3 cucharadas de harina de trigo (para enharinar)",
+          "3 cucharadas de aceite de oliva o grasa vacuna",
+          "2 cebollas medianas picadas finas",
+          "2 zanahorias cortadas en rodajas finas o brunoise",
+          "2 ramas de apio picadas",
+          "3 dientes de ajo picados",
+          "1 cucharada colmada de extracto de tomate",
+          "500 ml de vino tinto con cuerpo (Malbec o Cabernet)",
+          "600 ml de caldo de carne o huesos caliente",
+          "2 hojas de laurel fresco y 2 ramitas de tomillo",
+          "Sal gruesa y pimienta negra recién molida"
+        ]
+      },
+      {
+        "name": "Para la Polenta Cremosa",
+        "ingredients": [
+          "300 g de harina de maíz (polenta)",
+          "1 litro de leche entera",
+          "500 ml de caldo de verduras o agua",
+          "60 g de manteca de buena calidad",
+          "100 g de queso parmesano o reggianito rallado",
+          "Nuez moscada recién rallada y sal fina al gusto"
+        ]
+      },
+      {
+        "name": "Para la Gremolata de Toque Final",
+        "ingredients": [
+          "Ralladura fina de 1 limón fresco (sin parte blanca)",
+          "1 diente de ajo pequeño picado microscópico",
+          "3 cucharadas de perejil fresco picado bien fino"
+        ]
+      }
+    ],
+    "ingredients": [
+      "4 ruedas gruesas de ossobuco de ternera",
+      "3 cucharadas de harina",
+      "3 cucharadas de aceite de oliva",
+      "2 cebollas picadas",
+      "2 zanahorias",
+      "2 ramas de apio",
+      "3 dientes de ajo",
+      "1 cucharada de extracto de tomate",
+      "500 ml de vino tinto robusto",
+      "600 ml de caldo de carne",
+      "Laurel y tomillo",
+      "300 g de harina de maíz (polenta)",
+      "1 litro de leche entera",
+      "500 ml de caldo o agua",
+      "60 g de manteca",
+      "100 g de queso rallado",
+      "Ralladura de 1 limón, 1 diente de ajo y perejil picado (gremolata)"
+    ],
+    "step_groups": [
+      {
+        "name": "1. Sellado de la carne y sofrito",
+        "steps": [
+          "Realizá 3 pequeños cortes en el tejido conectivo que rodea cada rueda de ossobuco para evitar que se arqueen al cocinarse y atalas por el contorno con hilo de cocina. Salpimentá generosamente y pasalas por harina, sacudiendo el exceso.",
+          "En una cacerola de fondo grueso o hierro fundido, calentá el aceite de oliva a fuego medio-alto y dorá las ruedas de ossobuco durante 4 a 5 minutos por lado hasta lograr un sellado dorado profundo. Retirá y reservá en un plato.",
+          "En la misma olla con los jugos del sellado, agregá las cebollas, zanahorias y apio. Cociná a fuego medio durante 8 a 10 minutos raspando el fondo para levantar los sabores caramelizados. Sumá los ajos picados y el extracto de tomate, cocinando por 2 minutos más."
+        ]
+      },
+      {
+        "name": "2. Braseado lento al vino tinto",
+        "steps": [
+          "Verté el vino tinto y dejá hervir a fuego vivo durante 5 minutos para evaporar el alcohol.",
+          "Reincorporá las ruedas de ossobuco con sus jugos acumulados, sumá el caldo caliente hasta cubrir la carne a tres cuartos, las hojas de laurel y el tomillo.",
+          "Tapá la olla herméticamente, bajá el fuego al mínimo absoluto y cociná suavemente durante 2 horas y media (o en horno a 160 °C), girando la carne una sola vez a mitad de cocción, hasta que la carne esté tan tierna que se corte con cuchara y la salsa quede densa, oscura y brillante."
+        ]
+      },
+      {
+        "name": "3. Elaboración de la polenta cremosa",
+        "steps": [
+          "15 minutos antes de servir, colocá la leche y el caldo en una cacerola con una cucharadita de sal y nuez moscada. Llevá a ebullición.",
+          "Verté la harina de maíz en forma de lluvia continua mientras revolvés enérgicamente con batidor de alambre para evitar cualquier grumo.",
+          "Bajá el fuego al mínimo y cociná según las indicaciones del paquete revolviendo con cuchara de madera. Apagá el fuego, incorporá la manteca en cubos fríos y el queso rallado, batiendo hasta lograr una crema untuosa y brillante."
+        ]
+      },
+      {
+        "name": "4. Emplatado y gremolata",
+        "steps": [
+          "Mezclá en un cuenco pequeño el perejil picado, la ralladura de limón y el ajo para formar la gremolata fresca.",
+          "Serví en platos hondos un cucharón generoso de polenta caliente, disponé encima una rueda de ossobuco con su caracú, salseá con la reducción de vino tinto y coroná con una lluvia de gremolata fresca."
+        ]
+      }
+    ],
+    "steps": [
+      "Atá las ruedas de ossobuco, salpimentá, enhariná y doralas de ambos lados en cacerola pesada; reservá.",
+      "Rehogá cebolla, zanahoria y apio en el mismo fondo, sumá ajo y extracto de tomate.",
+      "Desglasá con el vino tinto, reducí el alcohol y sumá caldo caliente, laurel y tomillo.",
+      "Reincorporá el ossobuco, tapá y cociná a fuego mínimo durante 2 horas y media hasta que la carne se desprenda sola.",
+      "Cociná la polenta en leche y caldo hirviendo; terminá fuera del fuego con manteca fría y queso rallado.",
+      "Serví el ossobuco sobre la polenta con su salsa glaseada y coroná con gremolata fresca (limón, perejil y ajo)."
+    ],
+    "notes": "• El hilo de cocina: Atar el ossobuco por el perímetro asegura que el corte mantenga su forma redonda y el caracú quede intacto dentro del hueso durante la larga cocción.\n• El rol de la gremolata: La mezcla clásica milanesa de ralladura de limón, perejil y ajo crudo es indispensable para cortar la riqueza grasa del caracú y refrescar cada bocado.\n• Vino tinto: Utilizá un vino que tomarías en la mesa; un buen Malbec o Cabernet le otorga un brillo y profundidad de salsa excepcional.",
+    "tags": [
+      "Ossobuco",
+      "Polenta",
+      "Estofado",
+      "Bodegón",
+      "Caracú",
+      "Vino Tinto",
+      "Italia",
+      "Argentina",
+      "Gremolata",
+      "Plato de Olla"
+    ]
+  },
+  {
+    "id": 716,
+    "title": "Tiramisú de Treviso (Italia)",
+    "original_title": "Tiramisù Tradizionale di Treviso",
+    "country": "Italia",
+    "flag": "🇮🇹",
+    "region": "Véneto / Treviso",
+    "category": "Postres & Dulces",
+    "subcategory": "Postres Fríos y de Cuchara",
+    "difficulty": "Fácil",
+    "prep_time": "25 min",
+    "cook_time": "5 min (+ 6 hs frío)",
+    "total_time": "30 min (+ 6 hs)",
+    "servings": "8 porciones",
+    "calories": "360 kcal por porción",
+    "image": "https://lh3.googleusercontent.com/-yzY-XEnOcOw/av0W6RkY2DI/AAAAAAAQCv4/pgF0tTi7LMU7nxPwM2hKK3tqrsAcsRrCACNcBGAsYHQ/s1600/tiramisu_de_treviso_italia.jpg",
+    "source": "Le Beccherie (Treviso, 1970)",
+    "source_url": "",
+    "story": "Codificado a finales de la década de 1960 en el restaurante Le Beccherie de la ciudad de Treviso, en la región del Véneto, por el cocinero Roberto Linguanotto y la propietaria Alba Campeol, el tiramisú nació como una evolución de la tradicional sbatudin —un batido energético campesino de yemas con azúcar—. Su combinación inconfundible de café espresso, savoiardi y mascarpone fresco lo catapultó en pocas décadas a convertirse en el postre italiano más replicado de la gastronomía mundial. En casa lo preparo respetando la fórmula véneta de yemas pasteurizadas a baño maría para lograr una crema sedosa que sostiene el corte.",
+    "ingredient_groups": [
+      {
+        "name": "Para la Crema de Mascarpone",
+        "ingredients": [
+          "500 g de queso mascarpone fresco (escurrido)",
+          "5 yemas de huevos frescos",
+          "120 g de azúcar blanco común",
+          "40 ml de vino Marsala dulce (o vino Oporto)",
+          "200 ml de crema de leche fresca bien fría"
+        ]
+      },
+      {
+        "name": "Para el Embebido y Capas",
+        "ingredients": [
+          "300 g de vainillas clásicas tipo Savoiardi (bizcochos de soletilla)",
+          "300 ml de café espresso fuerte recién preparado y enfriado",
+          "2 cucharadas de licor de café o Amaretto"
+        ]
+      },
+      {
+        "name": "Para la Terminación",
+        "ingredients": [
+          "40 g de cacao amargo puro en polvo de alta calidad (sin azúcar)"
+        ]
+      }
+    ],
+    "ingredients": [
+      "500 g de queso mascarpone",
+      "5 yemas de huevos frescos",
+      "120 g de azúcar común",
+      "40 ml de vino Marsala dulce",
+      "200 ml de crema de leche",
+      "300 g de vainillas tipo Savoiardi",
+      "300 ml de café espresso frío",
+      "2 cucharadas de licor de café",
+      "40 g de cacao amargo en polvo"
+    ],
+    "step_groups": [
+      {
+        "name": "1. Elaboración del zabaione y crema",
+        "steps": [
+          "En un bowl metálico resistente al calor, colocá las 5 yemas con los 120 g de azúcar y el vino Marsala. Llevá a baño maría suave a fuego medio-bajo sin que el agua toque el bowl, batiendo constantemente con batidor de alambre durante 6 a 8 minutos hasta que la mezcla espese, doble su volumen y alcance los 75 °C (pasteurización segura). Retirá del calor y dejá entibiar batiendo ocasionalmente.",
+          "En un bowl aparte, ablandá el mascarpone con espátula de goma. Incorporá el zabaione tibio al mascarpone en dos tandas con movimientos envolventes suaves.",
+          "Batí los 200 ml de crema de leche a medio punto (sostenida pero cremosa) e integrala suavemente a la preparación hasta lograr una crema lisa, aterciopelada y homogénea."
+        ]
+      },
+      {
+        "name": "2. Embebido y armado de capas",
+        "steps": [
+          "Mezclá en un plato hondo el café espresso frío con las dos cucharadas de licor de café.",
+          "Pasá los savoiardi por el café rápidamente (un segundo por lado para que absorban sabor sin desarmarse ni ablandarse en exceso).",
+          "Disponé una primera capa compacta de savoiardi en el fondo de una fuente rectangular de vidrio o cerámica de aproximadamente 20x30 cm.",
+          "Cubrí los bizcochos con la mitad de la crema de mascarpone, alisando con espátula.",
+          "Formá una segunda capa de savoiardi embebidos en sentido perpendicular y cubrí con el resto de la crema de mascarpone, emparejando la superficie."
+        ]
+      },
+      {
+        "name": "3. Reposo en frío y servicio",
+        "steps": [
+          "Cubrí la fuente con papel film y llevala a la heladera durante al menos 6 horas (o preferentemente de un día para el otro, para que los bizcochos absorban los aromas y la crema tome cuerpo firme).",
+          "Justo antes de cortar y servir, espolvoreá toda la superficie con una capa generosa y uniforme de cacao amargo puro tamizado a través de un colador fino."
+        ]
+      }
+    ],
+    "steps": [
+      "Batí las yemas con azúcar y Marsala a baño maría suave hasta espesar y pasteurizar a 75 °C (zabaione); entibiá.",
+      "Integrá el zabaione al queso mascarpone ablandado y sumá la crema batida a medio punto con movimientos envolventes.",
+      "Embebí las vainillas Savoiardi rápidamente en el café espresso frío aromatizado con licor.",
+      "Armá en fuente rectangular una base de vainillas, cubrí con crema, repetí una segunda capa y alisá.",
+      "Refrigerá durante al menos 6 horas (ideal toda la noche).",
+      "Espolvoreá generosamente con cacao amargo puro tamizado antes de servir."
+    ],
+    "notes": "• Los Savoiardi auténticos: Utilizar vainillas secas y azucaradas de panadería o paquete italiano, que retienen el café sin deshacerse en puré como los bizcochuelos esponjosos comunes.\n• El cacao al momento: Espolvorear el cacao amargo recién antes de llevar a la mesa para que se mantenga seco, mate y aterciopelado, sin humedecerse por el frío de la crema.\n• El reposo de 24 horas: El tiramisú mejora exponencialmente al día siguiente, cuando el café y los lácteos se funden en una sola textura equilibrada.",
+    "tags": [
+      "Tiramisú",
+      "Treviso",
+      "Italia",
+      "Mascarpone",
+      "Café Espresso",
+      "Savoiardi",
+      "Vainillas",
+      "Cacao Amargo",
+      "Postres Tradicionales"
+    ]
+  },
+  {
+    "id": 717,
+    "title": "Cazuela de Mariscos (Argentina)",
+    "original_title": "Cazuela de Mariscos a la Marplatense",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "region": "Buenos Aires / Costa Atlántica",
+    "category": "Platos Principales",
+    "subcategory": "Pescados y Mariscos",
+    "difficulty": "Intermedia",
+    "prep_time": "20 min",
+    "cook_time": "25 min",
+    "total_time": "45 min",
+    "servings": "4 porciones",
+    "calories": "480 kcal por porción",
+    "image": "https://lh3.googleusercontent.com/-serU1FCOEOM/av0W7z9-tQI/AAAAAAAQCwA/iGonlnulKqULXYE7UU-uwiqeS473ZEG-wCNcBGAsYHQ/s1600/cazuela_de_mariscos_argentina.jpg",
+    "source": "Tradición Cantinera del Puerto de Mar del Plata",
+    "source_url": "",
+    "story": "Consolidada a mediados del siglo XX en las cantinas y bodegones del puerto de Mar del Plata de la mano de pescadores italianos y españoles, la cazuela de mariscos es el estandarte de la gastronomía marítima atlántica argentina. Inspirada en la zarzuela ibérica y en el cacciucco toscano, se adaptó a la generosidad de nuestras costas combinando langostinos australes, calamar del Atlántico Sur y mejillones en su valva dentro de una salsa roja aromática al azafrán servida en fuentes de barro cocido. En casa es una tradición infaltable para celebrar en familia con pan crujiente para mojar hasta la última gota.",
+    "ingredient_groups": [
+      {
+        "name": "Mariscos Frescos del Atlántico",
+        "ingredients": [
+          "400 g de tubos de calamar limpios cortados en anillas (y sus tentáculos)",
+          "300 g de colas de langostinos crudos limpios (o enteros con cola)",
+          "400 g de mejillones frescos en su valva (bien lavados)",
+          "200 g de almejas frescas o berberechos limpios",
+          "200 g de filetes de pescado blanco firme (abadejo o merluza negra en cubos gruesos, opcional)"
+        ]
+      },
+      {
+        "name": "El Fondo y Sofrito Aromático",
+        "ingredients": [
+          "4 cucharadas de aceite de oliva virgen extra",
+          "1 cebolla grande picada en brunoise",
+          "1 pimiento morrón rojo picado chico",
+          "1 puerro picado fino (parte blanca y verde clara)",
+          "3 dientes de ajo picados",
+          "1 vaso (150 ml) de vino blanco seco",
+          "400 g de tomates perita triturados",
+          "300 ml de caldo de pescado (fumet casero)",
+          "1 dedal de hebras de azafrán (o 1 cápsula de azafrán en polvo)",
+          "1 cucharada de pimentón dulce de buena calidad",
+          "1 hoja de laurel fresco",
+          "Sal marina y ají molido suave al gusto"
+        ]
+      },
+      {
+        "name": "Para la Terminación y Acompañamiento",
+        "ingredients": [
+          "3 cucharadas de perejil fresco picado",
+          "Gajos de limón fresco",
+          "Rodajas de pan de campo tostadas con aceite de oliva y frotadas con ajo"
+        ]
+      }
+    ],
+    "ingredients": [
+      "400 g de calamar limpio en anillas",
+      "300 g de langostinos limpios",
+      "400 g de mejillones en valva",
+      "200 g de almejas",
+      "200 g de pescado blanco firme",
+      "4 cucharadas de aceite de oliva",
+      "1 cebolla grande",
+      "1 pimiento morrón rojo",
+      "1 puerro",
+      "3 dientes de ajo",
+      "150 ml de vino blanco seco",
+      "400 g de tomate triturado",
+      "300 ml de caldo de pescado",
+      "Azafrán en hebras y pimentón dulce",
+      "Laurel, ají molido y sal",
+      "Perejil picado, limón y pan tostado para servir"
+    ],
+    "step_groups": [
+      {
+        "name": "1. Elaboración del sofrito criollo",
+        "steps": [
+          "En una cazuela grande de barro o cacerola ancha, calentá el aceite de oliva a fuego medio. Añadí la cebolla, el morrón rojo y el puerro con una pizca de sal. Rehogá durante 8 a 10 minutos hasta que los vegetales estén tiernos y transparentes.",
+          "Agregá los ajos picados y cociná por 1 minuto sin que se doren en exceso. Incorporá el pimentón dulce y el ají molido fuera del fuego directo para no quemar el pimentón, revolviendo rápido.",
+          "Volvé al fuego, verté el vino blanco y raspá el fondo de la cazuela. Dejá evaporar el alcohol a fuego vivo durante 3 minutos."
+        ]
+      },
+      {
+        "name": "2. Cocción de la salsa al azafrán y calamares",
+        "steps": [
+          "Añadí los tomates triturados, la hoja de laurel y las hebras de azafrán disueltas en un poquito de caldo caliente. Verté el resto del caldo de pescado, tapá y cociná a fuego suave durante 12 a 15 minutos para que la salsa espese y tome un color rojo dorado intenso.",
+          "Agregá las anillas y tentáculos de calamar a la salsa caliente. Cociná durante 5 a 7 minutos (el calamar debe cocinarse poco tiempo para que quede completamente tierno y suave)."
+        ]
+      },
+      {
+        "name": "3. Incorporación de mariscos y apertura",
+        "steps": [
+          "Sumá los cubos de pescado blanco (si usás), los langostinos limpios, los mejillones y las almejas en su valva.",
+          "Tapá la cazuela durante 4 a 5 minutos a fuego medio-alto: el vapor caliente abrirá los mejillones y cocinará los langostinos en su punto justo (rosados y jugosos). Descartá cualquier mejillón que no se haya abierto.",
+          "Rectificá de sal y retirá del fuego."
+        ]
+      },
+      {
+        "name": "4. Servicio de cantina",
+        "steps": [
+          "Espolvoreá la cazuela humeante con abundante perejil fresco picado. Serví directamente en la fuente de barro al centro de la mesa acompañada de gajos de limón fresco y tostadas de pan de campo frotadas con ajo para disfrutar de la salsa."
+        ]
+      }
+    ],
+    "steps": [
+      "Rehogá en cazuela de barro la cebolla, morrón y puerro en aceite de oliva; sumá ajo y pimentón.",
+      "Desglasá con vino blanco y reducí 3 minutos.",
+      "Agregá tomate triturado, azafrán, laurel y caldo de pescado; cociná 15 minutos hasta espesar.",
+      "Incorporá las anillas de calamar y cociná 5 a 7 minutos para mantenerlas tiernas.",
+      "Sumá langostinos, pescado y mejillones en valva; tapá 4 minutos hasta abrir los bivalvos.",
+      "Espolvoreá con perejil fresco y serví en la misma fuente de barro con pan tostado y limón."
+    ],
+    "notes": "• El secreto de la ternura del calamar: Los calamares deben cocinarse apenas 5 a 7 minutos (o más de 40 minutos en guisados largos); en esta cocción intermedia quedan suaves y con mordida elástica perfecta.\n• La cazuela de barro: Retiene el calor durante toda la comida, manteniendo los mariscos hirviendo en la mesa como en las cantinas de Mar del Plata.\n• El azafrán: Es el alma que le otorga su aroma inconfundible y tiñe la salsa con ese color ámbar dorado característico.",
+    "tags": [
+      "Cazuela de Mariscos",
+      "Mar del Plata",
+      "Argentina",
+      "Cantina",
+      "Langostinos",
+      "Mejillones",
+      "Calamares",
+      "Azafrán",
+      "Pescados y Mariscos",
+      "Bodegón"
+    ]
   }
 ]
