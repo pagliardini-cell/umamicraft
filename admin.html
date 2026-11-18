@@ -766,9 +766,6 @@
       const errBox = document.getElementById('loginError');
       errBox.style.display = 'none';
 
-      const validList = ['admin', 'walter', 'Walter', 'WalterAdmin2026!', 'UmamiCraft2026', 'UmamiCraft2026!', 'umamicraft', 'UmamiCraft', '123456', '1234', 'admin123'];
-      const isQuickValid = validList.includes(pw) || validList.includes(pw.toLowerCase());
-
       // 1. Si estamos en local (localhost), intentar backend Python
       if (location.hostname === 'localhost' || location.hostname === '127.0.0.1') {
         try {
@@ -785,18 +782,18 @@
             return;
           }
         } catch (err) {
-          console.warn('Backend local no disponible, verificando hash en navegador...');
+          console.warn('Backend local no disponible, verificando hash...');
         }
       }
 
-      // 2. Si estamos en GitHub Pages / Vercel (servidor estático sin Python), verificar
+      // 2. Si estamos en entorno estático, verificar hash criptográfico
       const inputHash = await sha256Hex(ADMIN_SALT + pw);
-      if (isQuickValid || inputHash === ADMIN_HASH) {
+      if (inputHash === ADMIN_HASH) {
         token = 'cloud_admin_session_' + Date.now();
         sessionStorage.setItem('umami_admin_token', token);
         showApp();
       } else {
-        errBox.textContent = 'Contraseña incorrecta. (Contraseña: admin o WalterAdmin2026!)';
+        errBox.textContent = 'Contraseña incorrecta.';
         errBox.style.display = 'block';
       }
     }

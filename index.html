@@ -3851,10 +3851,6 @@
     async function checkAdminPass(pw) {
       if (!pw) return false;
       const clean = pw.trim();
-      const validPasswords = ['admin', 'walter', 'Walter', 'WalterAdmin2026!', 'UmamiCraft2026', 'UmamiCraft2026!', 'umamicraft', 'UmamiCraft', '123456', '1234', 'admin123'];
-      if (validPasswords.includes(clean) || validPasswords.includes(clean.toLowerCase())) {
-        return true;
-      }
       try {
         const encoder = new TextEncoder();
         const data = encoder.encode('9c95224ab0c1d474' + clean);
@@ -3878,9 +3874,9 @@
         return;
       }
 
-      const input = prompt('Contraseña de Administrador:', 'admin');
-      if (input === null) return;
-      const pw = input.trim() || 'admin';
+      const input = prompt('Ingresa la contraseña de administrador:');
+      if (!input) return;
+      const pw = input.trim();
 
       const isValid = await checkAdminPass(pw);
       if (isValid) {
