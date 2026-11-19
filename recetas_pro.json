@@ -80238,5 +80238,366 @@
       "Escamas de sal marina y pimienta negra recién molida a gusto",
       "Hojas de perifollo, eneldo o ciboulette fresco para terminar"
     ]
+  },
+  {
+    "id": 748,
+    "title": "Huevos a la Diabla (Estados Unidos)",
+    "category": "Desayunos & Huevos",
+    "country": "Estados Unidos",
+    "difficulty": "Fácil",
+    "prep_time": "15 min",
+    "cook_time": "12 min",
+    "servings": "6 porciones",
+    "calories": "160 kcal",
+    "story": "El término culinario 'deviling' surgió en la Inglaterra del siglo XVIII para caracterizar preparaciones condimentadas con picante intenso y mostaza, pero fue en los banquetes informales y picnics de Estados Unidos de mediados del siglo XIX donde los deviled eggs alcanzaron su identidad definitiva. Con la masificación de la mayonesa en la década de 1940, la receta se estandarizó en el recetario de la posguerra norteamericana como un clásico imprescindible del sur y el Medio Oeste en reuniones familiares.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Huevos y Emulsión",
+        "ingredients": [
+          "6 huevos grandes frescos",
+          "3 cucharadas colmadas de mayonesa",
+          "1 y 1/2 cucharaditas de mostaza clásica tipo Dijon",
+          "1 cucharadita de vinagre de manzana o líquido de conserva de pepinillos",
+          "1/4 cucharadita de pimienta de cayena o salsa picante suave",
+          "Sal fina y pimienta negra recién molida a gusto"
+        ]
+      },
+      {
+        "name": "Terminación y Decoración",
+        "ingredients": [
+          "1 cucharadita de pimentón dulce ahumado (paprika)",
+          "2 cucharadas de ciboulette fresco finamente picado",
+          "2 tiras de panceta ahumada dorada y crocante picada"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "",
+        "steps": [
+          "Colocá los huevos en una cacerola, cubrilos con agua fría y llevalos a hervor suave durante 11 minutos exactos.",
+          "Pasalos de inmediato a un bol con agua helada y cubos de hielo durante 5 minutos para frenar la cocción en seco y facilitar un pelado prolijo.",
+          "Pelá los huevos con cuidado bajo un hilo fino de agua fría, secalos con papel absorbente y cortalos longitudinalmente por la mitad con un cuchillo bien afilado.",
+          "Retirá con suavidad las yemas cocidas y disponelas en un cuenco hondo.",
+          "Pisá las yemas con tenedor y sumá la mayonesa, la mostaza Dijon, el vinagre de pepinillos, la pimienta de cayena, una pizca de sal y pimienta negra.",
+          "Batí enérgicamente con batidor de alambre pequeño o procesá unos segundos hasta lograr una crema homogénea, satinada y sin grumos.",
+          "Cargá la crema en una manga pastelera con boquilla rizada y rellená generosamente el hueco de cada media clara cocida.",
+          "Espolvoreá la superficie con el pimentón ahumado, el ciboulette fresco picado y la panceta crocante antes de servir bien frescos."
+        ]
+      }
+    ],
+    "notes": "El secreto para que el relleno quede sedoso como una crema de pastelería es tamizar las yemas con un colador fino o procesarlas con mixer antes de integrar la mayonesa y la mostaza. El toque de salmuera de pepinillo le aporta la acidez justa que equilibra la untuosidad de la yema.",
+    "tags": [
+      "huevos a la diabla",
+      "deviled eggs",
+      "recetas con huevo",
+      "entradas frias",
+      "aperitivos",
+      "cocina estadounidense",
+      "recetas faciles",
+      "picadas"
+    ],
+    "image": "https://lh3.googleusercontent.com/-PEw7UIVfvWg/av6hu95zfPI/AAAAAAAQC7Y/pogSCIXSfBMkKnmC0Cbp59OodKlR3sxOACNcBGAsYHQ/s1600/huevos_a_la_diabla_eeuu_12_1795072317157.jpg",
+    "steps": [
+      "Colocá los huevos en una cacerola, cubrilos con agua fría y llevalos a hervor suave durante 11 minutos exactos.",
+      "Pasalos de inmediato a un bol con agua helada y cubos de hielo durante 5 minutos para frenar la cocción en seco y facilitar un pelado prolijo.",
+      "Pelá los huevos con cuidado bajo un hilo fino de agua fría, secalos con papel absorbente y cortalos longitudinalmente por la mitad con un cuchillo bien afilado.",
+      "Retirá con suavidad las yemas cocidas y disponelas en un cuenco hondo.",
+      "Pisá las yemas con tenedor y sumá la mayonesa, la mostaza Dijon, el vinagre de pepinillos, la pimienta de cayena, una pizca de sal y pimienta negra.",
+      "Batí enérgicamente con batidor de alambre pequeño o procesá unos segundos hasta lograr una crema homogénea, satinada y sin grumos.",
+      "Cargá la crema en una manga pastelera con boquilla rizada y rellená generosamente el hueco de cada media clara cocida.",
+      "Espolvoreá la superficie con el pimentón ahumado, el ciboulette fresco picado y la panceta crocante antes de servir bien frescos."
+    ],
+    "ingredients": [
+      "6 huevos grandes frescos",
+      "3 cucharadas colmadas de mayonesa",
+      "1 y 1/2 cucharaditas de mostaza clásica tipo Dijon",
+      "1 cucharadita de vinagre de manzana o líquido de conserva de pepinillos",
+      "1/4 cucharadita de pimienta de cayena o salsa picante suave",
+      "Sal fina y pimienta negra recién molida a gusto",
+      "1 cucharadita de pimentón dulce ahumado (paprika)",
+      "2 cucharadas de ciboulette fresco finamente picado",
+      "2 tiras de panceta ahumada dorada y crocante picada"
+    ]
+  },
+  {
+    "id": 749,
+    "title": "Chicken Biryani (India)",
+    "category": "Arroces & Legumbres",
+    "country": "India",
+    "difficulty": "Media",
+    "prep_time": "30 min",
+    "cook_time": "55 min",
+    "servings": "6 porciones",
+    "calories": "540 kcal",
+    "story": "Nacido en las cocinas reales del Imperio Mogol por la fusión entre las tradiciones persas del pilaf y las intensas especias del subcontinente indio, el biryani alcanzó su máxima sofisticación en la corte de los Nizams de Hyderabad. Cocinado mediante la ancestral técnica dum pukht —donde la carne marinada en yogur y el arroz basmati perfumado con azafrán se cuecen lentamente al vapor en ollas selladas con masa—, este plato trascendió los palacios para convertirse en el ícono indiscutido de los puestos callejeros nocturnos de Bangalore y Hyderabad, donde se sirve humeante a medianoche ante multitudes devotas.",
+    "ingredient_groups": [
+      {
+        "name": "Marinado del Pollo (Kachi Style)",
+        "ingredients": [
+          "1 kg de pollo con hueso (pata y muslo troceados en presas medianas)",
+          "1 taza (240 g) de yogur natural entero y espeso",
+          "2 cucharadas de pasta fresca de jengibre y ajo",
+          "1 cucharada de chile rojo de Cachemira en polvo (Kashmiri chili)",
+          "1 cucharadita de cúrcuma molida",
+          "1 cucharadita de garam masala",
+          "1 cucharadita de shahi jeera (semillas de alcaravea india o comino suave)",
+          "4 vainas de cardamomo verde, 4 clavos de olor y 1 rama de canela",
+          "2 cucharadas de jugo fresco de limón",
+          "1/2 taza de cebollas fritas crujientes doradas (birista)",
+          "1/2 taza de hojas de menta y cilantro frescos picados",
+          "3 cucharadas del aceite residual del fritado de las cebollas",
+          "1 cucharada colmada de sal gruesa"
+        ]
+      },
+      {
+        "name": "Cocción del Arroz Basmati",
+        "ingredients": [
+          "500 g de arroz basmati de grano extra largo (lavado y remojado 30 minutos)",
+          "3 litros de agua abundante",
+          "2 hojas de laurel, 3 cardamomos verdes, 1 anís estrellado y 1 rama de canela",
+          "2 cucharadas de sal marina gruesa",
+          "1 cucharada de ghee o manteca clarificada"
+        ]
+      },
+      {
+        "name": "Sellado y Cocción al Vapor (Dum)",
+        "ingredients": [
+          "1 dedal generoso de hebras de azafrán disueltas en 4 cucharadas de leche tibia",
+          "3 cucharadas de ghee derretido",
+          "1/2 taza extra de cebollas doradas (birista), menta y cilantro",
+          "Masa de harina y agua (o papel de aluminio doble) para el sellado hermético"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "",
+        "steps": [
+          "En la misma olla o cazuela pesada donde vas a cocinar el biryani, disponé los trozos de pollo y mezclalos con el yogur, la pasta de jengibre y ajo, jugo de limón, chile de Cachemira, cúrcuma, garam masala, shahi jeera, los cardamomos, clavos y la canela.",
+          "Sumá la mitad de las cebollas fritas (birista), el cilantro, la menta, el aceite aromatizado y la sal; masajeá cada presa con las manos limpias y dejá marinar al menos 1 a 2 horas (idealmente toda la noche en heladera).",
+          "En una olla aparte con los 3 litros de agua hirviendo, las especias enteras, la sal y el ghee, volcá el arroz basmati escurrido; cocinalo únicamente durante 4 a 5 minutos hasta que alcance un 60 % de cocción (firme y con el centro aún crudo) y colalo de inmediato reservando 4 cucharadas del agua de cocción.",
+          "Volcá el arroz semicocido y humeante directamente sobre la cama de pollo crudo marinado en el fondo de la olla, emparejando sin presionar.",
+          "Bañá la superficie del arroz con la leche tibia con azafrán, el ghee fundido, el resto de las cebollas fritas crocantes y las hierbas picadas, vertiendo también las 4 cucharadas de agua de arroz por los bordes para generar vapor interno.",
+          "Sellá el contorno de la olla con una tira gruesa de masa de harina y agua antes de colocar la tapa (o cubrí bien apretado con doble papel de aluminio y la tapa encima) para que no escape nada de vapor.",
+          "Llevá la olla a fuego fuerte durante los primeros 8 minutos para activar el vapor interno.",
+          "Colocá una plancha o disco de hierro debajo de la olla para disipar el fuego directo, bajá la hornalla al mínimo y cociná al vapor dum durante 45 minutos ininterrumpidos.",
+          "Apagá el fuego y dejá reposar 10 minutos sin destapar; luego rompé el sello con un cuchillo y levantá con espátula plana desde el fondo para servir capas de arroz blanco y azafranado junto a las presas de pollo tiernas y sus jugos especiados."
+        ]
+      }
+    ],
+    "notes": "El secreto sagrado del Chicken Dum Biryani reside en el sellado hermético ('dum'): la carne cruda se cocina en sus propios vapores y jugos mientras sube a través del arroz basmati, logrando una terneza que se desprende sola del hueso sin secarse. Servilo siempre acompañado de raita de yogur fresco para contrastar el tenor de las especias.",
+    "tags": [
+      "chicken biryani",
+      "biryani de pollo",
+      "dum biryani",
+      "arroz basmati",
+      "cocina india",
+      "street food india",
+      "night biryani",
+      "recetas con pollo"
+    ],
+    "image": "https://lh3.googleusercontent.com/-4iD3tVK0BuA/av6hwgv2YoI/AAAAAAAQC7g/2vg9LqboNH0DJRhC9alLBNAwhgAgq9BFACNcBGAsYHQ/s1600/chicken_biryani_india_1795072302416.jpg",
+    "steps": [
+      "En la misma olla o cazuela pesada donde vas a cocinar el biryani, disponé los trozos de pollo y mezclalos con el yogur, la pasta de jengibre y ajo, jugo de limón, chile de Cachemira, cúrcuma, garam masala, shahi jeera, los cardamomos, clavos y la canela.",
+      "Sumá la mitad de las cebollas fritas (birista), el cilantro, la menta, el aceite aromatizado y la sal; masajeá cada presa con las manos limpias y dejá marinar al menos 1 a 2 horas (idealmente toda la noche en heladera).",
+      "En una olla aparte con los 3 litros de agua hirviendo, las especias enteras, la sal y el ghee, volcá el arroz basmati escurrido; cocinalo únicamente durante 4 a 5 minutos hasta que alcance un 60 % de cocción (firme y con el centro aún crudo) y colalo de inmediato reservando 4 cucharadas del agua de cocción.",
+      "Volcá el arroz semicocido y humeante directamente sobre la cama de pollo crudo marinado en el fondo de la olla, emparejando sin presionar.",
+      "Bañá la superficie del arroz con la leche tibia con azafrán, el ghee fundido, el resto de las cebollas fritas crocantes y las hierbas picadas, vertiendo también las 4 cucharadas de agua de arroz por los bordes para generar vapor interno.",
+      "Sellá el contorno de la olla con una tira gruesa de masa de harina y agua antes de colocar la tapa (o cubrí bien apretado con doble papel de aluminio y la tapa encima) para que no escape nada de vapor.",
+      "Llevá la olla a fuego fuerte durante los primeros 8 minutos para activar el vapor interno.",
+      "Colocá una plancha o disco de hierro debajo de la olla para disipar el fuego directo, bajá la hornalla al mínimo y cociná al vapor dum durante 45 minutos ininterrumpidos.",
+      "Apagá el fuego y dejá reposar 10 minutos sin destapar; luego rompé el sello con un cuchillo y levantá con espátula plana desde el fondo para servir capas de arroz blanco y azafranado junto a las presas de pollo tiernas y sus jugos especiados."
+    ],
+    "ingredients": [
+      "1 kg de pollo con hueso (pata y muslo troceados en presas medianas)",
+      "1 taza (240 g) de yogur natural entero y espeso",
+      "2 cucharadas de pasta fresca de jengibre y ajo",
+      "1 cucharada de chile rojo de Cachemira en polvo (Kashmiri chili)",
+      "1 cucharadita de cúrcuma molida",
+      "1 cucharadita de garam masala",
+      "1 cucharadita de shahi jeera (semillas de alcaravea india o comino suave)",
+      "4 vainas de cardamomo verde, 4 clavos de olor y 1 rama de canela",
+      "2 cucharadas de jugo fresco de limón",
+      "1/2 taza de cebollas fritas crujientes doradas (birista)",
+      "1/2 taza de hojas de menta y cilantro frescos picados",
+      "3 cucharadas del aceite residual del fritado de las cebollas",
+      "1 cucharada colmada de sal gruesa",
+      "500 g de arroz basmati de grano extra largo (lavado y remojado 30 minutos)",
+      "3 litros de agua abundante",
+      "2 hojas de laurel, 3 cardamomos verdes, 1 anís estrellado y 1 rama de canela",
+      "2 cucharadas de sal marina gruesa",
+      "1 cucharada de ghee o manteca clarificada",
+      "1 dedal generoso de hebras de azafrán disueltas en 4 cucharadas de leche tibia",
+      "3 cucharadas de ghee derretido",
+      "1/2 taza extra de cebollas doradas (birista), menta y cilantro",
+      "Masa de harina y agua (o papel de aluminio doble) para el sellado hermético"
+    ]
+  },
+  {
+    "id": 750,
+    "title": "Guacamole (México)",
+    "category": "Salsas & Condimentos",
+    "country": "México",
+    "difficulty": "Muy Fácil",
+    "prep_time": "10 min",
+    "cook_time": "0 min",
+    "servings": "4 porciones",
+    "calories": "150 kcal",
+    "story": "De raíz prehispánica náhuatl bajo la voz ahuacamolli ('salsa de aguacate'), esta emblemática preparación data de la civilización mexica en el valle central de México antes de la llegada de los conquistadores españoles. Tradicionalmente labrado en el molcajete de piedra volcánica donde el fruto del aguacatero se fundía con chiles frescos, incorporó tras el mestizaje colonial la cebolla, el cilantro y el jugo de lima para consagrarse como una de las mayores contribuciones culinarias de Mesoamérica a la gastronomía mundial.",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes Principales",
+        "ingredients": [
+          "3 aguacates maduros (tipo Hass de cáscara rugosa y oscura)",
+          "1/2 cebolla blanca mediana picada en cubitos bien finos",
+          "1 tomate redondo maduro sin semillas picado en brunoise",
+          "1 o 2 chiles serranos o jalapeños frescos picados fino (con o sin semillas según picor deseado)",
+          "1/2 taza de cilantro fresco picado con tallos tiernos",
+          "Jugo fresco de 1 lima verde (o limón sutil)",
+          "1 cucharadita de sal marina fina a gusto"
+        ]
+      },
+      {
+        "name": "Para Servir",
+        "ingredients": [
+          "Totopos de maíz triangulares dorados y crujientes",
+          "Gajos de lima fresca"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "",
+        "steps": [
+          "En un molcajete de piedra volcánica o cuenco hondo amplio, colocá un tercio de la cebolla picada, la mitad del chile serrano, un puñado de cilantro y la cucharadita de sal marina.",
+          "Machacá los ingredientes con el tejolote o con la base de un mortero durante 1 minuto hasta formar una pasta aromática que libere los jugos esenciales.",
+          "Cortá los aguacates por la mitad longitudinalmente, retirá los carozos con un golpe seco de cuchillo y extraé la pulpa con una cuchara sopera hacia el molcajete.",
+          "Pisá la pulpa del aguacate con un tenedor o el tejolote manteniendo una textura rústica con tropezones evidentes, evitando licuar o triturar en exceso.",
+          "Incorporá el tomate en cubos, el resto de la cebolla picada, el resto del chile y las hojas de cilantro.",
+          "Verté el jugo fresco de lima recién exprimido e integrá todo con movimientos suaves y envolventes.",
+          "Ajustá el punto de sal marina a gusto y serví de inmediato en el mismo molcajete acompañado de totopos de maíz crocantes."
+        ]
+      }
+    ],
+    "notes": "El auténtico guacamole mexicano jamás se procesa con máquina eléctrica: su encanto radica en la textura heterogénea y mantecosa con tropezones de palta. El jugo de lima, además de realzar el dulzor natural del fruto, actúa como antioxidante natural para conservar el color verde brillante.",
+    "tags": [
+      "guacamole",
+      "guacamole mexicano",
+      "receta de guacamole",
+      "molcajete",
+      "dips mexicanos",
+      "totopos con guacamole",
+      "cocina mexicana",
+      "entradas frescas"
+    ],
+    "image": "https://lh3.googleusercontent.com/--TfAh3_ztJ8/av6hyURIrFI/AAAAAAAQC7o/v1s6Y0of7OshozhV7K69Uan_GVVDKmiKwCNcBGAsYHQ/s1600/guacamole_mexico_molcajete_1795072317992.jpg",
+    "steps": [
+      "En un molcajete de piedra volcánica o cuenco hondo amplio, colocá un tercio de la cebolla picada, la mitad del chile serrano, un puñado de cilantro y la cucharadita de sal marina.",
+      "Machacá los ingredientes con el tejolote o con la base de un mortero durante 1 minuto hasta formar una pasta aromática que libere los jugos esenciales.",
+      "Cortá los aguacates por la mitad longitudinalmente, retirá los carozos con un golpe seco de cuchillo y extraé la pulpa con una cuchara sopera hacia el molcajete.",
+      "Pisá la pulpa del aguacate con un tenedor o el tejolote manteniendo una textura rústica con tropezones evidentes, evitando licuar o triturar en exceso.",
+      "Incorporá el tomate en cubos, el resto de la cebolla picada, el resto del chile y las hojas de cilantro.",
+      "Verté el jugo fresco de lima recién exprimido e integrá todo con movimientos suaves y envolventes.",
+      "Ajustá el punto de sal marina a gusto y serví de inmediato en el mismo molcajete acompañado de totopos de maíz crocantes."
+    ],
+    "ingredients": [
+      "3 aguacates maduros (tipo Hass de cáscara rugosa y oscura)",
+      "1/2 cebolla blanca mediana picada en cubitos bien finos",
+      "1 tomate redondo maduro sin semillas picado en brunoise",
+      "1 o 2 chiles serranos o jalapeños frescos picados fino (con o sin semillas según picor deseado)",
+      "1/2 taza de cilantro fresco picado con tallos tiernos",
+      "Jugo fresco de 1 lima verde (o limón sutil)",
+      "1 cucharadita de sal marina fina a gusto",
+      "Totopos de maíz triangulares dorados y crujientes",
+      "Gajos de lima fresca"
+    ]
+  },
+  {
+    "id": 751,
+    "title": "Banana Bread (Estados Unidos)",
+    "category": "Panadería & Masas",
+    "country": "Estados Unidos",
+    "difficulty": "Fácil",
+    "prep_time": "15 min",
+    "cook_time": "55 min",
+    "servings": "10 porciones",
+    "calories": "260 kcal",
+    "story": "Surgido en los hogares estadounidenses durante la Gran Depresión de la década de 1930 como una ingeniosa solución doméstica para no desperdiciar las bananas excesivamente maduras, este pan rápido o quick bread cobró impulso nacional con la popularización del bicarbonato de sodio y el polvo para hornear. Consagrado en los recetarios corporativos de harineras norteamericanas hacia 1933, se convirtió en un símbolo de la repostería reconfortante del desayuno y la merienda en todo el mundo anglosajón.",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes Húmedos",
+        "ingredients": [
+          "3 bananas medianas bien maduras (con piel manchada y pulpa blanda)",
+          "80 g de manteca sin sal derretida y tibia",
+          "100 g de azúcar rubia o morena",
+          "50 g de azúcar blanca común",
+          "1 huevo grande a temperatura ambiente batido",
+          "1 cucharadita de extracto puro de vainilla"
+        ]
+      },
+      {
+        "name": "Ingredientes Secos y Agregados",
+        "ingredients": [
+          "200 g de harina de trigo 0000 (o harina común de repostería)",
+          "1 cucharadita de bicarbonato de sodio",
+          "1/2 cucharadita de sal fina",
+          "1/2 cucharadita de canela molida",
+          "80 g de nueces tostadas picadas gruesas (opcional)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "",
+        "steps": [
+          "Precalentá el horno a 175 °C y enmantecá y enhariná un molde rectangular para budín de 22 x 11 centímetros (o forralo con papel manteca).",
+          "En un bol grande, pelá las bananas maduras y pisalas con tenedor hasta reducirlas a un puré espeso y aromático.",
+          "Agregá la manteca derretida tibia al puré de bananas y mezclá con espátula de madera o batidor de mano.",
+          "Incorporá el azúcar rubia, el azúcar blanca, el huevo batido y el extracto de vainilla, integrando durante 1 minuto hasta obtener una mezcla fluida y brillante.",
+          "En un cuenco aparte, tamizá la harina junto con el bicarbonato de sodio, la sal fina y la canela molida.",
+          "Volcá los secos sobre la mezcla de banana e integrá con movimientos envolventes suaves únicamente hasta humedecer la harina, sin sobrebatir para que la miga quede tierna y esponjosa.",
+          "Añadí las nueces tostadas picadas distribuyéndolas en la masa.",
+          "Verté la preparación en el molde preparado, alisá la superficie con espátula y horneá a 175 °C durante 50 a 55 minutos, hasta que la grieta central esté dorada y al insertar un palillo en el centro salga limpio con apenas unas migas húmedas.",
+          "Retirá del horno, dejá enfriar 10 minutos dentro del molde y luego desmoldá sobre una rejilla metálica para que enfríe antes de cortar en rebanadas gruesas con manteca."
+        ]
+      }
+    ],
+    "notes": "Cuanto más oscuras y manchadas estén las bananas, más intensos serán el aroma y la humedad del pan, ya que sus almidones se habrán convertido en azúcares naturales. Para conservar su terneza, envolvelo en papel film una vez frío: al día siguiente su sabor se potencia aún más.",
+    "tags": [
+      "banana bread",
+      "pan de banana",
+      "budin de banana",
+      "quick bread",
+      "receta facil",
+      "desayunos y meriendas",
+      "cocina estadounidense",
+      "reposteria casera"
+    ],
+    "image": "https://lh3.googleusercontent.com/-rNyJY5vN-s4/av6hz4zaiZI/AAAAAAAQC7w/eB_z_lCSqLA6840v0J56QALERvsaUmu8wCNcBGAsYHQ/s1600/banana_bread_estados_unidos_1795072339552.jpg",
+    "steps": [
+      "Precalentá el horno a 175 °C y enmantecá y enhariná un molde rectangular para budín de 22 x 11 centímetros (o forralo con papel manteca).",
+      "En un bol grande, pelá las bananas maduras y pisalas con tenedor hasta reducirlas a un puré espeso y aromático.",
+      "Agregá la manteca derretida tibia al puré de bananas y mezclá con espátula de madera o batidor de mano.",
+      "Incorporá el azúcar rubia, el azúcar blanca, el huevo batido y el extracto de vainilla, integrando durante 1 minuto hasta obtener una mezcla fluida y brillante.",
+      "En un cuenco aparte, tamizá la harina junto con el bicarbonato de sodio, la sal fina y la canela molida.",
+      "Volcá los secos sobre la mezcla de banana e integrá con movimientos envolventes suaves únicamente hasta humedecer la harina, sin sobrebatir para que la miga quede tierna y esponjosa.",
+      "Añadí las nueces tostadas picadas distribuyéndolas en la masa.",
+      "Verté la preparación en el molde preparado, alisá la superficie con espátula y horneá a 175 °C durante 50 a 55 minutos, hasta que la grieta central esté dorada y al insertar un palillo en el centro salga limpio con apenas unas migas húmedas.",
+      "Retirá del horno, dejá enfriar 10 minutos dentro del molde y luego desmoldá sobre una rejilla metálica para que enfríe antes de cortar en rebanadas gruesas con manteca."
+    ],
+    "ingredients": [
+      "3 bananas medianas bien maduras (con piel manchada y pulpa blanda)",
+      "80 g de manteca sin sal derretida y tibia",
+      "100 g de azúcar rubia o morena",
+      "50 g de azúcar blanca común",
+      "1 huevo grande a temperatura ambiente batido",
+      "1 cucharadita de extracto puro de vainilla",
+      "200 g de harina de trigo 0000 (o harina común de repostería)",
+      "1 cucharadita de bicarbonato de sodio",
+      "1/2 cucharadita de sal fina",
+      "1/2 cucharadita de canela molida",
+      "80 g de nueces tostadas picadas gruesas (opcional)"
+    ]
   }
 ]
