@@ -77731,7 +77731,7 @@
     "cook_time": "40 min",
     "total_time": "1 h 30 min (más refrigeración)",
     "servings": "6 porciones",
-    "image": "https://lh3.googleusercontent.com/-A9aZ4Pt-bfk/av0n0IUuFjI/AAAAAAAQCxY/z4eukN1gYjQzhIuPpKnmnOw-Ct6XDV_gQCNcBGAsYHQ/s1600/beef_wellington_reino_unido.jpg",
+    "image": "https://lh3.googleusercontent.com/-FsKsvaNECJM/av5BsVpV9uI/AAAAAAAQC1U/c_BoO4E2_aEJ1L9KJzq0JaUR_c-xJPNVACNcBGAsYHQ/s1600/beef_wellington_reino_unido.jpg",
     "story": "Atribuido históricamente a Arthur Wellesley, primer duque de Wellington tras su célebre triunfo en la batalla de Waterloo en 1815, este plato cumbre de la alta cocina británica es una sofisticada reinterpretación del clásico filet de bœuf en croûte continental. Consagrado en los banquetes de gala de Londres durante el siglo XX, representa la cúspide de la precisión técnica en el dominio térmico por capas.",
     "ingredient_groups": [
       {
@@ -78989,6 +78989,258 @@
       ],
       "readerComments": "ALLOW",
       "etag": "\"dGltZXN0YW1wOiAxNzk1MDI0ODY1NjYwCm9mZnNldDogLTEwODAwMDAwCg\""
+    }
+  },
+  {
+    "id": 735,
+    "title": "Bondiola a la Cerveza Negra (Argentina)",
+    "category": "Carnes",
+    "country": "Argentina",
+    "prep_time": "20 min",
+    "cook_time": "1 h 40 min",
+    "servings": "4 personas",
+    "image": "https://lh3.googleusercontent.com/-19TIDx2YthI/av5BtNdyAnI/AAAAAAAQC1c/sEMazbxvMQQIVjpuNjpNUftAY6DrdK2rACNcBGAsYHQ/s1600/bondiola_a_la_cerveza_negra_argentina.jpg",
+    "tags": [
+      "Bondiola a la cerveza",
+      "Recetas con cerdo",
+      "Carne salsa",
+      "Bondiola braseada",
+      "Cerveza negra",
+      "Cocina de bodegón",
+      "Carnes al horno",
+      "Platos de olla"
+    ],
+    "story": "El braseado de bondiola en cerveza negra y mostaza se consolidó en los últimos años como uno de los nuevos clásicos de las cantinas y reuniones familiares argentinas. Al tratarse de un corte porcino con abundante grasa intramuscular y tejido conectivo, la cocción lenta y húmeda desnaturaliza el colágeno y transforma los azúcares de la malta tostada en un glaseado espeso, oscuro y profundamente sabroso. En mi cocina es la opción obligada cuando busco una carne tiernísima que se corte con cuchara y una salsa que pida pan crujiente.",
+    "ingredient_groups": [
+      {
+        "name": "Bondiola y Sellado",
+        "ingredients": [
+          "1,2 kg de bondiola de cerdo fresca entera",
+          "2 cucharadas de aceite de oliva o maíz",
+          "1 cucharadita de sal gruesa",
+          "Pimienta negra recién molida al gusto",
+          "1 cucharada de pimentón dulce ahumado"
+        ]
+      },
+      {
+        "name": "Fondo de Cerveza Negra y Glaseado",
+        "ingredients": [
+          "500 ml de cerveza negra (Stout, Porter o Bock)",
+          "2 cebollas grandes cortadas en plumas gruesas",
+          "1 puerro picado en rodajas",
+          "2 dientes de ajo aplastados",
+          "2 cucharadas de mostaza tipo Dijon o clásica",
+          "2 cucharadas de miel o azúcar rubia",
+          "1 hoja de laurel seca",
+          "1 rama de romero fresco",
+          "Papas rústicas doradas al horno para guarnición"
+        ]
+      }
+    ],
+    "ingredients": [
+      "1,2 kg de bondiola de cerdo fresca entera",
+      "2 cucharadas de aceite de oliva o maíz",
+      "1 cucharadita de sal gruesa",
+      "Pimienta negra recién molida al gusto",
+      "1 cucharada de pimentón dulce ahumado",
+      "500 ml de cerveza negra (Stout, Porter o Bock)",
+      "2 cebollas grandes cortadas en plumas gruesas",
+      "1 puerro picado en rodajas",
+      "2 dientes de ajo aplastados",
+      "2 cucharadas de mostaza tipo Dijon o clásica",
+      "2 cucharadas de miel o azúcar rubia",
+      "1 hoja de laurel seca",
+      "1 rama de romero fresco",
+      "Papas rústicas doradas al horno para guarnición"
+    ],
+    "step_groups": [
+      {
+        "name": "",
+        "steps": [
+          "Cortá la bondiola de cerdo en bifes gruesos de unos tres centímetros de espesor y sazoná cada pieza con la sal, la pimienta y el pimentón ahumado.",
+          "Calentá una cacerola de fondo grueso o fuente de hierro con dos cucharadas de aceite a fuego vivo y sellá los trozos de bondiola dos minutos por lado hasta lograr un dorado intenso y parejo. Retiralos y reservá.",
+          "En el mismo fondo de cocción incorporá las cebollas y el puerro con una pizca de sal, bajá a fuego medio y cociná durante ocho minutos hasta que comiencen a caramelizar y levantar los jugos tostados de la carne.",
+          "Sumá los dientes de ajo aplastados, la mostaza y la miel, mezclando con cuchara de madera durante un minuto.",
+          "Acomodá los trozos de bondiola sobre el colchón de vegetales, agregá la hoja de laurel y la rama de romero, y verté los 500 ml de cerveza negra cubriendo la carne hasta la mitad.",
+          "Llevá a primer hervor, tapá la cacerola herméticamente y bajá el fuego a mínimo (o llevala a horno medio a 160 °C).",
+          "Dejá brasear durante una hora y media sin destapar, permitiendo que la grasa entreverada se funda y la fibra de la carne quede sumamente tierna.",
+          "Destapá la olla, subí el fuego a medio y cociná durante diez minutos más para que la salsa de cerveza reduzca a consistencia de caramelo brillante y nappe la carne.",
+          "Serví la bondiola con abundante salsa de cebollas a la cerveza por encima y acompañá con papas rústicas al horno."
+        ]
+      }
+    ],
+    "steps": [
+      "Cortá la bondiola de cerdo en bifes gruesos de unos tres centímetros de espesor y sazoná cada pieza con la sal, la pimienta y el pimentón ahumado.",
+      "Calentá una cacerola de fondo grueso o fuente de hierro con dos cucharadas de aceite a fuego vivo y sellá los trozos de bondiola dos minutos por lado hasta lograr un dorado intenso y parejo. Retiralos y reservá.",
+      "En el mismo fondo de cocción incorporá las cebollas y el puerro con una pizca de sal, bajá a fuego medio y cociná durante ocho minutos hasta que comiencen a caramelizar y levantar los jugos tostados de la carne.",
+      "Sumá los dientes de ajo aplastados, la mostaza y la miel, mezclando con cuchara de madera durante un minuto.",
+      "Acomodá los trozos de bondiola sobre el colchón de vegetales, agregá la hoja de laurel y la rama de romero, y verté los 500 ml de cerveza negra cubriendo la carne hasta la mitad.",
+      "Llevá a primer hervor, tapá la cacerola herméticamente y bajá el fuego a mínimo (o llevala a horno medio a 160 °C).",
+      "Dejá brasear durante una hora y media sin destapar, permitiendo que la grasa entreverada se funda y la fibra de la carne quede sumamente tierna.",
+      "Destapá la olla, subí el fuego a medio y cociná durante diez minutos más para que la salsa de cerveza reduzca a consistencia de caramelo brillante y nappe la carne.",
+      "Serví la bondiola con abundante salsa de cebollas a la cerveza por encima y acompañá con papas rústicas al horno."
+    ],
+    "notes": "El punto del braseado: La bondiola requiere tiempo y fuego bajo constante; si se cocina a fuego fuerte la fibra se endurece y expulsa sus jugos. Al respetar la hora y media de cocción lenta, el colágeno se disuelve en gelatina y la carne queda tan blanda que se desmenuza con el tenedor.",
+    "is_cocktail": false,
+    "blogger_url": {
+      "kind": "blogger#post",
+      "id": "507872297694944951",
+      "status": "LIVE",
+      "blog": {
+        "id": "4924047739298865497"
+      },
+      "published": "2026-11-18T21:24:27-03:00",
+      "updated": "2026-11-18T21:24:27-03:00",
+      "url": "https://recarg.blogspot.com/2026/11/bondiola-la-cerveza-negra-argentina.html",
+      "selfLink": "https://blogger.googleapis.com/v3/blogs/4924047739298865497/posts/507872297694944951",
+      "title": "Bondiola a la Cerveza Negra (Argentina)",
+      "content": "<div style=\"font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif; color:#2d3748; line-height:1.7; max-width:760px; margin:0 auto; padding:10px;\">\n\n  <!-- Fotografía Nativa para Mosaico de Blogger -->\n  <div class=\"separator\" style=\"clear: both; text-align: center; margin-bottom: 25px;\">\n    <a href=\"https://lh3.googleusercontent.com/-19TIDx2YthI/av5BtNdyAnI/AAAAAAAQC1c/sEMazbxvMQQIVjpuNjpNUftAY6DrdK2rACNcBGAsYHQ/s1600/bondiola_a_la_cerveza_negra_argentina.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\">\n      <img border=\"0\" src=\"https://lh3.googleusercontent.com/-19TIDx2YthI/av5BtNdyAnI/AAAAAAAQC1c/sEMazbxvMQQIVjpuNjpNUftAY6DrdK2rACNcBGAsYHQ/s1600/bondiola_a_la_cerveza_negra_argentina.jpg\" alt=\"Bondiola a la Cerveza Negra (Argentina)\" style=\"width:100%; max-width:740px; height:auto; border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.12); display:block; margin:0 auto;\" />\n    </a>\n  </div>\n\n  <!-- Reseña Cultural / Historia -->\n  <div style=\"background:#f8fafc; border-left:4px solid #e11d48; padding:16px 20px; border-radius:6px; margin-bottom:25px; font-style:italic; color:#475569; font-size:1.02rem;\">\n    El braseado de bondiola en cerveza negra y mostaza se consolidó en los últimos años como uno de los nuevos clásicos de las cantinas y reuniones familiares argentinas. Al tratarse de un corte porcino con abundante grasa intramuscular y tejido conectivo, la cocción lenta y húmeda desnaturaliza el colágeno y transforma los azúcares de la malta tostada en un glaseado espeso, oscuro y profundamente sabroso. En mi cocina es la opción obligada cuando busco una carne tiernísima que se corte con cuchara y una salsa que pida pan crujiente.\n  </div>\n\n  <!-- Ficha Técnica -->\n  <div style=\"text-align:center; background:#fff1f2; padding:14px; border-radius:12px; margin-bottom:30px;\">\n    <span style=\"background:#ffffff; border:1px solid #fecdd3; padding:5px 12px; border-radius:15px; font-weight:600; font-size:0.85rem; color:#be123c; margin:3px; display:inline-block;\">⏱️ Prep: 20 min</span> <span style=\"background:#ffffff; border:1px solid #fecdd3; padding:5px 12px; border-radius:15px; font-weight:600; font-size:0.85rem; color:#be123c; margin:3px; display:inline-block;\">🔥 Cocción: 1 h 40 min</span> <span style=\"background:#ffffff; border:1px solid #fecdd3; padding:5px 12px; border-radius:15px; font-weight:600; font-size:0.85rem; color:#be123c; margin:3px; display:inline-block;\">🍽️ 4 personas</span>\n  </div>\n\n  <!-- Ingredientes -->\n  <h3 style=\"color:#9f1239; border-bottom:2px solid #fecdd3; padding-bottom:6px; font-size:1.35rem; margin-top:30px;\">📋 Ingredientes</h3>\n  <h4 style=\"color:#1e293b; margin-bottom:8px; margin-top:18px; font-size:1.05rem;\">Bondiola y Sellado</h4><ul style=\"list-style-type:disc; padding-left:22px; line-height:1.8; color:#334155;\"><li style=\"margin-bottom:4px;\">1,2 kg de bondiola de cerdo fresca entera</li><li style=\"margin-bottom:4px;\">2 cucharadas de aceite de oliva o maíz</li><li style=\"margin-bottom:4px;\">1 cucharadita de sal gruesa</li><li style=\"margin-bottom:4px;\">Pimienta negra recién molida al gusto</li><li style=\"margin-bottom:4px;\">1 cucharada de pimentón dulce ahumado</li></ul><h4 style=\"color:#1e293b; margin-bottom:8px; margin-top:18px; font-size:1.05rem;\">Fondo de Cerveza Negra y Glaseado</h4><ul style=\"list-style-type:disc; padding-left:22px; line-height:1.8; color:#334155;\"><li style=\"margin-bottom:4px;\">500 ml de cerveza negra (Stout, Porter o Bock)</li><li style=\"margin-bottom:4px;\">2 cebollas grandes cortadas en plumas gruesas</li><li style=\"margin-bottom:4px;\">1 puerro picado en rodajas</li><li style=\"margin-bottom:4px;\">2 dientes de ajo aplastados</li><li style=\"margin-bottom:4px;\">2 cucharadas de mostaza tipo Dijon o clásica</li><li style=\"margin-bottom:4px;\">2 cucharadas de miel o azúcar rubia</li><li style=\"margin-bottom:4px;\">1 hoja de laurel seca</li><li style=\"margin-bottom:4px;\">1 rama de romero fresco</li><li style=\"margin-bottom:4px;\">Papas rústicas doradas al horno para guarnición</li></ul>\n\n  <!-- Paso a Paso -->\n  <h3 style=\"color:#9f1239; border-bottom:2px solid #fecdd3; padding-bottom:6px; font-size:1.35rem; margin-top:35px;\">🍳 Preparación Paso a Paso</h3>\n  <ol style=\"padding-left:24px; line-height:1.8; color:#334155;\"><li style=\"margin-bottom:12px;\">Cortá la bondiola de cerdo en bifes gruesos de unos tres centímetros de espesor y sazoná cada pieza con la sal, la pimienta y el pimentón ahumado.</li><li style=\"margin-bottom:12px;\">Calentá una cacerola de fondo grueso o fuente de hierro con dos cucharadas de aceite a fuego vivo y sellá los trozos de bondiola dos minutos por lado hasta lograr un dorado intenso y parejo. Retiralos y reservá.</li><li style=\"margin-bottom:12px;\">En el mismo fondo de cocción incorporá las cebollas y el puerro con una pizca de sal, bajá a fuego medio y cociná durante ocho minutos hasta que comiencen a caramelizar y levantar los jugos tostados de la carne.</li><li style=\"margin-bottom:12px;\">Sumá los dientes de ajo aplastados, la mostaza y la miel, mezclando con cuchara de madera durante un minuto.</li><li style=\"margin-bottom:12px;\">Acomodá los trozos de bondiola sobre el colchón de vegetales, agregá la hoja de laurel y la rama de romero, y verté los 500 ml de cerveza negra cubriendo la carne hasta la mitad.</li><li style=\"margin-bottom:12px;\">Llevá a primer hervor, tapá la cacerola herméticamente y bajá el fuego a mínimo (o llevala a horno medio a 160 °C).</li><li style=\"margin-bottom:12px;\">Dejá brasear durante una hora y media sin destapar, permitiendo que la grasa entreverada se funda y la fibra de la carne quede sumamente tierna.</li><li style=\"margin-bottom:12px;\">Destapá la olla, subí el fuego a medio y cociná durante diez minutos más para que la salsa de cerveza reduzca a consistencia de caramelo brillante y nappe la carne.</li><li style=\"margin-bottom:12px;\">Serví la bondiola con abundante salsa de cebollas a la cerveza por encima y acompañá con papas rústicas al horno.</li></ol>\n\n  \n  <div style=\"background:#fefce8; border-left:4px solid #eab308; border-radius:8px; padding:16px 20px; margin-top:30px;\">\n    <h4 style=\"color:#854d0e; margin-top:0; margin-bottom:8px; font-size:1.05rem;\">💡 Secretos y Consejos</h4>\n    <p style=\"margin:0; color:#713f12; line-height:1.6;\">El punto del braseado: La bondiola requiere tiempo y fuego bajo constante; si se cocina a fuego fuerte la fibra se endurece y expulsa sus jugos. Al respetar la hora y media de cocción lenta, el colágeno se disuelve en gelatina y la carne queda tan blanda que se desmenuza con el tenedor.</p>\n  </div>\n\n</div>",
+      "author": {
+        "id": "18039798383968100443",
+        "displayName": "walter pagliardini",
+        "url": "https://www.blogger.com/profile/18039798383968100443",
+        "image": {
+          "url": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN0zFqsQ6-25VWjhie4414EuTd3Y0zt6R26nKzLFKP4fj9SbnnaEQkJLHekJnl-CiO-lGleNw_3IATzJc5BUIXYvptLftQupIylh4N0340UeWuYf9FQjYc9bMGr9uRocw/s35/n1026813931_30161281_1365.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://blogger.googleapis.com/v3/blogs/4924047739298865497/posts/507872297694944951/comments"
+      },
+      "labels": [
+        "Bondiola a la cerveza",
+        "Bondiola braseada",
+        "Carne salsa",
+        "Carnes al horno",
+        "Cerveza negra",
+        "Cocina de bodegón",
+        "Platos de olla",
+        "Recetas con cerdo"
+      ],
+      "readerComments": "ALLOW",
+      "etag": "\"dGltZXN0YW1wOiAxNzk1MDQ3ODY3NTQ4Cm9mZnNldDogLTEwODAwMDAwCg\""
+    }
+  },
+  {
+    "id": 736,
+    "title": "Pechugas al Verdeo y Crema (Argentina)",
+    "category": "Pollo & Aves",
+    "country": "Argentina",
+    "prep_time": "15 min",
+    "cook_time": "20 min",
+    "servings": "4 personas",
+    "image": "https://lh3.googleusercontent.com/-oLMJjtb4YW4/av5BuH9WrFI/AAAAAAAQC1k/cF2mFHrhrgosdQfvhUYTLaQavcghzfOKgCNcBGAsYHQ/s1600/pechugas_al_verdeo_y_crema_argentina.jpg",
+    "tags": [
+      "Pechugas al verdeo",
+      "Recetas con pechuga",
+      "Pollo al verdeo",
+      "Salsa pollo",
+      "Pollo con crema",
+      "Cocina de bodegón",
+      "Comida casera",
+      "Pollo en salsa"
+    ],
+    "story": "El pollo al verdeo a la crema es un estandarte de la cocina de cantina y bodegón argentino surgido a mediados del siglo XX, fruto del mestizaje entre las técnicas francesas de desglasado con vino blanco y el gusto popular porteño por las salsas generosas. Diseñado para realzar la pechuga de pollo y mantener su humedad intacta, su salsa aterciopelada y fragante combina el frescor dulce del verdeo salteado en manteca con la riqueza láctea de la crema. En mi mesa es el salvador infalible de una cena entre amigos cuando se busca sabor contundente en pocos minutos.",
+    "ingredient_groups": [
+      {
+        "name": "Pechugas y Sellado",
+        "ingredients": [
+          "3 pechugas de pollo enteras deshuesadas y sin piel (unos 800 g)",
+          "2 cucharadas de harina de trigo (para enharinar suavemente)",
+          "30 g de manteca",
+          "2 cucharadas de aceite de girasol u oliva",
+          "Sal fina y pimienta negra recién molida"
+        ]
+      },
+      {
+        "name": "Salsa de Verdeo a la Crema",
+        "ingredients": [
+          "4 plantas grandes de cebolla de verdeo (parte blanca y verde tierna picadas fino)",
+          "1 diente de ajo picado chiquito",
+          "150 ml de vino blanco seco (Torrontés o Sauvignon Blanc)",
+          "250 ml de crema de leche espesa",
+          "1 cucharadita de mostaza clásica o de grano",
+          "Papas noisette o puré de papas cremoso para acompañar"
+        ]
+      }
+    ],
+    "ingredients": [
+      "3 pechugas de pollo enteras deshuesadas y sin piel (unos 800 g)",
+      "2 cucharadas de harina de trigo (para enharinar suavemente)",
+      "30 g de manteca",
+      "2 cucharadas de aceite de girasol u oliva",
+      "Sal fina y pimienta negra recién molida",
+      "4 plantas grandes de cebolla de verdeo (parte blanca y verde tierna picadas fino)",
+      "1 diente de ajo picado chiquito",
+      "150 ml de vino blanco seco (Torrontés o Sauvignon Blanc)",
+      "250 ml de crema de leche espesa",
+      "1 cucharadita de mostaza clásica o de grano",
+      "Papas noisette o puré de papas cremoso para acompañar"
+    ],
+    "step_groups": [
+      {
+        "name": "",
+        "steps": [
+          "Cortá las pechugas de pollo en medallones gruesos o bifes parejos de dos centímetros, sazoná con sal y pimienta y pasalas ligeramente por harina sacudiendo cualquier excedente.",
+          "En una sartén amplia calentá la manteca junto con las dos cucharadas de aceite a fuego medio-alto y dorá las pechugas durante tres minutos por lado hasta formar una costra dorada sin cocinarlas por completo. Retirá y reservá en un plato.",
+          "En la misma sartén agregá la parte blanca del verdeo picado junto con el diente de ajo y una pizca de sal. Rehogá a fuego medio durante tres minutos hasta que comience a ablandarse y transparentar.",
+          "Verté los 150 ml de vino blanco seco y raspá el fondo de la sartén con espátula de madera para levantar todos los jugos dorados del pollo. Dejá hervir a fuego vivo durante tres minutos hasta que el alcohol evapore por completo.",
+          "Agregá la cucharadita de mostaza, verté la crema de leche y bajá el fuego a suave, mezclando en círculos para integrar la emulsión.",
+          "Reincorporá las pechugas doradas con sus jugos a la sartén caliente y cociná a fuego bajo durante ocho minutos para que se terminen de cocinar por dentro y queden perfectamente jugosas.",
+          "Un minuto antes de retirar del fuego sumá la parte verde del verdeo picado para mantener su color verde vivo, crocancia fresca y aroma herbal.",
+          "Retirá del fuego, dejá reposar dos minutos y serví de inmediato acompañado de papas noisette o puré bien mantecoso y pan crujiente."
+        ]
+      }
+    ],
+    "steps": [
+      "Cortá las pechugas de pollo en medallones gruesos o bifes parejos de dos centímetros, sazoná con sal y pimienta y pasalas ligeramente por harina sacudiendo cualquier excedente.",
+      "En una sartén amplia calentá la manteca junto con las dos cucharadas de aceite a fuego medio-alto y dorá las pechugas durante tres minutos por lado hasta formar una costra dorada sin cocinarlas por completo. Retirá y reservá en un plato.",
+      "En la misma sartén agregá la parte blanca del verdeo picado junto con el diente de ajo y una pizca de sal. Rehogá a fuego medio durante tres minutos hasta que comience a ablandarse y transparentar.",
+      "Verté los 150 ml de vino blanco seco y raspá el fondo de la sartén con espátula de madera para levantar todos los jugos dorados del pollo. Dejá hervir a fuego vivo durante tres minutos hasta que el alcohol evapore por completo.",
+      "Agregá la cucharadita de mostaza, verté la crema de leche y bajá el fuego a suave, mezclando en círculos para integrar la emulsión.",
+      "Reincorporá las pechugas doradas con sus jugos a la sartén caliente y cociná a fuego bajo durante ocho minutos para que se terminen de cocinar por dentro y queden perfectamente jugosas.",
+      "Un minuto antes de retirar del fuego sumá la parte verde del verdeo picado para mantener su color verde vivo, crocancia fresca y aroma herbal.",
+      "Retirá del fuego, dejá reposar dos minutos y serví de inmediato acompañado de papas noisette o puré bien mantecoso y pan crujiente."
+    ],
+    "notes": "Técnica anti-sequedad: Enharinar muy sutilmente la pechuga antes de dorarla sella los jugos internos y ayuda a que la salsa de crema emulsione espesa y brillante sin necesidad de agregar almidones pesados. Nunca cocines la pechuga de más: con ocho minutos en la crema a fuego suave queda tierna y jugosa.",
+    "is_cocktail": false,
+    "blogger_url": {
+      "kind": "blogger#post",
+      "id": "2144135608809472629",
+      "status": "LIVE",
+      "blog": {
+        "id": "4924047739298865497"
+      },
+      "published": "2026-11-18T21:24:29-03:00",
+      "updated": "2026-11-18T21:24:29-03:00",
+      "url": "https://recarg.blogspot.com/2026/11/pechugas-al-verdeo-y-crema-argentina.html",
+      "selfLink": "https://blogger.googleapis.com/v3/blogs/4924047739298865497/posts/2144135608809472629",
+      "title": "Pechugas al Verdeo y Crema (Argentina)",
+      "content": "<div style=\"font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif; color:#2d3748; line-height:1.7; max-width:760px; margin:0 auto; padding:10px;\">\n\n  <!-- Fotografía Nativa para Mosaico de Blogger -->\n  <div class=\"separator\" style=\"clear: both; text-align: center; margin-bottom: 25px;\">\n    <a href=\"https://lh3.googleusercontent.com/-oLMJjtb4YW4/av5BuH9WrFI/AAAAAAAQC1k/cF2mFHrhrgosdQfvhUYTLaQavcghzfOKgCNcBGAsYHQ/s1600/pechugas_al_verdeo_y_crema_argentina.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\">\n      <img border=\"0\" src=\"https://lh3.googleusercontent.com/-oLMJjtb4YW4/av5BuH9WrFI/AAAAAAAQC1k/cF2mFHrhrgosdQfvhUYTLaQavcghzfOKgCNcBGAsYHQ/s1600/pechugas_al_verdeo_y_crema_argentina.jpg\" alt=\"Pechugas al Verdeo y Crema (Argentina)\" style=\"width:100%; max-width:740px; height:auto; border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.12); display:block; margin:0 auto;\" />\n    </a>\n  </div>\n\n  <!-- Reseña Cultural / Historia -->\n  <div style=\"background:#f8fafc; border-left:4px solid #e11d48; padding:16px 20px; border-radius:6px; margin-bottom:25px; font-style:italic; color:#475569; font-size:1.02rem;\">\n    El pollo al verdeo a la crema es un estandarte de la cocina de cantina y bodegón argentino surgido a mediados del siglo XX, fruto del mestizaje entre las técnicas francesas de desglasado con vino blanco y el gusto popular porteño por las salsas generosas. Diseñado para realzar la pechuga de pollo y mantener su humedad intacta, su salsa aterciopelada y fragante combina el frescor dulce del verdeo salteado en manteca con la riqueza láctea de la crema. En mi mesa es el salvador infalible de una cena entre amigos cuando se busca sabor contundente en pocos minutos.\n  </div>\n\n  <!-- Ficha Técnica -->\n  <div style=\"text-align:center; background:#fff1f2; padding:14px; border-radius:12px; margin-bottom:30px;\">\n    <span style=\"background:#ffffff; border:1px solid #fecdd3; padding:5px 12px; border-radius:15px; font-weight:600; font-size:0.85rem; color:#be123c; margin:3px; display:inline-block;\">⏱️ Prep: 15 min</span> <span style=\"background:#ffffff; border:1px solid #fecdd3; padding:5px 12px; border-radius:15px; font-weight:600; font-size:0.85rem; color:#be123c; margin:3px; display:inline-block;\">🔥 Cocción: 20 min</span> <span style=\"background:#ffffff; border:1px solid #fecdd3; padding:5px 12px; border-radius:15px; font-weight:600; font-size:0.85rem; color:#be123c; margin:3px; display:inline-block;\">🍽️ 4 personas</span>\n  </div>\n\n  <!-- Ingredientes -->\n  <h3 style=\"color:#9f1239; border-bottom:2px solid #fecdd3; padding-bottom:6px; font-size:1.35rem; margin-top:30px;\">📋 Ingredientes</h3>\n  <h4 style=\"color:#1e293b; margin-bottom:8px; margin-top:18px; font-size:1.05rem;\">Pechugas y Sellado</h4><ul style=\"list-style-type:disc; padding-left:22px; line-height:1.8; color:#334155;\"><li style=\"margin-bottom:4px;\">3 pechugas de pollo enteras deshuesadas y sin piel (unos 800 g)</li><li style=\"margin-bottom:4px;\">2 cucharadas de harina de trigo (para enharinar suavemente)</li><li style=\"margin-bottom:4px;\">30 g de manteca</li><li style=\"margin-bottom:4px;\">2 cucharadas de aceite de girasol u oliva</li><li style=\"margin-bottom:4px;\">Sal fina y pimienta negra recién molida</li></ul><h4 style=\"color:#1e293b; margin-bottom:8px; margin-top:18px; font-size:1.05rem;\">Salsa de Verdeo a la Crema</h4><ul style=\"list-style-type:disc; padding-left:22px; line-height:1.8; color:#334155;\"><li style=\"margin-bottom:4px;\">4 plantas grandes de cebolla de verdeo (parte blanca y verde tierna picadas fino)</li><li style=\"margin-bottom:4px;\">1 diente de ajo picado chiquito</li><li style=\"margin-bottom:4px;\">150 ml de vino blanco seco (Torrontés o Sauvignon Blanc)</li><li style=\"margin-bottom:4px;\">250 ml de crema de leche espesa</li><li style=\"margin-bottom:4px;\">1 cucharadita de mostaza clásica o de grano</li><li style=\"margin-bottom:4px;\">Papas noisette o puré de papas cremoso para acompañar</li></ul>\n\n  <!-- Paso a Paso -->\n  <h3 style=\"color:#9f1239; border-bottom:2px solid #fecdd3; padding-bottom:6px; font-size:1.35rem; margin-top:35px;\">🍳 Preparación Paso a Paso</h3>\n  <ol style=\"padding-left:24px; line-height:1.8; color:#334155;\"><li style=\"margin-bottom:12px;\">Cortá las pechugas de pollo en medallones gruesos o bifes parejos de dos centímetros, sazoná con sal y pimienta y pasalas ligeramente por harina sacudiendo cualquier excedente.</li><li style=\"margin-bottom:12px;\">En una sartén amplia calentá la manteca junto con las dos cucharadas de aceite a fuego medio-alto y dorá las pechugas durante tres minutos por lado hasta formar una costra dorada sin cocinarlas por completo. Retirá y reservá en un plato.</li><li style=\"margin-bottom:12px;\">En la misma sartén agregá la parte blanca del verdeo picado junto con el diente de ajo y una pizca de sal. Rehogá a fuego medio durante tres minutos hasta que comience a ablandarse y transparentar.</li><li style=\"margin-bottom:12px;\">Verté los 150 ml de vino blanco seco y raspá el fondo de la sartén con espátula de madera para levantar todos los jugos dorados del pollo. Dejá hervir a fuego vivo durante tres minutos hasta que el alcohol evapore por completo.</li><li style=\"margin-bottom:12px;\">Agregá la cucharadita de mostaza, verté la crema de leche y bajá el fuego a suave, mezclando en círculos para integrar la emulsión.</li><li style=\"margin-bottom:12px;\">Reincorporá las pechugas doradas con sus jugos a la sartén caliente y cociná a fuego bajo durante ocho minutos para que se terminen de cocinar por dentro y queden perfectamente jugosas.</li><li style=\"margin-bottom:12px;\">Un minuto antes de retirar del fuego sumá la parte verde del verdeo picado para mantener su color verde vivo, crocancia fresca y aroma herbal.</li><li style=\"margin-bottom:12px;\">Retirá del fuego, dejá reposar dos minutos y serví de inmediato acompañado de papas noisette o puré bien mantecoso y pan crujiente.</li></ol>\n\n  \n  <div style=\"background:#fefce8; border-left:4px solid #eab308; border-radius:8px; padding:16px 20px; margin-top:30px;\">\n    <h4 style=\"color:#854d0e; margin-top:0; margin-bottom:8px; font-size:1.05rem;\">💡 Secretos y Consejos</h4>\n    <p style=\"margin:0; color:#713f12; line-height:1.6;\">Técnica anti-sequedad: Enharinar muy sutilmente la pechuga antes de dorarla sella los jugos internos y ayuda a que la salsa de crema emulsione espesa y brillante sin necesidad de agregar almidones pesados. Nunca cocines la pechuga de más: con ocho minutos en la crema a fuego suave queda tierna y jugosa.</p>\n  </div>\n\n</div>",
+      "author": {
+        "id": "18039798383968100443",
+        "displayName": "walter pagliardini",
+        "url": "https://www.blogger.com/profile/18039798383968100443",
+        "image": {
+          "url": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN0zFqsQ6-25VWjhie4414EuTd3Y0zt6R26nKzLFKP4fj9SbnnaEQkJLHekJnl-CiO-lGleNw_3IATzJc5BUIXYvptLftQupIylh4N0340UeWuYf9FQjYc9bMGr9uRocw/s35/n1026813931_30161281_1365.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://blogger.googleapis.com/v3/blogs/4924047739298865497/posts/2144135608809472629/comments"
+      },
+      "labels": [
+        "Cocina de bodegón",
+        "Comida casera",
+        "Pechugas al verdeo",
+        "Pollo al verdeo",
+        "Pollo con crema",
+        "Pollo en salsa",
+        "Recetas con pechuga",
+        "Salsa pollo"
+      ],
+      "readerComments": "ALLOW",
+      "etag": "\"dGltZXN0YW1wOiAxNzk1MDQ3ODY5MzMzCm9mZnNldDogLTEwODAwMDAwCg\""
     }
   }
 ]
