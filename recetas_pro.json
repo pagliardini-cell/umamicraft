@@ -82873,5 +82873,435 @@
       "comida rapida polaca",
       "recetas de polonia"
     ]
+  },
+  {
+    "id": 775,
+    "title": "Sándwich de Lomo (Argentina)",
+    "image": "https://lh3.googleusercontent.com/-zPpBB821J44/av9YYr6YSZI/AAAAAAAQDAU/lxpFK_EcT2Q-s9kzyUMH6yUwlOCGFl5dQCNcBGAsYHQ/s1600/sandwich_de_lomo.jpg",
+    "category": "Sándwiches / Burgers",
+    "country": "Argentina",
+    "difficulty": "Baja",
+    "prep_time": "15 min",
+    "cook_time": "10 min",
+    "servings": "4 porciones",
+    "calories": "520 kcal",
+    "story": "Nacido en las clásicas confiterías, carritos costaneros y bodegones del Río de la Plata a mediados del siglo XX, el sándwich de lomo (o lomito) se consagró como el rey indiscutido de la sanguchería argentina. Su prestigio internacional quedó sellado al posicionarse en el podio mundial de TasteAtlas como uno de los tres mejores sándwiches del planeta, rindiendo culto a la terneza inigualable del corte vacuno más noble.",
+    "ingredients": [
+      "4 panes miñones frescos y crujientes",
+      "600 g de lomo vacuno cortado en bifes finos y parejos",
+      "1 huevo fresco entero (a temperatura ambiente)",
+      "200 ml de aceite neutro de girasol o maíz",
+      "1 cucharadita de jugo de limón recién exprimido",
+      "1 cucharadita de mostaza tipo Dijon",
+      "3 cucharadas colmadas de semillas de sésamo negro (y sésamo blanco tostado)",
+      "2 cucharadas de manteca o aceite para la chapa",
+      "Sal entrefina y pimienta negra recién molida al gusto",
+      "Hojas frescas de perejil para decorar"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Para el Lomo y los Panes",
+        "ingredients": [
+          "4 panes miñones frescos y crujientes",
+          "600 g de lomo vacuno cortado en bifes finos y parejos",
+          "2 cucharadas de manteca o aceite para la chapa",
+          "Sal entrefina y pimienta negra recién molida al gusto"
+        ]
+      },
+      {
+        "name": "Para la Mayonesa Casera de Sésamo",
+        "ingredients": [
+          "1 huevo fresco entero (a temperatura ambiente)",
+          "200 ml de aceite neutro de girasol o maíz",
+          "1 cucharadita de jugo de limón recién exprimido",
+          "1 cucharadita de mostaza tipo Dijon",
+          "3 cucharadas colmadas de semillas de sésamo negro (y blanco tostado)",
+          "1 pizca de sal fina"
+        ]
+      }
+    ],
+    "steps": [
+      "Tostá las semillas de sésamo en una sartén seca a fuego medio durante 2 minutos hasta que desprendan su perfume a frutos secos; retirá y dejá enfriar.",
+      "En el vaso de la procesadora o mixer vertical, colocá el huevo entero, el jugo de limón, la mostaza y la pizca de sal; verté el aceite en hilo fino mientras emulsionás a velocidad constante hasta lograr una mayonesa cremosa y bien sostenida.",
+      "Incorporá las semillas de sésamo tostadas a la mayonesa con movimientos envolventes para que aporten textura crujiente y un aroma tostado inconfundible; reservá refrigerada.",
+      "Abrí los panes miñones al medio sin separarlos del todo y doralos apenas sobre la plancha con una nuez de manteca para crear una barrera crocante que proteja la miga.",
+      "Calentá la plancha o chapa de hierro a fuego fuerte; pincelá los bifes de lomo con un toque de aceite y salpimentalos con sal entrefina justo antes de que toquen el hierro.",
+      "Sellá los bifes de lomo a fuego vivo durante 1 minuto por lado para que adquieran un dorado intenso por fuera mientras mantienen su corazón jugoso y rosado.",
+      "Untá con generosidad las dos caras internas de cada pan miñón con la mayonesa de sésamo, acomodá los bifes de lomo bien calientes y asegurá cada bocado con un palillo de madera para servir de inmediato."
+    ],
+    "step_groups": [
+      {
+        "name": "Mayonesa Emulsionada de Sésamo",
+        "steps": [
+          "Tostá las semillas de sésamo en una sartén seca a fuego medio durante 2 minutos hasta que desprendan su perfume a frutos secos; retirá y dejá enfriar.",
+          "En el vaso de la procesadora o mixer vertical, colocá el huevo entero, el jugo de limón, la mostaza y la pizca de sal; verté el aceite en hilo fino mientras emulsionás a velocidad constante hasta lograr una mayonesa cremosa y bien sostenida.",
+          "Incorporá las semillas de sésamo tostadas a la mayonesa con movimientos envolventes para que aporten textura crujiente y un aroma tostado inconfundible; reservá refrigerada."
+        ]
+      },
+      {
+        "name": "Cocción del Lomo y Armado",
+        "steps": [
+          "Abrí los panes miñones al medio sin separarlos del todo y doralos apenas sobre la plancha con una nuez de manteca para crear una barrera crocante que proteja la miga.",
+          "Calentá la plancha o chapa de hierro a fuego fuerte; pincelá los bifes de lomo con un toque de aceite y salpimentalos con sal entrefina justo antes de que toquen el hierro.",
+          "Sellá los bifes de lomo a fuego vivo durante 1 minuto por lado para que adquieran un dorado intenso por fuera mientras mantienen su corazón jugoso y rosado.",
+          "Untá con generosidad las dos caras internas de cada pan miñón con la mayonesa de sésamo, acomodá los bifes de lomo bien calientes y asegurá cada bocado con un palillo de madera para servir de inmediato."
+        ]
+      }
+    ],
+    "notes": "El secreto de este sándwich es la alta temperatura de la plancha: el lomo no debe hervirse ni sobrecocinarse jamás; una cocción breve de 60 segundos por cara sella los jugos interiores. El pan miñón tradicional de corteza fina y miga etérea es el vehículo ideal porque sostiene la carne sin competir con su terneza.",
+    "tags": [
+      "sándwich de lomo",
+      "lomito",
+      "pan miñón",
+      "lomo a la plancha",
+      "mayonesa de sésamo",
+      "comida callejera argentina",
+      "bodegón porteño",
+      "street food",
+      "receta fácil",
+      "carne jugosa"
+    ]
+  },
+  {
+    "id": 776,
+    "title": "Kanikama Roll (Estados Unidos)",
+    "image": "https://lh3.googleusercontent.com/-W5_lf0FHSKA/av9YaLphScI/AAAAAAAQDAc/mXbaQAYJWR4X8t95TMi6zE-V7_K3Mpd0wCNcBGAsYHQ/s1600/kanikama_roll.jpg",
+    "category": "Sándwiches / Burgers",
+    "country": "Estados Unidos",
+    "difficulty": "Baja",
+    "prep_time": "15 min",
+    "cook_time": "5 min",
+    "servings": "2 porciones",
+    "calories": "390 kcal",
+    "story": "Surgido en las costas de Nueva Inglaterra como una adaptación accesible y popular del tradicional lobster roll de Maine y Connecticut, este sándwich democratizó la cultura portuaria de los rollos de mariscos. Al reemplazar la langosta por hebras tiernas de surimi combinadas con aderezo cítrico y papas crocantes, se convirtió en un ícono de los delis costeros modernos.",
+    "ingredients": [
+      "2 panes de viena o brioche para panchos de buena calidad",
+      "250 g de kanikama (palitos de surimi) descongelados",
+      "3 cucharadas colmadas de mayonesa (preferentemente japonesa Kewpie)",
+      "1 tallo tierno de apio picado en cubitos milimétricos (brunoise)",
+      "1 cucharadita de jugo de limón fresco",
+      "1 pizca de pimentón dulce o páprika ahumada",
+      "2 cucharadas de manteca pomada",
+      "1 taza pequeña de papas fritas tipo chips clásicas ligeramente trituradas",
+      "Ciboulette fresco finamente picado",
+      "Sal fina y pimienta blanca al gusto"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Relleno Cremoso de Mar",
+        "ingredients": [
+          "250 g de kanikama (palitos de surimi) descongelados",
+          "3 cucharadas colmadas de mayonesa japonesa",
+          "1 tallo tierno de apio picado en cubitos milimétricos",
+          "1 cucharadita de jugo de limón fresco",
+          "1 pizca de pimentón dulce",
+          "Ciboulette fresco finamente picado",
+          "Sal fina y pimienta blanca al gusto"
+        ]
+      },
+      {
+        "name": "Pan Brioche y Topping Crocante",
+        "ingredients": [
+          "2 panes de viena o brioche para panchos",
+          "2 cucharadas de manteca pomada",
+          "1 taza pequeña de papas fritas tipo chips trituradas"
+        ]
+      }
+    ],
+    "steps": [
+      "Deshilachá los bastones de kanikama con los dedos para obtener hebras irregulares que recuerden la textura natural de la carne de cangrejo.",
+      "En un bol amplio, mezclá el kanikama deshebrado con el apio picado, la mayonesa, el jugo de limón, el pimentón dulce, sal y pimienta blanca hasta lograr una ensaladilla untuosa.",
+      "Untá los laterales exteriores de los panes con manteca pomada de manera uniforme.",
+      "Doralos en una sartén caliente a fuego medio durante 2 minutos por lado hasta que adquieran un color dorado parejo y una corteza bien crujiente.",
+      "Abrí los panes por la parte superior con un corte longitudinal sin llegar a la base y rellenalos copiosamente con la mezcla fresca de kanikama.",
+      "Terminá espolvoreando la superficie con las papas chips trituradas y ciboulette picado para sumar un contraste crujiente irresistible."
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación del Relleno",
+        "steps": [
+          "Deshilachá los bastones de kanikama con los dedos para obtener hebras irregulares que recuerden la textura natural de la carne de cangrejo.",
+          "En un bol amplio, mezclá el kanikama deshebrado con el apio picado, la mayonesa, el jugo de limón, el pimentón dulce, sal y pimienta blanca hasta lograr una ensaladilla untuosa."
+        ]
+      },
+      {
+        "name": "Tostado y Montaje",
+        "steps": [
+          "Untá los laterales exteriores de los panes con manteca pomada de manera uniforme.",
+          "Doralos en una sartén caliente a fuego medio durante 2 minutos por lado hasta que adquieran un color dorado parejo y una corteza bien crujiente.",
+          "Abrí los panes por la parte superior con un corte longitudinal sin llegar a la base y rellenalos copiosamente con la mezcla fresca de kanikama.",
+          "Terminá espolvoreando la superficie con las papas chips trituradas y ciboulette picado para sumar un contraste crujiente irresistible."
+        ]
+      }
+    ],
+    "notes": "Deshilachar el kanikama a mano en lugar de cortarlo a cuchillo es fundamental: las hebras absorben mucho mejor el aderezo cítrico y emulan la textura fibrosa de los mariscos de roca. Las papas chips rotas al momento de servir le dan el toque crujiente imprescindible.",
+    "tags": [
+      "kanikama roll",
+      "lobster roll casero",
+      "surimi",
+      "pan brioche",
+      "comida rápida gourmet",
+      "deli americano",
+      "street food",
+      "receta fresca",
+      "sándwich de mariscos",
+      "sin cocción compleja"
+    ]
+  },
+  {
+    "id": 777,
+    "title": "Crab Melt de Kanikama (Estados Unidos)",
+    "image": "https://lh3.googleusercontent.com/-BbCuXfmuxtQ/av9YbYyRngI/AAAAAAAQDAk/krE5gBA4lXQvqsFnMypKbKPLn1L6Y_svgCNcBGAsYHQ/s1600/crab_melt_kanikama.jpg",
+    "category": "Sándwiches / Burgers",
+    "country": "Estados Unidos",
+    "difficulty": "Baja",
+    "prep_time": "15 min",
+    "cook_time": "10 min",
+    "servings": "2 porciones",
+    "calories": "460 kcal",
+    "story": "Evolución directa de los clásicos 'melts' nacidos en los 'diners' norteamericanos de la década de 1950 (como el tuna melt y el patty melt), esta variante marina fusiona el relleno cremoso de mariscos con el gratinado caliente de queso fundente. Su éxito radica en el contraste entre el pan tostado con manteca y el interior caliente y sedoso.",
+    "ingredients": [
+      "4 rebanadas gruesas de pan de campo o pan rústico de masa madre",
+      "250 g de kanikama picado rústico",
+      "2 cucharadas colmadas de queso crema firme",
+      "2 cucharadas de mayonesa",
+      "1 cucharadita de mostaza Dijon",
+      "150 g de queso mozzarella rallado grueso (o queso gouda suave)",
+      "1 tallo de cebolla de verdeo (parte verde) cortada en aros finos",
+      "2 cucharadas de manteca para dorar el pan",
+      "1 pizca de pimentón dulce",
+      "Pimienta negra recién molida al gusto"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Relleno Fundente",
+        "ingredients": [
+          "250 g de kanikama picado rústico",
+          "2 cucharadas de queso crema firme",
+          "2 cucharadas de mayonesa",
+          "1 cucharadita de mostaza Dijon",
+          "1 tallo de cebolla de verdeo cortada en aros finos",
+          "1 pizca de pimentón dulce y pimienta negra molida"
+        ]
+      },
+      {
+        "name": "Panificación y Gratinado",
+        "ingredients": [
+          "4 rebanadas gruesas de pan de campo o masa madre",
+          "150 g de queso mozzarella rallado grueso",
+          "2 cucharadas de manteca para dorar"
+        ]
+      }
+    ],
+    "steps": [
+      "Picá el kanikama en trocitos medianos y colócalo en un bol junto con el queso crema, la mayonesa, la mostaza Dijon, la cebolla de verdeo picada, el pimentón y abundante pimienta negra; integrá bien.",
+      "Untá una de las caras de cada rebanada de pan con manteca pomada y llevalas a una sartén caliente a fuego medio hasta que estén doradas y crocantes por fuera.",
+      "Retirá dos rebanadas y disponé sobre la cara sin tostar una capa generosa del relleno de kanikama cremoso.",
+      "Cubrí el relleno con abundante queso mozzarella rallado y tapá con la otra rebanada de pan (con la cara enmantecada hacia afuera).",
+      "Colocá el sándwich en una sartén tapada a fuego bajo o llevalo a horno caliente a 200 °C durante 6 a 8 minutos hasta que el queso mozzarella se funda por completo y desborde por los laterales.",
+      "Cortá el sándwich en diagonal y serví de inmediato con unos aros frescos de verdeo por encima."
+    ],
+    "step_groups": [
+      {
+        "name": "Mezcla Cremosa de Kanikama",
+        "steps": [
+          "Picá el kanikama en trocitos medianos y colócalo en un bol junto con el queso crema, la mayonesa, la mostaza Dijon, la cebolla de verdeo picada, el pimentón y abundante pimienta negra; integrá bien."
+        ]
+      },
+      {
+        "name": "Tostado y Gratinado",
+        "steps": [
+          "Untá una de las caras de cada rebanada de pan con manteca pomada y llevalas a una sartén caliente a fuego medio hasta que estén doradas y crocantes por fuera.",
+          "Retirá dos rebanadas y disponé sobre la cara sin tostar una capa generosa del relleno de kanikama cremoso.",
+          "Cubrí el relleno con abundante queso mozzarella rallado y tapá con la otra rebanada de pan (con la cara enmantecada hacia afuera).",
+          "Colocá el sándwich en una sartén tapada a fuego bajo o llevalo a horno caliente a 200 °C durante 6 a 8 minutos hasta que el queso mozzarella se funda por completo y desborde por los laterales.",
+          "Cortá el sándwich en diagonal y serví de inmediato con unos aros frescos de verdeo por encima."
+        ]
+      }
+    ],
+    "notes": "Evitamos deliberadamente quesos fuertes como el cheddar para no tapar la delicadeza del kanikama; la mozzarella o un gouda cremoso aportan esa textura hilada y láctea perfecta. Tapar la sartén o usar horno con grill garantiza que el corazón del relleno quede bien caliente.",
+    "tags": [
+      "crab melt",
+      "kanikama melt",
+      "sándwich gratinado",
+      "mozzarella fundida",
+      "pan de campo",
+      "sándwich caliente",
+      "diner americano",
+      "receta reconfortante",
+      "sin cheddar",
+      "queso derretido"
+    ]
+  },
+  {
+    "id": 778,
+    "title": "Sándwich de Kanikama, Palta y Huevo (Argentina)",
+    "image": "https://lh3.googleusercontent.com/-qdNxr78gTyQ/av9YcwV8RzI/AAAAAAAQDAs/84ZFwlglKHkGAfSiTYzZVWEsdF_tdMuXwCNcBGAsYHQ/s1600/sandwich_kanikama_palta_huevo.jpg",
+    "category": "Sándwiches / Burgers",
+    "country": "Argentina",
+    "difficulty": "Baja",
+    "prep_time": "15 min",
+    "cook_time": "10 min",
+    "servings": "2 porciones",
+    "calories": "440 kcal",
+    "story": "Inspirado en la gran tradición de las sangucherías y rotiserías de la costa y el centro del país, este emparedado une la herencia de los clásicos sándwiches de miga de palmitos y salsa golf con el frescor veraniego de la palta y los huevos de campo. Es uno de los bocadillos fríos más apreciados para almuerzos al aire libre y días templados.",
+    "ingredients": [
+      "2 panes baguettes individuales o panes flautitas de corteza crocante",
+      "200 g de kanikama deshebrado en tiras",
+      "1 palta grande madura (tipo Hass) cortada en láminas",
+      "2 huevos duros pelados y picados rústicamente",
+      "3 cucharadas colmadas de mayonesa",
+      "1 cucharada de kétchup de buena calidad",
+      "Unas gotas de salsa inglesa (Worcestershire) y unas gotas de coñac (opcional)",
+      "1 cucharadita de jugo de limón",
+      "Pimienta negra recién molida y sal entrefina al gusto"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Relleno Fresco de Palta y Huevo",
+        "ingredients": [
+          "200 g de kanikama deshebrado en tiras",
+          "1 palta grande madura cortada en láminas",
+          "2 huevos duros picados rústicamente",
+          "1 cucharadita de jugo de limón",
+          "Sal entrefina y pimienta negra al gusto"
+        ]
+      },
+      {
+        "name": "Salsa Golf Casera y Pan",
+        "ingredients": [
+          "2 panes baguettes individuales",
+          "3 cucharadas colmadas de mayonesa",
+          "1 cucharada de kétchup",
+          "Gotas de salsa inglesa"
+        ]
+      }
+    ],
+    "steps": [
+      "Herví los huevos en agua durante 9 minutos para que la yema quede cocida pero tierna; enfrialos bajo agua helada, pelalos y picalos en cubos medianos.",
+      "Cortá la palta al medio, retirale el carozo y fileteala en láminas parejas; rociala inmediatamente con unas gotas de limón para preservar su color verde brillante y salpimentala.",
+      "En un cuenco, mezclá la mayonesa con el kétchup y las gotas de salsa inglesa hasta lograr una salsa golf casera cremosa y rosada.",
+      "Abrí las baguettes al medio a lo largo dejando una de las bisagras unida; retirá un poco de exceso de miga para dar lugar al relleno.",
+      "Disponé en la base una capa abundante del huevo duro picado, acomodá por encima las láminas de palta y coroná con las hebras de kanikama.",
+      "Bañá la superficie con hilos generosos de salsa golf casera y terminá con un golpe de pimienta negra recién molida antes de cerrar y disfrutar."
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación de Ingredientes y Salsa",
+        "steps": [
+          "Herví los huevos en agua durante 9 minutos para que la yema quede cocida pero tierna; enfrialos bajo agua helada, pelalos y picalos en cubos medianos.",
+          "Cortá la palta al medio, retirale el carozo y fileteala en láminas parejas; rociala inmediatamente con unas gotas de limón para preservar su color verde brillante y salpimentala.",
+          "En un cuenco, mezclá la mayonesa con el kétchup y las gotas de salsa inglesa hasta lograr una salsa golf casera cremosa y rosada."
+        ]
+      },
+      {
+        "name": "Armado del Sándwich",
+        "steps": [
+          "Abrí las baguettes al medio a lo largo dejando una de las bisagras unida; retirá un poco de exceso de miga para dar lugar al relleno.",
+          "Disponé en la base una capa abundante del huevo duro picado, acomodá por encima las láminas de palta y coroná con las hebras de kanikama.",
+          "Bañá la superficie con hilos generosos de salsa golf casera y terminá con un golpe de pimienta negra recién molida antes de cerrar y disfrutar."
+        ]
+      }
+    ],
+    "notes": "La frescura de la palta madura y la cremosidad del huevo se equilibran a la perfección con la suavidad del kanikama y el toque ácido y agridulce de la salsa golf. Servir en un pan bien crocante tipo flauta o baguette aporta la resistencia justa en cada mordisco.",
+    "tags": [
+      "sándwich de kanikama",
+      "palta y huevo",
+      "salsa golf",
+      "sándwich frío",
+      "baguette crujiente",
+      "comida de playa",
+      "sanguchería argentina",
+      "almuerzo liviano",
+      "receta rápida",
+      "sin horno"
+    ]
+  },
+  {
+    "id": 779,
+    "title": "Katsu de Kanikama Sando (Japón)",
+    "image": "https://lh3.googleusercontent.com/-ee_uO74eesM/av9YefYPiXI/AAAAAAAQDA0/5n8xExMYz3giwziZMw-i_OlwfSyuy3hMACNcBGAsYHQ/s1600/katsu_kanikama_sando.jpg",
+    "category": "Sándwiches / Burgers",
+    "country": "Japón",
+    "difficulty": "Media",
+    "prep_time": "20 min",
+    "cook_time": "10 min",
+    "servings": "2 porciones",
+    "calories": "480 kcal",
+    "story": "Los 'sandos' representan una de las ramas más influyentes del yōshoku (cocina occidental adaptada al paladar japonés) desde la era Taishō y florecieron en las cafeterías kissaten y tiendas konbini de Tokio y Osaka. Esta versión toma la técnica milimétrica del apanado katsu con panko para transformar el surimi en un bloque crujiente por fuera y tierno por dentro.",
+    "ingredients": [
+      "4 rebanadas de pan de molde blanco japonés Shokupan (o pan de molde tierno sin corteza)",
+      "8 a 10 bastones de kanikama (agrupados en bloques rectangulares)",
+      "1 taza de panko japonés crujiente",
+      "1 huevo batido",
+      "3 cucharadas de harina de trigo 0000",
+      "1 taza de repollo blanco cortado en juliana finísima (cabello de ángel)",
+      "3 cucharadas de salsa Tonkatsu japonesa (o mezcla de salsa inglesa, kétchup y miel)",
+      "2 cucharadas de mayonesa japonesa Kewpie",
+      "Aceite neutro abundante para freír",
+      "1 pizca de sal y pimienta blanca"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Bloques Katsu de Kanikama",
+        "ingredients": [
+          "8 a 10 bastones de kanikama agrupados en 2 bloques rectangulares",
+          "3 cucharadas de harina de trigo 0000",
+          "1 huevo batido con una pizca de sal",
+          "1 taza de panko japonés crujiente",
+          "Aceite neutro abundante para freír"
+        ]
+      },
+      {
+        "name": "Guarnición y Montaje Sando",
+        "ingredients": [
+          "4 rebanadas de pan de molde blanco tierno",
+          "1 taza de repollo blanco cortado en juliana finísima",
+          "3 cucharadas de salsa Tonkatsu",
+          "2 cucharadas de mayonesa Kewpie"
+        ]
+      }
+    ],
+    "steps": [
+      "Agrupá los bastones de kanikama en dos bloques compactos (de 4 a 5 unidades cada uno) para formar el grosor típico de una milanesa katsu.",
+      "Pasá cada bloque primero por harina sacudiendo el exceso, luego por huevo batido y finalmente presionalos firmemente sobre el panko para que queden totalmente cubiertos.",
+      "Calentá abundante aceite a 175 °C en una sartén honda; freí los bloques de katsu durante 2 a 3 minutos girándolos hasta que el panko adquiera un color dorado claro y una textura súper crocante; escurrí sobre papel absorbente.",
+      "Tostá apenas las rebanadas de pan de molde por un solo lado si te gusta tibio, o utilizalas frescas al estilo tradicional japonés.",
+      "Untá una cara interna con mayonesa Kewpie y la otra con abundante salsa Tonkatsu agridulce.",
+      "Colocá un colchón generoso de repollo en juliana finita en la base, acomodá el bloque de kanikama katsu bien caliente, añadí unas gotas más de salsa y cerrá con la otra tapa de pan.",
+      "Presioná suavemente con una tabla durante 1 minuto para asentar las capas, cortá el sando al medio con un cuchillo bien afilado para exhibir el corte rectangular y serví."
+    ],
+    "step_groups": [
+      {
+        "name": "Apanado y Fritura Katsu",
+        "steps": [
+          "Agrupá los bastones de kanikama en dos bloques compactos (de 4 a 5 unidades cada uno) para formar el grosor típico de una milanesa katsu.",
+          "Pasá cada bloque primero por harina sacudiendo el exceso, luego por huevo batido y finalmente presionalos firmemente sobre el panko para que queden totalmente cubiertos.",
+          "Calentá abundante aceite a 175 °C en una sartén honda; freí los bloques de katsu durante 2 a 3 minutos girándolos hasta que el panko adquiera un color dorado claro y una textura súper crocante; escurrí sobre papel absorbente."
+        ]
+      },
+      {
+        "name": "Armado del Sando Japonés",
+        "steps": [
+          "Tostá apenas las rebanadas de pan de molde por un solo lado si te gusta tibio, o utilizalas frescas al estilo tradicional japonés.",
+          "Untá una cara interna con mayonesa Kewpie y la otra con abundante salsa Tonkatsu agridulce.",
+          "Colocá un colchón generoso de repollo en juliana finita en la base, acomodá el bloque de kanikama katsu bien caliente, añadí unas gotas más de salsa y cerrá con la otra tapa de pan.",
+          "Presioná suavemente con una tabla durante 1 minuto para asentar las capas, cortá el sando al medio con un cuchillo bien afilado para exhibir el corte rectangular y serví."
+        ]
+      }
+    ],
+    "notes": "El panko japonés es insustituible por su estructura de copos que no absorbe grasa y produce un crujido seco y liviano. Cortar el repollo casi traslúcido y dejar asentar el sándwich un minuto antes de cortarlo garantiza un corte limpio de vitrina.",
+    "tags": [
+      "katsu sando",
+      "kanikama sando",
+      "comida japonesa",
+      "panko crujiente",
+      "salsa tonkatsu",
+      "shokupan",
+      "street food tokyo",
+      "sándwich oriental",
+      "receta japonesa fácil",
+      "repollo crocante"
+    ]
   }
 ]
