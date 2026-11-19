@@ -80599,5 +80599,86 @@
       "1/2 cucharadita de canela molida",
       "80 g de nueces tostadas picadas gruesas (opcional)"
     ]
+  },
+  {
+    "id": 752,
+    "title": "Pyttipanna (Suecia)",
+    "image": "https://lh3.googleusercontent.com/-g0MSE-KrNmY/av7eZ7C7CyI/AAAAAAAQC8I/VxoeQIoQfDUWmFqHBYrB1BdaSCZXvhpNgCNcBGAsYHQ/s1600/pyttipanna_suecia.jpg",
+    "category": "Carnes",
+    "country": "Suecia",
+    "difficulty": "Fácil",
+    "prep_time": "20 min",
+    "cook_time": "25 min",
+    "servings": "4 porciones",
+    "calories": "480 kcal",
+    "story": "Consolidado en la cultura popular escandinava del siglo XIX como el plato reconfortante por excelencia para aprovechar los restos de asados dominicales y papas cocidas, el pyttipanna —cuyo nombre significa literalmente 'pequeños trozos en la sartén'— trascendió su origen humilde para convertirse en una institución de las tabernas y hogares suecos. Su combinación de dados crocantes de carne, papa y cebolla dorados en manteca, coronados con un huevo frito de yema fluida y remolachas encurtidas, encarna el alma de la cocina nórdica cotidiana.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Papas y Carnes",
+        "ingredients": [
+          "600 g de papas firmes peladas y cortadas en cubos parejos de 1 cm",
+          "300 g de carne vacuna cocida o asada cortada en cubos de 1 cm (roast beef, lomo o sobras de asado)",
+          "150 g de jamón ahumado cocido o salchicha ahumada en cubos de 1 cm",
+          "2 cebollas amarillas medianas picadas en cubitos",
+          "3 cucharadas generosas de manteca con sal",
+          "1 cucharada de aceite neutro",
+          "Sal marina fina y pimienta negra molida a gusto"
+        ]
+      },
+      {
+        "name": "Guarnición Tradicional",
+        "ingredients": [
+          "4 huevos frescos de campo (para freír a la plancha)",
+          "150 g de remolachas encurtidas suecas en cubos (inlagda rödbetor)",
+          "2 cucharadas de perejil fresco picado"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "",
+        "steps": [
+          "Herví los cubitos de papa en agua con sal durante 5 minutos para que se ablanden levemente por dentro pero conserven aristas firmes; colalos y dejalos secar sobre un paño limpio para eliminar la humedad.",
+          "En una sartén amplia de hierro fundido, calentá 1 cucharada de manteca y 1 cucharada de aceite a fuego medio; agregá las cebollas picadas y cocinalas despacio durante 8 a 10 minutos hasta que estén suaves, dulces y translúcidas, luego retiralas a un plato.",
+          "En la misma sartén bien caliente, agregá las 2 cucharadas restantes de manteca y dorá los cubos de papa a fuego medio-alto sin moverlos constantemente para que formen una costra dorada y crocante en todos sus lados.",
+          "Incorporá los dados de carne vacuna y de jamón ahumado a la sartén junto con las cebollas caramelizadas reservadas.",
+          "Salteá todo el conjunto durante 6 a 8 minutos para que los sabores se amalgamen, la carne tome temperatura y los bordes queden crocantes; sazoná con sal marina fina y pimienta negra a gusto.",
+          "En una sartén pequeña aparte, freí los 4 huevos con una cucharadita de manteca, cuidando que la clara quede cocida y la yema redonda, tierna y 100 % líquida.",
+          "Serví el salteado bien caliente directamente en la sartén de hierro o en platos hondos, coronando cada porción con un huevo frito en el centro, una lluvia de perejil fresco picado y abundante remolacha encurtida al costado para romper con la yema y mezclar en cada bocado."
+        ]
+      }
+    ],
+    "notes": "El secreto indispensable del pyttipanna radica en que todos los ingredientes (papas, cebolla y carnes) estén cortados al mismo tamaño milimétrico de un centímetro. La acidez de la remolacha encurtida nórdica es el contrapunto perfecto que corta la untuosidad de la manteca y la carne dorada.",
+    "tags": [
+      "pyttipanna",
+      "comida sueca",
+      "cocina nordica",
+      "salteado de carne y papas",
+      "recetas con carne",
+      "plato tipico sueco",
+      "comida reconfortante",
+      "recetas en sarten"
+    ],
+    "steps": [
+      "Herví los cubitos de papa en agua con sal durante 5 minutos para que se ablanden levemente por dentro pero conserven aristas firmes; colalos y dejalos secar sobre un paño limpio para eliminar la humedad.",
+      "En una sartén amplia de hierro fundido, calentá 1 cucharada de manteca y 1 cucharada de aceite a fuego medio; agregá las cebollas picadas y cocinalas despacio durante 8 a 10 minutos hasta que estén suaves, dulces y translúcidas, luego retiralas a un plato.",
+      "En la misma sartén bien caliente, agregá las 2 cucharadas restantes de manteca y dorá los cubos de papa a fuego medio-alto sin moverlos constantemente para que formen una costra dorada y crocante en todos sus lados.",
+      "Incorporá los dados de carne vacuna y de jamón ahumado a la sartén junto con las cebollas caramelizadas reservadas.",
+      "Salteá todo el conjunto durante 6 a 8 minutos para que los sabores se amalgamen, la carne tome temperatura y los bordes queden crocantes; sazoná con sal marina fina y pimienta negra a gusto.",
+      "En una sartén pequeña aparte, freí los 4 huevos con una cucharadita de manteca, cuidando que la clara quede cocida y la yema redonda, tierna y 100 % líquida.",
+      "Serví el salteado bien caliente directamente en la sartén de hierro o en platos hondos, coronando cada porción con un huevo frito en el centro, una lluvia de perejil fresco picado y abundante remolacha encurtida al costado para romper con la yema y mezclar en cada bocado."
+    ],
+    "ingredients": [
+      "600 g de papas firmes peladas y cortadas en cubos parejos de 1 cm",
+      "300 g de carne vacuna cocida o asada cortada en cubos de 1 cm (roast beef, lomo o sobras de asado)",
+      "150 g de jamón ahumado cocido o salchicha ahumada en cubos de 1 cm",
+      "2 cebollas amarillas medianas picadas en cubitos",
+      "3 cucharadas generosas de manteca con sal",
+      "1 cucharada de aceite neutro",
+      "Sal marina fina y pimienta negra molida a gusto",
+      "4 huevos frescos de campo (para freír a la plancha)",
+      "150 g de remolachas encurtidas suecas en cubos (inlagda rödbetor)",
+      "2 cucharadas de perejil fresco picado"
+    ]
   }
 ]
