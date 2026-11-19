@@ -79480,5 +79480,691 @@
       "readerComments": "ALLOW",
       "etag": "\"dGltZXN0YW1wOiAxNzk1MDUzMzk5OTEyCm9mZnNldDogLTEwODAwMDAwCg\""
     }
+  },
+  {
+    "id": 739,
+    "title": "Huevos Rellenos (Argentina)",
+    "image": "https://lh3.googleusercontent.com/-lwsAWQsOx10/av5Z0qiUMgI/AAAAAAAQC2M/knGokPsDze41-FOaVdCxtuO83fkTsVvIQCNcBGAsYHQ/s1600/huevos_rellenos_argentina_1795053594051.jpg",
+    "blogger_url": "https://recarg.blogspot.com/2026/11/huevos-rellenos-argentina.html",
+    "category": "Entradas",
+    "country": "Argentina",
+    "difficulty": "Fácil",
+    "prep_time": "20 min",
+    "cook_time": "12 min",
+    "servings": "6 porciones",
+    "calories": "180 kcal",
+    "story": "Originarios de los antiguos banquetes romanos donde los huevos duros con salsas especiadas abrían las comidas, los huevos rellenos se transformaron en un clásico festivo universal. En las mesas argentinas de domingo y celebraciones familiares de fin de año, arraigaron de la mano de la herencia inmigrante europea como una entrada fría fresca, colorida e irremplazable.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Huevos",
+        "ingredients": [
+          "6 huevos grandes frescos",
+          "1 lata de atún al natural o en aceite escurrido (120 g)",
+          "3 cucharadas colmadas de mayonesa",
+          "1 cucharadita de mostaza clásica tipo Dijon",
+          "Sal fina y pimienta negra recién molida a gusto"
+        ]
+      },
+      {
+        "name": "Terminación y Decoración",
+        "ingredients": [
+          "8 aceitunas verdes sin carozo picadas finas",
+          "1 cucharadita de pimentón dulce ahumado",
+          "2 cucharadas de ciboulette fresco finamente picado"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "",
+        "steps": [
+          "Colocá los huevos en una cacerola pequeña, cubrilos con abundante agua fría y llevalos a hervor suave durante 10 a 12 minutos exactos.",
+          "Retirá del fuego y pasalos inmediatamente por un baño de agua con hielo para cortar la cocción en seco y facilitar un pelado perfecto.",
+          "Pelá los huevos con cuidado, secalos con papel absorbente y cortalos al medio de forma longitudinal con un cuchillo bien afilado.",
+          "Retirá las yemas con la ayuda de una cuchara pequeña y pasalas a un bol hondo.",
+          "Pisá las yemas con tenedor junto al atún bien desmenuzado, la mayonesa, la mostaza, una pizca de sal y pimienta hasta obtener una pasta lisa, sedosa y homogénea.",
+          "Cargá la mezcla en una manga pastelera con boquilla rizada o distribuila con cuchara colmada dentro del hueco de cada media clara cocida.",
+          "Decorá la superficie con una pizca de pimentón dulce, las aceitunas picadas y el ciboulette fresco picado.",
+          "Llevalos a la heladera cubiertos con film durante al menos 30 minutos antes de servir bien frescos en la mesa."
+        ]
+      }
+    ],
+    "notes": "Para que la yema quede perfectamente centrada, revolvé suavemente los huevos en círculos con una cuchara de madera durante los primeros tres minutos de hervor. Si querés una emulsión más untuosa, podés sumar una cucharada de queso crema al relleno.",
+    "tags": [
+      "huevos rellenos",
+      "entradas frias",
+      "receta facil",
+      "comida de navidad",
+      "atun y mayonesa",
+      "aperitivos argentinos",
+      "picadas",
+      "cocina argentina"
+    ],
+    "steps": [
+      "Colocá los huevos en una cacerola pequeña, cubrilos con abundante agua fría y llevalos a hervor suave durante 10 a 12 minutos exactos.",
+      "Retirá del fuego y pasalos inmediatamente por un baño de agua con hielo para cortar la cocción en seco y facilitar un pelado perfecto.",
+      "Pelá los huevos con cuidado, secalos con papel absorbente y cortalos al medio de forma longitudinal con un cuchillo bien afilado.",
+      "Retirá las yemas con la ayuda de una cuchara pequeña y pasalas a un bol hondo.",
+      "Pisá las yemas con tenedor junto al atún bien desmenuzado, la mayonesa, la mostaza, una pizca de sal y pimienta hasta obtener una pasta lisa, sedosa y homogénea.",
+      "Cargá la mezcla en una manga pastelera con boquilla rizada o distribuila con cuchara colmada dentro del hueco de cada media clara cocida.",
+      "Decorá la superficie con una pizca de pimentón dulce, las aceitunas picadas y el ciboulette fresco picado.",
+      "Llevalos a la heladera cubiertos con film durante al menos 30 minutos antes de servir bien frescos en la mesa."
+    ],
+    "ingredients": [
+      "6 huevos grandes frescos",
+      "1 lata de atún al natural o en aceite escurrido (120 g)",
+      "3 cucharadas colmadas de mayonesa",
+      "1 cucharadita de mostaza clásica tipo Dijon",
+      "Sal fina y pimienta negra recién molida a gusto",
+      "8 aceitunas verdes sin carozo picadas finas",
+      "1 cucharadita de pimentón dulce ahumado",
+      "2 cucharadas de ciboulette fresco finamente picado"
+    ]
+  },
+  {
+    "id": 740,
+    "title": "Dip de Queso Cottage y Finas Hierbas (Estados Unidos)",
+    "image": "https://lh3.googleusercontent.com/-3LtE31pKj40/av5Z3XdZuaI/AAAAAAAQC2U/_vQKH2WnfQE_-2_Ydm8U7Dt3Z90qvBzcgCNcBGAsYHQ/s1600/dip_queso_cottage_hierbas_1795053606098.jpg",
+    "blogger_url": "https://recarg.blogspot.com/2026/11/dip-de-queso-cottage-y-finas-hierbas.html",
+    "category": "Salsas & Condimentos",
+    "country": "Estados Unidos",
+    "difficulty": "Muy Fácil",
+    "prep_time": "10 min",
+    "cook_time": "0 min",
+    "servings": "6 porciones",
+    "calories": "95 kcal",
+    "story": "El queso cottage, originado en las granjas rurales anglosajonas y popularizado a gran escala en los hogares norteamericanos de mediados del siglo XX como alimento fresco y ligero, dio origen a múltiples versiones de cremas untables. Su integración con hierbas aromáticas en aperitivos informales se convirtió en un recurso infalible de la cocina casera contemporánea para acompañar tostadas y vegetales frescos.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Crema",
+        "ingredients": [
+          "400 g de queso cottage fresco entero",
+          "2 cucharadas de aceite de oliva virgen extra",
+          "1 cucharada de jugo fresco de limón",
+          "1 diente de ajo pequeño rallado finamente",
+          "Sal marina fina y pimienta negra molida a gusto"
+        ]
+      },
+      {
+        "name": "Hierbas y Acompañamiento",
+        "ingredients": [
+          "2 cucharadas de ciboulette fresco picado",
+          "1 cucharada de eneldo fresco picado",
+          "1 cucharada de perejil fresco picado",
+          "Bastones de zanahoria, apio, pepino y tostadas de masa madre para acompañar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "",
+        "steps": [
+          "Colocá el queso cottage en el vaso del procesador de alimentos o licuadora junto con el aceite de oliva, el jugo de limón, el ajo rallado, una pizca de sal y pimienta.",
+          "Procesá a potencia alta durante 2 minutos continuos, raspando los bordes con una espátula, hasta que los grumos desaparezcan por completo y logres una textura de crema satinada y ligera.",
+          "Volcá la crema batida en un cuenco hondo de servicio.",
+          "Incorporá el ciboulette, el eneldo y el perejil fresco picados a mano, integrando con suaves movimientos envolventes para preservar la frescura de las hierbas.",
+          "Rociá con un hilo fino de aceite de oliva en superficie y un toque extra de pimienta negra recién molida.",
+          "Serví acompañado de los bastones crocantes de vegetales frescos y rebanadas de pan tostado."
+        ]
+      }
+    ],
+    "notes": "El secreto de este dip reside en batirlo a fondo: el queso cottage pierde su textura granulada típica y se convierte en una crema aterciopelada similar a la ricotta whipped o queso mascarpone pero con una fracción de su tenor graso.",
+    "tags": [
+      "dip de queso cottage",
+      "queso cottage recetas",
+      "whipped cottage cheese",
+      "dip de hierbas",
+      "aperitivo saludable",
+      "snack proteico",
+      "salsa para untar",
+      "cocina facil"
+    ],
+    "steps": [
+      "Colocá el queso cottage en el vaso del procesador de alimentos o licuadora junto con el aceite de oliva, el jugo de limón, el ajo rallado, una pizca de sal y pimienta.",
+      "Procesá a potencia alta durante 2 minutos continuos, raspando los bordes con una espátula, hasta que los grumos desaparezcan por completo y logres una textura de crema satinada y ligera.",
+      "Volcá la crema batida en un cuenco hondo de servicio.",
+      "Incorporá el ciboulette, el eneldo y el perejil fresco picados a mano, integrando con suaves movimientos envolventes para preservar la frescura de las hierbas.",
+      "Rociá con un hilo fino de aceite de oliva en superficie y un toque extra de pimienta negra recién molida.",
+      "Serví acompañado de los bastones crocantes de vegetales frescos y rebanadas de pan tostado."
+    ],
+    "ingredients": [
+      "400 g de queso cottage fresco entero",
+      "2 cucharadas de aceite de oliva virgen extra",
+      "1 cucharada de jugo fresco de limón",
+      "1 diente de ajo pequeño rallado finamente",
+      "Sal marina fina y pimienta negra molida a gusto",
+      "2 cucharadas de ciboulette fresco picado",
+      "1 cucharada de eneldo fresco picado",
+      "1 cucharada de perejil fresco picado",
+      "Bastones de zanahoria, apio, pepino y tostadas de masa madre para acompañar"
+    ]
+  },
+  {
+    "id": 741,
+    "title": "Salsa Fileto (Italia)",
+    "image": "https://lh3.googleusercontent.com/-HgoErBQxK74/av5Z5in1BUI/AAAAAAAQC2c/kyfWajFzPkIZcWNMf9izcp9trNFTqgwBgCNcBGAsYHQ/s1600/salsa_fileto_italia_1795053629985.jpg",
+    "blogger_url": "https://recarg.blogspot.com/2026/11/salsa-fileto-italia.html",
+    "category": "Pastas",
+    "country": "Italia",
+    "difficulty": "Fácil",
+    "prep_time": "15 min",
+    "cook_time": "25 min",
+    "servings": "4 porciones",
+    "calories": "110 kcal",
+    "story": "Surgida en la región italiana de Campania tras la incorporación culinaria del tomate en el Nápoles del siglo XVIII, la salsa al filetto di pomodoro se diferenció por emplear tomates pelados cortados en filetes o tiras que preservan su textura y dulzor natural. Con la gran inmigración a las costas del Río de la Plata, esta cocción rápida de tomates, ajo y albahaca fresca se consagró en las cantinas porteñas bajo el nombre tradicional de fileto.",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes Principales",
+        "ingredients": [
+          "1 kg de tomates perita maduros (o 2 latas de tomates perita enteros de buena calidad)",
+          "4 dientes de ajo laminados finos",
+          "4 cucharadas de aceite de oliva virgen extra",
+          "1 puñado generoso de hojas de albahaca fresca",
+          "1 cucharadita de sal fina",
+          "Pimienta negra recién molida a gusto",
+          "1/2 cucharadita de azúcar (opcional, para equilibrar acidez)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "",
+        "steps": [
+          "Si usás tomates frescos, haceles un corte en cruz en la base, escaldalos en agua hirviendo durante 40 segundos, pasalos por agua fría, pelalos y cortalos en filetes o tiras descartando el exceso de semillas.",
+          "En una sartén amplia o cacerola baja de fondo grueso, calentá el aceite de oliva a fuego medio-bajo y dorá los ajos laminados con paciencia, cuidando que tomen un tono rubio suave sin quemarse.",
+          "Añadí los tomates fileteados a la sartén junto con sus jugos y subí el fuego a medio para que comiencen a borbotear.",
+          "Sazoná con la sal fina, pimienta negra molida y el azúcar si los tomates lo requieren.",
+          "Cociná a fuego medio durante 20 a 25 minutos sin tapar por completo, aplastando suavemente los trozos de tomate con cuchara de madera hasta que la salsa reduzca y espese pero conserve trozos tiernos.",
+          "Apagá el fuego, agregá las hojas de albahaca fresca rasgadas a mano con los dedos y mezclá suavemente para perfumar con sus aceites esenciales.",
+          "Dejá reposar 3 minutos antes de volcar directamente sobre la pasta recién colada o servir con pan de masa madre."
+        ]
+      }
+    ],
+    "notes": "A diferencia del tuco o la salsa pomodoro cocida por horas, la salsa fileto es una salsa rápida de verano: el tomate debe sentirse vivo, perfumado por el ajo apenas dorado y la albahaca recién rota fuera del fuego.",
+    "tags": [
+      "salsa fileto",
+      "filetto di pomodoro",
+      "salsa de tomate casera",
+      "salsas italianas",
+      "salsa para pastas",
+      "cocina italiana",
+      "receta tradicional",
+      "tomate y albahaca"
+    ],
+    "steps": [
+      "Si usás tomates frescos, haceles un corte en cruz en la base, escaldalos en agua hirviendo durante 40 segundos, pasalos por agua fría, pelalos y cortalos en filetes o tiras descartando el exceso de semillas.",
+      "En una sartén amplia o cacerola baja de fondo grueso, calentá el aceite de oliva a fuego medio-bajo y dorá los ajos laminados con paciencia, cuidando que tomen un tono rubio suave sin quemarse.",
+      "Añadí los tomates fileteados a la sartén junto con sus jugos y subí el fuego a medio para que comiencen a borbotear.",
+      "Sazoná con la sal fina, pimienta negra molida y el azúcar si los tomates lo requieren.",
+      "Cociná a fuego medio durante 20 a 25 minutos sin tapar por completo, aplastando suavemente los trozos de tomate con cuchara de madera hasta que la salsa reduzca y espese pero conserve trozos tiernos.",
+      "Apagá el fuego, agregá las hojas de albahaca fresca rasgadas a mano con los dedos y mezclá suavemente para perfumar con sus aceites esenciales.",
+      "Dejá reposar 3 minutos antes de volcar directamente sobre la pasta recién colada o servir con pan de masa madre."
+    ],
+    "ingredients": [
+      "1 kg de tomates perita maduros (o 2 latas de tomates perita enteros de buena calidad)",
+      "4 dientes de ajo laminados finos",
+      "4 cucharadas de aceite de oliva virgen extra",
+      "1 puñado generoso de hojas de albahaca fresca",
+      "1 cucharadita de sal fina",
+      "Pimienta negra recién molida a gusto",
+      "1/2 cucharadita de azúcar (opcional, para equilibrar acidez)"
+    ]
+  },
+  {
+    "id": 742,
+    "title": "Texas Chili con Carne (Estados Unidos)",
+    "image": "https://lh3.googleusercontent.com/-3pjYDJyMz6g/av5Z7UgH_JI/AAAAAAAQC2k/azaaVVSG6qgSMSQCIGGqDtPw7rE22A7zwCNcBGAsYHQ/s1600/texas_chili_con_carne_1795053681461.jpg",
+    "blogger_url": "https://recarg.blogspot.com/2026/11/texas-chili-con-carne-estados-unidos.html",
+    "category": "Guisos & Platos de Olla",
+    "country": "Estados Unidos",
+    "difficulty": "Media",
+    "prep_time": "25 min",
+    "cook_time": "2 h 30 min",
+    "servings": "6 porciones",
+    "calories": "480 kcal",
+    "story": "Forjado en la frontera texano-mexicana durante el siglo XIX por las cocineras ambulantes conocidas como las 'Chili Queens' en las plazas de San Antonio, el auténtico chili de Texas o 'bowl of red' se define por una regla inquebrantable: no lleva porotos ni salsa de tomate añadida. Reconocido como plato oficial del estado de Texas en 1977, encarna la devoción vaquera por el estofado lento de carne vacuna en pasta densa de chiles secos y especias.",
+    "ingredient_groups": [
+      {
+        "name": "Carne y Base Aromática",
+        "ingredients": [
+          "1,2 kg de carne vacuna magra (roast beef o paleta cortada en cubos de 1,5 cm)",
+          "2 cucharadas de grasa vacuna fundida o aceite neutro",
+          "1 cebolla amarilla grande finamente picada",
+          "4 dientes de ajo picados finos",
+          "750 ml de caldo de carne concentrado caliente"
+        ]
+      },
+      {
+        "name": "Mezcla de Especias y Chiles",
+        "ingredients": [
+          "3 cucharadas de pasta de chiles secos suaves (ancho o guajillo rehidratados y procesados)",
+          "1 cucharada colmada de comino molido",
+          "1 cucharada de pimentón ahumado",
+          "1 cucharadita de orégano seco",
+          "1/2 cucharadita de pimienta de cayena o ají molido",
+          "2 cucharadas de harina fina de maíz (masa harina) para espesar",
+          "Sal gruesa y pimienta negra a gusto"
+        ]
+      },
+      {
+        "name": "Acompañamiento Clásico",
+        "ingredients": [
+          "Cheddar rallado grueso, crema agria (sour cream), rodajas de jalapeño y pan de maíz (cornbread)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "",
+        "steps": [
+          "Secá los cubos de carne con papel absorbente y sazoná con sal y pimienta.",
+          "En una olla pesada de hierro fundido, calentá la grasa a fuego vivo y sellá la carne en tandas hasta que adquiera un color marrón dorado intenso en todos sus lados.",
+          "Retirá la carne a una fuente, bajá el fuego a medio y agregá la cebolla picada a la misma olla raspando los fondos caramelizados.",
+          "Cociná la cebolla por 6 minutos hasta que esté transparente, sumá el ajo picado, el comino molido, el pimentón ahumado, el orégano y la pasta de chiles secos, revolviendo durante 1 minuto para activar los aromas.",
+          "Regresá la carne sellada junto con sus jugos a la olla y verté el caldo de carne caliente hasta cubrir la preparación.",
+          "Llevá a ebullición suave, tapá la olla, reducí el fuego al mínimo y dejá cocinar despacio durante 2 horas, removiendo ocasionalmente, hasta que la carne esté tierna al corte con cuchara.",
+          "Disolvé la harina de maíz en un poco de caldo o agua tibia, incorporala a la olla y cociná destapado 15 minutos más hasta que la salsa espese y tome una textura aterciopelada y brillante.",
+          "Serví en cuencos calientes coronado con crema agria, queso cheddar rallado, jalapeños en rodajas y pan de maíz recién horneado."
+        ]
+      }
+    ],
+    "notes": "El auténtico Texas chili no se pica con máquina, sino que se corta a cuchillo en dados pequeños para que mantenga mordida. El espesado final con masa harina de maíz le otorga su inconfundible aroma a tortilla recién tostada.",
+    "tags": [
+      "texas chili",
+      "chili con carne",
+      "guiso de carne",
+      "cocina tex mex",
+      "cocina estadounidense",
+      "bowl of red",
+      "estofado de carne",
+      "platos de invierno"
+    ],
+    "steps": [
+      "Secá los cubos de carne con papel absorbente y sazoná con sal y pimienta.",
+      "En una olla pesada de hierro fundido, calentá la grasa a fuego vivo y sellá la carne en tandas hasta que adquiera un color marrón dorado intenso en todos sus lados.",
+      "Retirá la carne a una fuente, bajá el fuego a medio y agregá la cebolla picada a la misma olla raspando los fondos caramelizados.",
+      "Cociná la cebolla por 6 minutos hasta que esté transparente, sumá el ajo picado, el comino molido, el pimentón ahumado, el orégano y la pasta de chiles secos, revolviendo durante 1 minuto para activar los aromas.",
+      "Regresá la carne sellada junto con sus jugos a la olla y verté el caldo de carne caliente hasta cubrir la preparación.",
+      "Llevá a ebullición suave, tapá la olla, reducí el fuego al mínimo y dejá cocinar despacio durante 2 horas, removiendo ocasionalmente, hasta que la carne esté tierna al corte con cuchara.",
+      "Disolvé la harina de maíz en un poco de caldo o agua tibia, incorporala a la olla y cociná destapado 15 minutos más hasta que la salsa espese y tome una textura aterciopelada y brillante.",
+      "Serví en cuencos calientes coronado con crema agria, queso cheddar rallado, jalapeños en rodajas y pan de maíz recién horneado."
+    ],
+    "ingredients": [
+      "1,2 kg de carne vacuna magra (roast beef o paleta cortada en cubos de 1,5 cm)",
+      "2 cucharadas de grasa vacuna fundida o aceite neutro",
+      "1 cebolla amarilla grande finamente picada",
+      "4 dientes de ajo picados finos",
+      "750 ml de caldo de carne concentrado caliente",
+      "3 cucharadas de pasta de chiles secos suaves (ancho o guajillo rehidratados y procesados)",
+      "1 cucharada colmada de comino molido",
+      "1 cucharada de pimentón ahumado",
+      "1 cucharadita de orégano seco",
+      "1/2 cucharadita de pimienta de cayena o ají molido",
+      "2 cucharadas de harina fina de maíz (masa harina) para espesar",
+      "Sal gruesa y pimienta negra a gusto",
+      "Cheddar rallado grueso, crema agria (sour cream), rodajas de jalapeño y pan de maíz (cornbread)"
+    ]
+  },
+  {
+    "id": 743,
+    "title": "Pulled Pork de Carolina (Estados Unidos)",
+    "image": "https://lh3.googleusercontent.com/-IdkHXrvtURA/av5Z9Ep3yWI/AAAAAAAQC2s/46ACKOrGhAACKn_2SZJ7T38BwUfi8gv2gCNcBGAsYHQ/s1600/pulled_pork_carolina_1795053681701.jpg",
+    "blogger_url": "https://recarg.blogspot.com/2026/11/pulled-pork-de-carolina-estados-unidos.html",
+    "category": "Carnes",
+    "country": "Estados Unidos",
+    "difficulty": "Media",
+    "prep_time": "25 min",
+    "cook_time": "5 h 00 min",
+    "servings": "8 porciones",
+    "calories": "520 kcal",
+    "story": "Heredero de las técnicas coloniales del sur estadounidense en las Carolinas del siglo XVIII, donde piezas enteras de cerdo se ahumaban con leña dura de roble y nogal durante jornadas completas, el pulled pork es una institución gastronómica. Su identidad se asocia a la salsa mop de vinagre de manzana y mostaza desarrollada en la región occidental, creada para cortar con agilidad la suntuosidad de la carne desmechada.",
+    "ingredient_groups": [
+      {
+        "name": "Carne y Frote Seco (Rub)",
+        "ingredients": [
+          "2 kg de bondiola de cerdo o paleta de cerdo con grasa pareja",
+          "2 cucharadas de azúcar rubia o morena",
+          "2 cucharadas de pimentón dulce ahumado",
+          "1 cucharada de ajo en polvo",
+          "1 cucharada de cebolla en polvo",
+          "1 cucharada de sal gruesa o entrefina",
+          "1 cucharadita de mostaza en polvo",
+          "1 cucharadita de pimienta negra molida"
+        ]
+      },
+      {
+        "name": "Salsa de Vinagre de Carolina (Mop Sauce)",
+        "ingredients": [
+          "180 ml de vinagre de manzana puro",
+          "60 ml de caldo de carne o jugo de manzana",
+          "2 cucharadas de mostaza amarilla",
+          "2 cucharadas de salsa de tomate o kétchup",
+          "1 cucharada de azúcar rubia",
+          "1 cucharadita de ají molido o escamas de chile picante"
+        ]
+      },
+      {
+        "name": "Armado del Sándwich",
+        "ingredients": [
+          "8 panes brioche o panes de hamburguesa con sésamo",
+          "Ensalada de repollo coleslaw cremosa",
+          "Pepinillos en vinagre en rodajas"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "",
+        "steps": [
+          "Mezclá en un cuenco el azúcar rubia, pimentón ahumado, ajo en polvo, cebolla en polvo, sal, mostaza en polvo y pimienta negra.",
+          "Frotá la pieza de cerdo con las manos limpias por toda su superficie hasta cubrirla con una capa uniforme de especias y dejala reposar tapada 1 hora.",
+          "En una cacerola pequeña, calentá todos los ingredientes de la salsa de vinagre de Carolina durante 3 minutos hasta disolver el azúcar y reservá.",
+          "Colocá la bondiola en una fuente profunda para horno, pincelá con un tercio de la salsa y cubrí la fuente de manera hermética con doble capa de papel de aluminio.",
+          "Llevala a horno precalentado a 140 °C durante 4 horas y media a 5 horas, hasta que un tenedor penetre sin ninguna resistencia y la carne se deshaga sola.",
+          "Retirá del horno, descubrí con cuidado y desmechá la carne tibia con dos tenedores en hebras largas y jugosas sobre la misma fuente para que absorba sus propios jugos de cocción.",
+          "Rociá la carne desmechada con el resto de la salsa tibia de vinagre y mostaza, mezclando bien.",
+          "Tostá los panes brioche y armá los sándwiches cargando abundante pulled pork jugoso, una porción fresca de coleslaw crujiente y pepinillos en rodajas."
+        ]
+      }
+    ],
+    "notes": "Si tenés ahumador o parrilla con tapa podés cocinarla a fuego indirecto con astillas de nogal durante las primeras 3 horas y luego envolverla en papel aluminio para completar la terneza en horno.",
+    "tags": [
+      "pulled pork",
+      "cerdo desmechado",
+      "carolina bbq",
+      "sandwiches de cerdo",
+      "barbacoa americana",
+      "bondiola al horno",
+      "coleslaw y cerdo",
+      "recetas para reuniones"
+    ],
+    "steps": [
+      "Mezclá en un cuenco el azúcar rubia, pimentón ahumado, ajo en polvo, cebolla en polvo, sal, mostaza en polvo y pimienta negra.",
+      "Frotá la pieza de cerdo con las manos limpias por toda su superficie hasta cubrirla con una capa uniforme de especias y dejala reposar tapada 1 hora.",
+      "En una cacerola pequeña, calentá todos los ingredientes de la salsa de vinagre de Carolina durante 3 minutos hasta disolver el azúcar y reservá.",
+      "Colocá la bondiola en una fuente profunda para horno, pincelá con un tercio de la salsa y cubrí la fuente de manera hermética con doble capa de papel de aluminio.",
+      "Llevala a horno precalentado a 140 °C durante 4 horas y media a 5 horas, hasta que un tenedor penetre sin ninguna resistencia y la carne se deshaga sola.",
+      "Retirá del horno, descubrí con cuidado y desmechá la carne tibia con dos tenedores en hebras largas y jugosas sobre la misma fuente para que absorba sus propios jugos de cocción.",
+      "Rociá la carne desmechada con el resto de la salsa tibia de vinagre y mostaza, mezclando bien.",
+      "Tostá los panes brioche y armá los sándwiches cargando abundante pulled pork jugoso, una porción fresca de coleslaw crujiente y pepinillos en rodajas."
+    ],
+    "ingredients": [
+      "2 kg de bondiola de cerdo o paleta de cerdo con grasa pareja",
+      "2 cucharadas de azúcar rubia o morena",
+      "2 cucharadas de pimentón dulce ahumado",
+      "1 cucharada de ajo en polvo",
+      "1 cucharada de cebolla en polvo",
+      "1 cucharada de sal gruesa o entrefina",
+      "1 cucharadita de mostaza en polvo",
+      "1 cucharadita de pimienta negra molida",
+      "180 ml de vinagre de manzana puro",
+      "60 ml de caldo de carne o jugo de manzana",
+      "2 cucharadas de mostaza amarilla",
+      "2 cucharadas de salsa de tomate o kétchup",
+      "1 cucharada de azúcar rubia",
+      "1 cucharadita de ají molido o escamas de chile picante",
+      "8 panes brioche o panes de hamburguesa con sésamo",
+      "Ensalada de repollo coleslaw cremosa",
+      "Pepinillos en vinagre en rodajas"
+    ]
+  },
+  {
+    "id": 744,
+    "title": "Irish Stew (Irlanda)",
+    "image": "https://lh3.googleusercontent.com/-mACdpiY6uG0/av5Z_QUoc8I/AAAAAAAQC20/BqzWgLnx4ioXlpBKIoKVXfTREMTahaVhQCNcBGAsYHQ/s1600/irish_stew_overhead_1795053679272.jpg",
+    "blogger_url": "https://recarg.blogspot.com/2026/11/irish-stew-irlanda.html",
+    "category": "Sopas & Caldos",
+    "country": "Irlanda",
+    "difficulty": "Fácil",
+    "prep_time": "20 min",
+    "cook_time": "1 h 45 min",
+    "servings": "6 porciones",
+    "calories": "390 kcal",
+    "story": "Sustento elemental de las comunidades campesinas de Irlanda desde comienzos del siglo XIX, este guiso de cocción serena se apoyó históricamente en la carne de cordero o carnero y la papa, cultivo vital de la isla. Con el transcurso de las generaciones, se erigió como el plato nacional gaélico por excelencia, reconocido por su sencillez reconfortante para sobrellevar los húmedos y fríos inviernos del campo irlandés.",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes del Estofado",
+        "ingredients": [
+          "1 kg de carne de cordero deshuesada o ternera en cubos de 3 cm",
+          "2 cucharadas de manteca o aceite de oliva",
+          "3 cebollas medianas cortadas en cuartos o rodajas gruesas",
+          "3 zanahorias grandes peladas y cortadas en rodajas gruesas de 2 cm",
+          "2 tallos de puerro en rodajas parejas",
+          "800 g de papas medianas harinosas peladas y cortadas en trozos medianos",
+          "850 ml de caldo de cordero o caldo de carne casero bien aromático",
+          "3 ramitas de tomillo fresco",
+          "2 hojas de laurel",
+          "Sal marina y abundante pimienta negra recién molida",
+          "2 cucharadas de perejil fresco picado"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "",
+        "steps": [
+          "En una olla grande o cazuela de fondo grueso, calentá la manteca o el aceite a fuego medio y dorá los cubos de carne sazonados con sal y pimienta durante 6 a 8 minutos.",
+          "Retirá la carne a un plato y, en el mismo fondo de cocción, incorporá las cebollas y los puerros rehogándolos a fuego suave durante 5 minutos sin que se quemen.",
+          "Regresá la carne dorada a la olla, sumá las zanahorias y la mitad de las papas cortadas más pequeñas para que se deshagan y espesen el caldo naturalmente.",
+          "Agregá el tomillo fresco, las hojas de laurel y cubrí todo con el caldo caliente.",
+          "Llevá a ebullición suave, tapá la olla y cociná a fuego lento durante 1 hora removiendo de vez en cuando.",
+          "Destapá, incorporá el resto de las papas cortadas en trozos más grandes para que mantengan su forma entera y cociná otros 30 a 40 minutos a fuego bajo.",
+          "Ajustá el punto de sal y pimienta negra a gusto.",
+          "Espolvoreá con el perejil fresco picado y serví caliente en platos hondos acompañado de pan de soda irlandés con manteca."
+        ]
+      }
+    ],
+    "notes": "El truco tradicional consiste en dividir las papas en dos tandas: las primeras se cuecen durante todo el proceso deshaciéndose y creando una salsa cremosa natural sin necesidad de añadir harinas, mientras que las segundas quedan perfectamente tiernas y enteras.",
+    "tags": [
+      "irish stew",
+      "estofado irlandes",
+      "guiso de cordero",
+      "cocina irlandesa",
+      "plato nacional de irlanda",
+      "receta reconfortante",
+      "comida de invierno",
+      "guisado tradicional"
+    ],
+    "steps": [
+      "En una olla grande o cazuela de fondo grueso, calentá la manteca o el aceite a fuego medio y dorá los cubos de carne sazonados con sal y pimienta durante 6 a 8 minutos.",
+      "Retirá la carne a un plato y, en el mismo fondo de cocción, incorporá las cebollas y los puerros rehogándolos a fuego suave durante 5 minutos sin que se quemen.",
+      "Regresá la carne dorada a la olla, sumá las zanahorias y la mitad de las papas cortadas más pequeñas para que se deshagan y espesen el caldo naturalmente.",
+      "Agregá el tomillo fresco, las hojas de laurel y cubrí todo con el caldo caliente.",
+      "Llevá a ebullición suave, tapá la olla y cociná a fuego lento durante 1 hora removiendo de vez en cuando.",
+      "Destapá, incorporá el resto de las papas cortadas en trozos más grandes para que mantengan su forma entera y cociná otros 30 a 40 minutos a fuego bajo.",
+      "Ajustá el punto de sal y pimienta negra a gusto.",
+      "Espolvoreá con el perejil fresco picado y serví caliente en platos hondos acompañado de pan de soda irlandés con manteca."
+    ],
+    "ingredients": [
+      "1 kg de carne de cordero deshuesada o ternera en cubos de 3 cm",
+      "2 cucharadas de manteca o aceite de oliva",
+      "3 cebollas medianas cortadas en cuartos o rodajas gruesas",
+      "3 zanahorias grandes peladas y cortadas en rodajas gruesas de 2 cm",
+      "2 tallos de puerro en rodajas parejas",
+      "800 g de papas medianas harinosas peladas y cortadas en trozos medianos",
+      "850 ml de caldo de cordero o caldo de carne casero bien aromático",
+      "3 ramitas de tomillo fresco",
+      "2 hojas de laurel",
+      "Sal marina y abundante pimienta negra recién molida",
+      "2 cucharadas de perejil fresco picado"
+    ]
+  },
+  {
+    "id": 745,
+    "title": "Pork Tenderloin Sandwich (Estados Unidos)",
+    "image": "https://lh3.googleusercontent.com/-RM1sntZ7E3Y/av5aCE0VwtI/AAAAAAAQC28/6UaOKLMxcAIvj-9V-ncmdVGFNZwqsAn0ACNcBGAsYHQ/s1600/pork_tenderloin_sandwich_iowa_1795053679334.jpg",
+    "category": "Hamburguesas",
+    "country": "Estados Unidos",
+    "difficulty": "Fácil",
+    "prep_time": "20 min",
+    "cook_time": "10 min",
+    "servings": "4 porciones",
+    "calories": "560 kcal",
+    "story": "Creado hacia 1908 en Huntington, Indiana, por Nick Freienstein en su histórico local Nick's Kitchen, este sándwich adaptó la tradición germánica del schnitzel traída por los colonos del Medio Oeste estadounidense. Su rasgo célebre y desmedido es el impacto visual: un bife tierno de cerdo golpeado hasta duplicar el tamaño del plato, que desborda con holgura el pan de hamburguesa en el que se sirve.",
+    "ingredient_groups": [
+      {
+        "name": "Bifes de Cerdo y Empanado Crocante",
+        "ingredients": [
+          "4 bifes gruesos de lomo de cerdo o solomillo limpios (aprox. 150 g cada uno)",
+          "2 huevos batidos con 2 cucharadas de leche",
+          "1 taza de harina de trigo común",
+          "2 tazas de galletitas de agua saladas (saltines) trituradas finas o pan rallado grueso tipo panko",
+          "1 cucharadita de ajo en polvo",
+          "1 cucharadita de cebolla en polvo",
+          "1 cucharadita de pimentón dulce",
+          "Sal y pimienta negra a gusto",
+          "Aceite para freír abundante"
+        ]
+      },
+      {
+        "name": "Armado y Guarnición",
+        "ingredients": [
+          "4 panes de hamburguesa clásicos con semillas de sésamo tostados",
+          "Pepinillos en vinagre agridulce en rodajas (dill pickles)",
+          "1 cebolla blanca cortada en aros finos",
+          "Mostaza amarilla clásica y mayonesa al gusto",
+          "Papas fritas caseras para acompañar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "",
+        "steps": [
+          "Colocá cada bife de lomo de cerdo entre dos hojas de papel film o papel manteca sobre una tabla firme.",
+          "Con un mazo de carne o una sartén pesada, golpeá la carne desde el centro hacia los bordes con firmeza y paciencia hasta aplanarla a un grosor fino de medio centímetro, logrando una pieza ancha y redonda que duplique el tamaño de la palma de la mano.",
+          "Sazoná la carne por ambos lados con sal, pimienta negra, ajo en polvo y pimentón.",
+          "Prepará tres platos amplios para la estación de rebozado: el primero con la harina sazonada, el segundo con los huevos batidos con leche, y el tercero con las galletitas saladas trituradas bien finas.",
+          "Pasá cada bife fino primero por la harina sacudiendo el exceso, luego por el huevo cubriendo bien toda la superficie, y finalmente por las galletitas presionando con la palma para adherir una corteza crocante pareja.",
+          "Calentá abundante aceite en una sartén amplia a 175 °C y freí los lomos empanados durante 3 a 4 minutos por lado hasta que estén profundamente dorados y crujientes.",
+          "Retiralos sobre rejilla metálica o papel absorbente para que escurran.",
+          "Untá las bases de los panes tostados con mostaza amarilla y mayonesa, montá la milanesa de lomo de cerdo gigante desbordando por los bordes, agregá los pepinillos en rodajas, aros de cebolla blanca, tapá con el pan superior y serví de inmediato con papas fritas."
+        ]
+      }
+    ],
+    "notes": "El auténtico apanado de Indiana y Iowa no lleva pan rallado común, sino galletitas saladas trituradas (crackers o saltines): esto aporta una salinidad distintiva y un crujido mucho más quebradizo y liviano al freír.",
+    "tags": [
+      "pork tenderloin sandwich",
+      "sandwiches americanos",
+      "milanesa de cerdo",
+      "street food usa",
+      "receta de indiana",
+      "schnitzel sandwich",
+      "comida reconfortante",
+      "receta de lomo"
+    ],
+    "steps": [
+      "Colocá cada bife de lomo de cerdo entre dos hojas de papel film o papel manteca sobre una tabla firme.",
+      "Con un mazo de carne o una sartén pesada, golpeá la carne desde el centro hacia los bordes con firmeza y paciencia hasta aplanarla a un grosor fino de medio centímetro, logrando una pieza ancha y redonda que duplique el tamaño de la palma de la mano.",
+      "Sazoná la carne por ambos lados con sal, pimienta negra, ajo en polvo y pimentón.",
+      "Prepará tres platos amplios para la estación de rebozado: el primero con la harina sazonada, el segundo con los huevos batidos con leche, y el tercero con las galletitas saladas trituradas bien finas.",
+      "Pasá cada bife fino primero por la harina sacudiendo el exceso, luego por el huevo cubriendo bien toda la superficie, y finalmente por las galletitas presionando con la palma para adherir una corteza crocante pareja.",
+      "Calentá abundante aceite en una sartén amplia a 175 °C y freí los lomos empanados durante 3 a 4 minutos por lado hasta que estén profundamente dorados y crujientes.",
+      "Retiralos sobre rejilla metálica o papel absorbente para que escurran.",
+      "Untá las bases de los panes tostados con mostaza amarilla y mayonesa, montá la milanesa de lomo de cerdo gigante desbordando por los bordes, agregá los pepinillos en rodajas, aros de cebolla blanca, tapá con el pan superior y serví de inmediato con papas fritas."
+    ],
+    "ingredients": [
+      "4 bifes gruesos de lomo de cerdo o solomillo limpios (aprox. 150 g cada uno)",
+      "2 huevos batidos con 2 cucharadas de leche",
+      "1 taza de harina de trigo común",
+      "2 tazas de galletitas de agua saladas (saltines) trituradas finas o pan rallado grueso tipo panko",
+      "1 cucharadita de ajo en polvo",
+      "1 cucharadita de cebolla en polvo",
+      "1 cucharadita de pimentón dulce",
+      "Sal y pimienta negra a gusto",
+      "Aceite para freír abundante",
+      "4 panes de hamburguesa clásicos con semillas de sésamo tostados",
+      "Pepinillos en vinagre agridulce en rodajas (dill pickles)",
+      "1 cebolla blanca cortada en aros finos",
+      "Mostaza amarilla clásica y mayonesa al gusto",
+      "Papas fritas caseras para acompañar"
+    ]
+  },
+  {
+    "id": 746,
+    "title": "Tortilla Rellena de Jamón y Queso (Argentina)",
+    "image": "https://lh3.googleusercontent.com/-mBicYHlbzEM/av5aO_MIUOI/AAAAAAAQC3Q/ZC6n_xH4iM0tGcZiJ-Vfq0dICDGLA2MswCNcBGAsYHQ/s1600/tortilla_rellena_jamon_queso_argentina.jpg",
+    "category": "Desayunos & Huevos",
+    "country": "Argentina",
+    "difficulty": "Fácil",
+    "prep_time": "25 min",
+    "cook_time": "30 min",
+    "servings": "6 porciones",
+    "calories": "420 kcal",
+    "story": "Popularizada masivamente en el Pabellón 3 del Mercado Central de Buenos Aires por Patricia Rodríguez Real y Romina Moore ('Las Chicas de la 3'), esta monumental tortilla rellena se convirtió en un ícono contemporáneo de la cocina callejera porteña y alcanzó trascendencia internacional tras su aparición en la serie documental de Netflix Street Food: Latinoamérica. Heredera de la clásica tortilla española traída por los inmigrantes a los bodegones del Río de la Plata, su sello distintivo radica en su imponente altura y su corazón rebosante de queso fundido que se estira al cortar cada porción.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Papas y Huevos",
+        "ingredients": [
+          "2 kg de papas negras (ideales para freír por su bajo tenor de agua)",
+          "8 huevos grandes a temperatura ambiente",
+          "1 cucharada colmada de sal fina",
+          "Pimienta negra recién molida a gusto",
+          "Aceite de girasol abundante para confitar las papas"
+        ]
+      },
+      {
+        "name": "Relleno Monumental",
+        "ingredients": [
+          "500 g de queso muzzarella fresco (en cubos chicos o rallada gruesa)",
+          "200 g de jamón cocido en fetas finas (aprox. 8 a 10 fetas)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "",
+        "steps": [
+          "Pelá las papas y cortalas primero en rodajas de un centímetro, luego en bastones y finalmente en cubitos pequeños y simétricos de tamaño parejo para asegurar una cocción uniforme.",
+          "En una olla honda o sartén amplia con abundante aceite caliente a fuego medio (unos 150 °C), confitá los cubitos de papa en tandas: el objetivo es que queden perfectamente tiernos y cocidos por dentro al pincharlos, pero sin llegar a dorarse ni formar corteza crocante.",
+          "Retirá las papas con espumadera y escurrilas muy bien sobre papel absorbente para eliminar cualquier exceso de aceite.",
+          "En un bol amplio y hondo, batí los 8 huevos junto con la sal fina y la pimienta negra hasta que rompan ligue y se integren bien.",
+          "Volcá las papas tiernas aún tibias dentro del bol con los huevos batidos y mezclá con suavidad usando una espátula para que la papa absorba el huevo sin deshacerse en puré.",
+          "Aceitá generosamente un molde redondo alto de 24 a 26 centímetros (apto para horno o sartén profunda de mango desmontable) y llevalo a fuego medio-fuerte durante 2 minutos para que tome buena temperatura y evite que la preparación se pegue.",
+          "Verté la mitad exacta de la mezcla de papas y huevo en el fondo del molde, acomodando y nivelando con la espátula.",
+          "Distribuí una capa generosa de fetas de jamón cocido y cubrí por encima con los 500 gramos de muzzarella en cubitos, procurando dejar un margen libre de un centímetro respecto a los bordes exteriores para que el queso no toque las paredes del molde al fundirse.",
+          "Volcá el resto de la mezcla de papas y huevos sobre el relleno, sellando los bordes y emparejando la superficie con la espátula.",
+          "Cociná a fuego medio-bajo durante 10 a 12 minutos (o llevalo a horno precalentado a 180 °C) hasta que los bordes y la base estén firmes y dorados.",
+          "Con la ayuda de una tapa plana o un plato amplio aceitado, desmoldá y dale la vuelta con un movimiento firme y seguro.",
+          "Deslizá la tortilla nuevamente en el molde y cociná del otro lado durante otros 8 a 10 minutos hasta que ambos lados estén bien dorados y el corazón de queso esté completamente derretido.",
+          "Desmoldá en una fuente amplia y servila bien caliente al momento, levantando la porción con espátula para disfrutar del interminable hilo de muzzarella fundida."
+        ]
+      }
+    ],
+    "notes": "El secreto cardinal de Las Chicas de la 3 es el corte milimétrico en cubitos pequeños de la papa y su cocción pochada en aceite: si las papas se doran antes de tiempo pierden capacidad de absorber el huevo y compactar la estructura. Asimismo, dejar un borde perimetral de papa sin queso evita que la muzzarella se escape hacia los bordes y se queme contra el metal.",
+    "tags": [
+      "tortilla rellena",
+      "tortilla de papas",
+      "mercado central",
+      "las chicas de la 3",
+      "muzzarella y jamon",
+      "street food argentina",
+      "comida bodegon",
+      "recetas argentinas"
+    ],
+    "steps": [
+      "Pelá las papas y cortalas primero en rodajas de un centímetro, luego en bastones y finalmente en cubitos pequeños y simétricos de tamaño parejo para asegurar una cocción uniforme.",
+      "En una olla honda o sartén amplia con abundante aceite caliente a fuego medio (unos 150 °C), confitá los cubitos de papa en tandas: el objetivo es que queden perfectamente tiernos y cocidos por dentro al pincharlos, pero sin llegar a dorarse ni formar corteza crocante.",
+      "Retirá las papas con espumadera y escurrilas muy bien sobre papel absorbente para eliminar cualquier exceso de aceite.",
+      "En un bol amplio y hondo, batí los 8 huevos junto con la sal fina y la pimienta negra hasta que rompan ligue y se integren bien.",
+      "Volcá las papas tiernas aún tibias dentro del bol con los huevos batidos y mezclá con suavidad usando una espátula para que la papa absorba el huevo sin deshacerse en puré.",
+      "Aceitá generosamente un molde redondo alto de 24 a 26 centímetros (apto para horno o sartén profunda de mango desmontable) y llevalo a fuego medio-fuerte durante 2 minutos para que tome buena temperatura y evite que la preparación se pegue.",
+      "Verté la mitad exacta de la mezcla de papas y huevo en el fondo del molde, acomodando y nivelando con la espátula.",
+      "Distribuí una capa generosa de fetas de jamón cocido y cubrí por encima con los 500 gramos de muzzarella en cubitos, procurando dejar un margen libre de un centímetro respecto a los bordes exteriores para que el queso no toque las paredes del molde al fundirse.",
+      "Volcá el resto de la mezcla de papas y huevos sobre el relleno, sellando los bordes y emparejando la superficie con la espátula.",
+      "Cociná a fuego medio-bajo durante 10 a 12 minutos (o llevalo a horno precalentado a 180 °C) hasta que los bordes y la base estén firmes y dorados.",
+      "Con la ayuda de una tapa plana o un plato amplio aceitado, desmoldá y dale la vuelta con un movimiento firme y seguro.",
+      "Deslizá la tortilla nuevamente en el molde y cociná del otro lado durante otros 8 a 10 minutos hasta que ambos lados estén bien dorados y el corazón de queso esté completamente derretido.",
+      "Desmoldá en una fuente amplia y servila bien caliente al momento, levantando la porción con espátula para disfrutar del interminable hilo de muzzarella fundida."
+    ],
+    "ingredients": [
+      "2 kg de papas negras (ideales para freír por su bajo tenor de agua)",
+      "8 huevos grandes a temperatura ambiente",
+      "1 cucharada colmada de sal fina",
+      "Pimienta negra recién molida a gusto",
+      "Aceite de girasol abundante para confitar las papas",
+      "500 g de queso muzzarella fresco (en cubos chicos o rallada gruesa)",
+      "200 g de jamón cocido en fetas finas (aprox. 8 a 10 fetas)"
+    ]
   }
 ]
