@@ -80680,5 +80680,546 @@
       "150 g de remolachas encurtidas suecas en cubos (inlagda rödbetor)",
       "2 cucharadas de perejil fresco picado"
     ]
+  },
+  {
+    "id": 753,
+    "title": "Pollo Frito Coreano Yangnyeom (Corea del Sur)",
+    "image": "https://lh3.googleusercontent.com/-cfi3ieX9CbA/av7x6bbo54I/AAAAAAAQC8U/N3L_bAqloRMPhVNq9ZbkJwIe473lUjpZgCNcBGAsYHQ/s1600/pollo_frito_coreano_yangnyeom.jpg",
+    "category": "Pollo & Aves",
+    "country": "Corea del Sur",
+    "difficulty": "Media",
+    "prep_time": "25 min",
+    "cook_time": "20 min",
+    "servings": "4 porciones",
+    "calories": "540 kcal",
+    "story": "Popularizado a finales del siglo XX en Corea del Sur, el pollo yangnyeom fue creado en la década de 1980 en Daegu para mantener la piel crujiente y jugosa tras el auge de las cadenas occidentales en el país. Se convirtió en el corazón del fenómeno cultural chimaek, la clásica combinación de pollo frito y cerveza rubia infaltable en las noches de fútbol y encuentros de amigos. En mi cocina es la referencia obligada cuando busco la textura más crocante del recetario oriental.",
+    "ingredients": [
+      "1 kg de alitas o muslitos de pollo",
+      "2 dientes de ajo rallados",
+      "1 cucharada de jengibre fresco rallado",
+      "2 cucharadas de vino de arroz o mirin",
+      "1 cucharadita de sal",
+      "1/2 cucharadita de pimienta negra molida",
+      "1 taza de fécula de papa o almidón de maíz",
+      "2 cucharadas de harina de trigo",
+      "Aceite neutro abundante para freír",
+      "2 cucharadas de gochujang (pasta de chile coreano)",
+      "2 cucharadas de kétchup",
+      "3 cucharadas de jarabe de maíz o miel",
+      "2 cucharadas de salsa de soja",
+      "1 cucharada de azúcar rubia",
+      "3 dientes de ajo picados fino",
+      "1 cucharada de aceite de sésamo tostado",
+      "1 cucharada de semillas de sésamo tostadas",
+      "2 cucharadas de verdeo picado fino"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Pollo y Marinado",
+        "ingredients": [
+          "1 kg de alitas o muslitos de pollo",
+          "2 dientes de ajo rallados",
+          "1 cucharada de jengibre fresco rallado",
+          "2 cucharadas de vino de arroz o mirin",
+          "1 cucharadita de sal",
+          "1/2 cucharadita de pimienta negra molida"
+        ]
+      },
+      {
+        "name": "Rebozado Crujiente",
+        "ingredients": [
+          "1 taza de fécula de papa o almidón de maíz",
+          "2 cucharadas de harina de trigo",
+          "Aceite neutro abundante para freír"
+        ]
+      },
+      {
+        "name": "Glaseado Yangnyeom",
+        "ingredients": [
+          "2 cucharadas de gochujang (pasta de chile coreano)",
+          "2 cucharadas de kétchup",
+          "3 cucharadas de jarabe de maíz o miel",
+          "2 cucharadas de salsa de soja",
+          "1 cucharada de azúcar rubia",
+          "3 dientes de ajo picados fino",
+          "1 cucharada de aceite de sésamo tostado"
+        ]
+      },
+      {
+        "name": "Terminación",
+        "ingredients": [
+          "1 cucharada de semillas de sésamo tostadas",
+          "2 cucharadas de verdeo picado fino"
+        ]
+      }
+    ],
+    "steps": [
+      "En un bol amplio, colocá las piezas de pollo limpias y secas. Sumá el ajo rallado, jengibre, vino de arroz, sal y pimienta. Masajeá bien la carne y dejá reposar en la heladera durante 30 minutos.",
+      "En una sartén o wok pequeño a fuego medio, combiná el gochujang, kétchup, miel o jarabe de maíz, salsa de soja, azúcar rubia y ajo picado. Cociná durante 3 a 4 minutos hasta que rompa un hervor suave y espese ligeramente. Retirá del fuego, integrá el aceite de sésamo y reservá al calor.",
+      "Mezclá la fécula de papa con la harina de trigo. Pasá cada pieza de pollo marinada por la mezcla asegurando una capa uniforme y sacudí el exceso.",
+      "Calentá abundante aceite en una olla profunda o freidora a 165°C. Sumergí el pollo en tandas y freí durante 8 a 10 minutos hasta que tome un tono dorado pálido y la carne esté cocida. Retirá y dejá escurrir sobre rejilla metálica durante 5 minutos.",
+      "Subí la temperatura del aceite a 185°C. Sumergí nuevamente las piezas de pollo durante 2 a 3 minutos hasta obtener una costra dorada intensa, crocante e impenetrable. Escurrí de inmediato.",
+      "Volcá las piezas de pollo recién fritas y bien calientes en el wok con la salsa yangnyeom tibia. Salteá rápidamente durante 30 segundos con movimientos envolventes hasta que cada pieza quede cubierta por una laca roja brillante.",
+      "Serví inmediatamente en una fuente amplia, espolvoreá con las semillas de sésamo tostadas y el verdeo fresco picado."
+    ],
+    "step_groups": [
+      {
+        "name": "Marinado y Preparación de la Salsa",
+        "steps": [
+          "En un bol amplio, colocá las piezas de pollo limpias y secas. Sumá el ajo rallado, jengibre, vino de arroz, sal y pimienta. Masajeá bien la carne y dejá reposar en la heladera durante 30 minutos.",
+          "En una sartén o wok pequeño a fuego medio, combiná el gochujang, kétchup, miel o jarabe de maíz, salsa de soja, azúcar rubia y ajo picado. Cociná durante 3 a 4 minutos hasta que rompa un hervor suave y espese ligeramente. Retirá del fuego, integrá el aceite de sésamo y reservá al calor."
+        ]
+      },
+      {
+        "name": "Doble Fritura Coreana",
+        "steps": [
+          "Mezclá la fécula de papa con la harina de trigo. Pasá cada pieza de pollo marinada por la mezcla asegurando una capa uniforme y sacudí el exceso.",
+          "Calentá abundante aceite en una olla profunda o freidora a 165°C. Sumergí el pollo en tandas y freí durante 8 a 10 minutos hasta que tome un tono dorado pálido y la carne esté cocida. Retirá y dejá escurrir sobre rejilla metálica durante 5 minutos.",
+          "Subí la temperatura del aceite a 185°C. Sumergí nuevamente las piezas de pollo durante 2 a 3 minutos hasta obtener una costra dorada intensa, crocante e impenetrable. Escurrí de inmediato."
+        ]
+      },
+      {
+        "name": "Glaseado y Presentación",
+        "steps": [
+          "Volcá las piezas de pollo recién fritas y bien calientes en el wok con la salsa yangnyeom tibia. Salteá rápidamente durante 30 segundos con movimientos envolventes hasta que cada pieza quede cubierta por una laca roja brillante.",
+          "Serví inmediatamente en una fuente amplia, espolvoreá con las semillas de sésamo tostadas y el verdeo fresco picado."
+        ]
+      }
+    ],
+    "notes": "El gran secreto del pollo frito coreano reside en la doble fritura: la primera cocción cocina la carne y evapora la humedad interna, mientras que la segunda deshidrata la fécula a alta temperatura, creando una corteza de cristal que no se ablanda ni siquiera tras bañarse en la salsa caliente.",
+    "tags": [
+      "pollo frito coreano",
+      "yangnyeom chicken",
+      "pollo frito",
+      "alitas picantes",
+      "chimaek",
+      "street food coreano",
+      "pollo crujiente",
+      "comida coreana",
+      "receta de pollo frito"
+    ]
+  },
+  {
+    "id": 754,
+    "title": "Pollo Frito a la Galanga Ayam Goreng (Indonesia)",
+    "image": "https://lh3.googleusercontent.com/-zuAPA_owWhs/av7x8LEezRI/AAAAAAAQC8c/23eAUd_2uScIexxe5F1YrHdqyC7od2kCgCNcBGAsYHQ/s1600/pollo_frito_ayam_goreng_lengkuas.jpg",
+    "category": "Pollo & Aves",
+    "country": "Indonesia",
+    "difficulty": "Media",
+    "prep_time": "20 min",
+    "cook_time": "35 min",
+    "servings": "4 porciones",
+    "calories": "510 kcal",
+    "story": "Originario de la isla de Java y extendido por todo el archipiélago indonesio, el ayam goreng lengkuas es una de las preparaciones ceremoniales y populares más tradicionales del Sudeste Asiático. Su rasgo identitario radica en el uso generoso del rizoma fresco de galanga, cuyos filamentos rallados se cocinan junto a la carne y luego se fríen hasta formar una lluvia dorada e hipercrocante llamada serundeng. Es un pilar de las mesas familiares indonesias, acompañado habitualmente con arroz blanco al vapor y sambal.",
+    "ingredients": [
+      "1 kg de presas de pollo (patas y muslos con piel)",
+      "150 g de galanga fresca rallada gruesa (lengkuas)",
+      "2 tallos de hierba limón (lemongrass), machacados",
+      "4 hojas de lima kaffir",
+      "2 hojas de laurel indonesio (daun salam)",
+      "400 ml de agua o agua de coco fresca",
+      "1 cucharadita de sal gruesa",
+      "6 chalotas o 1 cebolla morada mediana",
+      "4 dientes de ajo",
+      "3 cm de cúrcuma fresca (o 1 cucharada en polvo)",
+      "2 cm de jengibre fresco",
+      "1 cucharadita de semillas de cilantro molidas",
+      "4 nueces de la India (candlenuts) o nueces comunes",
+      "Aceite de coco o aceite neutro abundante para freír"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Pollo y Cocción Previa (Ungkep)",
+        "ingredients": [
+          "1 kg de presas de pollo (patas y muslos con piel)",
+          "150 g de galanga fresca rallada gruesa (lengkuas)",
+          "2 tallos de hierba limón (lemongrass), machacados",
+          "4 hojas de lima kaffir",
+          "2 hojas de laurel indonesio (daun salam)",
+          "400 ml de agua o agua de coco fresca",
+          "1 cucharadita de sal gruesa"
+        ]
+      },
+      {
+        "name": "Pasta de Especias (Bumbu)",
+        "ingredients": [
+          "6 chalotas o 1 cebolla morada mediana",
+          "4 dientes de ajo",
+          "3 cm de cúrcuma fresca (o 1 cucharada en polvo)",
+          "2 cm de jengibre fresco",
+          "1 cucharadita de semillas de cilantro molidas",
+          "4 nueces de la India (candlenuts) o nueces comunes"
+        ]
+      },
+      {
+        "name": "Fritura",
+        "ingredients": [
+          "Aceite de coco o aceite neutro abundante para freír"
+        ]
+      }
+    ],
+    "steps": [
+      "Procesá las chalotas, ajo, cúrcuma, jengibre, semillas de cilantro y nueces con dos cucharadas de agua hasta obtener una pasta uniforme.",
+      "En una cacerola amplia, disponé las piezas de pollo, la pasta de especias, la galanga rallada en tiras finas, los tallos machacados de hierba limón, las hojas de lima kaffir, el laurel y la sal.",
+      "Verté el agua o agua de coco. Llevá a hervor suave a fuego medio-bajo y cociná tapado durante 25 a 30 minutos hasta que el pollo esté tierno y el líquido se haya reducido casi por completo. Retirá las presas de pollo y colá las hebras de galanga y especias, separando bien ambos elementos.",
+      "Calentá abundante aceite en un wok hondo a 175°C. Freí las presas de pollo precocidas durante 3 a 4 minutos por lado hasta que la piel quede crujiente y de un dorado ámbar intenso. Retirá y escurrí sobre papel absorbente.",
+      "En el mismo aceite caliente, volcá con cuidado las hebras de galanga escurridas. Freí a fuego medio revolviendo constantemente con espumadera durante 2 a 3 minutos hasta que adquieran un color tostado parejo y una textura de copos secos y crujientes.",
+      "Retirá los copos de galanga con un colador fino para que no se quemen y dejalos escurrir bien.",
+      "Acomodá las piezas de pollo frito en una fuente de cerámica y cubrilas generosamente con la lluvia dorada y crujiente de galanga frita.",
+      "Serví caliente junto a rodajas de pepino fresco, arroz al vapor y tu salsa sambal predilecta."
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación del Bumbu y Pochado (Ungkep)",
+        "steps": [
+          "Procesá las chalotas, ajo, cúrcuma, jengibre, semillas de cilantro y nueces con dos cucharadas de agua hasta obtener una pasta uniforme.",
+          "En una cacerola amplia, disponé las piezas de pollo, la pasta de especias, la galanga rallada en tiras finas, los tallos machacados de hierba limón, las hojas de lima kaffir, el laurel y la sal.",
+          "Verté el agua o agua de coco. Llevá a hervor suave a fuego medio-bajo y cociná tapado durante 25 a 30 minutos hasta que el pollo esté tierno y el líquido se haya reducido casi por completo. Retirá las presas de pollo y colá las hebras de galanga y especias, separando bien ambos elementos."
+        ]
+      },
+      {
+        "name": "Fritura Dorada y Crujiente",
+        "steps": [
+          "Calentá abundante aceite en un wok hondo a 175°C. Freí las presas de pollo precocidas durante 3 a 4 minutos por lado hasta que la piel quede crujiente y de un dorado ámbar intenso. Retirá y escurrí sobre papel absorbente.",
+          "En el mismo aceite caliente, volcá con cuidado las hebras de galanga escurridas. Freí a fuego medio revolviendo constantemente con espumadera durante 2 a 3 minutos hasta que adquieran un color tostado parejo y una textura de copos secos y crujientes.",
+          "Retirá los copos de galanga con un colador fino para que no se quemen y dejalos escurrir bien."
+        ]
+      },
+      {
+        "name": "Montaje",
+        "steps": [
+          "Acomodá las piezas de pollo frito en una fuente de cerámica y cubrilas generosamente con la lluvia dorada y crujiente de galanga frita.",
+          "Serví caliente junto a rodajas de pepino fresco, arroz al vapor y tu salsa sambal predilecta."
+        ]
+      }
+    ],
+    "notes": "La técnica javanesa del ungkep (guisar a fuego lento la carne en su pasta de hierbas antes de freír) logra que las especias penetren hasta el hueso del pollo. Nunca descartes las hebras de galanga ralladas: al freírlas se convierten en un crumble aromático y crujiente que define este plato frente a cualquier otro pollo frito del mundo.",
+    "tags": [
+      "ayam goreng",
+      "pollo frito indonesio",
+      "pollo frito a la galanga",
+      "lengkuas",
+      "comida indonesia",
+      "street food sudeste asiatico",
+      "pollo crocante",
+      "recetas indonesias",
+      "pollo frito"
+    ]
+  },
+  {
+    "id": 755,
+    "title": "Pollo Frito Tailandés Gai Tod (Tailandia)",
+    "image": "https://lh3.googleusercontent.com/-lb6mw3d3ips/av7x9I7PRbI/AAAAAAAQC8k/mXGc08gBlH07nXutgogVeAtKHp5p8nbNQCNcBGAsYHQ/s1600/pollo_frito_tailandes_gai_tod.jpg",
+    "category": "Pollo & Aves",
+    "country": "Tailandia",
+    "difficulty": "Fácil",
+    "prep_time": "20 min",
+    "cook_time": "15 min",
+    "servings": "4 porciones",
+    "calories": "520 kcal",
+    "story": "Nacido en la ciudad sureña de Hat Yai, cerca de la frontera con Malasia, el gai tod surgió en los bulliciosos puestos callejeros de las terminales ferroviarias a mediados del siglo XX. La receta fusionó las ricas especias aromáticas de la comunidad musulmana local con la técnica de fritura ligera y crocante, coronada siempre con montículos de chalotas fritas doradas. Es el bocado callejero más emblemático del sur de Tailandia, consumido tradicionalmente con arroz glutinoso al vapor.",
+    "ingredients": [
+      "1 kg de muslos o alitas de pollo con piel",
+      "6 raíces o tallos de cilantro fresco picados",
+      "6 dientes de ajo",
+      "1 cucharada de pimienta blanca en grano",
+      "1 cucharada de semillas de comino tostadas",
+      "1 cucharada de semillas de cilantro tostadas",
+      "2 cucharadas de salsa de pescado tailandesa (nam pla)",
+      "2 cucharadas de salsa de ostras",
+      "1 cucharadita de azúcar de palma o rubia",
+      "1/2 taza de harina de arroz",
+      "2 cucharadas de fécula de tapioca o maíz",
+      "4 cucharadas de agua helada",
+      "6 chalotas cortadas en láminas finas",
+      "Aceite neutro abundante para freír"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Pollo y Pasta de Marinado",
+        "ingredients": [
+          "1 kg de muslos o alitas de pollo con piel",
+          "6 raíces o tallos de cilantro fresco picados",
+          "6 dientes de ajo",
+          "1 cucharada de pimienta blanca en grano",
+          "1 cucharada de semillas de comino tostadas",
+          "1 cucharada de semillas de cilantro tostadas",
+          "2 cucharadas de salsa de pescado tailandesa (nam pla)",
+          "2 cucharadas de salsa de ostras",
+          "1 cucharadita de azúcar de palma o rubia"
+        ]
+      },
+      {
+        "name": "Rebozado y Acompañamiento",
+        "ingredients": [
+          "1/2 taza de harina de arroz",
+          "2 cucharadas de fécula de tapioca o maíz",
+          "4 cucharadas de agua helada",
+          "6 chalotas cortadas en láminas finas",
+          "Aceite neutro abundante para freír"
+        ]
+      }
+    ],
+    "steps": [
+      "En un mortero de piedra, machacá las raíces de cilantro, los dientes de ajo, la pimienta blanca, las semillas de cilantro y el comino hasta formar una pasta aromática densa.",
+      "En un recipiente, mezclá la pasta del mortero con la salsa de pescado, la salsa de ostras y el azúcar de palma. Incorporá las presas de pollo, untalas prolijamente y dejalas marinar en frío durante al menos 1 hora (idealmente toda la noche).",
+      "Calentá el aceite en un wok a fuego medio-bajo (150°C). Agregá las chalotas fileteadas y freilas lentamente, revolviendo en forma continua, hasta que tomen un dorado suave y parejo. Retiralas con espumadera y escurrilas sobre papel absorbente para que queden crocantes.",
+      "Al recipiente del pollo marinado sumale la harina de arroz, la fécula de tapioca y el agua helada. Mezclá bien con las manos hasta formar una película fina y translúcida que cubra cada pieza.",
+      "Elevá la temperatura del aceite a 175°C. Sumergí el pollo por tandas y freí durante 10 a 12 minutos, girando las presas ocasionalmente, hasta que la costra esté bien crocante y de un tono caramelo profundo.",
+      "Retirá el pollo, escurrí sobre rejilla durante 2 minutos y disponé las piezas en una fuente. Cubrí por encima con una montaña de chalotas fritas crujientes y acompañá con salsa dulce de chile (nam chim kai)."
+    ],
+    "step_groups": [
+      {
+        "name": "Majado y Marinado del Pollo",
+        "steps": [
+          "En un mortero de piedra, machacá las raíces de cilantro, los dientes de ajo, la pimienta blanca, las semillas de cilantro y el comino hasta formar una pasta aromática densa.",
+          "En un recipiente, mezclá la pasta del mortero con la salsa de pescado, la salsa de ostras y el azúcar de palma. Incorporá las presas de pollo, untalas prolijamente y dejalas marinar en frío durante al menos 1 hora (idealmente toda la noche)."
+        ]
+      },
+      {
+        "name": "Chalotas Doradas y Rebozado",
+        "steps": [
+          "Calentá el aceite en un wok a fuego medio-bajo (150°C). Agregá las chalotas fileteadas y freilas lentamente, revolviendo en forma continua, hasta que tomen un dorado suave y parejo. Retiralas con espumadera y escurrilas sobre papel absorbente para que queden crocantes.",
+          "Al recipiente del pollo marinado sumale la harina de arroz, la fécula de tapioca y el agua helada. Mezclá bien con las manos hasta formar una película fina y translúcida que cubra cada pieza."
+        ]
+      },
+      {
+        "name": "Fritura Crujiente y Emplatado",
+        "steps": [
+          "Elevá la temperatura del aceite a 175°C. Sumergí el pollo por tandas y freí durante 10 a 12 minutos, girando las presas ocasionalmente, hasta que la costra esté bien crocante y de un tono caramelo profundo.",
+          "Retirá el pollo, escurrí sobre rejilla durante 2 minutos y disponé las piezas en una fuente. Cubrí por encima con una montaña de chalotas fritas crujientes y acompañá con salsa dulce de chile (nam chim kai)."
+        ]
+      }
+    ],
+    "notes": "El sabor auténtico del gai tod tailandés depende de las raíces de cilantro machacadas con pimienta blanca en mortero y el uso de harina de arroz en el rebozado, que absorbe mucha menos grasa que la harina de trigo y produce un crujido seco y liviano característico de la comida callejera de Hat Yai.",
+    "tags": [
+      "gai tod",
+      "pollo frito tailandes",
+      "pollo frito hat yai",
+      "comida tailandesa",
+      "street food tailandia",
+      "pollo frito",
+      "alitas tailandesas",
+      "pollo crocante",
+      "receta tailandesa"
+    ]
+  },
+  {
+    "id": 756,
+    "title": "Pollo Frito Especiado Chicken 65 (India)",
+    "image": "https://lh3.googleusercontent.com/-oj-0WP9ymyw/av7x-A0xulI/AAAAAAAQC8s/6khp2IBY7L47FCZmGv1jwPPQ5vB6h4KdACNcBGAsYHQ/s1600/pollo_frito_chicken_65.jpg",
+    "category": "Pollo & Aves",
+    "country": "India",
+    "difficulty": "Fácil",
+    "prep_time": "25 min",
+    "cook_time": "15 min",
+    "servings": "4 porciones",
+    "calories": "490 kcal",
+    "story": "Creado en 1965 por el célebre chef A.M. Buhari en el histórico Hotel Buhari de Madrás (actual Chennai, Tamil Nadu), el Chicken 65 nació como un aperitivo picante y veloz para soldados y comensales del sur indio. Aunque existen mitos populares sobre sus ingredientes o días de marinado, la historia gastronómica ratifica su bautismo en honor al año de su invención en el menú. Su vibrante color bermellón y el perfume envolvente de las hojas frescas de curry lo consagraron como un clásico absoluto en toda la India.",
+    "ingredients": [
+      "700 g de pechuga o muslo de pollo deshuesado, cortado en cubos de bocado",
+      "3 cucharadas de yogur natural entero sin endulzar",
+      "1 cucharada de pasta de jengibre y ajo",
+      "1 cucharada de chile de Cachemira en polvo (Kashmiri mirch)",
+      "1/2 cucharadita de cúrcuma en polvo",
+      "1 cucharadita de garam masala",
+      "1 cucharada de jugo de limón recién exprimido",
+      "1 cucharadita de sal fina",
+      "3 cucharadas de harina de maíz (maicena)",
+      "2 cucharadas de harina de arroz",
+      "1 clara de huevo",
+      "20 hojas frescas de curry",
+      "4 chiles verdes cortados al sesgo",
+      "3 dientes de ajo en láminas finas",
+      "Gajos de limón y cebolla morada en aros para servir",
+      "Aceite neutro abundante para freír"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Pollo y Marinado del Sur",
+        "ingredients": [
+          "700 g de pechuga o muslo de pollo deshuesado, cortado en cubos de bocado",
+          "3 cucharadas de yogur natural entero sin endulzar",
+          "1 cucharada de pasta de jengibre y ajo",
+          "1 cucharada de chile de Cachemira en polvo (Kashmiri mirch)",
+          "1/2 cucharadita de cúrcuma en polvo",
+          "1 cucharadita de garam masala",
+          "1 cucharada de jugo de limón recién exprimido",
+          "1 cucharadita de sal fina"
+        ]
+      },
+      {
+        "name": "Ligadura Crujiente",
+        "ingredients": [
+          "3 cucharadas de harina de maíz (maicena)",
+          "2 cucharadas de harina de arroz",
+          "1 clara de huevo"
+        ]
+      },
+      {
+        "name": "Salteado Aromático (Tadka)",
+        "ingredients": [
+          "20 hojas frescas de curry",
+          "4 chiles verdes cortados al sesgo",
+          "3 dientes de ajo en láminas finas",
+          "Gajos de limón y cebolla morada en aros para servir",
+          "Aceite neutro abundante para freír"
+        ]
+      }
+    ],
+    "steps": [
+      "En un cuenco, integrá el yogur con la pasta de jengibre y ajo, el chile de Cachemira, la cúrcuma, el garam masala, el jugo de limón y la sal hasta obtener una crema roja homogénea.",
+      "Agregá los bocados de pollo, embadurná cada trozo por completo y dejá marinar a temperatura ambiente durante 20 minutos (o 2 horas en heladera para intensificar el sabor).",
+      "Justo antes de cocinar, incorporá al bol la maicena, la harina de arroz y la clara de huevo. Mezclá suavemente para que los bocados queden envueltos en una pasta firme pero ligera.",
+      "Calentá abundante aceite en una sartén honda o wok a 180°C. Freí los dados de pollo en tandas pequeñas durante 4 a 5 minutos, removiendo ocasionalmente, hasta que adquieran un color rojo intenso y una superficie crocante. Escurrí sobre rejilla metálica.",
+      "En una sartén de hierro o sartén caliente con dos cucharadas del aceite de la fritura, salteá a fuego vivo los ajos fileteados, los chiles verdes y las hojas frescas de curry durante 30 a 45 segundos hasta que chisporroteen y desprendan su fragancia.",
+      "Incorporá inmediatamente los bocados de pollo frito caliente al salteado, revolvé enérgicamente durante medio minuto para impregnarlos del aroma y retirá del fuego.",
+      "Serví de inmediato en la misma sartén de hierro o en plato rústico, acompañado de aros de cebolla fresca y cuartos de limón."
+    ],
+    "step_groups": [
+      {
+        "name": "Marinado Especiado",
+        "steps": [
+          "En un cuenco, integrá el yogur con la pasta de jengibre y ajo, el chile de Cachemira, la cúrcuma, el garam masala, el jugo de limón y la sal hasta obtener una crema roja homogénea.",
+          "Agregá los bocados de pollo, embadurná cada trozo por completo y dejá marinar a temperatura ambiente durante 20 minutos (o 2 horas en heladera para intensificar el sabor)."
+        ]
+      },
+      {
+        "name": "Fritura Crujiente",
+        "steps": [
+          "Justo antes de cocinar, incorporá al bol la maicena, la harina de arroz y la clara de huevo. Mezclá suavemente para que los bocados queden envueltos en una pasta firme pero ligera.",
+          "Calentá abundante aceite en una sartén honda o wok a 180°C. Freí los dados de pollo en tandas pequeñas durante 4 a 5 minutos, removiendo ocasionalmente, hasta que adquieran un color rojo intenso y una superficie crocante. Escurrí sobre rejilla metálica."
+        ]
+      },
+      {
+        "name": "Tadka y Acabado Tradicional",
+        "steps": [
+          "En una sartén de hierro o sartén caliente con dos cucharadas del aceite de la fritura, salteá a fuego vivo los ajos fileteados, los chiles verdes y las hojas frescas de curry durante 30 a 45 segundos hasta que chisporroteen y desprendan su fragancia.",
+          "Incorporá inmediatamente los bocados de pollo frito caliente al salteado, revolvé enérgicamente durante medio minuto para impregnarlos del aroma y retirá del fuego.",
+          "Serví de inmediato en la misma sartén de hierro o en plato rústico, acompañado de aros de cebolla fresca y cuartos de limón."
+        ]
+      }
+    ],
+    "notes": "El chile de Cachemira (Kashmiri mirch) es insustituible para lograr ese rojo bermellón apasionado sin necesidad de colorantes artificiales y con un picante amable y redondo. No te saltes el paso final del tadka con hojas frescas de curry: ese shock de aceite perfumado es el alma del plato.",
+    "tags": [
+      "chicken 65",
+      "pollo frito indio",
+      "pollo frito especiado",
+      "comida india",
+      "chennai",
+      "curry leaves",
+      "street food india",
+      "bocados de pollo crocante",
+      "receta chicken 65"
+    ]
+  },
+  {
+    "id": 757,
+    "title": "Pollo Frito Taiwanés Yan Su Ji (Taiwán)",
+    "image": "https://lh3.googleusercontent.com/-zXl5rHj1PR0/av7x_O2kroI/AAAAAAAQC80/vK2lnwpKupYe7655fUE5ZSyQ0NTW2xO-gCNcBGAsYHQ/s1600/pollo_frito_taiwanes_yan_su_ji.jpg",
+    "category": "Pollo & Aves",
+    "country": "Taiwán",
+    "difficulty": "Fácil",
+    "prep_time": "20 min",
+    "cook_time": "15 min",
+    "servings": "4 porciones",
+    "calories": "500 kcal",
+    "story": "Surgido a finales de la década de 1970 en el distrito de Tainan y popularizado en los bulliciosos mercados nocturnos de Taipéi como Shilin y Raohe, el yan su ji transformó la escena callejera taiwanesa. Concebido como un snack rápido, económico y transportable en bolsas de papel para comer con palillos mientras se recorren los puestos al anochecer, destaca por su inconfundible costra perlada de almidón de batata y el toque crujiente de hojas de albahaca fresca frita. Es el rey indiscutido del street food de Taiwán.",
+    "ingredients": [
+      "700 g de pechuga o pata muslo deshuesada, cortada en dados de 2 a 3 cm",
+      "3 dientes de ajo finamente rallados",
+      "1 cucharadita de jengibre rallado",
+      "2 cucharadas de salsa de soja clara",
+      "1 cucharada de vino Shaoxing o vino de arroz",
+      "1 cucharadita de azúcar rubia",
+      "1/2 cucharadita de polvo de cinco especias chinas",
+      "1/2 cucharadita de aceite de sésamo tostado",
+      "1/2 cucharadita de pimienta blanca molida",
+      "1 taza de almidón de batata grueso (tapioca gruesa o batata dulce)",
+      "1 taza abundante de hojas de albahaca tailandesa o albahaca común bien secas",
+      "Aceite neutro abundante para freír",
+      "1 cucharadita de sal marina fina",
+      "1 cucharadita de pimienta blanca molida",
+      "1/2 cucharadita de pimienta de Sichuan tostada y molida",
+      "1/4 cucharadita de polvo de cinco especias chinas"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Pollo y Marinado de Mercado Nocturno",
+        "ingredients": [
+          "700 g de pechuga o pata muslo deshuesada, cortada en dados de 2 a 3 cm",
+          "3 dientes de ajo finamente rallados",
+          "1 cucharadita de jengibre rallado",
+          "2 cucharadas de salsa de soja clara",
+          "1 cucharada de vino Shaoxing o vino de arroz",
+          "1 cucharadita de azúcar rubia",
+          "1/2 cucharadita de polvo de cinco especias chinas",
+          "1/2 cucharadita de aceite de sésamo tostado",
+          "1/2 cucharadita de pimienta blanca molida"
+        ]
+      },
+      {
+        "name": "Rebozado Perlado y Albahaca",
+        "ingredients": [
+          "1 taza de almidón de batata grueso (tapioca gruesa o batata dulce)",
+          "1 taza abundante de hojas de albahaca tailandesa o albahaca común bien secas",
+          "Aceite neutro abundante para freír"
+        ]
+      },
+      {
+        "name": "Sal y Pimienta Taiwanesa (Condimento Final)",
+        "ingredients": [
+          "1 cucharadita de sal marina fina",
+          "1 cucharadita de pimienta blanca molida",
+          "1/2 cucharadita de pimienta de Sichuan tostada y molida",
+          "1/4 cucharadita de polvo de cinco especias chinas"
+        ]
+      }
+    ],
+    "steps": [
+      "En un cuenco, mezclá el ajo rallado, jengibre, salsa de soja, vino Shaoxing, azúcar, polvo de cinco especias, aceite de sésamo y la pimienta blanca.",
+      "Agregá los cubos de pollo cortados en tamaño bocado, integrá masajeando la carne con las manos y dejá marinar en la heladera durante 30 a 45 minutos.",
+      "Disponé el almidón de batata en un plato hondo o bandeja. Pasá los bocados de pollo marinados por el almidón de a pocos trozos, presionando con los dedos para que se adhieran bien los gránulos.",
+      "Dejá reposar las piezas empanadas sobre una tabla durante 5 minutos para que la humedad natural de la carne hidrate levemente el almidón y no se desprenda durante la fritura.",
+      "Calentá abundante aceite en un wok a 170°C. Freí el pollo en tandas durante 3 a 4 minutos hasta que los trozos floten y el rebozado esté firme. Retirá sobre papel absorbente.",
+      "Elevá el fuego para llevar el aceite a 190°C. Volvé a sumergir el pollo durante 1 minuto para dorar y lograr la máxima textura crocante. En los últimos 15 segundos, tirá con cuidado las hojas secas de albahaca al aceite caliente; se volverán translúcidas y crocantes al instante.",
+      "Retirá el pollo y la albahaca crujiente juntos con espumadera, escurrí bien y colocalos en un bol amplio. Espolvoreá enseguida con la mezcla de sal y pimienta taiwanesa agitando el recipiente para cubrirlos de manera homogénea. Serví caliente en cucuruchos o cuencos tradicionales."
+    ],
+    "step_groups": [
+      {
+        "name": "Marinado de los Bocados",
+        "steps": [
+          "En un cuenco, mezclá el ajo rallado, jengibre, salsa de soja, vino Shaoxing, azúcar, polvo de cinco especias, aceite de sésamo y la pimienta blanca.",
+          "Agregá los cubos de pollo cortados en tamaño bocado, integrá masajeando la carne con las manos y dejá marinar en la heladera durante 30 a 45 minutos."
+        ]
+      },
+      {
+        "name": "Rebozado Grueso con Almidón de Batata",
+        "steps": [
+          "Disponé el almidón de batata en un plato hondo o bandeja. Pasá los bocados de pollo marinados por el almidón de a pocos trozos, presionando con los dedos para que se adhieran bien los gránulos.",
+          "Dejá reposar las piezas empanadas sobre una tabla durante 5 minutos para que la humedad natural de la carne hidrate levemente el almidón y no se desprenda durante la fritura."
+        ]
+      },
+      {
+        "name": "Fritura Doble, Albahaca y Condimentado",
+        "steps": [
+          "Calentá abundante aceite en un wok a 170°C. Freí el pollo en tandas durante 3 a 4 minutos hasta que los trozos floten y el rebozado esté firme. Retirá sobre papel absorbente.",
+          "Elevá el fuego para llevar el aceite a 190°C. Volvé a sumergir el pollo durante 1 minuto para dorar y lograr la máxima textura crocante. En los últimos 15 segundos, tirá con cuidado las hojas secas de albahaca al aceite caliente; se volverán translúcidas y crocantes al instante.",
+          "Retirá el pollo y la albahaca crujiente juntos con espumadera, escurrí bien y colocalos en un bol amplio. Espolvoreá enseguida con la mezcla de sal y pimienta taiwanesa agitando el recipiente para cubrirlos de manera homogénea. Serví caliente en cucuruchos o cuencos tradicionales."
+        ]
+      }
+    ],
+    "notes": "La clave irremplazable del yan su ji taiwanés es el almidón de batata de grano grueso (sweet potato starch coarse): sus bolitas forman burbujas microscópicas que le confieren una crocancia mucho más aireada y duradera que la harina común. Secá perfectamente las hojas de albahaca antes de volcarlas al aceite para evitar salpicaduras.",
+    "tags": [
+      "yan su ji",
+      "pollo frito taiwanes",
+      "pollo frito taiwan",
+      "popcorn chicken",
+      "street food taiwan",
+      "albahaca frita",
+      "cinco especias",
+      "pollo frito",
+      "comida callejera asiatica"
+    ]
   }
 ]

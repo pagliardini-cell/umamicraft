@@ -504,6 +504,9 @@
             <select id="tableCategoryFilter" class="form-select" style="width:auto;" onchange="renderTable()" aria-label="Filtrar por categoría">
               <option value="all">Todas las categorías</option>
             </select>
+            <select id="tableCountryFilter" class="form-select" style="width:auto;" onchange="renderTable()" aria-label="Filtrar por país">
+              <option value="all">🌍 Todos los países</option>
+            </select>
             <select id="tableSortOrder" class="form-select" style="width:auto;" onchange="renderTable()" aria-label="Ordenar listado de recetas">
               <option value="id_desc" selected>✨ Más recientes primero</option>
               <option value="id_asc">📑 Orden original (#1 en adelante)</option>
@@ -549,7 +552,8 @@
 
               <div class="form-group">
                 <label>País / Origen *</label>
-                <input type="text" id="formCountry" class="form-input" required placeholder="Ej: Italia, Japón, Argentina, Fusión">
+                <input type="text" id="formCountry" list="countriesDatalist" class="form-input" required placeholder="Ej: Italia, Japón, Argentina, Fusión">
+                <datalist id="countriesDatalist"></datalist>
               </div>
 
               <div class="form-group">
@@ -843,7 +847,7 @@
         const serverData = await res.json();
         recipes = Array.isArray(serverData) && serverData.length > 0 ? serverData : [];
         updateMetrics();
-        populateCategoryFilter();
+        populateFilters();
         renderTable();
 
         const urlParams = new URLSearchParams(window.location.search);
@@ -899,14 +903,60 @@
       const spanCountries = document.getElementById('totalCountriesSpan');
       if (spanCountries) spanCountries.textContent = sortedCountries.length;
 
-      // 1. Continentes / Regiones
+      // 1. Continentes / Regiones (Cobertura 100% de los 63 países)
       const REGION_DEFS = [
-        { name: 'Europa', icon: '🇪🇺', list: ['Italia', 'España', 'Francia', 'Alemania', 'Reino Unido', 'Inglaterra', 'Escocia', 'Portugal', 'Bélgica', 'Suecia', 'Irlanda', 'Grecia', 'Rusia', 'Hungría', 'Suiza', 'Balcanes', 'Inglaterra / Francia', 'Inglaterra / Italia'] },
-        { name: 'América', icon: '🌎', list: ['Argentina', 'Receta de Autor (Argentina)', 'Estados Unidos', 'México', 'Perú', 'Brasil', 'Chile', 'Uruguay', 'Cuba', 'Venezuela', 'Bolivia', 'Paraguay', 'Caribe', 'Puerto Rico', 'Canadá / Internacional', 'Canadá'] },
-        { name: 'Asia & Oceanía', icon: '🌏', list: ['Japón', 'China', 'India', 'Tailandia', 'Vietnam', 'Corea del Sur', 'Singapur', 'Taiwán', 'Indonesia', 'Mongolia', 'Australia', 'Nueva Zelanda'] },
-        { name: 'Medio Oriente & África', icon: '🌍', list: ['Medio Oriente', 'Turquía', 'Líbano', 'Líbano / Siria', 'Palestina', 'Marruecos', 'Egipto', 'Sudáfrica', 'Armenia', 'Afganistán'] },
-        { name: 'Cocina Global & Fusión', icon: '🌐', list: ['Fusión', 'Fusión Internacional', 'Internacional'] }
+        { 
+          name: 'Europa', 
+          icon: '🇪🇺', 
+          list: [
+            'Italia', 'España', 'Francia', 'Alemania', 'Reino Unido', 'Inglaterra', 'Escocia', 
+            'Portugal', 'Bélgica', 'Suecia', 'Irlanda', 'Grecia', 'Rusia', 'Hungría', 'Suiza', 
+            'Dinamarca', 'Lituania', 'República Checa', 'Balcanes', 'Inglaterra / Francia', 'Inglaterra / Italia'
+          ] 
+        },
+        { 
+          name: 'América', 
+          icon: '🌎', 
+          list: [
+            'Argentina', 'Receta de Autor (Argentina)', 'Estados Unidos', 'México', 'Perú', 'Brasil', 
+            'Chile', 'Uruguay', 'Cuba', 'Venezuela', 'Bolivia', 'Paraguay', 'Caribe', 'Puerto Rico', 
+            'Canadá / Internacional', 'Canadá'
+          ] 
+        },
+        { 
+          name: 'Asia & Oceanía', 
+          icon: '🌏', 
+          list: [
+            'Japón', 'China', 'India', 'Tailandia', 'Vietnam', 'Corea del Sur', 'Filipinas', 
+            'Singapur', 'Taiwán', 'Indonesia', 'Mongolia', 'Australia', 'Nueva Zelanda'
+          ] 
+        },
+        { 
+          name: 'Medio Oriente & África', 
+          icon: '🌍', 
+          list: [
+            'Medio Oriente', 'Turquía', 'Líbano', 'Líbano / Siria', 'Palestina', 'Marruecos', 
+            'Egipto', 'Túnez', 'Sudáfrica', 'Senegal', 'Ghana', 'Etiopía', 'Kenia', 'Nigeria', 
+            'Camerún', 'África', 'Armenia', 'Afganistán'
+          ] 
+        },
+        { 
+          name: 'Cocina Global & Fusión', 
+          icon: '🌐', 
+          list: ['Fusión', 'Fusión Internacional', 'Internacional'] 
+        }
       ];
+
+      // Asignar automáticamente cualquier nuevo país no catalogado a Cocina Global & Fusión
+      const assignedCountries = new Set();
+      REGION_DEFS.forEach(r => r.list.forEach(c => assignedCountries.add(c)));
+      const unassigned = Object.keys(countryCounts).filter(c => !assignedCountries.has(c));
+      if (unassigned.length > 0) {
+        const fallbackReg = REGION_DEFS.find(r => r.name.includes('Global') || r.name.includes('Fusión'));
+        if (fallbackReg) {
+          unassigned.forEach(c => fallbackReg.list.push(c));
+        }
+      }
 
       const contContainer = document.getElementById('continentsBreakdown');
       if (contContainer) {
@@ -979,17 +1029,39 @@
 
     function filterTableByCountry(country) {
       switchTab('recipes');
+      const countrySelect = document.getElementById('tableCountryFilter');
       const searchInput = document.getElementById('tableSearch');
-      if (searchInput) {
-        searchInput.value = country;
-        renderTable();
+      if (countrySelect) {
+        countrySelect.value = country;
       }
+      if (searchInput) {
+        searchInput.value = '';
+      }
+      renderTable();
     }
 
-    function populateCategoryFilter() {
-      const sel = document.getElementById('tableCategoryFilter');
+    function populateFilters() {
+      // 1. Categorías
+      const catSel = document.getElementById('tableCategoryFilter');
       const cats = [...new Set(recipes.map(r => r.category).filter(Boolean))].sort();
-      sel.innerHTML = '<option value="all">Todas las categorías</option>' + cats.map(c => `<option value="${c}">${c}</option>`).join('');
+      catSel.innerHTML = '<option value="all">Todas las categorías</option>' + cats.map(c => `<option value="${c}">${c}</option>`).join('');
+
+      // 2. Países (Filtro en la barra de herramientas de la tabla)
+      const countrySel = document.getElementById('tableCountryFilter');
+      const countries = [...new Set(recipes.map(r => r.country).filter(Boolean))].sort((a,b) => a.localeCompare(b, 'es'));
+      if (countrySel) {
+        countrySel.innerHTML = '<option value="all">🌍 Todos los países (' + countries.length + ')</option>' + 
+          countries.map(c => {
+            const count = recipes.filter(r => r.country === c).length;
+            return `<option value="${c}">${c} (${count})</option>`;
+          }).join('');
+      }
+
+      // 3. Datalist para el formulario de alta/edición
+      const datalist = document.getElementById('countriesDatalist');
+      if (datalist) {
+        datalist.innerHTML = countries.map(c => `<option value="${c}">${c}</option>`).join('');
+      }
     }
 
     function toggleTableIdSort() {
@@ -1002,11 +1074,13 @@
     function renderTable() {
       const q = document.getElementById('tableSearch').value.toLowerCase().trim();
       const cat = document.getElementById('tableCategoryFilter').value;
+      const countryFilter = document.getElementById('tableCountryFilter') ? document.getElementById('tableCountryFilter').value : 'all';
       const sortOrder = document.getElementById('tableSortOrder') ? document.getElementById('tableSortOrder').value : 'id_desc';
       const tbody = document.getElementById('recipesTableBody');
 
       let filtered = recipes.filter(r => {
         if (cat !== 'all' && r.category !== cat) return false;
+        if (countryFilter !== 'all' && (r.country || '') !== countryFilter) return false;
         if (q) {
           const matchTitle = (r.title || '').toLowerCase().includes(q);
           const matchCountry = (r.country || '').toLowerCase().includes(q);
