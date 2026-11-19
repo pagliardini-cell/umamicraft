@@ -82286,5 +82286,592 @@
       "entradas calientes",
       "receta polaca"
     ]
+  },
+  {
+    "id": 769,
+    "title": "Pierogi Ruskie (Polonia)",
+    "image": "https://lh3.googleusercontent.com/-663QEIuwNyM/av9JpX77gWI/AAAAAAAQC_Q/sN7ut3vM1GU5twh5ZMDCyxHuxgBZqqKtACNcBGAsYHQ/s1600/pierogi_ruskie.jpg",
+    "category": "Pastas",
+    "country": "Polonia",
+    "difficulty": "Media",
+    "prep_time": "35 min",
+    "cook_time": "20 min",
+    "servings": "4 porciones",
+    "calories": "420 kcal",
+    "story": "Documentados desde el siglo XIII en la región histórica de Rutenia Roja (antiguo voivodato del reino polaco) y popularizados por San Jacinto de Cracovia según las crónicas medievales, los pierogi ruskie representan la cima de la pasta rellena de Europa Central. A pesar de su nombre geográfico de época, constituyen el símbolo patrio de la cocina tradicional polaca, infaltables tanto en las mesas campesinas como en los banquetes urbanos.",
+    "ingredients": [
+      "400 g de harina de trigo 0000",
+      "1 cucharadita de sal fina",
+      "200 ml de agua tibia",
+      "2 cucharadas de manteca blanda o aceite neutro",
+      "500 g de papas harinosas peladas y hervidas",
+      "250 g de queso blanco seco tipo quark o twaróg (o ricota bien escurrida)",
+      "2 cebollas amarillas medianas picadas en cubitos diminutos",
+      "3 cucharadas de manteca",
+      "Sal fina y abundante pimienta negra recién molida",
+      "150 g de panceta ahumada en tiritas (skwarki)",
+      "Crema agria (śmietana) y ciboulette picado para acompañar"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Masa Casera para Pierogi",
+        "ingredients": [
+          "400 g de harina de trigo 0000",
+          "1 cucharadita de sal fina",
+          "200 ml de agua tibia",
+          "2 cucharadas de manteca blanda o aceite neutro"
+        ]
+      },
+      {
+        "name": "Relleno Ruskie de Papa y Twaróg",
+        "ingredients": [
+          "500 g de papas harinosas peladas y hervidas",
+          "250 g de queso blanco seco tipo quark o twaróg",
+          "2 cebollas amarillas medianas picadas en cubitos diminutos",
+          "3 cucharadas de manteca",
+          "Sal fina y abundante pimienta negra recién molida"
+        ]
+      },
+      {
+        "name": "Coronación Tradicional (Skwarki)",
+        "ingredients": [
+          "150 g de panceta ahumada en tiritas",
+          "Crema agria (śmietana) y ciboulette picado para acompañar"
+        ]
+      }
+    ],
+    "steps": [
+      "Para el relleno: pisá las papas aún calientes con pisapapas hasta que no queden grumos. En una sartén con manteca, dorá lentamente las cebollas picadas hasta que estén caramelizadas y dulces. Integrá el queso twaróg o ricota a las papas junto a la cebolla dorada. Condimentá con sal y abundante pimienta negra (el relleno debe tener carácter). Dejá enfriar por completo.",
+      "Para la masa: colocá la harina y la sal en un bol amplio, hacé un hueco en el centro y verté el agua tibia junto a la manteca blanda. Integrá con espátula y luego amasá sobre la mesada durante 8 a 10 minutos hasta lograr un bollo sedoso, elástico y tierno. Envolvé en film y dejá reposar 30 minutos.",
+      "Dividí la masa en dos mitades. Estirá con palote sobre la mesada ligeramente enharinada hasta un grosor de unos 2 mm. Cortá discos de 8 cm con un cortapastas o vaso invertido.",
+      "Disponé una cucharada colmada de relleno en el centro de cada disco. Doblá la masa al medio formando una media luna, presioná con firmeza los bordes para expulsar el aire y hacé un repulgue suave pellizcando los extremos.",
+      "Herví abundante agua con sal en una olla grande. Cociná los pierogi en tandas de 8 a 10 unidades durante 3 minutos desde que flotan en la superficie. Retiralos con espumadera.",
+      "En una sartén grande, dorá la panceta en tiritas a fuego medio hasta que quede crujiente y suelte su grasa natural (skwarki). Volcá los pierogi hervidos en la sartén y saltealos 1 o 2 minutos para que se impregnen de la grasa y tomen una costra dorada irresistible.",
+      "Serví bien calientes bañados con los trocitos de panceta crujiente, cebolla dorada y una cucharada generosa de crema agria fría al costado."
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación del Relleno de Papa y Queso",
+        "steps": [
+          "Para el relleno: pisá las papas aún calientes con pisapapas hasta que no queden grumos. En una sartén con manteca, dorá lentamente las cebollas picadas hasta que estén caramelizadas y dulces. Integrá el queso twaróg o ricota a las papas junto a la cebolla dorada. Condimentá con sal y abundante pimienta negra (el relleno debe tener carácter). Dejá enfriar por completo."
+        ]
+      },
+      {
+        "name": "Amasado, Estirado y Armado",
+        "steps": [
+          "Para la masa: colocá la harina y la sal en un bol amplio, hacé un hueco en el centro y verté el agua tibia junto a la manteca blanda. Integrá con espátula y luego amasá sobre la mesada durante 8 a 10 minutos hasta lograr un bollo sedoso, elástico y tierno. Envolvé en film y dejá reposar 30 minutos.",
+          "Dividí la masa en dos mitades. Estirá con palote sobre la mesada ligeramente enharinada hasta un grosor de unos 2 mm. Cortá discos de 8 cm con un cortapastas o vaso invertido.",
+          "Disponé una cucharada colmada de relleno en el centro de cada disco. Doblá la masa al medio formando una media luna, presioná con firmeza los bordes para expulsar el aire y hacé un repulgue suave pellizcando los extremos."
+        ]
+      },
+      {
+        "name": "Hervor, Salteado con Panceta y Servicio",
+        "steps": [
+          "Herví abundante agua con sal en una olla grande. Cociná los pierogi en tandas de 8 a 10 unidades durante 3 minutos desde que flotan en la superficie. Retiralos con espumadera.",
+          "En una sartén grande, dorá la panceta en tiritas a fuego medio hasta que quede crujiente y suelte su grasa natural (skwarki). Volcá los pierogi hervidos en la sartén y saltealos 1 o 2 minutos para que se impregnen de la grasa y tomen una costra dorada irresistible.",
+          "Serví bien calientes bañados con los trocitos de panceta crujiente, cebolla dorada y una cucharada generosa de crema agria fría al costado."
+        ]
+      }
+    ],
+    "notes": "El reposo de la masa es innegociable para que el gluten se relaje y no oponga resistencia al estirar. Si no encontrás queso twaróg polaco, utilizá una ricota entera de buena calidad prensada en lienzo durante un par de horas para que quede bien seca y firme.",
+    "tags": [
+      "pierogi",
+      "pierogi ruskie",
+      "comida polaca",
+      "pasta polaca",
+      "empanadillas polacas",
+      "twarog",
+      "skwarki",
+      "recetas de polonia",
+      "plato nacional polaco"
+    ]
+  },
+  {
+    "id": 770,
+    "title": "Bigos (Polonia)",
+    "image": "https://lh3.googleusercontent.com/-TnKYCvPt7LY/av9Jq9myiPI/AAAAAAAQC_Y/spl3RIk2xOcREyhXH2M3-o5xxxIOdNuswCNcBGAsYHQ/s1600/bigos.jpg",
+    "category": "Guisos & Platos de Olla",
+    "country": "Polonia",
+    "difficulty": "Media",
+    "prep_time": "30 min",
+    "cook_time": "120 min",
+    "servings": "6 porciones",
+    "calories": "520 kcal",
+    "story": "Consagrado por el poeta Adam Mickiewicz en la epopeya nacional Pan Tadeusz y documentado desde el siglo XIV como el estofado comunal de las partidas de caza de la nobleza polaca, el bigos o 'guiso del cazador' es el pilar culinario más antiguo de Polonia. Surgió de la necesidad de conservar y concentrar carnes de caza, salchichas y repollos fermentados en los gélidos inviernos bálticos, mejorando su sabor con recalentados sucesivos a lo largo de varios días.",
+    "ingredients": [
+      "500 g de chucrut (repollo fermentado) escurrido y picado",
+      "500 g de repollo blanco fresco cortado en juliana fina",
+      "400 g de paleta de cerdo o roast beef cortado en cubos de 2 cm",
+      "250 g de kiełbasa (salchicha polaca ahumada) en rodajas gruesas",
+      "150 g de panceta ahumada en dados",
+      "30 g de hongos silvestres secos (boletus / porcini)",
+      "10 ciruelas pasas sin carozo picadas",
+      "2 cebollas amarillas medianas picadas en brunoise",
+      "2 dientes de ajo picados",
+      "2 hojas de laurel",
+      "4 bayas de pimienta de Jamaica (allspice)",
+      "1 cucharadita de semillas de alcaravea o comino",
+      "150 ml de vino tinto seco",
+      "2 cucharadas de extracto de tomate concentrado",
+      "Sal fina y pimienta negra molida al gusto"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Carnes y Ahumados",
+        "ingredients": [
+          "400 g de paleta de cerdo o roast beef cortado en cubos de 2 cm",
+          "250 g de kiełbasa (salchicha polaca ahumada) en rodajas gruesas",
+          "150 g de panceta ahumada en dados",
+          "2 cebollas amarillas medianas picadas en brunoise",
+          "2 dientes de ajo picados"
+        ]
+      },
+      {
+        "name": "Repollos, Hongos y Fruta Seca",
+        "ingredients": [
+          "500 g de chucrut escurrido y picado",
+          "500 g de repollo blanco fresco cortado en juliana fina",
+          "30 g de hongos silvestres secos",
+          "10 ciruelas pasas sin carozo picadas"
+        ]
+      },
+      {
+        "name": "Especias, Vino y Cocción Lenta",
+        "ingredients": [
+          "2 hojas de laurel",
+          "4 bayas de pimienta de Jamaica",
+          "1 cucharadita de semillas de alcaravea",
+          "150 ml de vino tinto seco",
+          "2 cucharadas de extracto de tomate concentrado",
+          "Sal fina y pimienta negra molida al gusto"
+        ]
+      }
+    ],
+    "steps": [
+      "Hidratá los hongos secos en un bol con agua caliente durante 30 minutos. Escurrí bien reservando el líquido colado y picalos en tiras.",
+      "En una cacerola grande de hierro o fondo grueso, dorá la panceta en dados a fuego medio hasta que suelte su grasa. Retirá con espumadera y en esa misma grasa dorá los cubos de carne de cerdo a fuego vivo. Sumá la salchicha ahumada (kiełbasa) en rodajas, sellá 2 minutos y reservá las carnes.",
+      "En el fondo de cocción, salteá las cebollas picadas y el ajo durante 5 minutos hasta que tomen color dorado.",
+      "Incorporá el repollo blanco fresco en juliana y rehogalo hasta que reduzca su volumen a la mitad. Desglasá el fondo de la olla con el vino tinto, raspando los jugos caramelizados.",
+      "Sumá el chucrut escurrido, las carnes doradas con la panceta y salchicha, los hongos picados con su líquido de remojo filtrado, las ciruelas pasas picadas, el extracto de tomate, el laurel, la pimienta de Jamaica y las semillas de alcaravea.",
+      "Mezclá todo a conciencia, tapá la cacerola y cociná a fuego mínimo durante 1 hora y media a 2 horas, revolviendo de tanto en tanto para que los sabores se amalgamen y el estofado tome un color oscuro y brillante.",
+      "Rectificá de sal y pimienta. Serví humeante acompañado de pan de centeno denso y crujiente."
+    ],
+    "step_groups": [
+      {
+        "name": "Sellado de Carnes y Aromáticos",
+        "steps": [
+          "Hidratá los hongos secos en un bol con agua caliente durante 30 minutos. Escurrí bien reservando el líquido colado y picalos en tiras.",
+          "En una cacerola grande de hierro o fondo grueso, dorá la panceta en dados a fuego medio hasta que suelte su grasa. Retirá con espumadera y en esa misma grasa dorá los cubos de carne de cerdo a fuego vivo. Sumá la salchicha ahumada (kiełbasa) en rodajas, sellá 2 minutos y reservá las carnes.",
+          "En el fondo de cocción, salteá las cebollas picadas y el ajo durante 5 minutos hasta que tomen color dorado."
+        ]
+      },
+      {
+        "name": "Fusión de Repollos y Especias",
+        "steps": [
+          "Incorporá el repollo blanco fresco en juliana y rehogalo hasta que reduzca su volumen a la mitad. Desglasá el fondo de la olla con el vino tinto, raspando los jugos caramelizados.",
+          "Sumá el chucrut escurrido, las carnes doradas con la panceta y salchicha, los hongos picados con su líquido de remojo filtrado, las ciruelas pasas picadas, el extracto de tomate, el laurel, la pimienta de Jamaica y las semillas de alcaravea."
+        ]
+      },
+      {
+        "name": "Cocción Lenta y Emplatado",
+        "steps": [
+          "Mezclá todo a conciencia, tapá la cacerola y cociná a fuego mínimo durante 1 hora y media a 2 horas, revolviendo de tanto en tanto para que los sabores se amalgamen y el estofado tome un color oscuro y brillante.",
+          "Rectificá de sal y pimienta. Serví humeante acompañado de pan de centeno denso y crujiente."
+        ]
+      }
+    ],
+    "notes": "Como reza el dicho polaco, el bigos alcanza su gloria al segundo o tercer día de recalentado, cuando los ácidos del chucrut se suavizan y penetran las fibras de las carnes ahumadas. Las ciruelas pasas y los hongos secos son insustituibles para el toque agridulce y boscoso genuino.",
+    "tags": [
+      "bigos",
+      "guiso del cazador",
+      "cocina polaca",
+      "chucrut",
+      "kielbasa",
+      "estofado polaco",
+      "comida de invierno",
+      "platos tradicionales de polonia"
+    ]
+  },
+  {
+    "id": 771,
+    "title": "Żurek (Polonia)",
+    "image": "https://lh3.googleusercontent.com/-_v13whV7Wv8/av9JrrceK1I/AAAAAAAQC_g/qUiJXm9e4cEhSVQJIUCP6ES4Gs9SL7bNACNcBGAsYHQ/s1600/zurek.jpg",
+    "category": "Sopas & Caldos",
+    "country": "Polonia",
+    "difficulty": "Media",
+    "prep_time": "20 min",
+    "cook_time": "40 min",
+    "servings": "4 porciones",
+    "calories": "480 kcal",
+    "story": "Consolidada como una de las sopas más singulares y antiguas de Europa del Este con registros desde el siglo XV, el żurek es el plato ceremonial obligatorio del domingo de Pascua polaca (Wielkanoc). Su identidad irrepetible radica en el uso del zakwas, un fermento vivo de harina integral de centeno con ajo y laurel que confiere al caldo una acidez aterciopelada y fragante, servida habitualmente dentro de un pan campesino de centeno ahuecado.",
+    "ingredients": [
+      "500 ml de fermento de centeno para żurek (zakwas)",
+      "1,2 litros de caldo de verduras o carne",
+      "300 g de salchicha blanca polaca cruda (biała kiełbasa)",
+      "150 g de panceta ahumada cortada en cubos",
+      "1 cebolla grande picada fino",
+      "3 dientes de ajo machacados",
+      "2 hojas de laurel y 3 bayas de pimienta de Jamaica",
+      "1 cucharada de mejorana seca",
+      "3 cucharadas de crema agria espesa (śmietana)",
+      "1 cucharadita de rábano picante rallado (chrzan)",
+      "4 huevos duros cortados al medio",
+      "4 panes redondos de corteza dura (para servir dentro, opcional)",
+      "Sal fina y pimienta negra molida al gusto"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Base de Caldo y Fermento (Zakwas)",
+        "ingredients": [
+          "500 ml de fermento de centeno para żurek (zakwas)",
+          "1,2 litros de caldo de verduras o carne",
+          "2 hojas de laurel y 3 bayas de pimienta de Jamaica",
+          "3 dientes de ajo machacados"
+        ]
+      },
+      {
+        "name": "Carnes Ahumadas y Salchicha",
+        "ingredients": [
+          "300 g de salchicha blanca polaca cruda (biała kiełbasa)",
+          "150 g de panceta ahumada cortada en cubos",
+          "1 cebolla grande picada fino"
+        ]
+      },
+      {
+        "name": "Aromas, Crema y Guarnición",
+        "ingredients": [
+          "1 cucharada de mejorana seca",
+          "3 cucharadas de crema agria espesa (śmietana)",
+          "1 cucharadita de rábano picante rallado (chrzan)",
+          "4 huevos duros cortados al medio",
+          "4 panes redondos de corteza dura para servir",
+          "Sal fina y pimienta negra molida al gusto"
+        ]
+      }
+    ],
+    "steps": [
+      "En una olla profunda, dorá la panceta en cubos a fuego medio hasta que esté crujiente. Retirá parte de la panceta para decorar y en la grasa restante salteá la cebolla picada durante 5 minutos.",
+      "Verté el caldo caliente en la olla junto con las hojas de laurel, la pimienta de Jamaica y los ajos machacados. Añadí las salchichas blancas enteras (biała kiełbasa) y cociná a hervor suave durante 20 minutos hasta que estén bien cocidas.",
+      "Retirá las salchichas, cortalas en rodajas gruesas de 1 cm y reservalas al calor.",
+      "Agitá bien el recipiente del zakwas (el almidón de centeno se asienta en el fondo) y vertelo gradualmente en el caldo hirviendo, revolviendo constantemente. Cociná a fuego medio durante 5 minutos: notarás que la sopa adquiere cuerpo aterciopelado y un color marfil perlado.",
+      "Bajá el fuego al mínimo. En un cuenco, temperá la crema agria con un cucharón de la sopa caliente y el rábano picante (chrzan), y devolvelo a la olla. Sumá la mejorana seca frotada entre las palmas de las manos y las rodajas de salchicha.",
+      "Si vas a servir en pan: cortá la tapa superior de cada pan de centeno, ahuecá la miga con las manos dejando paredes firmes de 1,5 cm y llevalos al horno a 180°C durante 6 minutos para impermeabilizar la corteza.",
+      "Verté el żurek bien caliente dentro del pan o en cuencos hondos de barro, disponé dos mitades de huevo duro en la cima, coroná con panceta crujiente y una pizca extra de mejorana."
+    ],
+    "step_groups": [
+      {
+        "name": "Pochado de Carnes y Caldo Base",
+        "steps": [
+          "En una olla profunda, dorá la panceta en cubos a fuego medio hasta que esté crujiente. Retirá parte de la panceta para decorar y en la grasa restante salteá la cebolla picada durante 5 minutos.",
+          "Verté el caldo caliente en la olla junto con las hojas de laurel, la pimienta de Jamaica y los ajos machacados. Añadí las salchichas blancas enteras (biała kiełbasa) y cociná a hervor suave durante 20 minutos hasta que estén bien cocidas.",
+          "Retirá las salchichas, cortalas en rodajas gruesas de 1 cm y reservalas al calor."
+        ]
+      },
+      {
+        "name": "Integración del Zakwas y Espesado",
+        "steps": [
+          "Agitá bien el recipiente del zakwas (el almidón de centeno se asienta en el fondo) y vertelo gradualmente en el caldo hirviendo, revolviendo constantemente. Cociná a fuego medio durante 5 minutos: notarás que la sopa adquiere cuerpo aterciopelado y un color marfil perlado.",
+          "Bajá el fuego al mínimo. En un cuenco, temperá la crema agria con un cucharón de la sopa caliente y el rábano picante (chrzan), y devolvelo a la olla. Sumá la mejorana seca frotada entre las palmas de las manos y las rodajas de salchicha."
+        ]
+      },
+      {
+        "name": "Presentación en Hogaza de Pan",
+        "steps": [
+          "Si vas a servir en pan: cortá la tapa superior de cada pan de centeno, ahuecá la miga con las manos dejando paredes firmes de 1,5 cm y llevalos al horno a 180°C durante 6 minutos para impermeabilizar la corteza.",
+          "Verté el żurek bien caliente dentro del pan o en cuencos hondos de barro, disponé dos mitades de huevo duro en la cima, coroná con panceta crujiente y una pizca extra de mejorana."
+        ]
+      }
+    ],
+    "notes": "El zakwas de centeno no puede sustituirse por vinagre o limón: su fermentación láctica aporta notas complejas de masa madre que definen el żurek. Tostar el pan campesino ahuecado antes de verter la sopa es el truco profesional para que resista el líquido caliente sin ablandarse.",
+    "tags": [
+      "zurek",
+      "zurek w chlebku",
+      "sopa de centeno",
+      "cocina polaca",
+      "sopa polaca en pan",
+      "zakwas",
+      "biala kielbasa",
+      "pascua polaca",
+      "recetas de polonia"
+    ]
+  },
+  {
+    "id": 772,
+    "title": "Gołąbki (Polonia)",
+    "image": "https://lh3.googleusercontent.com/-FqSN57_eu4g/av9JtYNvjdI/AAAAAAAQC_o/8VH3YpUAPuUHDxCZc64UBPRHObf5U_C5ACNcBGAsYHQ/s1600/golabki.jpg",
+    "category": "Carnes",
+    "country": "Polonia",
+    "difficulty": "Media",
+    "prep_time": "30 min",
+    "cook_time": "60 min",
+    "servings": "6 porciones",
+    "calories": "390 kcal",
+    "story": "Inspirados en las preparaciones otomanas y eslavas que penetraron las fronteras orientales de la Mancomunidad Polaco-Lituana durante los siglos XVI y XVII, los gołąbki (cuyo nombre alude cariñosamente a 'pequeñas palomitas') se convirtieron en el epítome de la comida reconfortante hogareña polaca. La receta sustituyó las hojas de parra mediterráneas por hojas tiernas de repollo blanqueadas, rellenas con carne magra y arroz.",
+    "ingredients": [
+      "1 cabeza grande de repollo blanco tierno",
+      "500 g de carne picada de cerdo (o mezcla con ternera)",
+      "1 taza de arroz blanco cocido al dente (unos 250 g cocido)",
+      "1 cebolla grande picada finamente",
+      "2 cucharadas de manteca o aceite",
+      "1 huevo",
+      "1 cucharadita de mejorana seca",
+      "Sal fina y pimienta negra molida al gusto",
+      "600 ml de puré de tomate o passata",
+      "300 ml de caldo de cocción del repollo",
+      "100 ml de crema de leche o śmietana",
+      "1 cucharadita de azúcar rubia"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Hojas de Repollo y Blanqueado",
+        "ingredients": [
+          "1 cabeza grande de repollo blanco tierno"
+        ]
+      },
+      {
+        "name": "Relleno Tradicional de Cerdo y Arroz",
+        "ingredients": [
+          "500 g de carne picada de cerdo",
+          "1 taza de arroz blanco cocido al dente",
+          "1 cebolla grande picada finamente",
+          "2 cucharadas de manteca o aceite",
+          "1 huevo",
+          "1 cucharadita de mejorana seca",
+          "Sal fina y pimienta negra molida al gusto"
+        ]
+      },
+      {
+        "name": "Salsa Aterciopelada de Tomate",
+        "ingredients": [
+          "600 ml de puré de tomate o passata",
+          "300 ml de caldo de cocción del repollo",
+          "100 ml de crema de leche o śmietana",
+          "1 cucharadita de azúcar rubia"
+        ]
+      }
+    ],
+    "steps": [
+      "Retirá el tronco central duro del repollo con un cuchillo afilado. Sumergí la cabeza entera en una olla grande con agua hirviendo con sal durante 5 a 8 minutos. A medida que las hojas exteriores se ablanden, retiralas con pinzas hacia una fuente con agua fría. Secalas y recortá la nervadura central gruesa de cada hoja para facilitar el enrollado.",
+      "En una sartén, dorá la cebolla picada con la manteca hasta que esté tierna y transparente.",
+      "En un bol grande, mezclá la carne picada con el arroz cocido, la cebolla dorada, el huevo batido, la mejorana, sal y pimienta hasta obtener una pasta uniforme.",
+      "Colocá dos cucharadas colmadas de relleno en la base de cada hoja de repollo extendida. Doblá los laterales hacia adentro cubriendo el relleno y enrollá firmemente hacia adelante para formar paquetitos cilíndricos prolijos.",
+      "En una fuente para horno profunda o cacerola grande, cubrí la base con las hojas de repollo sobrantes o rotas. Acomodá los gołąbki apretados unos contra otros con el pliegue hacia abajo.",
+      "En un recipiente aparte, mezclá la passata de tomate con el caldo reservado del repollo, el azúcar, sal y pimienta. Verté la salsa sobre los rollitos asegurando que queden sumergidos.",
+      "Tapá con papel aluminio y horneá a 180°C durante 50 a 60 minutos hasta que el repollo esté tan tierno que se corte con tenedor. Retirá, mezclá la crema de leche en la salsa y serví calientes bañados con abundante salsa y espolvoreados con eneldo fresco."
+    ],
+    "step_groups": [
+      {
+        "name": "Blanqueado de Hojas y Relleno",
+        "steps": [
+          "Retirá el tronco central duro del repollo con un cuchillo afilado. Sumergí la cabeza entera en una olla grande con agua hirviendo con sal durante 5 a 8 minutos. A medida que las hojas exteriores se ablanden, retiralas con pinzas hacia una fuente con agua fría. Secalas y recortá la nervadura central gruesa de cada hoja para facilitar el enrollado.",
+          "En una sartén, dorá la cebolla picada con la manteca hasta que esté tierna y transparente.",
+          "En un bol grande, mezclá la carne picada con el arroz cocido, la cebolla dorada, el huevo batido, la mejorana, sal y pimienta hasta obtener una pasta uniforme."
+        ]
+      },
+      {
+        "name": "Armado de los Niños Envueltos",
+        "steps": [
+          "Colocá dos cucharadas colmadas de relleno en la base de cada hoja de repollo extendida. Doblá los laterales hacia adentro cubriendo el relleno y enrollá firmemente hacia adelante para formar paquetitos cilíndricos prolijos.",
+          "En una fuente para horno profunda o cacerola grande, cubrí la base con las hojas de repollo sobrantes o rotas. Acomodá los gołąbki apretados unos contra otros con el pliegue hacia abajo."
+        ]
+      },
+      {
+        "name": "Horneado Lento y Salseado",
+        "steps": [
+          "En un recipiente aparte, mezclá la passata de tomate con el caldo reservado del repollo, el azúcar, sal y pimienta. Verté la salsa sobre los rollitos asegurando que queden sumergidos.",
+          "Tapá con papel aluminio y horneá a 180°C durante 50 a 60 minutos hasta que el repollo esté tan tierno que se corte con tenedor. Retirá, mezclá la crema de leche en la salsa y serví calientes bañados con abundante salsa y espolvoreados con eneldo fresco."
+        ]
+      }
+    ],
+    "notes": "Aplanar o rebajar con el cuchillo la nervadura central y leñosa de cada hoja de repollo es el truco indispensable para que los rollitos no se desarmen ni se quiebren al envolver. El fondo de hojas sobrantes en la fuente impide que se peguen o se sequen en la base durante el horneado.",
+    "tags": [
+      "golabki",
+      "ninos envueltos polacos",
+      "rollos de repollo",
+      "cocina polaca",
+      "comida tradicional de polonia",
+      "repollo relleno",
+      "salsa de tomate casera",
+      "recetas reconfortantes"
+    ]
+  },
+  {
+    "id": 773,
+    "title": "Kotlet Schabowy (Polonia)",
+    "image": "https://lh3.googleusercontent.com/-irosMzWexRo/av9JuZJ_BoI/AAAAAAAQC_w/guLluI0CF_8NOjOza0iDQ7-w6orBgyHWQCNcBGAsYHQ/s1600/kotlet_schabowy.jpg",
+    "category": "Carnes",
+    "country": "Polonia",
+    "difficulty": "Fácil",
+    "prep_time": "15 min",
+    "cook_time": "15 min",
+    "servings": "4 porciones",
+    "calories": "460 kcal",
+    "story": "Documentado por primera vez en los recetarios decimonónicos de Lucyna Ćwierczakiewiczowa y derivado de las influencias austriacas del Wiener Schnitzel en la Galitzia polaca, el kotlet schabowy se consolidó a lo largo del siglo XX como el plato principal indiscutido del almuerzo dominical en todo el territorio polaco. Su identidad reside en la utilización del lomo de cerdo tierno frito en manteca o grasa de cerdo (smalec) para lograr una costra dorada inconfundible.",
+    "ingredients": [
+      "4 chuletas de lomo de cerdo deshuesado (schab) de 150 g cada una",
+      "2 huevos medianos batidos con 1 cucharada de leche",
+      "1/2 taza de harina de trigo",
+      "1 taza de pan rallado fino",
+      "2 dientes de ajo rallados",
+      "1/2 taza de grasa de cerdo (smalec) o manteca clarificada para freír",
+      "Sal fina y pimienta negra molida al gusto",
+      "Gajos de limón para servir",
+      "Papas hervidas con manteca y eneldo (młode ziemniaki) para acompañar"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Chuletas de Cerdo",
+        "ingredients": [
+          "4 chuletas de lomo de cerdo deshuesado de 150 g cada una",
+          "2 dientes de ajo rallados",
+          "Sal fina y pimienta negra molida al gusto"
+        ]
+      },
+      {
+        "name": "Rebozado Tradicional y Fritura",
+        "ingredients": [
+          "1/2 taza de harina de trigo",
+          "2 huevos medianos batidos con 1 cucharada de leche",
+          "1 taza de pan rallado fino",
+          "1/2 taza de grasa de cerdo (smalec) o manteca clarificada para freír"
+        ]
+      },
+      {
+        "name": "Guarnición de Domingo",
+        "ingredients": [
+          "Gajos de limón para servir",
+          "Papas hervidas con manteca y eneldo para acompañar"
+        ]
+      }
+    ],
+    "steps": [
+      "Colocá las chuletas de cerdo entre dos hojas de film transparente y machacalas con el mazo de carne desde el centro hacia afuera hasta dejarlas de un grosor parejo de unos 5 a 6 mm.",
+      "Frotá cada milanesa con el ajo rallado, sal fina y abundante pimienta negra molida de ambos lados.",
+      "Disponé tres platos hondos: el primero con la harina, el segundo con los huevos batidos con la leche, y el tercero con el pan rallado fino.",
+      "Pasá cada filete por la harina sacudiendo el exceso, luego por el huevo cubriendo toda la superficie, y finalmente por el pan rallado, presionando suavemente con la palma de la mano para que el apanado quede parejo y adherido sin apelmazar.",
+      "Calentá abundante grasa de cerdo (smalec) o manteca clarificada en una sartén grande de hierro a fuego medio-alto (175°C).",
+      "Freí las milanesas de a dos por tanda durante 3 a 4 minutos por lado hasta que la costra esté inflada, crocante y de un dorado ámbar profundo. Escurrí de inmediato sobre papel absorbente.",
+      "Serví al instante acompañadas con cuartos de limón fresco, papas hervidas bañadas en manteca con eneldo picado y una clásica ensalada mizeria de pepinos."
+    ],
+    "step_groups": [
+      {
+        "name": "Espalmado y Sazonado",
+        "steps": [
+          "Colocá las chuletas de cerdo entre dos hojas de film transparente y machacalas con el mazo de carne desde el centro hacia afuera hasta dejarlas de un grosor parejo de unos 5 a 6 mm.",
+          "Frotá cada milanesa con el ajo rallado, sal fina y abundante pimienta negra molida de ambos lados."
+        ]
+      },
+      {
+        "name": "Triple Rebozado y Fritura en Smalec",
+        "steps": [
+          "Disponé tres platos hondos: el primero con la harina, el segundo con los huevos batidos con la leche, y el tercero con el pan rallado fino.",
+          "Pasá cada filete por la harina sacudiendo el exceso, luego por el huevo cubriendo toda la superficie, y finalmente por el pan rallado, presionando suavemente con la palma de la mano para que el apanado quede parejo y adherido sin apelmazar.",
+          "Calentá abundante grasa de cerdo (smalec) o manteca clarificada en una sartén grande de hierro a fuego medio-alto (175°C).",
+          "Freí las milanesas de a dos por tanda durante 3 a 4 minutos por lado hasta que la costra esté inflada, crocante y de un dorado ámbar profundo. Escurrí de inmediato sobre papel absorbente."
+        ]
+      },
+      {
+        "name": "Servicio Tradicional",
+        "steps": [
+          "Serví al instante acompañadas con cuartos de limón fresco, papas hervidas bañadas en manteca con eneldo picado y una clásica ensalada mizeria de pepinos."
+        ]
+      }
+    ],
+    "notes": "Freír en smalec (grasa pura de cerdo) o manteca clarificada en lugar de aceite vegetal es el secreto del sabor genuino del schabowy polaco: aporta una nota tostada y permite que la costra se infle ligeramente separándose de la carne como en los mejores bistrós de Varsovia.",
+    "tags": [
+      "kotlet schabowy",
+      "milanesa de cerdo",
+      "cocina polaca",
+      "schnitzel polaco",
+      "almuerzo de domingo",
+      "smalec",
+      "comida de polonia",
+      "platos de carne"
+    ]
+  },
+  {
+    "id": 774,
+    "title": "Zapiekanka (Polonia)",
+    "image": "https://lh3.googleusercontent.com/-8lMdXIsVZvM/av9Ju6gUK_I/AAAAAAAQC_4/AgAwT42VehAXpKYuct3mcILpqJN7aSWvgCNcBGAsYHQ/s1600/zapiekanka.jpg",
+    "category": "Hamburguesas",
+    "country": "Polonia",
+    "difficulty": "Fácil",
+    "prep_time": "15 min",
+    "cook_time": "12 min",
+    "servings": "4 porciones",
+    "calories": "380 kcal",
+    "story": "Nacida en la década de 1970 durante el período socialista de la República Popular de Polonia y consagrada como el ícono urbano por excelencia en las ventanas del histórico mercado Okrąglak de la plaza Nowy en Cracovia, la zapiekanka es la reina indiscutida del street food polaco. Surgió como una respuesta creativa y económica al racionamiento, combinando medias baguettes tostadas con salteado de champiñones y queso Gouda derretido.",
+    "ingredients": [
+      "2 baguettes crujientes cortadas a la mitad a lo largo (4 piezas de 30 cm)",
+      "400 g de champiñones frescos rallados o picados finamente",
+      "1 cebolla grande picada en cubitos bien pequeños",
+      "2 cucharadas de manteca",
+      "200 g de queso rallado fundente (tipo Gouda, Edam o queso polaco Morski)",
+      "Kétchup polaco (ligeramente especiado y menos dulce) para el zigzag final",
+      "2 cucharadas de ciboulette fresco o cebollita de verdeo picada fina",
+      "Sal marina y pimienta negra recién molida al gusto"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Base de Baguette y Relleno de Hongos",
+        "ingredients": [
+          "2 baguettes crujientes cortadas a la mitad a lo largo",
+          "400 g de champiñones frescos rallados o picados finamente",
+          "1 cebolla grande picada en cubitos bien pequeños",
+          "2 cucharadas de manteca",
+          "Sal marina y pimienta negra recién molida al gusto"
+        ]
+      },
+      {
+        "name": "Gratinado y Toppings de Street Food",
+        "ingredients": [
+          "200 g de queso rallado fundente tipo Gouda o Morski",
+          "Kétchup polaco para el zigzag final",
+          "2 cucharadas de ciboulette fresco picado"
+        ]
+      }
+    ],
+    "steps": [
+      "En una sartén grande a fuego medio, derretí la manteca y rehogá la cebolla picada durante 4 a 5 minutos hasta que esté transparente. Incorporá los champiñones picados y salteá durante 7 a 8 minutos hasta que hayan evaporado toda su agua y comiencen a dorarse ligeramente. Condimentá con sal y pimienta negra. Retirá del fuego.",
+      "Disponé las cuatro mitades de baguette sobre una placa para horno forrada con papel manteca.",
+      "Distribuí el salteado de champiñones de manera uniforme a lo largo de cada mitad de pan, cubriendo toda la superficie.",
+      "Cubrí generosamente con el queso rallado Gouda o Morski, asegurando que cubra los hongos hasta los bordes del pan.",
+      "Llevá al horno precalentado a 210°C (con función grill o calor arriba y abajo) durante 8 a 10 minutos, hasta que el queso esté completamente derretido, burbujeante y ligeramente dorado, y la base del pan esté ultra crujiente.",
+      "Retirá del horno, trazá inmediatamente el icónico zigzag continuo de kétchup a lo largo de toda la zapiekanka y espolvoreá con el ciboulette fresco picado. Serví caliente al paso."
+    ],
+    "step_groups": [
+      {
+        "name": "Salteado Seco de Champiñones",
+        "steps": [
+          "En una sartén grande a fuego medio, derretí la manteca y rehogá la cebolla picada durante 4 a 5 minutos hasta que esté transparente. Incorporá los champiñones picados y salteá durante 7 a 8 minutos hasta que hayan evaporado toda su agua y comiencen a dorarse ligeramente. Condimentá con sal y pimienta negra. Retirá del fuego."
+        ]
+      },
+      {
+        "name": "Armado y Gratinado al Horno",
+        "steps": [
+          "Disponé las cuatro mitades de baguette sobre una placa para horno forrada con papel manteca.",
+          "Distribuí el salteado de champiñones de manera uniforme a lo largo de cada mitad de pan, cubriendo toda la superficie.",
+          "Cubrí generosamente con el queso rallado Gouda o Morski, asegurando que cubra los hongos hasta los bordes del pan.",
+          "Llevá al horno precalentado a 210°C (con función grill o calor arriba y abajo) durante 8 a 10 minutos, hasta que el queso esté completamente derretido, burbujeante y ligeramente dorado, y la base del pan esté ultra crujiente."
+        ]
+      },
+      {
+        "name": "Zigzag de Kétchup y Presentación",
+        "steps": [
+          "Retirá del horno, trazá inmediatamente el icónico zigzag continuo de kétchup a lo largo de toda la zapiekanka y espolvoreá con el ciboulette fresco picado. Serví caliente al paso."
+        ]
+      }
+    ],
+    "notes": "El éxito de una auténtica zapiekanka de Cracovia depende de evaporar por completo el agua de los champiñones antes de armar el pan; de lo contrario, la miga se humedece y pierde el crujido exterior de baguette tostada que la caracteriza.",
+    "tags": [
+      "zapiekanka",
+      "street food polaco",
+      "comida de cracovia",
+      "baguette gratinada",
+      "pizza polaca",
+      "champiñones con queso",
+      "comida rapida polaca",
+      "recetas de polonia"
+    ]
   }
 ]
