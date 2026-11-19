@@ -81948,30 +81948,37 @@
     "calories": "160 kcal",
     "story": "Pilar indiscutible de la identidad culinaria polaca documentado desde el siglo XVI, el barszcz czysty (borsch rojo claro y límpido) es el primer plato obligatorio de la Wigilia, la cena tradicional de Nochebuena. A diferencia de las versiones densas y campesinas de otros pueblos eslavos, el caldo ceremonial polaco se filtra hasta quedar completamente traslúcido y brillante como un rubí líquido, servido tradicionalmente con pequeñas empanadillas rellenas de setas silvestres llamadas uszka.",
     "ingredients": [
-      "1 kg de remolachas frescas peladas y cortadas en rodajas",
-      "1 zanahoria grande pelada y cortada en trozos",
+      "1 kg de remolachas frescas peladas y en rodajas",
+      "1 zanahoria grande pelada y en trozos",
       "1 raíz de perejil o chirivía en trozos",
-      "1 puerro (la parte blanca y verde claro)",
+      "1 puerro (parte blanca y verde claro)",
       "1/4 de bulbo de apio",
       "1 manzana ácida cortada en cuartos con piel",
       "4 dientes de ajo aplastados con su piel",
       "2 hojas de laurel",
       "4 bayas de pimienta de Jamaica (allspice)",
       "1 cucharada de mejorana seca",
-      "3 cucharadas de vinagre de manzana o jugo de limón (o zakwas fermentado)",
+      "3 cucharadas de vinagre de manzana o zakwas fermentado",
       "1 cucharada de azúcar",
       "1,5 litros de agua o caldo vegetal suave",
       "Sal marina y pimienta negra al gusto",
-      "Uszka (pequeños ravioles polacos de hongos silvestres) para acompañar"
+      "250 g de harina de trigo 0000",
+      "1 pizca de sal fina",
+      "120 ml de agua caliente",
+      "1 cucharada de manteca o aceite neutro",
+      "40 g de hongos silvestres secos (boletus o porcini)",
+      "1 cebolla mediana picada en brunoise diminuta",
+      "2 cucharadas de manteca",
+      "1 cucharada de pan rallado fino"
     ],
     "ingredient_groups": [
       {
         "name": "Hortalizas de Fondo y Especias",
         "ingredients": [
-          "1 kg de remolachas frescas peladas y cortadas en rodajas",
-          "1 zanahoria grande pelada y cortada en trozos",
+          "1 kg de remolachas frescas peladas y en rodajas",
+          "1 zanahoria grande pelada y en trozos",
           "1 raíz de perejil o chirivía en trozos",
-          "1 puerro (la parte blanca y verde claro)",
+          "1 puerro (parte blanca y verde claro)",
           "1/4 de bulbo de apio",
           "1 manzana ácida cortada en cuartos con piel",
           "4 dientes de ajo aplastados con su piel",
@@ -81984,15 +81991,28 @@
         "name": "Aromas, Acidez y Equilibrio",
         "ingredients": [
           "1 cucharada de mejorana seca",
-          "3 cucharadas de vinagre de manzana o jugo de limón (o zakwas fermentado)",
+          "3 cucharadas de vinagre de manzana o zakwas fermentado",
           "1 cucharada de azúcar",
           "Sal marina y pimienta negra al gusto"
         ]
       },
       {
-        "name": "Guarnición Tradicional",
+        "name": "Masa Casera para los Uszka",
         "ingredients": [
-          "Uszka (pequeños ravioles polacos de hongos silvestres) para acompañar"
+          "250 g de harina de trigo 0000",
+          "1 pizca de sal fina",
+          "120 ml de agua caliente",
+          "1 cucharada de manteca o aceite neutro"
+        ]
+      },
+      {
+        "name": "Relleno Tradicional de Hongos",
+        "ingredients": [
+          "40 g de hongos silvestres secos (boletus o porcini)",
+          "1 cebolla mediana picada en brunoise diminuta",
+          "2 cucharadas de manteca",
+          "1 cucharada de pan rallado fino",
+          "Sal fina y pimienta negra recién molida"
         ]
       }
     ],
@@ -82000,10 +82020,11 @@
       "En una olla grande, colocá las remolachas, la zanahoria, la raíz de perejil, el puerro, el apio y la manzana.",
       "Agregá el agua o caldo vegetal, el laurel, la pimienta de Jamaica y los ajos aplastados. Llevá a ebullición suave a fuego medio.",
       "Apenas rompa el primer hervor, reducí el fuego al mínimo absoluto. Tapá la olla y cociná a fuego lento durante 45 minutos sin dejar que hierva a borbotones, para no opacar el caldo.",
-      "Agregá el vinagre de manzana (o zakwas) y el azúcar: el medio ácido fijará el color rojo rubí resplandeciente al instante. Sumá la mejorana seca frotándola con las palmas de las manos.",
-      "Cociná a fuego muy bajo durante 15 minutos más. Retirá del fuego y dejá reposar durante 20 minutos para que los aromas se asienten.",
-      "Colá el caldo con un colador de malla muy fina (o lienzo quesero) presionando suavemente las verduras sin romperlas para extraer todo el extracto sin enturbiar el líquido.",
-      "Rectificá con sal marina y pimienta negra. Serví bien caliente en tazas de caldo tradicionales o en platos hondos junto a una porción de uszka cocidos."
+      "Agregá el vinagre de manzana (o zakwas) y el azúcar: el medio ácido fijará el color rojo rubí resplandeciente al instante. Sumá la mejorana seca frotándola con las palmas de las manos. Cociná a fuego muy bajo 15 minutos más y colá el caldo con colador de malla muy fina.",
+      "Para los uszka: hidratá los hongos secos en agua caliente durante 30 minutos, escurrilos y picalos fino. En una sartén con manteca, dorá la cebolla picada, sumá los hongos y cociná 5 minutos. Retirá del fuego, integrá el pan rallado, salpimentá y dejá enfriar.",
+      "Sobre la mesada, formá una corona con la harina y la sal. Verté el agua caliente y la manteca en el centro. Amasá durante 8 a 10 minutos hasta obtener un bollo suave y elástico. Dejá reposar tapado 20 minutos.",
+      "Estirá la masa bien fina (1,5 mm) y cortá cuadrados de 4x4 cm. Disponé media cucharadita de relleno en cada uno, doblá en triángulo sellando los bordes y uní las dos puntas de la base envolviendo el dedo para formar las clásicas orejitas.",
+      "Herví los uszka en agua con sal durante 2 a 3 minutos desde que suben a la superficie. Escurrí con espumadera, colocalos en cuencos hondos y verté por encima el caldo rubí humeante."
     ],
     "step_groups": [
       {
@@ -82019,8 +82040,21 @@
         "steps": [
           "Agregá el vinagre de manzana (o zakwas) y el azúcar: el medio ácido fijará el color rojo rubí resplandeciente al instante. Sumá la mejorana seca frotándola con las palmas de las manos.",
           "Cociná a fuego muy bajo durante 15 minutos más. Retirá del fuego y dejá reposar durante 20 minutos para que los aromas se asienten.",
-          "Colá el caldo con un colador de malla muy fina (o lienzo quesero) presionando suavemente las verduras sin romperlas para extraer todo el extracto sin enturbiar el líquido.",
-          "Rectificá con sal marina y pimienta negra. Serví bien caliente en tazas de caldo tradicionales o en platos hondos junto a una porción de uszka cocidos."
+          "Colá el caldo con un colador de malla muy fina (o lienzo quesero) presionando suavemente las verduras sin romperlas para extraer todo el extracto sin enturbiar el líquido. Rectificá con sal marina y pimienta negra."
+        ]
+      },
+      {
+        "name": "Relleno de Hongos y Masa Casera",
+        "steps": [
+          "Hidratá los hongos secos en agua caliente durante 30 minutos, escurrilos y picalos fino a cuchillo. En una sartén con manteca, dorá la cebolla picada, sumá los hongos y cociná 5 minutos. Retirá del fuego, integrá el pan rallado, salpimentá y dejá enfriar.",
+          "Sobre la mesada, formá una corona con la harina y la sal. Verté el agua caliente y la manteca en el centro. Amasá durante 8 a 10 minutos hasta obtener un bollo suave y elástico. Dejá reposar tapado con paño húmedo durante 20 minutos."
+        ]
+      },
+      {
+        "name": "Armado de los Uszka, Hervor y Emplatado",
+        "steps": [
+          "Estirá la masa bien fina (1,5 mm) y cortá cuadrados de 4x4 cm. Disponé media cucharadita de relleno en cada uno, doblá en triángulo sellando los bordes y uní las dos puntas de la base envolviendo el dedo para formar las clásicas orejitas.",
+          "Herví los uszka en abundante agua con sal durante 2 a 3 minutos desde que suben a la superficie. Escurrí con espumadera, colocalos directamente en los platos hondos y verté por encima el caldo rubí humeante."
         ]
       }
     ],
@@ -82035,6 +82069,117 @@
       "uszka",
       "caldo rubi",
       "receta tradicional polonia"
+    ]
+  },
+  {
+    "id": 767,
+    "title": "Uszka con Hongos (Polonia)",
+    "image": "https://lh3.googleusercontent.com/-CqyjuYhMD10/av8vog3oh3I/AAAAAAAQC-s/gZrLVaMPRRcsI2ID69sTO7ksWgE5sP6-wCNcBGAsYHQ/s1600/uszka_con_hongos.jpg",
+    "category": "Pastas",
+    "country": "Polonia",
+    "difficulty": "Media",
+    "prep_time": "35 min",
+    "cook_time": "20 min",
+    "servings": "4 porciones",
+    "calories": "380 kcal",
+    "story": "Nacidos en la gastronomía medieval polaca y extendidos por toda Europa Central como la pasta ceremonial predilecta de las fiestas de invierno, los uszka (cuyo nombre en polaco significa literalmente 'pequeñas orejitas') son el emblema indiscutido de la Nochebuena (Wigilia). Respetando la abstinencia ritual de carne previa a la Navidad, se rellenan exclusivamente con hongos silvestres del bosque secados durante el otoño (borowiki o boletus) y cebolla pochada en manteca. Fuera del caldo tradicional, se disfrutan ampliamente como plato principal salteados con manteca dorada, cebolla caramelizada y eneldo fresco.",
+    "ingredients": [
+      "300 g de harina de trigo 0000",
+      "1 pizca de sal fina",
+      "150 ml de agua caliente (casi a punto de ebullición)",
+      "1 cucharada de manteca blanda o aceite neutro",
+      "1 yema de huevo",
+      "60 g de hongos silvestres secos (boletus edulis o porcini)",
+      "150 g de champiñones frescos picados finamente",
+      "2 cebollas amarillas medianas en cubitos diminutos",
+      "3 cucharadas de manteca",
+      "2 cucharadas de pan rallado fino",
+      "Sal fina y pimienta negra recién molida",
+      "50 g de manteca con sal (para el salteado final)",
+      "1 cebolla cortada en juliana fina bien dorada",
+      "2 cucharadas de eneldo fresco picado"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Masa Casera Elástica",
+        "ingredients": [
+          "300 g de harina de trigo 0000",
+          "1 pizca de sal fina",
+          "150 ml de agua caliente (casi a punto de ebullición)",
+          "1 cucharada de manteca blanda o aceite neutro",
+          "1 yema de huevo"
+        ]
+      },
+      {
+        "name": "Relleno de Hongos Silvestres",
+        "ingredients": [
+          "60 g de hongos silvestres secos (boletus edulis o porcini)",
+          "150 g de champiñones frescos picados finamente",
+          "2 cebollas amarillas medianas en cubitos diminutos",
+          "3 cucharadas de manteca",
+          "2 cucharadas de pan rallado fino",
+          "Sal fina y pimienta negra recién molida"
+        ]
+      },
+      {
+        "name": "Salteado Tradicional y Eneldo",
+        "ingredients": [
+          "50 g de manteca con sal",
+          "1 cebolla cortada en juliana fina bien dorada",
+          "2 cucharadas de eneldo fresco picado"
+        ]
+      }
+    ],
+    "steps": [
+      "Colocá los hongos secos en un recipiente con agua caliente durante 30 minutos hasta que estén tiernos y carnosos. Escurrí bien presionando con las manos (colá el líquido para caldos) y picalos muy fino a cuchillo junto con los champiñones frescos.",
+      "En una sartén a fuego medio, derretí las 3 cucharadas de manteca y rehogá las dos cebollas picadas hasta que estén transparentes y tiernas sin quemarse. Sumá todos los hongos picados y salteá durante 6 a 8 minutos hasta evaporar los jugos. Retirá del fuego, integrá el pan rallado para absorber la humedad, salpimentá generosamente y dejá enfriar.",
+      "Sobre la mesada limpia, tamizá la harina con la sal y formá un volcán amplio. En el centro volcá la yema, la cucharada de manteca y el agua caliente de a poco. Integrá con un tenedor y luego amasá con las manos durante 8 a 10 minutos hasta lograr un bollo sedoso, tierno y muy maleable. Cubrí con papel film o paño húmedo y dejá reposar 20 minutos.",
+      "Dividí la masa en dos partes. Estirá sobre la mesada apenas enharinada con palote fino hasta alcanzar 1,5 mm de espesor (debe verse la sombra de la mano debajo sin romperse). Cortá cuadrados de 4x4 cm con cuchillo afilado o ruedita de pasta.",
+      "Disponé media cucharadita de relleno frío en el centro de cada cuadrado. Plegá la masa en diagonal formando un triángulo y presioná con firmeza los tres bordes para expulsar el aire y sellar. Luego, tomá las dos puntas de la base del triángulo, doblalas hacia abajo envolviendo tu dedo índice y presioná una sobre otra para formar la característica 'orejita' (uszko).",
+      "Herví abundante agua con sal en una olla grande. Echá los uszka en tandas para no bajar la temperatura y cocinalos a hervor suave durante 2 a 3 minutos a partir del momento en que suben a la superficie. Retiralos con espumadera hacia una fuente templada.",
+      "En una sartén amplia, derretí los 50 g de manteca a fuego medio-alto y dorá la cebolla en juliana hasta que esté caramelizada y crujiente. Volcá los uszka recién escurridos en la sartén, salteá durante 1 minuto para que se impregnen de la manteca dorada, espolvoreá con el eneldo fresco picado y serví de inmediato."
+    ],
+    "step_groups": [
+      {
+        "name": "Hidratación y Salteado del Relleno de Hongos",
+        "steps": [
+          "Colocá los hongos secos en un recipiente con agua caliente durante 30 minutos hasta que estén tiernos y carnosos. Escurrí bien presionando con las manos (colá el líquido para caldos) y picalos muy fino a cuchillo junto con los champiñones frescos.",
+          "En una sartén a fuego medio, derretí las 3 cucharadas de manteca y rehogá las dos cebollas picadas hasta que estén transparentes y tiernas sin quemarse. Sumá todos los hongos picados y salteá durante 6 a 8 minutos hasta evaporar los jugos. Retirá del fuego, integrá el pan rallado para absorber la humedad, salpimentá generosamente y dejá enfriar."
+        ]
+      },
+      {
+        "name": "Amasado con Agua Caliente y Estirado Fino",
+        "steps": [
+          "Sobre la mesada limpia, tamizá la harina con la sal y formá un volcán amplio. En el centro volcá la yema, la cucharada de manteca y el agua caliente de a poco. Integrá con un tenedor y luego amasá con las manos durante 8 a 10 minutos hasta lograr un bollo sedoso, tierno y muy maleable. Cubrí con papel film o paño húmedo y dejá reposar 20 minutos.",
+          "Dividí la masa en dos partes. Estirá sobre la mesada apenas enharinada con palote fino hasta alcanzar 1,5 mm de espesor (debe verse la sombra de la mano debajo sin romperse). Cortá cuadrados de 4x4 cm con cuchillo afilado o ruedita de pasta."
+        ]
+      },
+      {
+        "name": "Plegado y Sellado de las Orejitas (Uszka)",
+        "steps": [
+          "Disponé media cucharadita de relleno frío en el centro de cada cuadrado. Plegá la masa en diagonal formando un triángulo y presioná con firmeza los tres bordes para expulsar el aire y sellar. Luego, tomá las dos puntas de la base del triángulo, doblalas hacia abajo envolviendo tu dedo índice y presioná una sobre otra para formar la característica 'orejita' (uszko)."
+        ]
+      },
+      {
+        "name": "Hervor y Salteado Dorado en Sartén",
+        "steps": [
+          "Herví abundante agua con sal en una olla grande. Echá los uszka en tandas para no bajar la temperatura y cocinalos a hervor suave durante 2 a 3 minutos a partir del momento en que suben a la superficie. Retiralos con espumadera hacia una fuente templada.",
+          "En una sartén amplia, derretí los 50 g de manteca a fuego medio-alto y dorá la cebolla en juliana hasta que esté caramelizada y crujiente. Volcá los uszka recién escurridos en la sartén, salteá durante 1 minuto para que se impregnen de la manteca dorada, espolvoreá con el eneldo fresco picado y serví de inmediato."
+        ]
+      }
+    ],
+    "notes": "El agua caliente (casi a punto de ebullición) es el secreto secular de las abuelas polacas para amasar los uszka: relaja instantáneamente las cadenas de gluten, permitiendo estirar la lámina tan delgada como papel sin que se encoja al cortar. Presioná con firmeza al sellar las dos puntas para que no penetre agua durante la cocción.",
+    "tags": [
+      "uszka",
+      "uszka con hongos",
+      "uszka z grzybami",
+      "pasta polaca",
+      "ravioles polacos",
+      "comida polaca",
+      "hongos silvestres",
+      "porcini",
+      "pastas caseras",
+      "receta de uszka"
     ]
   }
 ]
