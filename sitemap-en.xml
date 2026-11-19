@@ -4651,7 +4651,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://umamicraft.vercel.app/receta/sandwich-de-lomo-argentina?lang=en</loc>
+    <loc>https://umamicraft.vercel.app/receta/sandwich-de-lomo-de-autor-argentina?lang=en</loc>
     <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -4676,6 +4676,18 @@
   </url>
   <url>
     <loc>https://umamicraft.vercel.app/receta/katsu-de-kanikama-sando-japon?lang=en</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://umamicraft.vercel.app/receta/kani-salad-japon?lang=en</loc>
+    <lastmod>2026-11-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://umamicraft.vercel.app/receta/dip-de-kanikama-argentina?lang=en</loc>
     <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

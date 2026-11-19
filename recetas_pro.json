@@ -82876,7 +82876,7 @@
   },
   {
     "id": 775,
-    "title": "Sándwich de Lomo (Argentina)",
+    "title": "Sándwich de Lomo de Autor (Argentina)",
     "image": "https://lh3.googleusercontent.com/-zPpBB821J44/av9YYr6YSZI/AAAAAAAQDAU/lxpFK_EcT2Q-s9kzyUMH6yUwlOCGFl5dQCNcBGAsYHQ/s1600/sandwich_de_lomo.jpg",
     "category": "Sándwiches / Burgers",
     "country": "Argentina",
@@ -82885,7 +82885,7 @@
     "cook_time": "10 min",
     "servings": "4 porciones",
     "calories": "520 kcal",
-    "story": "Nacido en las clásicas confiterías, carritos costaneros y bodegones del Río de la Plata a mediados del siglo XX, el sándwich de lomo (o lomito) se consagró como el rey indiscutido de la sanguchería argentina. Su prestigio internacional quedó sellado al posicionarse en el podio mundial de TasteAtlas como uno de los tres mejores sándwiches del planeta, rindiendo culto a la terneza inigualable del corte vacuno más noble.",
+    "story": "Consagrado en el podio mundial de TasteAtlas como uno de los tres mejores sándwiches del planeta, el lomito es el rey indiscutido de la sanguchería rioplatense. En mi cocina desarrollé esta versión de autor: elijo panes miñones crujientes de panadería y combino la terneza inigualable del lomo a la plancha con una mayonesa casera emulsionada con semillas de sésamo, uniendo el corazón del clásico argentino con mi devoción por la cocina oriental.",
     "ingredients": [
       "4 panes miñones frescos y crujientes",
       "600 g de lomo vacuno cortado en bifes finos y parejos",
@@ -82948,8 +82948,11 @@
         ]
       }
     ],
-    "notes": "El secreto de este sándwich es la alta temperatura de la plancha: el lomo no debe hervirse ni sobrecocinarse jamás; una cocción breve de 60 segundos por cara sella los jugos interiores. El pan miñón tradicional de corteza fina y miga etérea es el vehículo ideal porque sostiene la carne sin competir con su terneza.",
+    "notes": "Esta es mi versión personal y de autor definitiva: el gran secreto reside en la temperatura viva de la plancha, sellando los bifes finos apenas 60 segundos por lado para que no pierdan ni una gota de su jugo rosado. Los miñones de corteza fina y miga etérea son el vehículo perfecto para sostener la cremosidad y el perfume crocante de las semillas de sésamo sin competir con la carne.",
     "tags": [
+      "receta de autor",
+      "versión de autor",
+      "lomito de autor",
       "sándwich de lomo",
       "lomito",
       "pan miñón",
@@ -83302,6 +83305,184 @@
       "sándwich oriental",
       "receta japonesa fácil",
       "repollo crocante"
+    ]
+  },
+  {
+    "id": 780,
+    "title": "Kani Salad (Japón)",
+    "image": "https://lh3.googleusercontent.com/-DgE_RHV8qv0/av9bWB_GBUI/AAAAAAAQDBM/OdCYyJ8sZGYCtUBf7fujuPqD4ayOtYdAACNcBGAsYHQ/s1600/kani_salad.jpg",
+    "category": "Ensaladas",
+    "country": "Japón",
+    "difficulty": "Baja",
+    "prep_time": "15 min",
+    "cook_time": "3 min",
+    "servings": "2 porciones",
+    "calories": "280 kcal",
+    "story": "Nacida en la década de 1980 en los sushibares y locales de comida informal de Tokio y las grandes capitales para satisfacer la demanda de platos frescos y ligeros, la Kani Salad (ensalada de cangrejo) se convirtió en una de las entradas de mar más populares del mundo. Su combinación de kanikama deshilachado con pepino en juliana crocante y mayonesa suave rinde homenaje al equilibrio de texturas y contrastes de la cocina japonesa contemporánea.",
+    "ingredients": [
+      "250 g de kanikama (palitos de surimi) descongelados",
+      "1 pepino mediano firme (preferentemente japonés o tipo inglés)",
+      "1 palta madura cortada en abanico",
+      "1 tallo de cebolla de verdeo (parte verde) cortada en tiras finas al sesgo",
+      "3 cucharadas colmadas de mayonesa japonesa Kewpie (o mayonesa casera suave)",
+      "1 cucharadita de salsa de soja baja en sodio",
+      "1/2 cucharadita de aceite de sésamo tostado",
+      "1 cucharadita de jugo de limón o vinagre de arroz",
+      "1 cucharadita de salsa sriracha (opcional, para un toque picante suave)",
+      "2 cucharadas de panko tostado en sartén",
+      "1 cucharada de semillas de sésamo negro tostadas",
+      "Sal fina al gusto"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Base de la Ensalada",
+        "ingredients": [
+          "250 g de kanikama deshilachado en hebras finas",
+          "1 pepino cortado en juliana finísima (sin semillas)",
+          "1 palta madura cortada en abanico",
+          "1 tallo de cebolla de verdeo en tiras finas"
+        ]
+      },
+      {
+        "name": "Aderezo Japonés y Crunch",
+        "ingredients": [
+          "3 cucharadas de mayonesa japonesa Kewpie",
+          "1 cucharadita de salsa de soja",
+          "1/2 cucharadita de aceite de sésamo tostado",
+          "1 cucharadita de jugo de limón o vinagre de arroz",
+          "1 cucharadita de salsa sriracha (opcional)",
+          "2 cucharadas de panko tostado",
+          "1 cucharada de semillas de sésamo negro tostadas"
+        ]
+      }
+    ],
+    "steps": [
+      "Lavá el pepino, cortalo a la mitad a lo largo, retirá las semillas con una cuchara pequeña y cortalo en juliana finísima como fideos con mandolina o cuchillo bien afilado.",
+      "Espolvoreá el pepino con una pizca de sal en un colador durante 5 minutos para que drene el exceso de agua; luego secalo muy bien con papel absorbente para que la ensalada no quede aguada.",
+      "Deshilachá los bastones de kanikama con los dedos para obtener hebras largas y separadas.",
+      "En una sartén seca a fuego medio, dorá el panko durante 2 minutos revolviendo constantemente hasta que adquiera un color ámbar parejo y crujiente; retirá del fuego.",
+      "En un cuenco pequeño, integrá la mayonesa con la salsa de soja, el aceite de sésamo, el jugo de limón y la sriracha hasta lograr una emulsión suave y sedosa.",
+      "En un bol amplio, mezclá las hebras de kanikama con el pepino escurrido y la mayor parte de la cebolla de verdeo; incorporá el aderezo mezclando delicadamente para que todo quede impregnado.",
+      "Serví en un cuenco amplio o plato hondo, coroná con el abanico de palta fresca, espolvoreá con las semillas de sésamo negro, el resto del verdeo y terminá con una lluvia generosa de panko tostado crujiente justo antes de llevar a la mesa."
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación del Pepino y Kanikama",
+        "steps": [
+          "Lavá el pepino, cortalo a la mitad a lo largo, retirá las semillas con una cuchara pequeña y cortalo en juliana finísima como fideos con mandolina o cuchillo bien afilado.",
+          "Espolvoreá el pepino con una pizca de sal en un colador durante 5 minutos para que drene el exceso de agua; luego secalo muy bien con papel absorbente para que la ensalada no quede aguada.",
+          "Deshilachá los bastones de kanikama con los dedos para obtener hebras largas y separadas."
+        ]
+      },
+      {
+        "name": "Aderezo, Topping Crocante y Emplatado",
+        "steps": [
+          "En una sartén seca a fuego medio, dorá el panko durante 2 minutos revolviendo constantemente hasta que adquiera un color ámbar parejo y crujiente; retirá del fuego.",
+          "En un cuenco pequeño, integrá la mayonesa con la salsa de soja, el aceite de sésamo, el jugo de limón y la sriracha hasta lograr una emulsión suave y sedosa.",
+          "En un bol amplio, mezclá las hebras de kanikama con el pepino escurrido y la mayor parte de la cebolla de verdeo; incorporá el aderezo mezclando delicadamente para que todo quede impregnado.",
+          "Serví en un cuenco amplio o plato hondo, coroná con el abanico de palta fresca, espolvoreá con las semillas de sésamo negro, el resto del verdeo y terminá con una lluvia generosa de panko tostado crujiente justo antes de llevar a la mesa."
+        ]
+      }
+    ],
+    "notes": "Secar meticulosamente las hebras de pepino es el gran secreto de los sushibares para que la mayonesa se adhiera a la perfección sin diluirse. El panko tostado al momento aporta ese crujido fundamental que contrasta con la cremosidad de la palta y la suavidad del kanikama.",
+    "tags": [
+      "kani salad",
+      "ensalada de kanikama",
+      "ensalada japonesa",
+      "sushi salad",
+      "comida oriental",
+      "receta fresca",
+      "sin cocción",
+      "panko crujiente",
+      "palta y sésamo",
+      "ensalada de mar"
+    ]
+  },
+  {
+    "id": 781,
+    "title": "Dip de Kanikama (Argentina)",
+    "image": "https://lh3.googleusercontent.com/-1ZLH7frYsGc/av9bXHNki2I/AAAAAAAQDBU/a_iMczM4Ie4Hu9jwsNVsE2lkypRQ_teFQCNcBGAsYHQ/s1600/dip_de_kanikama.jpg",
+    "category": "Entradas",
+    "country": "Argentina",
+    "difficulty": "Baja",
+    "prep_time": "10 min",
+    "cook_time": "0 min",
+    "servings": "4 porciones",
+    "calories": "240 kcal",
+    "story": "Popularizado en las reuniones familiares, copetines de bodegón y picadas rioplatenses de fines del siglo XX con la llegada masiva del surimi a las rotiserías y fiambrerías de barrio, el dip de kanikama se consolidó como una de las cremas más rendidoras y queridas de la mesa social. Su textura untuosa y equilibrada reemplazó a las pastas industriales de marisco, convirtiéndose en el centro indispensable de cualquier tabla de tostadas y aperitivos.",
+    "ingredients": [
+      "250 g de kanikama (palitos de surimi) descongelados",
+      "200 g de queso crema firme (tipo crema doble o Finlandia)",
+      "2 cucharadas colmadas de mayonesa casera o suave",
+      "1 atado pequeño de ciboulette fresco finamente picado",
+      "1 cucharadita de jugo de limón recién exprimido",
+      "1/2 cucharadita de salsa inglesa (Worcestershire)",
+      "1 cucharada de aceite de oliva virgen extra",
+      "Pimienta negra recién molida abundante",
+      "1 pizca de sal fina",
+      "Para acompañar: grisines crocantes, tostadas finas de pan baguette y nachos de maíz"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Base Cremosa del Dip",
+        "ingredients": [
+          "250 g de kanikama picado muy fino",
+          "200 g de queso crema firme",
+          "2 cucharadas de mayonesa",
+          "1 cucharadita de jugo de limón",
+          "1/2 cucharadita de salsa inglesa",
+          "1 pizca de sal fina y abundante pimienta negra"
+        ]
+      },
+      {
+        "name": "Terminación y Acompañamiento",
+        "ingredients": [
+          "1 atado de ciboulette fresco finamente picado",
+          "1 cucharada de aceite de oliva virgen extra",
+          "Grisines crocantes, tostadas de baguette y nachos de maíz"
+        ]
+      }
+    ],
+    "steps": [
+      "Picá los bastones de kanikama a cuchillo en cubitos diminutos o procesalos con pulsos muy breves para no hacerlos puré; buscamos que se noten los pequeños trocitos rosados y blancos.",
+      "En un bol mediano, batí ligeramente el queso crema con un tenedor para aflojar su consistencia.",
+      "Incorporá la mayonesa, el jugo de limón, la salsa inglesa, una pizca de sal y abundante pimienta negra recién molida.",
+      "Agregá el kanikama picado y las tres cuartas partes del ciboulette fresco picado; mezclá con espátula hasta lograr una pasta homogénea, espesa y bien cremosa.",
+      "Llevá la preparación a la heladera durante al menos 30 minutos para que los sabores maduren y la crema tome cuerpo.",
+      "Al momento de servir, volcá el dip en una cazuela rústica, alisá la superficie dibujando surcos con el lomo de una cuchara, rociá con un hilo fino de aceite de oliva virgen extra y espolvoreá con el resto del ciboulette picado y pimienta negra molida.",
+      "Acomodá la cazuela en el centro de una fuente rodeada de grisines crocantes, rebanaditas de pan baguette tostadas al horno y nachos crujientes."
+    ],
+    "step_groups": [
+      {
+        "name": "Elaboración de la Crema de Kanikama",
+        "steps": [
+          "Picá los bastones de kanikama a cuchillo en cubitos diminutos o procesalos con pulsos muy breves para no hacerlos puré; buscamos que se noten los pequeños trocitos rosados y blancos.",
+          "En un bol mediano, batí ligeramente el queso crema con un tenedor para aflojar su consistencia.",
+          "Incorporá la mayonesa, el jugo de limón, la salsa inglesa, una pizca de sal y abundante pimienta negra recién molida.",
+          "Agregá el kanikama picado y las tres cuartas partes del ciboulette fresco picado; mezclá con espátula hasta lograr una pasta homogénea, espesa y bien cremosa."
+        ]
+      },
+      {
+        "name": "Reposo y Presentación de la Picada",
+        "steps": [
+          "Llevá la preparación a la heladera durante al menos 30 minutos para que los sabores maduren y la crema tome cuerpo.",
+          "Al momento de servir, volcá el dip en una cazuela rústica, alisá la superficie dibujando surcos con el lomo de una cuchara, rociá con un hilo fino de aceite de oliva virgen extra y espolvoreá con el resto del ciboulette picado y pimienta negra molida.",
+          "Acomodá la cazuela en el centro de una fuente rodeada de grisines crocantes, rebanaditas de pan baguette tostadas al horno y nachos crujientes."
+        ]
+      }
+    ],
+    "notes": "Picar el kanikama a cuchillo en lugar de licuarlo marca toda la diferencia: le da textura artesanal y evita que largue agua. El golpe de frío previo al servicio es fundamental para que el queso crema recupere su firmeza ideal para untar con grisines sin romperlos.",
+    "tags": [
+      "dip de kanikama",
+      "pasta de kanikama",
+      "crema untable",
+      "picada argentina",
+      "tapas caseras",
+      "aperitivo fácil",
+      "receta para compartir",
+      "grisines y tostadas",
+      "sin cocción",
+      "entradas frías"
     ]
   }
 ]
