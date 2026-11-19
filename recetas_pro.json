@@ -81221,5 +81221,820 @@
       "pollo frito",
       "comida callejera asiatica"
     ]
+  },
+  {
+    "id": 758,
+    "title": "Risotto de Remolacha y Gorgonzola (Italia)",
+    "image": "https://lh3.googleusercontent.com/-Inz9_Z1OL54/av78mDkeN5I/AAAAAAAQC9M/KIADoVHEiQ8zBNcy_uaoKD50paTDD5rswCNcBGAsYHQ/s1600/risotto_de_remolacha_y_gorgonzola.jpg",
+    "category": "Arroces & Risottos",
+    "country": "Italia",
+    "difficulty": "Media",
+    "prep_time": "20 min",
+    "cook_time": "25 min",
+    "servings": "4 porciones",
+    "calories": "460 kcal",
+    "story": "Nacido en la gastronomía contemporánea del norte de Italia como una reinterpretación cromática del risotto clásico piamontés y lombardo, este plato cobró gran protagonismo en los bistrós de Milán hacia fines del siglo XX. Su impacto visual y armonía gustativa descansan en el contraste entre el dulzor terroso de la remolacha y la potencia picante y mantecosa del queso Gorgonzola con denominación de origen.",
+    "ingredients": [
+      "320 g de arroz Carnaroli o Arborio",
+      "2 remolachas medianas cocidas o asadas",
+      "150 g de queso Gorgonzola dulce (o picante según gusto)",
+      "1 litro de caldo de verduras bien caliente",
+      "1 chalota o 1/2 cebolla blanca picada finamente",
+      "100 ml de vino blanco seco",
+      "50 g de queso Parmigiano Reggiano rallado",
+      "40 g de manteca fría en cubos",
+      "30 g de nueces tostadas picadas gruesas",
+      "2 cucharadas de aceite de oliva virgen extra",
+      "Sal fina y pimienta negra recién molida"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Puré de Remolacha y Base",
+        "ingredients": [
+          "2 remolachas medianas cocidas o asadas",
+          "1 chalota o 1/2 cebolla blanca picada finamente",
+          "2 cucharadas de aceite de oliva virgen extra",
+          "100 ml de vino blanco seco"
+        ]
+      },
+      {
+        "name": "Arroz y Cocción",
+        "ingredients": [
+          "320 g de arroz Carnaroli o Arborio",
+          "1 litro de caldo de verduras bien caliente",
+          "Sal fina y pimienta negra recién molida"
+        ]
+      },
+      {
+        "name": "Mantecatura y Terminación",
+        "ingredients": [
+          "150 g de queso Gorgonzola dulce",
+          "50 g de queso Parmigiano Reggiano rallado",
+          "40 g de manteca fría en cubos",
+          "30 g de nueces tostadas picadas gruesas"
+        ]
+      }
+    ],
+    "steps": [
+      "Procesá las remolachas cocidas con un cucharón de caldo caliente hasta obtener un puré aterciopelado, liso y sin grumos. Reservá al calor.",
+      "En una cacerola amplia o sartén profunda, calentá el aceite de oliva y pochá la chalota picada a fuego suave hasta que quede traslúcida sin tomar color.",
+      "Agregá el arroz y tostalo a fuego medio durante 2 a 3 minutos, revolviendo constantemente hasta que los granos se vuelvan nacarados. Levantá el fondo con el vino blanco y dejá que el alcohol se evapore por completo.",
+      "Comenzá a incorporar el caldo caliente de a un cucharón por vez, revolviendo suavemente para favorecer la liberación de almidón y añadiendo más líquido recién cuando el anterior haya sido absorbido.",
+      "A mitad de cocción (alrededor de los 10 minutos), sumá el puré de remolacha y mezclá bien para teñir el arroz de un color magenta vibrante. Continuá cocinando hasta que el arroz esté al dente (16 a 18 minutos en total).",
+      "Retirá la cacerola del fuego para la mantecatura: agregá la manteca bien fría en cubos y el Parmigiano Reggiano. Batí enérgicamente con cuchara de madera para emulsionar en mantecatura all'onda.",
+      "Serví de inmediato en platos hondos amplios, disponé por encima generosos trozos de queso Gorgonzola para que se fundan con el calor residual del arroz y coroná con las nueces tostadas picadas."
+    ],
+    "step_groups": [
+      {
+        "name": "Puré y Tostado del Grano",
+        "steps": [
+          "Procesá las remolachas cocidas con un cucharón de caldo caliente hasta obtener un puré aterciopelado, liso y sin grumos. Reservá al calor.",
+          "En una cacerola amplia o sartén profunda, calentá el aceite de oliva y pochá la chalota picada a fuego suave hasta que quede traslúcida sin tomar color.",
+          "Agregá el arroz y tostalo a fuego medio durante 2 a 3 minutos, revolviendo constantemente hasta que los granos se vuelvan nacarados. Levantá el fondo con el vino blanco y dejá que el alcohol se evapore por completo."
+        ]
+      },
+      {
+        "name": "Cocción y Fusión de Color",
+        "steps": [
+          "Comenzá a incorporar el caldo caliente de a un cucharón por vez, revolviendo suavemente para favorecer la liberación de almidón y añadiendo más líquido recién cuando el anterior haya sido absorbido.",
+          "A mitad de cocción (alrededor de los 10 minutos), sumá el puré de remolacha y mezclá bien para teñir el arroz de un color magenta vibrante. Continuá cocinando hasta que el arroz esté al dente (16 a 18 minutos en total)."
+        ]
+      },
+      {
+        "name": "Mantecatura y Emplatado",
+        "steps": [
+          "Retirá la cacerola del fuego para la mantecatura: agregá la manteca bien fría en cubos y el Parmigiano Reggiano. Batí enérgicamente con cuchara de madera para emulsionar en mantecatura all'onda.",
+          "Serví de inmediato en platos hondos amplios, disponé por encima generosos trozos de queso Gorgonzola para que se fundan con el calor residual del arroz y coroná con las nueces tostadas picadas."
+        ]
+      }
+    ],
+    "notes": "Para lograr el color rubí más intenso, asá las remolachas enteras con piel envueltas en papel aluminio en lugar de hervirlas; esto concentra los azúcares y evita que pierdan pigmentos en el agua. La manteca debe estar casi congelada al emulsionar para un brillo de restaurante.",
+    "tags": [
+      "risotto de remolacha",
+      "risotto alla barbabietola",
+      "risotto italiano",
+      "gorgonzola",
+      "arroz carnaroli",
+      "cocina italiana",
+      "recetas de remolacha",
+      "plato vegetariano gourmet"
+    ]
+  },
+  {
+    "id": 759,
+    "title": "Tarta Tatin de Remolacha y Queso de Cabra (Francia)",
+    "image": "https://lh3.googleusercontent.com/-leBM4zrkfMs/av78m3jGJDI/AAAAAAAQC9U/U_Gc-HsCQsELFat78SfxX9IuPo6L76dNgCNcBGAsYHQ/s1600/tarta_tatin_de_remolacha_y_queso_de_cabra.jpg",
+    "category": "Pizzas & Tartas",
+    "country": "Francia",
+    "difficulty": "Media",
+    "prep_time": "25 min",
+    "cook_time": "40 min",
+    "servings": "6 porciones",
+    "calories": "390 kcal",
+    "story": "Derivada de la legendaria tarta de manzanas creada por las hermanas Tatin a finales del siglo XIX en el Valle del Loira, la versión salada de remolacha se consolidó en la bistronomía francesa de principios del siglo XXI. Nació para destacar la acidez del vinagre balsámico y la caramelización de las hortalizas de raíz, combinándolas con los reconocidos quesos de cabra curados de la región central gala.",
+    "ingredients": [
+      "1 lámina redonda de masa de hojaldre de manteca",
+      "4 remolachas medianas cocidas y peladas",
+      "150 g de queso de cabra en rulo (chèvre)",
+      "40 g de manteca",
+      "2 cucharadas de azúcar rubia o mascabo",
+      "2 cucharadas de aceto balsámico de Módena",
+      "1 cucharadita de tomillo fresco deshojado",
+      "1 pizca de flor de sal y pimienta negra molida",
+      "Hojas tiernas de rúcula para acompañar"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Relleno y Caramelizado",
+        "ingredients": [
+          "4 remolachas medianas cocidas y peladas",
+          "40 g de manteca",
+          "2 cucharadas de azúcar rubia o mascabo",
+          "2 cucharadas de aceto balsámico de Módena",
+          "1 cucharadita de tomillo fresco deshojado",
+          "1 pizca de flor de sal y pimienta negra molida"
+        ]
+      },
+      {
+        "name": "Base de Hojaldre y Queso",
+        "ingredients": [
+          "1 lámina redonda de masa de hojaldre de manteca",
+          "150 g de queso de cabra en rulo (chèvre)",
+          "Hojas tiernas de rúcula para acompañar"
+        ]
+      }
+    ],
+    "steps": [
+      "Cortá las remolachas en rodajas gruesas y parejas de aproximadamente 1,5 cm de espesor.",
+      "En una sartén apta para horno de 24 cm, derretí la manteca a fuego medio junto con el azúcar rubia y el aceto balsámico hasta que comience a burbujear y caramelizar ligeramente.",
+      "Acomodá las rodajas de remolacha en la sartén cubriendo toda la base en círculos concéntricos apretados. Espolvoreá con el tomillo fresco, sal marina y pimienta. Cociná durante 5 minutos para que absorban el caramelo balsámico y retirá del fuego.",
+      "Disponé rodajas de queso de cabra entre los huecos de las remolachas.",
+      "Cubrí toda la sartén con el disco de hojaldre, doblando los bordes hacia adentro entre las remolachas y el borde interior de la sartén. Pinchá la superficie de la masa con un tenedor para que libere el vapor.",
+      "Llevá al horno precalentado a 200°C durante 25 a 30 minutos hasta que el hojaldre esté inflado, bien dorado y crujiente.",
+      "Retirá del horno, dejá asentar durante 4 a 5 minutos, colocá una fuente o plato llano amplio por encima y dale la vuelta con un movimiento firme y seguro. Serví tibia con unas hojas de rúcula fresca."
+    ],
+    "step_groups": [
+      {
+        "name": "Caramelizado de la Remolacha",
+        "steps": [
+          "Cortá las remolachas en rodajas gruesas y parejas de aproximadamente 1,5 cm de espesor.",
+          "En una sartén apta para horno de 24 cm, derretí la manteca a fuego medio junto con el azúcar rubia y el aceto balsámico hasta que comience a burbujear y caramelizar ligeramente.",
+          "Acomodá las rodajas de remolacha en la sartén cubriendo toda la base en círculos concéntricos apretados. Espolvoreá con el tomillo fresco, sal marina y pimienta. Cociná durante 5 minutos para que absorban el caramelo balsámico y retirá del fuego."
+        ]
+      },
+      {
+        "name": "Armado y Horneado Invertido",
+        "steps": [
+          "Disponé rodajas de queso de cabra entre los huecos de las remolachas.",
+          "Cubrí toda la sartén con el disco de hojaldre, doblando los bordes hacia adentro entre las remolachas y el borde interior de la sartén. Pinchá la superficie de la masa con un tenedor para que libere el vapor.",
+          "Llevá al horno precalentado a 200°C durante 25 a 30 minutos hasta que el hojaldre esté inflado, bien dorado y crujiente."
+        ]
+      },
+      {
+        "name": "Desmoldado y Presentación",
+        "steps": [
+          "Retirá del horno, dejá asentar durante 4 a 5 minutos, colocá una fuente o plato llano amplio por encima y dale la vuelta con un movimiento firme y seguro. Serví tibia con unas hojas de rúcula fresca."
+        ]
+      }
+    ],
+    "notes": "No intentes desmoldar la tarta apenas sale del horno ni esperes a que se enfríe del todo: 4 minutos de reposo permiten que el caramelo tome consistencia para no desbordar pero siga lo bastante fluido para que no quede pegado en el molde.",
+    "tags": [
+      "tarta tatin de remolacha",
+      "tarte tatin salee",
+      "cocina francesa",
+      "queso de cabra",
+      "chevre",
+      "hojaldre",
+      "remolacha caramelizada",
+      "tarta salada gourmet"
+    ]
+  },
+  {
+    "id": 760,
+    "title": "Carpaccio de Remolacha (Italia)",
+    "image": "https://lh3.googleusercontent.com/-QUmZpokk02I/av78oDq24xI/AAAAAAAQC9c/vzXnLwlvD54E_bgdgX1PMJf74sBrKijogCNcBGAsYHQ/s1600/carpaccio_de_remolacha.jpg",
+    "category": "Entradas",
+    "country": "Italia",
+    "difficulty": "Fácil",
+    "prep_time": "15 min",
+    "cook_time": "0 min",
+    "servings": "4 porciones",
+    "calories": "210 kcal",
+    "story": "Inspirado en la técnica del carpaccio de lomo creada en 1950 por Giuseppe Cipriani en el Harry's Bar de Venecia, esta reinterpretación vegetal surgió en los restaurantes de la Toscana hacia la década de 1980. Fue diseñada para celebrar la riqueza hortícola mediterránea, convirtiendo una raíz rústica en una entrada refinada a través de cortes milimétricos y emulsiones cítricas.",
+    "ingredients": [
+      "3 remolachas medianas asadas o cocidas al vapor, frías",
+      "100 g de queso feta desgranado o queso de cabra suave",
+      "40 g de nueces tostadas partidas",
+      "1 taza de hojas de rúcula fresca",
+      "3 cucharadas de aceite de oliva virgen extra",
+      "1 cucharada de jugo de limón recién exprimido",
+      "1 cucharadita de mostaza de Dijon",
+      "1 cucharadita de miel",
+      "Sal en escamas y pimienta negra molida al gusto"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Base de Vegetales y Cortes",
+        "ingredients": [
+          "3 remolachas medianas asadas o cocidas al vapor, frías",
+          "1 taza de hojas de rúcula fresca"
+        ]
+      },
+      {
+        "name": "Emulsión de Dijon y Miel",
+        "ingredients": [
+          "3 cucharadas de aceite de oliva virgen extra",
+          "1 cucharada de jugo de limón recién exprimido",
+          "1 cucharadita de mostaza de Dijon",
+          "1 cucharadita de miel",
+          "Sal en escamas y pimienta negra molida al gusto"
+        ]
+      },
+      {
+        "name": "Toppings Crujientes",
+        "ingredients": [
+          "100 g de queso feta desgranado o queso de cabra suave",
+          "40 g de nueces tostadas partidas"
+        ]
+      }
+    ],
+    "steps": [
+      "Pelá las remolachas frías y cortalas en láminas finísimas y translúcidas utilizando una mandolina de cocina.",
+      "En un cuenco pequeño, batí con batidor de alambre el aceite de oliva, jugo de limón, mostaza de Dijon, miel, sal fina y pimienta hasta emulsionar.",
+      "Disponé las láminas de remolacha sobre un plato plano grande o fuente, superponiéndolas prolijamente en espiral hasta cubrir toda la superficie.",
+      "Pincelá la superficie de las remolachas con dos tercios de la vinagreta emulsionada para que absorban el sabor.",
+      "Distribuí en el centro un puñado generoso de rúcula fresca limpia. Espolvoreá por encima el queso feta desgranado y las nueces tostadas crujientes.",
+      "Rociá con el resto de la vinagreta y terminá con escamas de sal marina y un toque de pimienta molida al instante."
+    ],
+    "step_groups": [
+      {
+        "name": "Corte de Precisión y Emulsión",
+        "steps": [
+          "Pelá las remolachas frías y cortalas en láminas finísimas y translúcidas utilizando una mandolina de cocina.",
+          "En un cuenco pequeño, batí con batidor de alambre el aceite de oliva, jugo de limón, mostaza de Dijon, miel, sal fina y pimienta hasta emulsionar."
+        ]
+      },
+      {
+        "name": "Montaje y Aliño",
+        "steps": [
+          "Disponé las láminas de remolacha sobre un plato plano grande o fuente, superponiéndolas prolijamente en espiral hasta cubrir toda la superficie.",
+          "Pincelá la superficie de las remolachas con dos tercios de la vinagreta emulsionada para que absorban el sabor.",
+          "Distribuí en el centro un puñado generoso de rúcula fresca limpia. Espolvoreá por encima el queso feta desgranado y las nueces tostadas crujientes.",
+          "Rociá con el resto de la vinagreta y terminá con escamas de sal marina y un toque de pimienta molida al instante."
+        ]
+      }
+    ],
+    "notes": "El uso de la mandolina es fundamental para obtener rodajas casi translúcidas; si quedan gruesas, el bocado pierde toda su delicadeza. Podés combinar remolachas rojas clásicas con remolacha amarilla o chioggia (rayada) para un contraste visual soberbio.",
+    "tags": [
+      "carpaccio de remolacha",
+      "carpaccio vegetariano",
+      "cocina italiana",
+      "queso feta",
+      "rucula",
+      "ensalada gourmet",
+      "entrada fresca",
+      "remolacha cruda o asada"
+    ]
+  },
+  {
+    "id": 761,
+    "title": "Tartar de Remolacha Asada (Francia)",
+    "image": "https://lh3.googleusercontent.com/-CDOFgAGgbqc/av78o_3mm_I/AAAAAAAQC9k/96DVdSHZGC0xb2ZNjn8lH33kRSi3j2xLACNcBGAsYHQ/s1600/tartar_de_remolacha_asada.jpg",
+    "category": "Entradas",
+    "country": "Francia",
+    "difficulty": "Media",
+    "prep_time": "25 min",
+    "cook_time": "0 min",
+    "servings": "4 porciones",
+    "calories": "230 kcal",
+    "story": "Surgido en los bistrós parisinos a comienzos de la década de 2010 como parte del movimiento 'bistronomique', el tartar de remolacha trasladó el aderezo tradicional del steak tartare clásico hacia las hortalizas de raíz. La técnica fue adoptada ampliamente en la cocina nórdica moderna por su capacidad de evocar la textura y profundidad umami del corte cárnico a partir de ingredientes de la huerta.",
+    "ingredients": [
+      "3 remolachas medianas asadas enteras con piel, frías",
+      "1 echalote francesa picada en brunoise milimétrica",
+      "1 cucharada de alcaparras en vinagre picadas",
+      "3 pepinillos agridulces tipo cornichon picados fino",
+      "1 cucharada de mostaza a la antigua (en grano)",
+      "1 cucharadita de salsa inglesa (Worcestershire)",
+      "2 cucharadas de aceite de oliva virgen extra",
+      "1 cucharada de ciboulette fresco picado",
+      "4 yemas de huevo frescas (o huevos poché)",
+      "Sal fina, pimienta negra molida y tostadas de pan de masa madre"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Base de Remolacha",
+        "ingredients": [
+          "3 remolachas medianas asadas enteras con piel, frías"
+        ]
+      },
+      {
+        "name": "Condimento Clásico de Tartar",
+        "ingredients": [
+          "1 echalote francesa picada en brunoise milimétrica",
+          "1 cucharada de alcaparras en vinagre picadas",
+          "3 pepinillos agridulces tipo cornichon picados fino",
+          "1 cucharada de mostaza a la antigua (en grano)",
+          "1 cucharadita de salsa inglesa (Worcestershire)",
+          "2 cucharadas de aceite de oliva virgen extra",
+          "1 cucharada de ciboulette fresco picado",
+          "Sal fina y pimienta negra molida"
+        ]
+      },
+      {
+        "name": "Acompañamiento y Coronación",
+        "ingredients": [
+          "4 yemas de huevo frescas (o huevos poché)",
+          "Tostadas de pan de masa madre"
+        ]
+      }
+    ],
+    "steps": [
+      "Pelá las remolachas asadas frías y cortalas con un cuchillo bien afilado en cubitos diminutos de 3 mm (brunoise estricta). Evitá procesarlas para no perder la textura granulada.",
+      "En un bol mediano, colocá la remolacha picada, la echalote, las alcaparras, los cornichons y el ciboulette.",
+      "Incorporá la mostaza a la antigua, salsa inglesa, aceite de oliva, sal y pimienta negra. Mezclá suavemente con una cuchara hasta amalgamar todos los aromas.",
+      "Colocá un aro de emplatar en el centro de cada plato individual y rellenalo presionando con delicadeza la preparación para darle forma cilíndrica firme.",
+      "Retirá el aro hacia arriba con cuidado, formá una pequeña depresión en la cima del tartar y colocá una yema de huevo cruda bien fresca en el centro.",
+      "Espolvoreá con un toque más de ciboulette picado y serví de inmediato acompañado de rebanadas crujientes de pan de masa madre tostado."
+    ],
+    "step_groups": [
+      {
+        "name": "Corte a Cuchillo",
+        "steps": [
+          "Pelá las remolachas asadas frías y cortalas con un cuchillo bien afilado en cubitos diminutos de 3 mm (brunoise estricta). Evitá procesarlas para no perder la textura granulada."
+        ]
+      },
+      {
+        "name": "Aderezo y Emulsión",
+        "steps": [
+          "En un bol mediano, colocá la remolacha picada, la echalote, las alcaparras, los cornichons y el ciboulette.",
+          "Incorporá la mostaza a la antigua, salsa inglesa, aceite de oliva, sal y pimienta negra. Mezclá suavemente con una cuchara hasta amalgamar todos los aromas."
+        ]
+      },
+      {
+        "name": "Moldeado y Presentación",
+        "steps": [
+          "Colocá un aro de emplatar en el centro de cada plato individual y rellenalo presionando con delicadeza la preparación para darle forma cilíndrica firme.",
+          "Retirá el aro hacia arriba con cuidado, formá una pequeña depresión en la cima del tartar y colocá una yema de huevo cruda bien fresca en el centro.",
+          "Espolvoreá con un toque más de ciboulette picado y serví de inmediato acompañado de rebanadas crujientes de pan de masa madre tostado."
+        ]
+      }
+    ],
+    "notes": "El secreto indispensable es cortar siempre a cuchillo y nunca utilizar procesadora; el corte manual conserva la tensión de la fibra de la remolacha y reproduce la textura en boca de un auténtico tartar tradicional.",
+    "tags": [
+      "tartar de remolacha",
+      "tartar vegetal",
+      "steak tartare vegetariano",
+      "cocina francesa",
+      "bistronomie",
+      "entrada gourmet",
+      "remolacha asada",
+      "yema de huevo"
+    ]
+  },
+  {
+    "id": 762,
+    "title": "Hummus de Remolacha (Líbano)",
+    "image": "https://lh3.googleusercontent.com/-I0fzMzp3pqY/av78p93OEZI/AAAAAAAQC9s/Bfi46qBFJgIPuvC5P-OUS0GtrUsLLa-bwCNcBGAsYHQ/s1600/hummus_de_remolacha.jpg",
+    "category": "Salsas & Condimentos",
+    "country": "Líbano",
+    "difficulty": "Fácil",
+    "prep_time": "15 min",
+    "cook_time": "0 min",
+    "servings": "6 porciones",
+    "calories": "220 kcal",
+    "story": "Evolución contemporánea del milenario hummus bi tahina levantino nacido en la cuenca del Mediterráneo oriental, esta variante surgió en Beirut a finales del siglo XX. Creado como un aperitivo vibrante para el mezzé tradicional, fusionó la cremosidad de los garbanzos y el sésamo con la dulzura mineral de la remolacha asada, ganando popularidad global por su color fucsia inconfundible.",
+    "ingredients": [
+      "400 g de garbanzos cocidos (tiernos y escurridos)",
+      "1 remolacha grande asada o cocida (unos 200 g), pelada y en trozos",
+      "3 cucharadas colmadas de pasta tahini de buena calidad",
+      "2 dientes de ajo pequeños",
+      "Jugo de 1 limón grande",
+      "1/2 cucharadita de comino molido",
+      "1/2 cucharadita de sal fina",
+      "3 a 4 cucharadas de agua helada o cubos de hielo",
+      "2 cucharadas de aceite de oliva virgen extra",
+      "Semillas de sésamo blanco tostado y hojas de menta fresca para decorar"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Base de Garbanzos y Remolacha",
+        "ingredients": [
+          "400 g de garbanzos cocidos (tiernos y escurridos)",
+          "1 remolacha grande asada o cocida (unos 200 g), pelada y en trozos",
+          "3 cucharadas colmadas de pasta tahini de buena calidad"
+        ]
+      },
+      {
+        "name": "Saborizantes y Emulsión",
+        "ingredients": [
+          "2 dientes de ajo pequeños",
+          "Jugo de 1 limón grande",
+          "1/2 cucharadita de comino molido",
+          "1/2 cucharadita de sal fina",
+          "3 a 4 cucharadas de agua helada o cubos de hielo"
+        ]
+      },
+      {
+        "name": "Presentación Mezzé",
+        "ingredients": [
+          "2 cucharadas de aceite de oliva virgen extra",
+          "Semillas de sésamo blanco tostado y hojas de menta fresca para decorar"
+        ]
+      }
+    ],
+    "steps": [
+      "En el vaso del procesador de alimentos, disponé el ajo con el jugo de limón y la sal. Procesá durante 1 minuto para atenuar la fuerza punzante del ajo.",
+      "Agregá el tahini y el comino molido. Procesá agregando dos cucharadas de agua helada hasta obtener una pasta emulsionada de tono claro y textura esponjosa.",
+      "Incorporá los trozos de remolacha asada y triturá a velocidad máxima hasta que quede completamente integrada en una crema fucsia pareja.",
+      "Añadí los garbanzos cocidos escurridos. Procesá de forma continua durante 3 a 5 minutos, incorporando una cucharada extra de agua helada si es necesario, hasta que la textura quede perfectamente aterciopelada y sin pellejos perceptibles.",
+      "Serví en un plato playo hondo, trazando con el dorso de una cuchara un surco circular en la superficie.",
+      "Verté aceite de oliva virgen extra en el surco, espolvoreá con las semillas de sésamo tostadas y decorá con hojas de menta fresca. Acompañá con pan pita caliente."
+    ],
+    "step_groups": [
+      {
+        "name": "Emulsión de Tahini y Remolacha",
+        "steps": [
+          "En el vaso del procesador de alimentos, disponé el ajo con el jugo de limón y la sal. Procesá durante 1 minuto para atenuar la fuerza punzante del ajo.",
+          "Agregá el tahini y el comino molido. Procesá agregando dos cucharadas de agua helada hasta obtener una pasta emulsionada de tono claro y textura esponjosa.",
+          "Incorporá los trozos de remolacha asada y triturá a velocidad máxima hasta que quede completamente integrada en una crema fucsia pareja."
+        ]
+      },
+      {
+        "name": "Cremado y Emplatado Tradicional",
+        "steps": [
+          "Añadí los garbanzos cocidos escurridos. Procesá de forma continua durante 3 a 5 minutos, incorporando una cucharada extra de agua helada si es necesario, hasta que la textura quede perfectamente aterciopelada y sin pellejos perceptibles.",
+          "Serví en un plato playo hondo, trazando con el dorso de una cuchara un surco circular en la superficie.",
+          "Verté aceite de oliva virgen extra en el surco, espolvoreá con las semillas de sésamo tostadas y decorá con hojas de menta fresca. Acompañá con pan pita caliente."
+        ]
+      }
+    ],
+    "notes": "El agregado de agua con hielo durante el procesado es el secreto milenario libanés para airear el tahini y lograr esa consistencia casi de mousse que define al hummus de alta escuela.",
+    "tags": [
+      "hummus de remolacha",
+      "hummus libanes",
+      "dip fucsia",
+      "cocina libanesa",
+      "comida de medio oriente",
+      "mezze",
+      "tahini",
+      "receta vegana",
+      "garbanzos"
+    ]
+  },
+  {
+    "id": 763,
+    "title": "Mutabal de Remolacha (Siria)",
+    "image": "https://lh3.googleusercontent.com/-10Jko0INkWU/av78rTS7E1I/AAAAAAAQC90/KwnDSLXz2Nw3Tl9s6EqqkosuP0_z1986gCNcBGAsYHQ/s1600/mutabal_de_remolacha.jpg",
+    "category": "Salsas & Condimentos",
+    "country": "Siria",
+    "difficulty": "Fácil",
+    "prep_time": "15 min",
+    "cook_time": "0 min",
+    "servings": "4 porciones",
+    "calories": "190 kcal",
+    "story": "Hermano del mutabal de berenjenas tradicional de Damasco y Alepo, el mutabal shawandar es una de las preparaciones más queridas del mezzé sirio. Su origen se remonta a los huertos del valle de Barada, donde las remolachas asadas al rescoldo se unían al labneh espeso de leche de oveja para crear un contraste refrescante frente a los asados y especias del desierto levantino.",
+    "ingredients": [
+      "3 remolachas medianas asadas al horno, peladas",
+      "200 g de labneh (o yogur griego natural colado bien espeso)",
+      "2 cucharadas de pasta tahini",
+      "1 diente de ajo machacado a pasta",
+      "2 cucharadas de jugo de limón",
+      "1 cucharadita de sal marina fina",
+      "2 cucharadas de aceite de oliva virgen extra",
+      "1 cucharadita de menta seca frotada con las manos",
+      "30 g de nueces tostadas picadas gruesas"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Base de Remolacha Rallada",
+        "ingredients": [
+          "3 remolachas medianas asadas al horno, peladas"
+        ]
+      },
+      {
+        "name": "Crema Levantina",
+        "ingredients": [
+          "200 g de labneh (o yogur griego natural colado bien espeso)",
+          "2 cucharadas de pasta tahini",
+          "1 diente de ajo machacado a pasta",
+          "2 cucharadas de jugo de limón",
+          "1 cucharadita de sal marina fina"
+        ]
+      },
+      {
+        "name": "Terminación y Decoración",
+        "ingredients": [
+          "2 cucharadas de aceite de oliva virgen extra",
+          "1 cucharadita de menta seca frotada con las manos",
+          "30 g de nueces tostadas picadas gruesas"
+        ]
+      }
+    ],
+    "steps": [
+      "Rallá las remolachas asadas con un rallador grueso de verduras (o picalas a cuchillo en daditos finos). A diferencia del hummus, el mutabal requiere textura y no debe ser una papilla homogénea.",
+      "En un bol amplio, mezclá el labneh con el tahini, el ajo machacado, el jugo de limón y la sal hasta integrar.",
+      "Sumá la remolacha rallada al bol de yogur y revolvé con movimientos suaves hasta que la preparación adquiera un tono rosa pálido marmolado o parejo.",
+      "Probá y ajustá el punto de sal y acidez de limón según preferencia.",
+      "Serví en una fuente baja, rociá con abundante aceite de oliva virgen extra, espolvoreá la menta seca frotada entre los dedos y coroná con las nueces picadas."
+    ],
+    "step_groups": [
+      {
+        "name": "Rallado y Mezcla de Labneh",
+        "steps": [
+          "Rallá las remolachas asadas con un rallador grueso de verduras (o picalas a cuchillo en daditos finos). A diferencia del hummus, el mutabal requiere textura y no debe ser una papilla homogénea.",
+          "En un bol amplio, mezclá el labneh con el tahini, el ajo machacado, el jugo de limón y la sal hasta integrar."
+        ]
+      },
+      {
+        "name": "Integración y Terminación",
+        "steps": [
+          "Sumá la remolacha rallada al bol de yogur y revolvé con movimientos suaves hasta que la preparación adquiera un tono rosa pálido marmolado o parejo.",
+          "Probá y ajustá el punto de sal y acidez de limón según preferencia.",
+          "Serví en una fuente baja, rociá con abundante aceite de oliva virgen extra, espolvoreá la menta seca frotada entre los dedos y coroná con las nueces picadas."
+        ]
+      }
+    ],
+    "notes": "Utilizá labneh bien firme o escurrí yogur natural entero dentro de un lienzo durante toda la noche en la heladera; si el yogur tiene demasiado suero, el mutabal quedará aguado y perderá su untuosidad característica.",
+    "tags": [
+      "mutabal de remolacha",
+      "mutabal shawandar",
+      "cocina siria",
+      "comida levantina",
+      "labneh",
+      "tahini",
+      "dip de remolacha y yogur",
+      "mezze sirio"
+    ]
+  },
+  {
+    "id": 764,
+    "title": "Chutney de Remolacha y Manzana (Reino Unido)",
+    "image": "https://lh3.googleusercontent.com/-HCVFAoSJ_f4/av78sLHjEMI/AAAAAAAQC98/s4hFlzjbZu0XTlJArTV3YqlwPeC_O7MyQCNcBGAsYHQ/s1600/chutney_de_remolacha_y_manzana.jpg",
+    "category": "Salsas & Condimentos",
+    "country": "Reino Unido",
+    "difficulty": "Fácil",
+    "prep_time": "20 min",
+    "cook_time": "50 min",
+    "servings": "8 porciones",
+    "calories": "140 kcal",
+    "story": "Nacido durante la era victoriana británica como fruto del intercambio colonial con la India, el chutney de remolacha adaptó los condimentos asiáticos a las cosechas otoñales de las islas británicas. Se transformó en una conserva doméstica fundamental para acompañar el clásico ploughman's lunch campesino, maridando de forma insustituible con quesos Cheddar madurados y carnes asadas frías.",
+    "ingredients": [
+      "500 g de remolachas crudas, peladas y cortadas en cubos de 1 cm",
+      "2 manzanas verdes (Granny Smith) peladas y en cubos",
+      "1 cebolla morada mediana picada en brunoise",
+      "150 g de azúcar rubia o azúcar morena",
+      "200 ml de vinagre de sidra de manzana",
+      "1 cucharada de jengibre fresco rallado",
+      "1 cucharadita de semillas de mostaza amarilla",
+      "1/2 cucharadita de pimienta de Jamaica molida (allspice)",
+      "1/4 cucharadita de clavo de olor molido",
+      "1 cucharadita de sal fina"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Frutas y Hortalizas",
+        "ingredients": [
+          "500 g de remolachas crudas, peladas y cortadas en cubos de 1 cm",
+          "2 manzanas verdes (Granny Smith) peladas y en cubos",
+          "1 cebolla morada mediana picada en brunoise"
+        ]
+      },
+      {
+        "name": "Almíbar Agridulce y Especias",
+        "ingredients": [
+          "150 g de azúcar rubia o azúcar morena",
+          "200 ml de vinagre de sidra de manzana",
+          "1 cucharada de jengibre fresco rallado",
+          "1 cucharadita de semillas de mostaza amarilla",
+          "1/2 cucharadita de pimienta de Jamaica molida (allspice)",
+          "1/4 cucharadita de clavo de olor molido",
+          "1 cucharadita de sal fina"
+        ]
+      }
+    ],
+    "steps": [
+      "En una olla de fondo grueso (preferentemente de acero inoxidable o hierro enlozado), colocá las remolachas en cubos, las manzanas y la cebolla morada.",
+      "Sumá el jengibre rallado, semillas de mostaza, pimienta de Jamaica, clavo de olor molido y la sal.",
+      "Incorporá el azúcar rubia y el vinagre de sidra de manzana. Llevá a fuego medio-alto revolviendo hasta disolver los cristales de azúcar y que comience a hervir.",
+      "Bajá el fuego a mínimo y cociná semitapado a fuego suave durante 45 a 50 minutos, removiendo cada tanto con cuchara de madera para que no se pegue en el fondo.",
+      "La preparación estará lista cuando la remolacha esté tierna al pincharla y el líquido se haya reducido a un almíbar espeso, brillante y con cuerpo de mermelada.",
+      "Retirá del fuego, verté caliente en frascos esterilizados de vidrio y dejá enfriar por completo antes de tapar.",
+      "Guardá en heladera o despensa oscura; gana complejidad y redondez de sabor si reposa al menos 48 horas antes de consumir."
+    ],
+    "step_groups": [
+      {
+        "name": "Mezcla de Ingredientes y Primer Hervor",
+        "steps": [
+          "En una olla de fondo grueso (preferentemente de acero inoxidable o hierro enlozado), colocá las remolachas en cubos, las manzanas y la cebolla morada.",
+          "Sumá el jengibre rallado, semillas de mostaza, pimienta de Jamaica, clavo de olor molido y la sal.",
+          "Incorporá el azúcar rubia y el vinagre de sidra de manzana. Llevá a fuego medio-alto revolviendo hasta disolver los cristales de azúcar y que comience a hervir."
+        ]
+      },
+      {
+        "name": "Reducción Lenta y Enfrascado",
+        "steps": [
+          "Bajá el fuego a mínimo y cociná semitapado a fuego suave durante 45 a 50 minutos, removiendo cada tanto con cuchara de madera para que no se pegue en el fondo.",
+          "La preparación estará lista cuando la remolacha esté tierna al pincharla y el líquido se haya reducido a un almíbar espeso, brillante y con cuerpo de mermelada.",
+          "Retirá del fuego, verté caliente en frascos esterilizados de vidrio y dejá enfriar por completo antes de tapar."
+        ]
+      }
+    ],
+    "notes": "No utilices ollas de aluminio o hierro sin esmaltar para elaborar chutneys: la alta acidez del vinagre reacciona con el metal y altera el sabor. El reposo de un par de días es clave para que el vinagre suavice su filo y se integre con los azúcares de la fruta.",
+    "tags": [
+      "chutney de remolacha",
+      "chutney ingles",
+      "conserva agridulce",
+      "cocina britanica",
+      "ploughmans lunch",
+      "condimento para quesos",
+      "manzana verde",
+      "remolacha especiada"
+    ]
+  },
+  {
+    "id": 765,
+    "title": "Latkes de Remolacha y Papa (Polonia)",
+    "image": "https://lh3.googleusercontent.com/-QtciYsoPAhw/av78tSK08TI/AAAAAAAQC-E/cxrT9XWJIPw46YrmbygnVv8j4WIKFBc_QCNcBGAsYHQ/s1600/latkes_de_remolacha_y_papa.jpg",
+    "category": "Entradas",
+    "country": "Polonia",
+    "difficulty": "Fácil",
+    "prep_time": "20 min",
+    "cook_time": "20 min",
+    "servings": "4 porciones",
+    "calories": "280 kcal",
+    "story": "Arraigados en la gastronomía judía asquenazí de Europa Central y Oriental durante el siglo XIX, los latkes surgieron en aldeas y ciudades polacas como un alimento reconstituyente y festivo cocinado en aceite durante la celebración de Janucá. La incorporación de la remolacha junto a la clásica papa aportó un colorido bermellón distintivo y un dulzor natural que equilibra la crocancia frita de la verdura rallada.",
+    "ingredients": [
+      "2 remolachas medianas crudas peladas",
+      "2 papas medianas (variedad harinosa) peladas",
+      "1 cebolla amarilla mediana rallada",
+      "2 huevos medianos batidos",
+      "3 cucharadas de harina de trigo o harina de matzá",
+      "1 cucharadita de sal fina",
+      "1/2 cucharadita de pimienta negra molida",
+      "Aceite neutro abundante para freír",
+      "Crema ácida (sour cream o queso crema con unas gotas de limón) y ciboulette picado para acompañar"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Rallado y Ligazón",
+        "ingredients": [
+          "2 remolachas medianas crudas peladas",
+          "2 papas medianas (variedad harinosa) peladas",
+          "1 cebolla amarilla mediana rallada",
+          "2 huevos medianos batidos",
+          "3 cucharadas de harina de trigo o harina de matzá",
+          "1 cucharadita de sal fina",
+          "1/2 cucharadita de pimienta negra molida"
+        ]
+      },
+      {
+        "name": "Fritura y Guarnición",
+        "ingredients": [
+          "Aceite neutro abundante para freír",
+          "Crema ácida y ciboulette picado para acompañar"
+        ]
+      }
+    ],
+    "steps": [
+      "Rallá las remolachas, las papas y la cebolla con la parte gruesa del rallador de verduras.",
+      "Colocá todos los vegetales rallados dentro de un paño de cocina limpio o lienzo resistente y retorcelo con ambas manos sobre la bacha para escurrir la mayor cantidad posible de líquido. Este paso es crucial para que queden hipercrocantes.",
+      "Volcá el rallado seco en un bol amplio, sumá los huevos batidos, la harina, la sal y la pimienta. Mezclá rápidamente con un tenedor para amalgamar la pasta.",
+      "Calentá un dedo de aceite neutro en una sartén amplia a fuego medio-alto (175°C).",
+      "Colocá cucharadas colmadas de la mezcla en el aceite caliente y aplanalas suavemente con el lomo de la espátula para formar tortitas redondas de 1 cm de espesor.",
+      "Freí durante 3 a 4 minutos por lado hasta que los bordes se vuelvan crujientes y tomen un tono dorado y tostado oscuro. Retirá y escurrí sobre papel absorbente.",
+      "Serví de inmediato bien calientes con una cucharada de crema ácida fría por encima y ciboulette fresco picado."
+    ],
+    "step_groups": [
+      {
+        "name": "Rallado, Prensado y Armado",
+        "steps": [
+          "Rallá las remolachas, las papas y la cebolla con la parte gruesa del rallador de verduras.",
+          "Colocá todos los vegetales rallados dentro de un paño de cocina limpio o lienzo resistente y retorcelo con ambas manos sobre la bacha para escurrir la mayor cantidad posible de líquido. Este paso es crucial para que queden hipercrocantes.",
+          "Volcá el rallado seco en un bol amplio, sumá los huevos batidos, la harina, la sal y la pimienta. Mezclá rápidamente con un tenedor para amalgamar la pasta."
+        ]
+      },
+      {
+        "name": "Fritura Crujiente y Emplatado",
+        "steps": [
+          "Calentá un dedo de aceite neutro en una sartén amplia a fuego medio-alto (175°C).",
+          "Colocá cucharadas colmadas de la mezcla en el aceite caliente y aplanalas suavemente con el lomo de la espátula para formar tortitas redondas de 1 cm de espesor.",
+          "Freí durante 3 a 4 minutos por lado hasta que los bordes se vuelvan crujientes y tomen un tono dorado y tostado oscuro. Retirá y escurrí sobre papel absorbente.",
+          "Serví de inmediato bien calientes con una cucharada de crema ácida fría por encima y ciboulette fresco picado."
+        ]
+      }
+    ],
+    "notes": "Cuanto más seca quede la verdura antes de freír, más crujiente será el latke. No dejes reposar la masa armada demasiado tiempo porque la sal seguirá extrayendo agua de la papa; freílos de inmediato tras mezclar los ingredientes.",
+    "tags": [
+      "latkes de remolacha",
+      "placki z burakow",
+      "comida polaca",
+      "cocina judia asquenzi",
+      "croquetas de verdura",
+      "fritters",
+      "comida crujiente",
+      "januca"
+    ]
+  },
+  {
+    "id": 766,
+    "title": "Barszcz Czysty Czerwony (Polonia)",
+    "image": "https://lh3.googleusercontent.com/-089vw9dpzM8/av78urWshqI/AAAAAAAQC-M/QAUphzJFrugVJv83NctIBndUHQKN788CwCNcBGAsYHQ/s1600/barszcz_czysty_czerwony.jpg",
+    "category": "Sopas & Caldos",
+    "country": "Polonia",
+    "difficulty": "Media",
+    "prep_time": "20 min",
+    "cook_time": "60 min",
+    "servings": "6 porciones",
+    "calories": "160 kcal",
+    "story": "Pilar indiscutible de la identidad culinaria polaca documentado desde el siglo XVI, el barszcz czysty (borsch rojo claro y límpido) es el primer plato obligatorio de la Wigilia, la cena tradicional de Nochebuena. A diferencia de las versiones densas y campesinas de otros pueblos eslavos, el caldo ceremonial polaco se filtra hasta quedar completamente traslúcido y brillante como un rubí líquido, servido tradicionalmente con pequeñas empanadillas rellenas de setas silvestres llamadas uszka.",
+    "ingredients": [
+      "1 kg de remolachas frescas peladas y cortadas en rodajas",
+      "1 zanahoria grande pelada y cortada en trozos",
+      "1 raíz de perejil o chirivía en trozos",
+      "1 puerro (la parte blanca y verde claro)",
+      "1/4 de bulbo de apio",
+      "1 manzana ácida cortada en cuartos con piel",
+      "4 dientes de ajo aplastados con su piel",
+      "2 hojas de laurel",
+      "4 bayas de pimienta de Jamaica (allspice)",
+      "1 cucharada de mejorana seca",
+      "3 cucharadas de vinagre de manzana o jugo de limón (o zakwas fermentado)",
+      "1 cucharada de azúcar",
+      "1,5 litros de agua o caldo vegetal suave",
+      "Sal marina y pimienta negra al gusto",
+      "Uszka (pequeños ravioles polacos de hongos silvestres) para acompañar"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Hortalizas de Fondo y Especias",
+        "ingredients": [
+          "1 kg de remolachas frescas peladas y cortadas en rodajas",
+          "1 zanahoria grande pelada y cortada en trozos",
+          "1 raíz de perejil o chirivía en trozos",
+          "1 puerro (la parte blanca y verde claro)",
+          "1/4 de bulbo de apio",
+          "1 manzana ácida cortada en cuartos con piel",
+          "4 dientes de ajo aplastados con su piel",
+          "2 hojas de laurel",
+          "4 bayas de pimienta de Jamaica (allspice)",
+          "1,5 litros de agua o caldo vegetal suave"
+        ]
+      },
+      {
+        "name": "Aromas, Acidez y Equilibrio",
+        "ingredients": [
+          "1 cucharada de mejorana seca",
+          "3 cucharadas de vinagre de manzana o jugo de limón (o zakwas fermentado)",
+          "1 cucharada de azúcar",
+          "Sal marina y pimienta negra al gusto"
+        ]
+      },
+      {
+        "name": "Guarnición Tradicional",
+        "ingredients": [
+          "Uszka (pequeños ravioles polacos de hongos silvestres) para acompañar"
+        ]
+      }
+    ],
+    "steps": [
+      "En una olla grande, colocá las remolachas, la zanahoria, la raíz de perejil, el puerro, el apio y la manzana.",
+      "Agregá el agua o caldo vegetal, el laurel, la pimienta de Jamaica y los ajos aplastados. Llevá a ebullición suave a fuego medio.",
+      "Apenas rompa el primer hervor, reducí el fuego al mínimo absoluto. Tapá la olla y cociná a fuego lento durante 45 minutos sin dejar que hierva a borbotones, para no opacar el caldo.",
+      "Agregá el vinagre de manzana (o zakwas) y el azúcar: el medio ácido fijará el color rojo rubí resplandeciente al instante. Sumá la mejorana seca frotándola con las palmas de las manos.",
+      "Cociná a fuego muy bajo durante 15 minutos más. Retirá del fuego y dejá reposar durante 20 minutos para que los aromas se asienten.",
+      "Colá el caldo con un colador de malla muy fina (o lienzo quesero) presionando suavemente las verduras sin romperlas para extraer todo el extracto sin enturbiar el líquido.",
+      "Rectificá con sal marina y pimienta negra. Serví bien caliente en tazas de caldo tradicionales o en platos hondos junto a una porción de uszka cocidos."
+    ],
+    "step_groups": [
+      {
+        "name": "Cocción Lenta del Caldo Especiado",
+        "steps": [
+          "En una olla grande, colocá las remolachas, la zanahoria, la raíz de perejil, el puerro, el apio y la manzana.",
+          "Agregá el agua o caldo vegetal, el laurel, la pimienta de Jamaica y los ajos aplastados. Llevá a ebullición suave a fuego medio.",
+          "Apenas rompa el primer hervor, reducí el fuego al mínimo absoluto. Tapá la olla y cociná a fuego lento durante 45 minutos sin dejar que hierva a borbotones, para no opacar el caldo."
+        ]
+      },
+      {
+        "name": "Fijación del Color Rubí y Filtrado",
+        "steps": [
+          "Agregá el vinagre de manzana (o zakwas) y el azúcar: el medio ácido fijará el color rojo rubí resplandeciente al instante. Sumá la mejorana seca frotándola con las palmas de las manos.",
+          "Cociná a fuego muy bajo durante 15 minutos más. Retirá del fuego y dejá reposar durante 20 minutos para que los aromas se asienten.",
+          "Colá el caldo con un colador de malla muy fina (o lienzo quesero) presionando suavemente las verduras sin romperlas para extraer todo el extracto sin enturbiar el líquido.",
+          "Rectificá con sal marina y pimienta negra. Serví bien caliente en tazas de caldo tradicionales o en platos hondos junto a una porción de uszka cocidos."
+        ]
+      }
+    ],
+    "notes": "La regla de oro del barszcz rojo claro es que jamás debe hervir a borbotones violentos, porque las burbujas rompen las partículas de remolacha y vuelven el caldo marrón y turbio. El ácido (vinagre o zakwas) debe añadirse hacia el final para avivar el color rubí brillante característico.",
+    "tags": [
+      "barszcz",
+      "barszcz czysty",
+      "sopa de remolacha polaca",
+      "cocina polaca",
+      "wigilia",
+      "nochebuena polaca",
+      "uszka",
+      "caldo rubi",
+      "receta tradicional polonia"
+    ]
   }
 ]
