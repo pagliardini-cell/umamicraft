@@ -79242,5 +79242,243 @@
       "readerComments": "ALLOW",
       "etag": "\"dGltZXN0YW1wOiAxNzk1MDQ3ODY5MzMzCm9mZnNldDogLTEwODAwMDAwCg\""
     }
+  },
+  {
+    "id": 737,
+    "title": "Tortilla de Papas y Cebolla (España)",
+    "category": "Desayunos & Huevos",
+    "country": "España",
+    "prep_time": "20 min",
+    "cook_time": "25 min",
+    "servings": "4 personas",
+    "image": "https://lh3.googleusercontent.com/-YekHPfCZgjo/av5XTp7tJYI/AAAAAAAQC14/JY7H1FKvBOgoHEAVA0o0VXgG_KymITY3gCNcBGAsYHQ/s1600/tortilla_de_papas_y_cebolla_espana.jpg",
+    "tags": [
+      "Tortilla de papas",
+      "Tortilla española",
+      "Receta con huevos",
+      "Papá receta",
+      "Recetas sin carne",
+      "Tapas españolas",
+      "Cocina tradicional",
+      "Punto babé"
+    ],
+    "story": "Documentada desde fines del siglo XVIII en Navarra y popularizada en tabernas y hogares de toda la península ibérica, la tortilla de patatas con cebolla es el emblema indiscutido de la gastronomía española. Su secreto reside en el confitado lento de las papas en abundante aceite de oliva virgen extra junto a la cebolla pochada, logrando una textura aterciopelada que liga con el huevo apenas cuajado. En mi cocina es la receta fetiche de los almuerzos de tapeo cuando busco el punto babé perfecto que llore cremosidad al primer corte.",
+    "ingredient_groups": [
+      {
+        "name": "Papas y Confitado",
+        "ingredients": [
+          "800 g de papas de variedad harinosa (tipo Monalisa o Spunta), peladas y cortadas en rodajas finas de 3 mm",
+          "1 cebolla dulce grande cortada en juliana fina",
+          "300 ml de aceite de oliva virgen extra (para pochar)",
+          "1 cucharadita de sal marina fina"
+        ]
+      },
+      {
+        "name": "Ligado y Cuajado",
+        "ingredients": [
+          "6 huevos frescos de campo grandes",
+          "1 yema de huevo adicional (para potenciar la cremosidad interior)",
+          "Sal fina al gusto"
+        ]
+      }
+    ],
+    "ingredients": [
+      "800 g de papas de variedad harinosa (tipo Monalisa o Spunta), peladas y cortadas en rodajas finas de 3 mm",
+      "1 cebolla dulce grande cortada en juliana fina",
+      "300 ml de aceite de oliva virgen extra (para pochar)",
+      "1 cucharadita de sal marina fina",
+      "6 huevos frescos de campo grandes",
+      "1 yema de huevo adicional (para potenciar la cremosidad interior)",
+      "Sal fina al gusto"
+    ],
+    "step_groups": [
+      {
+        "name": "",
+        "steps": [
+          "Pelá las papas y cortalas en medias lunas o rodajas finas e irregulares de unos tres milímetros de grosor, secándolas bien con un paño limpio.",
+          "Cortá la cebolla en juliana fina y reservá junto con las papas en un recipiente amplio sazonando con una cucharadita de sal fina.",
+          "Calentá el aceite de oliva virgen extra en una sartén antiadherente profunda a fuego medio-bajo e incorporá las papas y la cebolla, asegurando que queden casi sumergidas.",
+          "Confitá a fuego suave durante unos veinte minutos, removiendo ocasionalmente para que las papas se vuelvan completamente tiernas y la cebolla caramelice suavemente sin llegar a dorarse ni quemarse.",
+          "Retirá la sartén del fuego y escurrí las papas y cebollas con una espumadera sobre un colador para eliminar el exceso de aceite, reservando el aceite para futuros usos.",
+          "En un bol amplio batí enérgicamente los seis huevos junto con la yema extra y una pizca de sal durante un minuto sin generar demasiada espuma.",
+          "Volcá las papas y la cebolla aún tibias dentro de los huevos batidos, aplastá sutilmente una pequeña parte con un tenedor e integrá todo. Dejá reposar la mezcla durante cinco minutos para que las papas absorban el huevo.",
+          "Calentá una sartén antiadherente de 22 o 24 centímetros a fuego medio-alto con una cucharadita del aceite reservado. Verté toda la mezcla de golpe, mové la sartén en vaivén durante un minuto mientras redondeás los bordes con espátula.",
+          "Colocá un plato playo sobre la sartén, dale la vuelta con un movimiento firme y seguro, y deslizala nuevamente a la sartén por el lado opuesto.",
+          "Cociná apenas un minuto más a fuego medio para sellar el exterior manteniendo el corazón jugoso y cremoso, y servila tibia acompañada de pan con tomate."
+        ]
+      }
+    ],
+    "steps": [
+      "Pelá las papas y cortalas en medias lunas o rodajas finas e irregulares de unos tres milímetros de grosor, secándolas bien con un paño limpio.",
+      "Cortá la cebolla en juliana fina y reservá junto con las papas en un recipiente amplio sazonando con una cucharadita de sal fina.",
+      "Calentá el aceite de oliva virgen extra en una sartén antiadherente profunda a fuego medio-bajo e incorporá las papas y la cebolla, asegurando que queden casi sumergidas.",
+      "Confitá a fuego suave durante unos veinte minutos, removiendo ocasionalmente para que las papas se vuelvan completamente tiernas y la cebolla caramelice suavemente sin llegar a dorarse ni quemarse.",
+      "Retirá la sartén del fuego y escurrí las papas y cebollas con una espumadera sobre un colador para eliminar el exceso de aceite, reservando el aceite para futuros usos.",
+      "En un bol amplio batí enérgicamente los seis huevos junto con la yema extra y una pizca de sal durante un minuto sin generar demasiada espuma.",
+      "Volcá las papas y la cebolla aún tibias dentro de los huevos batidos, aplastá sutilmente una pequeña parte con un tenedor e integrá todo. Dejá reposar la mezcla durante cinco minutos para que las papas absorban el huevo.",
+      "Calentá una sartén antiadherente de 22 o 24 centímetros a fuego medio-alto con una cucharadita del aceite reservado. Verté toda la mezcla de golpe, mové la sartén en vaivén durante un minuto mientras redondeás los bordes con espátula.",
+      "Colocá un plato playo sobre la sartén, dale la vuelta con un movimiento firme y seguro, y deslizala nuevamente a la sartén por el lado opuesto.",
+      "Cociná apenas un minuto más a fuego medio para sellar el exterior manteniendo el corazón jugoso y cremoso, y servila tibia acompañada de pan con tomate."
+    ],
+    "notes": "El secreto del punto babé: El reposo de cinco minutos de la papa caliente en el huevo batido antes de cuajar es el paso fundamental para que la tortilla no quede seca ni dividida. Si te gusta bien jugosa, no superes el minuto y medio de cocción total en sartén una vez dada vuelta.",
+    "is_cocktail": false,
+    "blogger_url": {
+      "kind": "blogger#post",
+      "id": "1871464020800708019",
+      "status": "LIVE",
+      "blog": {
+        "id": "4924047739298865497"
+      },
+      "published": "2026-11-18T22:56:37-03:00",
+      "updated": "2026-11-18T22:56:37-03:00",
+      "url": "https://recarg.blogspot.com/2026/11/tortilla-de-papas-y-cebolla-espana.html",
+      "selfLink": "https://blogger.googleapis.com/v3/blogs/4924047739298865497/posts/1871464020800708019",
+      "title": "Tortilla de Papas y Cebolla (España)",
+      "content": "<div style=\"font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif; color:#2d3748; line-height:1.7; max-width:760px; margin:0 auto; padding:10px;\">\n\n  <!-- Fotografía Nativa para Mosaico de Blogger -->\n  <div class=\"separator\" style=\"clear: both; text-align: center; margin-bottom: 25px;\">\n    <a href=\"https://lh3.googleusercontent.com/-YekHPfCZgjo/av5XTp7tJYI/AAAAAAAQC14/JY7H1FKvBOgoHEAVA0o0VXgG_KymITY3gCNcBGAsYHQ/s1600/tortilla_de_papas_y_cebolla_espana.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\">\n      <img border=\"0\" src=\"https://lh3.googleusercontent.com/-YekHPfCZgjo/av5XTp7tJYI/AAAAAAAQC14/JY7H1FKvBOgoHEAVA0o0VXgG_KymITY3gCNcBGAsYHQ/s1600/tortilla_de_papas_y_cebolla_espana.jpg\" alt=\"Tortilla de Papas y Cebolla (España)\" style=\"width:100%; max-width:740px; height:auto; border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.12); display:block; margin:0 auto;\" />\n    </a>\n  </div>\n\n  <!-- Reseña Cultural / Historia -->\n  <div style=\"background:#f8fafc; border-left:4px solid #e11d48; padding:16px 20px; border-radius:6px; margin-bottom:25px; font-style:italic; color:#475569; font-size:1.02rem;\">\n    Documentada desde fines del siglo XVIII en Navarra y popularizada en tabernas y hogares de toda la península ibérica, la tortilla de patatas con cebolla es el emblema indiscutido de la gastronomía española. Su secreto reside en el confitado lento de las papas en abundante aceite de oliva virgen extra junto a la cebolla pochada, logrando una textura aterciopelada que liga con el huevo apenas cuajado. En mi cocina es la receta fetiche de los almuerzos de tapeo cuando busco el punto babé perfecto que llore cremosidad al primer corte.\n  </div>\n\n  <!-- Ficha Técnica -->\n  <div style=\"text-align:center; background:#fff1f2; padding:14px; border-radius:12px; margin-bottom:30px;\">\n    <span style=\"background:#ffffff; border:1px solid #fecdd3; padding:5px 12px; border-radius:15px; font-weight:600; font-size:0.85rem; color:#be123c; margin:3px; display:inline-block;\">⏱️ Prep: 20 min</span> <span style=\"background:#ffffff; border:1px solid #fecdd3; padding:5px 12px; border-radius:15px; font-weight:600; font-size:0.85rem; color:#be123c; margin:3px; display:inline-block;\">🔥 Cocción: 25 min</span> <span style=\"background:#ffffff; border:1px solid #fecdd3; padding:5px 12px; border-radius:15px; font-weight:600; font-size:0.85rem; color:#be123c; margin:3px; display:inline-block;\">🍽️ 4 personas</span>\n  </div>\n\n  <!-- Ingredientes -->\n  <h3 style=\"color:#9f1239; border-bottom:2px solid #fecdd3; padding-bottom:6px; font-size:1.35rem; margin-top:30px;\">📋 Ingredientes</h3>\n  <h4 style=\"color:#1e293b; margin-bottom:8px; margin-top:18px; font-size:1.05rem;\">Papas y Confitado</h4><ul style=\"list-style-type:disc; padding-left:22px; line-height:1.8; color:#334155;\"><li style=\"margin-bottom:4px;\">800 g de papas de variedad harinosa (tipo Monalisa o Spunta), peladas y cortadas en rodajas finas de 3 mm</li><li style=\"margin-bottom:4px;\">1 cebolla dulce grande cortada en juliana fina</li><li style=\"margin-bottom:4px;\">300 ml de aceite de oliva virgen extra (para pochar)</li><li style=\"margin-bottom:4px;\">1 cucharadita de sal marina fina</li></ul><h4 style=\"color:#1e293b; margin-bottom:8px; margin-top:18px; font-size:1.05rem;\">Ligado y Cuajado</h4><ul style=\"list-style-type:disc; padding-left:22px; line-height:1.8; color:#334155;\"><li style=\"margin-bottom:4px;\">6 huevos frescos de campo grandes</li><li style=\"margin-bottom:4px;\">1 yema de huevo adicional (para potenciar la cremosidad interior)</li><li style=\"margin-bottom:4px;\">Sal fina al gusto</li></ul>\n\n  <!-- Paso a Paso -->\n  <h3 style=\"color:#9f1239; border-bottom:2px solid #fecdd3; padding-bottom:6px; font-size:1.35rem; margin-top:35px;\">🍳 Preparación Paso a Paso</h3>\n  <ol style=\"padding-left:24px; line-height:1.8; color:#334155;\"><li style=\"margin-bottom:12px;\">Pelá las papas y cortalas en medias lunas o rodajas finas e irregulares de unos tres milímetros de grosor, secándolas bien con un paño limpio.</li><li style=\"margin-bottom:12px;\">Cortá la cebolla en juliana fina y reservá junto con las papas en un recipiente amplio sazonando con una cucharadita de sal fina.</li><li style=\"margin-bottom:12px;\">Calentá el aceite de oliva virgen extra en una sartén antiadherente profunda a fuego medio-bajo e incorporá las papas y la cebolla, asegurando que queden casi sumergidas.</li><li style=\"margin-bottom:12px;\">Confitá a fuego suave durante unos veinte minutos, removiendo ocasionalmente para que las papas se vuelvan completamente tiernas y la cebolla caramelice suavemente sin llegar a dorarse ni quemarse.</li><li style=\"margin-bottom:12px;\">Retirá la sartén del fuego y escurrí las papas y cebollas con una espumadera sobre un colador para eliminar el exceso de aceite, reservando el aceite para futuros usos.</li><li style=\"margin-bottom:12px;\">En un bol amplio batí enérgicamente los seis huevos junto con la yema extra y una pizca de sal durante un minuto sin generar demasiada espuma.</li><li style=\"margin-bottom:12px;\">Volcá las papas y la cebolla aún tibias dentro de los huevos batidos, aplastá sutilmente una pequeña parte con un tenedor e integrá todo. Dejá reposar la mezcla durante cinco minutos para que las papas absorban el huevo.</li><li style=\"margin-bottom:12px;\">Calentá una sartén antiadherente de 22 o 24 centímetros a fuego medio-alto con una cucharadita del aceite reservado. Verté toda la mezcla de golpe, mové la sartén en vaivén durante un minuto mientras redondeás los bordes con espátula.</li><li style=\"margin-bottom:12px;\">Colocá un plato playo sobre la sartén, dale la vuelta con un movimiento firme y seguro, y deslizala nuevamente a la sartén por el lado opuesto.</li><li style=\"margin-bottom:12px;\">Cociná apenas un minuto más a fuego medio para sellar el exterior manteniendo el corazón jugoso y cremoso, y servila tibia acompañada de pan con tomate.</li></ol>\n\n  \n  <div style=\"background:#fefce8; border-left:4px solid #eab308; border-radius:8px; padding:16px 20px; margin-top:30px;\">\n    <h4 style=\"color:#854d0e; margin-top:0; margin-bottom:8px; font-size:1.05rem;\">💡 Secretos y Consejos</h4>\n    <p style=\"margin:0; color:#713f12; line-height:1.6;\">El secreto del punto babé: El reposo de cinco minutos de la papa caliente en el huevo batido antes de cuajar es el paso fundamental para que la tortilla no quede seca ni dividida. Si te gusta bien jugosa, no superes el minuto y medio de cocción total en sartén una vez dada vuelta.</p>\n  </div>\n\n</div>",
+      "author": {
+        "id": "18039798383968100443",
+        "displayName": "walter pagliardini",
+        "url": "https://www.blogger.com/profile/18039798383968100443",
+        "image": {
+          "url": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN0zFqsQ6-25VWjhie4414EuTd3Y0zt6R26nKzLFKP4fj9SbnnaEQkJLHekJnl-CiO-lGleNw_3IATzJc5BUIXYvptLftQupIylh4N0340UeWuYf9FQjYc9bMGr9uRocw/s35/n1026813931_30161281_1365.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://blogger.googleapis.com/v3/blogs/4924047739298865497/posts/1871464020800708019/comments"
+      },
+      "labels": [
+        "Cocina tradicional",
+        "Papá receta",
+        "Punto babé",
+        "Receta con huevos",
+        "Recetas sin carne",
+        "Tapas españolas",
+        "Tortilla de papas",
+        "Tortilla española"
+      ],
+      "readerComments": "ALLOW",
+      "etag": "\"dGltZXN0YW1wOiAxNzk1MDUzMzk3OTY5Cm9mZnNldDogLTEwODAwMDAwCg\""
+    }
+  },
+  {
+    "id": 738,
+    "title": "Club Sandwich de Pollo (Estados Unidos)",
+    "category": "Hamburguesas",
+    "country": "Estados Unidos",
+    "prep_time": "15 min",
+    "cook_time": "10 min",
+    "servings": "2 personas",
+    "image": "https://lh3.googleusercontent.com/-7UgfYVcvTnU/av5XU4b23-I/AAAAAAAQC2A/JewVpODxUOkgE3Fk8LmNdVQErnk3UDfagCNcBGAsYHQ/s1600/club_sandwich_de_pollo_estados_unidos.jpg",
+    "tags": [
+      "Club sandwich",
+      "Chicken sándwich",
+      "Sandwich de pollo",
+      "Triple sandwich",
+      "Comida americana",
+      "Street food",
+      "Sandwich tostado",
+      "Diner clasico"
+    ],
+    "story": "Nacido a fines del siglo XIX en los clubes de caballeros de Nueva York y Saratoga Springs, el club sándwich se transformó en uno de los iconos globales del fast-casual y los diners estadounidenses. Su arquitectura de tres pisos de pan blanco tostado intercala la frescura crocante de los vegetales con pechuga de pollo asada y panceta curada y crujiente. En mi cocina es el clásico imbatible de fin de semana cuando quiero armar un almuerzo completo, crujiente y vistoso con papas fritas doradas al costado.",
+    "ingredient_groups": [
+      {
+        "name": "Pollo Grillado y Panceta",
+        "ingredients": [
+          "300 g de pechuga de pollo deshuesada cortada en bifes finos",
+          "6 fetas de panceta ahumada (bacon)",
+          "1 cucharada de aceite de oliva",
+          "Sal fina, pimienta negra y pizca de ajo en polvo"
+        ]
+      },
+      {
+        "name": "Montaje y Capas del Sándwich",
+        "ingredients": [
+          "6 rebanadas de pan de molde blanco de miga firme",
+          "3 cucharadas de mayonesa clásica",
+          "4 hojas de lechuga capuchina o romana crujiente",
+          "1 tomate perita grande maduro cortado en rodajas finas",
+          "Papas fritas crocantes y palillos de madera para servir"
+        ]
+      }
+    ],
+    "ingredients": [
+      "300 g de pechuga de pollo deshuesada cortada en bifes finos",
+      "6 fetas de panceta ahumada (bacon)",
+      "1 cucharada de aceite de oliva",
+      "Sal fina, pimienta negra y pizca de ajo en polvo",
+      "6 rebanadas de pan de molde blanco de miga firme",
+      "3 cucharadas de mayonesa clásica",
+      "4 hojas de lechuga capuchina o romana crujiente",
+      "1 tomate perita grande maduro cortado en rodajas finas",
+      "Papas fritas crocantes y palillos de madera para servir"
+    ],
+    "step_groups": [
+      {
+        "name": "",
+        "steps": [
+          "Cortá la pechuga de pollo en bifes delgados y parejos, sazoná con sal, pimienta negra y ajo en polvo, y dorala en sartén o plancha con una cucharada de aceite durante tres minutos por lado hasta que quede jugosa y tierna. Retirá y dejá entibiar.",
+          "En la misma sartén dorá las seis fetas de panceta a fuego medio hasta que queden bien crocantes y hayan soltado su grasa. Secalas sobre papel absorbente.",
+          "Tostá las seis rebanadas de pan de molde en tostadora o sobre la misma plancha hasta lograr un dorado parejo y textura crocante.",
+          "Para armar el primer piso de cada sándwich, untá una rebanada de pan tostado con mayonesa, colocá una hoja de lechuga fresca, rodajas de tomate sazonadas con una pizca de sal y las fetas de panceta crujiente.",
+          "Untá una segunda rebanada de pan con mayonesa de ambos lados y apoyala sobre el primer piso.",
+          "Sobre este piso intermedio disponé las fetas de pechuga de pollo grillada y otra hoja de lechuga crujiente.",
+          "Untá la tercera rebanada de pan con mayonesa en su cara interna y cerrá el sándwich presionando muy suavemente con la palma de la mano.",
+          "Clavá cuatro palillos de madera en cada uno de los cuatro cuadrantes del sándwich para fijar la estructura.",
+          "Con un cuchillo de sierra bien afilado realizá dos cortes diagonales en cruz, dividiendo el sándwich en cuatro triángulos perfectos, y serví con abundante porción de papas fritas."
+        ]
+      }
+    ],
+    "steps": [
+      "Cortá la pechuga de pollo en bifes delgados y parejos, sazoná con sal, pimienta negra y ajo en polvo, y dorala en sartén o plancha con una cucharada de aceite durante tres minutos por lado hasta que quede jugosa y tierna. Retirá y dejá entibiar.",
+      "En la misma sartén dorá las seis fetas de panceta a fuego medio hasta que queden bien crocantes y hayan soltado su grasa. Secalas sobre papel absorbente.",
+      "Tostá las seis rebanadas de pan de molde en tostadora o sobre la misma plancha hasta lograr un dorado parejo y textura crocante.",
+      "Para armar el primer piso de cada sándwich, untá una rebanada de pan tostado con mayonesa, colocá una hoja de lechuga fresca, rodajas de tomate sazonadas con una pizca de sal y las fetas de panceta crujiente.",
+      "Untá una segunda rebanada de pan con mayonesa de ambos lados y apoyala sobre el primer piso.",
+      "Sobre este piso intermedio disponé las fetas de pechuga de pollo grillada y otra hoja de lechuga crujiente.",
+      "Untá la tercera rebanada de pan con mayonesa en su cara interna y cerrá el sándwich presionando muy suavemente con la palma de la mano.",
+      "Clavá cuatro palillos de madera en cada uno de los cuatro cuadrantes del sándwich para fijar la estructura.",
+      "Con un cuchillo de sierra bien afilado realizá dos cortes diagonales en cruz, dividiendo el sándwich en cuatro triángulos perfectos, y serví con abundante porción de papas fritas."
+    ],
+    "notes": "El armado estructural: El pan debe tostarse hasta estar bien crujiente para que la humedad del tomate y la lechuga no lo ablande antes de servir. Usar un cuchillo de sierra sin presionar hacia abajo evita aplastar las capas y garantiza el corte limpio y geométrico característico de los mejores diners.",
+    "is_cocktail": false,
+    "blogger_url": {
+      "kind": "blogger#post",
+      "id": "4950076871637702726",
+      "status": "LIVE",
+      "blog": {
+        "id": "4924047739298865497"
+      },
+      "published": "2026-11-18T22:56:39-03:00",
+      "updated": "2026-11-18T22:56:39-03:00",
+      "url": "https://recarg.blogspot.com/2026/11/club-sandwich-de-pollo-estados-unidos.html",
+      "selfLink": "https://blogger.googleapis.com/v3/blogs/4924047739298865497/posts/4950076871637702726",
+      "title": "Club Sandwich de Pollo (Estados Unidos)",
+      "content": "<div style=\"font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif; color:#2d3748; line-height:1.7; max-width:760px; margin:0 auto; padding:10px;\">\n\n  <!-- Fotografía Nativa para Mosaico de Blogger -->\n  <div class=\"separator\" style=\"clear: both; text-align: center; margin-bottom: 25px;\">\n    <a href=\"https://lh3.googleusercontent.com/-7UgfYVcvTnU/av5XU4b23-I/AAAAAAAQC2A/JewVpODxUOkgE3Fk8LmNdVQErnk3UDfagCNcBGAsYHQ/s1600/club_sandwich_de_pollo_estados_unidos.jpg\" imageanchor=\"1\" style=\"margin-left: auto; margin-right: auto;\">\n      <img border=\"0\" src=\"https://lh3.googleusercontent.com/-7UgfYVcvTnU/av5XU4b23-I/AAAAAAAQC2A/JewVpODxUOkgE3Fk8LmNdVQErnk3UDfagCNcBGAsYHQ/s1600/club_sandwich_de_pollo_estados_unidos.jpg\" alt=\"Club Sandwich de Pollo (Estados Unidos)\" style=\"width:100%; max-width:740px; height:auto; border-radius:12px; box-shadow:0 6px 18px rgba(0,0,0,0.12); display:block; margin:0 auto;\" />\n    </a>\n  </div>\n\n  <!-- Reseña Cultural / Historia -->\n  <div style=\"background:#f8fafc; border-left:4px solid #e11d48; padding:16px 20px; border-radius:6px; margin-bottom:25px; font-style:italic; color:#475569; font-size:1.02rem;\">\n    Nacido a fines del siglo XIX en los clubes de caballeros de Nueva York y Saratoga Springs, el club sándwich se transformó en uno de los iconos globales del fast-casual y los diners estadounidenses. Su arquitectura de tres pisos de pan blanco tostado intercala la frescura crocante de los vegetales con pechuga de pollo asada y panceta curada y crujiente. En mi cocina es el clásico imbatible de fin de semana cuando quiero armar un almuerzo completo, crujiente y vistoso con papas fritas doradas al costado.\n  </div>\n\n  <!-- Ficha Técnica -->\n  <div style=\"text-align:center; background:#fff1f2; padding:14px; border-radius:12px; margin-bottom:30px;\">\n    <span style=\"background:#ffffff; border:1px solid #fecdd3; padding:5px 12px; border-radius:15px; font-weight:600; font-size:0.85rem; color:#be123c; margin:3px; display:inline-block;\">⏱️ Prep: 15 min</span> <span style=\"background:#ffffff; border:1px solid #fecdd3; padding:5px 12px; border-radius:15px; font-weight:600; font-size:0.85rem; color:#be123c; margin:3px; display:inline-block;\">🔥 Cocción: 10 min</span> <span style=\"background:#ffffff; border:1px solid #fecdd3; padding:5px 12px; border-radius:15px; font-weight:600; font-size:0.85rem; color:#be123c; margin:3px; display:inline-block;\">🍽️ 2 personas</span>\n  </div>\n\n  <!-- Ingredientes -->\n  <h3 style=\"color:#9f1239; border-bottom:2px solid #fecdd3; padding-bottom:6px; font-size:1.35rem; margin-top:30px;\">📋 Ingredientes</h3>\n  <h4 style=\"color:#1e293b; margin-bottom:8px; margin-top:18px; font-size:1.05rem;\">Pollo Grillado y Panceta</h4><ul style=\"list-style-type:disc; padding-left:22px; line-height:1.8; color:#334155;\"><li style=\"margin-bottom:4px;\">300 g de pechuga de pollo deshuesada cortada en bifes finos</li><li style=\"margin-bottom:4px;\">6 fetas de panceta ahumada (bacon)</li><li style=\"margin-bottom:4px;\">1 cucharada de aceite de oliva</li><li style=\"margin-bottom:4px;\">Sal fina, pimienta negra y pizca de ajo en polvo</li></ul><h4 style=\"color:#1e293b; margin-bottom:8px; margin-top:18px; font-size:1.05rem;\">Montaje y Capas del Sándwich</h4><ul style=\"list-style-type:disc; padding-left:22px; line-height:1.8; color:#334155;\"><li style=\"margin-bottom:4px;\">6 rebanadas de pan de molde blanco de miga firme</li><li style=\"margin-bottom:4px;\">3 cucharadas de mayonesa clásica</li><li style=\"margin-bottom:4px;\">4 hojas de lechuga capuchina o romana crujiente</li><li style=\"margin-bottom:4px;\">1 tomate perita grande maduro cortado en rodajas finas</li><li style=\"margin-bottom:4px;\">Papas fritas crocantes y palillos de madera para servir</li></ul>\n\n  <!-- Paso a Paso -->\n  <h3 style=\"color:#9f1239; border-bottom:2px solid #fecdd3; padding-bottom:6px; font-size:1.35rem; margin-top:35px;\">🍳 Preparación Paso a Paso</h3>\n  <ol style=\"padding-left:24px; line-height:1.8; color:#334155;\"><li style=\"margin-bottom:12px;\">Cortá la pechuga de pollo en bifes delgados y parejos, sazoná con sal, pimienta negra y ajo en polvo, y dorala en sartén o plancha con una cucharada de aceite durante tres minutos por lado hasta que quede jugosa y tierna. Retirá y dejá entibiar.</li><li style=\"margin-bottom:12px;\">En la misma sartén dorá las seis fetas de panceta a fuego medio hasta que queden bien crocantes y hayan soltado su grasa. Secalas sobre papel absorbente.</li><li style=\"margin-bottom:12px;\">Tostá las seis rebanadas de pan de molde en tostadora o sobre la misma plancha hasta lograr un dorado parejo y textura crocante.</li><li style=\"margin-bottom:12px;\">Para armar el primer piso de cada sándwich, untá una rebanada de pan tostado con mayonesa, colocá una hoja de lechuga fresca, rodajas de tomate sazonadas con una pizca de sal y las fetas de panceta crujiente.</li><li style=\"margin-bottom:12px;\">Untá una segunda rebanada de pan con mayonesa de ambos lados y apoyala sobre el primer piso.</li><li style=\"margin-bottom:12px;\">Sobre este piso intermedio disponé las fetas de pechuga de pollo grillada y otra hoja de lechuga crujiente.</li><li style=\"margin-bottom:12px;\">Untá la tercera rebanada de pan con mayonesa en su cara interna y cerrá el sándwich presionando muy suavemente con la palma de la mano.</li><li style=\"margin-bottom:12px;\">Clavá cuatro palillos de madera en cada uno de los cuatro cuadrantes del sándwich para fijar la estructura.</li><li style=\"margin-bottom:12px;\">Con un cuchillo de sierra bien afilado realizá dos cortes diagonales en cruz, dividiendo el sándwich en cuatro triángulos perfectos, y serví con abundante porción de papas fritas.</li></ol>\n\n  \n  <div style=\"background:#fefce8; border-left:4px solid #eab308; border-radius:8px; padding:16px 20px; margin-top:30px;\">\n    <h4 style=\"color:#854d0e; margin-top:0; margin-bottom:8px; font-size:1.05rem;\">💡 Secretos y Consejos</h4>\n    <p style=\"margin:0; color:#713f12; line-height:1.6;\">El armado estructural: El pan debe tostarse hasta estar bien crujiente para que la humedad del tomate y la lechuga no lo ablande antes de servir. Usar un cuchillo de sierra sin presionar hacia abajo evita aplastar las capas y garantiza el corte limpio y geométrico característico de los mejores diners.</p>\n  </div>\n\n</div>",
+      "author": {
+        "id": "18039798383968100443",
+        "displayName": "walter pagliardini",
+        "url": "https://www.blogger.com/profile/18039798383968100443",
+        "image": {
+          "url": "//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN0zFqsQ6-25VWjhie4414EuTd3Y0zt6R26nKzLFKP4fj9SbnnaEQkJLHekJnl-CiO-lGleNw_3IATzJc5BUIXYvptLftQupIylh4N0340UeWuYf9FQjYc9bMGr9uRocw/s35/n1026813931_30161281_1365.jpg"
+        }
+      },
+      "replies": {
+        "totalItems": "0",
+        "selfLink": "https://blogger.googleapis.com/v3/blogs/4924047739298865497/posts/4950076871637702726/comments"
+      },
+      "labels": [
+        "Chicken sándwich",
+        "Club sandwich",
+        "Comida americana",
+        "Diner clasico",
+        "Sandwich de pollo",
+        "Sandwich tostado",
+        "Street food",
+        "Triple sandwich"
+      ],
+      "readerComments": "ALLOW",
+      "etag": "\"dGltZXN0YW1wOiAxNzk1MDUzMzk5OTEyCm9mZnNldDogLTEwODAwMDAwCg\""
+    }
   }
 ]
