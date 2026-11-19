@@ -82181,5 +82181,110 @@
       "pastas caseras",
       "receta de uszka"
     ]
+  },
+  {
+    "id": 768,
+    "title": "Grzyby w Śmietanie (Polonia)",
+    "image": "https://lh3.googleusercontent.com/-ZIDSp9zzUro/av9BxJc-A9I/AAAAAAAQC_E/BGl9mwGfNJ0N9w66Evdf9QLu_UfKtGhjwCNcBGAsYHQ/s1600/grzyby_w_smietanie.jpg",
+    "category": "Entradas",
+    "country": "Polonia",
+    "difficulty": "Fácil",
+    "prep_time": "20 min",
+    "cook_time": "25 min",
+    "servings": "4 porciones",
+    "calories": "310 kcal",
+    "story": "Originario de las regiones boscosas de Polonia y documentado desde la época de la nobleza Szlachta en los banquetes rurales del siglo XVII, este plato celebra la histórica tradición polaca de recolección otoñal de hongos silvestres (grzybobranie). Elaborado tradicionalmente en cazuelas de barro comunales, combina hongos de bosque salteados en manteca con una reducción untuosa de crema agria espesa (śmietana) y eneldo fresco, servido históricamente como entrada caliente en tabernas y celebraciones familiares.",
+    "ingredients": [
+      "500 g de hongos frescos variados (boletus, champiñones de París y portobellos en láminas gruesas)",
+      "30 g de hongos silvestres secos (porcini o boletus)",
+      "2 cebollas amarillas medianas picadas en pluma fina",
+      "2 dientes de ajo picados finamente",
+      "40 g de manteca con sal",
+      "1 cucharada de aceite de oliva o neutro",
+      "200 ml de crema agria espesa (śmietana o crème fraîche)",
+      "100 ml de caldo de verduras o líquido filtrado de los hongos secos",
+      "1 cucharadita de harina de trigo (opcional para ligar)",
+      "1/4 cucharadita de nuez moscada rallada",
+      "Sal marina y pimienta negra recién molida al gusto",
+      "2 cucharadas de eneldo fresco picado",
+      "Rebanadas de pan de centeno polaco (chleb żytni) para acompañar"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Hongos y Aromáticos",
+        "ingredients": [
+          "500 g de hongos frescos variados (boletus, champiñones de París y portobellos en láminas gruesas)",
+          "30 g de hongos silvestres secos (porcini o boletus)",
+          "2 cebollas amarillas medianas picadas en pluma fina",
+          "2 dientes de ajo picados finamente",
+          "40 g de manteca con sal",
+          "1 cucharada de aceite de oliva o neutro"
+        ]
+      },
+      {
+        "name": "Salsa Cremosa (Śmietana) y Horneado",
+        "ingredients": [
+          "200 ml de crema agria espesa (śmietana o crème fraîche)",
+          "100 ml de caldo de verduras o líquido filtrado de los hongos secos",
+          "1 cucharadita de harina de trigo (opcional para ligar)",
+          "1/4 cucharadita de nuez moscada rallada",
+          "Sal marina y pimienta negra recién molida al gusto"
+        ]
+      },
+      {
+        "name": "Terminación Rústica",
+        "ingredients": [
+          "2 cucharadas de eneldo fresco picado",
+          "Rebanadas de pan de centeno polaco (chleb żytni) para acompañar"
+        ]
+      }
+    ],
+    "steps": [
+      "Colocá los hongos secos en un bol con agua tibia durante 20 minutos hasta que se hidraten por completo. Escurrí bien presionando con las manos, colá el líquido aromático para usar luego y picalos en trozos medianos junto a los hongos frescos en láminas gruesas.",
+      "En una sartén amplia a fuego medio, calentá la manteca con la cucharada de aceite. Agregá la cebolla en pluma y pochá durante 6 a 8 minutos hasta que esté tierna y translúcida sin dorarse en exceso. Sumá el ajo picado y cociná por 1 minuto.",
+      "Subí el fuego a medio-alto, incorporá todos los hongos a la sartén y salteá durante 7 a 10 minutos revolviendo ocasionalmente hasta que liberen su agua natural y comiencen a dorarse ligeramente.",
+      "Espolvoreá la cucharadita de harina si deseás mayor consistencia, revolvé 1 minuto y verté los 100 ml de caldo de hongos. Reducí a fuego suave durante 3 minutos.",
+      "Bajá el fuego a mínimo. Temperá la crema agria (śmietana) mezclándola en un cuenco con dos cucharadas del fondo caliente de la sartén, y luego incorporala suavemente a la preparación. Condimentá con la nuez moscada, sal y abundante pimienta negra recién molida. Cociná a fuego muy bajo durante 3 minutos sin dejar que rompa hervor violento para que la crema no se corte.",
+      "Volcá la preparación cremosa de hongos en una cazuela tradicional de barro o fuente refractaria.",
+      "Llevá a horno precalentado a 200°C durante 8 a 10 minutos hasta que la superficie burbujee suavemente y tome un ligero tono dorado por los bordes.",
+      "Retirá con cuidado del horno, coroná con el eneldo fresco picado y serví bien caliente en la misma cazuela de barro, acompañada de rebanadas gruesas de pan de centeno rústico."
+    ],
+    "step_groups": [
+      {
+        "name": "Hidratación y Salteado de los Hongos",
+        "steps": [
+          "Colocá los hongos secos en un bol con agua tibia durante 20 minutos hasta que se hidraten por completo. Escurrí bien presionando con las manos, colá el líquido aromático para usar luego y picalos en trozos medianos junto a los hongos frescos en láminas gruesas.",
+          "En una sartén amplia a fuego medio, calentá la manteca con la cucharada de aceite. Agregá la cebolla en pluma y pochá durante 6 a 8 minutos hasta que esté tierna y translúcida sin dorarse en exceso. Sumá el ajo picado y cociná por 1 minuto."
+        ]
+      },
+      {
+        "name": "Cocción y Ligadura con Crema Ácida",
+        "steps": [
+          "Subí el fuego a medio-alto, incorporá todos los hongos a la sartén y salteá durante 7 a 10 minutos revolviendo ocasionalmente hasta que liberen su agua natural y comiencen a dorarse ligeramente.",
+          "Espolvoreá la cucharadita de harina si deseás mayor consistencia, revolvé 1 minuto y verté los 100 ml de caldo de hongos. Reducí a fuego suave durante 3 minutos.",
+          "Bajá el fuego a mínimo. Temperá la crema agria (śmietana) mezclándola en un cuenco con dos cucharadas del fondo caliente de la sartén, y luego incorporala suavemente a la preparación. Condimentá con la nuez moscada, sal y abundante pimienta negra recién molida. Cociná a fuego muy bajo durante 3 minutos sin dejar que rompa hervor violento para que la crema no se corte."
+        ]
+      },
+      {
+        "name": "Horneado en Cazuela y Emplatado",
+        "steps": [
+          "Volcá la preparación cremosa de hongos en una cazuela tradicional de barro o fuente refractaria.",
+          "Llevá a horno precalentado a 200°C durante 8 a 10 minutos hasta que la superficie burbujee suavemente y tome un ligero tono dorado por los bordes.",
+          "Retirá con cuidado del horno, coroná con el eneldo fresco picado y serví bien caliente en la misma cazuela de barro, acompañada de rebanadas gruesas de pan de centeno rústico."
+        ]
+      }
+    ],
+    "notes": "El secreto fundamental para que la śmietana (crema ácida) no se corte es temperarla antes de sumarla a la sartén y cocinarla siempre a fuego bajo sin hervor tumultuoso. Si utilizás hongos silvestres secos como boletus o porcini, el agua de remojo filtrada aporta una profundidad umami terrosa que define el sabor de los bosques polacos.",
+    "tags": [
+      "grzyby w smietanie",
+      "hongos a la crema",
+      "cocina polaca",
+      "comida de polonia",
+      "boletus",
+      "porcini",
+      "cazuela de hongos",
+      "entradas calientes",
+      "receta polaca"
+    ]
   }
 ]
