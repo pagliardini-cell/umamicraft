@@ -80166,5 +80166,77 @@
       "500 g de queso muzzarella fresco (en cubos chicos o rallada gruesa)",
       "200 g de jamón cocido en fetas finas (aprox. 8 a 10 fetas)"
     ]
+  },
+  {
+    "id": 747,
+    "title": "Huevos Poché (Francia)",
+    "image": "https://lh3.googleusercontent.com/-NLSPo3rBl54/av5y2j0HkaI/AAAAAAAQC5U/q2tILBRpUWcuP8v9ds8GQ7oL7_or99uEACNcBGAsYHQ/s1600/huevos_poche_francia.jpg",
+    "category": "Desayunos & Huevos",
+    "country": "Francia",
+    "difficulty": "Media",
+    "prep_time": "5 min",
+    "cook_time": "4 min",
+    "servings": "2 porciones",
+    "calories": "190 kcal",
+    "story": "Documentado en los tratados de cocina francesa desde el siglo XVII bajo la técnica clásica del pochage, el huevo poché se consolidó como una de las máximas pruebas de destreza culinaria en la gastronomía gala. Popularizado por los bistrós parisinos en la emblemática ensalada lionesa y posteriormente adoptado en los desayunos internacionales de la alta hostelería como pilar de los huevos Benedict, representa la delicadeza de una clara tierna y sedosa que envuelve una yema tibia y fluida.",
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes Principales",
+        "ingredients": [
+          "2 huevos grandes de campo extra frescos",
+          "1 litro de agua",
+          "2 cucharadas de vinagre de alcohol o vinagre blanco común",
+          "2 rebanadas gruesas de pan de masa madre o pan brioche artesanal",
+          "20 g de manteca con sal derretida",
+          "Escamas de sal marina y pimienta negra recién molida a gusto",
+          "Hojas de perifollo, eneldo o ciboulette fresco para terminar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "",
+        "steps": [
+          "Colocá un colador de malla fina sobre un cuenco pequeño, cascá un huevo dentro y dejalo 20 segundos para que escurra la clara acuosa más líquida del borde exterior, conservando únicamente la clara densa que rodea la yema.",
+          "Pasá el huevo con cuidado a una compotera o taza pequeña para tenerlo listo para deslizar.",
+          "En una cacerola mediana con 1 litro de agua, agregá las 2 cucharadas de vinagre blanco y llevala a un hervor incipiente (unos 85 a 90 °C, donde solo asomen burbujas pequeñas en el fondo sin borbotones violentos ni sal en el agua).",
+          "Con una cuchara o batidor, revolvé el centro del agua con movimiento circular constante para generar un remolino suave.",
+          "Acercá la compotera a la superficie del agua en el centro del vórtice y deslizá el huevo con suavidad en un solo movimiento.",
+          "El movimiento del agua envolverá la clara densa alrededor de la yema; cociná a fuego mínimo y sin revolver durante 3 minutos a 3 minutos y medio exactos.",
+          "Retirá el huevo con una espumadera escurriendo el agua, apoyalo un segundo sobre papel absorbente para secar la base y recortá si quedara alguna hebra suelta.",
+          "Tostá las rebanadas de pan de masa madre, untalas con la manteca derretida, montá el huevo poché encima y terminalo con escamas de sal marina, pimienta negra molida y hierbas frescas picadas antes de cortar para liberar la yema líquida."
+        ]
+      }
+    ],
+    "notes": "El éxito absoluto del huevo poché depende de dos reglas innegociables: los huevos deben ser extra frescos (la clara densa no se desparrama) y jamás se debe agregar sal al agua de cocción, ya que la sal desintegra las proteínas de la clara haciendo que se disperse en hilos. El vinagre, por el contrario, acelera la coagulación rápida de la albúmina para formar una esfera compacta y tersa.",
+    "tags": [
+      "huevos poche",
+      "huevos escalfados",
+      "poached eggs",
+      "desayuno frances",
+      "cocina francesa",
+      "tecnica culinaria",
+      "brunch",
+      "pan de masa madre"
+    ],
+    "steps": [
+      "Colocá un colador de malla fina sobre un cuenco pequeño, cascá un huevo dentro y dejalo 20 segundos para que escurra la clara acuosa más líquida del borde exterior, conservando únicamente la clara densa que rodea la yema.",
+      "Pasá el huevo con cuidado a una compotera o taza pequeña para tenerlo listo para deslizar.",
+      "En una cacerola mediana con 1 litro de agua, agregá las 2 cucharadas de vinagre blanco y llevala a un hervor incipiente (unos 85 a 90 °C, donde solo asomen burbujas pequeñas en el fondo sin borbotones violentos ni sal en el agua).",
+      "Con una cuchara o batidor, revolvé el centro del agua con movimiento circular constante para generar un remolino suave.",
+      "Acercá la compotera a la superficie del agua en el centro del vórtice y deslizá el huevo con suavidad en un solo movimiento.",
+      "El movimiento del agua envolverá la clara densa alrededor de la yema; cociná a fuego mínimo y sin revolver durante 3 minutos a 3 minutos y medio exactos.",
+      "Retirá el huevo con una espumadera escurriendo el agua, apoyalo un segundo sobre papel absorbente para secar la base y recortá si quedara alguna hebra suelta.",
+      "Tostá las rebanadas de pan de masa madre, untalas con la manteca derretida, montá el huevo poché encima y terminalo con escamas de sal marina, pimienta negra molida y hierbas frescas picadas antes de cortar para liberar la yema líquida."
+    ],
+    "ingredients": [
+      "2 huevos grandes de campo extra frescos",
+      "1 litro de agua",
+      "2 cucharadas de vinagre de alcohol o vinagre blanco común",
+      "2 rebanadas gruesas de pan de masa madre o pan brioche artesanal",
+      "20 g de manteca con sal derretida",
+      "Escamas de sal marina y pimienta negra recién molida a gusto",
+      "Hojas de perifollo, eneldo o ciboulette fresco para terminar"
+    ]
   }
 ]
