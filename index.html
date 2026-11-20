@@ -1754,7 +1754,8 @@
         <button class="chip" data-tag="Autor" onclick="setQuickTag('Autor')">👨‍🍳 De Autor</button>
         <button class="chip" data-tag="Ramen" onclick="setQuickTag('Ramen')">🍜 Ramen</button>
         <button class="chip" data-tag="Empanadas" onclick="setQuickTag('Empanadas')">🥟 Empanadas</button>
-        <button class="chip" data-tag="Hamburguesas" onclick="setQuickTag('Hamburguesas')">🍔 Burgers & Sándwiches</button>
+        <button class="chip" data-tag="Hamburguesas" onclick="setQuickTag('Hamburguesas')">🍔 Hamburguesas</button>
+        <button class="chip" data-tag="Sándwiches" onclick="setQuickTag('Sándwiches')">🥪 Sándwiches</button>
         <button class="chip" data-tag="Pastas" onclick="setQuickTag('Pastas')">🍝 Pastas</button>
         <button class="chip" data-tag="Carnes" onclick="setQuickTag('Carnes')">🥩 Carnes</button>
         <button class="chip" data-tag="Pollo & Aves" onclick="setQuickTag('Pollo & Aves')">🍗 Pollo y Aves</button>
@@ -2475,7 +2476,8 @@
       if (lower === 'autor' || lower === 'de autor') return 'Autor';
       if (lower === 'ramen') return 'Ramen';
       if (lower === 'empanadas' || lower === 'empanada') return 'Empanadas';
-      if (lower === 'burgers' || lower === 'burger' || lower === 'burgers & sándwiches' || lower === 'hamburguesas' || lower === 'hamburguesa') return 'Hamburguesas';
+      if (lower === 'burgers' || lower === 'burger' || lower === 'hamburguesas' || lower === 'hamburguesa') return 'Hamburguesas';
+      if (lower === 'sándwiches' || lower === 'sandwiches' || lower === 'sándwich' || lower === 'sandwich') return 'Sándwiches';
       if (lower.includes('cocktail') || lower.includes('trago') || lower.includes('bebida')) return 'Cocktails & Bebidas';
       if (lower.includes('sopa') || lower.includes('caldo') || lower.includes('potaje')) return 'Sopas & Caldos';
       if (lower.includes('pollo') || lower.includes('ave')) return 'Pollo & Aves';
