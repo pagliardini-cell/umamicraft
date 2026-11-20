@@ -84581,5 +84581,119 @@
       "street food neoyorquino",
       "hamburguesa de culto"
     ]
+  },
+  {
+    "id": 795,
+    "title": "Sloppy Joe (Estados Unidos)",
+    "image": "https://lh3.googleusercontent.com/-_IJRbHell7s/awCH3rg-RtI/AAAAAAAQDGM/UUJRbGr_iUEKWhUKSv-WiLgIMav9B4eVgCNcBGAsYHQ/s1600/sloppy_joe.jpg",
+    "category": "Sándwiches",
+    "country": "Estados Unidos",
+    "difficulty": "Fácil",
+    "prep_time": "15 min",
+    "cook_time": "25 min",
+    "servings": "4 porciones",
+    "calories": "520 kcal",
+    "story": "Nacido durante la década de 1930 en el corazón del Midwest estadounidense, el Sloppy Joe es uno de los sándwiches más entrañables de la cocina norteamericana. Su invención suele atribuirse a un cocinero llamado Joe en una cafetería de Sioux City (Iowa), quien decidió añadir una reducción agridulce de salsa de tomate al tradicional 'loose-meat sandwich'. Rápidamente se convirtió en el emblema de las cafeterías escolares, los diners de ruta y las reuniones familiares de domingo en los Estados Unidos.",
+    "ingredients": [
+      "600 g de carne vacuna picada (roast beef o aguja con proporción 80/20)",
+      "1 cebolla mediana picada en cubos finos",
+      "½ pimiento morrón verde picado en cubos chicos",
+      "2 dientes de ajo finamente picados",
+      "1 cucharada de manteca para la sartén",
+      "¾ taza (180 ml) de puré de tomates o passata concentrada",
+      "½ taza (120 ml) de ketchup",
+      "1 cucharada colmada de salsa inglesa (Worcestershire)",
+      "1 cucharada de vinagre de manzana",
+      "1 cucharada de azúcar rubia o mascabo",
+      "1 cucharada de mostaza amarilla clásica",
+      "1 cucharadita de sal entrefina",
+      "½ cucharadita de pimienta negra recién molida",
+      "4 panes de hamburguesa con sésamo",
+      "4 fetas de queso cheddar (opcional)",
+      "1 cucharada adicional de manteca para tostar los panes"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Carne y Sofrito Base",
+        "ingredients": [
+          "600 g de carne vacuna picada 80/20",
+          "1 cebolla mediana picada en cubos finos",
+          "½ pimiento morrón verde picado en cubos chicos",
+          "2 dientes de ajo finamente picados",
+          "1 cucharada de manteca"
+        ]
+      },
+      {
+        "name": "Salsa Agridulce y Especias",
+        "ingredients": [
+          "¾ taza (180 ml) de puré de tomates",
+          "½ taza (120 ml) de ketchup",
+          "1 cucharada de salsa inglesa (Worcestershire)",
+          "1 cucharada de vinagre de manzana",
+          "1 cucharada de azúcar rubia",
+          "1 cucharada de mostaza amarilla clásica",
+          "1 cucharadita de sal entrefina",
+          "½ cucharadita de pimienta negra recién molida"
+        ]
+      },
+      {
+        "name": "Panes y Montaje",
+        "ingredients": [
+          "4 panes de hamburguesa con sésamo",
+          "4 fetas de queso cheddar (opcional)",
+          "1 cucharada de manteca para tostar"
+        ]
+      }
+    ],
+    "steps": [
+      "Picá la cebolla, el morrón verde y el ajo en cubitos bien pequeños y parejos.",
+      "En una sartén de fondo grueso o hierro fundido a fuego medio, fundí la cucharada de manteca e incorporá la cebolla y el morrón verde; cociná durante 5 minutos hasta que la cebolla quede transparente y comience a dorarse suavemente.",
+      "Sumá el ajo picado y cociná por 1 minuto más hasta que desprenda todo su aroma sin quemarse.",
+      "Subí el fuego a medio-alto, añadí la carne picada y cocinala rompiendo los trozos con una cuchara de madera para que quede bien desmenuzada y suelta, dorándola durante unos 6 a 8 minutos hasta que pierda el tono rosado.",
+      "Escurrí el exceso de grasa líquida de la sartén si fuera necesario, dejando una película justa para conservar el sabor.",
+      "Incorporá el puré de tomate, el ketchup, la salsa inglesa, el vinagre de manzana, el azúcar rubia, la mostaza amarilla, la sal entrefina y la pimienta negra.",
+      "Mezclá enérgicamente para integrar todos los sabores, bajá el fuego a mínimo y dejá reducir a fuego suave durante 12 a 15 minutos, revolviendo de vez en cuando, hasta obtener una mezcla bien espesa, jugosa y brillante que no gotee líquido aguado.",
+      "Mientras tanto, untá las caras internas de los panes de sésamo con la manteca restante y doralos en una plancha o sartén caliente hasta formar una costra crujiente impermeable.",
+      "Para armar, colocá una feta de queso cheddar sobre la base del pan tostado caliente, disponé dos cucharones colmados del relleno de carne desbordante por los bordes y tapá con la corona del pan.",
+      "Serví de inmediato en plato amplio, acompañado de papas fritas crocantes y servilletas a mano para disfrutar del bocado jugoso."
+    ],
+    "step_groups": [
+      {
+        "name": "Sofrito y Dorado de la Carne",
+        "steps": [
+          "Picá la cebolla, el morrón verde y el ajo en cubitos bien pequeños y parejos.",
+          "En una sartén de fondo grueso o hierro fundido a fuego medio, fundí la cucharada de manteca e incorporá la cebolla y el morrón verde; cociná durante 5 minutos hasta que la cebolla quede transparente y comience a dorarse suavemente.",
+          "Sumá el ajo picado y cociná por 1 minuto más hasta que desprenda todo su aroma sin quemarse.",
+          "Subí el fuego a medio-alto, añadí la carne picada y cocinala rompiendo los trozos con una cuchara de madera para que quede bien desmenuzada y suelta, dorándola durante unos 6 a 8 minutos hasta que pierda el tono rosado.",
+          "Escurrí el exceso de grasa líquida de la sartén si fuera necesario, dejando una película justa para conservar el sabor."
+        ]
+      },
+      {
+        "name": "Reducción de la Salsa Agridulce",
+        "steps": [
+          "Incorporá el puré de tomate, el ketchup, la salsa inglesa, el vinagre de manzana, el azúcar rubia, la mostaza amarilla, la sal entrefina y la pimienta negra.",
+          "Mezclá enérgicamente para integrar todos los sabores, bajá el fuego a mínimo y dejá reducir a fuego suave durante 12 a 15 minutos, revolviendo de vez en cuando, hasta obtener una mezcla bien espesa, jugosa y brillante que no gotee líquido aguado."
+        ]
+      },
+      {
+        "name": "Tostado y Montaje Desbordante",
+        "steps": [
+          "Mientras tanto, untá las caras internas de los panes de sésamo con la manteca restante y doralos en una plancha o sartén caliente hasta formar una costra crujiente impermeable.",
+          "Para armar, colocá una feta de queso cheddar sobre la base del pan tostado caliente, disponé dos cucharones colmados del relleno de carne desbordante por los bordes y tapá con la corona del pan.",
+          "Serví de inmediato en plato amplio, acompañado de papas fritas crocantes y servilletas a mano para disfrutar del bocado jugoso."
+        ]
+      }
+    ],
+    "notes": "El secreto indispensable para que el pan no se desarme con la salsa es tostar muy bien las caras internas con manteca hasta crear una película impermeable. La textura ideal de la carne no debe ser una sopa líquida ni un picadillo seco: debe tener la densidad justa para sostenerse en el pan pero desbordar tentadoramente al primer bocado.",
+    "tags": [
+      "sloppy joe",
+      "sandwich de carne picada",
+      "comida callejera americana",
+      "diner clasico",
+      "receta de sloppy joe",
+      "carne desmenuzada",
+      "sandwich caliente",
+      "comfort food eeuu"
+    ]
   }
 ]
