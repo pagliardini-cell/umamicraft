@@ -83484,5 +83484,831 @@
       "sin cocción",
       "entradas frías"
     ]
+  },
+  {
+    "id": 782,
+    "title": "Monte Cristo Sandwich (Estados Unidos)",
+    "image": "https://lh3.googleusercontent.com/-b-Zs3Q5fMjw/av-q4RX3E0I/AAAAAAAQDCY/3FNjVYEZ5kgwnXwzLhm8hnEXnwVpGnpwgCNcBGAsYHQ/s1600/monte_cristo_sandwich.jpg",
+    "category": "Sándwiches / Burgers",
+    "country": "Estados Unidos",
+    "difficulty": "Baja",
+    "prep_time": "15 min",
+    "cook_time": "10 min",
+    "servings": "2 porciones",
+    "calories": "560 kcal",
+    "story": "Surgido en los restaurantes de los hoteles del sur de California a mediados del siglo XX como una evolución festiva del croque-monsieur francés, el Monte Cristo alcanzó fama mundial tras incorporarse a los menús de Disneyland en la década de 1960. Su combinación de carnes curadas y queso fundente envueltos en masa de tostada francesa dorada a la manteca lo convirtió en el rey indiscutido del brunch dulce-salado norteamericano.",
+    "ingredients": [
+      "4 rebanadas de pan de molde blanco o pan brioche",
+      "150 g de jamón cocido natural en fetas",
+      "100 g de pechuga de pavo o pollo cocido en fetas finas",
+      "150 g de queso suizo tipo Gruyère o Emmental (o mozzarella fundente) en fetas",
+      "2 huevos de campo",
+      "60 ml de leche entera",
+      "1 cucharadita de mostaza Dijon",
+      "1 cucharadita de mayonesa",
+      "3 cucharadas de manteca para dorar",
+      "1 cucharadita de azúcar impalpable para espolvorear",
+      "Mermelada de frambuesas o frutos rojos para acompañar",
+      "1 pizca de nuez moscada y sal fina"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Armado del Sándwich",
+        "ingredients": [
+          "4 rebanadas de pan de molde",
+          "150 g de jamón cocido natural",
+          "100 g de pechuga de pavo cocida",
+          "150 g de queso suizo en fetas",
+          "1 cucharadita de mostaza Dijon",
+          "1 cucharadita de mayonesa"
+        ]
+      },
+      {
+        "name": "Batido para Rebozar y Cocción",
+        "ingredients": [
+          "2 huevos de campo",
+          "60 ml de leche entera",
+          "1 pizca de nuez moscada y sal fina",
+          "3 cucharadas de manteca para dorar",
+          "Azúcar impalpable y mermelada de frambuesas"
+        ]
+      }
+    ],
+    "steps": [
+      "Untá ligeramente dos de las rebanadas de pan con mostaza Dijon y mayonesa.",
+      "Armá cada sándwich intercalando una capa de queso suizo, jamón cocido, pechuga de pavo y otra capa de queso suizo, cerrando con la otra rebanada de pan y presionando suavemente.",
+      "En un recipiente hondo, batí los huevos con la leche, una pizca de sal y un toque de nuez moscada rallada.",
+      "Derretí la manteca en una sartén amplia a fuego medio-bajo.",
+      "Sumergí cada sándwich en el batido de huevo durante 10 segundos por lado para que absorba el líquido sin desarmarse.",
+      "Llevalos a la sartén y cocinalos a fuego suave durante 4 a 5 minutos por lado (tapando la sartén los primeros minutos) hasta que el pan adquiera un color dorado parejo y el queso del centro quede completamente derretido.",
+      "Cortá en diagonal, espolvoreá apenas con azúcar impalpable y serví de inmediato con una compotera de mermelada de frambuesa tibia para sumergir cada bocado."
+    ],
+    "step_groups": [
+      {
+        "name": "Montaje y Rebozado",
+        "steps": [
+          "Untá ligeramente dos de las rebanadas de pan con mostaza Dijon y mayonesa.",
+          "Armá cada sándwich intercalando una capa de queso suizo, jamón cocido, pechuga de pavo y otra capa de queso suizo, cerrando con la otra rebanada de pan y presionando suavemente.",
+          "En un recipiente hondo, batí los huevos con la leche, una pizca de sal y un toque de nuez moscada rallada."
+        ]
+      },
+      {
+        "name": "Cocción en Sartén y Servicio",
+        "steps": [
+          "Derretí la manteca en una sartén amplia a fuego medio-bajo.",
+          "Sumergí cada sándwich en el batido de huevo durante 10 segundos por lado para que absorba el líquido sin desarmarse.",
+          "Llevalos a la sartén y cocinalos a fuego suave durante 4 a 5 minutos por lado (tapando la sartén los primeros minutos) hasta que el pan adquiera un color dorado parejo y el queso del centro quede completamente derretido.",
+          "Cortá en diagonal, espolvoreá apenas con azúcar impalpable y serví de inmediato con una compotera de mermelada de frambuesa tibia para sumergir cada bocado."
+        ]
+      }
+    ],
+    "notes": "El fuego debe mantenerse medio-bajo para permitir que el calor penetre hasta el corazón del sándwich y funda el queso suizo antes de que la corteza se dore en exceso. El contraste de la mermelada ácida con el queso caliente y la manteca tostada es la firma indiscutible de este clásico.",
+    "tags": [
+      "monte cristo sandwich",
+      "sándwich de jamón y queso",
+      "tostada francesa salada",
+      "brunch",
+      "queso fundido",
+      "comida reconfortante",
+      "receta fácil",
+      "diner americano",
+      "pan brioche"
+    ]
+  },
+  {
+    "id": 783,
+    "title": "Grilled Cheese (Estados Unidos)",
+    "image": "https://lh3.googleusercontent.com/-GPFBRwPL5MM/av-q5RCp_aI/AAAAAAAQDCg/l_TdW5C8JKIvk7KmCN9yqPGg5sqJFL1NQCNcBGAsYHQ/s1600/grilled_cheese.jpg",
+    "category": "Sándwiches / Burgers",
+    "country": "Estados Unidos",
+    "difficulty": "Baja",
+    "prep_time": "10 min",
+    "cook_time": "8 min",
+    "servings": "2 porciones",
+    "calories": "480 kcal",
+    "story": "Nacido en la década de 1920 tras la popularización del pan de molde rebanado industrialmente y la creación del queso procesado fundente, el grilled cheese (originalmente llamado 'toasted cheese') fue un pilar fundamental durante la Gran Depresión y la Segunda Guerra Mundial. Con el tiempo se consagró en los diners de todo el país como el estándar de oro del sándwich caliente de queso dorado a la sartén.",
+    "ingredients": [
+      "4 rebanadas gruesas de pan blanco de campo o masa madre",
+      "120 g de queso mozzarella rallado grueso (para la elasticidad)",
+      "120 g de queso gouda o provolone suave (para el sabor profundo)",
+      "3 cucharadas de manteca pomada (a temperatura ambiente)",
+      "1 cucharada de queso parmesano rallado fino (para la costra exterior)",
+      "1 pizca de pimienta negra recién molida"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Pan y Quesos Fundentes",
+        "ingredients": [
+          "4 rebanadas gruesas de pan de campo",
+          "120 g de queso mozzarella rallado",
+          "120 g de queso gouda o provolone suave",
+          "1 pizca de pimienta negra"
+        ]
+      },
+      {
+        "name": "Costra Dorada de Sartén",
+        "ingredients": [
+          "3 cucharadas de manteca pomada",
+          "1 cucharada de queso parmesano rallado fino"
+        ]
+      }
+    ],
+    "steps": [
+      "Mezclá los quesos mozzarella y gouda rallados en un bol con un golpe de pimienta negra.",
+      "Untá una de las caras de cada rebanada de pan de manera generosa y pareja con la manteca pomada.",
+      "Espolvoreá una lluvia sutil de queso parmesano fino sobre la cara enmantecada para lograr una costra ultra crujiente al dorarse.",
+      "Armá los sándwiches colocando una montaña abundante de la mezcla de quesos sobre la cara no enmantecada, cerrando con la otra rebanada (manteca y parmesano hacia afuera).",
+      "Calentá una sartén de fondo grueso a fuego medio-bajo sin agregar materia grasa adicional.",
+      "Colocá los sándwiches y doralos durante 4 a 5 minutos por lado, presionando suavemente con una espátula y tapando la sartén dos minutos para atrapar el calor y derretir el queso por completo.",
+      "Retirá cuando ambas caras luzcan un color dorado brillante y tostado; cortá al medio al sesgo para disfrutar del hilo de queso elástico."
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación del Pan y Mezcla de Quesos",
+        "steps": [
+          "Mezclá los quesos mozzarella y gouda rallados en un bol con un golpe de pimienta negra.",
+          "Untá una de las caras de cada rebanada de pan de manera generosa y pareja con la manteca pomada.",
+          "Espolvoreá una lluvia sutil de queso parmesano fino sobre la cara enmantecada para lograr una costra ultra crujiente al dorarse."
+        ]
+      },
+      {
+        "name": "Cocción y Dorado a la Sartén",
+        "steps": [
+          "Armá los sándwiches colocando una montaña abundante de la mezcla de quesos sobre la cara no enmantecada, cerrando con la otra rebanada (manteca y parmesano hacia afuera).",
+          "Calentá una sartén de fondo grueso a fuego medio-bajo sin agregar materia grasa adicional.",
+          "Colocá los sándwiches y doralos durante 4 a 5 minutos por lado, presionando suavemente con una espátula y tapando la sartén dos minutos para atrapar el calor y derretir el queso por completo.",
+          "Retirá cuando ambas caras luzcan un color dorado brillante y tostado; cortá al medio al sesgo para disfrutar del hilo de queso elástico."
+        ]
+      }
+    ],
+    "notes": "Combinar un queso hilador (como mozzarella) con otro más maduro y sabroso (gouda o provolone) garantiza sabor lácteo potente y un tirón de queso perfecto. Untar manteca directamente sobre el pan y dorar a fuego bajo asegura que el pan no se queme antes de que el queso se funda.",
+    "tags": [
+      "grilled cheese",
+      "sándwich de queso",
+      "queso derretido",
+      "tostado en sartén",
+      "comida rápida casera",
+      "receta fácil",
+      "sin horno",
+      "diner clásico",
+      "merienda salada",
+      "pan de masa madre"
+    ]
+  },
+  {
+    "id": 784,
+    "title": "Meatball Sub (Estados Unidos)",
+    "image": "https://lh3.googleusercontent.com/-u_s-N1Y4B6M/av-q6b5xCgI/AAAAAAAQDCo/-jwXurAOob8E0s0eqzMOxOSJmBSi3shVQCNcBGAsYHQ/s1600/meatball_sub.jpg",
+    "category": "Sándwiches / Burgers",
+    "country": "Estados Unidos",
+    "difficulty": "Media",
+    "prep_time": "25 min",
+    "cook_time": "25 min",
+    "servings": "2 porciones",
+    "calories": "680 kcal",
+    "story": "Creado por la comunidad de inmigrantes italoamericanos en las tiendas de ultramarinos y delis de Nueva York y Nueva Jersey a principios del siglo XX, el sándwich de albóndigas (meatball sub) nació para transformar el ragú y las albóndigas familiares del domingo en un almuerzo contundente para los obreros. Hoy es uno de los sándwiches calientes más queridos y representativos de la gastronomía urbana estadounidense.",
+    "ingredients": [
+      "2 panes baguettes individuales o pan tipo flauta con semillas de sésamo",
+      "400 g de carne picada vacuna de buena calidad",
+      "1 diente de ajo finamente picado",
+      "2 cucharadas de perejil fresco picado",
+      "1 huevo batido",
+      "3 cucharadas de pan rallado",
+      "400 g de salsa de tomate casera tipo marinara (con cebolla, albahaca y orégano)",
+      "150 g de queso mozzarella rallado grueso",
+      "2 cucharadas de queso parmesano rallado",
+      "Hojas de albahaca fresca picadas para terminar",
+      "Aceite de oliva, sal entrefina y pimienta negra al gusto"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Albóndigas Caseras",
+        "ingredients": [
+          "400 g de carne picada vacuna",
+          "1 diente de ajo picado",
+          "2 cucharadas de perejil picado",
+          "1 huevo batido",
+          "3 cucharadas de pan rallado",
+          "Sal entrefina y pimienta negra molida"
+        ]
+      },
+      {
+        "name": "Estofado, Pan y Gratinado",
+        "ingredients": [
+          "2 panes baguettes con sésamo",
+          "400 g de salsa de tomate marinara casera",
+          "150 g de queso mozzarella rallado",
+          "2 cucharadas de queso parmesano",
+          "Hojas de albahaca fresca"
+        ]
+      }
+    ],
+    "steps": [
+      "En un bol grande, integrá la carne picada con el ajo, el perejil, el huevo batido, el pan rallado, sal y pimienta; amasá 2 minutos y formá albóndigas del tamaño de una pelota de golf (8 a 10 unidades).",
+      "Dorá las albóndigas en una sartén amplia con un chorro de aceite de oliva a fuego medio-alto durante 5 minutos hasta sellar toda su superficie.",
+      "Volcá la salsa de tomate marinara sobre las albóndigas, bajá el fuego a mínimo y cociná tapado durante 15 minutos para que la carne se impregne de la salsa y quede súper tierna.",
+      "Abrí los panes longitudinalmente por la parte superior retirando un poco de miga interior para formar una canoa que contenga el relleno.",
+      "Colocá una base de salsa caliente en cada pan y acomodá 4 a 5 albóndigas en fila dentro de cada baguette.",
+      "Bañá con más salsa marinara caliente y cubrí generosamente con queso mozzarella rallado y parmesano.",
+      "Llevá al horno precalentado a 220 °C con grill durante 4 a 5 minutos hasta que el queso se derrita por completo, burbujee y adquiera manchas doradas; coroná con hojas de albahaca fresca picadas."
+    ],
+    "step_groups": [
+      {
+        "name": "Elaboración de las Albóndigas en Salsa",
+        "steps": [
+          "En un bol grande, integrá la carne picada con el ajo, el perejil, el huevo batido, el pan rallado, sal y pimienta; amasá 2 minutos y formá albóndigas del tamaño de una pelota de golf (8 a 10 unidades).",
+          "Dorá las albóndigas en una sartén amplia con un chorro de aceite de oliva a fuego medio-alto durante 5 minutos hasta sellar toda su superficie.",
+          "Volcá la salsa de tomate marinara sobre las albóndigas, bajá el fuego a mínimo y cociná tapado durante 15 minutos para que la carne se impregne de la salsa y quede súper tierna."
+        ]
+      },
+      {
+        "name": "Montaje y Gratinado al Horno",
+        "steps": [
+          "Abrí los panes longitudinalmente por la parte superior retirando un poco de miga interior para formar una canoa que contenga el relleno.",
+          "Colocá una base de salsa caliente en cada pan y acomodá 4 a 5 albóndigas en fila dentro de cada baguette.",
+          "Bañá con más salsa marinara caliente y cubrí generosamente con queso mozzarella rallado y parmesano.",
+          "Llevá al horno precalentado a 220 °C con grill durante 4 a 5 minutos hasta que el queso se derrita por completo, burbujee y adquiera manchas doradas; coroná con hojas de albahaca fresca picadas."
+        ]
+      }
+    ],
+    "notes": "Hacer un corte en forma de 'V' en la parte superior del pan en lugar de abrirlo lateralmente evita que las albóndigas y la salsa se desborden al comer. Usar pan con corteza crujiente garantiza que el sándwich soporte la humedad del estofado sin ablandarse.",
+    "tags": [
+      "meatball sub",
+      "sándwich de albóndigas",
+      "comida italoamericana",
+      "mozzarella gratinada",
+      "salsa marinara",
+      "baguette rellena",
+      "sándwich caliente",
+      "receta de bodegón",
+      "almuerzo contundente"
+    ]
+  },
+  {
+    "id": 785,
+    "title": "BLT (Estados Unidos)",
+    "image": "https://lh3.googleusercontent.com/-7zX-61TRQ6Y/av-q7XipGZI/AAAAAAAQDCw/tDD6DYpRR9ktrbmiCOlG5ncNRraRBjPggCNcBGAsYHQ/s1600/blt_sandwich.jpg",
+    "category": "Sándwiches / Burgers",
+    "country": "Estados Unidos",
+    "difficulty": "Baja",
+    "prep_time": "10 min",
+    "cook_time": "8 min",
+    "servings": "2 porciones",
+    "calories": "420 kcal",
+    "story": "Descendiente directo de los emparedados de té victorianos y popularizado tras la Segunda Guerra Mundial con la expansión de los supermercados y la disponibilidad constante de tomates e ingredientes frescos, el BLT (Bacon, Lettuce, Tomato) se convirtió en el sándwich de tres ingredientes más celebrado de la cultura anglosajona gracias a su equilibrio milimétrico entre lo graso, lo crujiente y la acidez vegetal.",
+    "ingredients": [
+      "4 rebanadas de pan de molde blanco o pan de campo rústico",
+      "8 tiras de panceta ahumada de buen grosor",
+      "2 tomates redondos maduros pero firmes, cortados en rodajas de 1 cm",
+      "4 hojas grandes de lechuga capuchina (iceberg) o lechuga mantecosa bien crocantes",
+      "3 cucharadas colmadas de mayonesa casera",
+      "Sal entrefina y pimienta negra recién molida al gusto"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Panceta Crocante y Verduras Frescas",
+        "ingredients": [
+          "8 tiras de panceta ahumada",
+          "2 tomates redondos maduros en rodajas",
+          "4 hojas de lechuga crocante lavadas y secas",
+          "Sal entrefina y pimienta negra molida"
+        ]
+      },
+      {
+        "name": "Pan y Aderezo",
+        "ingredients": [
+          "4 rebanadas de pan de molde",
+          "3 cucharadas de mayonesa casera"
+        ]
+      }
+    ],
+    "steps": [
+      "Cociná las tiras de panceta en una sartén fría a fuego medio sin agregar aceite, permitiendo que suelte su grasa lentamente durante 6 a 8 minutos, dándolas vuelta hasta que queden onduladas, doradas y súper crujientes; escurrí sobre papel absorbente.",
+      "Tostá las rebanadas de pan en la tostadora o en la misma sartén con apenas unas gotas de la grasa de la panceta hasta que queden doradas y crocantes por fuera.",
+      "Disponé las rodajas de tomate sobre una tabla y salpimentalas con sal entrefina y pimienta recién molida.",
+      "Untá con generosidad las caras internas del pan tostado con mayonesa casera.",
+      "Montá en la base las hojas de lechuga bien secas (para actuar de barrera contra la humedad), acomodá las rodajas de tomate salpimentadas y coroná con las tiras de panceta crujiente.",
+      "Tapá con la otra rebanada de pan, presioná levemente con la palma de la mano y cortá al medio en dos triángulos con cuchillo de sierra para servir de inmediato."
+    ],
+    "step_groups": [
+      {
+        "name": "Cocción de la Panceta y Preparación",
+        "steps": [
+          "Cociná las tiras de panceta en una sartén fría a fuego medio sin agregar aceite, permitiendo que suelte su grasa lentamente durante 6 a 8 minutos, dándolas vuelta hasta que queden onduladas, doradas y súper crujientes; escurrí sobre papel absorbente.",
+          "Tostá las rebanadas de pan en la tostadora o en la misma sartén con apenas unas gotas de la grasa de la panceta hasta que queden doradas y crocantes por fuera.",
+          "Disponé las rodajas de tomate sobre una tabla y salpimentalas con sal entrefina y pimienta recién molida."
+        ]
+      },
+      {
+        "name": "Montaje en Capas",
+        "steps": [
+          "Untá con generosidad las caras internas del pan tostado con mayonesa casera.",
+          "Montá en la base las hojas de lechuga bien secas (para actuar de barrera contra la humedad), acomodá las rodajas de tomate salpimentadas y coroná con las tiras de panceta crujiente.",
+          "Tapá con la otra rebanada de pan, presioná levemente con la palma de la mano y cortá al medio en dos triángulos con cuchillo de sierra para servir de inmediato."
+        ]
+      }
+    ],
+    "notes": "El secreto de un BLT perfecto está en la calidad del tomate: debe estar maduro y jugoso, y salpimentarlo justo antes de montarlo potencia su sabor. La lechuga colocada directamente sobre el pan con mayonesa evita que los jugos del tomate ablanden la tostada.",
+    "tags": [
+      "blt sandwich",
+      "panceta crocante",
+      "lechuga y tomate",
+      "sándwich clásico",
+      "comida rápida casera",
+      "almuerzo liviano",
+      "receta fácil",
+      "mayonesa casera",
+      "sin cocción compleja"
+    ]
+  },
+  {
+    "id": 786,
+    "title": "Croque Madame (Francia)",
+    "image": "https://lh3.googleusercontent.com/-EHwLfpf9Vc8/av-q8rsk6gI/AAAAAAAQDC4/A1ZgzthY6nUTpWJ_pOD2-F0FbsOnWA48QCNcBGAsYHQ/s1600/croque_madame.jpg",
+    "category": "Sándwiches / Burgers",
+    "country": "Francia",
+    "difficulty": "Media",
+    "prep_time": "15 min",
+    "cook_time": "15 min",
+    "servings": "2 porciones",
+    "calories": "580 kcal",
+    "story": "Aparecido en los cafés y bistrós parisinos a comienzos del siglo XX como una variante enriquecida del croque-monsieur (creado en 1910 en el Boulevard des Capucines), el croque-madame debe su nombre al huevo frito a caballo colocado sobre el sándwich gratinado, cuya silueta evocaba los elegantes sombreros femeninos de la Belle Époque.",
+    "ingredients": [
+      "4 rebanadas de pan de molde de buena calidad o pan brioche",
+      "150 g de jamón cocido natural de fiambrería",
+      "150 g de queso Gruyère o Emmental rallado (o mozzarella)",
+      "2 huevos de campo muy frescos",
+      "25 g de manteca",
+      "25 g de harina de trigo 0000",
+      "250 ml de leche entera tibia",
+      "1 cucharadita de mostaza Dijon",
+      "1 pizca de nuez moscada rallada",
+      "Ciboulette fresco picado",
+      "Sal fina y pimienta negra molida al gusto"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Salsa Bechamel Cremosa",
+        "ingredients": [
+          "25 g de manteca",
+          "25 g de harina de trigo",
+          "250 ml de leche entera tibia",
+          "1 cucharadita de mostaza Dijon",
+          "1 pizca de nuez moscada y sal fina"
+        ]
+      },
+      {
+        "name": "Sándwich y Huevo Frito",
+        "ingredients": [
+          "4 rebanadas de pan de molde",
+          "150 g de jamón cocido natural",
+          "150 g de queso Gruyère rallado",
+          "2 huevos de campo",
+          "Ciboulette fresco picado"
+        ]
+      }
+    ],
+    "steps": [
+      "En una cacerolita a fuego medio, derretí la manteca, agregá la harina y cociná durante 1 minuto revolviendo con batidor de alambre para formar un roux claro.",
+      "Verté la leche tibia en hilo fino sin dejar de batir hasta que rompa hervor y espese; condimentá con sal, pimienta, nuez moscada y la mostaza Dijon; retirá del fuego.",
+      "Tostá apenas las rebanadas de pan en el horno o en una sartén.",
+      "Untá dos rebanadas con una capa fina de bechamel, acomodá las fetas de jamón cocido y una lluvia de queso Gruyère rallado; tapá con las otras rebanadas de pan.",
+      "Cubrí la superficie superior de cada sándwich con dos cucharadas colmadas de bechamel y cubrí con abundante queso rallado para gratinar.",
+      "Llevalos al horno a 200 °C con grill durante 5 a 7 minutos hasta que la cubierta burbujee y quede dorada y crujiente.",
+      "Mientras tanto, freí los dos huevos en una sartén con manteca a fuego suave para que la clara quede cocida y la yema permanezca líquida.",
+      "Retirá los sándwiches del horno, coroná cada uno con un huevo frito, espolvoreá con ciboulette picado y pimienta negra recién molida y serví de inmediato."
+    ],
+    "step_groups": [
+      {
+        "name": "Elaboración de la Bechamel",
+        "steps": [
+          "En una cacerolita a fuego medio, derretí la manteca, agregá la harina y cociná durante 1 minuto revolviendo con batidor de alambre para formar un roux claro.",
+          "Verté la leche tibia en hilo fino sin dejar de batir hasta que rompa hervor y espese; condimentá con sal, pimienta, nuez moscada y la mostaza Dijon; retirá del fuego."
+        ]
+      },
+      {
+        "name": "Gratinado al Horno y Huevo Frito",
+        "steps": [
+          "Tostá apenas las rebanadas de pan en el horno o en una sartén.",
+          "Untá dos rebanadas con una capa fina de bechamel, acomodá las fetas de jamón cocido y una lluvia de queso Gruyère rallado; tapá con las otras rebanadas de pan.",
+          "Cubrí la superficie superior de cada sándwich con dos cucharadas colmadas de bechamel y cubrí con abundante queso rallado para gratinar.",
+          "Llevalos al horno a 200 °C con grill durante 5 a 7 minutos hasta que la cubierta burbujee y quede dorada y crujiente.",
+          "Mientras tanto, freí los dos huevos en una sartén con manteca a fuego suave para que la clara quede cocida y la yema permanezca líquida.",
+          "Retirá los sándwiches del horno, coroná cada uno con un huevo frito, espolvoreá con ciboulette picado y pimienta negra recién molida y serví de inmediato."
+        ]
+      }
+    ],
+    "notes": "La yema de huevo debe mantenerse fluida para que al primer corte actúe como una salsa tibia que se fusiona con la bechamel y el queso fundido. El toque de mostaza Dijon en la bechamel corta la grasa láctea y equilibra el sabor general.",
+    "tags": [
+      "croque madame",
+      "sándwich francés",
+      "bechamel casera",
+      "huevo frito",
+      "queso gruyere",
+      "bistró parisino",
+      "brunch gourmet",
+      "gratinado al horno",
+      "sándwich caliente"
+    ]
+  },
+  {
+    "id": 787,
+    "title": "Cuban Sandwich (Cuba)",
+    "image": "https://lh3.googleusercontent.com/-kWBPbf3O-Ts/av-q9hZPYaI/AAAAAAAQDDA/18O8Faq6svsnbll4lFn11G1cVCkXQGiuwCNcBGAsYHQ/s1600/cuban_sandwich.jpg",
+    "category": "Sándwiches / Burgers",
+    "country": "Cuba",
+    "difficulty": "Baja",
+    "prep_time": "15 min",
+    "cook_time": "10 min",
+    "servings": "2 porciones",
+    "calories": "590 kcal",
+    "story": "Nacido a fines del siglo XIX en los centros tabaqueros de Tampa (barrio de Ybor City), Cayo Hueso y La Habana para alimentar a los trabajadores del tabaco, el sándwich cubano representa la unión de las tradiciones española, caribeña y norteamericana. Su método de prensado a la plancha funde las capas de carnes y queso en un emparedado compacto, crujiente y caliente.",
+    "ingredients": [
+      "2 panes tipo baguette de corteza fina o pan cubano (de unos 20 cm cada uno)",
+      "150 g de jamón cocido dulce en fetas",
+      "150 g de carne de cerdo asada (tipo lechón o carré de cerdo especiado) en fetas finas",
+      "100 g de queso suizo en fetas",
+      "2 pepinillos agridulces encurtidos grandes, cortados longitudinalmente en láminas",
+      "2 cucharadas de mostaza amarilla clásica",
+      "2 cucharadas de manteca pomada para pincelar el pan por fuera",
+      "Pimienta negra al gusto"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Relleno del Sándwich",
+        "ingredients": [
+          "2 panes tipo baguette de corteza fina",
+          "150 g de jamón cocido dulce",
+          "150 g de carne de cerdo asada en fetas",
+          "100 g de queso suizo en fetas",
+          "2 pepinillos agridulces encurtidos en láminas",
+          "2 cucharadas de mostaza amarilla"
+        ]
+      },
+      {
+        "name": "Prensado y Dorado",
+        "ingredients": [
+          "2 cucharadas de manteca pomada para el exterior"
+        ]
+      }
+    ],
+    "steps": [
+      "Abrí los panes longitudinalmente al medio.",
+      "Untá generosamente ambas caras internas del pan con la mostaza amarilla.",
+      "Disponé sobre la base una capa de jamón cocido, seguida por las fetas de cerdo asado tibio, las láminas de pepinillo agridulce y coroná con el queso suizo.",
+      "Cerrá los sándwiches y pincelá la corteza exterior (superior e inferior) con manteca pomada.",
+      "Calentá una plancha o sartén de hierro a fuego medio; colocá los sándwiches y presionalos firmemente colocando una sartén pesada o una plancha prensa encima.",
+      "Cociná durante 4 a 5 minutos por lado hasta que el pan quede comprimido, ultra crujiente y dorado, y el queso del interior se derrita fusionando las carnes.",
+      "Retirá de la plancha, cortá al sesgo en diagonal y serví acompañado de chips de plátano o papas fritas."
+    ],
+    "step_groups": [
+      {
+        "name": "Armado del Sándwich",
+        "steps": [
+          "Abrí los panes longitudinalmente al medio.",
+          "Untá generosamente ambas caras internas del pan con la mostaza amarilla.",
+          "Disponé sobre la base una capa de jamón cocido, seguida por las fetas de cerdo asado tibio, las láminas de pepinillo agridulce y coroná con el queso suizo."
+        ]
+      },
+      {
+        "name": "Prensado y Tostado a la Plancha",
+        "steps": [
+          "Cerrá los sándwiches y pincelá la corteza exterior (superior e inferior) con manteca pomada.",
+          "Calentá una plancha o sartén de hierro a fuego medio; colocá los sándwiches y presionalos firmemente colocando una sartén pesada o una plancha prensa encima.",
+          "Cociná durante 4 a 5 minutos por lado hasta que el pan quede comprimido, ultra crujiente y dorado, y el queso del interior se derrita fusionando las carnes.",
+          "Retirá de la plancha, cortá al sesgo en diagonal y serví acompañado de chips de plátano o papas fritas."
+        ]
+      }
+    ],
+    "notes": "El prensado es el factor crítico: comprimir el pan elimina aire y permite que la grasa del cerdo asado y la acidez del pepinillo se amalgamen con el queso fundido. Jamás se debe agregar lechuga ni tomate a la versión auténtica cubana.",
+    "tags": [
+      "cuban sandwich",
+      "sándwich cubano",
+      "cerdo asado",
+      "pepinillos agridulces",
+      "queso suizo",
+      "prensado a la plancha",
+      "street food caribeño",
+      "receta fácil",
+      "comida callejera"
+    ]
+  },
+  {
+    "id": 788,
+    "title": "Tuna Melt (Estados Unidos)",
+    "image": "https://lh3.googleusercontent.com/-MWGlpjQ2AMk/av-q-VqkKII/AAAAAAAQDDI/1m3tsRsH7eg8c6qo345vqTJCt0ex8mDNQCNcBGAsYHQ/s1600/tuna_melt.jpg",
+    "category": "Sándwiches / Burgers",
+    "country": "Estados Unidos",
+    "difficulty": "Baja",
+    "prep_time": "10 min",
+    "cook_time": "8 min",
+    "servings": "2 porciones",
+    "calories": "460 kcal",
+    "story": "Nacido de forma casual en la década de 1960 en un mostrador del Woolworth's de Charleston (Carolina del Sur), cuando una porción de ensalada de atún cayó accidentalmente sobre un queso tostado a la plancha, el tuna melt se extendió con rapidez por todos los diners y cafeterías de los Estados Unidos como un almuerzo rápido, nutritivo y reconfortante.",
+    "ingredients": [
+      "4 rebanadas de pan de molde de centeno o pan de campo blanco",
+      "2 latas de atún en aceite o al natural (escurridas, unos 240 g)",
+      "3 cucharadas colmadas de mayonesa",
+      "1 tallo pequeño de apio picado muy fino",
+      "2 cucharadas de cebolla morada picada finita",
+      "1 cucharadita de mostaza Dijon",
+      "1 cucharadita de jugo de limón fresco",
+      "1 cucharadita de eneldo fresco picado (o perejil)",
+      "120 g de queso provolone, mozzarella o gouda en fetas",
+      "2 cucharadas de manteca pomada para dorar",
+      "Sal fina y pimienta negra molida al gusto"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Pasta Cremosa de Atún",
+        "ingredients": [
+          "2 latas de atún bien escurridas",
+          "3 cucharadas de mayonesa",
+          "1 tallo de apio picado muy fino",
+          "2 cucharadas de cebolla morada picada",
+          "1 cucharadita de mostaza Dijon",
+          "1 cucharadita de jugo de limón",
+          "1 cucharadita de eneldo fresco",
+          "Sal fina y pimienta negra"
+        ]
+      },
+      {
+        "name": "Pan y Queso Fundente",
+        "ingredients": [
+          "4 rebanadas de pan de molde",
+          "120 g de queso fundente en fetas",
+          "2 cucharadas de manteca pomada"
+        ]
+      }
+    ],
+    "steps": [
+      "En un bol mediano, desmenuzá el atún con un tenedor y mezclalo con la mayonesa, el apio picado, la cebolla morada, la mostaza Dijon, el jugo de limón, el eneldo fresco, sal y pimienta negra hasta obtener una ensaladilla cremosa pero con textura.",
+      "Untá una de las caras de cada rebanada de pan con manteca pomada.",
+      "Colocá dos rebanadas con la manteca hacia abajo sobre una tabla.",
+      "Acomodá una feta de queso en la base, repartí la mezcla de atún en una capa pareja y generosa, y coroná con otra feta de queso fundente.",
+      "Cerrá con las otras rebanadas de pan (con la cara enmantecada hacia arriba).",
+      "Calentá una sartén a fuego medio-bajo; colocá los sándwiches y doralos durante 4 minutos por lado tapando la sartén para atrapar el calor y derretir el queso sobre el atún.",
+      "Cuando el pan esté dorado y crujiente y el queso derretido desborde, retirá, cortá al medio y serví caliente."
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación del Relleno de Atún",
+        "steps": [
+          "En un bol mediano, desmenuzá el atún con un tenedor y mezclalo con la mayonesa, el apio picado, la cebolla morada, la mostaza Dijon, el jugo de limón, el eneldo fresco, sal y pimienta negra hasta obtener una ensaladilla cremosa pero con textura."
+        ]
+      },
+      {
+        "name": "Armado y Tostado a la Sartén",
+        "steps": [
+          "Untá una de las caras de cada rebanada de pan con manteca pomada.",
+          "Colocá dos rebanadas con la manteca hacia abajo sobre una tabla.",
+          "Acomodá una feta de queso en la base, repartí la mezcla de atún en una capa pareja y generosa, y coroná con otra feta de queso fundente.",
+          "Cerrá con las otras rebanadas de pan (con la cara enmantecada hacia arriba).",
+          "Calentá una sartén a fuego medio-bajo; colocá los sándwiches y doralos durante 4 minutos por lado tapando la sartén para atrapar el calor y derretir el queso sobre el atún.",
+          "Cuando el pan esté dorado y crujiente y el queso derretido desborde, retirá, cortá al medio y serví caliente."
+        ]
+      }
+    ],
+    "notes": "Colocar queso tanto abajo como arriba del atún crea un doble sellado que mantiene la ensaladilla en su sitio y aporta cremosidad por ambos lados. El apio y la cebolla aportan el crujido indispensable para contrastar la suavidad del atún.",
+    "tags": [
+      "tuna melt",
+      "sándwich de atún",
+      "queso fundido",
+      "atún con mayonesa",
+      "tostado a la sartén",
+      "receta fácil",
+      "almuerzo en 10 minutos",
+      "diner americano",
+      "comida rápida casera"
+    ]
+  },
+  {
+    "id": 789,
+    "title": "Bifana (Portugal)",
+    "image": "https://lh3.googleusercontent.com/-XDYL4YMRnJ4/av-q_uKrocI/AAAAAAAQDDQ/4CEqgVpVSUsnuy5UvYSIpZU2LGVZVMZegCNcBGAsYHQ/s1600/bifana.jpg",
+    "category": "Sándwiches / Burgers",
+    "country": "Portugal",
+    "difficulty": "Baja",
+    "prep_time": "15 min",
+    "cook_time": "15 min",
+    "servings": "3 porciones",
+    "calories": "480 kcal",
+    "story": "Originaria de la villa alentejana de Vendas Novas durante el siglo XX y rápidamente adoptada en las tabernas y fiestas populares de todo Portugal, la bifana es el plato de comida al paso por antonomasia de los portugueses. Su técnica de cocinar finísimos filetes de cerdo en una infusión de vino blanco, manteca, manteca de cerdo, ajo y pimentón convierte al pan tradicional en una esponja irresistible de sabores rústicos.",
+    "ingredients": [
+      "3 panes redondos de corteza crujiente tipo pan portugués, papossecos o flautas rústicas",
+      "500 g de lomo o pierna de cerdo cortado en filetes ultrafinos",
+      "4 dientes de ajo pelados y machacados",
+      "150 ml de vino blanco seco",
+      "1 cucharada colmada de pimentón dulce (colorau)",
+      "1 hoja de laurel",
+      "2 cucharadas de manteca (o grasa de cerdo tradicional)",
+      "2 cucharadas de aceite de oliva",
+      "1 cucharadita de mostaza clásica suave",
+      "Sal gruesa y pimienta blanca al gusto"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Marinada y Cocción de la Carne",
+        "ingredients": [
+          "500 g de cerdo en filetes ultrafinos",
+          "4 dientes de ajo machacados",
+          "150 ml de vino blanco seco",
+          "1 cucharada de pimentón dulce",
+          "1 hoja de laurel",
+          "2 cucharadas de manteca",
+          "2 cucharadas de aceite de oliva",
+          "Sal gruesa y pimienta blanca"
+        ]
+      },
+      {
+        "name": "Panes y Servicio",
+        "ingredients": [
+          "3 panes redondos crocantes",
+          "Mostaza suave para acompañar"
+        ]
+      }
+    ],
+    "steps": [
+      "Espalmá los filetes de cerdo golpeándolos con la maza de cocina entre dos hojas de papel film hasta dejarlos muy finos y tiernos.",
+      "En una fuente honda, mariná la carne con el ajo machacado, el vino blanco, el pimentón dulce, la hoja de laurel, sal y pimienta durante al menos 15 minutos.",
+      "En una sartén amplia a fuego medio, calentá el aceite de oliva junto con la manteca.",
+      "Escurrí los filetes y doralos rápidamente durante 1 a 2 minutos por lado a fuego vivo.",
+      "Verté el líquido de la marinada en la sartén sobre los filetes y dejá reducir a fuego medio durante 5 minutos para que se forme una salsa densa, roja y aromática.",
+      "Abrí los panes al medio y humedecé ligeramente las caras interiores de la miga sumergiéndolas un instante en la salsa hirviendo de la sartén.",
+      "Rellená los panes con abundante carne de cerdo bien jugosa, regá con una cucharada más de salsa caliente y serví de inmediato con mostaza al gusto y papas fritas."
+    ],
+    "step_groups": [
+      {
+        "name": "Aplanado y Marinada del Cerdo",
+        "steps": [
+          "Espalmá los filetes de cerdo golpeándolos con la maza de cocina entre dos hojas de papel film hasta dejarlos muy finos y tiernos.",
+          "En una fuente honda, mariná la carne con el ajo machacado, el vino blanco, el pimentón dulce, la hoja de laurel, sal y pimienta durante al menos 15 minutos."
+        ]
+      },
+      {
+        "name": "Cocción y Armado Jugoso",
+        "steps": [
+          "En una sartén amplia a fuego medio, calentá el aceite de oliva junto con la manteca.",
+          "Escurrí los filetes y doralos rápidamente durante 1 a 2 minutos por lado a fuego vivo.",
+          "Verté el líquido de la marinada en la sartén sobre los filetes y dejá reducir a fuego medio durante 5 minutos para que se forme una salsa densa, roja y aromática.",
+          "Abrí los panes al medio y humedecé ligeramente las caras interiores de la miga sumergiéndolas un instante en la salsa hirviendo de la sartén.",
+          "Rellená los panes con abundante carne de cerdo bien jugosa, regá con una cucharada más de salsa caliente y serví de inmediato con mostaza al gusto y papas fritas."
+        ]
+      }
+    ],
+    "notes": "Empapar el pan con la salsa de cocción es el sello irrenunciable de una auténtica bifana: el pan no debe quedar seco jamás. El corte ultrafino del cerdo asegura que se cocine en pocos minutos manteniéndose sumamente tierno.",
+    "tags": [
+      "bifana",
+      "sándwich portugués",
+      "cerdo al vino blanco",
+      "comida callejera portuguesa",
+      "street food",
+      "receta tradicional",
+      "pan crujiente",
+      "alentejo",
+      "tasca portuguesa",
+      "receta económica"
+    ]
+  },
+  {
+    "id": 790,
+    "title": "Jambon-Beurre (Francia)",
+    "image": "https://lh3.googleusercontent.com/-mX39Fj0sodM/av-rAUyszQI/AAAAAAAQDDY/1RMyRVTuvzoeiZ_4eWc28cJF0qCYqgq-gCNcBGAsYHQ/s1600/jambon_beurre.jpg",
+    "category": "Sándwiches / Burgers",
+    "country": "Francia",
+    "difficulty": "Baja",
+    "prep_time": "10 min",
+    "cook_time": "0 min",
+    "servings": "2 porciones",
+    "calories": "390 kcal",
+    "story": "Consumido por millones a diario en las panaderías de París y en los mostradores de los bistrós desde fines del siglo XIX con la expansión de la baguette artesanal, el jambon-beurre (también conocido como 'le Parisien') encarna la máxima expresión del minimalismo gastronómico francés: el triunfo del producto noble sobre cualquier artificio culinario.",
+    "ingredients": [
+      "1 baguette tradicional recién horneada (de corteza bien crujiente y miga alveolada)",
+      "150 g de jamón cocido natural de campo (Jambon de Paris o jamón cocido artesanal de fiambrería)",
+      "60 g de manteca de excelente calidad (preferentemente con cristales de sal marina o manteca francesa pomada)",
+      "Pimienta negra recién molida opcional al gusto"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Ingredientes Nobles",
+        "ingredients": [
+          "1 baguette tradicional fresca",
+          "150 g de jamón cocido natural en fetas finas y aireadas",
+          "60 g de manteca con sal marina pomada"
+        ]
+      }
+    ],
+    "steps": [
+      "Dejá la manteca a temperatura ambiente durante 20 minutos hasta que tome textura pomada sedosa y maleable.",
+      "Cortá la baguette a la mitad a lo largo con un cuchillo de sierra sin llegar a separar las dos tapas por completo.",
+      "Untá con generosidad absoluta ambas caras internas del pan con la manteca pomada, asegurándote de llegar hasta los extremos.",
+      "Acomodá las fetas de jamón cocido natural doblándolas suavemente sobre sí mismas para crear volumen y aire entre las capas en lugar de aplastarlas.",
+      "Cerrá el pan, presioná levemente con la mano para unir los sabores y cortá en dos porciones para disfrutar de inmediato."
+    ],
+    "step_groups": [
+      {
+        "name": "Untado y Ensamblado Tradicional",
+        "steps": [
+          "Dejá la manteca a temperatura ambiente durante 20 minutos hasta que tome textura pomada sedosa y maleable.",
+          "Cortá la baguette a la mitad a lo largo con un cuchillo de sierra sin llegar a separar las dos tapas por completo.",
+          "Untá con generosidad absoluta ambas caras internas del pan con la manteca pomada, asegurándote de llegar hasta los extremos.",
+          "Acomodá las fetas de jamón cocido natural doblándolas suavemente sobre sí mismas para crear volumen y aire entre las capas en lugar de aplastarlas.",
+          "Cerrá el pan, presioná levemente con la mano para unir los sabores y cortá en dos porciones para disfrutar de inmediato."
+        ]
+      }
+    ],
+    "notes": "Al tener solo tres ingredientes, la calidad es todo: la manteca debe ser de primera línea con un punto justo de sal, y el jamón cocido debe ser artesanal sin agua añadida. Doblar el jamón con volumen permite que el aire potencie la textura al morder la baguette crocante.",
+    "tags": [
+      "jambon beurre",
+      "le parisien",
+      "baguette con jamón",
+      "manteca francesa",
+      "sándwich clásico",
+      "comida francesa",
+      "sin cocción",
+      "receta de 3 ingredientes",
+      "picnic parisino",
+      "panadería artesanal"
+    ]
+  },
+  {
+    "id": 791,
+    "title": "Bacon, Egg and Cheese (Estados Unidos)",
+    "image": "https://lh3.googleusercontent.com/-1YJLRJXX4ww/av-rB1BpgBI/AAAAAAAQDDg/xwnrNM0ojT4WeE_Pl23Gb-7kQ64_6DPTQCNcBGAsYHQ/s1600/bacon_egg_and_cheese.jpg",
+    "category": "Sándwiches / Burgers",
+    "country": "Estados Unidos",
+    "difficulty": "Baja",
+    "prep_time": "10 min",
+    "cook_time": "8 min",
+    "servings": "1 porción",
+    "calories": "510 kcal",
+    "story": "Institución matutina de las bodegas y delis de la ciudad de Nueva York desde mediados del siglo XX, el sándwich de panceta, huevo y queso (conocido popularmente como B.E.C.) es el motor energético de millones de neoyorquinos. Cocinado a la chapa caliente en cuestión de minutos, combina el crujido ahumado de la panceta con la suavidad del huevo y la cremosidad fundente del queso.",
+    "ingredients": [
+      "2 rebanadas gruesas de pan de molde rústico o 1 panecillo brioche (o kaiser roll)",
+      "4 tiras de panceta ahumada",
+      "2 huevos de campo",
+      "2 fetas de queso americano o queso cheddar suave fundente",
+      "1 cucharada de manteca",
+      "Sal fina y pimienta negra recién molida al gusto",
+      "Kétchup o salsa picante suave (opcional, al gusto del comensal)"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Relleno a la Chapa",
+        "ingredients": [
+          "4 tiras de panceta ahumada",
+          "2 huevos de campo batidos ligeramente",
+          "2 fetas de queso fundente",
+          "Sal fina y pimienta negra recién molida"
+        ]
+      },
+      {
+        "name": "Pan Tostado",
+        "ingredients": [
+          "2 rebanadas gruesas de pan de molde rústico",
+          "1 cucharada de manteca"
+        ]
+      }
+    ],
+    "steps": [
+      "Cociná la panceta en una sartén caliente a fuego medio hasta que quede bien dorada y crocante; reservá sobre papel absorbente.",
+      "En la misma sartén o plancha con una nuez de manteca, tostá las caras internas del pan hasta que estén doradas; reservá.",
+      "Batí ligeramente los huevos con sal y pimienta; volcálos sobre la plancha con un toque de manteca a fuego medio, doblando los bordes hacia el centro para formar un rectángulo del tamaño exacto del pan.",
+      "Cuando el huevo esté casi cocido pero aún jugoso en la superficie, colocá las fetas de queso encima para que comiencen a fundirse con el calor residual.",
+      "Disponé las tiras de panceta crujiente sobre el queso derretido.",
+      "Con la espátula, levantá el bloque entero de huevo, queso y panceta y montalo directamente sobre la base del pan tostado.",
+      "Añadí un toque de pimienta negra o kétchup si te gusta, cerrá el sándwich y serví inmediatamente bien caliente."
+    ],
+    "step_groups": [
+      {
+        "name": "Cocción de la Panceta y Pan",
+        "steps": [
+          "Cociná la panceta en una sartén caliente a fuego medio hasta que quede bien dorada y crocante; reservá sobre papel absorbente.",
+          "En la misma sartén o plancha con una nuez de manteca, tostá las caras internas del pan hasta que estén doradas; reservá."
+        ]
+      },
+      {
+        "name": "Huevo a la Plancha y Montaje",
+        "steps": [
+          "Batí ligeramente los huevos con sal y pimienta; volcálos sobre la plancha con un toque de manteca a fuego medio, doblando los bordes hacia el centro para formar un rectángulo del tamaño exacto del pan.",
+          "Cuando el huevo esté casi cocido pero aún jugoso en la superficie, colocá las fetas de queso encima para que comiencen a fundirse con el calor residual.",
+          "Disponé las tiras de panceta crujiente sobre el queso derretido.",
+          "Con la espátula, levantá el bloque entero de huevo, queso y panceta y montalo directamente sobre la base del pan tostado.",
+          "Añadí un toque de pimienta negra o kétchup si te gusta, cerrá el sándwich y serví inmediatamente bien caliente."
+        ]
+      }
+    ],
+    "notes": "Doblar los bordes del huevo hacia el centro crea capas esponjosas que retienen el calor y funden el queso por completo sin sobrecocinar el huevo. El pan debe estar tostado con manteca para ofrecer un crujido inicial que cede ante la suavidad del interior.",
+    "tags": [
+      "bacon egg and cheese",
+      "bec sandwich",
+      "desayuno neoyorquino",
+      "huevo a la plancha",
+      "panceta crocante",
+      "queso derretido",
+      "deli clásico",
+      "receta en 10 minutos",
+      "sándwich de desayuno"
+    ]
   }
 ]
