@@ -6498,7 +6498,7 @@
       }
     ],
     "notes": "¡Advertencia clásica de Minneapolis!: el queso encerrado en el centro sale a temperatura de lava volcánica; esperar siempre un par de minutos antes del primer bocado.",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1f3I3jYtOv9CJmwLmtmQKi8s5a9T-F98Nys7nLh4fBIoQxguISxo0J8G6ofxZ8qkSqsYx4l1gZjxVKXUImsuHXoqsMnAA83uAD4OHTcUpK5vM2vQuFqRTJgNUzmVlYrDJ5lYC5B4B1AVM/s1600/jucy.jpg",
+    "image": "https://lh3.googleusercontent.com/-MHsSu2X7UZ4/awBuDCoG4kI/AAAAAAAQDFg/WEPpVbAl43wJqJnM0kVtDJc4Dlec3iGrACNcBGAsYHQ/s1600/hamburguesa_jucy_lucy.jpg",
     "url": "https://recarg.blogspot.com/2011/01/hamburguesa-jucy-lucy-eeuu.html",
     "original_title": "Hamburguesa Jucy Lucy (EEUU)",
     "published": "2011-01-01T15:19:00.001-03:00",
@@ -70414,7 +70414,7 @@
   },
   {
     "id": 627,
-    "title": "Salsa Goop para Hamburguesas (Estados Unidos)",
+    "title": "Salsa Goop (Estados Unidos)",
     "category": "Salsas & Condimentos",
     "country": "Estados Unidos",
     "difficulty": "Fácil",
@@ -70438,7 +70438,7 @@
       "Dipping sauce"
     ],
     "image": "https://lh3.googleusercontent.com/-Ijl9BzwVhvU/avi9vA7HlqI/AAAAAAAQCWs/aT_sc5734SkKyX_wJy9XzhOgNW3CLnqpgCNcBGAsYHQ/s1600/salsa_goop_hamburguesas_definitiva.jpg",
-    "story": "En el noroeste del Pacífico (Estados Unidos), especialmente en Washington y Oregón, casi todas las hamburgueserías históricas sirven sus preparaciones con una misteriosa y adictiva salsa llamada 'Goop'. La más famosa y protegida bajo marca registrada es la de Eastside Big Tom en Olympia (Washington), fundada por Chuck Fritsch. George Motz investigó y recreó con precisión este condimento de culto: una emulsión balanceada de mayonesa, crema agria, relish dulce de pepinillos y mostaza amarilla clásica, cuyo característico color amarillo vibrante recuerda al mítico Plymouth Barracuda 'Curious Yellow' de 1971. Es el aderezo por excelencia no solo para hamburguesas, sino también para acompañar papas fritas y tater tots crujientes.",
+    "story": "En el noroeste del Pacífico (Estados Unidos), especialmente en Washington y Oregón, casi todas las hamburgueserías históricas sirven sus preparaciones con una misteriosa y adictiva salsa llamada 'Goop'. La más famosa y protegida bajo marca registrada es la de Eastside Big Tom en Olympia (Washington), fundada por Chuck Fritsch. George Motz investigó y recreó con precisión este condimento de culto: una emulsión balanceada de mayonesa, crema agria, relish dulce de pepinillos y mostaza amarilla clásica, cuyo característico color amarillo vibrante recuerda al mítico Plymouth Barracuda 'Curious Yellow' de 1971.",
     "ingredients": [
       "½ taza (120 ml) de mayonesa de buena calidad",
       "¼ taza (60 ml) de crema agria (sour cream) o crema de leche espesa con gotas de limón",
@@ -70446,18 +70446,47 @@
       "3 cucharadas (45 ml) de mostaza amarilla clásica americana",
       "Una pizca pequeña de sal fina (opcional)"
     ],
-    "instructions": [
-      "Mezclar la base: En un cuenco mediano de vidrio o cerámica, colocar la mayonesa y la crema agria.",
-      "Incorporar condimentos: Añadir el sweet relish dulce y las tres cucharadas de mostaza amarilla clásica.",
-      "Emulsionar: Batir enérgicamente con un batidor de alambre pequeño o tenedor durante 1 minuto, hasta lograr una salsa homogénea, sedosa y de color amarillo brillante uniforme.",
-      "Reposo y servicio: Dejar reposar en heladera durante al menos 10 a 15 minutos para que los sabores de la mostaza y el pepinillo dulce se integren. Untar generosamente sobre ambas caras del pan tostado de tus hamburguesas o servir en un cuenco para untar papas fritas."
-    ],
     "notes": "En mi cocina la prefiero siempre sobre la clásica salsa mil islas comercial: el agregado de la crema agria aligera la pesadez de la mayonesa y le aporta una acidez láctica refinada que corta la grasa del medallón de carne a la perfección. Se conserva en frasco de vidrio hermético en la heladera durante 10 días sin perder brillo ni textura.",
     "steps": [
-      "Mezclar la base: En un cuenco mediano de vidrio o cerámica, colocar la mayonesa y la crema agria.",
-      "Incorporar condimentos: Añadir el sweet relish dulce y las tres cucharadas de mostaza amarilla clásica.",
-      "Emulsionar: Batir enérgicamente con un batidor de alambre pequeño o tenedor durante 1 minuto, hasta lograr una salsa homogénea, sedosa y de color amarillo brillante uniforme.",
-      "Reposo y servicio: Dejar reposar en heladera durante al menos 10 a 15 minutos para que los sabores de la mostaza y el pepinillo dulce se integren. Untar generosamente sobre ambas caras del pan tostado de tus hamburguesas o servir en un cuenco para untar papas fritas."
+      "En un cuenco mediano de vidrio o cerámica, colocá la mayonesa junto con la crema agria.",
+      "Añadí las dos cucharadas de sweet relish y las tres cucharadas colmadas de mostaza amarilla.",
+      "Batí enérgicamente con un batidor de alambre pequeño o tenedor durante 1 minuto hasta lograr una emulsión homogénea, sedosa y de color amarillo vibrante uniforme.",
+      "Llevá la salsa a la heladera durante 15 minutos para que los sabores de la mostaza y el pepinillo dulce se amalgamen.",
+      "Untá generosamente sobre los panes calientes de tus hamburguesas o servila en cazuela para dipear papas fritas y tater tots."
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Base de la Emulsión",
+        "ingredients": [
+          "½ taza (120 ml) de mayonesa de buena calidad",
+          "¼ taza (60 ml) de crema agria (sour cream)"
+        ]
+      },
+      {
+        "name": "Condimentos y Toque Agridulce",
+        "ingredients": [
+          "2 cucharadas de sweet relish (pepinillos dulces picados)",
+          "3 cucharadas (45 ml) de mostaza amarilla clásica",
+          "1 pizca pequeña de sal fina (opcional)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Emulsión de la Salsa",
+        "steps": [
+          "En un cuenco mediano de vidrio o cerámica, colocá la mayonesa junto con la crema agria.",
+          "Añadí las dos cucharadas de sweet relish y las tres cucharadas colmadas de mostaza amarilla.",
+          "Batí enérgicamente con un batidor de alambre pequeño o tenedor durante 1 minuto hasta lograr una emulsión homogénea, sedosa y de color amarillo vibrante uniforme."
+        ]
+      },
+      {
+        "name": "Reposo y Servicio",
+        "steps": [
+          "Llevá la salsa a la heladera durante 15 minutos para que los sabores de la mostaza y el pepinillo dulce se amalgamen.",
+          "Untá generosamente sobre los panes calientes de tus hamburguesas o servila en cazuela para dipear papas fritas y tater tots."
+        ]
+      }
     ]
   },
   {
@@ -84300,6 +84329,257 @@
       "deli clásico",
       "receta en 10 minutos",
       "sándwich de desayuno"
+    ]
+  },
+  {
+    "id": 792,
+    "title": "Poached Burger de Wisconsin (Estados Unidos)",
+    "image": "https://lh3.googleusercontent.com/-uQgD1PUxjXQ/awB23RofeNI/AAAAAAAQDFs/Jpq8CUrqFJERe769mxoKa1WyYaF8lDyuwCNcBGAsYHQ/s1600/poached_burger_wisconsin.jpg",
+    "category": "Hamburguesas",
+    "country": "Estados Unidos",
+    "difficulty": "Baja",
+    "prep_time": "15 min",
+    "cook_time": "15 min",
+    "servings": "8 porciones",
+    "calories": "440 kcal",
+    "story": "Nacida en 1909 en Prairie du Chien (Wisconsin) en el legendario puesto Pete's Hamburgers fundado por Pete Gokey, la Poached Burger es una de las reliquias gastronómicas más singulares de los Estados Unidos. Rescatada y celebrada por el historiador George Motz en 'The Great American Burger Book', su técnica centenaria desafía la plancha caliente cocinando los medallones de carne en un baño hirviendo de agua salada repleto de cebollas dulces.",
+    "ingredients": [
+      "1 kg de carne picada vacuna de roast beef o aguja (proporción 80/20 de carne y grasa)",
+      "2 cebollas dulces grandes (tipo Vidalia o Walla Walla)",
+      "1 cucharada colmada de sal entrefina",
+      "8 panes de hamburguesa de panadería tiernos y firmes",
+      "Mostaza marrón picante o rábano picante (horseradish) al gusto",
+      "Agua caliente c/n para la sartén (unos 2,5 cm de profundidad)"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Medallones y Cebolla Escalfada",
+        "ingredients": [
+          "1 kg de carne picada vacuna 80/20",
+          "2 cebollas dulces grandes cortadas ultrafinas con mandolina",
+          "1 cucharada de sal entrefina",
+          "Agua caliente para cubrir el fondo de la sartén"
+        ]
+      },
+      {
+        "name": "Panes y Toppings Tradicionales",
+        "ingredients": [
+          "8 panes de hamburguesa de panadería",
+          "Mostaza marrón picante o rábano picante al gusto"
+        ]
+      }
+    ],
+    "steps": [
+      "Precalentá el horno a 120 °C para entibiar y suavizar los panes más tarde.",
+      "Dividí la carne picada en 8 porciones iguales de 125 g cada una; moldealas suavemente con las manos formando bolas compactas y reservalas en la heladera hasta el momento de cocinar.",
+      "Pelá las cebollas y cortalas en láminas ultrafinas (casi transparentes) utilizando una mandolina de cocina.",
+      "En una sartén grande y profunda (de al menos 28 cm), verté agua hasta alcanzar unos 2,5 cm de profundidad y llevala a hervor a fuego vivo.",
+      "Reducí el fuego a medio, incorporá la mitad de las cebollas cortadas y la sal entrefina; tapá la sartén y cociná durante 5 minutos hasta que la cebolla quede transparente y perfumada.",
+      "Acomodá 4 bolas de carne en la sartén sobre el agua y la cebolla, dejando espacio entre ellas; con una espátula de metal rígida, presionalas firmemente hasta dejarlas de 2 cm de espesor.",
+      "Cociná los medallones durante 5 minutos sumergidos en el agua hirviendo con cebolla, dales vuelta con cuidado y cocinalos durante otros 5 minutos más hasta que estén tiernos, jugosos y cocidos en su totalidad.",
+      "Mientras tanto, colocá los panes cortados al medio en una fuente para horno, cubrilos con papel aluminio y llevalos al horno tibio durante 7 minutos hasta que queden súper tiernos, calientes y esponjosos.",
+      "Para el armado, disponé cada medallón bien jugoso sobre la base del pan caliente, cubrilo con una porción generosa de las cebollas pochadas escurridas del agua y coroná con una cucharada de mostaza picante o rábano picante al estilo original de Pete's.",
+      "Repetí el procedimiento con las 4 hamburguesas restantes, añadiendo un poco más de agua si fuera necesario y recordando que esta segunda tanda resultará aún más sabrosa al cocinarse en el caldo enriquecido con la grasa del primer lote."
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación de la Carne y el Baño de Cebolla",
+        "steps": [
+          "Precalentá el horno a 120 °C para entibiar y suavizar los panes más tarde.",
+          "Dividí la carne picada en 8 porciones iguales de 125 g cada una; moldealas suavemente con las manos formando bolas compactas y reservalas en la heladera hasta el momento de cocinar.",
+          "Pelá las cebollas y cortalas en láminas ultrafinas (casi transparentes) utilizando una mandolina de cocina.",
+          "En una sartén grande y profunda (de al menos 28 cm), verté agua hasta alcanzar unos 2,5 cm de profundidad y llevala a hervor a fuego vivo.",
+          "Reducí el fuego a medio, incorporá la mitad de las cebollas cortadas y la sal entrefina; tapá la sartén y cociná durante 5 minutos hasta que la cebolla quede transparente y perfumada."
+        ]
+      },
+      {
+        "name": "Cocción al Agua, Calentado del Pan y Montaje",
+        "steps": [
+          "Acomodá 4 bolas de carne en la sartén sobre el agua y la cebolla, dejando espacio entre ellas; con una espátula de metal rígida, presionalas firmemente hasta dejarlas de 2 cm de espesor.",
+          "Cociná los medallones durante 5 minutos sumergidos en el agua hirviendo con cebolla, dales vuelta con cuidado y cocinalos durante otros 5 minutos más hasta que estén tiernos, jugosos y cocidos en su totalidad.",
+          "Mientras tanto, colocá los panes cortados al medio en una fuente para horno, cubrilos con papel aluminio y llevalos al horno tibio durante 7 minutos hasta que queden súper tiernos, calientes y esponjosos.",
+          "Para el armado, disponé cada medallón bien jugoso sobre la base del pan caliente, cubrilo con una porción generosa de las cebollas pochadas escurridas del agua y coroná con una cucharada de mostaza picante o rábano picante al estilo original de Pete's.",
+          "Repetí el procedimiento con las 4 hamburguesas restantes, añadiendo un poco más de agua si fuera necesario y recordando que esta segunda tanda resultará aún más sabrosa al cocinarse en el caldo enriquecido con la grasa del primer lote."
+        ]
+      }
+    ],
+    "notes": "Como enseña George Motz, el agua hirviendo no 'lava' la carne sino que la escalfa suavemente a temperatura constante, reteniendo toda su terneza y capturando los azúcares de la cebolla. El segundo lote de hamburguesas siempre resulta superior porque el agua ya se transformó en un caldo concentrado de carne y grasa.",
+    "tags": [
+      "poached burger",
+      "hamburguesa de wisconsin",
+      "pete's hamburgers",
+      "george motz",
+      "hamburguesa histórica",
+      "cebolla pochada",
+      "street food americano",
+      "hamburguesa al agua",
+      "receta fácil",
+      "comida reconfortante"
+    ]
+  },
+  {
+    "id": 793,
+    "title": "Hamburguesa Original de Louis' Lunch (Estados Unidos)",
+    "image": "https://lh3.googleusercontent.com/-BUI9lpZtY08/awB24R_DUdI/AAAAAAAQDF0/FxwOkhqEUfMyeZq1F9xmlX1WP42VT4anwCNcBGAsYHQ/s1600/hamburguesa_louis_lunch.jpg",
+    "category": "Hamburguesas",
+    "country": "Estados Unidos",
+    "difficulty": "Baja",
+    "prep_time": "15 min",
+    "cook_time": "8 min",
+    "servings": "2 porciones",
+    "calories": "520 kcal",
+    "story": "Reconocido por la Biblioteca del Congreso de los Estados Unidos como la cuna de la hamburguesa americana en el año 1900, Louis' Lunch opera ininterrumpidamente en New Haven (Connecticut) desde 1895 de la mano de cuatro generaciones de la familia Lassen. Su preparación histórica se mantiene intacta: carne vacuna picada fresca asada en parrillas verticales de hierro fundido de fines del siglo XIX, servida en pan de molde blanco tostado con tomate, cebolla y queso fundente, donde el kétchup está terminantemente prohibido.",
+    "ingredients": [
+      "400 g de carne vacuna picada fresca (mezcla de cortes magros y pechuga con 20% de grasa)",
+      "4 rebanadas de pan de molde blanco clásico de miga firme",
+      "2 cucharadas colmadas de pasta o queso fundente untable (estilo Cheese Spread o cheddar fundido suave)",
+      "1 tomate redondo maduro cortado en rodajas finas",
+      "1/2 cebolla blanca cortada en rodajas finas",
+      "1 cucharada de manteca para tostar el pan",
+      "Sal entrefina y pimienta negra recién molida al gusto"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Medallones de Carne Tradicional",
+        "ingredients": [
+          "400 g de carne vacuna picada fresca",
+          "Sal entrefina y pimienta negra molida"
+        ]
+      },
+      {
+        "name": "Pan Tostado y Toppings Clásicos",
+        "ingredients": [
+          "4 rebanadas de pan de molde blanco",
+          "2 cucharadas de queso fundente untable",
+          "1 tomate redondo en rodajas finas",
+          "1/2 cebolla blanca en rodajas finas",
+          "1 cucharada de manteca"
+        ]
+      }
+    ],
+    "steps": [
+      "Dividí la carne picada en 4 porciones esféricas; uní dos bolas por medallón presionándolas suavemente para formar dos hamburguesas gruesas y rústicas de unos 200 g cada una.",
+      "Tostá las rebanadas de pan blanco en una tostadora vertical o en sartén con una nuez de manteca hasta que queden doradas y crocantes por ambas caras.",
+      "Calentá una plancha o sartén de hierro a fuego medio-alto (emulando las históricas parrillas verticales de New Haven).",
+      "Salpimentá los medallones con sal entrefina justo antes de colocarlos sobre la plancha bien caliente.",
+      "Cociná durante 3 a 4 minutos por lado para lograr un sellado oscuro y caramelizado por fuera manteniendo el corazón jugoso y rosado.",
+      "Untá una de las rebanadas de pan tostado caliente con una cucharada generosa del queso fundente untable.",
+      "Colocá el medallón de carne caliente directamente sobre el queso para que se derrita aún más con el calor residual.",
+      "Acomodá por encima las rodajas de tomate maduro y cebolla fresca, cerrá con la otra rebanada de pan tostado y cortá el sándwich en diagonal para servir de inmediato."
+    ],
+    "step_groups": [
+      {
+        "name": "Formado y Cocción de los Medallones",
+        "steps": [
+          "Dividí la carne picada en 4 porciones esféricas; uní dos bolas por medallón presionándolas suavemente para formar dos hamburguesas gruesas y rústicas de unos 200 g cada una.",
+          "Calentá una plancha o sartén de hierro a fuego medio-alto (emulando las históricas parrillas verticales de New Haven).",
+          "Salpimentá los medallones con sal entrefina justo antes de colocarlos sobre la plancha bien caliente.",
+          "Cociná durante 3 a 4 minutos por lado para lograr un sellado oscuro y caramelizado por fuera manteniendo el corazón jugoso y rosado."
+        ]
+      },
+      {
+        "name": "Tostado y Montaje Histórico",
+        "steps": [
+          "Tostá las rebanadas de pan blanco en una tostadora vertical o en sartén con una nuez de manteca hasta que queden doradas y crocantes por ambas caras.",
+          "Untá una de las rebanadas de pan tostado caliente con una cucharada generosa del queso fundente untable.",
+          "Colocá el medallón de carne caliente directamente sobre el queso para que se derrita aún más con el calor residual.",
+          "Acomodá por encima las rodajas de tomate maduro y cebolla fresca, cerrá con la otra rebanada de pan tostado y cortá el sándwich en diagonal para servir de inmediato."
+        ]
+      }
+    ],
+    "notes": "En Louis' Lunch el pan de hamburguesa redondo no existe porque en 1900 aún no se había inventado: el pan de molde blanco tostado es su marca de fábrica. Prohibir el kétchup es una regla estricta del local para resaltar el sabor puro de la carne vacuna recién molida.",
+    "tags": [
+      "louis lunch",
+      "hamburguesa original",
+      "primera hamburguesa de la historia",
+      "new haven connecticut",
+      "george motz",
+      "pan de molde tostado",
+      "sin ketchup",
+      "cheese spread",
+      "hamburguesa histórica"
+    ]
+  },
+  {
+    "id": 794,
+    "title": "Hamburguesa Schnäck con Salsa de Chipotle (Estados Unidos)",
+    "image": "https://lh3.googleusercontent.com/-kkTiWf_xVX8/awB25vOY-HI/AAAAAAAQDF8/nw3LDm8cF0AyaQsMU_9vi9jO8r6CU3lZACNcBGAsYHQ/s1600/hamburguesa_schnack.jpg",
+    "category": "Hamburguesas",
+    "country": "Estados Unidos",
+    "difficulty": "Baja",
+    "prep_time": "15 min",
+    "cook_time": "6 min",
+    "servings": "2 porciones",
+    "calories": "490 kcal",
+    "story": "Desarrollada a comienzos de la década de 2000 en el barrio de Carroll Gardens (Brooklyn, Nueva York) por el cocinero Harry Hawk para su recordado templo de hamburguesas 'Schnäck', esta preparación revitalizó el formato clásico de los sliders urbanos. Su distintivo es la célebre salsa Schnäck —una emulsión cremosa de mostaza en grano, chiles chipotles mexicanos y mayonesa— que baña la carne aplastada a la chapa caliente, convirtiéndola en un bocado de culto documentado por George Motz.",
+    "ingredients": [
+      "300 g de carne vacuna picada 80/20 (roast beef o tapa de asado)",
+      "2 panes de hamburguesa con semillas de sésamo (tipo brioche o pan de papa)",
+      "1/3 taza (75 ml) de mayonesa de buena calidad",
+      "2 cucharadas de mostaza en grano rústica (tipo antigua o Dijon con granos)",
+      "2 chiles chipotles enlatados en adobo (marca La Morena o La Costeña)",
+      "1 cucharada de manteca para dorar los panes",
+      "Sal entrefina y pimienta negra recién molida al gusto"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Salsa Schnäck de Chipotle",
+        "ingredients": [
+          "1/3 taza de mayonesa",
+          "2 cucharadas de mostaza en grano",
+          "2 chiles chipotles en adobo",
+          "1 pizca de sal fina"
+        ]
+      },
+      {
+        "name": "Medallones Smash y Panes de Sésamo",
+        "ingredients": [
+          "300 g de carne vacuna picada 80/20",
+          "2 panes de sésamo",
+          "1 cucharada de manteca",
+          "Sal entrefina y pimienta negra molida"
+        ]
+      }
+    ],
+    "steps": [
+      "En el vaso del mixer o procesadora, colocá la mayonesa, la mostaza en grano, los chiles chipotles en adobo y una pizca de sal; procesá durante 45 segundos hasta obtener una salsa homogénea, cremosa y de color anaranjado intenso.",
+      "Dividí la carne en 2 bolas de 150 g cada una sin amasar en exceso para preservar una textura aireada.",
+      "Untá las caras internas de los panes de sésamo con manteca y doralos en una plancha caliente hasta que queden crujientes.",
+      "Calentá la plancha de hierro a fuego bien fuerte; colocá las bolas de carne, salpimentalas con sal entrefina y aplastalas enérgicamente con una espátula de metal plana hasta dejarlas bien finas con bordes irregulares (técnica smash).",
+      "Cociná durante 2 a 3 minutos hasta que se forme una costra oscura y crujiente en la base; da vuelta los medallones y cociná 1 minuto más.",
+      "Untá la base del pan tostado con una cucharada de salsa Schnäck, acomodá el medallón de carne caliente y coronalo con otra cucharada generosa y desbordante de la salsa de chipotle antes de tapar.",
+      "Serví de inmediato para disfrutar de la carne crujiente contrastada con la untuosidad ahumada de la salsa."
+    ],
+    "step_groups": [
+      {
+        "name": "Elaboración de la Salsa Schnäck",
+        "steps": [
+          "En el vaso del mixer o procesadora, colocá la mayonesa, la mostaza en grano, los chiles chipotles en adobo y una pizca de sal; procesá durante 45 segundos hasta obtener una salsa homogénea, cremosa y de color anaranjado intenso."
+        ]
+      },
+      {
+        "name": "Smash a la Plancha y Montaje",
+        "steps": [
+          "Dividí la carne en 2 bolas de 150 g cada una sin amasar en exceso para preservar una textura aireada.",
+          "Untá las caras internas de los panes de sésamo con manteca y doralos en una plancha caliente hasta que queden crujientes.",
+          "Calentá la plancha de hierro a fuego bien fuerte; colocá las bolas de carne, salpimentalas con sal entrefina y aplastalas enérgicamente con una espátula de metal plana hasta dejarlas bien finas con bordes irregulares (técnica smash).",
+          "Cociná durante 2 a 3 minutos hasta que se forme una costra oscura y crujiente en la base; da vuelta los medallones y cociná 1 minuto más.",
+          "Untá la base del pan tostado con una cucharada de salsa Schnäck, acomodá el medallón de carne caliente y coronalo con otra cucharada generosa y desbordante de la salsa de chipotle antes de tapar.",
+          "Serví de inmediato para disfrutar de la carne crujiente contrastada con la untuosidad ahumada de la salsa."
+        ]
+      }
+    ],
+    "notes": "Como decía Harry Hawk en Brooklyn: esta hamburguesa no necesita lechuga ni tomate, solo una carne bien dorada y abundante salsa Schnäck para que las papilas exploten. La combinación de la mostaza crujiente en grano con el humo del chipotle realza la grasa natural de la carne.",
+    "tags": [
+      "schnack burger",
+      "hamburguesa con chipotle",
+      "harry hawk brooklyn",
+      "george motz",
+      "smash burger",
+      "salsa schnack",
+      "mostaza en grano",
+      "street food neoyorquino",
+      "hamburguesa de culto"
     ]
   }
 ]

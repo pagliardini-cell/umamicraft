@@ -2085,18 +2085,57 @@
       }
     }
 
-    function pickRandomRecipe() {
-      if (!recipes || !recipes.length) return null;
-      // Exclude recent recipes to avoid repetition in succession
-      let pool = recipes.filter(r => !recentHeroIds.includes(r.id));
+    function getCollectionPool(tag = currentQuickTag) {
+      if (!recipes || !recipes.length) return [];
+      if (!tag || tag === 'all') return recipes;
+
+      if (tag === 'Autor') {
+        return recipes.filter(r => 
+          (r.tags || []).some(t => String(t).toLowerCase().includes('autor')) ||
+          (r.country || '').toLowerCase().includes('autor') ||
+          [11, 16, 22, 61, 65, 87, 112, 129, 185, 202, 211, 223, 227, 228, 240, 252, 346, 389, 393, 454, 775].includes(r.id)
+        );
+      }
+
+      const tagNorm = tag.toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
+      return recipes.filter(r => {
+        const cat = (getCategory(r) || '').toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
+        const country = (getCountry(r) || '').toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
+        const title = (r.title || '').toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
+        const inTags = (r.tags || []).some(t => String(t).toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "") === tagNorm);
+
+        if (tagNorm === 'empanadas' || tagNorm === 'empanada') {
+          return cat.includes('empanada') || title.includes('empanada') || inTags;
+        }
+        if (tagNorm === 'sandwiches' || tagNorm === 'sandwich') {
+          return cat.includes('sandwich') || title.includes('sandwich') || title.includes('sanguche') || inTags;
+        }
+        if (tagNorm === 'hamburguesas' || tagNorm === 'hamburguesa' || tagNorm === 'burgers' || tagNorm === 'burger') {
+          return cat.includes('hamburguesa') || title.includes('hamburguesa') || title.includes('burger') || title.includes('smash') || inTags;
+        }
+        if (tagNorm === 'ramen') {
+          return cat.includes('ramen') || title.includes('ramen') || inTags;
+        }
+
+        return cat === tagNorm || cat.includes(tagNorm) || country.includes(tagNorm) || inTags;
+      });
+    }
+
+    function pickRandomRecipe(customPool = null) {
+      const poolSource = (customPool && customPool.length) ? customPool : getCollectionPool();
+      if (!poolSource || !poolSource.length) return (recipes && recipes.length) ? recipes[0] : null;
+
+      let pool = poolSource.filter(r => !recentHeroIds.includes(r.id));
       if (pool.length === 0) {
-        recentHeroIds = [];
-        pool = recipes;
+        recentHeroIds = recentHeroIds.filter(id => !poolSource.some(r => r.id === id));
+        pool = poolSource;
       }
       const chosen = pool[Math.floor(Math.random() * pool.length)];
-      recentHeroIds.push(chosen.id);
-      if (recentHeroIds.length > 30) recentHeroIds.shift();
-      return chosen;
+      if (chosen) {
+        recentHeroIds.push(chosen.id);
+        if (recentHeroIds.length > 30) recentHeroIds.shift();
+      }
+      return chosen || poolSource[0];
     }
 
     async function init() {
@@ -2346,16 +2385,16 @@
 
     function renderHero(targetRecipe = null) {
       if (!recipes.length) return;
+      const pool = getCollectionPool();
       let r = targetRecipe;
       if (!r) {
-        if (currentHeroId) {
-          r = recipes.find(x => x.id === currentHeroId);
-        }
-        if (!r) {
-          r = pickRandomRecipe();
+        if (currentHeroId && pool.some(x => x.id === currentHeroId)) {
+          r = pool.find(x => x.id === currentHeroId);
+        } else {
+          r = pickRandomRecipe(pool);
         }
       }
-      if (!r) r = recipes[0];
+      if (!r) r = pool[0] || recipes[0];
       currentHeroId = r.id;
 
       const heroCard = document.getElementById('heroCard');
@@ -2364,9 +2403,15 @@
       heroCard.style.transition = 'opacity 0.25s ease';
       heroCard.style.opacity = '1';
 
+      let kickerText = '✨ Selección del Chef';
+      if (currentQuickTag && currentQuickTag !== 'all') {
+        const collName = currentQuickTag === 'Autor' ? 'De Autor' : currentQuickTag;
+        kickerText = `✨ Selección del Chef • Colección ${collName}`;
+      }
+
       heroCard.innerHTML = `
         <div class="hero-content-col">
-          <div class="hero-kicker">✨ Selección del Chef • ${getCountryBadgeHtml(getCountry(r))}</div>
+          <div class="hero-kicker">${kickerText} • ${getCountryBadgeHtml(getCountry(r))}</div>
           <h2 class="hero-title">${r.title}</h2>
           <p class="hero-story">${r.story || ''}</p>
           <div class="hero-specs">
@@ -2377,7 +2422,7 @@
           </div>
           <div class="hero-btns">
             <button class="btn-hero-main" onclick="openModal(${r.id})">Ver Receta Paso a Paso →</button>
-            <button class="btn-hero-sec" onclick="nextHeroRecipe()" title="Elegir otra receta al azar de las 257">🎲 Otra Sugerencia</button>
+            <button class="btn-hero-sec" onclick="nextHeroRecipe()" title="Elegir otra receta de esta colección">🎲 Otra Sugerencia</button>
           </div>
         </div>
         <div class="hero-img-col">
@@ -2390,7 +2435,8 @@
       const heroCard = document.getElementById('heroCard');
       if (heroCard) heroCard.style.opacity = '0.3';
       setTimeout(() => {
-        const nextR = pickRandomRecipe();
+        const pool = getCollectionPool();
+        const nextR = pickRandomRecipe(pool);
         if (nextR) {
           currentHeroId = nextR.id;
           renderHero(nextR);
@@ -2506,6 +2552,8 @@
       document.getElementById('countrySelect').value = 'all';
       document.getElementById('dietSelect').value = 'all';
       updateChips();
+      currentHeroId = null;
+      renderHero();
       if (document.startViewTransition) {
         document.startViewTransition(() => renderRecipes());
       } else {
@@ -2551,10 +2599,12 @@
       document.getElementById('sortSelect').value = 'id_desc';
       onlyFavorites = false;
       currentQuickTag = 'all';
+      currentHeroId = null;
       visibleCount = RECIPES_PER_PAGE;
       updateFavBadge();
       updateShoppingBadges();
       updateChips();
+      renderHero();
       renderRecipes(true);
       window.scrollTo({ top: 0, behavior: 'smooth' });
     }
