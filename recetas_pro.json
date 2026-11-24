@@ -88754,5 +88754,222 @@
       "10 aceitunas negras arrugadas",
       "1 cucharada de alcaparras pequeñas enjuagadas"
     ]
+  },
+  {
+    "id": 836,
+    "title": "Mandilli de Saea al Pesto (Italia)",
+    "country": "Italia",
+    "category": "Pastas",
+    "tags": [
+      "Italia",
+      "Liguria",
+      "Mandilli de Saea",
+      "Fazzoletti",
+      "Pesto",
+      "Génova",
+      "Pasta Casera"
+    ],
+    "prep_time": "40 min",
+    "cook_time": "3 min",
+    "rest_time": "30 min de reposo de la masa",
+    "temperature": "100 °C (hervor abundante con sal)",
+    "servings": "4 porciones",
+    "calories": "460 kcal por porción",
+    "diet_badges": [
+      "Vegetariano"
+    ],
+    "story": "Especialidad legendaria de la Riviera de Liguria y orgullo de la cocina genovesa, los mandilli de saea («pañuelos de seda» en dialecto ligur) deben su nombre a la finura etérea de su masa, estirada hasta alcanzar la transparencia de un tejido fino. Concebidos históricamente para deslizarse en el paladar con suavidad aristocrática, representan el maridaje supremo para el auténtico pesto al mortero.",
+    "ingredient_groups": [
+      {
+        "name": "Masa de Seda (Sfoglia Velata)",
+        "items": [
+          "300 g de harina de trigo 00 (o harina fina para pasta)",
+          "100 g de sémola de trigo candeal rimacinata",
+          "3 huevos de campo grandes enteros",
+          "1 yema de huevo",
+          "1 cucharada de vino blanco seco o agua tibia",
+          "1 cucharadita de aceite de oliva virgen extra",
+          "1 pizca de sal fina"
+        ]
+      },
+      {
+        "name": "Auténtico Pesto Genovese al Mortero",
+        "items": [
+          "50 g de hojas frescas de albahaca genovesa DOP (hoja pequeña, lavadas y secadas con delicadeza)",
+          "30 g de piñones mediterráneos tostados ligeramente",
+          "1 diente de ajo pequeño sin el germen central",
+          "70 g de queso Parmigiano Reggiano DOP recién rallado",
+          "30 g de queso Pecorino Fiore Sardo DOP recién rallado",
+          "100 ml de aceite de oliva virgen extra de Liguria (suave y afrutado)",
+          "1 pizca de sal marina gruesa"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Paso 1: Amasado y estirado a velo",
+        "steps": [
+          "En la mesada, formá una corona con la harina y la sémola; en el centro colocá los huevos, la yema, el vino blanco, el aceite de oliva y la sal.",
+          "Integrá con tenedor desde el centro hacia afuera y amasá enérgicamente con la palma de las manos durante 10 a 12 minutos hasta obtener un bollo liso, elástico y sedoso.",
+          "Envolvé la masa en film y dejala reposar 30 minutos a temperatura ambiente.",
+          "Estirá la masa con palo largo o máquina hasta el grosor más fino posible (punto velo, casi traslúcida) y cortá cuadrados grandes y regulares de 12 a 15 cm de lado imitando pañuelos."
+        ]
+      },
+      {
+        "name": "Paso 2: Majado del pesto al mortero",
+        "steps": [
+          "En un mortero de mármol con maja de madera, machacá el diente de ajo con los granos de sal marina gruesa hasta formar una crema.",
+          "Incorporá los piñones y majá hasta integrarlos.",
+          "Agregá las hojas de albahaca con un movimiento circular continuo de la maja contra las paredes del mortero (sin golpear, para no oxidar ni calentar las hojas) hasta que liberen su color verde brillante.",
+          "Sumá los quesos rallados e incorporá el aceite de oliva virgen extra en forma de hilo continuo mientras mezclás hasta lograr una emulsión untuosa y aromática."
+        ]
+      },
+      {
+        "name": "Paso 3: Cocción veloz y mantecatura con agua de pasta",
+        "steps": [
+          "Herví abundante agua con sal en una olla ancha. Sumergí los pañuelos de pasta de a pocos por tanda para que no se peguen y cocinalos exactamente durante 90 a 120 segundos.",
+          "En una fuente tibia, diluí el pesto con 3 cucharadas del agua de cocción almidonada de la pasta.",
+          "Retirá los pañuelos con espumadera plana escurriendo con delicadeza y pasalos directamente a la fuente con el pesto.",
+          "Envolvé la pasta en el pesto con pinzas formando pliegues como pañuelos de seda, decorá con piñones enteros tostados y serví de inmediato con queso rallado extra."
+        ]
+      }
+    ],
+    "notes": "La regla del calor en el pesto: El pesto jamás debe calentarse en una sartén al fuego, ya que el calor directo cocina la albahaca oxidándola a un color verde opaco y separa la grasa del queso. La mantecatura se realiza siempre fuera del fuego, aflojando la salsa únicamente con el calor y el almidón del agua de cocción de la pasta.",
+    "image": "https://lh3.googleusercontent.com/-a7fX3aAgZVk/awX031DkcVI/AAAAAAAQDiw/5u0EaTwJlw4btdD7NoTQS1UddSUzWxJLACNcBGAsYHQ/s1600/mandilli_de_saea_pesto_italia.jpg",
+    "steps": [
+      "En la mesada, formá una corona con la harina y la sémola; en el centro colocá los huevos, la yema, el vino blanco, el aceite de oliva y la sal.",
+      "Integrá con tenedor desde el centro hacia afuera y amasá enérgicamente con la palma de las manos durante 10 a 12 minutos hasta obtener un bollo liso, elástico y sedoso.",
+      "Envolvé la masa en film y dejala reposar 30 minutos a temperatura ambiente.",
+      "Estirá la masa con palo largo o máquina hasta el grosor más fino posible (punto velo, casi traslúcida) y cortá cuadrados grandes y regulares de 12 a 15 cm de lado imitando pañuelos.",
+      "En un mortero de mármol con maja de madera, machacá el diente de ajo con los granos de sal marina gruesa hasta formar una crema.",
+      "Incorporá los piñones y majá hasta integrarlos.",
+      "Agregá las hojas de albahaca con un movimiento circular continuo de la maja contra las paredes del mortero (sin golpear, para no oxidar ni calentar las hojas) hasta que liberen su color verde brillante.",
+      "Sumá los quesos rallados e incorporá el aceite de oliva virgen extra en forma de hilo continuo mientras mezclás hasta lograr una emulsión untuosa y aromática.",
+      "Herví abundante agua con sal en una olla ancha. Sumergí los pañuelos de pasta de a pocos por tanda para que no se peguen y cocinalos exactamente durante 90 a 120 segundos.",
+      "En una fuente tibia, diluí el pesto con 3 cucharadas del agua de cocción almidonada de la pasta.",
+      "Retirá los pañuelos con espumadera plana escurriendo con delicadeza y pasalos directamente a la fuente con el pesto.",
+      "Envolvé la pasta en el pesto con pinzas formando pliegues como pañuelos de seda, decorá con piñones enteros tostados y serví de inmediato con queso rallado extra."
+    ],
+    "ingredients": [
+      "300 g de harina de trigo 00 (o harina fina para pasta)",
+      "100 g de sémola de trigo candeal rimacinata",
+      "3 huevos de campo grandes enteros",
+      "1 yema de huevo",
+      "1 cucharada de vino blanco seco o agua tibia",
+      "1 cucharadita de aceite de oliva virgen extra",
+      "1 pizca de sal fina",
+      "50 g de hojas frescas de albahaca genovesa DOP (hoja pequeña, lavadas y secadas con delicadeza)",
+      "30 g de piñones mediterráneos tostados ligeramente",
+      "1 diente de ajo pequeño sin el germen central",
+      "70 g de queso Parmigiano Reggiano DOP recién rallado",
+      "30 g de queso Pecorino Fiore Sardo DOP recién rallado",
+      "100 ml de aceite de oliva virgen extra de Liguria (suave y afrutado)",
+      "1 pizca de sal marina gruesa"
+    ]
+  },
+  {
+    "id": 837,
+    "title": "Maltagliati con Sugo di Melanzane (Italia)",
+    "country": "Italia",
+    "category": "Pastas",
+    "tags": [
+      "Italia",
+      "Nápoles",
+      "Campania",
+      "Maltagliati",
+      "Berenjenas",
+      "Sugo",
+      "Melanzane",
+      "Pasta Casera"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "25 min",
+    "rest_time": "20 min de reposo",
+    "temperature": "100 °C (hervor para pasta) y fuego medio (salsa)",
+    "servings": "4 porciones",
+    "calories": "480 kcal por porción",
+    "diet_badges": [
+      "Vegetariano"
+    ],
+    "story": "Nacidos de la secular tradición napolitana y campesina de aprovechar los recortes triangulares e irregulares que quedaban en la tabla tras cortar tagliatelle o ravioles, los maltagliati («mal cortados») son el estandarte de la cocina sin desperdicio del Mezzogiorno. Acompañados por un suntuoso sugo di melanzane perfumado con albahaca y tomate San Marzano, evocan los almuerzos de domingo más entrañables de Nápoles y Campania.",
+    "ingredient_groups": [
+      {
+        "name": "Maltagliati Caseros",
+        "items": [
+          "300 g de harina de trigo 00",
+          "100 g de sémola de trigo duro rimacinata",
+          "4 huevos de campo frescos",
+          "1 pizca de sal fina"
+        ]
+      },
+      {
+        "name": "Sugo di Melanzane alla Napoletana",
+        "items": [
+          "2 berenjenas medianas firmes, cortadas en cubos de 1,5 cm",
+          "600 g de tomates San Marzano pelados (triturados a mano con sus jugos)",
+          "2 dientes de ajo pelados y aplastados",
+          "1 manojo de albahaca fresca",
+          "100 g de queso caciocavallo, provolone curado o parmesano rallado",
+          "5 cucharadas de aceite de oliva virgen extra",
+          "Sal marina y pimienta negra recién molida",
+          "Aceite de oliva c/n para dorar las berenjenas"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Paso 1: Amasado y corte rústico de los maltagliati",
+        "steps": [
+          "En la mesada, uní las harinas con los huevos y la sal, amasando durante 10 minutos hasta obtener una masa lisa y elástica; dejala reposar 20 minutos tapada.",
+          "Estirá la masa con palote hasta un grosor medio (unos 2 mm, con más cuerpo que una lasaña).",
+          "Cortá la masa con cuchillo o rueda en tiras anchas diagonales y luego en rombos y triángulos irregulares y desparejos de 3 a 5 cm de lado; enharinalos con sémola y reservalos sobre un paño seco."
+        ]
+      },
+      {
+        "name": "Paso 2: Dorado de berenjenas y sugo napolitano",
+        "steps": [
+          "En una sartén amplia y profunda, calentá abundante aceite de oliva a fuego medio-alto y salteá los cubos de berenjena durante 8 a 10 minutos hasta que estén bien dorados y cremosos por dentro; retiralos y escurrilos.",
+          "En la misma sartén con 2 cucharadas de aceite limpio, dorá los dientes de ajo aplastados hasta que desprendan perfume y descartalos.",
+          "Verté los tomates San Marzano triturados a mano, sazoná con sal, pimienta y hojas de albahaca fresca rasgadas con la mano; cociná a fuego medio-bajo durante 15 minutos hasta que el sugo espese y tome brillo.",
+          "Incorporá los cubos de berenjena dorados a la salsa y cociná todo junto a fuego suave 5 minutos para que se fundan los sabores."
+        ]
+      },
+      {
+        "name": "Paso 3: Cocción y salto de la pasta",
+        "steps": [
+          "Cociná los maltagliati en abundante agua hirviendo con sal durante 3 a 4 minutos hasta que suban a la superficie y estén al dente.",
+          "Levantá la pasta con espumadera y pasala directamente a la sartén con el sugo de berenjenas, agregando un cucharón del agua almidonada de cocción.",
+          "Salteá a fuego vivo durante 1 minuto realizando un mantecado enérgico; retirá del fuego, sumá abundante queso caciocavallo o parmesano rallado y serví con hojas frescas de albahaca."
+        ]
+      }
+    ],
+    "notes": "El dorado previo de la berenjena: Dorar los cubos de berenjena por separado antes de sumarlos a la salsa de tomate evita que absorban líquido acuoso y asegura que mantengan una textura mantecosa con sabor concentrado y notas caramelizadas.",
+    "image": "https://lh3.googleusercontent.com/-b33Wbv7yMnw/awX04nZQw0I/AAAAAAAQDi4/S9SdUQ0EgrMy520o-jJpRell5WxscCnaQCNcBGAsYHQ/s1600/maltagliati_sugo_melanzane_italia.jpg",
+    "steps": [
+      "En la mesada, uní las harinas con los huevos y la sal, amasando durante 10 minutos hasta obtener una masa lisa y elástica; dejala reposar 20 minutos tapada.",
+      "Estirá la masa con palote hasta un grosor medio (unos 2 mm, con más cuerpo que una lasaña).",
+      "Cortá la masa con cuchillo o rueda en tiras anchas diagonales y luego en rombos y triángulos irregulares y desparejos de 3 a 5 cm de lado; enharinalos con sémola y reservalos sobre un paño seco.",
+      "En una sartén amplia y profunda, calentá abundante aceite de oliva a fuego medio-alto y salteá los cubos de berenjena durante 8 a 10 minutos hasta que estén bien dorados y cremosos por dentro; retiralos y escurrilos.",
+      "En la misma sartén con 2 cucharadas de aceite limpio, dorá los dientes de ajo aplastados hasta que desprendan perfume y descartalos.",
+      "Verté los tomates San Marzano triturados a mano, sazoná con sal, pimienta y hojas de albahaca fresca rasgadas con la mano; cociná a fuego medio-bajo durante 15 minutos hasta que el sugo espese y tome brillo.",
+      "Incorporá los cubos de berenjena dorados a la salsa y cociná todo junto a fuego suave 5 minutos para que se fundan los sabores.",
+      "Cociná los maltagliati en abundante agua hirviendo con sal durante 3 a 4 minutos hasta que suban a la superficie y estén al dente.",
+      "Levantá la pasta con espumadera y pasala directamente a la sartén con el sugo de berenjenas, agregando un cucharón del agua almidonada de cocción.",
+      "Salteá a fuego vivo durante 1 minuto realizando un mantecado enérgico; retirá del fuego, sumá abundante queso caciocavallo o parmesano rallado y serví con hojas frescas de albahaca."
+    ],
+    "ingredients": [
+      "300 g de harina de trigo 00",
+      "100 g de sémola de trigo duro rimacinata",
+      "4 huevos de campo frescos",
+      "1 pizca de sal fina",
+      "2 berenjenas medianas firmes, cortadas en cubos de 1,5 cm",
+      "600 g de tomates San Marzano pelados (triturados a mano con sus jugos)",
+      "2 dientes de ajo pelados y aplastados",
+      "1 manojo de albahaca fresca",
+      "100 g de queso caciocavallo, provolone curado o parmesano rallado",
+      "5 cucharadas de aceite de oliva virgen extra",
+      "Sal marina y pimienta negra recién molida",
+      "Aceite de oliva c/n para dorar las berenjenas"
+    ]
   }
 ]
