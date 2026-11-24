@@ -84716,5 +84716,861 @@
       "sandwich caliente",
       "comfort food eeuu"
     ]
+  },
+  {
+    "title": "Ensalada Rusa (Argentina)",
+    "category": "Ensaladas",
+    "country": "Argentina",
+    "difficulty": "Fácil",
+    "prep_time": "20 min",
+    "cook_time": "15 min",
+    "servings": "6 porciones",
+    "calories": "310 kcal aprox. por porción",
+    "story": "Derivada de la mítica ensalada creada por Lucien Olivier en el restaurante Hermitage de Moscú en la década de 1860, la ensalada rusa fue adoptada y reinterpretada por la inmigración en el Río de la Plata hasta volverse un símbolo identitario de los bodegones y las reuniones familiares. En las mesas argentinas de domingo y celebraciones de fin de año, constituye la guarnición fría indiscutida para acompañar asados, lechón y matambres.",
+    "ingredients": [
+      "4 papas medianas (unos 700 g) peladas y cortadas en cubos parejos de 1 cm",
+      "3 zanahorias medianas (unos 400 g) peladas y cortadas en cubos de 1 cm",
+      "1 taza de arvejas frescas cocidas o en conserva escurridas",
+      "250 g de mayonesa clásica de buena calidad",
+      "1 cucharada de jugo de limón recién exprimido",
+      "2 cucharadas de aceite de oliva virgen extra",
+      "Sal fina y pimienta blanca molida al gusto",
+      "2 huevos duros cortados en gajos para decorar (opcional)",
+      "Hojas de perejil fresco para decorar"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Vegetales y Cocción",
+        "ingredients": [
+          "4 papas medianas cortadas en cubos parejos de 1 cm",
+          "3 zanahorias cortadas en cubos de 1 cm",
+          "1 taza de arvejas escurridas"
+        ]
+      },
+      {
+        "name": "Aderezo y Emulsión",
+        "ingredients": [
+          "250 g de mayonesa clásica",
+          "1 cucharada de jugo de limón",
+          "2 cucharadas de aceite de oliva virgen extra",
+          "Sal fina y pimienta blanca molida"
+        ]
+      },
+      {
+        "name": "Decoración Tradicional",
+        "ingredients": [
+          "2 huevos duros en gajos",
+          "Hojas de perejil fresco"
+        ]
+      }
+    ],
+    "steps": [
+      "Pelá las papas y las zanahorias; cortalas en cubos de un centímetro intentando que queden lo más parejos posible para asegurar una cocción uniforme.",
+      "En una cacerola con abundante agua hirviendo y un puñado de sal gruesa, cociná primero las zanahorias durante 5 minutos.",
+      "Añadí los cubos de papa a la misma cacerola y continuá la cocción durante 8 a 10 minutos más, hasta que ambos vegetales estén tiernos al pincharlos pero firmes sin desarmarse (al dente).",
+      "Escurrí inmediatamente los vegetales en un colador y pasalos por un chorro suave de agua fría para cortar la cocción; dejalos escurrir y enfriar por completo a temperatura ambiente.",
+      "En un bol amplio, colocá las papas y zanahorias frías junto con las arvejas.",
+      "Rociá con el aceite de oliva, el jugo de limón, sal fina y pimienta blanca; mezclá suavemente con espátula de goma para no romper las papas.",
+      "Incorporá la mayonesa en dos partes, integrando con movimientos envolventes hasta que todos los cubos queden cubiertos por una película cremosa y brillante.",
+      "Llevá la ensalada a la heladera tapada con papel film durante al menos 1 hora para que tome buena temperatura y se asienten los sabores.",
+      "Al momento de servir, disponela en una fuente baja de loza, decorá la superficie con los gajos de huevo duro y unas hojitas de perejil fresco."
+    ],
+    "step_groups": [
+      {
+        "name": "Corte y Cocción de Vegetales",
+        "steps": [
+          "Pelá las papas y las zanahorias; cortalas en cubos de un centímetro intentando que queden lo más parejos posible para asegurar una cocción uniforme.",
+          "En una cacerola con abundante agua hirviendo y un puñado de sal gruesa, cociná primero las zanahorias durante 5 minutos.",
+          "Añadí los cubos de papa a la misma cacerola y continuá la cocción durante 8 a 10 minutos más, hasta que ambos vegetales estén tiernos al pincharlos pero firmes sin desarmarse (al dente).",
+          "Escurrí inmediatamente los vegetales en un colador y pasalos por un chorro suave de agua fría para cortar la cocción; dejalos escurrir y enfriar por completo a temperatura ambiente."
+        ]
+      },
+      {
+        "name": "Condimentado y Emulsión",
+        "steps": [
+          "En un bol amplio, colocá las papas y zanahorias frías junto con las arvejas.",
+          "Rociá con el aceite de oliva, el jugo de limón, sal fina y pimienta blanca; mezclá suavemente con espátula de goma para no romper las papas.",
+          "Incorporá la mayonesa en dos partes, integrando con movimientos envolventes hasta que todos los cubos queden cubiertos por una película cremosa y brillante."
+        ]
+      },
+      {
+        "name": "Reposo y Emplatado",
+        "steps": [
+          "Llevá la ensalada a la heladera tapada con papel film durante al menos 1 hora para que tome buena temperatura y se asienten los sabores.",
+          "Al momento de servir, disponela en una fuente baja de loza, decorá la superficie con los gajos de huevo duro y unas hojitas de perejil fresco."
+        ]
+      }
+    ],
+    "notes": "El secreto de una gran ensalada rusa está en el punto de cocción de la papa: si se pasa se vuelve puré, y si queda cruda resulta pesada. Dejar enfriar bien las verduras antes de mezclar con la mayonesa evita que la emulsión se corte por el calor.",
+    "tags": [
+      "ensalada rusa",
+      "receta clasica argentina",
+      "ensalada de papa y zanahoria",
+      "bodegon porteno",
+      "guarnicion para asado",
+      "mesa de navidad",
+      "receta facil",
+      "ensalada fria"
+    ],
+    "id": 796,
+    "image": "https://lh3.googleusercontent.com/-e3HmI409b7Q/awUDok79xvI/AAAAAAAQDX4/aN-eYmaSdr4UcO4rbH_ynE7z18t2tjbxwCNcBGAsYHQ/s1600/ensalada_rusa_argentina.jpg"
+  },
+  {
+    "title": "Ensalada de Apio y Manzana (Argentina)",
+    "category": "Ensaladas",
+    "country": "Argentina",
+    "difficulty": "Fácil",
+    "prep_time": "15 min",
+    "cook_time": "0 min",
+    "servings": "6 porciones",
+    "calories": "260 kcal aprox. por porción",
+    "story": "Adaptación rioplatense de la célebre ensalada creada en 1893 por Oscar Tschirky en el hotel Waldorf-Astoria de Nueva York, esta versión se arraigó en la gastronomía argentina como el gran contrapunto fresco y crocante para carnes de cerdo, pollo al horno y pavita. La suma criolla de zanahoria rallada aporta dulzor terroso y una coloración vivaz que complementa la acidez de la manzana verde.",
+    "ingredients": [
+      "4 tallos tiernos de apio blanco bien limpios y sin hebras",
+      "2 manzanas verdes ácidas (variedad Granny Smith)",
+      "2 zanahorias medianas peladas y ralladas en hebras finas",
+      "100 g de nueces mariposa peladas y tostadas ligeramente",
+      "150 g de mayonesa clásica",
+      "3 cucharadas de crema de leche espesa o queso blanco",
+      "Jugo colado de 1 limón grande",
+      "Sal fina y pimienta negra recién molida al gusto"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Vegetales y Frutas Crocantes",
+        "ingredients": [
+          "4 tallos tiernos de apio blanco cortados en rodajitas finas",
+          "2 manzanas verdes ácidas en cubos pequeños",
+          "2 zanahorias ralladas en hebras finas",
+          "100 g de nueces mariposa tostadas y partidas",
+          "Jugo de 1 limón (para evitar oxidación)"
+        ]
+      },
+      {
+        "name": "Aderezo Cremoso Suave",
+        "ingredients": [
+          "150 g de mayonesa clásica",
+          "3 cucharadas de crema de leche o queso blanco",
+          "Sal fina y pimienta negra molida"
+        ]
+      }
+    ],
+    "steps": [
+      "Lavá muy bien los tallos de apio, retirá los filamentos más gruesos con un pelapapas o cuchillo y cortalos en rodajas finas y crujientes de unos 3 milímetros.",
+      "Pelá las manzanas verdes (o dejales la piel si buscás más color), descorazónalas y cortalas en cubos pequeños de 1 cm; rocialas de inmediato con el jugo de limón en un cuenco para evitar que se oscurezcan.",
+      "Pelá las zanahorias y rallalas por la parte gruesa del rallador.",
+      "Picá las nueces mariposa de forma grosera con las manos o un cuchillo, reservando algunas mitades enteras para coronar.",
+      "En un bol chico, batí la mayonesa con la crema de leche, una pizca de sal y pimienta negra recién molida hasta obtener un aderezo fluido, suave y sedoso.",
+      "En una ensaladera amplia, combiná el apio picado, las manzanas escurridas del exceso de limón, la zanahoria rallada y las nueces partidas.",
+      "Verté el aderezo sobre la ensalada y mezclá delicadamente con movimientos envolventes para que todos los ingredientes queden bien integrados.",
+      "Mantené en heladera tapada hasta el momento de servir para mantener la frescura y el crocante de los vegetales."
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación de Frutas y Verduras",
+        "steps": [
+          "Lavá muy bien los tallos de apio, retirá los filamentos más gruesos con un pelapapas o cuchillo y cortalos en rodajas finas y crujientes de unos 3 milímetros.",
+          "Pelá las manzanas verdes (o dejales la piel si buscás más color), descorazónalas y cortalas en cubos pequeños de 1 cm; rocialas de inmediato con el jugo de limón en un cuenco para evitar que se oscurezcan.",
+          "Pelá las zanahorias y rallalas por la parte gruesa del rallador.",
+          "Picá las nueces mariposa de forma grosera con las manos o un cuchillo, reservando algunas mitades enteras para coronar."
+        ]
+      },
+      {
+        "name": "Emulsión y Armado",
+        "steps": [
+          "En un bol chico, batí la mayonesa con la crema de leche, una pizca de sal y pimienta negra recién molida hasta obtener un aderezo fluido, suave y sedoso.",
+          "En una ensaladera amplia, combiná el apio picado, las manzanas escurridas del exceso de limón, la zanahoria rallada y las nueces partidas.",
+          "Verté el aderezo sobre la ensalada y mezclá delicadamente con movimientos envolventes para que todos los ingredientes queden bien integrados.",
+          "Mantené en heladera tapada hasta el momento de servir para mantener la frescura y el crocante de los vegetales."
+        ]
+      }
+    ],
+    "notes": "Aligerar la mayonesa con unas cucharadas de crema de leche o queso crema le quita pesadez al aderezo y resalta el perfil fresco de la manzana. Tostar apenas las nueces en sartén seca antes de agregarlas potencia su aroma tostado.",
+    "tags": [
+      "ensalada waldorf",
+      "ensalada de apio y manzana",
+      "ensalada agridulce",
+      "receta fresca",
+      "bodegon argentino",
+      "mesa navidena",
+      "guarnicion para cerdo",
+      "ensalada con nueces"
+    ],
+    "id": 797,
+    "image": "https://lh3.googleusercontent.com/-V5UV8gZPm_s/awUDpZseKPI/AAAAAAAQDYA/2OhCBkXLkg8G0MUlgKxRBJReowHrIEXmgCNcBGAsYHQ/s1600/ensalada_apio_manzana_argentina.jpg"
+  },
+  {
+    "title": "Lengua a la Vinagreta (Argentina)",
+    "category": "Entradas",
+    "country": "Argentina",
+    "difficulty": "Media",
+    "prep_time": "25 min",
+    "cook_time": "2 h",
+    "servings": "8 porciones",
+    "calories": "280 kcal aprox. por porción",
+    "story": "Emblema absoluto de los clásicos bodegones porteños y las cantinas de barrio de Buenos Aires, la lengua a la vinagreta encarna la tradición criolla de transformar cortes económicos en manjares de alta cocina popular. Heredada de las técnicas de conservación hispano-italianas, la carne se tierniza en un prolongado caldo aromático antes de macerar en una vinagreta viva de perejil, ajo fresco y huevo duro.",
+    "ingredients": [
+      "1 lengua vacuna fresca limpia (aproximadamente 1,2 a 1,5 kg)",
+      "1 cebolla entera pelada",
+      "1 zanahoria cortada al medio",
+      "2 hojas de laurel secas",
+      "1 atado de perejil fresco bien picado fino",
+      "4 dientes de ajo finamente picados",
+      "1 taza (240 ml) de aceite de oliva o de girasol suave",
+      "½ taza (120 ml) de vinagre de alcohol o de vino blanco",
+      "2 huevos duros picados fino",
+      "½ morrón rojo picado en cubitos muy pequeños (opcional)",
+      "1 cucharadita de ají molido",
+      "Sal gruesa para el hervor y sal fina al gusto"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Hervor Aromático de la Lengua",
+        "ingredients": [
+          "1 lengua vacuna fresca de 1,3 kg",
+          "1 cebolla, 1 zanahoria y 2 hojas de laurel",
+          "Sal gruesa c/n"
+        ]
+      },
+      {
+        "name": "Vinagreta Criolla Tradicional",
+        "ingredients": [
+          "1 atado de perejil fresco picado fino",
+          "4 dientes de ajo picados",
+          "½ morrón rojo en brunoise",
+          "1 taza de aceite de oliva o maíz",
+          "½ taza de vinagre blanco",
+          "1 cucharadita de ají molido",
+          "2 huevos duros picados fino",
+          "Sal fina y pimienta negra recién molida"
+        ]
+      }
+    ],
+    "steps": [
+      "Lavá muy bien la lengua bajo un chorro de agua fría frotando la superficie con un cepillo limpio.",
+      "Colocala en una olla grande y profunda, cubrila con abundante agua fría y sumá la cebolla, la zanahoria, las hojas de laurel y dos cucharadas soperas de sal gruesa.",
+      "Llevá a fuego fuerte hasta que rompa el hervor; reducí el fuego a mínimo, tapá la olla y cociná durante 2 a 2 horas y media, hasta que al clavar la punta de un cuchillo en la parte más gruesa penetre con total suavidad.",
+      "Apagá el fuego y retirá la lengua con una pinza; cuando entibie apenas pero aún esté caliente, retirá la piel gruesa y rugosa exterior tirando desde la punta hacia la base (si se enfría del todo la piel se adhiere).",
+      "Dejá enfriar la pieza por completo en la heladera envuelta en papel film para que la carne tome firmeza y permita un corte prolijo.",
+      "Para la vinagreta, mezclá en un bol el perejil picado, el ajo, el morrón rojo, el ají molido, sal entrefina, pimienta, el vinagre y el aceite; batí brevemente con tenedor para emulsionar.",
+      "Con un cuchillo bien afilado, cortá la lengua fría en fetas finas de 3 a 4 milímetros de grosor.",
+      "En una fuente profunda de vidrio o loza, disponé una capa de rodajas de lengua, cubrí con parte de la vinagreta y espolvoreá con huevo duro picado; repetí armando capas sucesivas hasta terminar.",
+      "Tapá la fuente y llevala a la heladera durante al menos 12 a 24 horas antes de degustar para que la carne absorba todos los perfumes y la acidez del adobo."
+    ],
+    "step_groups": [
+      {
+        "name": "Cocción y Pelado de la Lengua",
+        "steps": [
+          "Lavá muy bien la lengua bajo un chorro de agua fría frotando la superficie con un cepillo limpio.",
+          "Colocala en una olla grande y profunda, cubrila con abundante agua fría y sumá la cebolla, la zanahoria, las hojas de laurel y dos cucharadas soperas de sal gruesa.",
+          "Llevá a fuego fuerte hasta que rompa el hervor; reducí el fuego a mínimo, tapá la olla y cociná durante 2 a 2 horas y media, hasta que al clavar la punta de un cuchillo en la parte más gruesa penetre con total suavidad.",
+          "Apagá el fuego y retirá la lengua con una pinza; cuando entibie apenas pero aún esté caliente, retirá la piel gruesa y rugosa exterior tirando desde la punta hacia la base (si se enfría del todo la piel se adhiere)."
+        ]
+      },
+      {
+        "name": "Fileteado y Maceración",
+        "steps": [
+          "Dejá enfriar la pieza por completo en la heladera envuelta en papel film para que la carne tome firmeza y permita un corte prolijo.",
+          "Para la vinagreta, mezclá en un bol el perejil picado, el ajo, el morrón rojo, el ají molido, sal entrefina, pimienta, el vinagre y el aceite; batí brevemente con tenedor para emulsionar.",
+          "Con un cuchillo bien afilado, cortá la lengua fría en fetas finas de 3 a 4 milímetros de grosor.",
+          "En una fuente profunda de vidrio o loza, disponé una capa de rodajas de lengua, cubrí con parte de la vinagreta y espolvoreá con huevo duro picado; repetí armando capas sucesivas hasta terminar.",
+          "Tapá la fuente y llevala a la heladera durante al menos 12 a 24 horas antes de degustar para que la carne absorba todos los perfumes y la acidez del adobo."
+        ]
+      }
+    ],
+    "notes": "Pelar la lengua en caliente es indispensable: si se deja enfriar con la piel puesta, resulta casi imposible retirarla sin destrozar la carne. El verdadero secreto de este plato es el reposo; al segundo o tercer día de heladera gana un sabor incomparablemente superior.",
+    "tags": [
+      "lengua a la vinagreta",
+      "entrada de bodegon",
+      "receta clasica argentina",
+      "cocina de cantina",
+      "carne fria",
+      "receta con vinagreta",
+      "antipasto criollo",
+      "plato de fiesta"
+    ],
+    "id": 798,
+    "image": "https://lh3.googleusercontent.com/-ALcK5_MW_5w/awUDqVDCpDI/AAAAAAAQDYI/mZz0nDGuDtQb4UKCTqLsx2kh4njhHdzmwCNcBGAsYHQ/s1600/lengua_a_la_vinagreta_argentina.jpg"
+  },
+  {
+    "title": "Matambre Arrollado (Argentina)",
+    "category": "Carnes",
+    "country": "Argentina",
+    "difficulty": "Media",
+    "prep_time": "35 min",
+    "cook_time": "2 h 30 min",
+    "servings": "10 porciones",
+    "calories": "390 kcal aprox. por porción",
+    "story": "Corte vacuno autóctono por excelencia que envuelve el costillar del novillo, el matambre debe su nombre criollo a la contracción de 'mata-hambre', por ser la primera pieza que se asaba al faenar en el campo pampeano. Su versión arrollada y cocida en caldo es la obra cumbre del fiambre casero argentino, servido frío en finas rebanadas multicolores en bodegones, mesas navideñas y bufés familiares.",
+    "ingredients": [
+      "1 matambre vacuno entero bien desgrasado (unos 1,5 a 1,8 kg)",
+      "4 huevos duros enteros",
+      "2 zanahorias grandes cortadas en bastones finos",
+      "1 morrón rojo asado cortado en tiras anchas",
+      "1 atado de perejil fresco picado",
+      "3 dientes de ajo picados fino",
+      "2 sobres (14 g) de gelatina sin sabor en polvo",
+      "1 cucharada colmada de ají molido",
+      "1 cucharada de orégano seco",
+      "Sal gruesa y pimienta negra molida al gusto",
+      "Hilos de cocina (piolín de carnicero) para bridar",
+      "Caldo de verduras o agua aromatizada con laurel para hervir"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Base de Carne y Condimento",
+        "ingredients": [
+          "1 matambre vacuno entero desgrasado",
+          "1 atado de perejil picado",
+          "3 dientes de ajo picados",
+          "1 cucharada de ají molido",
+          "1 cucharada de orégano seco",
+          "2 sobres de gelatina sin sabor (clave para ligar el corte)",
+          "Sal entrefina y pimienta negra molida"
+        ]
+      },
+      {
+        "name": "Relleno Tradicional en Capas",
+        "ingredients": [
+          "4 huevos duros enteros alineados",
+          "2 zanahorias en bastones hervidos al dente",
+          "1 morrón rojo en tiras"
+        ]
+      }
+    ],
+    "steps": [
+      "Extendé el matambre sobre la mesada con la cara que tenía la grasa hacia arriba; emparejá los bordes con un cuchillo filoso formando un rectángulo prolijo y retirá los excesos de grasa más duros.",
+      "Salpimentá generosamente toda la superficie de la carne; espolvoreá de manera pareja con el ajo picado, el perejil, el ají molido, el orégano y la gelatina sin sabor en polvo.",
+      "Disponé los bastones de zanahoria y las tiras de morrón formando líneas horizontales a lo largo de la pieza.",
+      "Alineá los 4 huevos duros enteros en fila a unos cinco centímetros del borde inferior, de modo que al enrollar queden en el centro exacto de la pieza.",
+      "Comenzá a enrollar la carne desde el borde inferior sobre los huevos, apretando con firmeza en cada vuelta para que no queden huecos de aire en el interior.",
+      "Atá el rollo con hilo de carnicero cruzándolo a lo largo y asegurándolo con nudos firmes cada 3 centímetros (o envolvelo ajustado en un lienzo limpio o papel film resistente al calor).",
+      "Colocá el matambre en una cacerola u olla ovalada amplia, cubrilo con agua caliente aromatizada con verduras y laurel, y cocinalo a fuego muy suave durante 2 horas y media sin que rompa en hervor violento.",
+      "Retirá el matambre del caldo y colócalo caliente entre dos tablas de madera con peso encima (como varias latas de conserva o una prensa de matambre) durante 8 a 10 horas en la heladera para prensarlo y unificar la pieza.",
+      "Una vez bien frío y compacto, retirá los hilos y cortá en rodajas finas de medio centímetro exhibiendo el mosaico colorido de su relleno."
+    ],
+    "step_groups": [
+      {
+        "name": "Desgrasado, Sazonado y Relleno",
+        "steps": [
+          "Extendé el matambre sobre la mesada con la cara que tenía la grasa hacia arriba; emparejá los bordes con un cuchillo filoso formando un rectángulo prolijo y retirá los excesos de grasa más duros.",
+          "Salpimentá generosamente toda la superficie de la carne; espolvoreá de manera pareja con el ajo picado, el perejil, el ají molido, el orégano y la gelatina sin sabor en polvo.",
+          "Disponé los bastones de zanahoria y las tiras de morrón formando líneas horizontales a lo largo de la pieza.",
+          "Alineá los 4 huevos duros enteros en fila a unos cinco centímetros del borde inferior, de modo que al enrollar queden en el centro exacto de la pieza."
+        ]
+      },
+      {
+        "name": "Enrollado, Cocción y Prensado",
+        "steps": [
+          "Comenzá a enrollar la carne desde el borde inferior sobre los huevos, apretando con firmeza en cada vuelta para que no queden huecos de aire en el interior.",
+          "Atá el rollo con hilo de carnicero cruzándolo a lo largo y asegurándolo con nudos firmes cada 3 centímetros (o envolvelo ajustado en un lienzo limpio o papel film resistente al calor).",
+          "Colocá el matambre en una cacerola u olla ovalada amplia, cubrilo con agua caliente aromatizada con verduras y laurel, y cocinalo a fuego muy suave durante 2 horas y media sin que rompa en hervor violento.",
+          "Retirá el matambre del caldo y colócalo caliente entre dos tablas de madera con peso encima durante 8 a 10 horas en la heladera para prensarlo y unificar la pieza.",
+          "Una vez bien frío y compacto, retirá los hilos y cortá en rodajas finas de medio centímetro exhibiendo el mosaico colorido de su relleno."
+        ]
+      }
+    ],
+    "notes": "El polvo de gelatina sin sabor es el gran secreto de carnicería para que las rodajas no se desarmen al cortar: al enfriarse junto al prensado, sella las capas de carne y verduras a la perfección. Es fundamental prensarlo mientras aún esté caliente.",
+    "tags": [
+      "matambre arrollado",
+      "fiambre casero",
+      "clasico argentino",
+      "receta de bodegon",
+      "mesa de navidad",
+      "carne fria",
+      "comida festiva",
+      "matambre relleno"
+    ],
+    "id": 799,
+    "image": "https://lh3.googleusercontent.com/-Ylwv44-Dsx4/awUDrXzd8hI/AAAAAAAQDYQ/bUCEIXbUfwA83LlDeC0QCtCdk3LAnF2qwCNcBGAsYHQ/s1600/matambre_arrollado_argentino.jpg"
+  },
+  {
+    "title": "Guiso de Lentejas Criollo (Argentina)",
+    "category": "Guisos & Platos de Olla",
+    "country": "Argentina",
+    "difficulty": "Fácil",
+    "prep_time": "20 min",
+    "cook_time": "50 min",
+    "servings": "6 porciones",
+    "calories": "520 kcal aprox. por porción",
+    "story": "Plato reconfortante por antonomasia de los inviernos del sur del continente, el guiso de lentejas criollo amalgamó la humilde legumbre mediterránea traída por la inmigración con los embutidos y cortes vacunos del campo argentino. En cazuelas de barro o hierro de bodegón, su caldo espeso y perfumado con pimentón dulce combate las temperaturas bajo cero y reúne a la familia alrededor del fuego.",
+    "ingredients": [
+      "400 g de lentejas secas (remojadas previamente 1 hora o variedad pardina directa)",
+      "400 g de carne vacuna en cubos chicos (paleta, roast beef o lomo)",
+      "1 chorizo colorado cortado en rodajas finas",
+      "150 g de panceta ahumada cortada en bastoncitos",
+      "2 cebollas medianas picadas en cubos",
+      "1 pimiento morrón rojo picado",
+      "2 zanahorias cortadas en rodajitas finas",
+      "2 papas medianas cortadas en cubos de 2 cm",
+      "2 dientes de ajo picados",
+      "1 taza de puré de tomates o tomate triturado",
+      "1 litro de caldo de carne caliente",
+      "1 cucharada colmada de pimentón dulce",
+      "½ cucharadita de ají molido",
+      "1 hoja de laurel seca",
+      "2 cucharadas de aceite, sal y pimienta al gusto"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Carnes y Embutidos",
+        "ingredients": [
+          "400 g de carne vacuna en cubos",
+          "1 chorizo colorado en rodajas",
+          "150 g de panceta ahumada en bastones"
+        ]
+      },
+      {
+        "name": "Sofrito y Legumbres",
+        "ingredients": [
+          "400 g de lentejas secas",
+          "2 cebollas y 1 morrón rojo picados",
+          "2 dientes de ajo picados",
+          "2 zanahorias en rodajas",
+          "2 papas en cubos"
+        ]
+      },
+      {
+        "name": "Caldo y Especias Criollas",
+        "ingredients": [
+          "1 taza de puré de tomate",
+          "1 litro de caldo de carne",
+          "1 cucharada de pimentón dulce",
+          "½ cucharadita de ají molido",
+          "1 hoja de laurel seca",
+          "Sal y pimienta negra molida"
+        ]
+      }
+    ],
+    "steps": [
+      "En una cacerola u olla de hierro pesada a fuego medio, dorá la panceta en bastones en su propia grasa durante 3 minutos hasta que desprenda aroma y quede crujiente.",
+      "Incorporá el chorizo colorado en rodajas y los cubos de carne vacuna; sellá a fuego vivo durante 5 minutos revolviendo de vez en cuando hasta que tomen buen color dorado.",
+      "Sumá las cebollas picadas, el morrón y los dientes de ajo; salpimentá suavemente y rehogá durante 5 a 7 minutos hasta que los vegetales estén tiernos y transparentes.",
+      "Añadí las rodajas de zanahoria, el pimentón dulce y el ají molido; revolvé rápidamente durante 30 segundos cuidando que el pimentón no se queme con el fondo de la olla.",
+      "Verté el puré de tomates y la hoja de laurel; cociná por 3 minutos raspando el fondo para levantar los sabores caramelizados.",
+      "Incorporá las lentejas escurridas y cubrí todo con el caldo de carne caliente.",
+      "Bajá el fuego a mínimo, tapá la olla y cociná a hervor suave durante 25 minutos.",
+      "Agregá los cubos de papa y continuá la cocción a fuego lento durante 15 a 20 minutos más, hasta que las papas y las lentejas estén completamente tiernas y el caldo haya espesado naturalmente.",
+      "Apagá el fuego, rectificá de sal y dejá reposar la olla tapada durante 5 minutos antes de servir en cazuelas hondas de barro con pan fresco."
+    ],
+    "step_groups": [
+      {
+        "name": "Dorado de Carnes y Sofrito",
+        "steps": [
+          "En una cacerola u olla de hierro pesada a fuego medio, dorá la panceta en bastones en su propia grasa durante 3 minutos hasta que desprenda aroma y quede crujiente.",
+          "Incorporá el chorizo colorado en rodajas y los cubos de carne vacuna; sellá a fuego vivo durante 5 minutos revolviendo de vez en cuando hasta que tomen buen color dorado.",
+          "Sumá las cebollas picadas, el morrón y los dientes de ajo; salpimentá suavemente y rehogá durante 5 a 7 minutos hasta que los vegetales estén tiernos y transparentes."
+        ]
+      },
+      {
+        "name": "Cocción Lenta de Legumbres y Papas",
+        "steps": [
+          "Añadí las rodajas de zanahoria, el pimentón dulce y el ají molido; revolvé rápidamente durante 30 segundos cuidando que el pimentón no se queme con el fondo de la olla.",
+          "Verté el puré de tomates y la hoja de laurel; cociná por 3 minutos raspando el fondo para levantar los sabores caramelizados.",
+          "Incorporá las lentejas escurridas y cubrí todo con el caldo de carne caliente.",
+          "Bajá el fuego a mínimo, tapá la olla y cociná a hervor suave durante 25 minutos.",
+          "Agregá los cubos de papa y continuá la cocción a fuego lento durante 15 a 20 minutos más, hasta que las papas y las lentejas estén completamente tiernas y el caldo haya espesado naturalmente.",
+          "Apagá el fuego, rectificá de sal y dejá reposar la olla tapada durante 5 minutos antes de servir en cazuelas hondas de barro con pan fresco."
+        ]
+      }
+    ],
+    "notes": "Agregar las papas a mitad de cocción evita que se deshagan antes de que la lenteja termine de ablandar. Como todo buen guiso de cuchara, al día siguiente recalentado concentra aún más sus aromas y resulta infinitamente más rico.",
+    "tags": [
+      "guiso de lentejas",
+      "comida de olla",
+      "plato de invierno",
+      "clasico argentino",
+      "receta con chorizo colorado",
+      "guiso criollo",
+      "bodegon",
+      "comfort food"
+    ],
+    "id": 800,
+    "image": "https://lh3.googleusercontent.com/-Lup6so03CUY/awUDsLFe7tI/AAAAAAAQDYY/mPTz49Isa1wawmD5uuLR-ADg8-SFqk3zACNcBGAsYHQ/s1600/guiso_lentejas_criollo_argentina.jpg"
+  },
+  {
+    "title": "Torre de Panqueques Salada (Argentina)",
+    "category": "Entradas",
+    "country": "Argentina",
+    "difficulty": "Fácil",
+    "prep_time": "40 min",
+    "cook_time": "15 min",
+    "servings": "8 porciones",
+    "calories": "370 kcal aprox. por porción",
+    "story": "Inspirada en el clásico 'fiambre alemán' traído por las comunidades de inmigrantes centroeuropeos, la torre de panqueques (o pionono salado estratificado) fue adoptada con devoción en los hogares argentinos a partir de mediados del siglo XX. Hoy constituye la entrada fría estrella por definición de las mesas de Navidad, Año Nuevo y festejos familiares en todo el país.",
+    "ingredients": [
+      "10 a 12 panqueques caseros finos y tiernos",
+      "200 g de jamón cocido en fetas finas",
+      "200 g de queso de máquina o gouda en fetas",
+      "3 huevos duros picados fino",
+      "1 planta chica de lechuga capuchina lavada y cortada en juliana fina",
+      "2 tomates redondos maduros cortados en rodajas muy finas",
+      "1 lata chica de atún al natural desmenuzado (opcional)",
+      "100 g de aceitunas verdes sin carozo descarozadas y fileteadas",
+      "300 g de mayonesa clásica suave",
+      "2 cucharadas de queso crema o crema de leche",
+      "Sal fina y pimienta al gusto"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Base de Panqueques y Aderezo",
+        "ingredients": [
+          "10 a 12 panqueques caseros neutros de 20 cm",
+          "300 g de mayonesa clásica",
+          "2 cucharadas de queso crema",
+          "Pimienta blanca molida"
+        ]
+      },
+      {
+        "name": "Capas de Fiambre y Verduras Frescas",
+        "ingredients": [
+          "200 g de jamón cocido en fetas",
+          "200 g de queso gouda o barra en fetas",
+          "3 huevos duros picados",
+          "2 tomates en rodajas finas escurridas",
+          "1 taza de lechuga cortada en hebras finas",
+          "100 g de aceitunas verdes fileteadas"
+        ]
+      }
+    ],
+    "steps": [
+      "Prepará los panqueques neutros siguiendo la técnica tradicional y dejalos enfriar por completo apilados con separadores para que no se peguen.",
+      "En un cuenco, mezclá la mayonesa con el queso crema y una pizca de pimienta para lograr un aderezo bien fluido y fácil de untar.",
+      "Sobre una fuente o plato llano amplio, colocá el primer panqueque como base y untalo con una capa fina y pareja del aderezo de mayonesa.",
+      "Disponé una capa de fetas de jamón cocido, tapá con otro panqueque y volvé a untar suavemente con la mayonesa.",
+      "Agregá una capa de queso de máquina, cubrí con otro panqueque, untá con aderezo y añadí las rodajas de tomate bien escurridas con una pizca de sal.",
+      "Repetí la secuencia intercalando panqueques untados con el huevo duro picado, las hebras crujientes de lechuga fresca y las aceitunas fileteadas, presionando suavemente con la palma de la mano en cada piso para que la torre quede firme y nivelada.",
+      "Cubrí con el último panqueque, untá la superficie superior con una capa ligera de mayonesa y decorá con tiritas de morrón asado, aceitunas y huevo duro picado.",
+      "Llevá la torre a la heladera tapada durante al menos 2 horas antes de cortar, para que los panqueques se humedezcan y el armado se compacte facilitando un corte en porciones perfecto."
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación de Aderezo y Base",
+        "steps": [
+          "Prepará los panqueques neutros siguiendo la técnica tradicional y dejalos enfriar por completo apilados con separadores para que no se peguen.",
+          "En un cuenco, mezclá la mayonesa con el queso crema y una pizca de pimienta para lograr un aderezo bien fluido y fácil de untar.",
+          "Sobre una fuente o plato llano amplio, colocá el primer panqueque como base y untalo con una capa fina y pareja del aderezo de mayonesa."
+        ]
+      },
+      {
+        "name": "Estratificación y Enfriado",
+        "steps": [
+          "Disponé una capa de fetas de jamón cocido, tapá con otro panqueque y volvé a untar suavemente con la mayonesa.",
+          "Agregá una capa de queso de máquina, cubrí con otro panqueque, untá con aderezo y añadí las rodajas de tomate bien escurridas con una pizca de sal.",
+          "Repetí la secuencia intercalando panqueques untados con el huevo duro picado, las hebras crujientes de lechuga fresca y las aceitunas fileteadas, presionando suavemente con la palma de la mano en cada piso para que la torre quede firme y nivelada.",
+          "Cubrí con el último panqueque, untá la superficie superior con una capa ligera de mayonesa y decorá con tiritas de morrón asado, aceitunas y huevo duro picado.",
+          "Llevá la torre a la heladera tapada durante al menos 2 horas antes de cortar, para que los panqueques se humedezcan y el armado se compacte facilitando un corte en porciones perfecto."
+        ]
+      }
+    ],
+    "notes": "Es fundamental escurrir muy bien las rodajas de tomate sobre papel absorbente antes de incorporarlas para que el líquido natural no ablande en exceso los panqueques. El reposo en frío permite que al cortarla como si fuera una torta mantenga una estructura impecable.",
+    "tags": [
+      "torre de panqueques",
+      "fiambre aleman",
+      "plato festivo",
+      "mesa de fin de ano",
+      "entrada fria",
+      "receta clasica argentina",
+      "panqueques salados",
+      "cumpleanos"
+    ],
+    "id": 801,
+    "image": "https://lh3.googleusercontent.com/-IzXcMl1GJ_I/awUDszY1XTI/AAAAAAAQDYg/ywkSlK1ZKxkw7d6btXa6q5AjslVyyBS8QCNcBGAsYHQ/s1600/torre_panqueques_salada_argentina.jpg"
+  },
+  {
+    "title": "Tarta Pascualina Tradicional (Argentina)",
+    "category": "Pizzas & Tartas",
+    "country": "Argentina",
+    "difficulty": "Media",
+    "prep_time": "30 min",
+    "cook_time": "40 min",
+    "servings": "8 porciones",
+    "calories": "340 kcal aprox. por porción",
+    "story": "De raíz genovesa ligada a la celebración de la Pascua de Resurrección en la región de Liguria, la torta pasqualina arribó al puerto de Buenos Aires en el siglo XIX de la mano de los inmigrantes italianos. Adaptada con la generosidad hortícola de las quintas bonaerenses, se transformó en la tarta salada cotidiana por excelencia de rotiserías y cocinas familiares, célebre por sus huevos enteros que asoman intactos al corte.",
+    "ingredients": [
+      "2 discos de masa hojaldrada para pascualina de 28 cm",
+      "2 atados de acelga fresca (o 600 g de espinacas cocidas bien escurridas)",
+      "1 cebolla grande picada en cubos finos",
+      "1 diente de ajo picado",
+      "300 g de ricota fresca bien seca",
+      "80 g de queso rallado tipo Reggianito o Sardo",
+      "4 a 5 huevos frescos para colocar enteros en el relleno",
+      "1 huevo batido (para ligar el relleno y pintar la masa)",
+      "3 cucharadas de aceite de oliva",
+      "1 pizca generosa de nuez moscada recién rallada",
+      "Sal fina y pimienta negra al gusto"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Masa y Cocción",
+        "ingredients": [
+          "2 discos de masa de tarta hojaldrada",
+          "1 huevo batido para pincelar la tapa"
+        ]
+      },
+      {
+        "name": "Relleno Verde y Quesos",
+        "ingredients": [
+          "2 atados de acelga tierna limpia",
+          "1 cebolla y 1 diente de ajo picados",
+          "300 g de ricota fresca escurrida",
+          "80 g de queso rallado",
+          "Nuez moscada, sal y pimienta negra molida"
+        ]
+      },
+      {
+        "name": "Huevos Enteros del Centro",
+        "ingredients": [
+          "4 o 5 huevos frescos enteros"
+        ]
+      }
+    ],
+    "steps": [
+      "Lavá muy bien las hojas de acelga retirando las pencas gruesas; cocinalas en agua hirviendo durante apenas 2 minutos, escurrilas enérgicamente en un lienzo o colador hasta retirar todo el líquido y picalas a cuchillo.",
+      "En una sartén con aceite de oliva a fuego medio, rehogá la cebolla y el ajo picados durante 5 minutos hasta que queden tiernos y transparentes; retirá del fuego y dejá entibiar.",
+      "En un bol amplio, mezclá la acelga picada, el rehogado de cebolla, la ricota bien desmenuzada, el queso rallado, un huevo batido, una pizca de sal, pimienta negra y abundante nuez moscada recién rallada.",
+      "Aceitá una tartera de 26 a 28 cm de diámetro y forrala con el primer disco de masa hojaldrada, acomodando bien los bordes.",
+      "Volcá el relleno de acelga y ricota nivelando la superficie con una espátula.",
+      "Con el lomo de una cuchara sopera, hacé 4 o 5 huecos profundos en el relleno repartidos en círculo.",
+      "Cascá un huevo crudo dentro de cada hueco, cuidando de mantener las yemas enteras, y salpimentalos con una pizca de sal.",
+      "Cubrí la tarta con el segundo disco de masa, sellá los bordes haciendo un repulgue prolijo alrededor y pinchá suavemente la superficie con un tenedor evitando pinchar las yemas.",
+      "Pincelá la tapa con huevo batido y horneá a 190 °C durante 35 a 40 minutos en horno precalentado, hasta que la masa quede bien dorada, crujiente e inflada.",
+      "Dejá entibiar 15 minutos antes de cortar para que el relleno asiente y las yemas cocidas queden firmes al corte."
+    ],
+    "step_groups": [
+      {
+        "name": "Blanqueado y Sofrito del Relleno",
+        "steps": [
+          "Lavá muy bien las hojas de acelga retirando las pencas gruesas; cocinalas en agua hirviendo durante apenas 2 minutos, escurrilas enérgicamente en un lienzo o colador hasta retirar todo el líquido y picalas a cuchillo.",
+          "En una sartén con aceite de oliva a fuego medio, rehogá la cebolla y el ajo picados durante 5 minutos hasta que queden tiernos y transparentes; retirá del fuego y dejá entibiar.",
+          "En un bol amplio, mezclá la acelga picada, el rehogado de cebolla, la ricota bien desmenuzada, el queso rallado, un huevo batido, una pizca de sal, pimienta negra y abundante nuez moscada recién rallada."
+        ]
+      },
+      {
+        "name": "Armado, Huevos Enteros y Horneado",
+        "steps": [
+          "Aceitá una tartera de 26 a 28 cm de diámetro y forrala con el primer disco de masa hojaldrada, acomodando bien los bordes.",
+          "Volcá el relleno de acelga y ricota nivelando la superficie con una espátula.",
+          "Con el lomo de una cuchara sopera, hacé 4 o 5 huecos profundos en el relleno repartidos en círculo.",
+          "Cascá un huevo crudo dentro de cada hueco, cuidando de mantener las yemas enteras, y salpimentalos con una pizca de sal.",
+          "Cubrí la tarta con el segundo disco de masa, sellá los bordes haciendo un repulgue prolijo alrededor y pinchá suavemente la superficie con un tenedor evitando pinchar las yemas.",
+          "Pincelá la tapa con huevo batido y horneá a 190 °C durante 35 a 40 minutos en horno precalentado, hasta que la masa quede bien dorada, crujiente e inflada.",
+          "Dejá entibiar 15 minutos antes de cortar para que el relleno asiente y las yemas cocidas queden firmes al corte."
+        ]
+      }
+    ],
+    "notes": "Escurrir la verdura a conciencia hasta que no suelte ni una gota de agua es el mandamiento clave para que la masa base quede bien cocida y crujiente, sin humedecerse. La nuez moscada es el perfume insustituible que amalgama la ricota con la acelga.",
+    "tags": [
+      "tarta pascualina",
+      "pascualina clasica",
+      "receta de tarta salada",
+      "acelga y ricota",
+      "huevos enteros",
+      "cocina italoargentina",
+      "rotiseria",
+      "almuerzo facil"
+    ],
+    "id": 802,
+    "image": "https://lh3.googleusercontent.com/-srdfdFWrlTo/awUDt_Pt_ZI/AAAAAAAQDYo/1XOlOrn0LR0xGxXRuf_qPK3__IGcfHdRACNcBGAsYHQ/s1600/tarta_pascualina_tradicional_argentina.jpg"
+  },
+  {
+    "title": "Berenjenas al Escabeche (Argentina)",
+    "category": "Conservas & Lácteos",
+    "country": "Argentina",
+    "difficulty": "Fácil",
+    "prep_time": "25 min",
+    "cook_time": "15 min",
+    "servings": "10 porciones (2 frascos)",
+    "calories": "160 kcal aprox. por porción",
+    "story": "De antigua herencia mediterránea traída tanto por la cocina española como por las conservas caseras italianas, el escabeche de berenjenas se erigió en el abanderado de las mesas de parrilla y cantinas argentinas. Servido en platitos hondos de loza blanca junto a canastas de pan de campo crujiente, ameniza la espera del asado abriendo el apetito con su balance de acidez, ajo y hierbas.",
+    "ingredients": [
+      "1,5 kg de berenjenas medianas y firmes",
+      "Sal gruesa para desflemar las berenjenas (unas 3 cucharadas)",
+      "500 ml de vinagre de alcohol o de vino blanco",
+      "500 ml de agua potable",
+      "500 ml de aceite de girasol o mezcla con oliva virgen extra",
+      "4 dientes de ajo pelados y laminados fino",
+      "2 cucharadas de orégano seco",
+      "1 cucharada de ají molido",
+      "1 cucharada de pimienta negra en grano",
+      "3 hojas de laurel secas"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Berenjenas y Desflemado",
+        "ingredients": [
+          "1,5 kg de berenjenas frescas firmes cortadas en rodajas o bastones",
+          "3 cucharadas de sal gruesa"
+        ]
+      },
+      {
+        "name": "Líquido de Cocción",
+        "ingredients": [
+          "500 ml de vinagre blanco",
+          "500 ml de agua",
+          "2 hojas de laurel"
+        ]
+      },
+      {
+        "name": "Aceite Especiado de Conservación",
+        "ingredients": [
+          "500 ml de aceite de girasol u oliva",
+          "4 dientes de ajo laminados",
+          "2 cucharadas de orégano seco",
+          "1 cucharada de ají molido",
+          "1 cucharada de pimienta negra en grano"
+        ]
+      }
+    ],
+    "steps": [
+      "Lavá las berenjenas, retirá los extremos y pelalas dejando algunas tiras de piel si te gusta un toque de contraste rústico; cortalas en rodajas de un centímetro de grosor o en bastones gruesos.",
+      "Disponé las rodajas en un colador grande en capas alternadas con puñaditos de sal gruesa; colócales un plato con peso encima y dejalas reposar durante 40 minutos para que suden y drenen los jugos amargos.",
+      "Enjuagá rápidamente las berenjenas bajo el chorro de agua fría para retirar el exceso de sal y apretalas con suavidad entre las manos o con un paño limpio para escurrirlas.",
+      "En una cacerola amplia, verté partes iguales de vinagre y agua (500 ml de cada uno) junto con 2 hojas de laurel; llevalo a hervor a fuego fuerte.",
+      "Sumergí las berenjenas por tandas en el líquido hirviendo y cocinalas durante solo 3 a 4 minutos, hasta que tomen un tono traslúcido y queden tiernas pero firmes al pinchar (evitá cocinarlas de más para que no se desarmen).",
+      "Retiralas con espumadera, disponelas sobre un lienzo limpio o rejilla y dejalas escurrir y enfriar por completo.",
+      "Esterilizá frascos de vidrio con tapa.",
+      "Para el envasado, colocá en el fondo del frasco un chorro de aceite, granos de pimienta, ajo laminado, orégano y ají molido; acomodá una capa compacta de berenjenas escurridas y repetí alternando capas de aromáticos y vegetales hasta completar el frasco.",
+      "Cubrí las berenjenas por completo con el aceite, asegurándote con una espátula o palillo de que no queden burbujas de aire atrapadas y que ningún trozo quede expuesto a la superficie.",
+      "Cerrá herméticamente los frascos y guardalos en lugar fresco y oscuro o en la heladera durante al menos 48 horas antes de consumir."
+    ],
+    "step_groups": [
+      {
+        "name": "Desflemado y Hervor Ácido",
+        "steps": [
+          "Lavá las berenjenas, retirá los extremos y pelalas dejando algunas tiras de piel si te gusta un toque de contraste rústico; cortalas en rodajas de un centímetro de grosor o en bastones gruesos.",
+          "Disponé las rodajas en un colador grande en capas alternadas con puñaditos de sal gruesa; colócales un plato con peso encima y dejalas reposar durante 40 minutos para que suden y drenen los jugos amargos.",
+          "Enjuagá rápidamente las berenjenas bajo el chorro de agua fría para retirar el exceso de sal y apretalas con suavidad entre las manos o con un paño limpio para escurrirlas.",
+          "En una cacerola amplia, verté partes iguales de vinagre y agua junto con 2 hojas de laurel; llevalo a hervor a fuego fuerte.",
+          "Sumergí las berenjenas por tandas en el líquido hirviendo y cocinalas durante solo 3 a 4 minutos, hasta que tomen un tono traslúcido y queden tiernas pero firmes al pinchar."
+        ]
+      },
+      {
+        "name": "Escurrido, Envasado y Maceración",
+        "steps": [
+          "Retiralas con espumadera, disponelas sobre un lienzo limpio o rejilla y dejalas escurrir y enfriar por completo.",
+          "Esterilizá frascos de vidrio con tapa.",
+          "Para el envasado, colocá en el fondo del frasco un chorro de aceite, granos de pimienta, ajo laminado, orégano y ají molido; acomodá una capa compacta de berenjenas escurridas y repetí alternando capas de aromáticos y vegetales hasta completar el frasco.",
+          "Cubrí las berenjenas por completo con el aceite, asegurándote con una espátula o palillo de que no queden burbujas de aire atrapadas y que ningún trozo quede expuesto a la superficie.",
+          "Cerrá herméticamente los frascos y guardalos en lugar fresco y oscuro o en la heladera durante al menos 48 horas antes de consumir."
+        ]
+      }
+    ],
+    "notes": "Hervirlas apenas 3 minutos es la regla de oro para que conserven textura carnosa y no se conviertan en puré al envasar. El reposo de al menos dos días permite que el aceite se perfume con el ajo, el laurel y el orégano.",
+    "tags": [
+      "berenjenas al escabeche",
+      "conserva casera",
+      "receta de bodegon",
+      "antipasto argentino",
+      "entrada para asado",
+      "berenjenas en aceite",
+      "receta criolla",
+      "conserva tradicional"
+    ],
+    "id": 803,
+    "image": "https://lh3.googleusercontent.com/-KmI33txmXqA/awUDuxiA05I/AAAAAAAQDYw/MdBWfvzsc9IdrDTVgS0KfYxw8TBWb0xmwCNcBGAsYHQ/s1600/berenjenas_al_escabeche_argentina.jpg"
+  },
+  {
+    "title": "Polenta con Tuco y Queso Cremoso (Argentina)",
+    "category": "Guisos & Platos de Olla",
+    "country": "Argentina",
+    "difficulty": "Fácil",
+    "prep_time": "15 min",
+    "cook_time": "35 min",
+    "servings": "4 personas",
+    "calories": "580 kcal aprox. por porción",
+    "story": "Pilar indiscutible de la cocina de los inmigrantes del norte de Italia que poblaron el Río de la Plata a fines del siglo XIX, la polenta se transformó en la comida casera por excelencia de los días fríos y lluviosos en los hogares argentinos. Servida en platos hondos humeantes sobre un corazón generoso de queso cremoso fundido, se corona con el clásico tuco criollo cargado de carne o salchicha parrillera.",
+    "ingredients": [
+      "250 g de harina de maíz para polenta (cocción rápida o tradicional)",
+      "1 litro de leche entera",
+      "250 ml de caldo de verduras o agua",
+      "50 g de manteca fresca",
+      "300 g de queso cremoso o cuartirolo argentino cortado en cubos generosos",
+      "50 g de queso rallado tipo Reggianito",
+      "400 g de carne vacuna picada o trozada (o 2 salchichas parrilleras desmenuzadas)",
+      "1 cebolla grande picada fino",
+      "1 diente de ajo picado",
+      "500 g de puré de tomate o passata",
+      "1 hoja de laurel seca",
+      "2 cucharadas de aceite de oliva",
+      "Sal fina, pimienta negra y nuez moscada al gusto"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Tuco Criollo con Carne",
+        "ingredients": [
+          "400 g de carne vacuna picada o salchicha parrillera",
+          "1 cebolla y 1 diente de ajo picados",
+          "500 g de puré de tomate",
+          "1 hoja de laurel",
+          "2 cucharadas de aceite de oliva",
+          "Sal, pimienta y pizca de orégano"
+        ]
+      },
+      {
+        "name": "Polenta Cremosa de Leche",
+        "ingredients": [
+          "250 g de polenta",
+          "1 litro de leche entera",
+          "250 ml de caldo",
+          "50 g de manteca",
+          "Sal fina y nuez moscada recién rallada"
+        ]
+      },
+      {
+        "name": "Quesos del Fondo y Coronación",
+        "ingredients": [
+          "300 g de queso cremoso o cuartirolo en cubos",
+          "50 g de queso rallado reggianito"
+        ]
+      }
+    ],
+    "steps": [
+      "Para el tuco, calentá el aceite de oliva en una cacerola a fuego medio; dorá la carne o salchicha parrillera desmenuzada durante 5 minutos.",
+      "Añadí la cebolla picada y el ajo; rehogá durante 5 minutos hasta que la cebolla quede transparente.",
+      "Incorporá el puré de tomate, la hoja de laurel, sal, pimienta y orégano; bajá el fuego a mínimo y dejá reducir tapado durante 20 minutos hasta que la salsa quede bien espesa, oscura y sabrosa.",
+      "Para la polenta, colocá la leche y el caldo en una olla amplia con una cucharadita de sal fina y una pizca de nuez moscada; llevala a fuego medio hasta que comience a hervir.",
+      "Verté la harina de maíz en forma de lluvia fina y continua mientras revolvés enérgicamente con batidor de alambre para evitar la formación de grumos.",
+      "Cambiá a una cuchara de madera y cociná revolviendo constantemente a fuego mínimo durante el tiempo indicado en el paquete (1 minuto para la instantánea o 25 minutos para la tradicional) hasta que tome cuerpo sedoso.",
+      "Apagá el fuego, agregá la manteca y 2 cucharadas de queso rallado; revolvé enérgicamente para mantecar la preparación.",
+      "En el fondo de cada plato hondo o cazuela de barro caliente, colocá varios cubos generosos de queso cremoso.",
+      "Serví por encima dos cucharones humeantes de polenta hirviendo para que funda el queso del fondo con su propio calor.",
+      "Coroná con un cucharón colmado de tuco caliente con carne y espolvoreá con abundante queso rallado reggianito antes de llevar a la mesa."
+    ],
+    "step_groups": [
+      {
+        "name": "Elaboración del Tuco con Carne",
+        "steps": [
+          "Para el tuco, calentá el aceite de oliva en una cacerola a fuego medio; dorá la carne o salchicha parrillera desmenuzada durante 5 minutos.",
+          "Añadí la cebolla picada y el ajo; rehogá durante 5 minutos hasta que la cebolla quede transparente.",
+          "Incorporá el puré de tomate, la hoja de laurel, sal, pimienta y orégano; bajá el fuego a mínimo y dejá reducir tapado durante 20 minutos hasta que la salsa quede bien espesa, oscura y sabrosa."
+        ]
+      },
+      {
+        "name": "Cocción de la Polenta y Montaje Fundente",
+        "steps": [
+          "Para la polenta, colocá la leche y el caldo en una olla amplia con una cucharadita de sal fina y una pizca de nuez moscada; llevala a fuego medio hasta que comience a hervir.",
+          "Verté la harina de maíz en forma de lluvia fina y continua mientras revolvés enérgicamente con batidor de alambre para evitar la formación de grumos.",
+          "Cambiá a una cuchara de madera y cociná revolviendo constantemente a fuego mínimo hasta que tome cuerpo sedoso.",
+          "Apagá el fuego, agregá la manteca y 2 cucharadas de queso rallado; revolvé enérgicamente para mantecar la preparación.",
+          "En el fondo de cada plato hondo o cazuela de barro caliente, colocá varios cubos generosos de queso cremoso.",
+          "Serví por encima dos cucharones humeantes de polenta hirviendo para que funda el queso del fondo con su propio calor.",
+          "Coroná con un cucharón colmado de tuco caliente con carne y espolvoreá con abundante queso rallado reggianito antes de llevar a la mesa."
+        ]
+      }
+    ],
+    "notes": "Hacer la polenta con una base mayoritaria de leche en lugar de pura agua le confiere una textura cremosa aterciopelada insuperable. Colocar el queso cremoso en la base del plato garantiza la sorpresa de hilos elásticos de queso al hundir la cuchara.",
+    "tags": [
+      "polenta con tuco",
+      "polenta cremosa",
+      "receta de invierno",
+      "clasico argentino",
+      "bodegon",
+      "comida de domingo",
+      "queso cremoso",
+      "estofado con carne"
+    ],
+    "id": 804,
+    "image": "https://lh3.googleusercontent.com/-3VX6xeddA5U/awUDvzZ7X7I/AAAAAAAQDY4/XVTrY1Ah2JksvO7dvkGaXasusZNm02kFACNcBGAsYHQ/s1600/polenta_con_tuco_queso_cremoso_argentina.jpg"
   }
 ]
