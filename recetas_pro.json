@@ -10347,105 +10347,92 @@
       "Sin Gluten",
       "Masa"
     ],
-    "prep_time": "45 min",
-    "cook_time": "35 min",
-    "rest_time": "8 a 12 horas de reposo del nixtamal + 30 min de masa",
-    "temperature": "180 °C (comal o plancha de hierro)",
-    "servings": "20 a 24 tortillas (rinde ~1,2 kg de masa)",
-    "calories": "115 kcal aprox. por cada 2 tortillas",
+    "prep_time": "30 min",
+    "cook_time": "30 min",
+    "rest_time": "8 a 12 horas de maceración en nejayote + 15 min de reposo de la masa",
+    "temperature": "190 °C - 200 °C (comal o plancha de hierro fundido)",
+    "servings": "24 a 28 tortillas medianas (aprox. 1 kg de masa)",
+    "calories": "110 kcal por cada 2 tortillas",
     "diet_badges": [
+      "Sin Gluten",
       "Vegano",
       "Vegetariano",
-      "Sin Gluten",
       "Sin Lácteos"
     ],
-    "story": "La nixtamalización (del náhuatl nextli, «cenizas de cal», y tamalli, «masa de maíz cocido») es la técnica milenaria mesoamericana que transforma el grano de maíz seco mediante la cocción alcalina con hidróxido de calcio (cal apagada). Este proceso desprende la cáscara fibrosa (pericarpio), libera la niacina (vitamina B3), aporta calcio biodisponible y permite que el maíz molido forme una masa elástica e inigualable tanto para tortillas como para tamales o pozole.",
+    "story": "La nixtamalización (del náhuatl nextli, «cenizas de cal», y tamalli, «masa de maíz cocido») es la técnica milenaria mesoamericana que transforma el grano de maíz seco mediante la cocción alcalina con hidróxido de calcio. Desarrollada por las civilizaciones mesoamericanas hace más de tres milenios, este proceso no solo liberó nutrientes esenciales como la niacina para convertir al grano en un superalimento, sino que forjó los cimientos culinarios de toda la gastronomía mexicana.",
     "ingredient_groups": [
       {
-        "name": "Para el nixtamal y las tortillas",
+        "name": "El Nixtamal",
         "items": [
-          "800 g de maíz seco en grano (blanco o amarillo, especial para nixtamal o pozole)",
-          "2 cucharadas de cal apagada de grado alimenticio (hidróxido de calcio)",
-          "Agua suficiente para cubrir holgadamente el maíz (aprox. 2,5 a 3 litros)",
-          "4 a 6 cucharadas de agua filtrada adicional (para el molido de la masa)",
-          "1 cucharadita de sal fina (opcional, para la masa)"
+          "1 kg de maíz seco en grano (blanco, amarillo o azul criollo)",
+          "15 g de cal apagada de grado alimenticio (hidróxido de calcio, 1 cucharada sopera colmada)",
+          "3 litros de agua sin cloro"
+        ]
+      },
+      {
+        "name": "La Masa y Cocción",
+        "items": [
+          "100 a 150 ml de agua tibia (según humedad del grano)",
+          "1 pizca de sal fina (opcional)"
         ]
       }
     ],
     "step_groups": [
       {
-        "name": "Paso 1: Nixtamalización del maíz",
+        "name": "Paso 1: Cocción alcalina y reposo en nejayote",
         "steps": [
-          "Colocar el maíz seco en un colador grande, enjuagar bien bajo el chorro de agua fría y descartar granos rotos o impurezas.",
-          "En una olla grande de acero inoxidable o enlozada (nunca de aluminio, ya que reacciona con la cal), cubrir el maíz con abundante agua, llevar a fuego alto y disolver la cal apagada removiendo bien.",
-          "Incorporar el maíz, retirar con espumadera los granos vanos que floten en la superficie y llevar a hervor.",
-          "Bajar a fuego lento: si se busca masa para tortillas, hervir suavemente durante 20 minutos; si se busca masa para tamales, cocinar de 30 a 45 minutos.",
-          "Retirar del fuego, tapar la olla y dejar reposar el maíz en el agua alcalina (nejayote) durante toda la noche (8 a 12 horas) para tortillas, o 1 hora si es para tamales."
+          "Enjuagá el maíz seco en un colador grande bajo el chorro de agua fría para descartar piedritas o granos rotos.",
+          "En una olla grande de acero inoxidable o enlozada (nunca de aluminio), disolvé la cal apagada en los 3 litros de agua fría hasta obtener un líquido blanco lechoso.",
+          "Incorporá el maíz y llevalo a fuego medio-alto. Apenas rompa el primer hervor, bajá a fuego mínimo y cociná entre 20 y 30 minutos, hasta que al frotar un grano con el pulgar la piel transparente se desprenda con facilidad pero el centro permanezca firme y al dente.",
+          "Apagá el fuego, tapá la olla y dejá reposar el maíz dentro del agua alcalina caliente (nejayote) entre 8 y 12 horas (toda la noche)."
         ]
       },
       {
-        "name": "Paso 2: Lavado del nixtamal y molienda",
+        "name": "Paso 2: Lavado y molienda de la masa",
         "steps": [
-          "Volcar el maíz en un colador y enjuagar bajo el chorro de agua fría frotando vigorosamente los granos entre ambas manos para desprender el hollejo transparente y el exceso de cal. Si no se lava bien, la masa quedará muy amarilla y con sabor alcalino.",
-          "Continuar frotando y enjuagando hasta que el grano se vea limpio y blanco (Ya listo se denomina «nixtamal»). Escurrir muy bien.",
-          "Procesar el nixtamal en tandas pequeñas en un molino de maíz o procesador potente: pulsar de 10 a 15 veces, agregar 2 cucharadas de agua y volver a pulsar de 8 a 10 veces raspando las paredes del vaso.",
-          "Añadir otras 2 cucharadas de agua y la sal, y procesar de forma continua hasta obtener una masa fina, cohesiva y húmeda que no se desgrane al presionar. Formar un bollo, envolver en film y dejar reposar 30 minutos."
+          "Volcá el maíz en un colador y enjuagalo bajo agua fría mientras frotás los granos con energía entre ambas manos para retirar el hollejo suelto, conservando un 15-20% de piel para mantener elasticidad y aroma.",
+          "Escurrí muy bien el nixtamal y pasalo en tandas por un molino de granos ajustado a molienda fina (o procesadora potente), incorporando cucharaditas de agua tibia de a poco.",
+          "Amasá el bollo sobre la mesada durante 5 minutos hasta lograr una masa lisa, maleable como plastilina fresca y que no se pegue a las manos. Dejala reposar 15 minutos cubierta con un paño húmedo."
         ]
       },
       {
-        "name": "Paso 3: Prensado y cocción en comal",
+        "name": "Paso 3: Prensado y las 3 vueltas en el comal",
         "steps": [
-          "Precalentar un comal o plancha de hierro fundido a fuego medio-alto (unos 180 °C).",
-          "Dividir la masa en bolitas parejas (de 40 a 50 g para tortillas estándar o hasta 80-100 g para tortillas grandes) y mantenerlas tapadas con un lienzo húmedo.",
-          "Cortar una bolsa plástica limpia en dos láminas y colocar una bolita de masa entre ambos plásticos sobre la prensa para tortillas. Presionar con firmeza hasta obtener un disco delgado y parejo.",
-          "Despegar con cuidado el plástico y posar la tortilla sobre el comal caliente. Cocinar unos 45 a 60 segundos por lado (dándola vuelta dos veces) hasta que se infle suavemente y muestre pintitas doradas.",
-          "Ir apilando las tortillas recién salidas envueltas en un repasador de tela limpio dentro de un tortillero para que conserven su calor y humedad."
+          "Formá bolitas parejas de 35 a 40 gramos (testales) y mantenelas tapadas con el paño húmedo.",
+          "Colocá una bolita entre dos láminas plásticas sobre la prensa o tortilladora y bajá la palanca con presión firme y pareja para obtener un disco delgado de 12 a 15 cm.",
+          "Llevá la tortilla con cuidado al comal o plancha de hierro bien caliente (190-200 °C) sin una sola gota de grasa. Cociná 15 a 20 segundos hasta que la masa cambie de tono y despegue sola.",
+          "Dala vuelta: cociná de 30 a 45 segundos del segundo lado hasta ver manchitas doradas tenues.",
+          "Dala vuelta por segunda vez y presioná levemente el centro con un paño limpio: el vapor quedará atrapado y la tortilla se inflará por completo como un globo.",
+          "Retirala de inmediato y apilala dentro de un repasador de tela limpio dentro de un tortillero para que conserve su humedad y flexibilidad."
         ]
       }
     ],
-    "notes": "Dejar reposar la masa de maíz nixtamalizado tapada con un paño húmedo para que la hidratación sea uniforme antes de prensar las tortillas.",
-    "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBJDhx4U26vs7pRjIkNWpV2p4KDSrSrsKnEBN-D4f0jzphXoVjif3H6CV94v9aJYYeP3UYcNFkkgA_1z4DvsQB6FP02beA162rK1tgUeBGU8rK2uKTUJaDgzBqokQEOoZ_SB0eu2AN89TH/s1600/tort.jpg",
+    "notes": "Ventajas del superalimento nixtamalizado: La cocción alcalina libera la niacina (vitamina B3) que en el grano crudo se encuentra ligada como niacitina e inaccesible para el cuerpo, previniendo la pelagra. Además, el hidróxido de calcio incrementa la biodisponibilidad del calcio en más de un 750%, aporta aminoácidos esenciales (lisina y triptófano), neutraliza micotoxinas y gelatiniza los almidones para lograr una masa elástica y maleable naturalmente libre de gluten.",
+    "image": "https://lh3.googleusercontent.com/-nIFJO4jThiY/awXPxCgqvkI/AAAAAAAQDec/Z7wB3te29C4g1qmXA6tn4FCE4UK0ZyfdgCNcBGAsYHQ/s1600/tortillas_maiz_nixtamalizado_desde_cero.jpg",
     "url": "https://recarg.blogspot.com/2010/07/tortillas-de-maiz-mexico.html",
     "original_title": "Tortillas de Maiz (México)",
     "published": "2010-07-19T18:09:00.007-03:00",
     "steps": [
-      "Colocar el maíz seco en un colador grande, enjuagar bien bajo el chorro de agua fría y descartar granos rotos o impurezas.",
-      "En una olla grande de acero inoxidable o enlozada (nunca de aluminio, ya que reacciona con la cal), cubrir el maíz con abundante agua, llevar a fuego alto y disolver la cal apagada removiendo bien.",
-      "Incorporar el maíz, retirar con espumadera los granos vanos que floten en la superficie y llevar a hervor.",
-      "Bajar a fuego lento: si se busca masa para tortillas, hervir suavemente durante 20 minutos; si se busca masa para tamales, cocinar de 30 a 45 minutos.",
-      "Retirar del fuego, tapar la olla y dejar reposar el maíz en el agua alcalina (nejayote) durante toda la noche (8 a 12 horas) para tortillas, o 1 hora si es para tamales.",
-      "Volcar el maíz en un colador y enjuagar bajo el chorro de agua fría frotando vigorosamente los granos entre ambas manos para desprender el hollejo transparente y el exceso de cal. Si no se lava bien, la masa quedará muy amarilla y con sabor alcalino.",
-      "Continuar frotando y enjuagando hasta que el grano se vea limpio y blanco (Ya listo se denomina «nixtamal»). Escurrir muy bien.",
-      "Procesar el nixtamal en tandas pequeñas en un molino de maíz o procesador potente: pulsar de 10 a 15 veces, agregar 2 cucharadas de agua y volver a pulsar de 8 a 10 veces raspando las paredes del vaso.",
-      "Añadir otras 2 cucharadas de agua y la sal, y procesar de forma continua hasta obtener una masa fina, cohesiva y húmeda que no se desgrane al presionar. Formar un bollo, envolver en film y dejar reposar 30 minutos.",
-      "Precalentar un comal o plancha de hierro fundido a fuego medio-alto (unos 180 °C).",
-      "Dividir la masa en bolitas parejas (de 40 a 50 g para tortillas estándar o hasta 80-100 g para tortillas grandes) y mantenerlas tapadas con un lienzo húmedo.",
-      "Cortar una bolsa plástica limpia en dos láminas y colocar una bolita de masa entre ambos plásticos sobre la prensa para tortillas. Presionar con firmeza hasta obtener un disco delgado y parejo.",
-      "Despegar con cuidado el plástico y posar la tortilla sobre el comal caliente. Cocinar unos 45 a 60 segundos por lado (dándola vuelta dos veces) hasta que se infle suavemente y muestre pintitas doradas.",
-      "Ir apilando las tortillas recién salidas envueltas en un repasador de tela limpio dentro de un tortillero para que conserven su calor y humedad."
+      "Enjuagá el maíz seco en un colador grande bajo el chorro de agua fría para descartar piedritas o granos rotos.",
+      "En una olla grande de acero inoxidable o enlozada (nunca de aluminio), disolvé la cal apagada en los 3 litros de agua fría hasta obtener un líquido blanco lechoso.",
+      "Incorporá el maíz y llevalo a fuego medio-alto. Apenas rompa el primer hervor, bajá a fuego mínimo y cociná entre 20 y 30 minutos, hasta que al frotar un grano con el pulgar la piel transparente se desprenda con facilidad pero el centro permanezca firme y al dente.",
+      "Apagá el fuego, tapá la olla y dejá reposar el maíz dentro del agua alcalina caliente (nejayote) entre 8 y 12 horas (toda la noche).",
+      "Volcá el maíz en un colador y enjuagalo bajo agua fría mientras frotás los granos con energía entre ambas manos para retirar el hollejo suelto, conservando un 15-20% de piel para mantener elasticidad y aroma.",
+      "Escurrí muy bien el nixtamal y pasalo en tandas por un molino de granos ajustado a molienda fina (o procesadora potente), incorporando cucharaditas de agua tibia de a poco.",
+      "Amasá el bollo sobre la mesada durante 5 minutos hasta lograr una masa lisa, maleable como plastilina fresca y que no se pegue a las manos. Dejala reposar 15 minutos cubierta con un paño húmedo.",
+      "Formá bolitas parejas de 35 a 40 gramos (testales) y mantenelas tapadas con el paño húmedo.",
+      "Colocá una bolita entre dos láminas plásticas sobre la prensa o tortilladora y bajá la palanca con presión firme y pareja para obtener un disco delgado de 12 a 15 cm.",
+      "Llevá la tortilla con cuidado al comal o plancha de hierro bien caliente (190-200 °C) sin una sola gota de grasa. Cociná 15 a 20 segundos hasta que la masa cambie de tono y despegue sola.",
+      "Dala vuelta: cociná de 30 a 45 segundos del segundo lado hasta ver manchitas doradas tenues.",
+      "Dala vuelta por segunda vez y presioná levemente el centro con un paño limpio: el vapor quedará atrapado y la tortilla se inflará por completo como un globo.",
+      "Retirala de inmediato y apilala dentro de un repasador de tela limpio dentro de un tortillero para que conserve su humedad y flexibilidad."
     ],
     "ingredients": [
-      "800 g de maíz seco en grano (blanco o amarillo, especial para nixtamal o pozole)",
-      "2 cucharadas de cal apagada de grado alimenticio (hidróxido de calcio)",
-      "Agua suficiente para cubrir holgadamente el maíz (aprox. 2,5 a 3 litros)",
-      "4 a 6 cucharadas de agua filtrada adicional (para el molido de la masa)",
-      "1 cucharadita de sal fina (opcional, para la masa)"
-    ],
-    "instructions": [
-      "Colocar el maíz seco en un colador grande, enjuagar bien bajo el chorro de agua fría y descartar granos rotos o impurezas.",
-      "En una olla grande de acero inoxidable o enlozada (nunca de aluminio, ya que reacciona con la cal), cubrir el maíz con abundante agua, llevar a fuego alto y disolver la cal apagada removiendo bien.",
-      "Incorporar el maíz, retirar con espumadera los granos vanos que floten en la superficie y llevar a hervor.",
-      "Bajar a fuego lento: si se busca masa para tortillas, hervir suavemente durante 20 minutos; si se busca masa para tamales, cocinar de 30 a 45 minutos.",
-      "Retirar del fuego, tapar la olla y dejar reposar el maíz en el agua alcalina (nejayote) durante toda la noche (8 a 12 horas) para tortillas, o 1 hora si es para tamales.",
-      "Volcar el maíz en un colador y enjuagar bajo el chorro de agua fría frotando vigorosamente los granos entre ambas manos para desprender el hollejo transparente y el exceso de cal. Si no se lava bien, la masa quedará muy amarilla y con sabor alcalino.",
-      "Continuar frotando y enjuagando hasta que el grano se vea limpio y blanco (Ya listo se denomina «nixtamal»). Escurrir muy bien.",
-      "Procesar el nixtamal en tandas pequeñas en un molino de maíz o procesador potente: pulsar de 10 a 15 veces, agregar 2 cucharadas de agua y volver a pulsar de 8 a 10 veces raspando las paredes del vaso.",
-      "Añadir otras 2 cucharadas de agua y la sal, y procesar de forma continua hasta obtener una masa fina, cohesiva y húmeda que no se desgrane al presionar. Formar un bollo, envolver en film y dejar reposar 30 minutos.",
-      "Precalentar un comal o plancha de hierro fundido a fuego medio-alto (unos 180 °C).",
-      "Dividir la masa en bolitas parejas (de 40 a 50 g para tortillas estándar o hasta 80-100 g para tortillas grandes) y mantenerlas tapadas con un lienzo húmedo.",
-      "Cortar una bolsa plástica limpia en dos láminas y colocar una bolita de masa entre ambos plásticos sobre la prensa para tortillas. Presionar con firmeza hasta obtener un disco delgado y parejo.",
-      "Despegar con cuidado el plástico y posar la tortilla sobre el comal caliente. Cocinar unos 45 a 60 segundos por lado (dándola vuelta dos veces) hasta que se infle suavemente y muestre pintitas doradas.",
-      "Ir apilando las tortillas recién salidas envueltas en un repasador de tela limpio dentro de un tortillero para que conserven su calor y humedad."
+      "1 kg de maíz seco en grano (blanco, amarillo o azul criollo)",
+      "15 g de cal apagada de grado alimenticio (hidróxido de calcio, 1 cucharada sopera colmada)",
+      "3 litros de agua sin cloro",
+      "100 a 150 ml de agua tibia (según humedad del grano)",
+      "1 pizca de sal fina (opcional)"
     ]
   },
   {
