@@ -4860,4 +4860,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://umamicraft.vercel.app/receta/bangers-and-mash-reino-unido?lang=pt</loc>
+    <lastmod>2026-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://umamicraft.vercel.app/receta/milanesa-de-pollo-a-la-villeroy-argentina?lang=pt</loc>
+    <lastmod>2026-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://umamicraft.vercel.app/receta/pastel-de-choclo-criollo-argentina?lang=pt</loc>
+    <lastmod>2026-11-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>

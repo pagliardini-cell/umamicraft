@@ -86086,5 +86086,366 @@
       "antojitos",
       "plato principal"
     ]
+  },
+  {
+    "id": 810,
+    "title": "Bangers and Mash (Reino Unido)",
+    "category": "Platos Principales",
+    "prep_time": "20 min",
+    "cook_time": "30 min",
+    "servings": "4 porciones",
+    "calories": 680,
+    "image": "https://lh3.googleusercontent.com/-3krH8FApzUg/awWXWdPCy_I/AAAAAAAQDak/Go0C1tIV2xQvCedtaP1ISWskoa-wcCAmQCNcBGAsYHQ/s1600/bangers_and_mash_reino_unido.jpg",
+    "story": "Nacido en los hogares obreros y tabernas del Reino Unido durante la época victoriana, el plato adquirió su célebre apodo de \"bangers\" durante la Primera y Segunda Guerra Mundial, cuando la escasez de carne obligó a los carniceros a rellenar las salchichas con un exceso de agua y cereales, provocando que estallaran ruidosamente en la sartén al freírse. Con el tiempo se consagró como el corazón indiscutido del confort gastronómico británico y el clásico de cabecera de los pubs tradicionales.",
+    "ingredient_groups": [
+      {
+        "name": "Salchichas y Puré de Papas",
+        "ingredients": [
+          "8 salchichas de cerdo gruesas de carnicería (estilo Cumberland o chorizo de cerdo suave)",
+          "1 kg de papas harinosas (tipo Spunta o Russet)",
+          "60 g de manteca",
+          "100 ml de leche tibia o crema de leche",
+          "1 pizca de nuez moscada rallada",
+          "Sal fina y pimienta blanca al gusto"
+        ]
+      },
+      {
+        "name": "Gravy de Cebollas Caramelizadas (Onion Gravy)",
+        "ingredients": [
+          "3 cebollas medianas cortadas en juliana fina",
+          "2 cucharadas de manteca o grasa de la cocción de las salchichas",
+          "1 diente de ajo picado fino",
+          "1 cucharada colmada de harina de trigo común",
+          "400 ml de caldo de carne caliente y concentrado",
+          "1 cucharadita de salsa inglesa (Worcestershire)",
+          "1 cucharadita de mostaza de Dijon o mostaza inglesa",
+          "Sal y pimienta negra recién molida"
+        ]
+      },
+      {
+        "name": "Acompañamiento Opcional",
+        "ingredients": [
+          "1 taza de arvejas verdes tiernas salteadas con una pizca de manteca"
+        ]
+      }
+    ],
+    "ingredients": [
+      "8 salchichas de cerdo gruesas de carnicería (estilo Cumberland o chorizo de cerdo suave)",
+      "1 kg de papas harinosas (tipo Spunta o Russet)",
+      "60 g de manteca",
+      "100 ml de leche tibia o crema de leche",
+      "1 pizca de nuez moscada rallada",
+      "Sal fina y pimienta blanca al gusto",
+      "3 cebollas medianas cortadas en juliana fina",
+      "2 cucharadas de manteca o grasa de la cocción de las salchichas",
+      "1 diente de ajo picado fino",
+      "1 cucharada colmada de harina de trigo común",
+      "400 ml de caldo de carne caliente y concentrado",
+      "1 cucharadita de salsa inglesa (Worcestershire)",
+      "1 cucharadita de mostaza de Dijon o mostaza inglesa",
+      "Sal y pimienta negra recién molida",
+      "1 taza de arvejas verdes tiernas salteadas con una pizca de manteca"
+    ],
+    "step_groups": [
+      {
+        "name": "Cocción y dorado de las salchichas",
+        "steps": [
+          "Calentá una sartén de fondo grueso a fuego medio con apenas unas gotas de aceite o una nuez de manteca.",
+          "Pinchá muy ligeramente las salchichas y acomodalas en la sartén caliente sin encimar.",
+          "Cociná durante 15 a 18 minutos a fuego medio-bajo, haciéndolas rodar con frecuencia para que doren parejo por todos sus lados y la piel adquiera un color tostado profundo y crujiente sin quemarse.",
+          "Retirá las salchichas cocidas y jugosas a un plato tibio, reservando el fondo de cocción y la grasita en la sartén para el gravy."
+        ]
+      },
+      {
+        "name": "Elaboración del puré cremoso",
+        "steps": [
+          "Pelá las papas, cortalas en trozos parejos y llevalas a una olla con abundante agua fría y una cucharada de sal gruesa.",
+          "Cociná a hervor moderado durante 18 a 20 minutos hasta que al pincharlas con un cuchillo caigan fácilmente.",
+          "Escurrí las papas inmediatamente y dejalas 2 minutos en la olla caliente apagada para que evapore todo el vapor residual.",
+          "Pisalas con pisapapas o pasapuré en caliente hasta lograr una textura fina; incorporá la manteca en cubos fríos, la leche tibia y la nuez moscada, batiendo enérgicamente con cuchara de madera hasta obtener un puré sedoso, untuoso y firme."
+        ]
+      },
+      {
+        "name": "Salsa gravy de cebolla y montaje",
+        "steps": [
+          "En la misma sartén donde doraste las salchichas, agregá las dos cucharadas de manteca y sumá las cebollas cortadas en juliana con una pizca de sal.",
+          "Cociná a fuego bajo durante 12 a 15 minutos, removiendo de vez en cuando hasta que las cebollas tomen un tono marrón caramelo profundo y suave.",
+          "Agregá el ajo picado y cociná por 1 minuto; espolvoreá la cucharada de harina y revolvé bien durante 2 minutos para cocinar el roux y raspar todo el fondo tostado de la sartén.",
+          "Verté el caldo de carne caliente en hilo continuo sin dejar de revolver con batidor de alambre para evitar grumos.",
+          "Sumá la salsa inglesa y la mostaza; cociná a fuego lento durante 5 a 6 minutos hasta que la salsa espese, tome brillo y adquiera una textura aterciopelada; rectificá sal y pimienta.",
+          "Para el emplatado: disponé una montaña generosa de puré en platos hondos, apoyá dos salchichas doradas por encima, bañá abundantemente con el gravy de cebolla bien caliente y acompañá con las arvejas tiernas."
+        ]
+      }
+    ],
+    "steps": [
+      "Calentá una sartén de fondo grueso a fuego medio con apenas unas gotas de aceite o una nuez de manteca.",
+      "Pinchá muy ligeramente las salchichas y acomodalas en la sartén caliente sin encimar.",
+      "Cociná durante 15 a 18 minutos a fuego medio-bajo, haciéndolas rodar con frecuencia para que doren parejo por todos sus lados y la piel adquiera un color tostado profundo y crujiente sin quemarse.",
+      "Retirá las salchichas cocidas y jugosas a un plato tibio, reservando el fondo de cocción y la grasita en la sartén para el gravy.",
+      "Pelá las papas, cortalas en trozos parejos y llevalas a una olla con abundante agua fría y una cucharada de sal gruesa.",
+      "Cociná a hervor moderado durante 18 a 20 minutos hasta que al pincharlas con un cuchillo caigan fácilmente.",
+      "Escurrí las papas inmediatamente y dejalas 2 minutos en la olla caliente apagada para que evapore todo el vapor residual.",
+      "Pisalas con pisapapas o pasapuré en caliente hasta lograr una textura fina; incorporá la manteca en cubos fríos, la leche tibia y la nuez moscada, batiendo enérgicamente con cuchara de madera hasta obtener un puré sedoso, untuoso y firme.",
+      "En la misma sartén donde doraste las salchichas, agregá las dos cucharadas de manteca y sumá las cebollas cortadas en juliana con una pizca de sal.",
+      "Cociná a fuego bajo durante 12 a 15 minutos, removiendo de vez en cuando hasta que las cebollas tomen un tono marrón caramelo profundo y suave.",
+      "Agregá el ajo picado y cociná por 1 minuto; espolvoreá la cucharada de harina y revolvé bien durante 2 minutos para cocinar el roux y raspar todo el fondo tostado de la sartén.",
+      "Verté el caldo de carne caliente en hilo continuo sin dejar de revolver con batidor de alambre para evitar grumos.",
+      "Sumá la salsa inglesa y la mostaza; cociná a fuego lento durante 5 a 6 minutos hasta que la salsa espese, tome brillo y adquiera una textura aterciopelada; rectificá sal y pimienta.",
+      "Para el emplatado: disponé una montaña generosa de puré en platos hondos, apoyá dos salchichas doradas por encima, bañá abundantemente con el gravy de cebolla bien caliente y acompañá con las arvejas tiernas."
+    ],
+    "notes": "El secreto del onion gravy inglés está en cocinar la cebolla lentamente hasta caramelizar sus azúcares naturales sin quemarla, y cocinar el roux de harina 2 minutos antes de agregar el caldo. Usar papa harinosa (Spunta) garantiza un puré firme y aterciopelado que absorbe el jugo sin aguarse.",
+    "tags": [
+      "bangers and mash",
+      "onion gravy",
+      "comida britanica",
+      "pub clasico",
+      "salchichas",
+      "pure de papas",
+      "cebolla caramelizada",
+      "plato principal"
+    ]
+  },
+  {
+    "id": 811,
+    "title": "Milanesa de Pollo a la Villeroy (Argentina)",
+    "category": "Platos Principales",
+    "prep_time": "35 min",
+    "cook_time": "20 min",
+    "servings": "4 porciones",
+    "calories": 710,
+    "image": "https://lh3.googleusercontent.com/-65HWJELK_gA/awWXXOWr_vI/AAAAAAAQDas/YQzIwgodevgRiwEjIiFRrKbe0x2T3QL3wCNcBGAsYHQ/s1600/milanesa_pollo_villeroy_argentina.jpg",
+    "story": "La técnica Villeroy nació en la corte francesa del siglo XVIII creada por el célebre chef Vincent La Chapelle en honor al marqués de Villeroy, concebida originalmente para cubrir carnes nobles con una bechamel reducida antes del empanado. A principios del siglo XX, los cocineros inmigrantes en Buenos Aires la adoptaron con devoción en los grandes bodegones porteños y en los recetarios familiares de los domingos, transformando las milanesas de suprema en un clásico reconfortante servido con tres guarniciones ceremoniales: papas cubo, crema de choclo y manzana tibia.",
+    "ingredient_groups": [
+      {
+        "name": "Supremas de Pollo",
+        "ingredients": [
+          "4 filetes gruesos de pechuga de pollo (supremas limpias)",
+          "1 hoja de laurel y 1 ramita de tomillo",
+          "Sal fina y pimienta blanca al gusto"
+        ]
+      },
+      {
+        "name": "Salsa Bechamel Villeroy (Extra Espesa)",
+        "ingredients": [
+          "60 g de manteca",
+          "60 g de harina de trigo común (000)",
+          "400 ml de leche entera tibia",
+          "1 pizca de nuez moscada rallada",
+          "Sal fina y pimienta blanca al gusto"
+        ]
+      },
+      {
+        "name": "Rebozado y Fritura",
+        "ingredients": [
+          "2 huevos grandes batidos con una cucharada de leche",
+          "200 g de pan rallado fino de panadería",
+          "Aceite de girasol o maíz para freír"
+        ]
+      },
+      {
+        "name": "Las Tres Guarniciones Tradicionales",
+        "ingredients": [
+          "3 papas medianas cortadas en cubitos chicos (papas cubo fritas)",
+          "1 lata de choclo cremoso amarillo (o 2 choclos procesados y cocidos con manteca)",
+          "2 manzanas rojas peladas y cortadas en cubos, salteadas en manteca con una pizca de canela"
+        ]
+      }
+    ],
+    "ingredients": [
+      "4 filetes gruesos de pechuga de pollo (supremas limpias)",
+      "1 hoja de laurel y 1 ramita de tomillo",
+      "Sal fina y pimienta blanca al gusto",
+      "60 g de manteca",
+      "60 g de harina de trigo común (000)",
+      "400 ml de leche entera tibia",
+      "1 pizca de nuez moscada rallada",
+      "2 huevos grandes batidos con una cucharada de leche",
+      "200 g de pan rallado fino de panadería",
+      "Aceite de girasol o maíz para freír",
+      "3 papas medianas cortadas en cubitos chicos (papas cubo fritas)",
+      "1 lata de choclo cremoso amarillo (o 2 choclos procesados y cocidos con manteca)",
+      "2 manzanas rojas peladas y cortadas en cubos, salteadas en manteca con una pizca de canela"
+    ],
+    "step_groups": [
+      {
+        "name": "Pochado suave del pollo",
+        "steps": [
+          "En una cacerola con agua apenas tibia, el laurel y el tomillo, colocá las supremas de pollo sazonadas con sal y pimienta.",
+          "Cociná a fuego mínimo durante 10 a 12 minutos sin permitir que el agua hierva a borbotones, logrando que la carne quede tierna, blanca y bien jugosa.",
+          "Retirá las supremas, secalas suavemente con papel absorbente y dejalas enfriar a temperatura ambiente sobre una bandeja."
+        ]
+      },
+      {
+        "name": "Elaboración de la bechamel espesa y napado",
+        "steps": [
+          "En una cacerolita derretí la manteca a fuego medio; agregá la harina de golpe y cociná el roux con cuchara de madera durante 2 minutos hasta que desprenda aroma a tostado suave.",
+          "Incorporá la leche tibia gradualmente mientras batís enérgicamente con batidor de alambre para evitar grumos.",
+          "Cociná a fuego bajo revolviendo constantemente durante 4 a 5 minutos hasta lograr una salsa bechamel bien densa, untuosa y con mucho cuerpo.",
+          "Condimentá con sal, pimienta blanca y nuez moscada; retirá del fuego.",
+          "Con una cuchara o espátula, cubrí generosamente cada suprema de pollo por ambos lados con la bechamel tibia, formando una capa uniforme de unos 3 a 4 milímetros como si fuera un guante.",
+          "Disponé las supremas cubiertas en una bandeja con papel manteca y llevalas a la heladera durante al menos 1 hora (o 25 minutos al freezer) hasta que la salsa quede completamente firme y fría al tacto."
+        ]
+      },
+      {
+        "name": "Empanado, fritura y guarniciones",
+        "steps": [
+          "Pasá cada suprema fría con sumo cuidado por los huevos batidos y luego por el pan rallado fino, presionando con suavidad para sellar todos los bordes.",
+          "Repetí una segunda pasada muy ligera por huevo y pan rallado en los costados para garantizar que la bechamel quede herméticamente blindada.",
+          "Calentá abundante aceite en una sartén profunda a 175 °C; freí las milanesas durante 2 a 3 minutos por lado hasta que la costra esté dorada y crujiente, cuidando de manipularlas con espátula.",
+          "Retirá a papel absorbente.",
+          "En simultáneo: freí los cubitos de papa en aceite bien caliente hasta que queden crocantes; calentá la crema de choclo con una nuez de manteca; y salteá las manzanas en manteca en una sartén hasta que queden tiernas y caramelizadas.",
+          "Serví la milanesa recién frita acompañada por sus tres guarniciones humeantes."
+        ]
+      }
+    ],
+    "steps": [
+      "En una cacerola con agua apenas tibia, el laurel y el tomillo, colocá las supremas de pollo sazonadas con sal y pimienta.",
+      "Cociná a fuego mínimo durante 10 a 12 minutos sin permitir que el agua hierva a borbotones, logrando que la carne quede tierna, blanca y bien jugosa.",
+      "Retirá las supremas, secalas suavemente con papel absorbente y dejalas enfriar a temperatura ambiente sobre una bandeja.",
+      "En una cacerolita derretí la manteca a fuego medio; agregá la harina de golpe y cociná el roux con cuchara de madera durante 2 minutos hasta que desprenda aroma a tostado suave.",
+      "Incorporá la leche tibia gradualmente mientras batís enérgicamente con batidor de alambre para evitar grumos.",
+      "Cociná a fuego bajo revolviendo constantemente durante 4 a 5 minutos hasta lograr una salsa bechamel bien densa, untuosa y con mucho cuerpo.",
+      "Condimentá con sal, pimienta blanca y nuez moscada; retirá del fuego.",
+      "Con una cuchara o espátula, cubrí generosamente cada suprema de pollo por ambos lados con la bechamel tibia, formando una capa uniforme de unos 3 a 4 milímetros como si fuera un guante.",
+      "Disponé las supremas cubiertas en una bandeja con papel manteca y llevalas a la heladera durante al menos 1 hora (o 25 minutos al freezer) hasta que la salsa quede completamente firme y fría al tacto.",
+      "Pasá cada suprema fría con sumo cuidado por los huevos batidos y luego por el pan rallado fino, presionando con suavidad para sellar todos los bordes.",
+      "Repetí una segunda pasada muy ligera por huevo y pan rallado en los costados para garantizar que la bechamel quede herméticamente blindada.",
+      "Calentá abundante aceite en una sartén profunda a 175 °C; freí las milanesas durante 2 a 3 minutos por lado hasta que la costra esté dorada y crujiente, cuidando de manipularlas con espátula.",
+      "Retirá a papel absorbente.",
+      "En simultáneo: freí los cubitos de papa en aceite bien caliente hasta que queden crocantes; calentá la crema de choclo con una nuez de manteca; y salteá las manzanas en manteca en una sartén hasta que queden tiernas y caramelizadas.",
+      "Serví la milanesa recién frita acompañada por sus tres guarniciones humeantes."
+    ],
+    "notes": "El secreto indispensable para el éxito de la milanesa Villeroy es el frío estricto: la bechamel debe estar completamente sólida al momento del empanado; si está tibia, se mezclará con el pan y se desarmará en el aceite caliente. El doble sellado en los bordes garantiza un blindaje crujiente perfecto.",
+    "tags": [
+      "milanesa a la villeroy",
+      "milanesa de pollo",
+      "bodegon porteno",
+      "cocina argentina",
+      "bechamel",
+      "crema de choclo",
+      "papas fritas",
+      "plato principal"
+    ]
+  },
+  {
+    "id": 812,
+    "title": "Pastel de Choclo Criollo (Argentina)",
+    "category": "Platos Principales",
+    "prep_time": "25 min",
+    "cook_time": "35 min",
+    "servings": "6 porciones",
+    "calories": 540,
+    "image": "https://lh3.googleusercontent.com/-tQUX6cKfXYY/awWXYIWRKwI/AAAAAAAQDa0/eyp9A5owxU4ztohZ9DdTPt1sI1mmbSnXQCNcBGAsYHQ/s1600/pastel_choclo_criollo_argentina.jpg",
+    "story": "Heredero de la vasta tradición culinaria andina y cuyana, el pastel de choclo nació del maridaje entre el maíz dulce autóctono cultivado en las quebradas sudamericanas y los guisados de carne vacuna con cebollas introducidos por las corrientes colonizadoras. Con fuerte arraigo en Mendoza, San Juan y las provincias del noroeste argentino, se convirtió en un plato patriótico y emblemático de las mesas patrias y de las celebraciones en honor a las gestas libertadoras sanmartinianas.",
+    "ingredient_groups": [
+      {
+        "name": "Pino de Carne Cortada a Cuchillo",
+        "ingredients": [
+          "500 g de carne vacuna magra (nalga, bola de lomo o cuadril) cortada a cuchillo en cubitos chicos",
+          "1 cebolla blanca grande picada fina en brunoise",
+          "2 dientes de ajo picados",
+          "2 cucharadas de grasa vacuna refinada o aceite neutro",
+          "1 cucharadita de pimentón dulce de buena calidad",
+          "1/2 cucharadita de comino molido",
+          "1/2 cucharadita de ají molido",
+          "Sal gruesa y pimienta negra recién molida al gusto",
+          "2 huevos duros picados (opcional criollo)",
+          "1 puñado de aceitunas verdes sin carozo cortadas en rodajas (opcional)"
+        ]
+      },
+      {
+        "name": "Cubierta de Choclo Fresco",
+        "ingredients": [
+          "6 choclos amarillos frescos desgranados (unos 600 g de granos)",
+          "50 ml de leche entera o agua",
+          "1 cucharada de manteca",
+          "1/2 cucharadita de sal fina"
+        ]
+      },
+      {
+        "name": "Terminación y Gratinado",
+        "ingredients": [
+          "2 cucharadas soperas de azúcar común para espolvorear"
+        ]
+      }
+    ],
+    "ingredients": [
+      "500 g de carne vacuna magra (nalga, bola de lomo o cuadril) cortada a cuchillo en cubitos chicos",
+      "1 cebolla blanca grande picada fina en brunoise",
+      "2 dientes de ajo picados",
+      "2 cucharadas de grasa vacuna refinada o aceite neutro",
+      "1 cucharadita de pimentón dulce de buena calidad",
+      "1/2 cucharadita de comino molido",
+      "1/2 cucharadita de ají molido",
+      "Sal gruesa y pimienta negra recién molida al gusto",
+      "2 huevos duros picados (opcional criollo)",
+      "1 puñado de aceitunas verdes sin carozo cortadas en rodajas (opcional)",
+      "6 choclos amarillos frescos desgranados (unos 600 g de granos)",
+      "50 ml de leche entera o agua",
+      "1 cucharada de manteca",
+      "1/2 cucharadita de sal fina",
+      "2 cucharadas soperas de azúcar común para espolvorear"
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación del pino de carne",
+        "steps": [
+          "En una cacerola amplia o sartén profunda, calentá la grasa o aceite a fuego medio.",
+          "Agregá la cebolla picada con una pizca de sal y cocinala a fuego medio-bajo durante 18 a 20 minutos, revolviendo de vez en cuando hasta que quede bien transparente, tierna y ligeramente dorada.",
+          "Subí el fuego a medio-alto, incorporá la carne picada a cuchillo y sellala rápidamente durante 4 a 5 minutos hasta que cambie de color y tome un dorado parejo sin perder sus jugos internos.",
+          "Agregá el ajo picado, el pimentón dulce, el comino molido, el ají molido, sal y pimienta negra; cociná por 2 minutos más integrando los aromas y retirá del fuego.",
+          "Si deseás la versión criolla tradicional, sumá los huevos duros picados y las aceitunas; reservá el pino jugoso."
+        ]
+      },
+      {
+        "name": "Elaboración de la pasta cremosa de choclo",
+        "steps": [
+          "Desgraná los choclos con un cuchillo filoso y colocá los granos en el vaso de la procesadora o licuadora.",
+          "Procesá a potencia máxima hasta obtener una pasta fina; si resulta muy espesa para la máquina, agregá apenas unas cucharadas de leche o agua.",
+          "Pasá la pasta de choclo procesada a una olla limpia con una cucharada de manteca y sal fina.",
+          "Cociná a fuego medio revolviendo constantemente con cuchara de madera durante 8 a 10 minutos para que el almidón natural cocine y espese, transformándose en una crema densa, brillante y de color amarillo intenso; retirá del fuego."
+        ]
+      },
+      {
+        "name": "Armado, caramelizado al horno y reposo",
+        "steps": [
+          "Precalentá el horno a 200 °C con calor superior o grill encendido.",
+          "En una fuente térmica de barro cocido, loza o vidrio de unos 24x20 cm, disponé en la base todo el pino de carne con sus jugos, emparejando la superficie con el dorso de una cuchara.",
+          "Cubrí toda la carne con la crema de choclo caliente, extendiéndola con espátula hasta los bordes para sellar bien el relleno.",
+          "Espolvoreá una capa uniforme y generosa de azúcar común por toda la superficie del choclo.",
+          "Llevá a horno fuerte durante 15 a 18 minutos hasta que la crema hierva en los bordes y el azúcar superficial se caramelice en una costra crujiente, dorada y con atractivas manchas tostadas.",
+          "Retirá del horno y dejá reposar 10 minutos antes de cortar y servir para que las capas tomen firmeza."
+        ]
+      }
+    ],
+    "steps": [
+      "En una cacerola amplia o sartén profunda, calentá la grasa o aceite a fuego medio.",
+      "Agregá la cebolla picada con una pizca de sal y cocinala a fuego medio-bajo durante 18 a 20 minutos, revolviendo de vez en cuando hasta que quede bien transparente, tierna y ligeramente dorada.",
+      "Subí el fuego a medio-alto, incorporá la carne picada a cuchillo y sellala rápidamente durante 4 a 5 minutos hasta que cambie de color y tome un dorado parejo sin perder sus jugos internos.",
+      "Agregá el ajo picado, el pimentón dulce, el comino molido, el ají molido, sal y pimienta negra; cociná por 2 minutos más integrando los aromas y retirá del fuego.",
+      "Si deseás la versión criolla tradicional, sumá los huevos duros picados y las aceitunas; reservá el pino jugoso.",
+      "Desgraná los choclos con un cuchillo filoso y colocá los granos en el vaso de la procesadora o licuadora.",
+      "Procesá a potencia máxima hasta obtener una pasta fina; si resulta muy espesa para la máquina, agregá apenas unas cucharadas de leche o agua.",
+      "Pasá la pasta de choclo procesada a una olla limpia con una cucharada de manteca y sal fina.",
+      "Cociná a fuego medio revolviendo constantemente con cuchara de madera durante 8 a 10 minutos para que el almidón natural cocine y espese, transformándose en una crema densa, brillante y de color amarillo intenso; retirá del fuego.",
+      "Precalentá el horno a 200 °C con calor superior o grill encendido.",
+      "En una fuente térmica de barro cocido, loza o vidrio de unos 24x20 cm, disponé en la base todo el pino de carne con sus jugos, emparejando la superficie con el dorso de una cuchara.",
+      "Cubrí toda la carne con la crema de choclo caliente, extendiéndola con espátula hasta los bordes para sellar bien el relleno.",
+      "Espolvoreá una capa uniforme y generosa de azúcar común por toda la superficie del choclo.",
+      "Llevá a horno fuerte durante 15 a 18 minutos hasta que la crema hierva en los bordes y el azúcar superficial se caramelice en una costra crujiente, dorada y con atractivas manchas tostadas.",
+      "Retirá del horno y dejá reposar 10 minutos antes de cortar y servir para que las capas tomen firmeza."
+    ],
+    "notes": "El secreto criollo reside en desgranar choclos frescos tiernos para aprovechar su almidón lechoso natural, logrando esa textura espesa sin necesidad de harinas ni féculas. El reposo de 10 minutos fuera del horno es fundamental para que la porción se pueda servir prolija mostrando ambas capas definidas.",
+    "tags": [
+      "pastel de choclo",
+      "pastel de carne",
+      "cocina criolla",
+      "cocina argentina",
+      "choclo fresco",
+      "carne a cuchillo",
+      "horno",
+      "plato patriótico",
+      "san martin"
+    ]
   }
 ]
