@@ -85572,5 +85572,519 @@
     ],
     "id": 804,
     "image": "https://lh3.googleusercontent.com/-3VX6xeddA5U/awUDvzZ7X7I/AAAAAAAQDY4/XVTrY1Ah2JksvO7dvkGaXasusZNm02kFACNcBGAsYHQ/s1600/polenta_con_tuco_queso_cremoso_argentina.jpg"
+  },
+  {
+    "id": 805,
+    "title": "Tortillas de Harina Norteñas (México)",
+    "category": "Panes y Masas",
+    "prep_time": "20 min",
+    "cook_time": "10 min",
+    "servings": "12 tortillas",
+    "calories": 145,
+    "image": "https://lh3.googleusercontent.com/-z-m8hHbK91g/awUJtVBCrAI/AAAAAAAQDZY/1rDe3HjIW30KMdpFZ6RoO7dCfrJB8tLvACNcBGAsYHQ/s1600/tortillas_harina_nortenas_mexico.jpg",
+    "story": "A diferencia del centro y sur de México donde el maíz domina desde tiempos prehispánicos, las tortillas de harina de trigo nacieron en el siglo XVI en los estados del norte como Sonora, Coahuila y Nuevo León con la llegada del trigo traído por los colonizadores españoles y comunidades sefaradíes. La aridez del terreno septentrional favoreció el cultivo de trigo sobre el maíz, convirtiendo a la tortilla de harina en el elemento central de la cultura vaquera norteña y la base indispensable de burritos y quesadillas.",
+    "ingredient_groups": [
+      {
+        "name": "Masa de Harina de Trigo",
+        "ingredients": [
+          "500 g de harina de trigo común (000)",
+          "80 g de manteca de cerdo (o grasa vacuna refinada)",
+          "10 g de sal fina (1 cucharadita colmada)",
+          "250 ml de agua tibia tirando a caliente"
+        ]
+      }
+    ],
+    "ingredients": [
+      "500 g de harina de trigo común (000)",
+      "80 g de manteca de cerdo (o grasa vacuna refinada)",
+      "10 g de sal fina (1 cucharadita colmada)",
+      "250 ml de agua tibia tirando a caliente"
+    ],
+    "step_groups": [
+      {
+        "name": "Arenado y amasado",
+        "steps": [
+          "Colocá la harina tamizada y la sal en un bol amplio o sobre la mesada formando una corona.",
+          "Incorporá la manteca a temperatura ambiente e integrala con la punta de los dedos hasta formar un arenado parejo sin grumos grandes.",
+          "Agregá el agua tibia gradualmente mientras unís los ingredientes con una cuchara o con las manos hasta formar un bollo suave.",
+          "Amasá sobre la mesada limpia durante 8 a 10 minutos con energía hasta lograr una masa elástica, lisa y satinada que no se pegue en los dedos."
+        ]
+      },
+      {
+        "name": "Reposo y porcionado",
+        "steps": [
+          "Dividí la masa en 12 porciones iguales (testales de unos 60 a 65 gramos cada uno) y bollar cada porción haciéndola rodar contra la mesada.",
+          "Disponé los testales en una bandeja ligeramente enharinada, tapalos con un repasador limpio y húmedo y dejalos reposar a temperatura ambiente por 30 minutos indispensables para que el gluten se relaje."
+        ]
+      },
+      {
+        "name": "Estirado y cocción al comal",
+        "steps": [
+          "Enhariná apenas la mesada y el palo de amasar; tomá un testal y estiralo desde el centro hacia afuera, girándolo un cuarto de vuelta en cada pasada hasta obtener un disco fino de unos 20 a 22 cm de diámetro.",
+          "Calentá un comal de hierro o sartén de fondo grueso a fuego medio-alto sin ningún tipo de grasa ni aceite.",
+          "Colocá la tortilla estirada sobre el comal bien caliente; cociná durante 30 a 40 segundos hasta que la superficie se llene de burbujas de aire infladas y la base muestre pequeñas manchas doradas.",
+          "Dala vuelta con espátula o con los dedos y cociná el otro lado durante 30 a 40 segundos más, presionando apenas el centro para que se infle en una gran burbuja vaporosa.",
+          "Retirá de inmediato y guardalas apiladas dentro de una servilleta de tela o tortillero para que el vapor propio las mantenga suaves y flexibles para doblar."
+        ]
+      }
+    ],
+    "steps": [
+      "Colocá la harina tamizada y la sal en un bol amplio o sobre la mesada formando una corona.",
+      "Incorporá la manteca a temperatura ambiente e integrala con la punta de los dedos hasta formar un arenado parejo sin grumos grandes.",
+      "Agregá el agua tibia gradualmente mientras unís los ingredientes con una cuchara o con las manos hasta formar un bollo suave.",
+      "Amasá sobre la mesada limpia durante 8 a 10 minutos con energía hasta lograr una masa elástica, lisa y satinada que no se pegue en los dedos.",
+      "Dividí la masa en 12 porciones iguales (testales de unos 60 a 65 gramos cada uno) y bollar cada porción haciéndola rodar contra la mesada.",
+      "Disponé los testales en una bandeja ligeramente enharinada, tapalos con un repasador limpio y húmedo y dejalos reposar a temperatura ambiente por 30 minutos indispensables para que el gluten se relaje.",
+      "Enhariná apenas la mesada y el palo de amasar; tomá un testal y estiralo desde el centro hacia afuera, girándolo un cuarto de vuelta en cada pasada hasta obtener un disco fino de unos 20 a 22 cm de diámetro.",
+      "Calentá un comal de hierro o sartén de fondo grueso a fuego medio-alto sin ningún tipo de grasa ni aceite.",
+      "Colocá la tortilla estirada sobre el comal bien caliente; cociná durante 30 a 40 segundos hasta que la superficie se llene de burbujas de aire infladas y la base muestre pequeñas manchas doradas.",
+      "Dala vuelta con espátula o con los dedos y cociná el otro lado durante 30 a 40 segundos más, presionando apenas el centro para que se infle en una gran burbuja vaporosa.",
+      "Retirá de inmediato y guardalas apiladas dentro de una servilleta de tela o tortillero para que el vapor propio las mantenga suaves y flexibles para doblar."
+    ],
+    "notes": "El secreto de la elasticidad de la tortilla norteña está en usar agua bien tibia al amasar y respetar el reposo de 30 minutos de los testales; si intentás estirarlas sin descanso, la masa volverá a encogerse como un elástico. Se conservan tibias en tortillero y se pueden recalentar directamente sobre la llama o comal seco.",
+    "tags": [
+      "tortillas de harina",
+      "tortillas norteñas",
+      "cocina mexicana",
+      "pan casero",
+      "comal",
+      "burritos",
+      "quesadillas",
+      "receta tradicional",
+      "sin levadura"
+    ]
+  },
+  {
+    "id": 806,
+    "title": "Enchiladas Verdes Suizas (México)",
+    "category": "Platos Principales",
+    "prep_time": "25 min",
+    "cook_time": "25 min",
+    "servings": "4 porciones",
+    "calories": 580,
+    "image": "https://lh3.googleusercontent.com/-tR40urrjQ7M/awUJu8WEQ5I/AAAAAAAQDZg/yd0G0Wfa7Y8vdQZEmthTn_nYx5iqLaYNgCNcBGAsYHQ/s1600/enchiladas_verdes_suizas_mexico.jpg",
+    "story": "Las enchiladas suizas se originaron a principios del siglo XX en el emblemático Café Tacuba y el restaurante de la Casa de los Azulejos de Sanborns en la Ciudad de México. El apelativo \"suizas\" no proviene de una influencia helvética directa, sino de una asociación culinaria popular con la abundante cantidad de crema y queso fundido gratinado sobre la salsa verde, recordando los paisajes nevados de los Alpes o la conocida tradición lechera suiza.",
+    "ingredient_groups": [
+      {
+        "name": "Salsa Verde Suiza",
+        "ingredients": [
+          "600 g de tomatillos verdes (tomate verde con cáscara)",
+          "3 chiles serranos verdes (o jalapeños)",
+          "1/2 cebolla blanca mediana",
+          "2 dientes de ajo",
+          "1 manojo generoso de cilantro fresco",
+          "200 ml de crema ácida o crema de leche espesa",
+          "1 cucharada de caldo de pollo en polvo o sal al gusto",
+          "1 cucharada de manteca o aceite de maíz"
+        ]
+      },
+      {
+        "name": "Relleno y Tortillas",
+        "ingredients": [
+          "12 tortillas de maíz frescas medianas",
+          "500 g de pechuga de pollo cocida y deshebrada finamente",
+          "Aceite vegetal para pasar las tortillas"
+        ]
+      },
+      {
+        "name": "Gratinado y Toppings",
+        "ingredients": [
+          "250 g de queso manchego mexicano o Gouda rallado grueso",
+          "1/2 cebolla blanca cortada en aros finos",
+          "Hojas frescas de cilantro"
+        ]
+      }
+    ],
+    "ingredients": [
+      "600 g de tomatillos verdes (tomate verde con cáscara)",
+      "3 chiles serranos verdes (o jalapeños)",
+      "1/2 cebolla blanca mediana",
+      "2 dientes de ajo",
+      "1 manojo generoso de cilantro fresco",
+      "200 ml de crema ácida o crema de leche espesa",
+      "1 cucharada de caldo de pollo en polvo o sal al gusto",
+      "1 cucharada de manteca o aceite de maíz",
+      "12 tortillas de maíz frescas medianas",
+      "500 g de pechuga de pollo cocida y deshebrada finamente",
+      "Aceite vegetal para pasar las tortillas",
+      "250 g de queso manchego mexicano o Gouda rallado grueso",
+      "1/2 cebolla blanca cortada en aros finos",
+      "Hojas frescas de cilantro"
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación de la salsa verde",
+        "steps": [
+          "Retirá las cáscaras de papel a los tomatillos y lavalos bien con agua tibia para retirar la película pegajosa natural.",
+          "Herví en una olla con agua los tomatillos y los chiles durante 6 a 8 minutos, retirándolos apenas cambien de color a verde oliva antes de que se revienten para evitar acidez amarga.",
+          "Colocá en la licuadora los tomatillos cocidos, los chiles, la media cebolla, los ajos pelados, el cilantro fresco lavado y la crema; licuá a máxima potencia hasta lograr una salsa tersa y homogénea.",
+          "Calentá una cucharada de manteca en una cacerola, verté la salsa licuada y cociná a fuego medio durante 5 minutos para sazonar; condimentá con sal y ajustá espesor."
+        ]
+      },
+      {
+        "name": "Armado de las enchiladas",
+        "steps": [
+          "Pasá cada tortilla de maíz por una sartén con aceite caliente durante 5 segundos por lado para suavizarla e impermeabilizarla sin dejar que se dore ni se ponga crocante; escurrí en papel absorbente.",
+          "Bañá apenas el fondo de una fuente para horno con un cucharón de salsa verde tibia.",
+          "Rellená cada tortilla con una porción generosa de pollo deshebrado, enrollala firmemente como un canelón y acomodalas en fila dentro de la fuente con el pliegue hacia abajo."
+        ]
+      },
+      {
+        "name": "Bañado, gratinado y presentación",
+        "steps": [
+          "Cubrí todas las enchiladas por completo con el resto de la salsa verde suiza caliente, asegurando que los extremos queden bien salseados.",
+          "Espolvoreá una capa abundante y uniforme de queso manchego o gouda rallado sobre toda la superficie.",
+          "Llevá a horno precalentado a 200 °C con grill o calor superior durante 10 a 12 minutos hasta que el queso esté completamente derretido, burbujeante y con manchas doradas apetitosas.",
+          "Retirá del horno, decorá con aros de cebolla blanca cruda y hojas de cilantro, y serví de inmediato."
+        ]
+      }
+    ],
+    "steps": [
+      "Retirá las cáscaras de papel a los tomatillos y lavalos bien con agua tibia para retirar la película pegajosa natural.",
+      "Herví en una olla con agua los tomatillos y los chiles durante 6 a 8 minutos, retirándolos apenas cambien de color a verde oliva antes de que se revienten para evitar acidez amarga.",
+      "Colocá en la licuadora los tomatillos cocidos, los chiles, la media cebolla, los ajos pelados, el cilantro fresco lavado y la crema; licuá a máxima potencia hasta lograr una salsa tersa y homogénea.",
+      "Calentá una cucharada de manteca en una cacerola, verté la salsa licuada y cociná a fuego medio durante 5 minutos para sazonar; condimentá con sal y ajustá espesor.",
+      "Pasá cada tortilla de maíz por una sartén con aceite caliente durante 5 segundos por lado para suavizarla e impermeabilizarla sin dejar que se dore ni se ponga crocante; escurrí en papel absorbente.",
+      "Bañá apenas el fondo de una fuente para horno con un cucharón de salsa verde tibia.",
+      "Rellená cada tortilla con una porción generosa de pollo deshebrado, enrollala firmemente como un canelón y acomodalas en fila dentro de la fuente con el pliegue hacia abajo.",
+      "Cubrí todas las enchiladas por completo con el resto de la salsa verde suiza caliente, asegurando que los extremos queden bien salseados.",
+      "Espolvoreá una capa abundante y uniforme de queso manchego o gouda rallado sobre toda la superficie.",
+      "Llevá a horno precalentado a 200 °C con grill o calor superior durante 10 a 12 minutos hasta que el queso esté completamente derretido, burbujeante y con manchas doradas apetitosas.",
+      "Retirá del horno, decorá con aros de cebolla blanca cruda y hojas de cilantro, y serví de inmediato."
+    ],
+    "notes": "El secreto para que las tortillas no se rompan al enrollarlas es pasarlas unos segundos por aceite caliente; si intentás enrollarlas frías o secas se quebrarán al instante. Para reducir la acidez del tomatillo verde, asegurate de no sobrecocinarlo en el agua hervida (retiralos en cuanto cambien de color) y la crema aportará el balance sedoso característico.",
+    "tags": [
+      "enchiladas suizas",
+      "enchiladas verdes",
+      "cocina mexicana",
+      "queso gratinado",
+      "pollo deshebrado",
+      "tomatillo verde",
+      "plato principal",
+      "horno"
+    ]
+  },
+  {
+    "id": 807,
+    "title": "Quesadillas de Champiñones y Queso (México)",
+    "category": "Entradas",
+    "prep_time": "15 min",
+    "cook_time": "15 min",
+    "servings": "4 porciones (8 quesadillas)",
+    "calories": 310,
+    "image": "https://lh3.googleusercontent.com/-q_iA5LWKmhA/awUJvwf-VWI/AAAAAAAQDZo/dkg6bTO1J0A9sUUgTzaOGzTZ49RMy3fSACNcBGAsYHQ/s1600/quesadillas_champinones_queso_mexico.jpg",
+    "story": "Las quesadillas de hongos con epazote son uno de los antojitos más reverenciados de los mercados y comales callejeros del centro de México y el Valle de Toluca. La combinación de hongos salteados con epazote —hierba aromática mesoamericana por excelencia utilizada desde la era mexica— y quesillo de hebra de Oaxaca representa una síntesis perfecta del encuentro entre los productos de la tierra indígena y las técnicas lácteas criollas.",
+    "ingredient_groups": [
+      {
+        "name": "Relleno de Champiñones al Epazote",
+        "ingredients": [
+          "400 g de champiñones frescos limpios y fileteados",
+          "2 dientes de ajo finamente picados",
+          "1/2 cebolla blanca picada en brunoise fina",
+          "1 chile serrano desvenado y picado fino (opcional)",
+          "1 ramo de hojas de epazote fresco picadas",
+          "2 cucharadas de aceite de oliva o manteca",
+          "Sal fina y pimienta negra recién molida al gusto"
+        ]
+      },
+      {
+        "name": "Queso y Tortillas",
+        "ingredients": [
+          "8 tortillas de maíz o harina de trigo",
+          "300 g de queso Oaxaca (quesillo deshebrado) o mozzarella rallado grueso"
+        ]
+      },
+      {
+        "name": "Acompañamiento",
+        "ingredients": [
+          "Salsa roja tatemada o salsa verde",
+          "Gajos de lima fresca"
+        ]
+      }
+    ],
+    "ingredients": [
+      "400 g de champiñones frescos limpios y fileteados",
+      "2 dientes de ajo finamente picados",
+      "1/2 cebolla blanca picada en brunoise fina",
+      "1 chile serrano desvenado y picado fino (opcional)",
+      "1 ramo de hojas de epazote fresco picadas",
+      "2 cucharadas de aceite de oliva o manteca",
+      "Sal fina y pimienta negra recién molida al gusto",
+      "8 tortillas de maíz o harina de trigo",
+      "300 g de queso Oaxaca (quesillo deshebrado) o mozzarella rallado grueso",
+      "Salsa roja tatemada o salsa verde",
+      "Gajos de lima fresca"
+    ],
+    "step_groups": [
+      {
+        "name": "Salteado de los champiñones",
+        "steps": [
+          "Calentá una sartén amplia a fuego medio-alto con las dos cucharadas de aceite o manteca.",
+          "Agregá la cebolla picada y salteala durante 2 minutos hasta que transparente; sumá el ajo y el chile serrano picado cocinando por 1 minuto adicional sin dejar que se dore el ajo.",
+          "Incorporá los champiñones fileteados y saltealos a fuego vivo durante 4 a 5 minutos para que evaporen su agua natural y tomen un brillo dorado.",
+          "Condimentá con sal, pimienta negra y las hojas de epazote picadas; cociná por 1 minuto más para que liberen todo su perfume herbal y retirá del fuego para que no pierdan firmeza."
+        ]
+      },
+      {
+        "name": "Armado y tostado al comal",
+        "steps": [
+          "Calentá un comal de hierro o plancha a fuego medio.",
+          "Colocá una tortilla sobre el comal caliente; cuando esté tibia y flexible (unos 15 segundos), cubrí una mitad con una porción generosa de queso Oaxaca deshebrado.",
+          "Disponé encima del queso dos cucharadas colmadas del salteado de champiñones caliente y doblá la tortilla por la mitad formando una media luna.",
+          "Cociná la quesadilla durante 2 minutos por lado a fuego moderado, permitiendo que la tortilla quede crocante y ligeramente manchada de comal mientras el queso del interior se funde por completo en hilos elásticos.",
+          "Retirá con espátula y serví humeante acompañada con salsa roja casera y gajos de lima."
+        ]
+      }
+    ],
+    "steps": [
+      "Calentá una sartén amplia a fuego medio-alto con las dos cucharadas de aceite o manteca.",
+      "Agregá la cebolla picada y salteala durante 2 minutos hasta que transparente; sumá el ajo y el chile serrano picado cocinando por 1 minuto adicional sin dejar que se dore el ajo.",
+      "Incorporá los champiñones fileteados y saltealos a fuego vivo durante 4 a 5 minutos para que evaporen su agua natural y tomen un brillo dorado.",
+      "Condimentá con sal, pimienta negra y las hojas de epazote picadas; cociná por 1 minuto más para que liberen todo su perfume herbal y retirá del fuego para que no pierdan firmeza.",
+      "Calentá un comal de hierro o plancha a fuego medio.",
+      "Colocá una tortilla sobre el comal caliente; cuando esté tibia y flexible (unos 15 segundos), cubrí una mitad con una porción generosa de queso Oaxaca deshebrado.",
+      "Disponé encima del queso dos cucharadas colmadas del salteado de champiñones caliente y doblá la tortilla por la mitad formando una media luna.",
+      "Cociná la quesadilla durante 2 minutos por lado a fuego moderado, permitiendo que la tortilla quede crocante y ligeramente manchada de comal mientras el queso del interior se funde por completo en hilos elásticos.",
+      "Retirá con espátula y serví humeante acompañada con salsa roja casera y gajos de lima."
+    ],
+    "notes": "El epazote fresco es el alma de esta quesadilla; aporta un perfil aromático alcanforado inconfundible que corta la grasa del queso fundido. Si no conseguís epazote fresco podés usar cilantro fresco picado con una pizca de orégano seco. El comal debe estar a fuego medio parejo para que el queso se derrita antes de que la tortilla se queme.",
+    "tags": [
+      "quesadillas",
+      "champiñones",
+      "queso oaxaca",
+      "antojitos mexicanos",
+      "epazote",
+      "comal",
+      "entradas",
+      "comida callejera"
+    ]
+  },
+  {
+    "id": 808,
+    "title": "Fajitas Mixtas de Carne y Pollo (México)",
+    "category": "Platos Principales",
+    "prep_time": "20 min",
+    "cook_time": "15 min",
+    "servings": "4 porciones",
+    "calories": 520,
+    "image": "https://lh3.googleusercontent.com/-BxsHaOnUQK8/awUJxEci8NI/AAAAAAAQDZw/Cdqw3xajzP8ExpJmXsv0pXzKzm1hS4UQQCNcBGAsYHQ/s1600/fajitas_mixtas_carne_pollo_mexico.jpg",
+    "story": "El concepto de fajita nació en la década de 1930 a lo largo del Río Bravo entre los vaqueros mexicanos que trabajaban en las estancias ganaderas de Texas y el norte de México. A estos peones se les entregaba como parte de pago el corte de falda o arrachera (llamada \"faja\" de res por su forma de tira delgada), la cual marinaban con lima y asaban directamente sobre las brasas; posteriormente se popularizó en restaurantes sirviéndose humeante en sartenes de hierro fundido con pimientos y tortillas tibias.",
+    "ingredient_groups": [
+      {
+        "name": "Carnes y Marinado",
+        "ingredients": [
+          "350 g de lomo o entraña de res cortada en tiras finas",
+          "350 g de pechuga de pollo cortada en tiras",
+          "Jugo de 2 limas",
+          "2 dientes de ajo rallados",
+          "1 cucharadita de comino molido",
+          "1 cucharadita de pimentón dulce o ahumado",
+          "1 cucharadita de orégano seco",
+          "3 cucharadas de aceite de oliva",
+          "Sal gruesa y pimienta recién molida"
+        ]
+      },
+      {
+        "name": "Vegetales para Saltear",
+        "ingredients": [
+          "1 pimiento morrón rojo cortado en juliana gruesa",
+          "1 pimiento morrón verde cortado en juliana gruesa",
+          "1 pimiento morrón amarillo cortado en juliana gruesa",
+          "2 cebollas medianas cortadas en plumas gruesas",
+          "2 cucharadas de aceite para saltear"
+        ]
+      },
+      {
+        "name": "Guarnición para Servir",
+        "ingredients": [
+          "12 tortillas de harina de trigo o maíz tibias",
+          "Guacamole fresco con tomate y cilantro",
+          "Gajos de lima"
+        ]
+      }
+    ],
+    "ingredients": [
+      "350 g de lomo o entraña de res cortada en tiras finas",
+      "350 g de pechuga de pollo cortada en tiras",
+      "Jugo de 2 limas",
+      "2 dientes de ajo rallados",
+      "1 cucharadita de comino molido",
+      "1 cucharadita de pimentón dulce o ahumado",
+      "1 cucharadita de orégano seco",
+      "3 cucharadas de aceite de oliva",
+      "Sal gruesa y pimienta recién molida",
+      "1 pimiento morrón rojo cortado en juliana gruesa",
+      "1 pimiento morrón verde cortado en juliana gruesa",
+      "1 pimiento morrón amarillo cortado en juliana gruesa",
+      "2 cebollas medianas cortadas en plumas gruesas",
+      "2 cucharadas de aceite para saltear",
+      "12 tortillas de harina de trigo o maíz tibias",
+      "Guacamole fresco con tomate y cilantro",
+      "Gajos de lima"
+    ],
+    "step_groups": [
+      {
+        "name": "Marinado de las carnes",
+        "steps": [
+          "Colocá en un bol amplio las tiras de carne de res y en otro las tiras de pollo.",
+          "Mezclá en un cuenco el jugo de lima, los ajos rallados, el comino, el pimentón, el orégano, el aceite de oliva, sal y pimienta negra.",
+          "Repartí la marinada entre ambas carnes, mezclá bien con las manos y dejá reposar en la heladera tapado durante al menos 20 a 30 minutos para que las fibras se ablanden y absorban todo el sabor cítrico y especiado."
+        ]
+      },
+      {
+        "name": "Sellado de las carnes a fuego vivo",
+        "steps": [
+          "Calentá una plancha o sartén de hierro fundido a fuego máximo con un hilo de aceite hasta que humee ligeramente.",
+          "Sellá primero las tiras de carne vacuna en tandas sin encimar para que doren y caramelicen rápidamente por 2 a 3 minutos por lado sin soltar jugo; retirá a una fuente templada.",
+          "En la misma sartén bien caliente, agregá las tiras de pollo y doralas durante 4 a 5 minutos hasta que estén bien cocidas y tostadas en los bordes; retirá junto a la carne."
+        ]
+      },
+      {
+        "name": "Salteado de vegetales y ensamblado humeante",
+        "steps": [
+          "En la misma sartén caliente con los jugos caramelizados del fondo, agregá las cebollas y los pimientos tricolores.",
+          "Salteá a fuego vivo durante 3 a 4 minutos removiendo constantemente para que queden tiernos por fuera pero crujientes y apenas tatemados en las aristas.",
+          "Reincorporá las carnes selladas con sus jugos a la sartén, mezclá a fuego fuerte durante 1 minuto para unificar todos los sabores y generar ese humo aromático característico.",
+          "Llevá la sartén de hierro directamente a la mesa sobre una tabla de madera y serví con las tortillas de trigo bien calientes y el guacamole al centro para que cada comensal arme sus fajitas."
+        ]
+      }
+    ],
+    "steps": [
+      "Colocá en un bol amplio las tiras de carne de res y en otro las tiras de pollo.",
+      "Mezclá en un cuenco el jugo de lima, los ajos rallados, el comino, el pimentón, el orégano, el aceite de oliva, sal y pimienta negra.",
+      "Repartí la marinada entre ambas carnes, mezclá bien con las manos y dejá reposar en la heladera tapado durante al menos 20 a 30 minutos para que las fibras se ablanden y absorban todo el sabor cítrico y especiado.",
+      "Calentá una plancha o sartén de hierro fundido a fuego máximo con un hilo de aceite hasta que humee ligeramente.",
+      "Sellá primero las tiras de carne vacuna en tandas sin encimar para que doren y caramelicen rápidamente por 2 a 3 minutos por lado sin soltar jugo; retirá a una fuente templada.",
+      "En la misma sartén bien caliente, agregá las tiras de pollo y doralas durante 4 a 5 minutos hasta que estén bien cocidas y tostadas en los bordes; retirá junto a la carne.",
+      "En la misma sartén caliente con los jugos caramelizados del fondo, agregá las cebollas y los pimientos tricolores.",
+      "Salteá a fuego vivo durante 3 a 4 minutos removiendo constantemente para que queden tiernos por fuera pero crujientes y apenas tatemados en las aristas.",
+      "Reincorporá las carnes selladas con sus jugos a la sartén, mezclá a fuego fuerte durante 1 minuto para unificar todos los sabores y generar ese humo aromático característico.",
+      "Llevá la sartén de hierro directamente a la mesa sobre una tabla de madera y serví con las tortillas de trigo bien calientes y el guacamole al centro para que cada comensal arme sus fajitas."
+    ],
+    "notes": "La clave de una buena fajita es el calor extremo: la sartén debe estar ardiendo para que la carne se selle en segundos y los vegetales queden crujientes (al dente) en lugar de hervirse en sus propios líquidos. Servirlas en la misma plancha o sartén de hierro fundido mantiene la temperatura perfecta durante toda la comida.",
+    "tags": [
+      "fajitas mixtas",
+      "carne y pollo",
+      "cocina tex-mex",
+      "cocina mexicana",
+      "plancha de hierro",
+      "pimientos salteados",
+      "guacamole",
+      "tortillas de trigo",
+      "plato principal"
+    ]
+  },
+  {
+    "id": 809,
+    "title": "Tacos de Carne Asada (México)",
+    "category": "Platos Principales",
+    "prep_time": "20 min",
+    "cook_time": "10 min",
+    "servings": "4 porciones (8 a 10 tacos)",
+    "calories": 460,
+    "image": "https://lh3.googleusercontent.com/-JASP8LeB8js/awUJya_2OSI/AAAAAAAQDZ4/6fkJ5oV2tC8zeEnDjoNB_Cub9bken-pVACNcBGAsYHQ/s1600/tacos_carne_asada_mexico.jpg",
+    "story": "El taco de carne asada es el estandarte culinario de las taquerías callejeras de los estados del norte de México y la frontera, con epicentros en Sonora, Baja California y Sinaloa. Surgió alrededor del fuego de las fogatas ganaderas y el carbón de mezquite, donde los cortes magros de res se asaban enteros a la brasa y se picaban con machete o cuchillo taquero al momento sobre gruesas tablas de madera para rellenar tortillas recién salidas del comal.",
+    "ingredient_groups": [
+      {
+        "name": "Carne Asada y Marinada",
+        "ingredients": [
+          "600 g de arrachera, entraña o falda de res",
+          "Jugo de 2 naranjas agrias (o jugo de 1 naranja dulce + jugo de 1 lima)",
+          "3 dientes de ajo machacados",
+          "1 cucharada de salsa inglesa (Worcestershire)",
+          "1 cucharada de aceite vegetal",
+          "1 cucharadita de comino molido",
+          "Sal gruesa parrillera y pimienta negra recién molida"
+        ]
+      },
+      {
+        "name": "Montaje y Tortillas",
+        "ingredients": [
+          "16 a 20 tortillas de maíz medianas (para armar en doble tortilla)",
+          "1 cebolla blanca grande picada finamente en cubitos chicos",
+          "1 manojo grande de cilantro fresco picado fino"
+        ]
+      },
+      {
+        "name": "Acompañamientos Tradicionales",
+        "ingredients": [
+          "4 cebollitas cambray asadas al comal con su tallo verde",
+          "1 manojo de rábanos crujientes cortados en rodajas finas",
+          "Gajos de lima fresca",
+          "Salsa taquera verde tatemada o salsa roja"
+        ]
+      }
+    ],
+    "ingredients": [
+      "600 g de arrachera, entraña o falda de res",
+      "Jugo de 2 naranjas agrias (o jugo de 1 naranja dulce + jugo de 1 lima)",
+      "3 dientes de ajo machacados",
+      "1 cucharada de salsa inglesa (Worcestershire)",
+      "1 cucharada de aceite vegetal",
+      "1 cucharadita de comino molido",
+      "Sal gruesa parrillera y pimienta negra recién molida",
+      "16 a 20 tortillas de maíz medianas (para armar en doble tortilla)",
+      "1 cebolla blanca grande picada finamente en cubitos chicos",
+      "1 manojo grande de cilantro fresco picado fino",
+      "4 cebollitas cambray asadas al comal con su tallo verde",
+      "1 manojo de rábanos crujientes cortados en rodajas finas",
+      "Gajos de lima fresca",
+      "Salsa taquera verde tatemada o salsa roja"
+    ],
+    "step_groups": [
+      {
+        "name": "Marinado y preparación de la carne",
+        "steps": [
+          "Colocá la carne entera en una fuente o bolsa con cierre hermético.",
+          "En un cuenco mezclá el jugo cítrico, los ajos machacados, la salsa inglesa, el comino, el aceite, sal gruesa y pimienta negra molida.",
+          "Volcá el marinado sobre la carne asegurando que quede cubierta por ambos lados y dejala marinar en frío durante 30 a 45 minutos para que la acidez ablande los tejidos musculares."
+        ]
+      },
+      {
+        "name": "Cocción a la brasa o plancha de hierro",
+        "steps": [
+          "Encendé las brasas de carbón hasta lograr un fuego medio-alto parejo, o precalentá una plancha de hierro grueso a fuego máximo.",
+          "Asá las cebollitas cambray enteras sobre la parrilla o plancha hasta que queden tiernas, dulces y con marcas oscuras.",
+          "Secá ligeramente la carne del exceso de marinada y disponela sobre la parrilla o plancha muy caliente.",
+          "Cociná la arrachera durante 3 a 4 minutos por lado para un término jugoso medio con una costra dorada y ahumada bien definida; retirá y dejala reposar en una tabla durante 4 minutos para que los jugos se redistribuyan."
+        ]
+      },
+      {
+        "name": "Picado taquero y armado al comal",
+        "steps": [
+          "Con un cuchillo afilado o machete taquero, picá la carne en cubos chicos de menos de 1 centímetro, recogiendo todos los jugos que desprenda la tabla.",
+          "Calentá las tortillas de maíz en el comal bien caliente por ambos lados hasta que estén suaves, flexibles y humeantes.",
+          "Armá cada taco usando dos tortillas de maíz encimadas (doble tortilla para sostener los jugos).",
+          "Colocá una montaña generosa de carne asada recién picada al centro, coroná con una cucharada de cebolla blanca picada, abundante cilantro fresco y una cuchara de salsa verde tatemada.",
+          "Serví de inmediato en plato de barro acompañado de las cebollitas asadas, rodajas de rábano y gajos de lima para exprimir por encima."
+        ]
+      }
+    ],
+    "steps": [
+      "Colocá la carne entera en una fuente o bolsa con cierre hermético.",
+      "En un cuenco mezclá el jugo cítrico, los ajos machacados, la salsa inglesa, el comino, el aceite, sal gruesa y pimienta negra molida.",
+      "Volcá el marinado sobre la carne asegurando que quede cubierta por ambos lados y dejala marinar en frío durante 30 a 45 minutos para que la acidez ablande los tejidos musculares.",
+      "Encendé las brasas de carbón hasta lograr un fuego medio-alto parejo, o precalentá una plancha de hierro grueso a fuego máximo.",
+      "Asá las cebollitas cambray enteras sobre la parrilla o plancha hasta que queden tiernas, dulces y con marcas oscuras.",
+      "Secá ligeramente la carne del exceso de marinada y disponela sobre la parrilla o plancha muy caliente.",
+      "Cociná la arrachera durante 3 a 4 minutos por lado para un término jugoso medio con una costra dorada y ahumada bien definida; retirá y dejala reposar en una tabla durante 4 minutos para que los jugos se redistribuyan.",
+      "Con un cuchillo afilado o machete taquero, picá la carne en cubos chicos de menos de 1 centímetro, recogiendo todos los jugos que desprenda la tabla.",
+      "Calentá las tortillas de maíz en el comal bien caliente por ambos lados hasta que estén suaves, flexibles y humeantes.",
+      "Armá cada taco usando dos tortillas de maíz encimadas (doble tortilla para sostener los jugos).",
+      "Colocá una montaña generosa de carne asada recién picada al centro, coroná con una cucharada de cebolla blanca picada, abundante cilantro fresco y una cuchara de salsa verde tatemada.",
+      "Serví de inmediato en plato de barro acompañado de las cebollitas asadas, rodajas de rábano y gajos de lima para exprimir por encima."
+    ],
+    "notes": "La regla de oro del taco de carne asada es nunca picar la carne antes de cocinarla: debe asarse en pieza entera a fuego muy vivo para conservar toda la terneza y jugosidad interior, y picarse a cuchillo justo antes de montar el taco. La doble tortilla es indispensable en la taquería tradicional para que la humedad de la carne y la salsa no rompan la base.",
+    "tags": [
+      "tacos",
+      "carne asada",
+      "arrachera",
+      "taqueria",
+      "cocina mexicana",
+      "carbon",
+      "doble tortilla",
+      "antojitos",
+      "plato principal"
+    ]
   }
 ]
