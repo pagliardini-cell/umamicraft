@@ -86434,5 +86434,616 @@
       "plato patriótico",
       "san martin"
     ]
+  },
+  {
+    "id": 813,
+    "title": "Fumet de Pescado y Mariscos (Francia)",
+    "country": "Francia",
+    "category": "Sopas & Caldos",
+    "tags": [
+      "Francia",
+      "Fumet",
+      "Pescado",
+      "Mariscos",
+      "Caldos",
+      "Sopas",
+      "Bases",
+      "Fondos"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "25 min",
+    "rest_time": "10 min de reposo y colado",
+    "temperature": "85 °C - 90 °C (hervor suave sin borbotones)",
+    "servings": "Aprox. 2 litros de fondo marino concentrado",
+    "calories": "35 kcal por taza (250 ml)",
+    "diet_badges": [
+      "Sin Gluten",
+      "Sin Lácteos",
+      "Keto",
+      "Bajo en Calorías"
+    ],
+    "story": "Base angular de la gran cocina costera y codificado en el siglo XIX por la gastronomía clásica francesa, el fumet nació en los puertos marítimos como un aprovechamiento virtuoso de las espinas y recortes de la pesca del día. Su infusión rápida y cristalina se convirtió en el pilar indispensable para enriquecer salsas madres, veloutés marinas, cazuelas y los grandes arroces marineros.",
+    "ingredient_groups": [
+      {
+        "name": "Espinas y Mariscos",
+        "items": [
+          "1 kg de espinas, cabezas y recortes de pescado blanco limpio (merluza, lenguado o corvina, sin ojos ni agallas)",
+          "300 g de cabezas y caparazones de langostinos crudos"
+        ]
+      },
+      {
+        "name": "Mirepoix Blanco y Aromáticos",
+        "items": [
+          "1 puerro grande (solo la parte blanca y verde clara), cortado en rodajas",
+          "1 cebolla blanca mediana, cortada en cubos pequeños",
+          "1 bulbo chico de hinojo fresco, fileteado",
+          "1 rama de apio, picada",
+          "1 bouquet garni (ramitas de perejil, tomillo fresco y 1 hoja de laurel atados)",
+          "10 granos de pimienta blanca entera",
+          "150 ml de vino blanco seco",
+          "2 litros de agua fría",
+          "2 cucharadas de aceite de oliva virgen extra"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Paso 1: Limpieza del pescado y sofrito aromático",
+        "steps": [
+          "Lavá muy bien las espinas y cabezas de pescado bajo un chorro de agua helada, retirando cualquier resto de sangre o agallas oscuras para que el caldo no amargue ni se enturbie.",
+          "En una olla grande a fuego medio, calentá el aceite de oliva y rehogá el puerro, la cebolla, el apio y el hinojo durante 5 minutos sin que tomen color.",
+          "Incorporá las cabezas y caparazones de langostino y aplastalas suavemente con cuchara de madera durante 2 minutos para que suelten su coral aromático."
+        ]
+      },
+      {
+        "name": "Paso 2: Desglasado, cocción y espumado",
+        "steps": [
+          "Verté el vino blanco seco y dejá que reduzca a la mitad durante 2 minutos para evaporar el alcohol.",
+          "Agregá las espinas de pescado blanco, cubrí con los 2 litros de agua fría y sumá el bouquet garni y los granos de pimienta blanca.",
+          "Llevá a fuego medio hasta que comience a romper hervor suave. Retirá con espumadera toda la espuma grisácea e impurezas que suban a la superficie durante los primeros minutos."
+        ]
+      },
+      {
+        "name": "Paso 3: Infusión cronometrada y filtrado",
+        "steps": [
+          "Bajá el fuego a mínimo manteniendo un hervor apenas perceptible (unos 85 °C - 90 °C) y cociná exactamente durante 20 a 25 minutos cronometrados.",
+          "Apagá el fuego y dejá reposar 10 minutos. Pasá el caldo por un colador chino cubierto con una estameña o gasa fina sin presionar los sólidos para mantener la transparencia cristalina."
+        ]
+      }
+    ],
+    "notes": "Regla de oro del fumet: Jamás superes los 25 a 30 minutos de cocción total. Las espinas y cartílagos de pescado son muy finos y, tras media hora de hervor, comienzan a descomponerse liberando compuestos acres, gelatinas turbias y sabores amargos que arruinan la delicadeza marina del fondo.",
+    "image": "https://lh3.googleusercontent.com/-lRlQ_bbFPLc/awXhISkwX_I/AAAAAAAQDes/-09hpaGlVMUxNTIkt8LlyqD1N1NeFNQxQCNcBGAsYHQ/s1600/fumet_pescado_mariscos_francia.jpg",
+    "steps": [
+      "Lavá muy bien las espinas y cabezas de pescado bajo un chorro de agua helada, retirando cualquier resto de sangre o agallas oscuras para que el caldo no amargue ni se enturbie.",
+      "En una olla grande a fuego medio, calentá el aceite de oliva y rehogá el puerro, la cebolla, el apio y el hinojo durante 5 minutos sin que tomen color.",
+      "Incorporá las cabezas y caparazones de langostino y aplastalas suavemente con cuchara de madera durante 2 minutos para que suelten su coral aromático.",
+      "Verté el vino blanco seco y dejá que reduzca a la mitad durante 2 minutos para evaporar el alcohol.",
+      "Agregá las espinas de pescado blanco, cubrí con los 2 litros de agua fría y sumá el bouquet garni y los granos de pimienta blanca.",
+      "Llevá a fuego medio hasta que comience a romper hervor suave. Retirá con espumadera toda la espuma grisácea e impurezas que suban a la superficie durante los primeros minutos.",
+      "Bajá el fuego a mínimo manteniendo un hervor apenas perceptible (unos 85 °C - 90 °C) y cociná exactamente durante 20 a 25 minutos cronometrados.",
+      "Apagá el fuego y dejá reposar 10 minutos. Pasá el caldo por un colador chino cubierto con una estameña o gasa fina sin presionar los sólidos para mantener la transparencia cristalina."
+    ],
+    "ingredients": [
+      "1 kg de espinas, cabezas y recortes de pescado blanco limpio (merluza, lenguado o corvina, sin ojos ni agallas)",
+      "300 g de cabezas y caparazones de langostinos crudos",
+      "1 puerro grande (solo la parte blanca y verde clara), cortado en rodajas",
+      "1 cebolla blanca mediana, cortada en cubos pequeños",
+      "1 bulbo chico de hinojo fresco, fileteado",
+      "1 rama de apio, picada",
+      "1 bouquet garni (ramitas de perejil, tomillo fresco y 1 hoja de laurel atados)",
+      "10 granos de pimienta blanca entera",
+      "150 ml de vino blanco seco",
+      "2 litros de agua fría",
+      "2 cucharadas de aceite de oliva virgen extra"
+    ]
+  },
+  {
+    "id": 814,
+    "title": "Caldo de Huesos de Larga Cocción (Estados Unidos)",
+    "country": "Estados Unidos",
+    "category": "Sopas & Caldos",
+    "tags": [
+      "Estados Unidos",
+      "Bone Broth",
+      "Colágeno",
+      "Caldos",
+      "Sopas",
+      "Keto",
+      "Salud",
+      "Bases"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "18 a 24 horas",
+    "rest_time": "12 horas de refrigeración para desgrasar",
+    "temperature": "85 °C (fuego corona hiperlento)",
+    "servings": "Aprox. 2,5 litros de gelatina concentrada",
+    "calories": "45 kcal por taza (250 ml)",
+    "diet_badges": [
+      "Sin Gluten",
+      "Sin Lácteos",
+      "Keto",
+      "Paleo",
+      "Alto en Proteínas"
+    ],
+    "story": "El caldo de huesos es una de las preparaciones culinarias más antiguas de la humanidad, documentada desde tiempos paleolíticos y perfeccionada por la medicina tradicional como un reconstituyente digestivo y articular. Revalorizado en las últimas décadas en la gastronomía contemporánea como un elixir de colágeno puro, representa la máxima expresión de la cocina de aprovechamiento integral.",
+    "ingredient_groups": [
+      {
+        "name": "Huesos Ricos en Colágeno",
+        "items": [
+          "1,5 kg de huesos vacunos mixtos (rodilla de vaca, garrón/osobuco y huesos con tuétano/caracú)",
+          "500 g de patas o alas de pollo (clave por su altísimo contenido de cartílago y colágeno soluble)"
+        ]
+      },
+      {
+        "name": "Extracción y Vegetales",
+        "items": [
+          "3 cucharadas de vinagre de manzana crudo con la madre",
+          "2 cebollas grandes con su piel dorada bien lavada, cortadas al medio",
+          "2 zanahorias grandes, cortadas en trozos rústicos",
+          "2 ramas de apio con hojas",
+          "4 dientes de ajo aplastados con piel",
+          "1 cucharadita de pimienta negra en grano",
+          "2 hojas de laurel seco",
+          "3,5 litros de agua filtrada"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Paso 1: Tostado de huesos y extracción ácida",
+        "steps": [
+          "Precalentá el horno a 200 °C. Distribuí los huesos vacunos en una asadera amplia y hornealos durante 40 a 45 minutos hasta que estén bien dorados y desprendan aroma a carne asada.",
+          "Pasá los huesos tostados y las patas de pollo a una olla grande y pesada de acero inoxidable. Desglasá la asadera con un vaso de agua caliente raspando el fondo caramelizado y vertelo a la olla.",
+          "Cubrí con los 3,5 litros de agua filtrada y agregá el vinagre de manzana. Dejá reposar en frío durante 20 minutos para que el medio ácido comience a disolver los minerales del hueso."
+        ]
+      },
+      {
+        "name": "Paso 2: Cocción hiperlenta de 24 horas",
+        "steps": [
+          "Llevá la olla a fuego medio hasta que comience a humear suavemente. Espumá con cuidado la capa de espuma inicial que se forme en la superficie.",
+          "Bajá el fuego al mínimo absoluto (fuego corona, manteniendo apenas un par de burbujas perezosas cada pocos segundos). Tapá la olla casi por completo.",
+          "Cociná durante 18 a 24 horas continuas agregando un poco de agua caliente si el nivel baja. A las 12 horas de cocción, incorporá las cebollas, zanahorias, apio, ajos, pimienta y laurel."
+        ]
+      },
+      {
+        "name": "Paso 3: Colado fino y desgrasado en frío",
+        "steps": [
+          "Retirá del fuego y descartá los huesos grandes con pinzas. Colá el caldo caliente a través de un colador fino cubierto con gasa.",
+          "Dejá enfriar a temperatura ambiente y llevalo a la heladera durante toda la noche (12 horas). Al enfriarse, se formará una capa sólida de grasa blanca en la superficie: retirala fácilmente con una cuchara y descartala.",
+          "El caldo resultante quedará convertido en una gelatina sólida, espesa y brillante a temperatura de heladera, que se vuelve líquida y untuosa al calentar."
+        ]
+      }
+    ],
+    "notes": "La prueba de fuego del colágeno: Si el caldo frío cuaja como una gelatina firme que podés cortar con cuchara, lograste la extracción perfecta de colágeno, prolina y glicina. El vinagre de manzana no aporta sabor ácido final, pero su pH bajo es indispensable para extraer el calcio y el fósforo de la matriz ósea.",
+    "image": "https://lh3.googleusercontent.com/-NzBP3Fslq8M/awXhJcL7AlI/AAAAAAAQDe0/CpPl6c1PqT0l44XdDGmQmNE7iO3jvnXGgCNcBGAsYHQ/s1600/caldo_huesos_larga_coccion_estados_unidos.jpg",
+    "steps": [
+      "Precalentá el horno a 200 °C. Distribuí los huesos vacunos en una asadera amplia y hornealos durante 40 a 45 minutos hasta que estén bien dorados y desprendan aroma a carne asada.",
+      "Pasá los huesos tostados y las patas de pollo a una olla grande y pesada de acero inoxidable. Desglasá la asadera con un vaso de agua caliente raspando el fondo caramelizado y vertelo a la olla.",
+      "Cubrí con los 3,5 litros de agua filtrada y agregá el vinagre de manzana. Dejá reposar en frío durante 20 minutos para que el medio ácido comience a disolver los minerales del hueso.",
+      "Llevá la olla a fuego medio hasta que comience a humear suavemente. Espumá con cuidado la capa de espuma inicial que se forme en la superficie.",
+      "Bajá el fuego al mínimo absoluto (fuego corona, manteniendo apenas un par de burbujas perezosas cada pocos segundos). Tapá la olla casi por completo.",
+      "Cociná durante 18 a 24 horas continuas agregando un poco de agua caliente si el nivel baja. A las 12 horas de cocción, incorporá las cebollas, zanahorias, apio, ajos, pimienta y laurel.",
+      "Retirá del fuego y descartá los huesos grandes con pinzas. Colá el caldo caliente a través de un colador fino cubierto con gasa.",
+      "Dejá enfriar a temperatura ambiente y llevalo a la heladera durante toda la noche (12 horas). Al enfriarse, se formará una capa sólida de grasa blanca en la superficie: retirala fácilmente con una cuchara y descartala.",
+      "El caldo resultante quedará convertido en una gelatina sólida, espesa y brillante a temperatura de heladera, que se vuelve líquida y untuosa al calentar."
+    ],
+    "ingredients": [
+      "1,5 kg de huesos vacunos mixtos (rodilla de vaca, garrón/osobuco y huesos con tuétano/caracú)",
+      "500 g de patas o alas de pollo (clave por su altísimo contenido de cartílago y colágeno soluble)",
+      "3 cucharadas de vinagre de manzana crudo con la madre",
+      "2 cebollas grandes con su piel dorada bien lavada, cortadas al medio",
+      "2 zanahorias grandes, cortadas en trozos rústicos",
+      "2 ramas de apio con hojas",
+      "4 dientes de ajo aplastados con piel",
+      "1 cucharadita de pimienta negra en grano",
+      "2 hojas de laurel seco",
+      "3,5 litros de agua filtrada"
+    ]
+  },
+  {
+    "id": 815,
+    "title": "Fondo Blanco de Ave (Francia)",
+    "country": "Francia",
+    "category": "Sopas & Caldos",
+    "tags": [
+      "Francia",
+      "Fondo Blanco",
+      "Ave",
+      "Pollo",
+      "Caldos",
+      "Bases",
+      "Clásica"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "2 h 30 min",
+    "rest_time": "15 min de reposo y colado",
+    "temperature": "90 °C (fuego suave constante)",
+    "servings": "Aprox. 2 litros de fondo blanco",
+    "calories": "40 kcal por taza (250 ml)",
+    "diet_badges": [
+      "Sin Gluten",
+      "Sin Lácteos",
+      "Keto",
+      "Bajo en Grasa"
+    ],
+    "story": "Eje central de la cocina cortesana francesa sistematizada por Marie-Antoine Carême y Auguste Escoffier, el fond blanc de volaille se concibió como un lienzo líquido neutro y aristocrático. Diseñado para otorgar una textura aterciopelada sin alterar el color ni el tono límpido de las salsas supremas, es la técnica madre que define la finura de una cocina profesional.",
+    "ingredient_groups": [
+      {
+        "name": "Aves y Huesos",
+        "items": [
+          "1,5 kg de carcasas, cuellos, alas y huesos frescos de pollo (limpios, sin exceso de grasa ni piel amarilla)"
+        ]
+      },
+      {
+        "name": "Mirepoix Blanco y Aromas",
+        "items": [
+          "2 puerros (solo las partes blancas)",
+          "1 cebolla blanca grande claveteada con 2 clavos de olor",
+          "1 nabo blanco pelado",
+          "2 ramas de apio blanco sin hojas",
+          "1 bouquet garni (tallos de perejil, tomillo fresco y laurel)",
+          "8 granos de pimienta blanca entera",
+          "3 litros de agua fría"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Paso 1: Blanqueado estricto de los huesos",
+        "steps": [
+          "Colocá las carcasas y huesos de pollo en una olla amplia y cubrilas con abundante agua fría.",
+          "Llevá a fuego alto hasta que rompa un hervor vigoroso durante 3 a 4 minutos para que coagulen las impurezas.",
+          "Retirá de inmediato la olla del fuego, volcá los huesos en un colador y enjuagalos bajo el chorro de agua fría retirando cualquier residuo adherido. Lavá la olla a fondo."
+        ]
+      },
+      {
+        "name": "Paso 2: Cocción limpia y extracción a fuego suave",
+        "steps": [
+          "Volvé a colocar los huesos limpios en la olla y cubrilos con los 3 litros de agua fría fresca.",
+          "Llevá a fuego medio-bajo hasta que comiencen a formarse pequeñas burbujas sin llegar a borbotones violentos para evitar emulsiones grasas.",
+          "Incorporá el mirepoix blanco: los puerros, la cebolla claveteada, el nabo, el apio, el bouquet garni y la pimienta blanca."
+        ]
+      },
+      {
+        "name": "Paso 3: Desgrasado continuo y filtrado sedoso",
+        "steps": [
+          "Cociná a fuego mínimo entre 2 horas y 2 horas y media, retirando con una cuchara o espumadera fina cualquier rastro de espuma o grasa que ascienda a los bordes.",
+          "Apagá el fuego y dejá asentar 15 minutos. Pasá el caldo por un colador chino con un paño de lino o papel de filtro sin estrujar los ingredientes.",
+          "Deberás obtener un caldo traslúcido, de tono marfil pálido, con aroma delicado a ave y textura sedosa en boca."
+        ]
+      }
+    ],
+    "notes": "El secreto de la transparencia: El hervor violento es el enemigo mortal del fondo blanco. Si el agua hierve con fuerza, las gotas de grasa y las proteínas suspendidas se baten formando una emulsión permanente que deja el caldo opaco. El fuego debe mantenerse siempre en temblor silencioso (unos 90 °C).",
+    "image": "https://lh3.googleusercontent.com/-ubtGRENJK0Q/awXhKQ5xVNI/AAAAAAAQDe8/JqWeqo6CvVYKnrpSC9S2slryUq8W8cRUwCNcBGAsYHQ/s1600/fondo_blanco_ave_francia.jpg",
+    "steps": [
+      "Colocá las carcasas y huesos de pollo en una olla amplia y cubrilas con abundante agua fría.",
+      "Llevá a fuego alto hasta que rompa un hervor vigoroso durante 3 a 4 minutos para que coagulen las impurezas.",
+      "Retirá de inmediato la olla del fuego, volcá los huesos en un colador y enjuagalos bajo el chorro de agua fría retirando cualquier residuo adherido. Lavá la olla a fondo.",
+      "Volvé a colocar los huesos limpios en la olla y cubrilos con los 3 litros de agua fría fresca.",
+      "Llevá a fuego medio-bajo hasta que comiencen a formarse pequeñas burbujas sin llegar a borbotones violentos para evitar emulsiones grasas.",
+      "Incorporá el mirepoix blanco: los puerros, la cebolla claveteada, el nabo, el apio, el bouquet garni y la pimienta blanca.",
+      "Cociná a fuego mínimo entre 2 horas y 2 horas y media, retirando con una cuchara o espumadera fina cualquier rastro de espuma o grasa que ascienda a los bordes.",
+      "Apagá el fuego y dejá asentar 15 minutos. Pasá el caldo por un colador chino con un paño de lino o papel de filtro sin estrujar los ingredientes.",
+      "Deberás obtener un caldo traslúcido, de tono marfil pálido, con aroma delicado a ave y textura sedosa en boca."
+    ],
+    "ingredients": [
+      "1,5 kg de carcasas, cuellos, alas y huesos frescos de pollo (limpios, sin exceso de grasa ni piel amarilla)",
+      "2 puerros (solo las partes blancas)",
+      "1 cebolla blanca grande claveteada con 2 clavos de olor",
+      "1 nabo blanco pelado",
+      "2 ramas de apio blanco sin hojas",
+      "1 bouquet garni (tallos de perejil, tomillo fresco y laurel)",
+      "8 granos de pimienta blanca entera",
+      "3 litros de agua fría"
+    ]
+  },
+  {
+    "id": 816,
+    "title": "Caldo Oscuro de Vegetales Tostados y Hongos (Fusión)",
+    "country": "Fusión",
+    "category": "Sopas & Caldos",
+    "tags": [
+      "Fusión",
+      "Caldo Oscuro",
+      "Vegetales",
+      "Umami",
+      "Shiitake",
+      "Vegano",
+      "Bases"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "1 h 30 min",
+    "rest_time": "15 min de reposo",
+    "temperature": "95 °C (fuego medio-bajo)",
+    "servings": "Aprox. 2 litros de fondo umami",
+    "calories": "30 kcal por taza (250 ml)",
+    "diet_badges": [
+      "Vegano",
+      "Vegetariano",
+      "Sin Lácteos",
+      "Sin Gluten"
+    ],
+    "story": "Nacido de las cocinas contemporáneas de vanguardia para dar respuesta a la cocina vegetal sin resignar profundidad, este caldo oscuro combina técnicas francesas de caramelización con la filosofía japonesa de extracción de umami. El uso de hongos deshidratados y algas marinas aporta un nivel de ácido glutámico natural capaz de competir en cuerpo y persistencia con cualquier fondo vacuno.",
+    "ingredient_groups": [
+      {
+        "name": "Vegetales para Asar",
+        "items": [
+          "3 cebollas grandes con piel lavada, cortadas transversalmente al medio",
+          "3 zanahorias grandes, cortadas en rodajas gruesas",
+          "2 puerros grandes cortados en trozos de 5 cm",
+          "300 g de champiñones portobello frescos cortados al medio",
+          "1 cabeza entera de ajo cortada al medio horizontalmente",
+          "2 cucharadas de pasta concentrada de tomate",
+          "3 cucharadas de aceite de oliva virgen extra"
+        ]
+      },
+      {
+        "name": "Aromáticos y Potenciadores Umami",
+        "items": [
+          "30 g de hongos shiitake secos (o boletus secos)",
+          "1 tira de 10 cm de alga kombu seca",
+          "150 ml de vino tinto seco",
+          "2 cucharadas de salsa de soja fermentada naturalmente (tamari)",
+          "3 ramas de tomillo fresco, 2 hojas de laurel y tallos de perejil",
+          "2,5 litros de agua fría"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Paso 1: Caramelización profunda al horno",
+        "steps": [
+          "Precalentá el horno a 220 °C. En una asadera grande, disponé las cebollas apoyadas sobre el corte, las zanahorias, los puerros, los portobellos y la cabeza de ajo.",
+          "Pincelá los vegetales con el aceite de oliva y embadurná con la pasta de tomate. Horneá durante 35 a 40 minutos hasta lograr un tostado oscuro caramelizado sin quemarse en ceniza."
+        ]
+      },
+      {
+        "name": "Paso 2: Desglasado de la asadera e infusión",
+        "steps": [
+          "Pasá todos los vegetales asados a una olla grande. Apoyá la asadera caliente sobre la hornalla a fuego medio, verté el vino tinto y raspá los sedimentos caramelizados pegados al fondo con una espátula de madera.",
+          "Volcá esa reducción de vino y jugos tostados dentro de la olla con los vegetales.",
+          "Agregá los hongos shiitake secos, el alga kombu, el tomillo, laurel, salsa de soja y los 2,5 litros de agua fría."
+        ]
+      },
+      {
+        "name": "Paso 3: Cocción lenta, colado y reducción",
+        "steps": [
+          "Llevá a fuego medio hasta que comience a hervir y bajá a fuego lento durante 1 hora y media con la olla semitapada para que los hongos liberen todo su glutamato.",
+          "A los 45 minutos de cocción, retirá la tira de alga kombu para que no aporte notas amargas.",
+          "Apagá el fuego, dejá asentar 15 minutos y colá por tamiz fino presionando suavemente los vegetales con el dorso de un cucharón para extraer los jugos concentrados."
+        ]
+      }
+    ],
+    "notes": "La sinergia del umami vegetal: Al combinar el ácido glutámico presente en los tomates asados y el alga kombu con el guanilato de los hongos shiitake secos, se produce un efecto multiplicador en las papilas gustativas que genera una sensación de carnosidad y redondez sin utilizar ni un solo gramo de proteína animal.",
+    "image": "https://lh3.googleusercontent.com/-4jPno50E0Ao/awXhLIz77_I/AAAAAAAQDfE/xDdnuqOrsYcwQcFYgcFMCtjaDPcm-EgbwCNcBGAsYHQ/s1600/caldo_oscuro_vegetales_tostados_hongos_fusion.jpg",
+    "steps": [
+      "Precalentá el horno a 220 °C. En una asadera grande, disponé las cebollas apoyadas sobre el corte, las zanahorias, los puerros, los portobellos y la cabeza de ajo.",
+      "Pincelá los vegetales con el aceite de oliva y embadurná con la pasta de tomate. Horneá durante 35 a 40 minutos hasta lograr un tostado oscuro caramelizado sin quemarse en ceniza.",
+      "Pasá todos los vegetales asados a una olla grande. Apoyá la asadera caliente sobre la hornalla a fuego medio, verté el vino tinto y raspá los sedimentos caramelizados pegados al fondo con una espátula de madera.",
+      "Volcá esa reducción de vino y jugos tostados dentro de la olla con los vegetales.",
+      "Agregá los hongos shiitake secos, el alga kombu, el tomillo, laurel, salsa de soja y los 2,5 litros de agua fría.",
+      "Llevá a fuego medio hasta que comience a hervir y bajá a fuego lento durante 1 hora y media con la olla semitapada para que los hongos liberen todo su glutamato.",
+      "A los 45 minutos de cocción, retirá la tira de alga kombu para que no aporte notas amargas.",
+      "Apagá el fuego, dejá asentar 15 minutos y colá por tamiz fino presionando suavemente los vegetales con el dorso de un cucharón para extraer los jugos concentrados."
+    ],
+    "ingredients": [
+      "3 cebollas grandes con piel lavada, cortadas transversalmente al medio",
+      "3 zanahorias grandes, cortadas en rodajas gruesas",
+      "2 puerros grandes cortados en trozos de 5 cm",
+      "300 g de champiñones portobello frescos cortados al medio",
+      "1 cabeza entera de ajo cortada al medio horizontalmente",
+      "2 cucharadas de pasta concentrada de tomate",
+      "3 cucharadas de aceite de oliva virgen extra",
+      "30 g de hongos shiitake secos (o boletus secos)",
+      "1 tira de 10 cm de alga kombu seca",
+      "150 ml de vino tinto seco",
+      "2 cucharadas de salsa de soja fermentada naturalmente (tamari)",
+      "3 ramas de tomillo fresco, 2 hojas de laurel y tallos de perejil",
+      "2,5 litros de agua fría"
+    ]
+  },
+  {
+    "id": 817,
+    "title": "Caldo de Jamón Curado (España)",
+    "country": "España",
+    "category": "Sopas & Caldos",
+    "tags": [
+      "España",
+      "Jamón",
+      "Cerdo",
+      "Caldos",
+      "Sopas",
+      "Castilla",
+      "Tradición",
+      "Bases"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "2 h 30 min",
+    "rest_time": "12 horas de desalado previo del hueso",
+    "temperature": "90 °C - 95 °C (hervor suave)",
+    "servings": "Aprox. 2 litros de caldo concentrado",
+    "calories": "55 kcal por taza (250 ml)",
+    "diet_badges": [
+      "Sin Gluten",
+      "Sin Lácteos",
+      "Keto",
+      "Alto en Sabor"
+    ],
+    "story": "Pilar fundamental de la cocina popular de Castilla, León y Galicia, el caldo de jamón curado surgió en los hogares rurales como el aprovechamiento sagrado de los huesos tras la matanza del cerdo y el curado en bodega. Es la médula gustativa de los cocidos invernales, las sopas de ajo castellanas y la cocina de taberna más arraigada de España.",
+    "ingredient_groups": [
+      {
+        "name": "Huesos Curados y Carne",
+        "items": [
+          "1 kg de huesos de jamón serrano o ibérico curado (con carne y tocino adherido, limpios de zonas amarillentas rancias)",
+          "1 punta de jamón curado o codillo salado"
+        ]
+      },
+      {
+        "name": "Verduras de Fondo",
+        "items": [
+          "2 puerros limpios en trozos gruesos",
+          "2 zanahorias medianas peladas",
+          "1 cebolla dorada cortada al medio y tostada en seco sobre la plancha",
+          "1 rama de apio",
+          "1 trozo de nabo o col blanca",
+          "1 hoja de laurel",
+          "3 litros de agua fría (sin sal añadida)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Paso 1: Desalado y escaldado del hueso de jamón",
+        "steps": [
+          "Colocá los huesos de jamón en un recipiente cubiertos de agua fría y dejalos en la heladera durante 12 horas para atenuar el exceso de salazón.",
+          "En una olla amplia, cubrí los huesos desalados con agua fría limpia, llevalos a hervor vigoroso durante 5 minutos y escurrilos tirando esa primera agua para eliminar impurezas."
+        ]
+      },
+      {
+        "name": "Paso 2: Fusión lenta con vegetales",
+        "steps": [
+          "Enjuagá la olla, volvé a colocar los huesos escaldados y sumá la punta de jamón junto con los puerros, las zanahorias, el apio, el nabo, el laurel y la cebolla tostada.",
+          "Cubrí con los 3 litros de agua fría y llevalo a fuego medio-alto. Apenas rompa el hervor, espumá la superficie con una espumadera.",
+          "Bajá a fuego mínimo y cociná durante 2 horas y media manteniendo un borboteo suave. No agregues sal bajo ninguna circunstancia, ya que el hueso aportará toda la salazón necesaria."
+        ]
+      },
+      {
+        "name": "Paso 3: Colado y enfriado para desgrasar",
+        "steps": [
+          "Retirá los huesos y verduras con pinzas.",
+          "Colá el caldo caliente a través de una estameña o colador fino.",
+          "Llevalo a la heladera durante la noche para que la grasa solidifique en una capa superficial que podrás retirar con cuchara, dejando un caldo ámbar brillante, limpio y profundamente aromático."
+        ]
+      }
+    ],
+    "notes": "Cuidado con el rancio y la sal: Inspeccioná siempre los huesos de jamón antes de cocinarlos: si tienen grasa externa de color amarillo oscuro o marrón oxidado, raspala y retirala con un cuchillo antes del escaldado. El hueso ideal debe oler a bodega fresca y jamón curado noble, nunca a aceite oxidado.",
+    "image": "https://lh3.googleusercontent.com/-QuAvTtaxWSk/awXhMNP8VVI/AAAAAAAQDfM/Fw5EMd1s5LE0aoSVehUNI7_O90jftS2RgCNcBGAsYHQ/s1600/caldo_jamon_curado_espana.jpg",
+    "steps": [
+      "Colocá los huesos de jamón en un recipiente cubiertos de agua fría y dejalos en la heladera durante 12 horas para atenuar el exceso de salazón.",
+      "En una olla amplia, cubrí los huesos desalados con agua fría limpia, llevalos a hervor vigoroso durante 5 minutos y escurrilos tirando esa primera agua para eliminar impurezas.",
+      "Enjuagá la olla, volvé a colocar los huesos escaldados y sumá la punta de jamón junto con los puerros, las zanahorias, el apio, el nabo, el laurel y la cebolla tostada.",
+      "Cubrí con los 3 litros de agua fría y llevalo a fuego medio-alto. Apenas rompa el hervor, espumá la superficie con una espumadera.",
+      "Bajá a fuego mínimo y cociná durante 2 horas y media manteniendo un borboteo suave. No agregues sal bajo ninguna circunstancia, ya que el hueso aportará toda la salazón necesaria.",
+      "Retirá los huesos y verduras con pinzas.",
+      "Colá el caldo caliente a través de una estameña o colador fino.",
+      "Llevalo a la heladera durante la noche para que la grasa solidifique en una capa superficial que podrás retirar con cuchara, dejando un caldo ámbar brillante, limpio y profundamente aromático."
+    ],
+    "ingredients": [
+      "1 kg de huesos de jamón serrano o ibérico curado (con carne y tocino adherido, limpios de zonas amarillentas rancias)",
+      "1 punta de jamón curado o codillo salado",
+      "2 puerros limpios en trozos gruesos",
+      "2 zanahorias medianas peladas",
+      "1 cebolla dorada cortada al medio y tostada en seco sobre la plancha",
+      "1 rama de apio",
+      "1 trozo de nabo o col blanca",
+      "1 hoja de laurel",
+      "3 litros de agua fría (sin sal añadida)"
+    ]
+  },
+  {
+    "id": 818,
+    "title": "Brodo Misto (Italia)",
+    "country": "Italia",
+    "category": "Sopas & Caldos",
+    "tags": [
+      "Italia",
+      "Brodo",
+      "Emilia-Romaña",
+      "Caldos",
+      "Sopas",
+      "Carne",
+      "Fiesta",
+      "Bases"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "3 h 30 min",
+    "rest_time": "20 min de reposo antes de desgrasar",
+    "temperature": "85 °C - 90 °C (fuego muy bajo, sobullire)",
+    "servings": "Aprox. 2,5 litros de caldo imperial",
+    "calories": "50 kcal por taza (250 ml)",
+    "diet_badges": [
+      "Sin Gluten",
+      "Sin Lácteos",
+      "Keto",
+      "Tradición"
+    ],
+    "story": "El brodo di carne misto es el alma dominical y festiva de la región de Emilia-Romaña, protagonista indiscutible de las mesas de Navidad en Bolonia y Módena para acompañar los legendarios tortellini. Su elaboración ancestral reúne tres carnes distintas en armonía, logrando un balance de aromas, grasa dorada y cuerpo que ninguna carne aislada puede alcanzar.",
+    "ingredient_groups": [
+      {
+        "name": "La Tríada de Carnes",
+        "items": [
+          "800 g de carne vacuna con hueso (falda, tapa de asado o garrón de ternera)",
+          "600 g de gallina vieja o capón campero (cuartos traseros o media gallina con piel)",
+          "400 g de carne de cerdo (costilla fresca, codillo o trozo de jamón magro)",
+          "1 hueso de caña vacuno con caracú (tuétano)"
+        ]
+      },
+      {
+        "name": "Odori y Aromáticos (Mirepoix Italiano)",
+        "items": [
+          "2 cebollas doradas medianas con piel, cortadas al medio y tostadas en seco en sartén",
+          "2 zanahorias grandes peladas y cortadas al medio",
+          "2 ramas gruesas de apio con sus hojas",
+          "1 tomate maduro entero (aporta acidez para clarificar y color dorado)",
+          "1 ramillete de perejil fresco con tallos",
+          "6 granos de pimienta negra entera",
+          "1 cucharada de sal gruesa",
+          "4 litros de agua mineral fría"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Paso 1: Inicio en frío y espumado riguroso",
+        "steps": [
+          "En una olla grande y alta, colocá la carne vacuna, la gallina, el cerdo y el hueso con caracú. Cubrí con los 4 litros de agua fría.",
+          "Llevá a fuego medio-bajo lentamente. A medida que el agua se calienta, las proteínas coagulan y suben a la superficie en forma de espuma espesa.",
+          "Con una espumadera, retirá minuciosamente toda la espuma durante los primeros 25 a 30 minutos hasta que el caldo quede completamente despejado y limpio."
+        ]
+      },
+      {
+        "name": "Paso 2: Incorporación de aromas y cocción imperceptible (sobullire)",
+        "steps": [
+          "Una vez limpio el caldo, incorporá las cebollas tostadas, zanahorias, apio, tomate entero, perejil, pimienta y sal gruesa.",
+          "Bajá el fuego a mínimo absoluto: el caldo debe apenas temblar con una burbuja ocasional en los bordes. Tapá la olla dejando una pequeña rendija.",
+          "Cociná durante 3 horas y media con paciencia, sin revolver para no enturbiar el líquido."
+        ]
+      },
+      {
+        "name": "Paso 3: Colado magistral y servicio",
+        "steps": [
+          "Retirá las carnes con espumadera (se reservan para servir por separado como bollito misto) y descartá los vegetales agotados.",
+          "Filtrá el brodo a través de un colador chino forrado con un lienzo de lino limpio humedecido.",
+          "Dejá enfriar y retirá el exceso de grasa dorada de la superficie. El brodo debe quedar límpido, aromático, de color oro brillante y con una untuosidad pura ideal para cocer tortellini o passatelli."
+        ]
+      }
+    ],
+    "notes": "El secreto emiliano de la cebolla tostada: Cortar una cebolla al medio y quemar sus caras directamente sobre una sartén de hierro bien caliente sin aceite hasta que queden casi negras caramelizadas no solo aporta un color dorado radiante al caldo, sino que fija la transparencia natural del brodo sin necesidad de clarificaciones artificiales con claras de huevo.",
+    "image": "https://lh3.googleusercontent.com/-zwTtO55W-JQ/awXhMyKU8BI/AAAAAAAQDfU/zS1LvjYo-cUmSwPqEUY3V064md3SQJ3WgCNcBGAsYHQ/s1600/brodo_misto_italia.jpg",
+    "steps": [
+      "En una olla grande y alta, colocá la carne vacuna, la gallina, el cerdo y el hueso con caracú. Cubrí con los 4 litros de agua fría.",
+      "Llevá a fuego medio-bajo lentamente. A medida que el agua se calienta, las proteínas coagulan y suben a la superficie en forma de espuma espesa.",
+      "Con una espumadera, retirá minuciosamente toda la espuma durante los primeros 25 a 30 minutos hasta que el caldo quede completamente despejado y limpio.",
+      "Una vez limpio el caldo, incorporá las cebollas tostadas, zanahorias, apio, tomate entero, perejil, pimienta y sal gruesa.",
+      "Bajá el fuego a mínimo absoluto: el caldo debe apenas temblar con una burbuja ocasional en los bordes. Tapá la olla dejando una pequeña rendija.",
+      "Cociná durante 3 horas y media con paciencia, sin revolver para no enturbiar el líquido.",
+      "Retirá las carnes con espumadera (se reservan para servir por separado como bollito misto) y descartá los vegetales agotados.",
+      "Filtrá el brodo a través de un colador chino forrado con un lienzo de lino limpio humedecido.",
+      "Dejá enfriar y retirá el exceso de grasa dorada de la superficie. El brodo debe quedar límpido, aromático, de color oro brillante y con una untuosidad pura ideal para cocer tortellini o passatelli."
+    ],
+    "ingredients": [
+      "800 g de carne vacuna con hueso (falda, tapa de asado o garrón de ternera)",
+      "600 g de gallina vieja o capón campero (cuartos traseros o media gallina con piel)",
+      "400 g de carne de cerdo (costilla fresca, codillo o trozo de jamón magro)",
+      "1 hueso de caña vacuno con caracú (tuétano)",
+      "2 cebollas doradas medianas con piel, cortadas al medio y tostadas en seco en sartén",
+      "2 zanahorias grandes peladas y cortadas al medio",
+      "2 ramas gruesas de apio con sus hojas",
+      "1 tomate maduro entero (aporta acidez para clarificar y color dorado)",
+      "1 ramillete de perejil fresco con tallos",
+      "6 granos de pimienta negra entera",
+      "1 cucharada de sal gruesa",
+      "4 litros de agua mineral fría"
+    ]
   }
 ]
