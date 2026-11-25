@@ -8342,5 +8342,305 @@
       "1 large carrot, cut into thick slices",
       "1 large onion, cut into quarters"
     ]
+  },
+  "839": {
+    "title_en": "Lomo Saltado (Peru)",
+    "hook_en": "Lomo saltado is the culinary emblem par excellence of Chifa fusion, which emerged in Lima at the end of the 19th century with the arrival of Cantonese immigrants.",
+    "ingredients_en": [
+      "600 g beef tenderloin cut into thick strips",
+      "2 red onions cut into thick wedges",
+      "2 ripe but firm tomatoes, cut into wedges",
+      "1 fresh yellow pepper without veins, cut into fine julienne"
+    ]
+  },
+  "840": {
+    "title_en": "Causa Limeña de Tuna (Peru)",
+    "hook_en": "The Causa Lima has deep pre-Columbian roots associated with the domestication of the Andean yellow potato, consolidating itself as a patriotic dish during the...",
+    "ingredients_en": [
+      "1 kg of Andean yellow potatoes",
+      "4 tablespoons of pure yellow chili paste",
+      "Juice of 3 subtle lemons or fresh limes",
+      "3 tablespoons vegetable or corn oil"
+    ]
+  },
+  "841": {
+    "title_en": "Papa a la Huancaína (Peru)",
+    "hook_en": "Originally from the Andean region of Junín at the end of the 19th century, the papa a la huancaína was born in the context of the construction of the Central Railway of Peru.",
+    "ingredients_en": [
+      "1 kg firm parboiled white or yellow potatoes",
+      "5 fresh yellow peppers without seeds or veins",
+      "250 g of fresh cheese or firm ricotta",
+      "1/2 cup evaporated milk"
+    ]
+  },
+  "842": {
+    "title_en": "Anticuchos de Corazón (Peru)",
+    "hook_en": "Of pre-Hispanic heritage in the use of meat skewered on poles, the anticucho acquired its mestizo and Afro-Peruvian identity in the colonial kitchens of Lima,...",
+    "ingredients_en": [
+      "1 clean beef heart (approximately 1 kg)",
+      "1/2 cup of ground panca chili paste",
+      "1/2 cup red wine vinegar",
+      "4 cloves of garlic, crushed"
+    ]
+  },
+  "843": {
+    "title_en": "Beef Seco with Beans (Peru)",
+    "hook_en": "Seco is one of the most representative stews of the northern Peruvian coast, with roots in the old Viceroyalty where braising techniques were combined...",
+    "ingredients_en": [
+      "1 kg of beef (ossobuco cut, skirt or strip roast) cut into large pieces",
+      "1 large cup of fresh coriander leaves blended with a splash of water",
+      "1 red onion, chopped into fine cubes",
+      "3 tablespoons yellow chili paste"
+    ]
+  },
+  "844": {
+    "title_en": "Chicken Coxinhas (Brazil)",
+    "hook_en": "Born in the state of São Paulo during the industrialization of the 19th century, coxinhas emerged to make the consumption of the appreciated chicken legs cheaper...",
+    "ingredients_en": [
+      "500 g of cooked and finely shredded chicken breast",
+      "2 cups of chicken cooking broth",
+      "2 cups of wheat flour 0000",
+      "2 tablespoons unsalted butter"
+    ]
+  },
+  "845": {
+    "title_en": "Chocolate Brigadeiros (Brazil)",
+    "hook_en": "The brigadeiro was created in Rio de Janeiro in 1946 during the presidential campaign of Brigadier Eduardo Gomes.",
+    "ingredients_en": [
+      "1 can (395 g) premium condensed milk",
+      "3 tablespoons bitter cocoa powder (100% pure)",
+      "1 heaped tablespoon (25 g) unsalted butter",
+      "1 cup good quality dark chocolate sprinkles (granulated chocolate)"
+    ]
+  },
+  "846": {
+    "title_en": "Bobó de Camarão (Brazil)",
+    "hook_en": "Originally from the state of Bahia, bobó de camarão is one of the greatest expressions of Afro-Brazilian cuisine, where the ancestral puree of cassava...",
+    "ingredients_en": [
+      "800 g of cleaned shrimp or prawns",
+      "700 g of cassava (cassava) peeled and without central strand",
+      "400 ml thick coconut milk",
+      "3 tablespoons dendê oil (palm oil)"
+    ]
+  },
+  "847": {
+    "title_en": "Escondidinho de Carne Seca (Brazil)",
+    "hook_en": "Born in the backlands of Northeast Brazil, the escondidinho owes its name to the ingenious setup where the sun-cured meat (dried or sun-dried meat) is 'esc...",
+    "ingredients_en": [
+      "600 g of desalted and shredded dried meat or jerky",
+      "1 kg of peeled cassava",
+      "1 cup warm whole milk",
+      "3 tablespoons unsalted butter"
+    ]
+  },
+  "848": {
+    "title_en": "Pasteis de Nata (Portugal)",
+    "hook_en": "Created before the 18th century by the Hieronymite monks of the Monastery of Santa Maria de Belém in Lisbon, pasteis de nata were born from surplus yolks...",
+    "ingredients_en": [
+      "300 g of good quality puff pastry (with butter)",
+      "250 ml whole milk",
+      "150 g white sugar",
+      "100 ml of water"
+    ]
+  },
+  "849": {
+    "title_en": "Bacalhau à Brás (Portugal)",
+    "hook_en": "Created at the end of the 19th century by the innkeeper Senhor Brás in the traditional Bairro Alto of Lisbon, this dish is one of the most traditional cod preparations...",
+    "ingredients_en": [
+      "400 g of desalted cod, cleaned of skin and bones, crumbled",
+      "400 g of potatoes cut into thin sticks (straw potatoes)",
+      "5 large free-range eggs",
+      "2 medium onions cut into very fine julienne strips"
+    ]
+  },
+  "850": {
+    "title_en": "Caldo Verde (Portugal)",
+    "hook_en": "Originating in the historic northern province of Minho, Caldo Verde is considered Portugal's national stew par excellence, ubiquitous in...",
+    "ingredients_en": [
+      "600 g floury potatoes, peeled and chopped",
+      "200 g green cabbage or kale cut into very fine strands (chiffonade)",
+      "1 medium onion, chopped",
+      "2 whole cloves of garlic, crushed"
+    ]
+  },
+  "851": {
+    "title_en": "Polvo à Lagareiro (Portugal)",
+    "hook_en": "The term 'lagareiro' pays homage to the workers of the olive oil presses in Portugal, where the first pressing of...",
+    "ingredients_en": [
+      "1 whole octopus of 1.5 kg (cleaned)",
+      "800 g small roast potatoes with skin (baby type)",
+      "1 whole head of garlic divided into lightly crushed cloves with skin",
+      "1 cup (200 ml) of highest quality extra virgin olive oil"
+    ]
+  },
+  "852": {
+    "title_en": "Chicken Tikka Masala (India)",
+    "hook_en": "Chicken tikka masala is the definitive culinary bridge between the Mughal cuisine of northern India and the taverns of South Asian immigrants in the United Kingdom...",
+    "ingredients_en": [
+      "800 g boneless chicken breast or thigh, cut into medium cubes",
+      "1/2 cup unsweetened plain Greek yogurt",
+      "2 tablespoons fresh lemon juice",
+      "2 tablespoons fresh ginger and garlic paste"
+    ]
+  },
+  "853": {
+    "title_en": "Butter Chicken (India)",
+    "hook_en": "The murgh makhani or butter chicken was conceived in New Delhi in the 1950s by Kundan Lal Gujral in the legendary Moti Mahal restaurant.",
+    "ingredients_en": [
+      "800 g boneless chicken thighs, cut into pieces",
+      "1/2 cup of whole natural yogurt",
+      "2 tablespoons ginger-garlic paste",
+      "1 tablespoon sweet paprika or Kashmiri chilli"
+    ]
+  },
+  "854": {
+    "title_en": "Palak Paneer (India)",
+    "hook_en": "Originating from the fertile fields of Punjab in northern India, palak paneer is one of the most beloved vegetarian dishes in southern cuisine...",
+    "ingredients_en": [
+      "350 g paneer cheese cut into 2 cm cubes",
+      "500 g of fresh spinach, well washed and without thick stems",
+      "1 medium onion finely chopped",
+      "2 ripe tomatoes, crushed"
+    ]
+  },
+  "855": {
+    "title_en": "Chana Masala (India)",
+    "hook_en": "Chana masala (or chole) is the mainstay of the daily diet throughout northern India, consumed both at festive breakfasts and at street stalls...",
+    "ingredients_en": [
+      "500 g tender cooked chickpeas (or 2 drained cans)",
+      "1 large onion finely chopped",
+      "3 ripe tomatoes, finely chopped",
+      "1 heaping tablespoon ginger-garlic paste"
+    ]
+  },
+  "856": {
+    "title_en": "Naan Bread (India)",
+    "hook_en": "First mentioned in court chronicles by the poet Amir Kushrau in the 14th century at the court of the Delhi Sultanate, naan bread was a reserved delicacy...",
+    "ingredients_en": [
+      "500 g of strength wheat flour or 000",
+      "150 g of natural unsweetened yogurt at room temperature",
+      "180 ml warm water",
+      "1 teaspoon active dry yeast (5 g)"
+    ]
+  },
+  "857": {
+    "title_en": "Lamb Tagine with Plums (Morocco)",
+    "hook_en": "Lamb tagine with plums (Mrouzia) is one of the most sumptuous dishes on the imperial tables of Fez and Marrakech, traditionally cooked during...",
+    "ingredients_en": [
+      "1.2 kg shoulder or leg of lamb cut into large pieces with bone",
+      "200 g pitted dried prunes",
+      "2 medium onions finely grated",
+      "3 cloves of garlic, minced"
+    ]
+  },
+  "858": {
+    "title_en": "Chicken Pastilla (Morocco)",
+    "hook_en": "Of Spanish-Muslim heritage brought to North Africa after the fall of Al-Andalus in 1492, the pastilla (bastilla) reached its maximum sophistication in the pa...",
+    "ingredients_en": [
+      "800 g of boneless chicken breast and thigh",
+      "12 sheets of filo dough or warka dough",
+      "3 large onions finely chopped",
+      "4 free-range eggs, beaten"
+    ]
+  },
+  "859": {
+    "title_en": "Harira Soup (Morocco)",
+    "hook_en": "Harira is the liquid soul of Morocco, emblematic for being the dish with which millions of families break the Ramadan fast (iftar) daily.",
+    "ingredients_en": [
+      "250 g lamb or beef cut into small cubes",
+      "1 cup peeled soaked chickpeas",
+      "1/2 cup of pardine lentils",
+      "500 g ripe tomatoes, grated or crushed"
+    ]
+  },
+  "860": {
+    "title_en": "Koshari (Egypt)",
+    "hook_en": "Koshari emerged on the bustling streets of Cairo in the mid-19th century, reflecting the multicultural crossover of the time between the British garnish...",
+    "ingredients_en": [
+      "1 cup brown lentils cooked al dente",
+      "1 cup of cooked white rice",
+      "1 cup golden angel hair noodles in oil",
+      "1 cup of short macaroni or cooked elbow pasta"
+    ]
+  },
+  "861": {
+    "title_en": "Currywurst (Germany)",
+    "hook_en": "Currywurst was invented in West Berlin in 1949 by Herta Heuwer at her street stall in the Charlottenburg neighborhood.",
+    "ingredients_en": [
+      "4 premium quality German pork Bratwurst or Bockwurst sausages",
+      "1 cup tomato puree or thick passata",
+      "3 tablespoons of good quality ketchup",
+      "2 tablespoons sweet or madras curry powder (plus extra for sprinkling)"
+    ]
+  },
+  "862": {
+    "title_en": "Brezel (Germany)",
+    "hook_en": "The brezel is a baking symbol of Bavaria and southern Germany since the Middle Ages, documented in guild emblems since the 12th century.",
+    "ingredients_en": [
+      "500 g of 000 strength wheat flour",
+      "280 ml warm water",
+      "7 g dry baker's yeast (or 20 g fresh yeast)",
+      "1 teaspoon sugar"
+    ]
+  },
+  "863": {
+    "title_en": "Wiener Schnitzel (Austria)",
+    "hook_en": "Authentic Wiener Schnitzel is protected by law in Austria and must be made exclusively from thin fillets of dairy veal (Kalbsschnitzel).",
+    "ingredients_en": [
+      "4 tender beef fillets (beef buttock or loin ball) of about 160 g each",
+      "1/2 cup of wheat flour 0000",
+      "2 free-range eggs lightly beaten with a pinch of salt",
+      "1 and a half cups of homemade breadcrumbs (white bread without crust)"
+    ]
+  },
+  "864": {
+    "title_en": "Chicken Paprikash (Hungary)",
+    "hook_en": "Csirkepaprikás (chicken paprikash) is one of the four great culinary pillars of Hungary along with gulyás, pörkölt and tokány.",
+    "ingredients_en": [
+      "1 kg of chicken cut into pieces (thighs and thighs with skin and bone)",
+      "2 medium yellow onions, finely diced",
+      "2 cloves of garlic, minced",
+      "3 heaped tablespoons genuine Hungarian sweet paprika (édes nemes)"
+    ]
+  },
+  "865": {
+    "title_en": "Nasi Goreng (Indonesia)",
+    "hook_en": "Nasi goreng is considered one of the undisputed national dishes of Indonesia, historically emerging as a wise peasant technique to revitalize...",
+    "ingredients_en": [
+      "4 cups of white rice cooked from the day before (firm grain and very cold)",
+      "200 g chicken breast cut into thin strips or cleaned shrimp",
+      "4 Asian shallots (or 1 small red onion) finely chopped",
+      "3 cloves of garlic, minced"
+    ]
+  },
+  "866": {
+    "title_en": "Beef Rendang (Indonesia)",
+    "hook_en": "Originating from the Minangkabau people in western Sumatra, rendang was created as a preservation method for long trading voyages and celebrations...",
+    "ingredients_en": [
+      "1 kg of beef for stew (needle cut or blood sausage) cut into large 4 cm cubes",
+      "800ml Premium Thick Coconut Milk",
+      "2 stalks of lemongrass, crushed",
+      "4 hand-broken kaffir lime leaves"
+    ]
+  },
+  "867": {
+    "title_en": "Pho Bo (Vietnam)",
+    "hook_en": "Born in the northern province of Nam Định and popularized in Hanoi at the beginning of the 20th century, phở bò represents the synthesis between the rich tradition of...",
+    "ingredients_en": [
+      "1.5 kg of beef bones with marrow and meat (ossobuco or oxtail)",
+      "300 g raw beef tenderloin cut into very thin slices (to serve immediately)",
+      "400g flat rice noodles for pho (bánh phở)",
+      "1 whole large onion, cut in half"
+    ]
+  },
+  "868": {
+    "title_en": "Falafel (Egypt)",
+    "hook_en": "Falafel (known as ta'ameya in Egypt) has its oldest historical roots in the Coptic Christian communities of the Nile Valley, who identified it...",
+    "ingredients_en": [
+      "400 g dried chickpeas (or a mixture of chickpeas and peeled dried beans), soaked for 12 hours (NEVER canned)",
+      "1 heaping cup fresh flat-leaf parsley",
+      "1 heaping cup of fresh cilantro",
+      "1 medium onion chopped"
+    ]
   }
 }
