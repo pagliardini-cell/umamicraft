@@ -89113,5 +89113,2644 @@
       "Devolvé el pollo, las cebollitas caramelizadas y los champiñones a la cacerola caliente durante 3 minutos para unificar.",
       "Serví caliente en cazuela, espolvoreá con perejil fresco y acompañá con papas al vapor o puré cremoso."
     ]
+  },
+  {
+    "id": 839,
+    "title": "Lomo Saltado (Perú)",
+    "category": "Carnes",
+    "country": "Perú",
+    "prep_time": "20 min",
+    "cook_time": "10 min",
+    "servings": "4 porciones",
+    "calories": "560 kcal",
+    "image": "https://lh3.googleusercontent.com/-SD7bVs15n9c/awZPvsuDGrI/AAAAAAAQDmI/SG_gjPYj-AQE1KZu778zUYqB-gXrfJLhwCNcBGAsYHQ/s1600/lomo_saltado_peru.jpg",
+    "diet_badges": [
+      "Cocina Chifa",
+      "Salteado Criollo"
+    ],
+    "tags": [
+      "lomo saltado",
+      "peru",
+      "chifa",
+      "wok",
+      "lomo",
+      "papas fritas",
+      "aji amarillo",
+      "salsa de soja"
+    ],
+    "story": "El lomo saltado es el emblema culinario por excelencia de la fusión chifa, surgida en Lima a finales del siglo XIX con la llegada de los inmigrantes cantoneses. La técnica del salteado vigoroso al wok a fuego vivo se integró con los insumos autóctonos peruanos, como el ají amarillo, la cebolla morada y las papas andinas.",
+    "ingredients": [
+      "600 g de lomo de res cortado en tiras gruesas",
+      "2 cebollas moradas cortadas en gajos gruesos",
+      "2 tomates maduros pero firmes cortados en gajos",
+      "1 ají amarillo fresco sin venas cortado en juliana fina",
+      "3 dientes de ajo picados finamente",
+      "3 cucharadas de salsa de soja (sillao)",
+      "2 cucharadas de vinagre de vino tinto",
+      "1 cucharada de salsa de ostras",
+      "3 tallos de cebolla de verdeo (parte verde) cortados al bies",
+      "4 cucharadas de aceite vegetal neutro",
+      "Hojas de cilantro fresco picadas",
+      "Sal y pimienta negra recién molida",
+      "Papas fritas crocantes para acompañar",
+      "Arroz blanco cocido para servir"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Carne y Salteado",
+        "ingredients": [
+          "600 g de lomo de res cortado en tiras gruesas",
+          "2 cebollas moradas cortadas en gajos gruesos",
+          "2 tomates maduros pero firmes cortados en gajos",
+          "1 ají amarillo fresco sin venas cortado en juliana fina",
+          "3 dientes de ajo picados finamente",
+          "3 tallos de cebolla de verdeo (parte verde) cortados al bies",
+          "4 cucharadas de aceite vegetal neutro",
+          "Hojas de cilantro fresco picadas",
+          "Sal y pimienta negra recién molida"
+        ]
+      },
+      {
+        "name": "Salsa y Guarnición",
+        "ingredients": [
+          "3 cucharadas de salsa de soja (sillao)",
+          "2 cucharadas de vinagre de vino tinto",
+          "1 cucharada de salsa de ostras",
+          "Papas fritas crocantes para acompañar",
+          "Arroz blanco cocido para servir"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Sellado y Salteado al Wok",
+        "steps": [
+          "Salpimentá las tiras de lomo de res generosamente.",
+          "Calentá un wok o sartén de fondo grueso a fuego máximo con dos cucharadas de aceite hasta que empiece a humear levemente.",
+          "Dorá la carne en dos tandas sin moverla durante el primer minuto para lograr un buen caramelizado; salteala rápidamente durante 2 minutos y reservala en un plato.",
+          "En el mismo wok humeante, agregá un hilo de aceite y salteá los ajos con la cebolla morada y el ají amarillo durante 1 minuto a fuego vivo manteniendo los vegetales crujientes.",
+          "Sumá los tomates en gajos y reincorporá la carne reservada con todos sus jugos acumulados.",
+          "Verté el vinagre tinto por los bordes calientes del wok para levantar el fondo de cocción, seguido de la salsa de soja y la salsa de ostras.",
+          "Salteá a fuego vivo 30 segundos más, apagá el fuego y añadí la cebolla de verdeo y el cilantro fresco picado.",
+          "Serví de inmediato acompañado de papas fritas recién hechas y arroz blanco bien graneado."
+        ]
+      }
+    ],
+    "steps": [
+      "Salpimentá las tiras de lomo de res generosamente.",
+      "Calentá un wok o sartén de fondo grueso a fuego máximo con dos cucharadas de aceite hasta que empiece a humear levemente.",
+      "Dorá la carne en dos tandas sin moverla durante el primer minuto para lograr un buen caramelizado; salteala rápidamente durante 2 minutos y reservala en un plato.",
+      "En el mismo wok humeante, agregá un hilo de aceite y salteá los ajos con la cebolla morada y el ají amarillo durante 1 minuto a fuego vivo manteniendo los vegetales crujientes.",
+      "Sumá los tomates en gajos y reincorporá la carne reservada con todos sus jugos acumulados.",
+      "Verté el vinagre tinto por los bordes calientes del wok para levantar el fondo de cocción, seguido de la salsa de soja y la salsa de ostras.",
+      "Salteá a fuego vivo 30 segundos más, apagá el fuego y añadí la cebolla de verdeo y el cilantro fresco picado.",
+      "Serví de inmediato acompañado de papas fritas recién hechas y arroz blanco bien graneado."
+    ],
+    "notes": "El secreto del lomo saltado radica en la temperatura infernal del wok: la carne debe sellarse sin hervirse y los gajos de cebolla y tomate deben quedar crocantes y jugosos por dentro."
+  },
+  {
+    "id": 840,
+    "title": "Causa Limeña de Atún (Perú)",
+    "category": "Entradas",
+    "country": "Perú",
+    "prep_time": "35 min",
+    "cook_time": "25 min",
+    "servings": "6 porciones",
+    "calories": "390 kcal",
+    "image": "https://lh3.googleusercontent.com/-o4erWFd-Yv4/awZPwysN5wI/AAAAAAAQDmQ/8wvtmoprZkU5ZFcNj5ff4oN1wlaTr7pkACNcBGAsYHQ/s1600/causa_limena_atun.jpg",
+    "diet_badges": [
+      "Sin Gluten",
+      "Entrada Fría Tradicional"
+    ],
+    "tags": [
+      "causa limena",
+      "peru",
+      "papa amarilla",
+      "aji amarillo",
+      "atun",
+      "palta",
+      "mayonesa"
+    ],
+    "story": "La causa limeña tiene profundas raíces precolombinas asociadas a la domesticación de la papa amarilla andina, consolidándose como plato patriótico durante las guerras de independencia de 1821 para alimentar a las tropas que luchaban 'por la causa'. Su elegancia cromática refleja la riqueza marina y agrícola del Perú costero.",
+    "ingredients": [
+      "1 kg de papas amarillas andinas",
+      "4 cucharadas de pasta de ají amarillo puro",
+      "Jugo de 3 limones sutil o limas frescas",
+      "3 cucharadas de aceite vegetal o de maíz",
+      "Sal fina al gusto",
+      "2 latas (320 g) de lomitos de atún en aceite escurridos",
+      "1 cebolla morada mediana cortada en brunoise diminuta",
+      "1/2 taza de mayonesa artesanal cremosa",
+      "2 paltas (aguacates) maduras en láminas finas",
+      "2 huevos duros picados o en rodajas para decorar",
+      "Aceitunas negras botija para decorar"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Masa de Papa Amarilla",
+        "ingredients": [
+          "1 kg de papas amarillas andinas",
+          "4 cucharadas de pasta de ají amarillo puro",
+          "Jugo de 3 limones sutil o limas frescas",
+          "3 cucharadas de aceite vegetal o de maíz",
+          "Sal fina al gusto"
+        ]
+      },
+      {
+        "name": "Relleno y Montaje",
+        "ingredients": [
+          "2 latas (320 g) de lomitos de atún en aceite escurridos",
+          "1 cebolla morada mediana cortada en brunoise diminuta",
+          "1/2 taza de mayonesa artesanal cremosa",
+          "2 paltas (aguacates) maduras en láminas finas",
+          "2 huevos duros picados o en rodajas para decorar",
+          "Aceitunas negras botija para decorar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación de la Masa y Relleno",
+        "steps": [
+          "Herví las papas amarillas con cáscara en agua con abundante sal hasta que estén tiernas; pelalas y prensalas inmediatamente aún calientes para lograr una textura aterciopelada y sin grumos.",
+          "Dejá enfriar el puré y amasalo incorporando la pasta de ají amarillo, el jugo de limón, el aceite vegetal y sal hasta obtener una masa maleable, sedosa y de color dorado brillante.",
+          "En un bol aparte, desmenuzá el atún y mezclalo con la cebolla morada picada, la mayonesa y una pizca de pimienta.",
+          "Para el montaje individual, utilizá un aro metálico engrasado: colocá una base generosa de masa de papa presionando suavemente.",
+          "Disponé una capa uniforme del relleno de atún, cubrí con láminas de palta y finalizá con otra capa superior de puré de papa.",
+          "Retirá el aro con cuidado, decorá con huevo duro picado y una aceituna botija, y serví bien fresca."
+        ]
+      }
+    ],
+    "steps": [
+      "Herví las papas amarillas con cáscara en agua con abundante sal hasta que estén tiernas; pelalas y prensalas inmediatamente aún calientes para lograr una textura aterciopelada y sin grumos.",
+      "Dejá enfriar el puré y amasalo incorporando la pasta de ají amarillo, el jugo de limón, el aceite vegetal y sal hasta obtener una masa maleable, sedosa y de color dorado brillante.",
+      "En un bol aparte, desmenuzá el atún y mezclalo con la cebolla morada picada, la mayonesa y una pizca de pimienta.",
+      "Para el montaje individual, utilizá un aro metálico engrasado: colocá una base generosa de masa de papa presionando suavemente.",
+      "Disponé una capa uniforme del relleno de atún, cubrí con láminas de palta y finalizá con otra capa superior de puré de papa.",
+      "Retirá el aro con cuidado, decorá con huevo duro picado y una aceituna botija, y serví bien fresca."
+    ],
+    "notes": "Prensá la papa amarilla dos veces mientras despide vapor: al enfriarse se vuelve gomosa si se manipula en exceso. El toque de acidez del limón debe equilibrarse con la suavidad grasa de la palta."
+  },
+  {
+    "id": 841,
+    "title": "Papa a la Huancaína (Perú)",
+    "category": "Entradas",
+    "country": "Perú",
+    "prep_time": "20 min",
+    "cook_time": "20 min",
+    "servings": "6 porciones",
+    "calories": "340 kcal",
+    "image": "https://lh3.googleusercontent.com/-WxUlPPifv4E/awZPyEL_0EI/AAAAAAAQDmY/FjsBuJxc2zURPtaRGKS1V9St1311OL05ACNcBGAsYHQ/s1600/papa_a_la_huancaina.jpg",
+    "diet_badges": [
+      "Vegetariano",
+      "Salsa Criolla Ancestral"
+    ],
+    "tags": [
+      "papa a la huancaina",
+      "peru",
+      "salsa huancaina",
+      "aji amarillo",
+      "queso fresco",
+      "papa sancochada"
+    ],
+    "story": "Originaria de la región andina de Junín a finales del siglo XIX, la papa a la huancaína nació en el contexto de la construcción del Ferrocarril Central del Perú. Las cocineras locales de Huancayo abastecían a los obreros ferroviarios con papas cocidas bañadas en una sustanciosa salsa a base de ají amarillo y queso de leche fresca.",
+    "ingredients": [
+      "1 kg de papas blancas o amarillas sancochadas firmes",
+      "5 ajíes amarillos frescos sin semillas ni venas",
+      "250 g de queso fresco o ricotta firme",
+      "1/2 taza de leche evaporada",
+      "6 galletas de soda clásicas (o galletas de agua)",
+      "2 dientes de ajo",
+      "2 cucharadas de aceite vegetal",
+      "Hojas de lechuga fresca y crujiente",
+      "3 huevos duros cortados a la mitad",
+      "6 aceitunas botija negras para coronar",
+      "Sal fina al gusto"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Salsa Huancaína",
+        "ingredients": [
+          "5 ajíes amarillos frescos sin semillas ni venas",
+          "250 g de queso fresco o ricotta firme",
+          "1/2 taza de leche evaporada",
+          "6 galletas de soda clásicas (o galletas de agua)",
+          "2 dientes de ajo",
+          "2 cucharadas de aceite vegetal",
+          "Sal fina al gusto"
+        ]
+      },
+      {
+        "name": "Guarnición y Armado",
+        "ingredients": [
+          "1 kg de papas blancas o amarillas sancochadas firmes",
+          "Hojas de lechuga fresca y crujiente",
+          "3 huevos duros cortados a la mitad",
+          "6 aceitunas botija negras para coronar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Elaboración de la Salsa y Emplatado",
+        "steps": [
+          "Cortá los ajíes limpios en trozos y saltealos en una sartén con dos cucharadas de aceite y los dientes de ajo enteros durante 3 minutos hasta que desprendan su perfume.",
+          "Llevá los ajíes y ajos a la licuadora junto con el queso fresco en cubos y la mitad de la leche evaporada.",
+          "Licuá a velocidad media agregando las galletas de soda y el resto de la leche evaporada hasta lograr una crema lisa, densa y de color amarillo brillante.",
+          "Probá y ajustá de sal teniendo en cuenta la salinidad del queso.",
+          "Pelá las papas cocidas y cortalas en rodajas de 1,5 cm de espesor.",
+          "Disponé una cama de hojas de lechuga fresca en una fuente, acomodá las rodajas de papa y bañalas generosamente con la crema huancaína.",
+          "Decorá cada porción con medio huevo duro y una aceituna negra botija."
+        ]
+      }
+    ],
+    "steps": [
+      "Cortá los ajíes limpios en trozos y saltealos en una sartén con dos cucharadas de aceite y los dientes de ajo enteros durante 3 minutos hasta que desprendan su perfume.",
+      "Llevá los ajíes y ajos a la licuadora junto con el queso fresco en cubos y la mitad de la leche evaporada.",
+      "Licuá a velocidad media agregando las galletas de soda y el resto de la leche evaporada hasta lograr una crema lisa, densa y de color amarillo brillante.",
+      "Probá y ajustá de sal teniendo en cuenta la salinidad del queso.",
+      "Pelá las papas cocidas y cortalas en rodajas de 1,5 cm de espesor.",
+      "Disponé una cama de hojas de lechuga fresca en una fuente, acomodá las rodajas de papa y bañalas generosamente con la crema huancaína.",
+      "Decorá cada porción con medio huevo duro y una aceituna negra botija."
+    ],
+    "notes": "Dorar levemente el ají amarillo y el ajo antes de licuar suaviza el picante crudo y despierta notas tostadas incomparables. La salsa debe tener cuerpo suficiente para cubrir la papa sin escurrirse."
+  },
+  {
+    "id": 842,
+    "title": "Anticuchos de Corazón (Perú)",
+    "category": "Carnes",
+    "country": "Perú",
+    "prep_time": "30 min",
+    "cook_time": "15 min",
+    "rest_time": "4 h",
+    "servings": "4 porciones",
+    "calories": "420 kcal",
+    "image": "https://lh3.googleusercontent.com/-ezs0PghPB6I/awZPzkxe-FI/AAAAAAAQDmg/XOsXVuOweksTtLWZtApiYf6VmgMhUWiMgCNcBGAsYHQ/s1600/anticuchos_de_corazon.jpg",
+    "diet_badges": [
+      "Alto en Hierro",
+      "Parrilla Afroperuana"
+    ],
+    "tags": [
+      "anticuchos",
+      "peru",
+      "corazon de res",
+      "aji panca",
+      "vinagre",
+      "parrilla",
+      "comida callejera"
+    ],
+    "story": "De herencia prehispánica en el uso de carnes ensartadas en cañas, el anticucho adquirió su identidad mestiza y afroperuana en los fogones coloniales de Lima, donde a la población esclava se le destinaban las vísceras vacunas. Con maestría criolla, marinaron el corazón de res en vinagre, ajo y ají panca antes de asarlo sobre brasas ardientes.",
+    "ingredients": [
+      "1 corazón de res limpio (aproximadamente 1 kg)",
+      "1/2 taza de pasta de ají panca molido",
+      "1/2 taza de vinagre de vino tinto",
+      "4 dientes de ajo triturados",
+      "1 cucharada de comino molido",
+      "1 cucharada de orégano seco restregado",
+      "3 cucharadas de aceite vegetal",
+      "Sal y pimienta negra molida",
+      "Brochetas o palitos de caña remojados en agua",
+      "Choclo cocido en rodajas y papas doradas para acompañar",
+      "Salsa de ají huacatay o rocoto para servir"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Marinada y Carne",
+        "ingredients": [
+          "1 corazón de res limpio (aproximadamente 1 kg)",
+          "1/2 taza de pasta de ají panca molido",
+          "1/2 taza de vinagre de vino tinto",
+          "4 dientes de ajo triturados",
+          "1 cucharada de comino molido",
+          "1 cucharada de orégano seco restregado",
+          "3 cucharadas de aceite vegetal",
+          "Sal y pimienta negra molida",
+          "Brochetas o palitos de caña remojados en agua"
+        ]
+      },
+      {
+        "name": "Acompañamiento",
+        "ingredients": [
+          "Choclo cocido en rodajas y papas doradas para acompañar",
+          "Salsa de ají huacatay o rocoto para servir"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Limpieza, Marinado y Cocción a las Brasas",
+        "steps": [
+          "Retirá meticulosamente toda la grasa exterior, venas y membranas del corazón hasta dejar únicamente la fibra muscular magra.",
+          "Cortá la carne en trozos rectangulares medianos de unos 4 cm de lado y 1 cm de espesor.",
+          "En un cuenco amplio, mezclá la pasta de ají panca con el vinagre tinto, ajos, comino, orégano, sal, pimienta y dos cucharadas de aceite formando un adobo fragante.",
+          "Sumergí los trozos de carne en la marinada, tapá y dejá reposar en la heladera durante al menos 4 horas (idealmente toda la noche).",
+          "Ensartá 3 a 4 trozos de carne en cada palito de caña sin apretarlos demasiado.",
+          "Llevá a una parrilla con carbón bien encendido a fuego fuerte; asá durante 2 a 3 minutos por lado mientras los pincelás constantemente con el adobo sobrante emulsionado con aceite.",
+          "Serví bien calientes acompañados de rodajas de choclo tierno y papas doradas a la parrilla."
+        ]
+      }
+    ],
+    "steps": [
+      "Retirá meticulosamente toda la grasa exterior, venas y membranas del corazón hasta dejar únicamente la fibra muscular magra.",
+      "Cortá la carne en trozos rectangulares medianos de unos 4 cm de lado y 1 cm de espesor.",
+      "En un cuenco amplio, mezclá la pasta de ají panca con el vinagre tinto, ajos, comino, orégano, sal, pimienta y dos cucharadas de aceite formando un adobo fragante.",
+      "Sumergí los trozos de carne en la marinada, tapá y dejá reposar en la heladera durante al menos 4 horas (idealmente toda la noche).",
+      "Ensartá 3 a 4 trozos de carne en cada palito de caña sin apretarlos demasiado.",
+      "Llevá a una parrilla con carbón bien encendido a fuego fuerte; asá durante 2 a 3 minutos por lado mientras los pincelás constantemente con el adobo sobrante emulsionado con aceite.",
+      "Serví bien calientes acompañados de rodajas de choclo tierno y papas doradas a la parrilla."
+    ],
+    "notes": "El corazón de res es una carne magra que exige cocción corta y a fuego altísimo: si se pasa de punto se vuelve dura. El secreto reside en la brocha rústica de hojas de choclo para salsear sobre el fuego."
+  },
+  {
+    "id": 843,
+    "title": "Seco de Res con Frijoles (Perú)",
+    "category": "Guisos",
+    "country": "Perú",
+    "prep_time": "25 min",
+    "cook_time": "1 h 30 min",
+    "servings": "6 porciones",
+    "calories": "620 kcal",
+    "image": "https://lh3.googleusercontent.com/-olgTM-V17V4/awZP1ECJQYI/AAAAAAAQDmo/CDbCtq1EwT86x_krQRwHw2fe8DmBg_ifACNcBGAsYHQ/s1600/seco_de_res_con_frijoles.jpg",
+    "diet_badges": [
+      "Guiso de Larga Cocción",
+      "Clásico del Norte"
+    ],
+    "tags": [
+      "seco de res",
+      "peru",
+      "cilantro",
+      "chicha de jora",
+      "frijoles canario",
+      "carne guisada",
+      "aji amarillo"
+    ],
+    "story": "El seco es uno de los guisos más representativos de la costa norte peruana, con raíces en el antiguo Virreinato donde se combinaron las técnicas de estofado ibéricas con el cilantro y la chicha de jora fermentada. A pesar de llamarse 'seco', se trata de un estofado caldoso y espeso, tradicionalmente servido sobre un lecho cremoso de frijoles canarios.",
+    "ingredients": [
+      "1 kg de carne de res (corte osobuco, falda o asado de tira) cortada en trozos grandes",
+      "1 taza grande de hojas de cilantro fresco licuadas con un chorrito de agua",
+      "1 cebolla morada picada en cubos finos",
+      "3 cucharadas de pasta de ají amarillo",
+      "1 cucharada de pasta de ají panca",
+      "4 dientes de ajo picados",
+      "1 taza de chicha de jora o cerveza rubia",
+      "1 taza de caldo de res",
+      "1 zanahoria cortada en rodajas gruesas",
+      "1/2 taza de arvejas frescas",
+      "400 g de frijoles canarios o alubias cocidas",
+      "Sal, pimienta y comino molido",
+      "Arroz blanco para acompañar"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Seco de Res",
+        "ingredients": [
+          "1 kg de carne de res cortada en trozos grandes",
+          "1 taza grande de hojas de cilantro fresco licuadas",
+          "1 cebolla morada picada en cubos finos",
+          "3 cucharadas de pasta de ají amarillo",
+          "1 cucharada de pasta de ají panca",
+          "4 dientes de ajo picados",
+          "1 taza de chicha de jora o cerveza rubia",
+          "1 taza de caldo de res",
+          "1 zanahoria cortada en rodajas gruesas",
+          "1/2 taza de arvejas frescas",
+          "Sal, pimienta y comino molido"
+        ]
+      },
+      {
+        "name": "Frijoles y Arroz",
+        "ingredients": [
+          "400 g de frijoles canarios o alubias cocidas",
+          "Arroz blanco para acompañar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Sofrito, Estofado y Emplatado",
+        "steps": [
+          "Salpimentá los trozos de carne y doralos en una olla pesada con un hilo de aceite a fuego vivo; retiralos y reservalos.",
+          "En la misma olla, prepará el aderezo sofriendo la cebolla morada y los ajos a fuego suave durante 8 minutos.",
+          "Agregá la pasta de ají amarillo y el ají panca, cocinando por 5 minutos hasta que el aceite se separe del sofrito.",
+          "Incorporá el cilantro licuado y cocinalo 3 minutos para que pierda el sabor a clorofila cruda.",
+          "Reintegrá la carne dorada, verté la chicha de jora y el caldo de carne.",
+          "Bajá el fuego a mínimo, tapá la olla y cociná durante 1 hora y 15 minutos hasta que la carne esté tierna que se deshaga con el tenedor.",
+          "Diez minutos antes de finalizar, sumá las zanahorias y las arvejas frescas.",
+          "Serví una porción generosa de frijoles canarios cremosos, arroz blanco y el estofado de carne coronado con su salsa verde aromática."
+        ]
+      }
+    ],
+    "steps": [
+      "Salpimentá los trozos de carne y doralos en una olla pesada con un hilo de aceite a fuego vivo; retiralos y reservalos.",
+      "En la misma olla, prepará el aderezo sofriendo la cebolla morada y los ajos a fuego suave durante 8 minutos.",
+      "Agregá la pasta de ají amarillo y el ají panca, cocinando por 5 minutos hasta que el aceite se separe del sofrito.",
+      "Incorporá el cilantro licuado y cocinalo 3 minutos para que pierda el sabor a clorofila cruda.",
+      "Reintegrá la carne dorada, verté la chicha de jora y el caldo de carne.",
+      "Bajá el fuego a mínimo, tapá la olla y cociná durante 1 hora y 15 minutos hasta que la carne esté tierna que se deshaga con el tenedor.",
+      "Diez minutos antes de finalizar, sumá las zanahorias y las arvejas frescas.",
+      "Serví una porción generosa de frijoles canarios cremosos, arroz blanco y el estofado de carne coronado con su salsa verde aromática."
+    ],
+    "notes": "El secreto de un buen seco norteño está en rehogar el cilantro licuado lo suficiente para concentrar su sabor sin quemarlo, y usar cortes de carne con hueso o colágeno para dar densidad sedosa al caldo."
+  },
+  {
+    "id": 844,
+    "title": "Coxinhas de Pollo (Brasil)",
+    "category": "Entradas",
+    "country": "Brasil",
+    "prep_time": "40 min",
+    "cook_time": "30 min",
+    "servings": "12 unidades",
+    "calories": "280 kcal por unidad",
+    "image": "https://lh3.googleusercontent.com/-THLwTVjWinI/awZP2ftsyeI/AAAAAAAQDmw/E7O6d71rf50VwCLI3NXeUuWbrYxlsC25gCNcBGAsYHQ/s1600/coxinhas_de_pollo.jpg",
+    "diet_badges": [
+      "Fritura Tradicional",
+      "Comida Callejera"
+    ],
+    "tags": [
+      "coxinhas",
+      "brasil",
+      "pollo",
+      "catupiry",
+      "croqueta",
+      "petisco",
+      "boteco"
+    ],
+    "story": "Nacidas en el estado de São Paulo durante la industrialización del siglo XIX, las coxinhas surgieron para abaratar el consumo de las apreciadas patas de pollo (coxas). La masa cocida moldeada en forma de gota imita la silueta de un muslo, convirtiéndose en el bocadillo más popular de los bares y botecos brasileños.",
+    "ingredients": [
+      "500 g de pechuga de pollo cocida y desmenuzada fina",
+      "2 tazas del caldo de cocción del pollo",
+      "2 tazas de harina de trigo 0000",
+      "2 cucharadas de manteca sin sal",
+      "1 cebolla picada muy fina",
+      "2 dientes de ajo triturados",
+      "150 g de queso crema firme tipo Catupiry o requeijão",
+      "2 cucharadas de perejil picado",
+      "1 cucharadita de pimentón dulce",
+      "2 huevos batidos para empanar",
+      "2 tazas de pan rallado fino",
+      "Aceite vegetal abundante para freír",
+      "Sal y pimienta al gusto"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Relleno de Pollo",
+        "ingredients": [
+          "500 g de pechuga de pollo cocida y desmenuzada fina",
+          "1 cebolla picada muy fina",
+          "2 dientes de ajo triturados",
+          "150 g de queso crema firme tipo Catupiry o requeijão",
+          "2 cucharadas de perejil picado",
+          "1 cucharadita de pimentón dulce",
+          "Sal y pimienta al gusto"
+        ]
+      },
+      {
+        "name": "Masa y Rebozado",
+        "ingredients": [
+          "2 tazas del caldo de cocción del pollo",
+          "2 tazas de harina de trigo 0000",
+          "2 cucharadas de manteca sin sal",
+          "2 huevos batidos para empanar",
+          "2 tazas de pan rallado fino",
+          "Aceite vegetal abundante para freír"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación de la Masa, Relleno y Fritura",
+        "steps": [
+          "En una sartén, dorá la cebolla y el ajo con un hilo de aceite; sumá el pollo desmenuzado, el pimentón, sal, pimienta y perejil, cocinando 3 minutos hasta que esté bien sabroso y seco. Dejá enfriar.",
+          "Para la masa, poné a hervir el caldo de pollo con la manteca y una pizca de sal en una cacerola.",
+          "Cuando rompa el hervor, volcá toda la harina de golpe y revolvé enérgicamente con cuchara de madera a fuego bajo hasta que la masa se despegue totalmente del fondo formando una bola lisa.",
+          "Volcá la masa sobre la mesada engrasada y amasala tibia durante unos minutos hasta que quede elástica y sedosa.",
+          "Tomá porciones de masa del tamaño de una pelota de golf, ahuecalas con el pulgar formando un cuenco, rellená con una cucharadita de Catupiry y una cucharada de pollo.",
+          "Cerrá los bordes hacia arriba modelando la clásica forma cónica de gota con punta.",
+          "Pasá cada coxinha por huevo batido y luego por pan rallado fino presionando suavemente.",
+          "Freí en abundante aceite caliente a 180 °C hasta que adquieran un tono dorado parejo y corteza crujiente. Escurrí sobre papel absorbente."
+        ]
+      }
+    ],
+    "steps": [
+      "En una sartén, dorá la cebolla y el ajo con un hilo de aceite; sumá el pollo desmenuzado, el pimentón, sal, pimienta y perejil, cocinando 3 minutos hasta que esté bien sabroso y seco. Dejá enfriar.",
+      "Para la masa, poné a hervir el caldo de pollo con la manteca y una pizca de sal en una cacerola.",
+      "Cuando rompa el hervor, volcá toda la harina de golpe y revolvé enérgicamente con cuchara de madera a fuego bajo hasta que la masa se despegue totalmente del fondo formando una bola lisa.",
+      "Volcá la masa sobre la mesada engrasada y amasala tibia durante unos minutos hasta que quede elástica y sedosa.",
+      "Tomá porciones de masa del tamaño de una pelota de golf, ahuecalas con el pulgar formando un cuenco, rellená con una cucharadita de Catupiry y una cucharada de pollo.",
+      "Cerrá los bordes hacia arriba modelando la clásica forma cónica de gota con punta.",
+      "Pasá cada coxinha por huevo batido y luego por pan rallado fino presionando suavemente.",
+      "Freí en abundante aceite caliente a 180 °C hasta que adquieran un tono dorado parejo y corteza crujiente. Escurrí sobre papel absorbente."
+    ],
+    "notes": "Amasar la masa aún caliente es fundamental para activar el gluten y lograr una textura suave que no se abra durante la fritura. El caldo de pollo debe estar bien sazonado ya que es la base de sabor de la masa."
+  },
+  {
+    "id": 845,
+    "title": "Brigadeiros de Chocolate (Brasil)",
+    "category": "Postres",
+    "country": "Brasil",
+    "prep_time": "15 min",
+    "cook_time": "15 min",
+    "rest_time": "1 h",
+    "servings": "20 unidades",
+    "calories": "110 kcal por unidad",
+    "image": "https://lh3.googleusercontent.com/-0gTEcYfg7Mo/awZP3iNfEUI/AAAAAAAQDm4/nkdDPs0uiH0Cder3IUaTDIWKAKx71GrswCNcBGAsYHQ/s1600/brigadeiros_de_chocolate.jpg",
+    "diet_badges": [
+      "Vegetariano",
+      "Dulce Tradicional"
+    ],
+    "tags": [
+      "brigadeiro",
+      "brasil",
+      "leche condensada",
+      "chocolate",
+      "granela",
+      "trufa",
+      "cumpleanos"
+    ],
+    "story": "El brigadeiro fue creado en Río de Janeiro en 1946 durante la campaña presidencial del brigadier Eduardo Gomes. Ante la escasez de leche fresca y azúcar en la posguerra, las mujeres cariocas elaboraron estos dulces con leche condensada y cacao para financiar la campaña política, convirtiéndolo en el emblema de las celebraciones familiares del país.",
+    "ingredients": [
+      "1 lata (395 g) de leche condensada de primera calidad",
+      "3 cucharadas de cacao amargo en polvo (100% puro)",
+      "1 cucharada colmada (25 g) de manteca sin sal",
+      "1 taza de granas de chocolate negro (chocolate granulado) de buena calidad",
+      "Pirotines o cápsulas de papel pequeñas"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Masa de Brigadeiro y Cobertura",
+        "ingredients": [
+          "1 lata (395 g) de leche condensada de primera calidad",
+          "3 cucharadas de cacao amargo en polvo (100% puro)",
+          "1 cucharada colmada (25 g) de manteca sin sal",
+          "1 taza de granas de chocolate negro (chocolate granulado) de buena calidad",
+          "Pirotines o cápsulas de papel pequeñas"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Cocción y Boleado",
+        "steps": [
+          "En una cacerola de fondo grueso, colocá la leche condensada, el cacao amargo tamizado y la manteca sin sal.",
+          "Cociná a fuego medio-bajo revolviendo permanentemente con una espátula de silicona, asegurándote de raspar bien los bordes y el fondo para evitar que se queme.",
+          "Continuá cocinando durante 10 a 12 minutos hasta que la mezcla espese notablemente y se desprenda limpiamente del fondo de la olla al inclinarla (punto brigadeiro).",
+          "Volcá la mezcla en un plato engrasado con manteca y dejá enfriar por completo a temperatura ambiente o en la heladera durante 1 hora.",
+          "Untate las palmas de las manos con un poco de manteca, tomá pequeñas porciones con una cuchara y hacé bolitas prolijas del tamaño de una nuez pequeña.",
+          "Rodá cada bolita por el plato con granas de chocolate hasta cubrirlas por completo y disponelas en pirotines de papel."
+        ]
+      }
+    ],
+    "steps": [
+      "En una cacerola de fondo grueso, colocá la leche condensada, el cacao amargo tamizado y la manteca sin sal.",
+      "Cociná a fuego medio-bajo revolviendo permanentemente con una espátula de silicona, asegurándote de raspar bien los bordes y el fondo para evitar que se queme.",
+      "Continuá cocinando durante 10 a 12 minutos hasta que la mezcla espese notablemente y se desprenda limpiamente del fondo de la olla al inclinarla (punto brigadeiro).",
+      "Volcá la mezcla en un plato engrasado con manteca y dejá enfriar por completo a temperatura ambiente o en la heladera durante 1 hora.",
+      "Untate las palmas de las manos con un poco de manteca, tomá pequeñas porciones con una cuchara y hacé bolitas prolijas del tamaño de una nuez pequeña.",
+      "Rodá cada bolita por el plato con granas de chocolate hasta cubrirlas por completo y disponelas en pirotines de papel."
+    ],
+    "notes": "Usá siempre cacao amargo en lugar de polvo chocolatado con azúcar: equilibra la dulzura intensa de la leche condensada y aporta un color chocolate oscuro brillante y tentador."
+  },
+  {
+    "id": 846,
+    "title": "Bobó de Camarão (Brasil)",
+    "category": "Pescados y Mariscos",
+    "country": "Brasil",
+    "prep_time": "30 min",
+    "cook_time": "35 min",
+    "servings": "6 porciones",
+    "calories": "480 kcal",
+    "image": "https://lh3.googleusercontent.com/-ZRnVoyMR8Dg/awZP5N9riSI/AAAAAAAQDnA/Vctvd0RkD009BbN4zK6CTC1wZUU86JLTwCNcBGAsYHQ/s1600/bobo_de_camarao.jpg",
+    "diet_badges": [
+      "Sin Gluten",
+      "Cocina Bahiana Afrobrasileña"
+    ],
+    "tags": [
+      "bobo de camarao",
+      "brasil",
+      "bahia",
+      "mandioca",
+      "camarones",
+      "leche de coco",
+      "aceite de dende"
+    ],
+    "story": "Originario del estado de Bahía, el bobó de camarão es una de las mayores expresiones de la cocina afrobrasileña, donde convergen el puré ancestral de mandioca indígena con las técnicas culinarias africanas. El empleo aromático del aceite de dendê (palma roja) y la leche de coco fresca otorgan su característica textura aterciopelada y color dorado solar.",
+    "ingredients": [
+      "800 g de camarones o langostinos limpios",
+      "700 g de mandioca (yuca) pelada y sin hebra central",
+      "400 ml de leche de coco espesa",
+      "3 cucharadas de aceite de dendê (aceite de palma)",
+      "1 cebolla grande finamente picada",
+      "1 pimiento rojo picado en cubitos pequeños",
+      "3 tomates maduros sin piel ni semillas picados",
+      "4 dientes de ajo picados",
+      "Jugo de 1 lima fresca",
+      "Cilantro y cebollino fresco picados",
+      "Sal y pimienta negra molida",
+      "Arroz blanco para acompañar"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Puré de Mandioca y Base",
+        "ingredients": [
+          "700 g de mandioca (yuca) pelada y sin hebra central",
+          "400 ml de leche de coco espesa",
+          "1 pimiento rojo picado en cubitos pequeños",
+          "3 tomates maduros sin piel ni semillas picados"
+        ]
+      },
+      {
+        "name": "Camarones y Sofrito de Dendê",
+        "ingredients": [
+          "800 g de camarones o langostinos limpios",
+          "3 cucharadas de aceite de dendê (aceite de palma)",
+          "1 cebolla grande finamente picada",
+          "4 dientes de ajo picados",
+          "Jugo de 1 lima fresca",
+          "Cilantro y cebollino fresco picados",
+          "Sal y pimienta negra molida",
+          "Arroz blanco para acompañar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Elaboración del Bobó y Cocción",
+        "steps": [
+          "Herví la mandioca en agua con sal hasta que esté muy blanda; licuala caliente junto con la leche de coco y un poco del agua de cocción hasta obtener una crema espesa y uniforme.",
+          "Sazoná los camarones con jugo de lima, sal y pimienta.",
+          "En una cazuela de barro o hierro, calentá dos cucharadas de aceite de dendê y salteá los camarones durante 2 minutos; retiralos y reservalos.",
+          "En la misma cazuela con el fondo aromatizado, agregá otra cucharada de dendê y sofríe la cebolla, el ajo y el pimiento morrón durante 5 minutos.",
+          "Añadí los tomates picados y cociná hasta que se deshagan formando una salsa espesa.",
+          "Verté la crema de mandioca licuada sobre el sofrito, integrando todo a fuego medio-bajo durante 8 minutos hasta que rompa un hervor suave y espese.",
+          "Reincorporá los camarones salteados con sus jugos y cociná 2 minutos más.",
+          "Apagá el fuego, espolvoreá abundante cilantro y cebollino picado, y serví en cazuela con arroz blanco."
+        ]
+      }
+    ],
+    "steps": [
+      "Herví la mandioca en agua con sal hasta que esté muy blanda; licuala caliente junto con la leche de coco y un poco del agua de cocción hasta obtener una crema espesa y uniforme.",
+      "Sazoná los camarones con jugo de lima, sal y pimienta.",
+      "En una cazuela de barro o hierro, calentá dos cucharadas de aceite de dendê y salteá los camarones durante 2 minutos; retiralos y reservalos.",
+      "En la misma cazuela con el fondo aromatizado, agregá otra cucharada de dendê y sofríe la cebolla, el ajo y el pimiento morrón durante 5 minutos.",
+      "Añadí los tomates picados y cociná hasta que se deshagan formando una salsa espesa.",
+      "Verté la crema de mandioca licuada sobre el sofrito, integrando todo a fuego medio-bajo durante 8 minutos hasta que rompa un hervor suave y espese.",
+      "Reincorporá los camarones salteados con sus jugos y cociná 2 minutos más.",
+      "Apagá el fuego, espolvoreá abundante cilantro y cebollino picado, y serví en cazuela con arroz blanco."
+    ],
+    "notes": "El aceite de dendê aporta un aroma ahumado terroso y un color anaranjado inconfundible. No cocines de más los camarones: deben mantenerse tiernos y jugosos dentro de la crema."
+  },
+  {
+    "id": 847,
+    "title": "Escondidinho de Carne Seca (Brasil)",
+    "category": "Guisos",
+    "country": "Brasil",
+    "prep_time": "30 min",
+    "cook_time": "40 min",
+    "servings": "6 porciones",
+    "calories": "540 kcal",
+    "image": "https://lh3.googleusercontent.com/-E3BddWD_cvw/awZP6uqKH6I/AAAAAAAQDnI/q70Z_AUQPcsD2H1FIX4JTekX2ZtcgdcXwCNcBGAsYHQ/s1600/escondidinho_de_carne_seca.jpg",
+    "diet_badges": [
+      "Sin Gluten",
+      "Cocina Nordestina"
+    ],
+    "tags": [
+      "escondidinho",
+      "brasil",
+      "carne seca",
+      "mandioca",
+      "gratinado",
+      "queijo coalho",
+      "nordeste"
+    ],
+    "story": "Nacido en el sertón del Nordeste brasileño, el escondidinho debe su nombre al ingenioso montaje donde la carne curada al sol (carne seca o de sol) queda 'escondida' bajo una generosa capa de puré de mandioca. Es el plato de confort más representativo de la culinaria rústica nordestina, gratinado al horno con quesos regionales.",
+    "ingredients": [
+      "600 g de carne seca o tasajo desalado y desmenuzado",
+      "1 kg de mandioca pelada",
+      "1 taza de leche entera tibia",
+      "3 cucharadas de manteca sin sal",
+      "1 cebolla morada cortada en plumas finas",
+      "3 dientes de ajo picados",
+      "1 tomate maduro picado",
+      "2 cucharadas de cilantro picado",
+      "200 g de queso coalho o queso mozzarella rallado grueso para gratinar",
+      "Sal, pimienta y nuez moscada al gusto"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Puré de Mandioca",
+        "ingredients": [
+          "1 kg de mandioca pelada",
+          "1 taza de leche entera tibia",
+          "3 cucharadas de manteca sin sal",
+          "Sal y nuez moscada al gusto"
+        ]
+      },
+      {
+        "name": "Relleno de Carne Seca y Gratinado",
+        "ingredients": [
+          "600 g de carne seca o tasajo desalado y desmenuzado",
+          "1 cebolla morada cortada en plumas finas",
+          "3 dientes de ajo picados",
+          "1 tomate maduro picado",
+          "2 cucharadas de cilantro picado",
+          "200 g de queso coalho o queso mozzarella rallado grueso para gratinar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación del Relleno, Puré y Horneado",
+        "steps": [
+          "Herví la carne seca previamente desalada en agua durante 40 minutos hasta que esté tierna; escurrila y desmenuzala en hebras con dos tenedores.",
+          "En una sartén, dorá la cebolla y el ajo en manteca; agregá la carne seca desmenuzada y el tomate picado, cocinando durante 8 minutos hasta que se integren los sabores. Añadí cilantro y retirá.",
+          "Cociná la mandioca en agua hirviendo con sal hasta que esté tierna; pisala o procesala con la manteca, la leche tibia, sal y una pizca de nuez moscada hasta lograr un puré cremoso y consistente.",
+          "En una fuente para horno engrasada, disponé una capa delgada de puré de mandioca en la base.",
+          "Volcá todo el relleno de carne seca desmenuzada, distribuyéndolo parejo.",
+          "Cubrí por completo con el resto del puré de mandioca alisando la superficie.",
+          "Espolvoreá con el queso rallado y horneá a 200 °C durante 20 minutos hasta que la superficie esté dorada y burbujeante."
+        ]
+      }
+    ],
+    "steps": [
+      "Herví la carne seca previamente desalada en agua durante 40 minutos hasta que esté tierna; escurrila y desmenuzala en hebras con dos tenedores.",
+      "En una sartén, dorá la cebolla y el ajo en manteca; agregá la carne seca desmenuzada y el tomate picado, cocinando durante 8 minutos hasta que se integren los sabores. Añadí cilantro y retirá.",
+      "Cociná la mandioca en agua hirviendo con sal hasta que esté tierna; pisala o procesala con la manteca, la leche tibia, sal y una pizca de nuez moscada hasta lograr un puré cremoso y consistente.",
+      "En una fuente para horno engrasada, disponé una capa delgada de puré de mandioca en la base.",
+      "Volcá todo el relleno de carne seca desmenuzada, distribuyéndolo parejo.",
+      "Cubrí por completo con el resto del puré de mandioca alisando la superficie.",
+      "Espolvoreá con el queso rallado y horneá a 200 °C durante 20 minutos hasta que la superficie esté dorada y burbujeante."
+    ],
+    "notes": "Para un desalado perfecto de la carne seca, cortala en cubos y dejala en remojo en agua fría dentro de la heladera durante 12 a 24 horas cambiando el agua al menos tres veces."
+  },
+  {
+    "id": 848,
+    "title": "Pastéis de Nata (Portugal)",
+    "category": "Postres",
+    "country": "Portugal",
+    "prep_time": "30 min",
+    "cook_time": "15 min",
+    "servings": "12 unidades",
+    "calories": "210 kcal por unidad",
+    "image": "https://lh3.googleusercontent.com/--6FG6zSKeWc/awZP8SPRuAI/AAAAAAAQDnQ/4r7CNwiXwbkdfjNf0Gddfj0BbtO-Fd5OACNcBGAsYHQ/s1600/pasteis_de_nata.jpg",
+    "diet_badges": [
+      "Repostería Conventual",
+      "Hojaldre Caramelizado"
+    ],
+    "tags": [
+      "pasteis de nata",
+      "portugal",
+      "belem",
+      "hojaldre",
+      "crema",
+      "canela",
+      "reposteria conventual"
+    ],
+    "story": "Creados antes del siglo XVIII por los monjes jerónimos del Monasterio de Santa Maria de Belém en Lisboa, los pastéis de nata nacieron del excedente de yemas de huevo resultante del uso de las claras para clarificar vinos y almidonar los hábitos religiosos. Con la revolución liberal y el cierre de las órdenes monásticas en 1834, la receta se vendió a los dueños de la célebre fábrica de Belém.",
+    "ingredients": [
+      "300 g de masa de hojaldre de buena calidad (con manteca)",
+      "250 ml de leche entera",
+      "150 g de azúcar blanco",
+      "100 ml de agua",
+      "30 g de harina de trigo 0000",
+      "4 yemas de huevo frescas",
+      "1 rama de canela",
+      "La piel de 1 limón (solo la parte amarilla)",
+      "Canela en polvo y azúcar glas para espolvorear"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Almíbar y Crema de Yemas",
+        "ingredients": [
+          "250 ml de leche entera",
+          "150 g de azúcar blanco",
+          "100 ml de agua",
+          "30 g de harina de trigo 0000",
+          "4 yemas de huevo frescas",
+          "1 rama de canela",
+          "La piel de 1 limón (solo la parte amarilla)"
+        ]
+      },
+      {
+        "name": "Base de Hojaldre y Toque Final",
+        "ingredients": [
+          "300 g de masa de hojaldre de buena calidad (con manteca)",
+          "Canela en polvo y azúcar glas para espolvorear"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Elaboración de la Crema, Moldeado y Horneado a Máxima Temperatura",
+        "steps": [
+          "Disolvé la harina en un tercio de la leche fría; poné el resto de la leche a calentar hasta casi hervir y volcá la mezcla de harina revolviendo con batidor de alambre hasta que espese.",
+          "En otra cacerola, prepará un almíbar liviano llevando a hervor el agua con el azúcar, la piel de limón y la rama de canela durante exactamente 3 minutos.",
+          "Retirá la piel de limón y la canela; verté el almíbar caliente en hilo sobre la mezcla de leche y harina sin dejar de batir. Dejá entibiar y sumá las yemas coladas integrando suavemente.",
+          "Enrollá la masa de hojaldre en un cilindro apretado, cortá rodajas de 1,5 cm y acomodalas en moldes individuales para tartaletas.",
+          "Con los pulgares humedecidos en agua, extendé la masa desde el centro hacia los bordes del molde, dejando el reborde superior ligeramente más grueso.",
+          "Llená las tartaletas con la crema hasta tres cuartas partes de su capacidad.",
+          "Horneá a la temperatura máxima de tu horno (250 °C a 270 °C) durante 10 a 14 minutos, hasta que el hojaldre esté crujiente y la superficie de la crema presente las manchas negras caramelizadas características.",
+          "Serví tibios espolvoreados con canela molida y azúcar glas."
+        ]
+      }
+    ],
+    "steps": [
+      "Disolvé la harina en un tercio de la leche fría; poné el resto de la leche a calentar hasta casi hervir y volcá la mezcla de harina revolviendo con batidor de alambre hasta que espese.",
+      "En otra cacerola, prepará un almíbar liviano llevando a hervor el agua con el azúcar, la piel de limón y la rama de canela durante exactamente 3 minutos.",
+      "Retirá la piel de limón y la canela; verté el almíbar caliente en hilo sobre la mezcla de leche y harina sin dejar de batir. Dejá entibiar y sumá las yemas coladas integrando suavemente.",
+      "Enrollá la masa de hojaldre en un cilindro apretado, cortá rodajas de 1,5 cm y acomodalas en moldes individuales para tartaletas.",
+      "Con los pulgares humedecidos en agua, extendé la masa desde el centro hacia los bordes del molde, dejando el reborde superior ligeramente más grueso.",
+      "Llená las tartaletas con la crema hasta tres cuartas partes de su capacidad.",
+      "Horneá a la temperatura máxima de tu horno (250 °C a 270 °C) durante 10 a 14 minutos, hasta que el hojaldre esté crujiente y la superficie de la crema presente las manchas negras caramelizadas características.",
+      "Serví tibios espolvoreados con canela molida y azúcar glas."
+    ],
+    "notes": "El horno debe estar lo más caliente posible para que el hojaldre se expanda en capas hojaldradas crujientes y la superficie de la crema se caramelice en manchas tostadas sin recocer el centro."
+  },
+  {
+    "id": 849,
+    "title": "Bacalhau à Brás (Portugal)",
+    "category": "Pescados y Mariscos",
+    "country": "Portugal",
+    "prep_time": "25 min",
+    "cook_time": "20 min",
+    "servings": "4 porciones",
+    "calories": "510 kcal",
+    "image": "https://lh3.googleusercontent.com/-M88PojC3yCs/awZP9_aAp-I/AAAAAAAQDnY/kQdJ-88ovmoc5_9_OlMFbV255b-BE0EPQCNcBGAsYHQ/s1600/bacalhau_a_bras.jpg",
+    "diet_badges": [
+      "Sin Gluten",
+      "Clásico de Taberna"
+    ],
+    "tags": [
+      "bacalhau a bras",
+      "portugal",
+      "bacalao",
+      "papas paja",
+      "huevos",
+      "aceitunas negras",
+      "lisboa"
+    ],
+    "story": "Creado a finales del siglo XIX por el tabernero Senhor Brás en el tradicional Barrio Alto de Lisboa, este plato es una de las preparaciones de bacalao más reverenciadas de Portugal. Combina sobras nobles de bacalao desalado con finísimas papas paja y huevos revueltos al punto justo de cremosidad, perfumados con abundante aceite de oliva virgen extra y perejil fresco.",
+    "ingredients": [
+      "400 g de bacalao desalado, limpio de piel y espinas, desmigado",
+      "400 g de papas cortadas en bastoncitos finos (patatas paja)",
+      "5 huevos grandes de campo",
+      "2 cebollas medianas cortadas en juliana muy fina",
+      "2 dientes de ajo picados en láminas",
+      "4 cucharadas de aceite de oliva virgen extra",
+      "Aceitunas negras portuguesas al gusto",
+      "Perejil fresco finamente picado",
+      "Pimienta negra recién molida",
+      "Aceite vegetal para freír las papas"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Bases del Salteado",
+        "ingredients": [
+          "400 g de bacalao desalado, limpio de piel y espinas, desmigado",
+          "400 g de papas cortadas en bastoncitos finos (patatas paja)",
+          "2 cebollas medianas cortadas en juliana muy fina",
+          "2 dientes de ajo picados en láminas",
+          "4 cucharadas de aceite de oliva virgen extra",
+          "Aceite vegetal para freír las papas"
+        ]
+      },
+      {
+        "name": "Ligazón y Acabado",
+        "ingredients": [
+          "5 huevos grandes de campo",
+          "Aceitunas negras portuguesas al gusto",
+          "Perejil fresco finamente picado",
+          "Pimienta negra recién molida"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Fritura de Papas, Salteado y Cuajado Cremoso",
+        "steps": [
+          "Freí las papas cortadas en tiras finísimas en abundante aceite caliente hasta que estén crujientes y doradas pero claras; escurrí sobre papel absorbente y reservá.",
+          "En una sartén grande, calentá el aceite de oliva y pochá la cebolla con los ajos a fuego suave durante 10 minutos hasta que estén tiernos y transparentes sin tomar color.",
+          "Incorporá el bacalao desmigado y saltealo durante 3 a 4 minutos hasta que cambie de color y absorba el aceite aromatizado.",
+          "Agregá las papas paja fritas a la sartén y mezclá con suavidad para que se integren sin romperlas en exceso.",
+          "Batí los huevos con una pizca de pimienta negra y vertelos sobre la sartén a fuego muy bajo.",
+          "Revolvé constantemente con cuchara de madera durante 1 a 2 minutos apartando la sartén del calor directo para que los huevos cuajen de forma sedosa y húmeda, sin secarse jamás.",
+          "Serví de inmediato decorado con aceitunas negras y abundante perejil fresco picado."
+        ]
+      }
+    ],
+    "steps": [
+      "Freí las papas cortadas en tiras finísimas en abundante aceite caliente hasta que estén crujientes y doradas pero claras; escurrí sobre papel absorbente y reservá.",
+      "En una sartén grande, calentá el aceite de oliva y pochá la cebolla con los ajos a fuego suave durante 10 minutos hasta que estén tiernos y transparentes sin tomar color.",
+      "Incorporá el bacalao desmigado y saltealo durante 3 a 4 minutos hasta que cambie de color y absorba el aceite aromatizado.",
+      "Agregá las papas paja fritas a la sartén y mezclá con suavidad para que se integren sin romperlas en exceso.",
+      "Batí los huevos con una pizca de pimienta negra y vertelos sobre la sartén a fuego muy bajo.",
+      "Revolvé constantemente con cuchara de madera durante 1 a 2 minutos apartando la sartén del calor directo para que los huevos cuajen de forma sedosa y húmeda, sin secarse jamás.",
+      "Serví de inmediato decorado con aceitunas negras y abundante perejil fresco picado."
+    ],
+    "notes": "El punto crítico es el huevo: debe quedar meloso y jugoso como un revuelto tierno de restaurante portugués. Nunca dejes que cuaje como una tortilla seca."
+  },
+  {
+    "id": 850,
+    "title": "Caldo Verde (Portugal)",
+    "category": "Sopas",
+    "country": "Portugal",
+    "prep_time": "15 min",
+    "cook_time": "30 min",
+    "servings": "6 porciones",
+    "calories": "260 kcal",
+    "image": "https://lh3.googleusercontent.com/-n-AzL1HQWKg/awZP_VK1C6I/AAAAAAAQDng/eqGTcGk6hT8fKhaUheNHSN4BzclrNFbvwCNcBGAsYHQ/s1600/caldo_verde_portugues.jpg",
+    "diet_badges": [
+      "Sin Gluten",
+      "Sopa Tradicional"
+    ],
+    "tags": [
+      "caldo verde",
+      "portugal",
+      "sopa",
+      "couve gallega",
+      "papas",
+      "chourico",
+      "minho"
+    ],
+    "story": "Originario de la histórica provincia norteña de Minho, el caldo verde es considerado el plato de cuchara nacional por excelencia de Portugal, omnipresente en bodas, fiestas patronales y noches frías de invierno. Su base cremosa de papa majada contrasta con las hebras finísimas de col verde portuguesa (couve-galega) y rodajas de chouriço curado.",
+    "ingredients": [
+      "600 g de papas harinosas peladas y troceadas",
+      "200 g de col verde o col rizada cortada en hebras finísimas (chiffonade)",
+      "1 cebolla mediana picada",
+      "2 dientes de ajo enteros aplastados",
+      "150 g de chouriço portugués ahumado cortado en rodajas",
+      "1,5 litros de agua o caldo suave",
+      "4 cucharadas de aceite de oliva virgen extra de buena calidad",
+      "Sal marina al gusto",
+      "Pan de maíz broa de Avintes para acompañar"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Base de Papas y Embutido",
+        "ingredients": [
+          "600 g de papas harinosas peladas y troceadas",
+          "1 cebolla mediana picada",
+          "2 dientes de ajo enteros aplastados",
+          "150 g de chouriço portugués ahumado cortado en rodajas",
+          "1,5 litros de agua o caldo suave"
+        ]
+      },
+      {
+        "name": "Verdura y Terminado",
+        "ingredients": [
+          "200 g de col verde o col rizada cortada en hebras finísimas",
+          "4 cucharadas de aceite de oliva virgen extra",
+          "Sal marina al gusto",
+          "Pan de maíz broa para acompañar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Cocción de la Base, Triturado e Incorporación de la Col",
+        "steps": [
+          "En una olla, colocá las papas, la cebolla, los dientes de ajo, 1 litro y medio de agua, la mitad de las rodajas de chouriço y dos cucharadas de aceite de oliva.",
+          "Llevá a ebullición y cociná a fuego medio durante 20 minutos hasta que las papas estén tiernas.",
+          "Retirá las rodajas de chouriço y reservalas; procesá la sopa con batidora de inmersión hasta obtener un caldo cremoso, aterciopelado y homogéneo.",
+          "Sazoná con sal marina y llevá nuevamente a hervor suave.",
+          "Añadí la col cortada en hilos finísimos y cociná a fuego medio destapado durante solo 3 a 5 minutos para que la verdura mantenga su vibrante color esmeralda.",
+          "Apagá el fuego, agregá las rodajas de chouriço reservadas y un chorro generoso de aceite de oliva virgen extra en crudo.",
+          "Serví en cuencos de barro acompañado de rebanadas de pan de maíz rústico."
+        ]
+      }
+    ],
+    "steps": [
+      "En una olla, colocá las papas, la cebolla, los dientes de ajo, 1 litro y medio de agua, la mitad de las rodajas de chouriço y dos cucharadas de aceite de oliva.",
+      "Llevá a ebullición y cociná a fuego medio durante 20 minutos hasta que las papas estén tiernas.",
+      "Retirá las rodajas de chouriço y reservalas; procesá la sopa con batidora de inmersión hasta obtener un caldo cremoso, aterciopelado y homogéneo.",
+      "Sazoná con sal marina y llevá nuevamente a hervor suave.",
+      "Añadí la col cortada en hilos finísimos y cociná a fuego medio destapado durante solo 3 a 5 minutos para que la verdura mantenga su vibrante color esmeralda.",
+      "Apagá el fuego, agregá las rodajas de chouriço reservadas y un chorro generoso de aceite de oliva virgen extra en crudo.",
+      "Serví en cuencos de barro acompañado de rebanadas de pan de maíz rústico."
+    ],
+    "notes": "La col debe cortarse lo más delgada posible, casi como cabellos de ángel, y cocinarse muy pocos minutos para evitar que tome un color parduzco amargo."
+  },
+  {
+    "id": 851,
+    "title": "Polvo à Lagareiro (Portugal)",
+    "category": "Pescados y Mariscos",
+    "country": "Portugal",
+    "prep_time": "20 min",
+    "cook_time": "1 h",
+    "servings": "4 porciones",
+    "calories": "530 kcal",
+    "image": "https://lh3.googleusercontent.com/-2ZEHnTL7F3Y/awZQAzd3VgI/AAAAAAAQDno/-B5af2D1wF0WkLb0clc7ByDLPDW6F7o5gCNcBGAsYHQ/s1600/polvo_a_lagareiro.jpg",
+    "diet_badges": [
+      "Sin Gluten",
+      "Asado Lusitano"
+    ],
+    "tags": [
+      "polvo a lagareiro",
+      "portugal",
+      "pulpo",
+      "batatas a murro",
+      "aceite de oliva",
+      "ajo asado",
+      "horno"
+    ],
+    "story": "El término 'lagareiro' homenajea a los trabajadores de los lagares de aceite de oliva en Portugal, donde tradicionalmente se celebraba la primera prensada de aceitunas sumergiendo los pescados o pulpos asados en el aceite más virgen y fragante. Este plato une los tentáculos tiernos del Atlántico con papas asadas cascadas a mano ('batatas a murro') y abundante ajo dorado.",
+    "ingredients": [
+      "1 pulpo entero de 1,5 kg (limpio)",
+      "800 g de papas pequeñas para asar con cáscara (tipo baby)",
+      "1 cabeza entera de ajo dividida en dientes con piel ligeramente aplastados",
+      "1 taza (200 ml) de aceite de oliva virgen extra de máxima calidad",
+      "1 cebolla entera pelada",
+      "2 hojas de laurel secas",
+      "Sal gruesa y pimienta negra",
+      "Perejil fresco picado para terminar"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Cocción y Horneado del Pulpo",
+        "ingredients": [
+          "1 pulpo entero de 1,5 kg (limpio)",
+          "1 cebolla entera pelada",
+          "2 hojas de laurel secas",
+          "1 cabeza entera de ajo dividida en dientes con piel ligeramente aplastados",
+          "1 taza (200 ml) de aceite de oliva virgen extra de máxima calidad"
+        ]
+      },
+      {
+        "name": "Batatas a Murro y Servido",
+        "ingredients": [
+          "800 g de papas pequeñas para asar con cáscara",
+          "Sal gruesa y pimienta negra",
+          "Perejil fresco picado para terminar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Hervor Tierno, Asado de Papas y Gratinado al Horno",
+        "steps": [
+          "Colocá el pulpo en una olla grande sin agua con la cebolla entera y una hoja de laurel; tapá y cociná a fuego medio-bajo durante 45 minutos en sus propios jugos hasta que esté tierno al pincharlo con un tenedor. Escurrí y separá los tentáculos.",
+          "Lavá bien las papitas, envolvelas en sal gruesa y hornealas en una bandeja a 200 °C durante 30 a 35 minutos hasta que estén tiernas.",
+          "Retirá las papas y dales un golpe suave con la palma de la mano o un paño para que se abran ligeramente ('a murro').",
+          "En una fuente de barro refractaria, disponé los tentáculos de pulpo en el centro y rodealos con las papas cascadas.",
+          "Distribuí los dientes de ajo aplastados entre el pulpo y las papas.",
+          "Bañá todo generosamente con la taza de aceite de oliva virgen extra y pimienta negra recién molida.",
+          "Llevá al horno a 220 °C durante 15 a 20 minutos hasta que el pulpo adquiera bordes crocantes y los ajos estén tiernos y dorados.",
+          "Espolvoreá con perejil fresco picado y serví de inmediato bien caliente con su aceite aromático."
+        ]
+      }
+    ],
+    "steps": [
+      "Colocá el pulpo en una olla grande sin agua con la cebolla entera y una hoja de laurel; tapá y cociná a fuego medio-bajo durante 45 minutos en sus propios jugos hasta que esté tierno al pincharlo con un tenedor. Escurrí y separá los tentáculos.",
+      "Lavá bien las papitas, envolvelas en sal gruesa y hornealas en una bandeja a 200 °C durante 30 a 35 minutos hasta que estén tiernas.",
+      "Retirá las papas y dales un golpe suave con la palma de la mano o un paño para que se abran ligeramente ('a murro').",
+      "En una fuente de barro refractaria, disponé los tentáculos de pulpo en el centro y rodealos con las papas cascadas.",
+      "Distribuí los dientes de ajo aplastados entre el pulpo y las papas.",
+      "Bañá todo generosamente con la taza de aceite de oliva virgen extra y pimienta negra recién molida.",
+      "Llevá al horno a 220 °C durante 15 a 20 minutos hasta que el pulpo adquiera bordes crocantes y los ajos estén tiernos y dorados.",
+      "Espolvoreá con perejil fresco picado y serví de inmediato bien caliente con su aceite aromático."
+    ],
+    "notes": "No agregues agua para cocer el pulpo: al cocinarse tapado a fuego bajo desprende abundante líquido natural concentrado en sabor marino. No escatimes aceite de oliva virgen extra, es el alma del plato."
+  },
+  {
+    "id": 852,
+    "title": "Pollo Tikka Masala (India)",
+    "category": "Aves",
+    "country": "India",
+    "prep_time": "25 min",
+    "cook_time": "30 min",
+    "rest_time": "2 h",
+    "servings": "4 porciones",
+    "calories": "520 kcal",
+    "image": "https://lh3.googleusercontent.com/-7dT8pA_thTI/awZQCFVM34I/AAAAAAAQDn0/-NsAvhAYJncIqWzLn-2rAZrVWM1LhCg8QCNcBGAsYHQ/s1600/pollo_tikka_masala.jpg",
+    "diet_badges": [
+      "Sin Gluten",
+      "Curry Mundial"
+    ],
+    "tags": [
+      "tikka masala",
+      "pollo tikka",
+      "india",
+      "curry",
+      "garam masala",
+      "tandoori",
+      "crema de leche"
+    ],
+    "story": "El pollo tikka masala es el puente culinario definitivo entre la cocina mogola del norte de la India y las tabernas de inmigrantes sudasiáticos en el Reino Unido de la década de 1960. Los trozos de pollo marinados en yogur y especias asados a alta temperatura se integran en una suntuosa salsa de tomate, crema y garam masala perfumada con fenogreco.",
+    "ingredients": [
+      "800 g de pechuga o muslo de pollo deshuesado cortado en cubos medianos",
+      "1/2 taza de yogur natural griego sin azúcar",
+      "2 cucharadas de jugo de limón fresco",
+      "2 cucharadas de pasta de jengibre y ajo fresco",
+      "1 cucharada de garam masala de calidad",
+      "1 cucharada de pimentón de Cachemira o pimentón dulce",
+      "1 cucharadita de cúrcuma molida",
+      "1 cucharadita de comino molido",
+      "2 cucharadas de manteca clarificada (ghee) o aceite vegetal",
+      "1 cebolla grande picada en brunoise fina",
+      "400 g de puré de tomate triturado (passata)",
+      "1/2 taza de crema de leche espesa",
+      "1 cucharada de hojas secas de fenogreco (kasoori methi)",
+      "Cilantro fresco picado para decorar",
+      "Sal fina al gusto"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Marinada Tikka",
+        "ingredients": [
+          "800 g de pechuga o muslo de pollo deshuesado cortado en cubos",
+          "1/2 taza de yogur natural griego sin azúcar",
+          "2 cucharadas de jugo de limón fresco",
+          "1 cucharada de pasta de jengibre y ajo fresco",
+          "1 cucharada de pimentón de Cachemira",
+          "1/2 cucharada de garam masala",
+          "1 cucharadita de cúrcuma",
+          "Sal fina al gusto"
+        ]
+      },
+      {
+        "name": "Salsa Masala y Terminado",
+        "ingredients": [
+          "2 cucharadas de manteca clarificada (ghee)",
+          "1 cebolla grande picada en brunoise fina",
+          "1 cucharada de pasta de jengibre y ajo",
+          "1/2 cucharada de garam masala",
+          "1 cucharadita de comino molido",
+          "400 g de puré de tomate triturado",
+          "1/2 taza de crema de leche espesa",
+          "1 cucharada de hojas secas de fenogreco (kasoori methi)",
+          "Cilantro fresco picado para decorar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Marinado, Asado y Elaboración de la Salsa",
+        "steps": [
+          "Mezclá el yogur con el jugo de limón, jengibre, ajo, pimentón, garam masala, cúrcuma y sal; cubrí los cubos de pollo y marinalos en la heladera por al menos 2 horas.",
+          "Disponé el pollo en una bandeja y llevalo a horno muy caliente con grill a 230 °C durante 12 a 15 minutos hasta que los bordes muestren un dorado tostado característico de tandoor.",
+          "En una cazuela amplia, derretí el ghee y sofríe la cebolla picada durante 8 minutos hasta que adquiera un tono dorado profundo.",
+          "Sumá el resto del jengibre y ajo, comino y garam masala, tostando las especias por 1 minuto para activar sus aceites esenciales.",
+          "Añadí el tomate triturado y cociná a fuego medio durante 10 minutos hasta que la salsa reduzca y expulse gotas de grasa en la superficie.",
+          "Verté la crema de leche y revolvé hasta obtener un color naranja vibrante y sedoso.",
+          "Incorporá los trozos de pollo asado con sus jugos y cociná a fuego bajo durante 5 minutos para que se impregnen de la salsa.",
+          "Finalizá frotando el kasoori methi entre las palmas sobre la cazuela y decorá con hojas de cilantro fresco."
+        ]
+      }
+    ],
+    "steps": [
+      "Mezclá el yogur con el jugo de limón, jengibre, ajo, pimentón, garam masala, cúrcuma y sal; cubrí los cubos de pollo y marinalos en la heladera por al menos 2 horas.",
+      "Disponé el pollo en una bandeja y llevalo a horno muy caliente con grill a 230 °C durante 12 a 15 minutos hasta que los bordes muestren un dorado tostado característico de tandoor.",
+      "En una cazuela amplia, derretí el ghee y sofríe la cebolla picada durante 8 minutos hasta que adquiera un tono dorado profundo.",
+      "Sumá el resto del jengibre y ajo, comino y garam masala, tostando las especias por 1 minuto para activar sus aceites esenciales.",
+      "Añadí el tomate triturado y cociná a fuego medio durante 10 minutos hasta que la salsa reduzca y expulse gotas de grasa en la superficie.",
+      "Verté la crema de leche y revolvé hasta obtener un color naranja vibrante y sedoso.",
+      "Incorporá los trozos de pollo asado con sus jugos y cociná a fuego bajo durante 5 minutos para que se impregnen de la salsa.",
+      "Finalizá frotando el kasoori methi entre las palmas sobre la cazuela y decorá con hojas de cilantro fresco."
+    ],
+    "notes": "El frotar hojas secas de fenogreco (kasoori methi) al final es el verdadero secreto de restaurante indio: aporta ese aroma dulce ambarino inconfundible que diferencia un curry casero de uno maestro."
+  },
+  {
+    "id": 853,
+    "title": "Butter Chicken (India)",
+    "category": "Aves",
+    "country": "India",
+    "prep_time": "25 min",
+    "cook_time": "35 min",
+    "rest_time": "3 h",
+    "servings": "4 porciones",
+    "calories": "580 kcal",
+    "image": "https://lh3.googleusercontent.com/-cRgnk1LIRlI/awZQDkbRXlI/AAAAAAAQDn8/zkNMAFuQhDo09bUic_D84dr_kdRJWEQQwCNcBGAsYHQ/s1600/butter_chicken.jpg",
+    "diet_badges": [
+      "Sin Gluten",
+      "Clásico de Delhi"
+    ],
+    "tags": [
+      "butter chicken",
+      "murgh makhani",
+      "india",
+      "delhi",
+      "moti mahal",
+      "manteca",
+      "tomate",
+      "crema"
+    ],
+    "story": "El murgh makhani o butter chicken fue concebido en Nueva Delhi en la década de 1950 por Kundan Lal Gujral en el mítico restaurante Moti Mahal. Para evitar que las piezas sobrantes de pollo tandoori se secaran, el chef creó una salsa aterciopelada a base de tomates maduros, manteca generosa, crema fresca y especias dulces.",
+    "ingredients": [
+      "800 g de muslos de pollo deshuesados en trozos",
+      "1/2 taza de yogur natural entero",
+      "2 cucharadas de pasta de jengibre y ajo",
+      "1 cucharada de pimentón dulce o Kashmiri chilli",
+      "1 cucharadita de garam masala",
+      "50 g de manteca sin sal de buena calidad",
+      "500 g de tomates perita maduros cocidos y licuados fino (o puré colado)",
+      "1/2 taza de crema de leche fresca espesa",
+      "1 cucharada de miel pura o azúcar rubia",
+      "1 cucharada de kasoori methi (hojas de fenogreco secas)",
+      "1 ramita de canela entera",
+      "3 vainas de cardamomo verde aplastadas",
+      "Sal fina al gusto"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Marinado y Pollo Tandoori",
+        "ingredients": [
+          "800 g de muslos de pollo deshuesados en trozos",
+          "1/2 taza de yogur natural entero",
+          "1 cucharada de pasta de jengibre y ajo",
+          "1 cucharada de Kashmiri chilli",
+          "1 cucharadita de sal"
+        ]
+      },
+      {
+        "name": "Salsa Makhani Aterciopelada",
+        "ingredients": [
+          "50 g de manteca sin sal",
+          "500 g de puré de tomate colado",
+          "1 cucharada de pasta de jengibre y ajo",
+          "1/2 taza de crema de leche fresca",
+          "1 cucharada de miel pura",
+          "1 cucharada de kasoori methi",
+          "1 ramita de canela entera",
+          "3 vainas de cardamomo verde aplastadas",
+          "1 cucharadita de garam masala"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Marinado, Braseado y Creación de la Salsa Makhani",
+        "steps": [
+          "Mariná los trozos de pollo con el yogur, jengibre, ajo, pimentón y sal durante al menos 3 horas.",
+          "Asá el pollo a 240 °C en horno con grill o en sartén bien caliente hasta que esté dorado por fuera pero jugoso por dentro.",
+          "En una cazuela profunda, fundí la mitad de la manteca junto con la canela y las vainas de cardamomo hasta que despidan su perfume.",
+          "Agregá el puré de tomate y el jengibre con ajo restante, cocinando a fuego lento durante 15 minutos hasta que reduzca a una consistencia espesa y brillante.",
+          "Colá la salsa para asegurar una textura perfectamente sedosa y devolvela a la cazuela.",
+          "Sumá la miel, el garam masala y la crema de leche, mezclando con batidor suave.",
+          "Incorporá los trozos de pollo asado y cociná a fuego muy bajo durante 8 minutos.",
+          "Finalizá agregando el resto de la manteca fría en dados para dar brillo emulsionado y el fenogreco seco frotado entre las manos."
+        ]
+      }
+    ],
+    "steps": [
+      "Mariná los trozos de pollo con el yogur, jengibre, ajo, pimentón y sal durante al menos 3 horas.",
+      "Asá el pollo a 240 °C en horno con grill o en sartén bien caliente hasta que esté dorado por fuera pero jugoso por dentro.",
+      "En una cazuela profunda, fundí la mitad de la manteca junto con la canela y las vainas de cardamomo hasta que despidan su perfume.",
+      "Agregá el puré de tomate y el jengibre con ajo restante, cocinando a fuego lento durante 15 minutos hasta que reduzca a una consistencia espesa y brillante.",
+      "Colá la salsa para asegurar una textura perfectamente sedosa y devolvela a la cazuela.",
+      "Sumá la miel, el garam masala y la crema de leche, mezclando con batidor suave.",
+      "Incorporá los trozos de pollo asado y cociná a fuego muy bajo durante 8 minutos.",
+      "Finalizá agregando el resto de la manteca fría en dados para dar brillo emulsionado y el fenogreco seco frotado entre las manos."
+    ],
+    "notes": "A diferencia del Tikka Masala, el Butter Chicken no lleva cebolla picada y se caracteriza por colar la salsa de tomates para lograr una textura aterciopelada y un balance dulce-cremoso inigualable."
+  },
+  {
+    "id": 854,
+    "title": "Palak Paneer (India)",
+    "category": "Guisos",
+    "country": "India",
+    "prep_time": "20 min",
+    "cook_time": "25 min",
+    "servings": "4 porciones",
+    "calories": "380 kcal",
+    "image": "https://lh3.googleusercontent.com/-7zvMLLow2kE/awZQEngTycI/AAAAAAAQDoE/vPgSiy7hXQsDJU4FPf1f7jaRRfFoPkqUQCNcBGAsYHQ/s1600/palak_paneer.jpg",
+    "diet_badges": [
+      "Vegetariano",
+      "Sin Gluten",
+      "Cocina del Punjab"
+    ],
+    "tags": [
+      "palak paneer",
+      "india",
+      "punjab",
+      "espinacas",
+      "paneer",
+      "queso fresco",
+      "curry verde",
+      "vegetariano"
+    ],
+    "story": "Originario de los fértiles campos del Punjab en el norte de la India, el palak paneer es uno de los platos vegetarianos más queridos de la gastronomía del subcontinente. El contraste entre la suavidad láctea del queso paneer dorado y la textura sedosa del puré de espinacas blanqueadas especiado con comino y garam masala refleja la generosidad de la cosecha campesina punjabí.",
+    "ingredients": [
+      "350 g de queso paneer cortado en cubos de 2 cm",
+      "500 g de espinacas frescas bien lavadas y sin tallos gruesos",
+      "1 cebolla mediana finamente picada",
+      "2 tomates maduros triturados",
+      "1 cucharada de pasta de jengibre y ajo",
+      "1 ají verde fresco (chile verde) picado",
+      "1 cucharadita de semillas de comino",
+      "1 cucharadita de garam masala",
+      "1/2 cucharadita de cúrcuma en polvo",
+      "2 cucharadas de manteca clarificada (ghee) o aceite vegetal",
+      "3 cucharadas de crema de leche fresca",
+      "Sal marina al gusto"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Puré Verde de Espinacas",
+        "ingredients": [
+          "500 g de espinacas frescas",
+          "1 ají verde fresco (chile verde) picado"
+        ]
+      },
+      {
+        "name": "Paneer y Base Especiada",
+        "ingredients": [
+          "350 g de queso paneer cortado en cubos de 2 cm",
+          "2 cucharadas de ghee",
+          "1 cucharadita de semillas de comino",
+          "1 cebolla mediana finamente picada",
+          "1 cucharada de pasta de jengibre y ajo",
+          "2 tomates maduros triturados",
+          "1/2 cucharadita de cúrcuma",
+          "1 cucharadita de garam masala",
+          "3 cucharadas de crema de leche fresca",
+          "Sal marina al gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Blanqueado, Puré y Guisado del Paneer",
+        "steps": [
+          "Sumergí las espinacas en agua hirviendo durante exactamente 2 minutos; escurrilas e inmediatamente pasalas a un bol con agua helada con cubos de hielo para fijar su intenso color verde brillante.",
+          "Escurrí el exceso de agua y licuá las espinacas con el ají verde hasta obtener un puré suave pero con textura.",
+          "En una sartén amplia, calentá una cucharada de ghee y dorá ligeramente los cubos de paneer por ambos lados durante 2 minutos; retiralos y colocalos en agua tibia para que se mantengan suaves.",
+          "En la misma sartén con el ghee restante, tostá las semillas de comino por 30 segundos hasta que crepiten.",
+          "Sumá la cebolla picada y salteala hasta que esté dorada; añadí el jengibre, el ajo, la cúrcuma y los tomates triturados, cocinando 6 minutos hasta formar una base espesa.",
+          "Verté el puré de espinacas en la sartén y cociná a fuego medio-bajo durante 4 minutos integrando con la salsa masala.",
+          "Agregá los cubos de paneer escurridos, el garam masala y la sal, cocinando 2 minutos más.",
+          "Terminá con un hilo de crema fresca por encima y serví con pan naan o arroz basmati."
+        ]
+      }
+    ],
+    "steps": [
+      "Sumergí las espinacas en agua hirviendo durante exactamente 2 minutos; escurrilas e inmediatamente pasalas a un bol con agua helada con cubos de hielo para fijar su intenso color verde brillante.",
+      "Escurrí el exceso de agua y licuá las espinacas con el ají verde hasta obtener un puré suave pero con textura.",
+      "En una sartén amplia, calentá una cucharada de ghee y dorá ligeramente los cubos de paneer por ambos lados durante 2 minutos; retiralos y colocalos en agua tibia para que se mantengan suaves.",
+      "En la misma sartén con el ghee restante, tostá las semillas de comino por 30 segundos hasta que crepiten.",
+      "Sumá la cebolla picada y salteala hasta que esté dorada; añadí el jengibre, el ajo, la cúrcuma y los tomates triturados, cocinando 6 minutos hasta formar una base espesa.",
+      "Verté el puré de espinacas en la sartén y cociná a fuego medio-bajo durante 4 minutos integrando con la salsa masala.",
+      "Agregá los cubos de paneer escurridos, el garam masala y la sal, cocinando 2 minutos más.",
+      "Terminá con un hilo de crema fresca por encima y serví con pan naan o arroz basmati."
+    ],
+    "notes": "El choque térmico en agua helada es el secreto innegociable para que las espinacas conserven su color verde esmeralda y no se tornen pardas ni amargas."
+  },
+  {
+    "id": 855,
+    "title": "Chana Masala (India)",
+    "category": "Guisos",
+    "country": "India",
+    "prep_time": "15 min",
+    "cook_time": "30 min",
+    "servings": "4 porciones",
+    "calories": "350 kcal",
+    "image": "https://lh3.googleusercontent.com/-wfy6_y2L4Kg/awZQFxlVR6I/AAAAAAAQDoQ/I6cTzXE4y-cykBFw8XPDaQJJmT81Nx34ACNcBGAsYHQ/s1600/chana_masala.jpg",
+    "diet_badges": [
+      "Vegano",
+      "Sin Gluten",
+      "Alto en Proteína"
+    ],
+    "tags": [
+      "chana masala",
+      "india",
+      "garbanzos",
+      "curry",
+      "amchur",
+      "comino",
+      "vegano",
+      "punjabi chole"
+    ],
+    "story": "El chana masala (o chole) es el pilar de la alimentación diaria en todo el norte de la India, consumido tanto en desayunos festivos como en puestos callejeros de Punjab y Delhi. Los garbanzos tiernos cocidos a fuego lento absorben una densa salsa de cebolla tostada, tomates y especias donde el polvo de mango seco (amchur) y las semillas de granada aportan su clásica nota ácida y digestiva.",
+    "ingredients": [
+      "500 g de garbanzos cocidos tiernos (o 2 latas escurridas)",
+      "1 cebolla grande finamente picada",
+      "3 tomates maduros picados finos",
+      "1 cucharada colmada de pasta de jengibre y ajo",
+      "1 cucharada de chana masala en polvo o garam masala",
+      "1 cucharadita de comino molido",
+      "1 cucharadita de cilantro molido",
+      "1/2 cucharadita de amchur (mango verde en polvo) o jugo de limón",
+      "1/2 cucharadita de cúrcuma",
+      "2 cucharadas de aceite vegetal o ghee",
+      "1 taza de caldo de cocción de los garbanzos o agua",
+      "Hojas de cilantro fresco y rodajas de jengibre para terminar",
+      "Sal marina al gusto"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Base de Especias y Sofrito",
+        "ingredients": [
+          "1 cebolla grande finamente picada",
+          "3 tomates maduros picados finos",
+          "1 cucharada de pasta de jengibre y ajo",
+          "2 cucharadas de aceite vegetal o ghee",
+          "1 cucharadita de comino molido",
+          "1 cucharadita de cilantro molido",
+          "1/2 cucharadita de cúrcuma",
+          "1 cucharada de chana masala en polvo",
+          "1/2 cucharadita de amchur (o jugo de limón)"
+        ]
+      },
+      {
+        "name": "Garbanzos y Emplatado",
+        "ingredients": [
+          "500 g de garbanzos cocidos tiernos",
+          "1 taza de caldo de garbanzos",
+          "Hojas de cilantro fresco y rodajas de jengibre",
+          "Sal marina al gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Sofrito Especiado y Estofado de Garbanzos",
+        "steps": [
+          "En una cazuela pesada, calentá el aceite y dorá la cebolla picada durante 8 minutos hasta que adquiera un color marrón dorado.",
+          "Añadí la pasta de jengibre y ajo, cocinando por 1 minuto hasta que desaparezca el aroma a crudo.",
+          "Agregá el comino, el cilantro molido, la cúrcuma y el chana masala, revolviendo rápidamente con el aceite durante 30 segundos para liberar sus aromas.",
+          "Incorporá los tomates picados y cociná a fuego medio durante 7 minutos hasta que se forme una pasta espesa y los tomates suelten su aceite.",
+          "Volcá los garbanzos cocidos y una taza de su caldo.",
+          "Con el dorso de la cuchara, aplastá una pequeña parte de los garbanzos contra la pared de la olla para espesar naturalmente la salsa.",
+          "Tapá y cociná a fuego lento durante 15 minutos para que los garbanzos se impregnen de todas las especias.",
+          "Añadí el amchur o el jugo de limón y la sal; decorá con cilantro fresco y tiritas de jengibre crudo."
+        ]
+      }
+    ],
+    "steps": [
+      "En una cazuela pesada, calentá el aceite y dorá la cebolla picada durante 8 minutos hasta que adquiera un color marrón dorado.",
+      "Añadí la pasta de jengibre y ajo, cocinando por 1 minuto hasta que desaparezca el aroma a crudo.",
+      "Agregá el comino, el cilantro molido, la cúrcuma y el chana masala, revolviendo rápidamente con el aceite durante 30 segundos para liberar sus aromas.",
+      "Incorporá los tomates picados y cociná a fuego medio durante 7 minutos hasta que se forme una pasta espesa y los tomates suelten su aceite.",
+      "Volcá los garbanzos cocidos y una taza de su caldo.",
+      "Con el dorso de la cuchara, aplastá una pequeña parte de los garbanzos contra la pared de la olla para espesar naturalmente la salsa.",
+      "Tapá y cociná a fuego lento durante 15 minutos para que los garbanzos se impregnen de todas las especias.",
+      "Añadí el amchur o el jugo de limón y la sal; decorá con cilantro fresco y tiritas de jengibre crudo."
+    ],
+    "notes": "Aplastá una cucharada colmada de garbanzos con la cuchara de madera contra el fondo: el almidón natural liberado le da a la salsa una consistencia untuosa de fonda tradicional sin necesidad de harinas."
+  },
+  {
+    "id": 856,
+    "title": "Pan Naan (India)",
+    "category": "Panadería",
+    "country": "India",
+    "prep_time": "20 min",
+    "cook_time": "15 min",
+    "rest_time": "1 h",
+    "servings": "6 unidades",
+    "calories": "240 kcal por unidad",
+    "image": "https://lh3.googleusercontent.com/-rCfJylQQGro/awZQHTWXxRI/AAAAAAAQDoY/Vc7hjhQ5yDwRIchlEAFHoA_5J4MKLbu1ACNcBGAsYHQ/s1600/pan_naan.jpg",
+    "diet_badges": [
+      "Vegetariano",
+      "Pan Plano Tradicional"
+    ],
+    "tags": [
+      "pan naan",
+      "naan",
+      "india",
+      "pan plano",
+      "ajo",
+      "manteca",
+      "ghee",
+      "sarten"
+    ],
+    "story": "Mencionado por primera vez en crónicas cortesanas del poeta Amir Kushrau en el siglo XIV en la corte del Sultanato de Delhi, el pan naan era un manjar reservado a la nobleza mogola para desayunar con qeema. Tradicionalmente horneado adhiriendo la masa a las paredes ardientes de arcilla del tandoor, su miga elástica y superficie ampollada lo convierten en el acompañamiento indispensable de los currys.",
+    "ingredients": [
+      "500 g de harina de trigo de fuerza o 000",
+      "150 g de yogur natural sin azúcar a temperatura ambiente",
+      "180 ml de agua tibia",
+      "1 cucharadita de levadura seca activa (5 g)",
+      "1 cucharadita de azúcar",
+      "1 cucharadita de sal fina",
+      "2 cucharadas de aceite vegetal o ghee derretido",
+      "4 cucharadas de manteca derretida con 3 dientes de ajo picados finos (para pincelar)",
+      "Cilantro fresco picado para espolvorear"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Masa de Naan",
+        "ingredients": [
+          "500 g de harina de trigo",
+          "150 g de yogur natural sin azúcar",
+          "180 ml de agua tibia",
+          "1 cucharadita de levadura seca",
+          "1 cucharadita de azúcar",
+          "1 cucharadita de sal fina",
+          "2 cucharadas de aceite vegetal o ghee"
+        ]
+      },
+      {
+        "name": "Manteca de Ajo y Terminado",
+        "ingredients": [
+          "4 cucharadas de manteca derretida",
+          "3 dientes de ajo picados finos",
+          "Cilantro fresco picado"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Amasado, Fermentación y Cocción en Sartén de Hierro",
+        "steps": [
+          "Disolvé la levadura y el azúcar en el agua tibia; dejá espumar durante 5 minutos.",
+          "En un bol amplio, colocá la harina y la sal; hacé un hueco en el centro y agregá la levadura activada, el yogur y el aceite vegetal.",
+          "Integrá con las manos y amasá sobre la mesada durante 8 minutos hasta obtener una masa suave, ligeramente pegajosa pero elástica.",
+          "Formá un bollo, untalo con un poco de aceite, tapalo con film y dejalo leudar en un lugar cálido durante 1 hora hasta que duplique su volumen.",
+          "Dividí la masa en 6 porciones iguales y bollalas con suavidad.",
+          "Estirá cada bollo con el palo de amasar dándole forma ovalada de lágrima, de unos 5 mm de grosor.",
+          "Calentá una sartén de hierro fundido a fuego medio-alto; pincelá la cara superior del naan con unas gotas de agua y colocá ese lado contra la sartén caliente.",
+          "Cociná durante 1 a 2 minutos hasta que aparezcan grandes ampollas infladas en la superficie; dalor vuelta y dorá el otro lado durante 1 minuto.",
+          "Retirá de la sartén e inmediatamente pincelá con abundante manteca con ajo derretida y espolvoreá con cilantro picado."
+        ]
+      }
+    ],
+    "steps": [
+      "Disolvé la levadura y el azúcar en el agua tibia; dejá espumar durante 5 minutos.",
+      "En un bol amplio, colocá la harina y la sal; hacé un hueco en el centro y agregá la levadura activada, el yogur y el aceite vegetal.",
+      "Integrá con las manos y amasá sobre la mesada durante 8 minutos hasta obtener una masa suave, ligeramente pegajosa pero elástica.",
+      "Formá un bollo, untalo con un poco de aceite, tapalo con film y dejalo leudar en un lugar cálido durante 1 hora hasta que duplique su volumen.",
+      "Dividí la masa en 6 porciones iguales y bollalas con suavidad.",
+      "Estirá cada bollo con el palo de amasar dándole forma ovalada de lágrima, de unos 5 mm de grosor.",
+      "Calentá una sartén de hierro fundido a fuego medio-alto; pincelá la cara superior del naan con unas gotas de agua y colocá ese lado contra la sartén caliente.",
+      "Cociná durante 1 a 2 minutos hasta que aparezcan grandes ampollas infladas en la superficie; dalor vuelta y dorá el otro lado durante 1 minuto.",
+      "Retirá de la sartén e inmediatamente pincelá con abundante manteca con ajo derretida y espolvoreá con cilantro picado."
+    ],
+    "notes": "Pincelar con un poco de agua la cara que va contra la sartén de hierro imita la adherencia de la pared del tandoor, generando vapor interno que infla las ampollas doradas y caramelizadas."
+  },
+  {
+    "id": 857,
+    "title": "Tajine de Cordero con Ciruelas (Marruecos)",
+    "category": "Guisos",
+    "country": "Marruecos",
+    "prep_time": "25 min",
+    "cook_time": "1 h 40 min",
+    "servings": "6 porciones",
+    "calories": "610 kcal",
+    "image": "https://lh3.googleusercontent.com/-4GxlrWeARaI/awZQI-Cp5rI/AAAAAAAQDog/MqV4thXioUYhyYWGJfvIN7M8g32IWA7FwCNcBGAsYHQ/s1600/tajine_de_cordero_ciruelas.jpg",
+    "diet_badges": [
+      "Sin Gluten",
+      "Cocina Magrebí Imperial"
+    ],
+    "tags": [
+      "tajine",
+      "marruecos",
+      "cordero",
+      "ciruelas",
+      "almendras",
+      "canela",
+      "azafran",
+      "cocina magrebi"
+    ],
+    "story": "El tajine de cordero con ciruelas (Mrouzia) es uno de los platos más suntuosos de las mesas imperiales de Fez y Marrakech, tradicionalmente cocinado durante la festividad del Eid al-Adha. La tapa cónica de arcilla del recipiente condensa el vapor aromático enriquecido con azafrán, jengibre y canela, logrando un balance perfecto entre la carne tierna y la dulzura caramelizada de las frutas.",
+    "ingredients": [
+      "1,2 kg de paletilla o pierna de cordero cortada en trozos grandes con hueso",
+      "200 g de ciruelas pasas secas sin carozo",
+      "2 cebollas medianas finamente ralladas",
+      "3 dientes de ajo picados",
+      "1 ramita de canela entera",
+      "1 cucharadita de canela molida",
+      "1 cucharadita de jengibre molido",
+      "1/2 cucharadita de hebras de azafrán disueltas en 3 cucharadas de agua tibia",
+      "1 cucharada de miel pura de abejas",
+      "1/2 taza de almendras peladas y tostadas en un hilo de aceite",
+      "3 cucharadas de aceite de oliva",
+      "Semillas de sésamo tostadas para decorar",
+      "Sal marina y pimienta negra molida"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Estofado de Cordero",
+        "ingredients": [
+          "1,2 kg de cordero cortado en trozos grandes",
+          "2 cebollas finamente ralladas",
+          "3 dientes de ajo picados",
+          "1 ramita de canela entera",
+          "1 cucharadita de jengibre molido",
+          "Hebras de azafrán disueltas en agua tibia",
+          "3 cucharadas de aceite de oliva",
+          "Sal marina y pimienta negra"
+        ]
+      },
+      {
+        "name": "Glaseado de Ciruelas y Terminado",
+        "ingredients": [
+          "200 g de ciruelas pasas secas sin carozo",
+          "1 cucharadita de canela molida",
+          "1 cucharada de miel pura de abejas",
+          "1/2 taza de almendras peladas tostadas",
+          "Semillas de sésamo tostadas"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Sellado, Cocción Lenta y Caramelizado",
+        "steps": [
+          "En el tajine o en una cazuela pesada con tapa, calentá el aceite de oliva y dorá los trozos de cordero por todos sus lados.",
+          "Agregá la cebolla rallada, los ajos, el jengibre molido, la rama de canela, el azafrán, sal y pimienta.",
+          "Cubrí con dos tazas de agua tibia, tapá con el cono del tajine y cociná a fuego muy bajo durante 1 hora y 15 minutos hasta que la carne esté tiernísima.",
+          "En una cacerolita aparte, colocá las ciruelas pasas con un cucharón del caldo de cocción del cordero, la canela molida y la miel; cociná a fuego bajo durante 10 minutos hasta que estén hinchadas y glaseadas.",
+          "Retirá la tapa del tajine y dejá reducir la salsa del cordero durante 10 minutos hasta que quede densa y untuosa.",
+          "Acomodá las ciruelas glaseadas sobre los trozos de cordero, salseá con el almíbar de miel y canela, y coroná con las almendras tostadas y semillas de sésamo.",
+          "Serví directamente en el recipiente de arcilla acompañado de pan marroquí (khobz)."
+        ]
+      }
+    ],
+    "steps": [
+      "En el tajine o en una cazuela pesada con tapa, calentá el aceite de oliva y dorá los trozos de cordero por todos sus lados.",
+      "Agregá la cebolla rallada, los ajos, el jengibre molido, la rama de canela, el azafrán, sal y pimienta.",
+      "Cubrí con dos tazas de agua tibia, tapá con el cono del tajine y cociná a fuego muy bajo durante 1 hora y 15 minutos hasta que la carne esté tiernísima.",
+      "En una cacerolita aparte, colocá las ciruelas pasas con un cucharón del caldo de cocción del cordero, la canela molida y la miel; cociná a fuego bajo durante 10 minutos hasta que estén hinchadas y glaseadas.",
+      "Retirá la tapa del tajine y dejá reducir la salsa del cordero durante 10 minutos hasta que quede densa y untuosa.",
+      "Acomodá las ciruelas glaseadas sobre los trozos de cordero, salseá con el almíbar de miel y canela, y coroná con las almendras tostadas y semillas de sésamo.",
+      "Serví directamente en el recipiente de arcilla acompañado de pan marroquí (khobz)."
+    ],
+    "notes": "Rallar la cebolla en lugar de picarla es fundamental: se deshace por completo en el caldo formando una salsa espesa y sedosa sin necesidad de añadir espesantes."
+  },
+  {
+    "id": 858,
+    "title": "Pastilla de Pollo (Marruecos)",
+    "category": "Pastas y Masas",
+    "country": "Marruecos",
+    "prep_time": "45 min",
+    "cook_time": "45 min",
+    "servings": "8 porciones",
+    "calories": "520 kcal",
+    "image": "https://lh3.googleusercontent.com/-N6qKDqzO9E0/awZQJyWrneI/AAAAAAAQDoo/qN4zhia5JjkRpiA-MH-nB58oJhCbz3-HgCNcBGAsYHQ/s1600/pastilla_marroqui_pollo.jpg",
+    "diet_badges": [
+      "Plato de Fiesta",
+      "Agredulce Tradicional"
+    ],
+    "tags": [
+      "pastilla",
+      "bastilla",
+      "marruecos",
+      "pollo",
+      "almendras",
+      "masa filo",
+      "canela",
+      "azucar glas",
+      "fez"
+    ],
+    "story": "De herencia hispanomusulmana llevada al norte de África tras la caída de Al-Ándalus en 1492, la pastilla (bastilla) alcanzó su máxima sofisticación en los palacios de Fez. Este pastel hojaldrado envuelve capas de pollo especiado con azafrán y jengibre, una cuajada de huevos al cilantro y una crujiente capa de almendras tostadas con canela y azúcar glas.",
+    "ingredients": [
+      "800 g de pechuga y muslo de pollo deshuesado",
+      "12 láminas de masa filo o masa warka",
+      "3 cebollas grandes finamente picadas",
+      "4 huevos camperos batidos",
+      "150 g de almendras peladas, tostadas y picadas gruesas",
+      "100 g de manteca derretida para pincelar",
+      "1 cucharadita de hebras de azafrán",
+      "1 cucharadita de jengibre molido",
+      "2 cucharaditas de canela molida",
+      "3 cucharadas de azúcar glas",
+      "1 manojo de cilantro y perejil picado",
+      "Sal y pimienta negra molida"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Relleno de Pollo Especiado y Cuajada de Huevo",
+        "ingredients": [
+          "800 g de pollo deshuesado",
+          "3 cebollas grandes finamente picadas",
+          "4 huevos camperos batidos",
+          "1 cucharadita de hebras de azafrán",
+          "1 cucharadita de jengibre molido",
+          "1 cucharadita de canela molida",
+          "1 manojo de cilantro y perejil picado",
+          "Sal y pimienta negra molida"
+        ]
+      },
+      {
+        "name": "Capa Crujiente y Hojaldrado",
+        "ingredients": [
+          "12 láminas de masa filo o warka",
+          "150 g de almendras tostadas y picadas",
+          "100 g de manteca derretida",
+          "2 cucharaditas de canela molida",
+          "3 cucharadas de azúcar glas"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Cocción del Pollo, Reducción de Salsa, Armado y Horneado",
+        "steps": [
+          "Cociná el pollo en una cazuela con las cebollas, el azafrán, jengibre, una cucharadita de canela, cilantro, perejil, sal, pimienta y una taza de agua durante 30 minutos.",
+          "Retirá el pollo, dejalo entibiar y desmenuzalo fino con las manos.",
+          "Mantené la cacerola a fuego medio hasta reducir todo el líquido de la cebolla; verté los huevos batidos y revolvé durante 3 minutos hasta obtener un revuelto suave y húmedo. Dejá enfriar.",
+          "Mezclá las almendras picadas con una cucharadita de canela y dos cucharadas de azúcar glas.",
+          "Pincelá un molde redondo para tarta con manteca derretida; disponé 5 láminas de masa filo superpuestas en abanico, dejando que los bordes cuelguen hacia afuera, pincelando cada capa con manteca.",
+          "Colocá la capa de pollo desmenuzado, cubrí con una lámina de masa pincelada, añadí la mezcla de huevos y cebolla, otra lámina pincelada y coroná con las almendras especiadas.",
+          "Plegá los bordes colgantes hacia el centro, cubrí con 2 láminas finales de masa filo remetiéndolas por debajo como una sábana y pincelá generosamente con manteca.",
+          "Horneá a 190 °C durante 25 a 30 minutos hasta que esté dorada y crocante.",
+          "Dejá reposar 5 minutos, desmoldá e invertí en un plato, y decorá la superficie trazando un rombo tradicional con azúcar glas y líneas de canela molida."
+        ]
+      }
+    ],
+    "steps": [
+      "Cociná el pollo en una cazuela con las cebollas, el azafrán, jengibre, una cucharadita de canela, cilantro, perejil, sal, pimienta y una taza de agua durante 30 minutos.",
+      "Retirá el pollo, dejalo entibiar y desmenuzalo fino con las manos.",
+      "Mantené la cacerola a fuego medio hasta reducir todo el líquido de la cebolla; verté los huevos batidos y revolvé durante 3 minutos hasta obtener un revuelto suave y húmedo. Dejá enfriar.",
+      "Mezclá las almendras picadas con una cucharadita de canela y dos cucharadas de azúcar glas.",
+      "Pincelá un molde redondo para tarta con manteca derretida; disponé 5 láminas de masa filo superpuestas en abanico, dejando que los bordes cuelguen hacia afuera, pincelando cada capa con manteca.",
+      "Colocá la capa de pollo desmenuzado, cubrí con una lámina de masa pincelada, añadí la mezcla de huevos y cebolla, otra lámina pincelada y coroná con las almendras especiadas.",
+      "Plegá los bordes colgantes hacia el centro, cubrí con 2 láminas finales de masa filo remetiéndolas por debajo como una sábana y pincelá generosamente con manteca.",
+      "Horneá a 190 °C durante 25 a 30 minutos hasta que esté dorada y crocante.",
+      "Dejá reposar 5 minutos, desmoldá e invertí en un plato, y decorá la superficie trazando un rombo tradicional con azúcar glas y líneas de canela molida."
+    ],
+    "notes": "Dejá enfriar totalmente los rellenos antes de armar la pastilla: si el pollo o la cuajada de huevo están calientes, ablandarán la masa filo arruinando su textura crujiente."
+  },
+  {
+    "id": 859,
+    "title": "Sopa Harira (Marruecos)",
+    "category": "Sopas",
+    "country": "Marruecos",
+    "prep_time": "20 min",
+    "cook_time": "50 min",
+    "servings": "6 porciones",
+    "calories": "340 kcal",
+    "image": "https://lh3.googleusercontent.com/-8eNIWIztMpU/awZQLNypqoI/AAAAAAAQDow/ym6ioLW8Hustyf6xKXWlk-tsSHTLhKUrwCNcBGAsYHQ/s1600/sopa_harira.jpg",
+    "diet_badges": [
+      "Sopa Tradicional",
+      "Ruptura del Ayuno"
+    ],
+    "tags": [
+      "sopa harira",
+      "harira",
+      "marruecos",
+      "lentejas",
+      "garbanzos",
+      "ramadan",
+      "apio",
+      "fideos"
+    ],
+    "story": "La harira es el alma líquida de Marruecos, emblemática por ser el plato con el que millones de familias rompen diariamente el ayuno del Ramadán (iftar). Su nombre deriva de la palabra árabe para 'seda' (harir), en alusión a la textura untuosa que adquiere este reconstituyente caldo de legumbres, carne, tomates frescos, apio y fideos finos.",
+    "ingredients": [
+      "250 g de carne de cordero o ternera cortada en dados pequeños",
+      "1 taza de garbanzos remojados pelados",
+      "1/2 taza de lentejas pardinas",
+      "500 g de tomates maduros rallados o triturados",
+      "1 cebolla grande rallada",
+      "2 ramas de apio con sus hojas picadas fino",
+      "1 taza de fideos cabello de ángel o fideos finos",
+      "1 manojo de cilantro y perejil picado",
+      "1 cucharadita de jengibre molido",
+      "1 cucharadita de cúrcuma",
+      "1/2 cucharadita de canela molida",
+      "3 cucharadas de harina disueltas en 1 taza de agua fría (tedouira)",
+      "2 cucharadas de aceite de oliva",
+      "Jugo de limón y dátiles para acompañar",
+      "Sal y pimienta negra molida"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Legumbres, Carne y Caldo",
+        "ingredients": [
+          "250 g de carne de cordero o ternera en dados",
+          "1 taza de garbanzos remojados pelados",
+          "1/2 taza de lentejas pardinas",
+          "500 g de tomates maduros rallados",
+          "1 cebolla grande rallada",
+          "2 ramas de apio con hojas picadas",
+          "1 cucharadita de jengibre molido",
+          "1 cucharadita de cúrcuma",
+          "1/2 cucharadita de canela molida",
+          "2 cucharadas de aceite de oliva",
+          "Sal y pimienta negra"
+        ]
+      },
+      {
+        "name": "Tedouira (Ligazón) y Acabado",
+        "ingredients": [
+          "3 cucharadas de harina disueltas en 1 taza de agua fría",
+          "1 taza de fideos cabello de ángel",
+          "1 manojo de cilantro y perejil picado",
+          "Jugo de limón y dátiles para acompañar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Cocción de Legumbres, Ligazón Sedosa y Terminado",
+        "steps": [
+          "En una olla grande, calentá el aceite de oliva y salteá los dados de carne con la cebolla rallada, el apio picado, el jengibre, la cúrcuma, la canela, sal y pimienta durante 5 minutos.",
+          "Añadí el tomate rallado, los garbanzos pelados, las lentejas y 2 litros de agua.",
+          "Llevá a ebullición, tapá la olla y cociná a fuego medio-bajo durante 40 minutos hasta que las legumbres y la carne estén tiernísimas.",
+          "Verté lentamente la mezcla de harina y agua (tedouira) batiendo constantemente con cuchara de madera para que no se formen grumos y la sopa adquiera su característica consistencia sedosa.",
+          "Dejá hervir a fuego suave durante 5 minutos para que la harina se cocine por completo.",
+          "Agregá los fideos cabello de ángel y cociná durante 3 a 4 minutos hasta que estén tiernos.",
+          "Apagá el fuego, sumá el cilantro y perejil fresco picado, y serví bien caliente en cuencos hondos acompañada de cuartos de limón y dátiles dulces."
+        ]
+      }
+    ],
+    "steps": [
+      "En una olla grande, calentá el aceite de oliva y salteá los dados de carne con la cebolla rallada, el apio picado, el jengibre, la cúrcuma, la canela, sal y pimienta durante 5 minutos.",
+      "Añadí el tomate rallado, los garbanzos pelados, las lentejas y 2 litros de agua.",
+      "Llevá a ebullición, tapá la olla y cociná a fuego medio-bajo durante 40 minutos hasta que las legumbres y la carne estén tiernísimas.",
+      "Verté lentamente la mezcla de harina y agua (tedouira) batiendo constantemente con cuchara de madera para que no se formen grumos y la sopa adquiera su característica consistencia sedosa.",
+      "Dejá hervir a fuego suave durante 5 minutos para que la harina se cocine por completo.",
+      "Agregá los fideos cabello de ángel y cociná durante 3 a 4 minutos hasta que estén tiernos.",
+      "Apagá el fuego, sumá el cilantro y perejil fresco picado, y serví bien caliente en cuencos hondos acompañada de cuartos de limón y dátiles dulces."
+    ],
+    "notes": "Pelar los garbanzos remojados frotándolos con un paño de cocina antes de hervirlos es el detalle que marca la diferencia en la textura aterciopelada y delicada de la harira tradicional."
+  },
+  {
+    "id": 860,
+    "title": "Koshari (Egipto)",
+    "category": "Guisos",
+    "country": "Egipto",
+    "prep_time": "25 min",
+    "cook_time": "35 min",
+    "servings": "6 porciones",
+    "calories": "460 kcal",
+    "image": "https://lh3.googleusercontent.com/-EPgCn6t0GA4/awZQMGH0VjI/AAAAAAAQDo4/Z0kifM8_q8Eb0kk6ciq0e13JoLCVOo5iACNcBGAsYHQ/s1600/koshari_egipcio.jpg",
+    "diet_badges": [
+      "Vegano",
+      "Plato Nacional Callejero"
+    ],
+    "tags": [
+      "koshari",
+      "egipto",
+      "lentejas",
+      "arroz",
+      "macarrones",
+      "cebolla frita",
+      "salsa de tomate",
+      "comino",
+      "dakka"
+    ],
+    "story": "El koshari surgió en las bulliciosas calles de El Cairo a mediados del siglo XIX, reflejando el cruce multicultural de la época entre la guarnición británica que consumía khichdi indio, los comerciantes italianos que introdujeron la pasta y la tradición agrícola egipcia de las lentejas pardinas. Hoy en día es indiscutiblemente el plato nacional y emblema de la comida callejera de Egipto.",
+    "ingredients": [
+      "1 taza de lentejas pardinas cocidas al dente",
+      "1 taza de arroz blanco cocido",
+      "1 taza de fideos cabello de ángel dorados en aceite",
+      "1 taza de pasta corta tipo macarrones o coditos cocidos",
+      "1 taza de garbanzos cocidos",
+      "3 cebollas grandes cortadas en plumas finas para freír crujientes",
+      "400 g de puré de tomate",
+      "4 dientes de ajo picados",
+      "2 cucharadas de vinagre de vino blanco",
+      "1 cucharada de comino molido",
+      "1 cucharadita de cilantro molido",
+      "1/2 cucharadita de ají picante en polvo (chilli)",
+      "Aceite vegetal abundante para freír la cebolla",
+      "Sal marina al gusto"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Bases de Granos, Legumbres y Pasta",
+        "ingredients": [
+          "1 taza de lentejas pardinas cocidas",
+          "1 taza de arroz blanco cocido",
+          "1 taza de fideos cabello de ángel dorados",
+          "1 taza de pasta corta cocida",
+          "1 taza de garbanzos cocidos"
+        ]
+      },
+      {
+        "name": "Cebolla Crocante y Salsas Especiadas",
+        "ingredients": [
+          "3 cebollas grandes cortadas en plumas finas",
+          "400 g de puré de tomate",
+          "4 dientes de ajo picados",
+          "2 cucharadas de vinagre blanco",
+          "1 cucharada de comino molido",
+          "1 cucharadita de cilantro molido",
+          "1/2 cucharadita de ají picante",
+          "Aceite vegetal abundante para freír",
+          "Sal marina"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Cebolla Crocante, Salsas y Montaje en Capas",
+        "steps": [
+          "Freí las plumas de cebolla en abundante aceite caliente hasta que estén bien oscuras, crocantes y doradas; escurrí sobre papel absorbente (este aceite aromatizado se usa para sazonar los demás componentes).",
+          "En una cacerolita, usá 2 cucharadas del aceite de la cebolla para dorar la mitad del ajo; sumá el puré de tomate, vinagre, comino, sal y pimienta, cocinando durante 10 minutos hasta lograr una salsa sabrosa.",
+          "Prepará el aderezo de ajo y comino (dakka) mezclando el ajo restante con un chorro de vinagre, jugo de limón, comino y agua tibia.",
+          "Mezclá el arroz cocido con los fideos dorados y las lentejas pardinas sazonando con una pizca de comino y aceite de cebolla.",
+          "Para servir, colocá una base generosa de la mezcla de arroz y lentejas en un plato hondo o tazón.",
+          "Cubrí con una capa de pasta corta cocida y repartí los garbanzos por encima.",
+          "Bañá con la salsa de tomate especiada, rociá con un poco de dakka al gusto y coroná con una abundante montaña de cebolla frita crujiente."
+        ]
+      }
+    ],
+    "steps": [
+      "Freí las plumas de cebolla en abundante aceite caliente hasta que estén bien oscuras, crocantes y doradas; escurrí sobre papel absorbente (este aceite aromatizado se usa para sazonar los demás componentes).",
+      "En una cacerolita, usá 2 cucharadas del aceite de la cebolla para dorar la mitad del ajo; sumá el puré de tomate, vinagre, comino, sal y pimienta, cocinando durante 10 minutos hasta lograr una salsa sabrosa.",
+      "Prepará el aderezo de ajo y comino (dakka) mezclando el ajo restante con un chorro de vinagre, jugo de limón, comino y agua tibia.",
+      "Mezclá el arroz cocido con los fideos dorados y las lentejas pardinas sazonando con una pizca de comino y aceite de cebolla.",
+      "Para servir, colocá una base generosa de la mezcla de arroz y lentejas en un plato hondo o tazón.",
+      "Cubrí con una capa de pasta corta cocida y repartí los garbanzos por encima.",
+      "Bañá con la salsa de tomate especiada, rociá con un poco de dakka al gusto y coroná con una abundante montaña de cebolla frita crujiente."
+    ],
+    "notes": "El aceite donde se fríen las cebollas hasta quedar crocantes es el gran secreto: usar dos cucharadas de ese mismo aceite para sazonar el arroz y la salsa de tomate une todos los sabores en una armonía irresistible."
+  },
+  {
+    "id": 861,
+    "title": "Currywurst (Alemania)",
+    "category": "Carnes",
+    "country": "Alemania",
+    "prep_time": "15 min",
+    "cook_time": "20 min",
+    "servings": "4 porciones",
+    "calories": "580 kcal",
+    "image": "https://lh3.googleusercontent.com/-NlbFYllrhYE/awZRmjLj3yI/AAAAAAAQDpc/4quxAsZxXjMdb_tHEWrYRXV0YhkQ1A4NgCNcBGAsYHQ/s1600/currywurst_alemania.jpg",
+    "diet_badges": [
+      "Comida Callejera Berlinesa",
+      "Rápido"
+    ],
+    "tags": [
+      "currywurst",
+      "alemania",
+      "berlin",
+      "salchicha",
+      "curry",
+      "ketchup especiado",
+      "papas fritas"
+    ],
+    "story": "El currywurst fue inventado en Berlín Occidental en 1949 por Herta Heuwer en su puesto callejero del barrio de Charlottenburg. Al conseguir polvo de curry y salsa inglesa de los soldados británicos estacionados en la ciudad devastada por la guerra, los mezcló con puré de tomates para bañar las salchichas asadas, dando origen al bocado urbano más venerado de Alemania.",
+    "ingredients": [
+      "4 salchichas alemanas tipo Bratwurst o Bockwurst de cerdo de primera calidad",
+      "1 taza de puré de tomate o passata espesa",
+      "3 cucharadas de ketchup de buena calidad",
+      "2 cucharadas de polvo de curry dulce o madras (más extra para espolvorear)",
+      "1 cucharada de salsa Worcestershire (salsa inglesa)",
+      "1 cucharada de vinagre de manzana",
+      "1 cucharada de azúcar moreno",
+      "1 cucharadita de pimentón dulce ahumado",
+      "1 pizca de pimienta de Cayena",
+      "2 cucharadas de aceite vegetal para dorar",
+      "Papas fritas o panecillo crujiente (Brötchen) para servir"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Salsa de Curry Berlinesa",
+        "ingredients": [
+          "1 taza de puré de tomate",
+          "3 cucharadas de ketchup",
+          "2 cucharadas de polvo de curry dulce o madras",
+          "1 cucharada de salsa Worcestershire",
+          "1 cucharada de vinagre de manzana",
+          "1 cucharada de azúcar moreno",
+          "1 cucharadita de pimentón dulce ahumado",
+          "1 pizca de pimienta de Cayena"
+        ]
+      },
+      {
+        "name": "Salchichas y Guarnición",
+        "ingredients": [
+          "4 salchichas alemanas tipo Bratwurst",
+          "2 cucharadas de aceite vegetal",
+          "Polvo de curry para espolvorear",
+          "Papas fritas para servir"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Elaboración de la Salsa, Dorado de Salchichas y Servido",
+        "steps": [
+          "En una cacerolita, combiná el puré de tomate con el ketchup, vinagre de manzana, azúcar moreno, salsa inglesa, polvo de curry, pimentón y pimienta de Cayena.",
+          "Llevá a hervor suave y cociná a fuego bajo durante 10 minutos hasta que espese y adquiera un color rojo oscuro brillante. Reservá caliente.",
+          "En una sartén de fondo grueso, calentá el aceite vegetal a fuego medio y dorá las salchichas enteras haciéndoles pequeños cortes superficiales hasta que estén bien crocantes y doradas por todos lados.",
+          "Retirá las salchichas de la sartén y cortalas en rodajas gruesas de unos 2 cm de grosor.",
+          "Disponé las rodajas de salchicha en bandejas individuales o platos.",
+          "Bañalas generosamente con la salsa de curry caliente.",
+          "Espolvoreá una lluvia fina de polvo de curry por encima de la salsa.",
+          "Acompañá de inmediato con papas fritas recién hechas y mayonesa al estilo alemán."
+        ]
+      }
+    ],
+    "steps": [
+      "En una cacerolita, combiná el puré de tomate con el ketchup, vinagre de manzana, azúcar moreno, salsa inglesa, polvo de curry, pimentón y pimienta de Cayena.",
+      "Llevá a hervor suave y cociná a fuego bajo durante 10 minutos hasta que espese y adquiera un color rojo oscuro brillante. Reservá caliente.",
+      "En una sartén de fondo grueso, calentá el aceite vegetal a fuego medio y dorá las salchichas enteras haciéndoles pequeños cortes superficiales hasta que estén bien crocantes y doradas por todos lados.",
+      "Retirá las salchichas de la sartén y cortalas en rodajas gruesas de unos 2 cm de grosor.",
+      "Disponé las rodajas de salchicha en bandejas individuales o platos.",
+      "Bañalas generosamente con la salsa de curry caliente.",
+      "Espolvoreá una lluvia fina de polvo de curry por encima de la salsa.",
+      "Acompañá de inmediato con papas fritas recién hechas y mayonesa al estilo alemán."
+    ],
+    "notes": "Para una salsa de curry auténtica, no uses solo ketchup frío de botella: cocinar el tomate con el curry, vinagre y azúcar despierta los aceites aromáticos de las especias dándole cuerpo y profundidad."
+  },
+  {
+    "id": 862,
+    "title": "Brezel (Alemania)",
+    "category": "Panadería",
+    "country": "Alemania",
+    "prep_time": "30 min",
+    "cook_time": "15 min",
+    "rest_time": "1 h",
+    "servings": "8 unidades",
+    "calories": "230 kcal por unidad",
+    "image": "https://lh3.googleusercontent.com/-36bXs9TyhxU/awZRoZbJZuI/AAAAAAAQDpk/GDOmpQ3x50YSqCeFsCROPlPDo6X0ZwYzQCNcBGAsYHQ/s1600/brezel_alemania.jpg",
+    "diet_badges": [
+      "Vegetariano",
+      "Panadería Bávara"
+    ],
+    "tags": [
+      "brezel",
+      "pretzel",
+      "alemania",
+      "baviera",
+      "pan de lazo",
+      "sal gruesa",
+      "bicarbonato",
+      "cerveza"
+    ],
+    "story": "El brezel es un símbolo panadero de Baviera y el sur de Alemania desde la Edad Media, documentado en emblemas gremiales desde el siglo XII. Su forma de lazo entrelazado simboliza los brazos cruzados en oración de los monjes, y su característica corteza castaño brillante se logra mediante un breve baño alcalino antes de hornear a fuego vivo.",
+    "ingredients": [
+      "500 g de harina de trigo 000 de fuerza",
+      "280 ml de agua tibia",
+      "7 g de levadura seca de panadería (o 20 g de levadura fresca)",
+      "1 cucharadita de azúcar",
+      "1 cucharadita colmada de sal fina",
+      "40 g de manteca a temperatura ambiente",
+      "1,5 litros de agua para el baño",
+      "50 g de bicarbonato de sodio",
+      "Sal gruesa para brezel (sal en escamas gruesas) para espolvorear"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Masa de Brezel",
+        "ingredients": [
+          "500 g de harina de trigo 000",
+          "280 ml de agua tibia",
+          "7 g de levadura seca de panadería",
+          "1 cucharadita de azúcar",
+          "1 cucharadita de sal fina",
+          "40 g de manteca a temperatura ambiente"
+        ]
+      },
+      {
+        "name": "Baño Alcalino y Acabado",
+        "ingredients": [
+          "1,5 litros de agua",
+          "50 g de bicarbonato de sodio",
+          "Sal gruesa para brezel"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Amasado, Modelado, Baño Alcalino y Horneado",
+        "steps": [
+          "En un bol grande, disolvé la levadura y el azúcar en el agua tibia; agregá la harina, la sal y la manteca pomada.",
+          "Amasá firmemente durante 10 minutos hasta lograr una masa consistente, elástica y homogénea.",
+          "Cubrí el bol y dejá reposar la masa durante 45 minutos a temperatura ambiente hasta que casi doble su tamaño.",
+          "Dividí la masa en 8 porciones iguales de unos 100 g y formalas en tiras largas de unos 60 cm, dejando el centro más grueso y los extremos afinados.",
+          "Cruza los extremos formando un lazo característico de brezel y pegalos sobre el lomo grueso central presionando levemente.",
+          "Colocá los brezels formados en una placa y llevalos a la heladera o congelador durante 15 minutos para que la masa tome firmeza y mantenga su forma al manipularla.",
+          "Llevá a hervor el litro y medio de agua con el bicarbonato de sodio; sumergí cada brezel durante 30 segundos con una espumadera, escurrí y disponelo en una placa con papel manteca.",
+          "Hacé un corte horizontal con cuchilla afilada en la parte más gruesa del lazo y espolvoreá con sal gruesa.",
+          "Horneá a 210 °C durante 14 a 16 minutos hasta que tomen un color marrón castaño brillante y corteza crocante."
+        ]
+      }
+    ],
+    "steps": [
+      "En un bol grande, disolvé la levadura y el azúcar en el agua tibia; agregá la harina, la sal y la manteca pomada.",
+      "Amasá firmemente durante 10 minutos hasta lograr una masa consistente, elástica y homogénea.",
+      "Cubrí el bol y dejá reposar la masa durante 45 minutos a temperatura ambiente hasta que casi doble su tamaño.",
+      "Dividí la masa en 8 porciones iguales de unos 100 g y formalas en tiras largas de unos 60 cm, dejando el centro más grueso y los extremos afinados.",
+      "Cruza los extremos formando un lazo característico de brezel y pegalos sobre el lomo grueso central presionando levemente.",
+      "Colocá los brezels formados en una placa y llevalos a la heladera o congelador durante 15 minutos para que la masa tome firmeza y mantenga su forma al manipularla.",
+      "Llevá a hervor el litro y medio de agua con el bicarbonato de sodio; sumergí cada brezel durante 30 segundos con una espumadera, escurrí y disponelo en una placa con papel manteca.",
+      "Hacé un corte horizontal con cuchilla afilada en la parte más gruesa del lazo y espolvoreá con sal gruesa.",
+      "Horneá a 210 °C durante 14 a 16 minutos hasta que tomen un color marrón castaño brillante y corteza crocante."
+    ],
+    "notes": "Enfriar los brezels modelados en frío antes de sumergirlos en el baño de bicarbonato evita que se deformen y permite que el corte central se abra de forma limpia durante el horneado."
+  },
+  {
+    "id": 863,
+    "title": "Wiener Schnitzel (Austria)",
+    "category": "Carnes",
+    "country": "Austria",
+    "prep_time": "20 min",
+    "cook_time": "10 min",
+    "servings": "4 porciones",
+    "calories": "620 kcal",
+    "image": "https://lh3.googleusercontent.com/-NoI_mhu5xwI/awZRqIpyn9I/AAAAAAAQDps/dQCn7nWt96EXuQva5dpRDDTXfnMb1MB6ACNcBGAsYHQ/s1600/wiener_schnitzel_austria.jpg",
+    "diet_badges": [
+      "Clásico Vienés",
+      "Rebozado Soufflé"
+    ],
+    "tags": [
+      "wiener schnitzel",
+      "austria",
+      "viena",
+      "escalope",
+      "ternera",
+      "pan rallado",
+      "manteca clarificada",
+      "milanesa"
+    ],
+    "story": "El auténtico Wiener Schnitzel está protegido por ley en Austria y debe elaborarse exclusivamente con filetes finos de ternera de leche (Kalbsschnitzel). Popularizado en la corte imperial de los Habsburgo en Viena durante el siglo XIX, su máxima virtud culinaria reside en el rebozado 'soufflé': una capa ondulada de pan rallado que se infla sin adherirse a la carne al freírse en manteca clarificada.",
+    "ingredients": [
+      "4 filetes de ternera tierna (nalga o bola de lomo de ternera) de unos 160 g cada uno",
+      "1/2 taza de harina de trigo 0000",
+      "2 huevos camperos ligeramente batidos con una pizca de sal",
+      "1 taza y media de pan rallado casero (de pan blanco sin corteza)",
+      "200 g de manteca clarificada (Butterschmalz) o mezcla de aceite neutro y manteca",
+      "Sal fina al gusto",
+      "Gajos de limón fresco y ensalada de papas tibia (Erdäpfelsalat) para servir"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Carne y Estación de Empanado",
+        "ingredients": [
+          "4 filetes de ternera tierna finos",
+          "1/2 taza de harina de trigo 0000",
+          "2 huevos camperos ligeramente batidos",
+          "1 taza y media de pan rallado casero",
+          "Sal fina al gusto"
+        ]
+      },
+      {
+        "name": "Fritura y Servido Imperial",
+        "ingredients": [
+          "200 g de manteca clarificada (Butterschmalz)",
+          "Gajos de limón fresco",
+          "Ensalada de papas para acompañar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Espalmado, Rebozado Soufflé y Fritura Flotante",
+        "steps": [
+          "Colocá cada filete entre dos láminas de film transparente y espalmalo suavemente con una maza plana hasta dejarlo en un grosor uniforme de unos 3 a 4 mm.",
+          "Salá la carne ligeramente en ambos lados.",
+          "Pasá cada escalope primero por la harina sacudiendo el exceso para que quede apenas una película seca.",
+          "Bañalo en el huevo batido asegurando que cubra toda la superficie.",
+          "Pasalo por el pan rallado sin presionar jamás con los dedos (la capa debe quedar suelta para poder inflarse en la sartén).",
+          "Calentá abundante manteca clarificada en una sartén amplia a 170 °C (la grasa debe cubrir al menos la mitad del grosor del escalope para que flote libremente).",
+          "Freí el escalope durante 2 minutos moviendo constantemente la sartén en vaivén para que la manteca caliente bañe la superficie superior; dalor vuelta y cociná 1 a 2 minutos más hasta que adquiera un tono dorado dorado ondulado.",
+          "Escurrí sobre papel absorbente y serví inmediatamente acompañado de un cuarto de limón fresco."
+        ]
+      }
+    ],
+    "steps": [
+      "Colocá cada filete entre dos láminas de film transparente y espalmalo suavemente con una maza plana hasta dejarlo en un grosor uniforme de unos 3 a 4 mm.",
+      "Salá la carne ligeramente en ambos lados.",
+      "Pasá cada escalope primero por la harina sacudiendo el exceso para que quede apenas una película seca.",
+      "Bañalo en el huevo batido asegurando que cubra toda la superficie.",
+      "Pasalo por el pan rallado sin presionar jamás con los dedos (la capa debe quedar suelta para poder inflarse en la sartén).",
+      "Calentá abundante manteca clarificada en una sartén amplia a 170 °C (la grasa debe cubrir al menos la mitad del grosor del escalope para que flote libremente).",
+      "Freí el escalope durante 2 minutos moviendo constantemente la sartén en vaivén para que la manteca caliente bañe la superficie superior; dalor vuelta y cociná 1 a 2 minutos más hasta que adquiera un tono dorado dorado ondulado.",
+      "Escurrí sobre papel absorbente y serví inmediatamente acompañado de un cuarto de limón fresco."
+    ],
+    "notes": "Nunca aplastes el pan rallado contra la carne: el secreto del efecto soufflé vienés es el aire que queda atrapado entre la ternera y el rebozado, que al contacto con la manteca hirviendo se hincha como una burbuja dorada."
+  },
+  {
+    "id": 864,
+    "title": "Paprikash de Pollo (Hungría)",
+    "category": "Aves",
+    "country": "Hungría",
+    "prep_time": "20 min",
+    "cook_time": "40 min",
+    "servings": "4 porciones",
+    "calories": "520 kcal",
+    "image": "https://lh3.googleusercontent.com/-Lrfm-IJTXAc/awZRr-YbEfI/AAAAAAAQDp0/36L-9xjXN94Az8B-UhA8Z7tW8TOytxHFwCNcBGAsYHQ/s1600/paprikash_de_pollo_hungria.jpg",
+    "diet_badges": [
+      "Guiso Magiar Tradicional",
+      "Confort Food"
+    ],
+    "tags": [
+      "paprikash de pollo",
+      "csirkepaprikas",
+      "hungria",
+      "pimenton de szeged",
+      "crema agria",
+      "tejföl",
+      "nokedli"
+    ],
+    "story": "El csirkepaprikás (paprikash de pollo) es uno de los cuatro grandes pilares culinarios de Hungría junto con el gulyás, el pörkölt y el tokány. Desarrollado en la llanura magiar durante el siglo XIX con la adopción generalizada del pimentón dulce molido de Szeged y Kalocsa, su salsa aterciopelada se enriquece al final con abundante crema agria fresca (tejföl).",
+    "ingredients": [
+      "1 kg de pollo cortado en presas (muslos y contramuslos con piel y hueso)",
+      "2 cebollas amarillas medianas picadas en cubos finos",
+      "2 dientes de ajo picados",
+      "3 cucharadas colmadas de pimentón dulce húngaro genuino (édes nemes)",
+      "1 pimiento verde italiano o húngaro cortado en tiras",
+      "1 tomate maduro pelado y picado",
+      "1 taza de caldo de pollo caliente",
+      "1/2 taza de crema agria espesa (tejföl o crème fraîche)",
+      "1 cucharada de harina de trigo para espesar la crema",
+      "2 cucharadas de manteca de cerdo o aceite vegetal",
+      "Sal marina y pimienta negra al gusto",
+      "Ñoquis húngaros (nokedli / galuska) o pasta al huevo para acompañar"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Pollo y Estofado al Pimentón",
+        "ingredients": [
+          "1 kg de presas de pollo",
+          "2 cebollas picadas finas",
+          "2 dientes de ajo picados",
+          "3 cucharadas de pimentón dulce húngaro",
+          "1 pimiento verde picado",
+          "1 tomate picado",
+          "1 taza de caldo de pollo",
+          "2 cucharadas de manteca de cerdo o aceite"
+        ]
+      },
+      {
+        "name": "Ligazón de Tejföl y Guarnición",
+        "ingredients": [
+          "1/2 taza de crema agria espesa (tejföl)",
+          "1 cucharada de harina de trigo",
+          "Ñoquis nokedli o pasta al huevo para acompañar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Sofrito Magiar, Estofado y Emulsión con Crema Agria",
+        "steps": [
+          "En una cazuela de fondo grueso, calentá la manteca de cerdo y dorá las cebollas a fuego suave durante 8 a 10 minutos hasta que estén tiernas y transparentes.",
+          "Retirá la cacerola del fuego durante un minuto para enfriar levemente el fondo y agregá las 3 cucharadas de pimentón dulce, mezclando rápidamente para disolverlo en la grasa sin quemarlo.",
+          "Devolvé la cazuela al fuego medio, agregá el pollo salpimentado, el ajo, el pimiento verde y el tomate.",
+          "Verté el caldo de pollo, tapá y cociná a fuego lento durante 30 a 35 minutos hasta que el pollo esté muy tierno.",
+          "En un cuenco, batí la crema agria con la cucharada de harina y dos cucharadas del caldo caliente del guiso para atemperar.",
+          "Verté la mezcla de crema agria en la cazuela agitando suavemente para integrar la salsa.",
+          "Cociná a fuego bajo durante 3 minutos más hasta que la salsa espese con una tonalidad anaranjada sedosa.",
+          "Serví bien caliente sobre un lecho de ñoquis nokedli recién hechos."
+        ]
+      }
+    ],
+    "steps": [
+      "En una cazuela de fondo grueso, calentá la manteca de cerdo y dorá las cebollas a fuego suave durante 8 a 10 minutos hasta que estén tiernas y transparentes.",
+      "Retirá la cacerola del fuego durante un minuto para enfriar levemente el fondo y agregá las 3 cucharadas de pimentón dulce, mezclando rápidamente para disolverlo en la grasa sin quemarlo.",
+      "Devolvé la cazuela al fuego medio, agregá el pollo salpimentado, el ajo, el pimiento verde y el tomate.",
+      "Verté el caldo de pollo, tapá y cociná a fuego lento durante 30 a 35 minutos hasta que el pollo esté muy tierno.",
+      "En un cuenco, batí la crema agria con la cucharada de harina y dos cucharadas del caldo caliente del guiso para atemperar.",
+      "Verté la mezcla de crema agria en la cazuela agitando suavemente para integrar la salsa.",
+      "Cociná a fuego bajo durante 3 minutos más hasta que la salsa espese con una tonalidad anaranjada sedosa.",
+      "Serví bien caliente sobre un lecho de ñoquis nokedli recién hechos."
+    ],
+    "notes": "Nunca incorpores el pimentón con la olla sobre el fuego vivo directo: el azúcar natural del pimiento se quema en segundos y vuelve amarga toda la preparación. Retirá del calor para disolverlo en la grasa."
+  },
+  {
+    "id": 865,
+    "title": "Nasi Goreng (Indonesia)",
+    "category": "Arroces",
+    "country": "Indonesia",
+    "prep_time": "15 min",
+    "cook_time": "15 min",
+    "servings": "4 porciones",
+    "calories": "490 kcal",
+    "image": "https://lh3.googleusercontent.com/-rB1tXUTVgek/awZRthQO_BI/AAAAAAAQDp8/nhEExRSLoEcupHNFQgt8JYKH_1P8WyODQCNcBGAsYHQ/s1600/nasi_goreng_indonesia.jpg",
+    "diet_badges": [
+      "Cocina del Sudeste Asiático",
+      "Salteado al Wok"
+    ],
+    "tags": [
+      "nasi goreng",
+      "indonesia",
+      "arroz frito",
+      "kecap manis",
+      "sambal",
+      "huevo frito",
+      "bumbu",
+      "comida callejera"
+    ],
+    "story": "El nasi goreng es considerado uno de los platos nacionales indiscutibles de Indonesia, surgido históricamente como una sabia técnica campesina para revitalizar el arroz cocido del día anterior. Su sello distintivo frente a otros arroces fritos asiáticos es el empleo de kecap manis (salsa de soja dulce espesa indonesia) y una pasta aromática de chalotas, ajo y pasta de camarón fermentado (terasi).",
+    "ingredients": [
+      "4 tazas de arroz blanco cocido del día anterior (grano firme y bien frío)",
+      "200 g de pechuga de pollo cortada en tiras finas o camarones limpios",
+      "4 chalotas asiáticas (o 1 cebolla morada pequeña) picadas finas",
+      "3 dientes de ajo picados",
+      "2 ajíes rojos frescos picados (chile ojo de pájaro al gusto)",
+      "1 cucharadita de pasta de camarón fermentado (terasi o belacan) tostada",
+      "3 cucharadas de salsa de soja dulce indonesia (kecap manis)",
+      "1 cucharada de salsa de soja clara",
+      "2 cucharadas de aceite vegetal",
+      "4 huevos camperos para freír de coronación",
+      "Cebolla frita crocante (bawang goreng) para espolvorear",
+      "Rodajas de pepino fresco y tomate para acompañar"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Pasta Aromática y Salteado",
+        "ingredients": [
+          "4 chalotas asiáticas picadas finas",
+          "3 dientes de ajo picados",
+          "2 ajíes rojos picados",
+          "1 cucharadita de pasta de camarón terasi",
+          "200 g de pollo en tiras o camarones",
+          "2 cucharadas de aceite vegetal"
+        ]
+      },
+      {
+        "name": "Arroz, Salsas y Guarnición",
+        "ingredients": [
+          "4 tazas de arroz cocido frío",
+          "3 cucharadas de kecap manis",
+          "1 cucharada de salsa de soja clara",
+          "4 huevos fritos con yema líquida",
+          "Cebolla frita crocante (bawang goreng)",
+          "Rodajas de pepino y tomate fresco"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Majado de Especias, Salteado a Fuego Vivo y Montaje",
+        "steps": [
+          "Maja en mortero las chalotas con el ajo, los ajíes y el terasi hasta formar una pasta aromática rojiza (bumbu).",
+          "Calentá el aceite en un wok a fuego alto; añadí la pasta aromática y salteala durante 1 a 2 minutos hasta que desprenda un perfume tostado intenso.",
+          "Sumá las tiras de pollo o camarones y salteá durante 3 minutos hasta que estén cocidos.",
+          "Incorporá el arroz frío desgranándolo con las manos o la espátula para separar bien los granos.",
+          "Verté el kecap manis y la salsa de soja clara sobre los bordes del wok para caramelizar.",
+          "Salteá vigorosamente a fuego máximo durante 3 a 4 minutos hasta que el arroz absorba las salsas uniformemente y tome un color marrón oscuro brillante con ligero aroma ahumado de wok.",
+          "En una sartén aparte, freí los 4 huevos con puntilla crocante y yema bien líquida.",
+          "Serví el arroz en platos individuales coronado con el huevo frito, abundante cebolla frita crujiente, rodajas de pepino y tomate fresco."
+        ]
+      }
+    ],
+    "steps": [
+      "Maja en mortero las chalotas con el ajo, los ajíes y el terasi hasta formar una pasta aromática rojiza (bumbu).",
+      "Calentá el aceite en un wok a fuego alto; añadí la pasta aromática y salteala durante 1 a 2 minutos hasta que desprenda un perfume tostado intenso.",
+      "Sumá las tiras de pollo o camarones y salteá durante 3 minutos hasta que estén cocidos.",
+      "Incorporá el arroz frío desgranándolo con las manos o la espátula para separar bien los granos.",
+      "Verté el kecap manis y la salsa de soja clara sobre los bordes del wok para caramelizar.",
+      "Salteá vigorosamente a fuego máximo durante 3 a 4 minutos hasta que el arroz absorba las salsas uniformemente y tome un color marrón oscuro brillante con ligero aroma ahumado de wok.",
+      "En una sartén aparte, freí los 4 huevos con puntilla crocante y yema bien líquida.",
+      "Serví el arroz en platos individuales coronado con el huevo frito, abundante cebolla frita crujiente, rodajas de pepino y tomate fresco."
+    ],
+    "notes": "El arroz debe ser necesariamente del día anterior y guardado en la heladera destapado: el almidón retrogradado y la superficie seca evitan que el arroz se apelmace al entrar en contacto con el kecap manis."
+  },
+  {
+    "id": 866,
+    "title": "Rendang de Ternera (Indonesia)",
+    "category": "Carnes",
+    "country": "Indonesia",
+    "prep_time": "30 min",
+    "cook_time": "3 h",
+    "servings": "6 porciones",
+    "calories": "580 kcal",
+    "image": "https://lh3.googleusercontent.com/-wSyhTYq-d50/awZRvnYr72I/AAAAAAAQDqE/N-JzoeMVx9w6Wz7PCsozVxPy9p97Px3wgCNcBGAsYHQ/s1600/rendang_de_ternera_indonesia.jpg",
+    "diet_badges": [
+      "Sin Gluten",
+      "Curry Seco Caramelizado"
+    ],
+    "tags": [
+      "rendang",
+      "indonesia",
+      "minangkabau",
+      "sumatra",
+      "leche de coco",
+      "lemongrass",
+      "galanga",
+      "carne caramelizada"
+    ],
+    "story": "Originario del pueblo Minangkabau en el oeste de Sumatra, el rendang fue creado como método de conservación para largas travesías mercantiles y celebraciones solemnes. Aclamado reiteradamente como uno de los platos más deliciosos del planeta, no es un curry caldoso sino un estofado de ternera cocinado lentamente hasta que la leche de coco reduce por completo, dejando que la carne se caramelice en su propio aceite de coco enriquecido con especias.",
+    "ingredients": [
+      "1 kg de carne de ternera para guisar (corte aguja o morcillo) cortada en cubos grandes de 4 cm",
+      "800 ml de leche de coco espesa de primera calidad",
+      "2 tallos de hierba limón (lemongrass) aplastados",
+      "4 hojas de lima kaffir rotas a mano",
+      "2 hojas de cúrcuma (o 1 cucharadita de cúrcuma molida)",
+      "1 trozo de tamarindo concentrado disuelto en 2 cucharadas de agua tibia (asam kandis)",
+      "Para la pasta de especias (bumbu):",
+      "8 chalotas asiáticas (o 2 cebollas moradas medianas)",
+      "5 dientes de ajo",
+      "6 ajíes rojos desvenados",
+      "3 cm de galanga fresca pelada",
+      "3 cm de jengibre fresco pelado",
+      "1 cucharadita de semillas de cilantro tostadas",
+      "1/2 cucharadita de nuez moscada rallada",
+      "Sal marina al gusto"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Pasta Bumbu y Aromáticos",
+        "ingredients": [
+          "8 chalotas, 5 dientes de ajo y 6 ajíes rojos",
+          "3 cm de galanga y 3 cm de jengibre fresco",
+          "1 cucharadita de semillas de cilantro y 1/2 de nuez moscada",
+          "2 tallos de lemongrass aplastados",
+          "4 hojas de lima kaffir",
+          "1 trozo de tamarindo concentrado en agua"
+        ]
+      },
+      {
+        "name": "Carne y Leche de Coco",
+        "ingredients": [
+          "1 kg de ternera en cubos grandes",
+          "800 ml de leche de coco espesa",
+          "Sal marina al gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Reducción Lenta, Separación de Aceite y Caramelización",
+        "steps": [
+          "Procesá los ingredientes de la pasta bumbu con un chorrito de agua hasta formar un puré muy fino.",
+          "En una cazuela amplia o wok hondo, colocá la leche de coco, la pasta de especias, el lemongrass, las hojas de lima kaffir y el tamarindo.",
+          "Llevá a ebullición a fuego medio revolviendo con frecuencia para evitar que la leche de coco se corte.",
+          "Incorporá los cubos de carne de ternera y una pizca generosa de sal.",
+          "Bajá el fuego a mínimo y cociná destapado durante 2 horas, revolviendo de vez en cuando; el líquido irá reduciendo de una sopa espesa a un guiso aceitoso.",
+          "Cuando el líquido se haya evaporado casi por completo (fase kalio), continuá cocinando a fuego mínimo revolviendo continuamente durante 40 a 50 minutos más.",
+          "La carne se freirá en el propio aceite residual del coco tostado, oscureciéndose hasta tomar un color caoba oscuro profundo y textura mantecosa.",
+          "Serví a temperatura tibia con arroz blanco al vapor o arroz jazmín."
+        ]
+      }
+    ],
+    "steps": [
+      "Procesá los ingredientes de la pasta bumbu con un chorrito de agua hasta formar un puré muy fino.",
+      "En una cazuela amplia o wok hondo, colocá la leche de coco, la pasta de especias, el lemongrass, las hojas de lima kaffir y el tamarindo.",
+      "Llevá a ebullición a fuego medio revolviendo con frecuencia para evitar que la leche de coco se corte.",
+      "Incorporá los cubos de carne de ternera y una pizca generosa de sal.",
+      "Bajá el fuego a mínimo y cociná destapado durante 2 horas, revolviendo de vez en cuando; el líquido irá reduciendo de una sopa espesa a un guiso aceitoso.",
+      "Cuando el líquido se haya evaporado casi por completo (fase kalio), continuá cocinando a fuego mínimo revolviendo continuamente durante 40 a 50 minutos más.",
+      "La carne se freirá en el propio aceite residual del coco tostado, oscureciéndose hasta tomar un color caoba oscuro profundo y textura mantecosa.",
+      "Serví a temperatura tibia con arroz blanco al vapor o arroz jazmín."
+    ],
+    "notes": "Paciencia absoluta: el auténtico rendang no tiene salsa caldosa. El secreto es dejar que toda el agua se evapore para que la carne se tueste en el aceite natural de coco caramelizado."
+  },
+  {
+    "id": 867,
+    "title": "Pho Bo (Vietnam)",
+    "category": "Sopas",
+    "country": "Vietnam",
+    "prep_time": "30 min",
+    "cook_time": "3 h",
+    "servings": "6 porciones",
+    "calories": "420 kcal",
+    "image": "https://lh3.googleusercontent.com/-7TFfUOdVLCo/awZRxE-o70I/AAAAAAAQDqM/14DUy7JWI-QhMedNyr3qgxkgEI70a2v2ACNcBGAsYHQ/s1600/pho_bo_vietnam.jpg",
+    "diet_badges": [
+      "Sin Gluten",
+      "Sopa Aromática Ancestral"
+    ],
+    "tags": [
+      "pho bo",
+      "vietnam",
+      "sopa de fideos",
+      "caldo de ternera",
+      "anis estrellado",
+      "fideos de arroz",
+      "hanoi"
+    ],
+    "story": "Nacido en la provincia septentrional de Nam Định y popularizado en Hanói a comienzos del siglo XX, el phở bò representa la síntesis entre la rica tradición vietnamita de los fideos de arroz y la influencia culinaria colonial francesa en el consumo de cortes y caldos de ternera. Su caldo cristalino, cocido a fuego lento con huesos y especias tostadas, es el desayuno y reconstituyente por excelencia del pueblo vietnamita.",
+    "ingredients": [
+      "1,5 kg de huesos de ternera con tuétano y carne (osobuco o rabo de toro)",
+      "300 g de lomo de ternera cortado en láminas finísimas crudas (para servir al momento)",
+      "400 g de fideos de arroz planos para pho (bánh phở)",
+      "1 cebolla grande entera partida al medio",
+      "1 trozo de 6 cm de jengibre fresco partido al medio",
+      "4 estrellas de anís estrellado",
+      "1 rama de canela entera",
+      "3 vainas de cardamomo negro",
+      "1 cucharadita de semillas de hinojo",
+      "3 cucharadas de salsa de pescado de buena calidad (nước mắm)",
+      "1 cucharada de azúcar de roca (o azúcar rubia)",
+      "Brotes de soja frescos, cilantro, albahaca tailandesa y menta fresca",
+      "Cebolla de verdeo en aros finos y rodajas de chile fresco",
+      "Gajos de lima para exprimir"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Caldo Especiado a Fuego Lento",
+        "ingredients": [
+          "1,5 kg de huesos de ternera con tuétano y carne",
+          "1 cebolla y 1 trozo de jengibre asados a la llama",
+          "4 estrellas de anís, canela, cardamomo negro e hinojo tostados",
+          "3 cucharadas de salsa de pescado nước mắm",
+          "1 cucharada de azúcar de roca",
+          "Sal marina"
+        ]
+      },
+      {
+        "name": "Fideos, Ternera y Guarnición Fresca",
+        "ingredients": [
+          "300 g de lomo de ternera en láminas finísimas crudas",
+          "400 g de fideos de arroz planos para pho",
+          "Brotes de soja, cilantro, albahaca tailandesa y menta",
+          "Cebolla de verdeo, chile y gajos de lima"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Blanqueado de Huesos, Tostado de Especias y Caldo Cristalino",
+        "steps": [
+          "Blanqueá los huesos de ternera hirviéndolos en agua durante 8 minutos; descartá el agua, lavá bien los huesos bajo la canilla para eliminar impurezas y colocalos en una olla limpia con 3,5 litros de agua fresca.",
+          "Asá la cebolla y el jengibre directamente sobre la llama de la hornalla o en sartén seca hasta que la piel esté bien negra y carbonizada; pelá la parte quemada y sumalos a la olla.",
+          "Tostá en sartén seca el anís estrellado, la canela, el cardamomo negro y el hinojo durante 2 minutos; colocalos en una bolsita de tela para especias y sumala al caldo.",
+          "Cociná a fuego muy bajo y apenas tembloroso durante 3 horas, espumando periódicamente para mantener el caldo perfectamente traslúcido y cristalino.",
+          "Sazoná con la salsa de pescado, azúcar de roca y sal; colá el caldo por un paño fino descartando los sólidos.",
+          "Hidratá los fideos de arroz en agua caliente y repartilos en boles amplios y hondos.",
+          "Disponé las láminas finísimas de ternera cruda y la cebolla de verdeo sobre los fideos.",
+          "Verté el caldo hirviendo a borbotones directamente sobre la carne para cocinarla al instante dejándola rosada y ultra tierna.",
+          "Serví con un plato al centro con brotes de soja crujientes, albahaca tailandesa, menta fresca, rodajas de chile y cuartos de lima."
+        ]
+      }
+    ],
+    "steps": [
+      "Blanqueá los huesos de ternera hirviéndolos en agua durante 8 minutos; descartá el agua, lavá bien los huesos bajo la canilla para eliminar impurezas y colocalos en una olla limpia con 3,5 litros de agua fresca.",
+      "Asá la cebolla y el jengibre directamente sobre la llama de la hornalla o en sartén seca hasta que la piel esté bien negra y carbonizada; pelá la parte quemada y sumalos a la olla.",
+      "Tostá en sartén seca el anís estrellado, la canela, el cardamomo negro y el hinojo durante 2 minutos; colocalos en una bolsita de tela para especias y sumala al caldo.",
+      "Cociná a fuego muy bajo y apenas tembloroso durante 3 horas, espumando periódicamente para mantener el caldo perfectamente traslúcido y cristalino.",
+      "Sazoná con la salsa de pescado, azúcar de roca y sal; colá el caldo por un paño fino descartando los sólidos.",
+      "Hidratá los fideos de arroz en agua caliente y repartilos en boles amplios y hondos.",
+      "Disponé las láminas finísimas de ternera cruda y la cebolla de verdeo sobre los fideos.",
+      "Verté el caldo hirviendo a borbotones directamente sobre la carne para cocinarla al instante dejándola rosada y ultra tierna.",
+      "Serví con un plato al centro con brotes de soja crujientes, albahaca tailandesa, menta fresca, rodajas de chile y cuartos de lima."
+    ],
+    "notes": "Blanquear y lavar los huesos antes de iniciar el caldo es el paso técnico irremplazable: elimina sangre coagulada e impurezas garantizando un caldo transparente y fragante como en los puestos de Hanói."
+  },
+  {
+    "id": 868,
+    "title": "Falafel (Egipto)",
+    "category": "Entradas",
+    "country": "Egipto",
+    "prep_time": "25 min",
+    "cook_time": "15 min",
+    "rest_time": "12 h",
+    "servings": "6 porciones (18 a 20 unidades)",
+    "calories": "290 kcal",
+    "image": "https://lh3.googleusercontent.com/-417qVM7ge_Q/awZRyrlVNeI/AAAAAAAQDqU/MWFOPct3bagp2w3nxc5EvBbL8sFrRpY4gCNcBGAsYHQ/s1600/falafel_egipto.jpg",
+    "diet_badges": [
+      "Vegano",
+      "Sin Gluten",
+      "Origen Ancestral"
+    ],
+    "tags": [
+      "falafel",
+      "taameya",
+      "egipto",
+      "habas",
+      "garbanzos",
+      "cilantro",
+      "comino",
+      "tahini",
+      "croqueta vegana"
+    ],
+    "story": "El falafel (conocido como ta'ameya en Egipto) tiene sus raíces históricas más antiguas en las comunidades cristianas coptas del valle del Nilo, quienes lo idearon como sustento proteico durante los prolongados ayunos de Cuaresma. Elaboradas tradicionalmente con habas secas y una gran cantidad de hierbas verdes frescas, estas croquetas aromáticas y crujientes se expandieron por todo el Levante mediterráneo.",
+    "ingredients": [
+      "400 g de garbanzos secos (o mezcla de garbanzos y habas secas peladas), en remojo de 12 horas (NUNCA de lata)",
+      "1 taza colmada de perejil fresco de hoja plana",
+      "1 taza colmada de cilantro fresco",
+      "1 cebolla mediana picada",
+      "4 dientes de ajo triturados",
+      "1 cucharada colmada de comino molido",
+      "1 cucharada de semillas de cilantro molidas",
+      "1 cucharadita de cardamomo molido (opcional)",
+      "1/2 cucharadita de bicarbonato de sodio",
+      "1 cucharadita colmada de sal marina",
+      "Semillas de sésamo para rebozar la superficie",
+      "Aceite vegetal abundante para freír",
+      "Salsa tahini con limón y pan pita caliente para servir"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Masa de Falafel a las Hierbas",
+        "ingredients": [
+          "400 g de garbanzos secos hidratados (crudos)",
+          "1 taza de perejil fresco y 1 de cilantro fresco",
+          "1 cebolla mediana y 4 dientes de ajo",
+          "1 cucharada de comino molido",
+          "1 cucharada de cilantro molido",
+          "1/2 cucharadita de bicarbonato de sodio",
+          "1 cucharadita de sal marina",
+          "Semillas de sésamo para rebozar"
+        ]
+      },
+      {
+        "name": "Fritura y Salsa de Acompañamiento",
+        "ingredients": [
+          "Aceite vegetal abundante para freír",
+          "Salsa tahini con limón y ajo",
+          "Pan pita caliente para servir"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Triturado Grueso, Reposo y Fritura Crujiente",
+        "steps": [
+          "Escurrí y secá muy bien los garbanzos que estuvieron en remojo durante 12 a 24 horas.",
+          "Colocá los garbanzos crudos en el procesador de alimentos junto con la cebolla, el ajo, el perejil, el cilantro, el comino, el cilantro molido y la sal.",
+          "Procesá en pulsos cortos hasta obtener una textura granulada similar a la arena húmeda o cuscús grueso (nunca proceses hasta hacer puré papilla).",
+          "Llevá la mezcla a un bol, tapala y dejala reposar en la heladera durante 1 hora para asentar.",
+          "Justo antes de freír, incorporá el bicarbonato de sodio mezclando bien con una espátula.",
+          "Tomá porciones del tamaño de una nuez, compactalas con las manos o una cuchara moldeadora formando discos gruesos o bolitas aplastadas y presiona suavemente algunas semillas de sésamo en la superficie.",
+          "Freí en abundante aceite caliente a 175 °C durante 3 a 4 minutos, dándoles vuelta hasta que el exterior esté marrón tostado crujiente y el interior permanezca tierno y verde esmeralda.",
+          "Escurrí sobre papel absorbente y serví inmediatamente dentro de pan pita caliente con salsa tahini, tomate y pepino."
+        ]
+      }
+    ],
+    "steps": [
+      "Escurrí y secá muy bien los garbanzos que estuvieron en remojo durante 12 a 24 horas.",
+      "Colocá los garbanzos crudos en el procesador de alimentos junto con la cebolla, el ajo, el perejil, el cilantro, el comino, el cilantro molido y la sal.",
+      "Procesá en pulsos cortos hasta obtener una textura granulada similar a la arena húmeda o cuscús grueso (nunca proceses hasta hacer puré papilla).",
+      "Llevá la mezcla a un bol, tapala y dejala reposar en la heladera durante 1 hora para asentar.",
+      "Justo antes de freír, incorporá el bicarbonato de sodio mezclando bien con una espátula.",
+      "Tomá porciones del tamaño de una nuez, compactalas con las manos o una cuchara moldeadora formando discos gruesos o bolitas aplastadas y presiona suavemente algunas semillas de sésamo en la superficie.",
+      "Freí en abundante aceite caliente a 175 °C durante 3 a 4 minutos, dándoles vuelta hasta que el exterior esté marrón tostado crujiente y el interior permanezca tierno y verde esmeralda.",
+      "Escurrí sobre papel absorbente y serví inmediatamente dentro de pan pita caliente con salsa tahini, tomate y pepino."
+    ],
+    "notes": "Regla de oro innegociable: jamás uses garbanzos cocidos ni de lata para hacer falafel, se desarmarían en el aceite. Se usan garbanzos secos crudos remojados 12 a 24 horas y triturados finamente en crudo."
   }
 ]
