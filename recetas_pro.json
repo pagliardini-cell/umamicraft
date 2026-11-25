@@ -92050,5 +92050,196 @@
       "Para servir un Consomé Cristalino en Cono V60: colocá 50 g de polvo sobre un filtro de papel humedecido, verté el agua caliente en círculos lentos y dejá filtrar durante 2 minutos."
     ],
     "notes": "El calibre de la molienda es el secreto técnico supremo transmitido por James Hoffmann: moler al grosor del café de filtro permite que el agua caliente disuelva los compuestos aromáticos de Maillard y la sal sin liberar almidones microscópicos, logrando en V60 un consomé translúcido de una pureza visual asombrosa."
+  },
+  {
+    "id": 872,
+    "title": "Salsa a la Pimienta al Coñac (Francia)",
+    "category": "Salsas y Aderezos",
+    "country": "Francia",
+    "prep_time": "5 min",
+    "cook_time": "10 min",
+    "servings": "4 porciones",
+    "calories": "160 kcal por porción",
+    "image": "https://lh3.googleusercontent.com/-zgaee7vcgJk/awdyPIPGGsI/AAAAAAAQDt4/ur-a0uQiUYEkF1kPDQi2M3DziyswrsEVQCNcBGAsYHQ/s1600/salsa_pimienta_al_cognac.jpg",
+    "diet_badges": [
+      "Cocina Molecular",
+      "Clásico de Bistró",
+      "Sin Gluten"
+    ],
+    "tags": [
+      "salsa a la pimienta al coñac",
+      "sauce au poivre",
+      "cocina molecular",
+      "gastronomia molecular",
+      "francia",
+      "demi glace",
+      "bistró",
+      "steak frites",
+      "chris young",
+      "modernist cuisine",
+      "salsa para carnes"
+    ],
+    "story": "Nacida en los bistrós parisinos del siglo XIX para acompañar los cortes vacunos a la sartén (steak au poivre), esta salsa representa la quintaesencia de la alta cocina francesa. La gastronomía molecular moderna ha perfeccionado su equilibrio termodinámico, empleando el flameado controlado del coñac para volatilizar alcoholes amargos y ligando la crema espesa con demi-glace cargado de colágeno hidrolizado, logrando una emulsión aterciopelada y estable sin necesidad de harinas.",
+    "ingredients": [
+      "60 g de demi-glace de ternera concentrado (obtenido de la reducción del caldo rápido de ternera)",
+      "75 ml de crema de leche espesa (35% tenor graso)",
+      "30 ml de coñac o brandy (más unas gotas extra fuera del fuego)",
+      "17 g de manteca clarificada (o los jugos de la sartén donde se selló la carne)",
+      "2,5 g de granos de pimienta negra entera machacados gruesos en mortero (aprox. 1 cucharadita)",
+      "2,5 g de granos de pimienta verde deshidratada (opcional)",
+      "Unas gotas de jugo de limón fresco recién exprimido",
+      "Sal fina y una pizca de glutamato monosódico (MSG) al gusto",
+      "Ciboulette finamente picado para terminar"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Fondo y Aromas Piperínicos",
+        "ingredients": [
+          "60 g de demi-glace de ternera concentrado",
+          "2,5 g de granos de pimienta negra machacados gruesos",
+          "2,5 g de granos de pimienta verde deshidratada",
+          "17 g de manteca clarificada",
+          "30 ml de coñac o brandy"
+        ]
+      },
+      {
+        "name": "Emulsión y Toque Final",
+        "ingredients": [
+          "75 ml de crema de leche espesa",
+          "Unas gotas de jugo de limón fresco",
+          "Sal fina y una pizca de MSG al gusto",
+          "Ciboulette finamente picado"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Tostado de Pimienta, Desglasado y Flameado",
+        "steps": [
+          "Tras retirar el bife de la sartén para dejarlo reposar, conservá el fondo con los jugos de carne caramelizados (si la sartén está seca, agregá la manteca clarificada).",
+          "Tostá los granos de pimienta negra machacados y la pimienta verde a fuego medio durante 1 minuto hasta que desprendan sus aceites piperínicos fragantes.",
+          "Retirá la sartén del fuego directo, verté el coñac y flamealo con precaución con un encendedor largo para volatilizar los alcoholes superiores sin quemar las especias.",
+          "Devolvé al calor y reducí hasta que el fondo quede casi seco y con textura de almíbar."
+        ]
+      },
+      {
+        "name": "Emulsión de Demi-Glace y Acabado",
+        "steps": [
+          "Verté el demi-glace de ternera y la crema de leche, llevando a hervor suave a fuego medio.",
+          "Cociná durante 3 a 4 minutos hasta que desaparezca el sabor a lácteo crudo y la salsa nape densamente el dorso de una cuchara de madera.",
+          "Fuera del fuego, sumá unas gotas de jugo de limón para equilibrar la grasa, un chorrito final de coñac crudo, sal y una pizca de MSG al gusto.",
+          "Serví salseando sobre el corte de carne caliente y coroná con ciboulette fresco picado."
+        ]
+      }
+    ],
+    "steps": [
+      "Tras retirar el bife de la sartén para dejarlo reposar, conservá el fondo con los jugos de carne caramelizados (si la sartén está seca, agregá la manteca clarificada).",
+      "Tostá los granos de pimienta negra machacados y la pimienta verde a fuego medio durante 1 minuto hasta que desprendan sus aceites piperínicos fragantes.",
+      "Retirá la sartén del fuego directo, verté el coñac y flamealo con precaución con un encendedor largo para volatilizar los alcoholes superiores sin quemar las especias.",
+      "Devolvé al calor y reducí hasta que el fondo quede casi seco y con textura de almíbar.",
+      "Verté el demi-glace de ternera y la crema de leche, llevando a hervor suave a fuego medio.",
+      "Cociná durante 3 a 4 minutos hasta que desaparezca el sabor a lácteo crudo y la salsa nape densamente el dorso de una cuchara de madera.",
+      "Fuera del fuego, sumá unas gotas de jugo de limón para equilibrar la grasa, un chorrito final de coñac crudo, sal y una pizca de MSG al gusto.",
+      "Serví salseando sobre el corte de carne caliente y coroná con ciboulette fresco picado."
+    ],
+    "notes": "El secreto molecular de esta salsa radica en el colágeno hidrolizado del demi-glace, que actúa como emulsionante proteico natural impidiendo que la crema se corte o separe al combinarse con los ácidos del coñac y el limón. El flameado rápido elimina el etanol áspero conservando intactas las notas de madera y uva del destilado."
+  },
+  {
+    "id": 873,
+    "title": "Salsa de Vino Tinto y Oporto (Francia)",
+    "category": "Salsas y Aderezos",
+    "country": "Francia",
+    "prep_time": "10 min",
+    "cook_time": "25 min",
+    "servings": "6 porciones",
+    "calories": "180 kcal por porción",
+    "image": "https://lh3.googleusercontent.com/-j2S441MCL18/awdyP346dII/AAAAAAAQDuA/ecsJha3BpYQrkJk5aGN0mrlSNMYD89xjACNcBGAsYHQ/s1600/salsa_vino_tinto_oporto.jpg",
+    "diet_badges": [
+      "Cocina Molecular",
+      "Alta Gastronomía",
+      "Salsa Reducida"
+    ],
+    "tags": [
+      "salsa de vino tinto y oporto",
+      "marchand de vin",
+      "cocina molecular",
+      "gastronomia molecular",
+      "reduccion de vino",
+      "demi glace",
+      "francia",
+      "salsa para asados",
+      "chris young",
+      "modernist cuisine"
+    ],
+    "story": "Derivada de la clásica salsa 'marchand de vin' de los viticultores bordeleses del siglo XVIII, esta reducción representa la cima de las salsas oscuras de la culinaria francesa para grandes piezas de asado. En el ámbito de la cocina molecular contemporánea, destaca por la condensación de taninos y azúcares nobles del vino y el oporto reducidos a jarabe denso, rematada con la técnica de 'monter au beurre' en frío para suspender microgotas de grasa en una emulsión brillante como un espejo.",
+    "ingredients": [
+      "180 g de demi-glace de ternera concentrado",
+      "750 ml de vino tinto seco con buen cuerpo (Cabernet Sauvignon o Malbec, 1 botella)",
+      "90 ml de vino de Oporto dulce (o vino dulce generoso)",
+      "48 ml de vinagre de vino tinto",
+      "60 g de manteca clarificada (para rehogar)",
+      "225 g de chalotas (echalotes) cortadas en plumas finísimas",
+      "6 dientes de ajo partidos al medio",
+      "30 g de pasta de tomate concentrada",
+      "3 ramitas de perejil fresco",
+      "3 ramitas de estragón fresco",
+      "40 g de manteca sin sal bien fría cortada en cubos pequeños (para montar)",
+      "Sal fina y una pizca de glutamato monosódico (MSG) al gusto"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Base Aromática y Reducción Alcohólica",
+        "ingredients": [
+          "225 g de chalotas en plumas finas",
+          "6 dientes de ajo partidos al medio",
+          "60 g de manteca clarificada",
+          "48 ml de vinagre de vino tinto",
+          "750 ml de vino tinto seco",
+          "90 ml de vino de Oporto dulce"
+        ]
+      },
+      {
+        "name": "Cuerpo, Infusión de Hierbas y Montaje Brillante",
+        "ingredients": [
+          "30 g de pasta de tomate concentrada",
+          "180 g de demi-glace de ternera",
+          "3 ramitas de perejil fresco",
+          "3 ramitas de estragón fresco",
+          "40 g de manteca sin sal bien fría en cubos",
+          "Sal fina y una pizca de MSG al gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Sofrito, Desglasado y Reducción a Jarabe",
+        "steps": [
+          "Derretí la manteca clarificada en una cacerola mediana y rehogá las chalotas con los ajos a fuego medio-suave hasta que estén transparentes y apenas caramelizados.",
+          "Verté el vinagre de vino tinto y cociná a fuego vivo hasta reducirlo casi por completo a seco (evaporando la acidez punzante).",
+          "Añadí el vino de Oporto y el vino tinto, llevá a hervor suave y flameá cuidadosamente con encendedor para quemar el alcohol volátil.",
+          "Reducí a fuego medio durante 15 minutos hasta que el líquido se reduzca a una consistencia espesa y densa de jarabe dulce antes de sumar el fondo."
+        ]
+      },
+      {
+        "name": "Infusión de Hierbas, Colado y Montaje en Frío (Monter au Beurre)",
+        "steps": [
+          "Incorporá la pasta de tomate concentrada, el demi-glace de ternera, las ramitas de perejil y de estragón; cociná a fuego bajo durante 8 minutos hasta que la salsa nape ligeramente el dorso de la cuchara.",
+          "Colá la salsa por un colador fino o chino presionando los sólidos para extraer todo el jugo aromático concentrado y descartá los restos de chalotas y hierbas.",
+          "Llevá la salsa colada a fuego mínimo, sazoná con sal y una pizca de MSG, y apagá el fuego.",
+          "Incorporá los cubos de manteca helada uno a uno batiendo en círculos constantes con un batidor de alambre hasta lograr una salsa oscura espejada, untuosa y brillante."
+        ]
+      }
+    ],
+    "steps": [
+      "Derretí la manteca clarificada en una cacerola mediana y rehogá las chalotas con los ajos a fuego medio-suave hasta que estén transparentes y apenas caramelizados.",
+      "Verté el vinagre de vino tinto y cociná a fuego vivo hasta reducirlo casi por completo a seco (evaporando la acidez punzante).",
+      "Añadí el vino de Oporto y el vino tinto, llevá a hervor suave y flameá cuidadosamente con encendedor para quemar el alcohol volátil.",
+      "Reducí a fuego medio durante 15 minutos hasta que el líquido se reduzca a una consistencia espesa y densa de jarabe dulce antes de sumar el fondo.",
+      "Incorporá la pasta de tomate concentrada, el demi-glace de ternera, las ramitas de perejil y de estragón; cociná a fuego bajo durante 8 minutos hasta que la salsa nape ligeramente el dorso de la cuchara.",
+      "Colá la salsa por un colador fino o chino presionando los sólidos para extraer todo el jugo aromático concentrado y descartá los restos de chalotas y hierbas.",
+      "Llevá la salsa colada a fuego mínimo, sazoná con sal y una pizca de MSG, y apagá el fuego.",
+      "Incorporá los cubos de manteca helada uno a uno batiendo en círculos constantes con un batidor de alambre hasta lograr una salsa oscura espejada, untuosa y brillante."
+    ],
+    "notes": "El principio molecular del 'monter au beurre' requiere que la manteca esté helada y el fuego completamente apagado: la diferencia térmica y el movimiento continuo del batidor fuerzan a los glóbulos grasos a dispersarse en la base ácida reducida de vino y colágeno sin fundirse en aceite libre, creando una emulsión coloidal de brillo espejado insuperable."
   }
 ]
