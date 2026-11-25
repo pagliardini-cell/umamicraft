@@ -91841,5 +91841,214 @@
       "Espolvoreá con escamas de sal marina y serví de inmediato con un gajo de limón fresco al lado."
     ],
     "notes": "El secreto supremo de la cotoletta radica en dos pilares: el uso exclusivo de manteca clarificada (que resiste la fritura a alta temperatura sin quemarse y aporta un perfume avellanado único) y el grosor de la carne (nunca se debe espalmar fina como el schnitzel vienés, para mantener el corazón tierno y sonrosado junto al hueso)."
+  },
+  {
+    "id": 870,
+    "title": "Caldo de Ternera en 15 Minutos (Estados Unidos)",
+    "category": "Sopas",
+    "country": "Estados Unidos",
+    "prep_time": "5 min",
+    "cook_time": "15 min",
+    "rest_time": "30 min (freezer previo)",
+    "servings": "600 ml de fondo concentrado",
+    "calories": "110 kcal por taza",
+    "image": "https://lh3.googleusercontent.com/-dUx3zvO2CDU/awdqZE7ezsI/AAAAAAAQDtE/BXLgK4XgMnk0wCOSgP5Ft-QbWfG1ApwuACNcBGAsYHQ/s1600/caldo_ternera_15_minutos.jpg",
+    "diet_badges": [
+      "Cocina Modernista",
+      "Técnica de Autor"
+    ],
+    "tags": [
+      "caldo de ternera en 15 minutos",
+      "fondo oscuro express",
+      "caldo sin huesos",
+      "chris young",
+      "modernist cuisine",
+      "demi glace",
+      "clarificacion raft",
+      "salsa a la pimienta",
+      "salsa de vino tinto"
+    ],
+    "story": "Desarrollada por el chef y científico culinario Chris Young (coautor de Modernist Cuisine y cofundador de ChefSteps), esta técnica nace en Seattle en 2024 para resolver uno de los mayores cuellos de botella de la alta cocina: las 12 a 24 horas que demanda extraer sabor y colágeno de los huesos de ternera. Basada en la termodinámica de la reacción de Maillard sobre carne picada y la clarificación clásica francesa por albúmina (raft), permite obtener un fondo oscuro de calidad de estrella Michelin en minutos.",
+    "ingredients": [
+      "450 g de carne picada de ternera magra en un solo bloque compacto",
+      "150 ml de aceite vegetal neutro (para sellado a alta temperatura)",
+      "40 g de cebolla amarilla cortada en láminas finas",
+      "12 g de zanahoria cortada en rodajas muy finas",
+      "8 g de apio cortado fino",
+      "1 diente de ajo machacado",
+      "7 g de gelatina pura sin sabor en polvo (1 sobre)",
+      "1 clara de huevo fresco (unos 35 g)",
+      "1 litro de agua fría (dividido en dos partes de 500 ml)",
+      "4 ramitas de tomillo fresco",
+      "2 hojas de laurel secas",
+      "1 cucharadita de granos de pimienta negra entera"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Base de Carne y Sofrito Maillard",
+        "ingredients": [
+          "450 g de carne picada de ternera magra en bloque",
+          "150 ml de aceite vegetal neutro",
+          "40 g de cebolla cortada en láminas finas",
+          "12 g de zanahoria en rodajas finas",
+          "8 g de apio cortado fino",
+          "1 diente de ajo machacado"
+        ]
+      },
+      {
+        "name": "Colágeno, Clarificación y Aromas",
+        "ingredients": [
+          "7 g de gelatina pura sin sabor en polvo",
+          "1 clara de huevo fresco",
+          "1 litro de agua fría dividida en dos partes",
+          "4 ramitas de tomillo fresco",
+          "2 hojas de laurel secas",
+          "1 cucharadita de granos de pimienta negra"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Compactado en Frío y Sellado a Alta Temperatura",
+        "steps": [
+          "Llevá el bloque de carne picada al congelador durante 30 minutos para compactar su estructura y evitar que se desarme prematuramente en la olla.",
+          "Calentá el aceite neutro en una cacerola amplia a fuego máximo (205 °C) hasta que comience a humear levemente.",
+          "Colocá el bloque de carne entero y doralo intensamente durante 2 a 3 minutos por lado sin moverlo para lograr una costra profunda de reacción de Maillard (tapá con papel absorbente para contener salpicaduras).",
+          "Rompé la carne en trozos pequeños con una cuchara de madera continuando el dorado hasta que esté crocante y desmenuzada.",
+          "Retirá todo el exceso de aceite de la olla dejando únicamente la carne dorada."
+        ]
+      },
+      {
+        "name": "Sofrito, Desglasado y Emulsión con Clara",
+        "steps": [
+          "Sumá la cebolla, la zanahoria, el apio y el ajo, cocinando a fuego medio-fuerte durante 3 minutos hasta que los vegetales se doren y formen un fondo caramelizado adherido.",
+          "Espolvoreá la gelatina sin sabor sobre la carne y revolvé rápidamente; verté 500 ml de agua fría, desglasá rascando el fondo con cuchara de madera y llevá a hervor suave.",
+          "En el vaso de la licuadora, colocá la clara de huevo con los 500 ml de agua fría restantes y licuá a máxima potencia durante 5 segundos.",
+          "Volcá el contenido hirviendo de la olla dentro de la licuadora sobre la clara y procesá a la velocidad más baja durante solo 3 a 5 segundos (apenas para fraccionar la carne y enturbiar el líquido, sin licuar a puré)."
+        ]
+      },
+      {
+        "name": "Clarificación en Balsa (Raft) y Filtrado Cristalino",
+        "steps": [
+          "Devolvé todo a la olla, sumá el tomillo, el laurel y la pimienta negra, y llevá a hervor suave: la clara coagulará subiendo a la superficie como una balsa sólida (raft) que atrapa todas las impurezas.",
+          "Tapá, cociná 5 minutos a fuego mínimo para fijar la balsa y colá el caldo por un filtro de café de papel sobre un colador fino dejando caer por gravedad sin presionar.",
+          "Para obtener un demi-glace brillante para salsas a la pimienta o vino tinto, herví el caldo colado a fuego vivo hasta reducirlo a la cuarta parte de su volumen."
+        ]
+      }
+    ],
+    "steps": [
+      "Llevá el bloque de carne picada al congelador durante 30 minutos para compactar su estructura y evitar que se desarme prematuramente en la olla.",
+      "Calentá el aceite neutro en una cacerola amplia a fuego máximo (205 °C) hasta que comience a humear levemente.",
+      "Colocá el bloque de carne entero y doralo intensamente durante 2 a 3 minutos por lado sin moverlo para lograr una costra profunda de reacción de Maillard (tapá con papel absorbente para contener salpicaduras).",
+      "Rompé la carne en trozos pequeños con una cuchara de madera continuando el dorado hasta que esté crocante y desmenuzada.",
+      "Retirá todo el exceso de aceite de la olla dejando únicamente la carne dorada.",
+      "Sumá la cebolla, la zanahoria, el apio y el ajo, cocinando a fuego medio-fuerte durante 3 minutos hasta que los vegetales se doren y formen un fondo caramelizado adherido.",
+      "Espolvoreá la gelatina sin sabor sobre la carne y revolvé rápidamente; verté 500 ml de agua fría, desglasá rascando el fondo con cuchara de madera y llevá a hervor suave.",
+      "En el vaso de la licuadora, colocá la clara de huevo con los 500 ml de agua fría restantes y licuá a máxima potencia durante 5 segundos.",
+      "Volcá el contenido hirviendo de la olla dentro de la licuadora sobre la clara y procesá a la velocidad más baja durante solo 3 a 5 segundos (apenas para fraccionar la carne y enturbiar el líquido, sin licuar a puré).",
+      "Devolvé todo a la olla, sumá el tomillo, el laurel y la pimienta negra, y llevá a hervor suave: la clara coagulará subiendo a la superficie como una balsa sólida (raft) que atrapa todas las impurezas.",
+      "Tapá, cociná 5 minutos a fuego mínimo para fijar la balsa y colá el caldo por un filtro de café de papel sobre un colador fino dejando caer por gravedad sin presionar.",
+      "Para obtener un demi-glace brillante para salsas a la pimienta o vino tinto, herví el caldo colado a fuego vivo hasta reducirlo a la cuarta parte de su volumen."
+    ],
+    "notes": "El secreto de este caldo reside en dos principios científicos: el uso de carne picada congelada permite un dorado salvaje sin hervirse en sus jugos, y la gelatina en polvo aporta instantáneamente el colágeno y la untuosidad gelatinosa que en un caldo tradicional tomaría 18 horas extraer de los cartílagos. Si reducís este caldo a fuego vivo a la cuarta parte, obtenés un demi-glace sublime para montar salsas a la pimienta o al vino tinto."
+  },
+  {
+    "id": 871,
+    "title": "Caldo Instantáneo en Polvo (Estados Unidos)",
+    "category": "Sopas",
+    "country": "Estados Unidos",
+    "prep_time": "10 min",
+    "cook_time": "1 h de horneado",
+    "rest_time": "8 h (deshidratación toda la noche)",
+    "servings": "180 g de polvo concentrado",
+    "calories": "75 kcal por taza infusionada",
+    "image": "https://lh3.googleusercontent.com/-38INBqgqA6E/awdqaaaU_1I/AAAAAAAQDtM/iOBBAltEkLwodH0f0SWfdqRDriyxEMymQCNcBGAsYHQ/s1600/caldo_instantaneo_en_polvo.jpg",
+    "diet_badges": [
+      "Sin Conservantes",
+      "Técnica de Autor",
+      "Infusión Barista"
+    ],
+    "tags": [
+      "caldo instantaneo en polvo",
+      "bouillon powder",
+      "caldo en polvo casero",
+      "infusion barista",
+      "james hoffmann",
+      "chris young",
+      "prensa francesa",
+      "filtro v60",
+      "consome express",
+      "sin conservantes"
+    ],
+    "story": "Nacido de una colaboración entre el chef científico Chris Young y el célebre campeón mundial de baristas James Hoffmann, este caldo en polvo reinventa el concepto de los cubos de caldo industriales surgidos en el siglo XIX. Al deshidratar carne vacuna magra y hortalizas caramelizadas en el horno y molerlas al punto exacto de molienda de café, permite extraer un caldo artesanal profundo en minutos mediante cafeteras de émbolo o conos de goteo.",
+    "ingredients": [
+      "450 g de carne picada de ternera o carne vacuna magra",
+      "40 g de cebolla picada muy fina",
+      "12 g de zanahoria en rodajas finísimas",
+      "8 g de apio picado fino",
+      "1 diente de ajo machacado (8 g)",
+      "0,5 g de tomillo seco (½ cucharadita)",
+      "0,5 g de perejil seco (1 cucharadita)",
+      "4 g de sal fina de mesa o sal kosher",
+      "0,5 g de glutamato monosódico / MSG puro (⅛ cucharadita)",
+      "Para infusionar 1 taza: 50 g de caldo en polvo y 250 ml de agua recién hervida a 95 °C"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Base de Carne y Vegetales para Deshidratar",
+        "ingredients": [
+          "450 g de carne picada de ternera o vacuna magra",
+          "40 g de cebolla picada muy fina",
+          "12 g de zanahoria en rodajas finísimas",
+          "8 g de apio picado fino",
+          "1 diente de ajo machacado"
+        ]
+      },
+      {
+        "name": "Condimentos de Conservación y Molienda",
+        "ingredients": [
+          "0,5 g de tomillo seco",
+          "0,5 g de perejil seco",
+          "4 g de sal fina de mesa",
+          "0,5 g de glutamato monosódico (MSG)"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Caramelizado al Horno y Deshidratación Nocturna",
+        "steps": [
+          "En una olla de hierro o asadera profunda, extendé la carne picada cruda desgranada junto con la cebolla, la zanahoria, el apio y el ajo en una capa pareja sin nada de grasa.",
+          "Llevá a horno a 200 °C durante 1 hora, removiendo cada 15 minutos con cuchara de madera hasta que todo adquiera un tono tostado oscuro uniforme pero sin quemarse.",
+          "Reducí la temperatura del horno a 95 °C y dejá secar la preparación durante toda la noche (6 a 8 horas) hasta que quede completamente quebradiza, crocante y sin vestigios de humedad."
+        ]
+      },
+      {
+        "name": "Molienda Calibrada de Café y Envasado",
+        "steps": [
+          "Retirá del horno, dejá enfriar a temperatura ambiente y colocá los sólidos en la licuadora o molinillo de café.",
+          "Molé mediante pulsos cortos hasta alcanzar un tamaño de partícula similar al grano de café molido grueso (nunca muelas a polvo fino tipo talco para que no enturbie la bebida).",
+          "Volcá el polvo en un cuenco, integrá la sal, el tomillo seco, el perejil seco y el MSG, y conservalo en un frasco de vidrio hermético por meses."
+        ]
+      },
+      {
+        "name": "Métodos de Extracción e Infusión Barista",
+        "steps": [
+          "Para servir con cuerpo en Prensa Francesa: colocá 50 g de polvo en la cafetera de émbolo, verté 250 ml de agua recién hervida, dejá infusionar 4 minutos y bajá el émbolo despacio.",
+          "Para servir un Consomé Cristalino en Cono V60: colocá 50 g de polvo sobre un filtro de papel humedecido, verté el agua caliente en círculos lentos y dejá filtrar durante 2 minutos."
+        ]
+      }
+    ],
+    "steps": [
+      "En una olla de hierro o asadera profunda, extendé la carne picada cruda desgranada junto con la cebolla, la zanahoria, el apio y el ajo en una capa pareja sin nada de grasa.",
+      "Llevá a horno a 200 °C durante 1 hora, removiendo cada 15 minutos con cuchara de madera hasta que todo adquiera un tono tostado oscuro uniforme pero sin quemarse.",
+      "Reducí la temperatura del horno a 95 °C y dejá secar la preparación durante toda la noche (6 a 8 horas) hasta que quede completamente quebradiza, crocante y sin vestigios de humedad.",
+      "Retirá del horno, dejá enfriar a temperatura ambiente y colocá los sólidos en la licuadora o molinillo de café.",
+      "Molé mediante pulsos cortos hasta alcanzar un tamaño de partícula similar al grano de café molido grueso (nunca muelas a polvo fino tipo talco para que no enturbie la bebida).",
+      "Volcá el polvo en un cuenco, integrá la sal, el tomillo seco, el perejil seco y el MSG, y conservalo en un frasco de vidrio hermético por meses.",
+      "Para servir con cuerpo en Prensa Francesa: colocá 50 g de polvo en la cafetera de émbolo, verté 250 ml de agua recién hervida, dejá infusionar 4 minutos y bajá el émbolo despacio.",
+      "Para servir un Consomé Cristalino en Cono V60: colocá 50 g de polvo sobre un filtro de papel humedecido, verté el agua caliente en círculos lentos y dejá filtrar durante 2 minutos."
+    ],
+    "notes": "El calibre de la molienda es el secreto técnico supremo transmitido por James Hoffmann: moler al grosor del café de filtro permite que el agua caliente disuelva los compuestos aromáticos de Maillard y la sal sin liberar almidones microscópicos, logrando en V60 un consomé translúcido de una pureza visual asombrosa."
   }
 ]
