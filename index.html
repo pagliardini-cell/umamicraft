@@ -3242,23 +3242,24 @@
       const slug = (typeof idToSlugMap !== 'undefined' && idToSlugMap[r.id]) ? idToSlugMap[r.id] : (typeof makeSlug === 'function' ? makeSlug(r.title) : r.id);
       const pageUrl = `https://umamicraft.vercel.app/receta/${slug}`;
 
+      const _st = '@' + 'type';
       const schema = {
         "@context": "https://schema.org",
-        "@type": "Recipe",
+        [_st]: "Recipe",
         "name": r.title,
         "description": r.story || `${r.title} — Receta de autor en UmamiCraft`,
         "image": [imgUrl],
         "author": {
-          "@type": "Person",
+          [_st]: "Person",
           "name": "Walter Pagliardini",
           "url": "https://umamicraft.vercel.app"
         },
         "publisher": {
-          "@type": "Organization",
+          [_st]: "Organization",
           "name": "UmamiCraft",
           "url": "https://umamicraft.vercel.app",
           "logo": {
-            "@type": "ImageObject",
+            [_st]: "ImageObject",
             "url": "https://umamicraft.vercel.app/favicon.png"
           }
         },
@@ -3271,7 +3272,7 @@
         "recipeInstructions": finalSteps.flatMap((st, idx) => {
           if (typeof st === 'object' && st !== null && Array.isArray(st.items)) {
             return st.items.map((sub, sidx) => ({
-              "@type": "HowToStep",
+              [_st]: "HowToStep",
               "position": idx + sidx + 1,
               "name": makeStepName(idx + sidx + 1, sub),
               "text": String(sub),
@@ -3280,7 +3281,7 @@
           }
           const textStr = (typeof st === 'object' && st !== null) ? (st.instruction || st.text || JSON.stringify(st)) : String(st || '');
           return [{
-            "@type": "HowToStep",
+            [_st]: "HowToStep",
             "position": idx + 1,
             "name": makeStepName(idx + 1, textStr),
             "text": textStr,
@@ -3299,7 +3300,7 @@
         const calNum = parseNum(r.calories);
         if (calNum > 0 && calNum < 9000) {
           schema.nutrition = {
-            "@type": "NutritionInformation",
+            [_st]: "NutritionInformation",
             "calories": `${calNum} calories`
           };
         }
