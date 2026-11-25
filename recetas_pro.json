@@ -91752,5 +91752,94 @@
       "Escurrí sobre papel absorbente y serví inmediatamente dentro de pan pita caliente con salsa tahini, tomate y pepino."
     ],
     "notes": "Regla de oro innegociable: jamás uses garbanzos cocidos ni de lata para hacer falafel, se desarmarían en el aceite. Se usan garbanzos secos crudos remojados 12 a 24 horas y triturados finamente en crudo."
+  },
+  {
+    "id": 869,
+    "title": "Cotoletta alla Milanese (Italia)",
+    "category": "Carnes",
+    "country": "Italia",
+    "prep_time": "20 min",
+    "cook_time": "12 min",
+    "servings": "2 porciones",
+    "calories": "680 kcal",
+    "image": "https://lh3.googleusercontent.com/-JebGJ8tnqI0/awdSNDzZPVI/AAAAAAAQDs4/R4RUy2_mPzYBbxaXa5lRIwxvKdWSNRUEQCNcBGAsYHQ/s1600/cotoletta_alla_milanese.jpg",
+    "diet_badges": [
+      "Clásico Lombardo",
+      "Carne con Hueso"
+    ],
+    "tags": [
+      "cotoletta alla milanese",
+      "cotoletta",
+      "milanesa",
+      "italia",
+      "milan",
+      "lombardia",
+      "ternera con hueso",
+      "burro chiarificato",
+      "manteca clarificada"
+    ],
+    "story": "Documentada históricamente desde el año 1134 en el banquete de los monjes de la Basílica de San Ambrosio en Milán bajo el nombre latino de 'lumbolos cum panitio', la cotoletta alla milanese es el mayor orgullo culinario de Lombardía. Reconocida con denominación municipal de origen (De.Co.), se distingue estrictamente por emplear la chuleta entera de ternera lechal con su hueso de costilla intacto, frita exclusivamente en manteca clarificada para lograr una costra dorada crocante y un interior tierno y rosado.",
+    "ingredients": [
+      "2 chuletas de ternera de leche con hueso de costilla (lombata di vitello con l'osso) de unos 300 g cada una y 2 cm de grosor",
+      "2 huevos camperos frescos grandes",
+      "2 tazas colmadas de pan blanco rallado grueso (de miga fresca casera o pan de masa madre)",
+      "180 g de manteca clarificada (burro chiarificato)",
+      "1 ramita de romero fresco (opcional para aromatizar la manteca)",
+      "Sal marina en escamas al gusto",
+      "Gajos de limón fresco para acompañar"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Carne y Estación de Empanado",
+        "ingredients": [
+          "2 chuletas de ternera con hueso (lombata di vitello) de 2 cm de grosor",
+          "2 huevos camperos frescos grandes",
+          "2 tazas colmadas de pan blanco rallado grueso casero"
+        ]
+      },
+      {
+        "name": "Fritura y Servido Tradicional",
+        "ingredients": [
+          "180 g de manteca clarificada (burro chiarificato)",
+          "1 ramita de romero fresco",
+          "Sal marina en escamas al gusto",
+          "Gajos de limón fresco para acompañar"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación, Empanado Artesanal y Fritura en Manteca Clarificada",
+        "steps": [
+          "Raspá y limpiá el hueso de la costilla con el filo del cuchillo para que quede prolijo y expuesto al estilo tradicional milanés.",
+          "Asegurate de no aplastar la carne: la auténtica cotoletta conserva el grosor natural del hueso (unos 2 cm) para garantizar un centro rosado y jugoso.",
+          "Hacé unos cortes milimétricos en el tejido conectivo perimetral de la chuleta para evitar que se curve al freírse.",
+          "Batí ligeramente los huevos en un plato hondo con un tenedor sin incorporar demasiado aire.",
+          "Disponé el pan rallado grueso en una fuente amplia.",
+          "Pasá cada chuleta primero por el huevo batido asegurando que cubra ambos lados y los bordes con prolijidad.",
+          "Pasala inmediatamente por el pan rallado presionando con la palma de la mano para que la miga se adhiera firmemente, formando una costra densa y pareja.",
+          "Con el lomo del cuchillo, trazá suavemente el tradicional dibujo de rombos en la superficie empanada.",
+          "En una sartén amplia de fondo grueso, calentá la manteca clarificada a 170 °C (debe formar una capa de al menos 1 cm de profundidad) junto con la ramita de romero.",
+          "Colocá las chuletas con cuidado y cocinalas a fuego medio durante 5 a 6 minutos por lado, bañando la parte superior continuamente con la manteca espumosa con una cuchara.",
+          "Cuando ambos lados luzcan un color dorado avellana uniforme y corteza crujiente, escurrilas sobre papel absorbente durante un minuto.",
+          "Espolvoreá con escamas de sal marina y serví de inmediato con un gajo de limón fresco al lado."
+        ]
+      }
+    ],
+    "steps": [
+      "Raspá y limpiá el hueso de la costilla con el filo del cuchillo para que quede prolijo y expuesto al estilo tradicional milanés.",
+      "Asegurate de no aplastar la carne: la auténtica cotoletta conserva el grosor natural del hueso (unos 2 cm) para garantizar un centro rosado y jugoso.",
+      "Hacé unos cortes milimétricos en el tejido conectivo perimetral de la chuleta para evitar que se curve al freírse.",
+      "Batí ligeramente los huevos en un plato hondo con un tenedor sin incorporar demasiado aire.",
+      "Disponé el pan rallado grueso en una fuente amplia.",
+      "Pasá cada chuleta primero por el huevo batido asegurando que cubra ambos lados y los bordes con prolijidad.",
+      "Pasala inmediatamente por el pan rallado presionando con la palma de la mano para que la miga se adhiera firmemente, formando una costra densa y pareja.",
+      "Con el lomo del cuchillo, trazá suavemente el tradicional dibujo de rombos en la superficie empanada.",
+      "En una sartén amplia de fondo grueso, calentá la manteca clarificada a 170 °C (debe formar una capa de al menos 1 cm de profundidad) junto con la ramita de romero.",
+      "Colocá las chuletas con cuidado y cocinalas a fuego medio durante 5 a 6 minutos por lado, bañando la parte superior continuamente con la manteca espumosa con una cuchara.",
+      "Cuando ambos lados luzcan un color dorado avellana uniforme y corteza crujiente, escurrilas sobre papel absorbente durante un minuto.",
+      "Espolvoreá con escamas de sal marina y serví de inmediato con un gajo de limón fresco al lado."
+    ],
+    "notes": "El secreto supremo de la cotoletta radica en dos pilares: el uso exclusivo de manteca clarificada (que resiste la fritura a alta temperatura sin quemarse y aporta un perfume avellanado único) y el grosor de la carne (nunca se debe espalmar fina como el schnitzel vienés, para mantener el corazón tierno y sonrosado junto al hueso)."
   }
 ]
