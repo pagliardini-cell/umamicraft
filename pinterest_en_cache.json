@@ -8672,5 +8672,25 @@
       "12 g carrot, sliced ​​very thinly",
       "8 g finely chopped celery"
     ]
+  },
+  "872": {
+    "title_en": "Cognac Pepper Sauce (France)",
+    "hook_en": "Born in the Parisian bistros of the 19th century to accompany pan-fried cuts of beef (steak au poivre), this sauce represents the quintessence of...",
+    "ingredients_en": [
+      "60 g of concentrated veal demi-glace (obtained from the reduction of quick veal broth)",
+      "75 ml of thick milk cream (35% fat content)",
+      "30 ml cognac or brandy (plus a few extra drops off the heat)",
+      "17 g clarified butter (or the juices from the pan where the meat was seared)"
+    ]
+  },
+  "873": {
+    "title_en": "Red Wine and Port Sauce (France)",
+    "hook_en": "Derived from the classic 'marchand de vin' sauce of 18th century Bordeaux winegrowers, this reduction represents the pinnacle of dark sauces of the...",
+    "ingredients_en": [
+      "180 g concentrated beef demi-glace",
+      "750 ml dry, full-bodied red wine (Cabernet Sauvignon or Malbec, 1 bottle)",
+      "90 ml sweet port wine (or fortified sweet wine)",
+      "48 ml red wine vinegar"
+    ]
   }
 }

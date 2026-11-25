@@ -92241,5 +92241,103 @@
       "Incorporá los cubos de manteca helada uno a uno batiendo en círculos constantes con un batidor de alambre hasta lograr una salsa oscura espejada, untuosa y brillante."
     ],
     "notes": "El principio molecular del 'monter au beurre' requiere que la manteca esté helada y el fuego completamente apagado: la diferencia térmica y el movimiento continuo del batidor fuerzan a los glóbulos grasos a dispersarse en la base ácida reducida de vino y colágeno sin fundirse en aceite libre, creando una emulsión coloidal de brillo espejado insuperable."
+  },
+  {
+    "id": 874,
+    "title": "Demi-Glace de Ternera (Francia)",
+    "category": "Salsas y Aderezos",
+    "country": "Francia",
+    "prep_time": "10 min",
+    "cook_time": "1 h 30 min",
+    "servings": "250 ml de esencia concentrada",
+    "calories": "90 kcal por porción (2 cucharadas)",
+    "image": "https://lh3.googleusercontent.com/-8qg6RxV5Hek/awdzdNJvbxI/AAAAAAAQDuQ/2f9JQSm_h_0NGj31xQO4GYwltYhLOlL5QCNcBGAsYHQ/s1600/demi_glace_ternera.jpg",
+    "diet_badges": [
+      "Cocina Molecular",
+      "Salsa Madre Francesa",
+      "Sin Gluten"
+    ],
+    "tags": [
+      "demi-glace de ternera",
+      "demiglace",
+      "fondo oscuro reducido",
+      "cocina molecular",
+      "gastronomia molecular",
+      "francia",
+      "escoffier",
+      "reduccion de ternera",
+      "colageno",
+      "salsa madre",
+      "alta cocina"
+    ],
+    "story": "Codificada por Auguste Escoffier en su célebre 'Le Guide Culinaire' a comienzos del siglo XX como la reina de las salsas madres oscuras, la demi-glace tradicional combinaba a partes iguales fondo oscuro de ternera y salsa espagnole reducidos a fuego lento. En la alta gastronomía y la cocina molecular contemporánea, se elabora mediante la reducción extrema de un fondo oscuro rico en colágeno hidrolizado hasta lograr un brillo espejado y una viscosidad natural que gelifica por completo al enfriar.",
+    "ingredients": [
+      "1,5 litros de fondo oscuro de ternera colado y desgrasado (o caldo rápido de ternera)",
+      "1 cucharada colmada de pasta de tomate concentrada",
+      "60 ml de vino tinto seco o vino Madeira (opcional para desglaseado)",
+      "2 ramitas de tomillo fresco",
+      "1 hoja de laurel seca",
+      "1 cucharadita de granos de pimienta negra machacados",
+      "20 g de manteca sin sal muy fría cortada en cubitos (para el brillo final opcional)",
+      "Sal fina y una pizca de glutamato monosódico (MSG) al gusto"
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Base y Reducción Aromática",
+        "ingredients": [
+          "1,5 litros de fondo oscuro de ternera colado y desgrasado",
+          "1 cucharada colmada de pasta de tomate concentrada",
+          "60 ml de vino tinto seco o vino Madeira",
+          "2 ramitas de tomillo fresco",
+          "1 hoja de laurel seca",
+          "1 cucharadita de granos de pimienta negra machacados"
+        ]
+      },
+      {
+        "name": "Emulsión y Acabado Espejado",
+        "ingredients": [
+          "20 g de manteca sin sal muy fría en cubitos",
+          "Sal fina y una pizca de MSG al gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Reducción Lenta y Desespumado",
+        "steps": [
+          "En una cacerola ancha y de fondo grueso, verté el vino tinto o Madeira y llevalo a hervor durante 3 minutos hasta reducirlo a seco.",
+          "Incorporá la pasta de tomate concentrada y el fondo oscuro de ternera desgrasado, integrando con batidor de alambre.",
+          "Agregá las ramitas de tomillo, la hoja de laurel y los granos de pimienta negra.",
+          "Llevá a ebullición a fuego medio y luego reducí a fuego bajo para mantener un hervor suave y constante, retirando periódicamente con un cucharón pequeño cualquier espuma o impureza que suba a los bordes."
+        ]
+      },
+      {
+        "name": "Concentración y Prueba de la Cuchara",
+        "steps": [
+          "Dejá reducir destapado durante 1 hora a 1 hora y 15 minutos, hasta que el líquido se reduzca a una quinta parte de su volumen inicial (unos 250 a 300 ml).",
+          "Comprobá la densidad con la prueba de la cuchara: sumergí el dorso de una cuchara de metal; la demi-glace debe cubrirla con una película densa, untuosa y brillante (si pasás el dedo por el dorso, la línea debe quedar perfectamente limpia y separada)."
+        ]
+      },
+      {
+        "name": "Colado a Presión y Conservación Gelatinosa",
+        "steps": [
+          "Pasá la demi-glace caliente por un colador fino forrado con una estameña o paño de cocina limpio para eliminar cualquier partícula residual.",
+          "Opcional para montaje inmediato: fuera del fuego, incorporá los cubitos de manteca helada batiendo vigorosamente para lograr un brillo lustroso espejado.",
+          "Dejá enfriar a temperatura ambiente: debido a la altísima concentración de colágeno, gelificará en un bloque sólido y tembloroso que podés racionar en cubos y congelar durante meses para enriquecer salsas, risottos y carnes."
+        ]
+      }
+    ],
+    "steps": [
+      "En una cacerola ancha y de fondo grueso, verté el vino tinto o Madeira y llevalo a hervor durante 3 minutos hasta reducirlo a seco.",
+      "Incorporá la pasta de tomate concentrada y el fondo oscuro de ternera desgrasado, integrando con batidor de alambre.",
+      "Agregá las ramitas de tomillo, la hoja de laurel y los granos de pimienta negra.",
+      "Llevá a ebullición a fuego medio y luego reducí a fuego bajo para mantener un hervor suave y constante, retirando periódicamente con un cucharón pequeño cualquier espuma o impureza que suba a los bordes.",
+      "Dejá reducir destapado durante 1 hora a 1 hora y 15 minutos, hasta que el líquido se reduzca a una quinta parte de su volumen inicial (unos 250 a 300 ml).",
+      "Comprobá la densidad con la prueba de la cuchara: sumergí el dorso de una cuchara de metal; la demi-glace debe cubrirla con una película densa, untuosa y brillante (si pasás el dedo por el dorso, la línea debe quedar perfectamente limpia y separada).",
+      "Pasá la demi-glace caliente por un colador fino forrado con una estameña o paño de cocina limpio para eliminar cualquier partícula residual.",
+      "Opcional para montaje inmediato: fuera del fuego, incorporá los cubitos de manteca helada batiendo vigorosamente para lograr un brillo lustroso espejado.",
+      "Dejá enfriar a temperatura ambiente: debido a la altísima concentración de colágeno, gelificará en un bloque sólido y tembloroso que podés racionar en cubos y congelar durante meses para enriquecer salsas, risottos y carnes."
+    ],
+    "notes": "El principio molecular de la demi-glace es la concentración por evaporación de agua sin desnaturalizar las proteínas de colágeno: a medida que el agua se evapora, la viscosidad cinemática aumenta exponencialmente y la gelatina forma una red polimérica que atrapa los compuestos aromáticos de Maillard. Al enfriarse por debajo de los 15 °C se transforma en un gel termorreversible que se funde instantáneamente al contacto con el calor."
   }
 ]
