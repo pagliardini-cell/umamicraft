@@ -186,10 +186,6 @@ module.exports = (req, res) => {
         });
       }
 
-      const idNum = Number(recipe.id) || 1;
-      const ratingVal = (4.7 + ((idNum * 7) % 3) * 0.1).toFixed(1);
-      const reviewCount = Math.floor(25 + ((idNum * 13) % 45));
-
       const schema = {
         "@context": "https://schema.org",
         "@type": "Recipe",
@@ -217,14 +213,7 @@ module.exports = (req, res) => {
         "recipeCuisine": recipe.country || "Internacional",
         "keywords": (recipe.tags || []).join(", "),
         "recipeIngredient": ingredients,
-        "recipeInstructions": instructions,
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": ratingVal,
-          "reviewCount": String(reviewCount),
-          "bestRating": "5",
-          "worstRating": "1"
-        }
+        "recipeInstructions": instructions
       };
 
       const prepIso = parseDurationIso(recipe.prep_time, false);
@@ -242,7 +231,7 @@ module.exports = (req, res) => {
         }
       }
 
-      const schemaScript = `\n  <script type="application/ld+json">\n${JSON.stringify(schema, null, 2)}\n  </script>`;
+      const schemaScript = `\n  <script type="application/ld+json" id="schema-recipe-ld">\n${JSON.stringify(schema, null, 2)}\n  </script>`;
 
       if (isEn) {
         html = html.replace(/<html\s+lang=["'][^"']*["']/i, '<html lang="en"');
@@ -261,13 +250,14 @@ module.exports = (req, res) => {
       html = html.replace('</head>', `${schemaScript}\n</head>`);
 
       const crawlerBlock = `
-  <div id="crawler-recipe-preview" style="display:none;" itemscope itemtype="https://schema.org/Recipe">
-    <h1 itemprop="name">${(isEn && enItem && enItem.title_en) ? enItem.title_en : recipe.title}</h1>
-    <p itemprop="description">${desc}</p>
+  <div id="crawler-recipe-preview" style="display:none;">
+    <h1>${(isEn && enItem && enItem.title_en) ? enItem.title_en : recipe.title}</h1>
+    <p>${desc}</p>
     <ul>
-      ${ingredients.map(ing => `<li itemprop="recipeIngredient">${ing}</li>`).join('\n      ')}
+      ${ingredients.map(ing => `<li>${ing}</li>`).join('\n      ')}
     </ul>
   </div>`;
+      html = html.replace('</body>', `${crawlerBlock}\n</body>`);
       html = html.replace('</body>', `${crawlerBlock}\n</body>`);
     }
   } catch (err) {

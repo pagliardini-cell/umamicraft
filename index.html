@@ -3242,10 +3242,6 @@
       const slug = (typeof idToSlugMap !== 'undefined' && idToSlugMap[r.id]) ? idToSlugMap[r.id] : (typeof makeSlug === 'function' ? makeSlug(r.title) : r.id);
       const pageUrl = `https://umamicraft.vercel.app/receta/${slug}`;
 
-      const idNum = Number(r.id) || 1;
-      const ratingVal = (4.7 + ((idNum * 7) % 3) * 0.1).toFixed(1);
-      const reviewCount = Math.floor(25 + ((idNum * 13) % 45));
-
       const schema = {
         "@context": "https://schema.org",
         "@type": "Recipe",
@@ -3290,14 +3286,7 @@
             "text": textStr,
             "url": `${pageUrl}#paso-${idx + 1}`
           }];
-        }),
-        "aggregateRating": {
-          "@type": "AggregateRating",
-          "ratingValue": ratingVal,
-          "reviewCount": String(reviewCount),
-          "bestRating": "5",
-          "worstRating": "1"
-        }
+        })
       };
 
       const prepISO = parseDurationISO(r.prep_time);
