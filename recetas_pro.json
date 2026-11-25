@@ -88971,5 +88971,147 @@
       "Sal marina y pimienta negra recién molida",
       "Aceite de oliva c/n para dorar las berenjenas"
     ]
+  },
+  {
+    "id": 838,
+    "title": "Coq au Vin (Francia)",
+    "country": "Francia",
+    "category": "Pollo & Aves",
+    "tags": [
+      "Coq au Vin",
+      "Pollo al vino tinto",
+      "Estofado francés",
+      "Cocina francesa",
+      "Pollo braseado",
+      "Guiso de pollo",
+      "Recetas con pollo",
+      "Pollo de campo",
+      "Champiñones y panceta"
+    ],
+    "prep_time": "30 min (+ 1 noche maceración)",
+    "cook_time": "1 h 15 min",
+    "rest_time": "12 h maceración en heladera",
+    "temperature": "Fuego medio (sellado) y hervor suave (estofado)",
+    "servings": "4 personas",
+    "calories": "520 kcal por porción",
+    "diet_badges": [
+      "Alto en Proteína"
+    ],
+    "story": "Nacido en las zonas rurales de la Galia y perfeccionado a lo largo de los siglos en las regiones vitivinícolas de Borgoña y Auvernia, el coq au vin surgió como una respuesta campesina para ablandar y aprovechar la carne fibrosa de los gallos viejos mediante largas cocciones en el vino tinto local. Con su incorporación formal a los recetarios de la alta cocina francesa en el siglo XX, se convirtió en uno de los estandartes indiscutidos del braseado tradicional. En mi cocina es un plato infalible para los días fríos cuando busco un estofado profundo con cuerpo y carácter.",
+    "ingredient_groups": [
+      {
+        "name": "Pollo y Maceración Nocturna",
+        "ingredients": [
+          "1 pollo entero de campo (aprox. 1,8 kg), troceado en 8 presas",
+          "1 botella (750 ml) de vino tinto seco con buen cuerpo (Pinot Noir o Malbec)",
+          "1 zanahoria grande, cortada en rodajas gruesas",
+          "1 cebolla grande, cortada en cuartos",
+          "2 dientes de ajo, aplastados",
+          "1 bouquet garni (tomillo fresco, laurel y perejil atados)",
+          "1 cucharadita de pimienta negra en grano"
+        ]
+      },
+      {
+        "name": "Sellado y Estofado",
+        "ingredients": [
+          "150 g de panceta ahumada, cortada en bastones gruesos (lardons)",
+          "2 cucharadas de harina de trigo (para enharinar el pollo)",
+          "1 cucharada colmada de concentrado de tomate",
+          "350 ml de caldo de pollo o fondo oscuro caliente",
+          "2 cucharadas de aceite de oliva o grasa neutra",
+          "1 cucharadita de sal entrefina"
+        ]
+      },
+      {
+        "name": "Guarnición y Ligazón",
+        "ingredients": [
+          "250 g de champiñones frescos chicos (París), limpios y al medio",
+          "15 cebollitas perla o chalotas pequeñas, peladas",
+          "30 g de manteca (para saltear la guarnición)",
+          "20 g de manteca pomada y 20 g de harina (beurre manié para la salsa)",
+          "2 cucharadas de perejil fresco picado fino",
+          "Pimienta negra recién molida al gusto"
+        ]
+      }
+    ],
+    "step_groups": [
+      {
+        "name": "Maceración Nocturna (Víspera)",
+        "steps": [
+          "En un recipiente profundo de vidrio o cerámica, disponé las presas de pollo junto con la cebolla en cuartos, las rodajas de zanahoria, los ajos aplastados, los granos de pimienta y el bouquet garni.",
+          "Verté la botella de vino tinto sobre el pollo asegurándote de que la carne quede sumergida. Tapá herméticamente y refrigerá entre 12 y 24 horas para infusionar aromas y ablandar fibras."
+        ]
+      },
+      {
+        "name": "Sellado y Fondo de Cocción",
+        "steps": [
+          "Retirá las presas de pollo de la marinada y secalas exhaustivamente con papel absorbente. Colá el vino de la maceración y reservalo junto con los vegetales y las hierbas.",
+          "En una cocotte o cacerola pesada a fuego medio, dorá la panceta en bastones hasta que suelte su grasa y quede crocante. Retirala con espumadera y reservala.",
+          "Salá apenas el pollo, pasalo ligeramente por harina y sacudí el sobrante.",
+          "Subí el fuego y dorá las presas por tandas en la grasa de la panceta durante 4 a 5 minutos por lado hasta que tomen un dorado oscuro parejo. Retiralas y reservalas."
+        ]
+      },
+      {
+        "name": "Braseado al Vino Tinto",
+        "steps": [
+          "En el mismo fondo de cocción, agregá la cebolla y la zanahoria de la marinada. Saltealas a fuego medio durante 5 minutos desglasando los jugos pegados.",
+          "Sumá el concentrado de tomate y cocinalo 1 minuto.",
+          "Verté el vino tinto colado de la maceración y dejalo hervir a borbotones durante 6 a 8 minutos a fuego fuerte para evaporar el alcohol y concentrar el color.",
+          "Reincorporá el pollo, la panceta crocante y el bouquet garni. Verté el caldo caliente hasta cubrir tres cuartas partes de la carne.",
+          "Bajá el fuego al mínimo, tapá y cociná a hervor muy suave durante 50 a 60 minutos hasta que la carne esté tiernísima."
+        ]
+      },
+      {
+        "name": "Guarnición Tradicional y Acabado",
+        "steps": [
+          "Fundí la manteca en una sartén y dorá las cebollitas perla a fuego medio hasta que caramelicen de forma pareja (unos 10 a 12 minutos). En la misma sartén a fuego vivo, salteá los champiñones durante 4 minutos hasta dorar.",
+          "Retirá las presas de pollo a una fuente tibia y descartá el bouquet garni.",
+          "Incorporá el beurre manié (manteca y harina amasadas) a la salsa hirviendo a fuego suave, batiendo con batidor de alambre durante 2 a 3 minutos hasta obtener una textura aterciopelada que nape la cuchara.",
+          "Devolvé el pollo, las cebollitas caramelizadas y los champiñones a la cacerola caliente durante 3 minutos para unificar.",
+          "Serví caliente en cazuela, espolvoreá con perejil fresco y acompañá con papas al vapor o puré cremoso."
+        ]
+      }
+    ],
+    "notes": "El vino manda: utilizá un vino tinto de buena calidad que beberías con placer en la mesa; los vinos de baja estirpe o muy astringentes arruinan la salsa al reducirse. El secado previo con papel de cocina es el secreto fundamental para lograr un tostado crocante y evitar que la carne largue agua y se hierva. Si preparás el estofado con un día de anticipación y lo dejás reposar en heladera, la salsa decanta, el colágeno se asienta y adquiere una untuosidad todavía más memorable al recalentarlo a fuego suave.",
+    "image": "https://lh3.googleusercontent.com/-ChhyKiFBSUE/awYlnKKdYpI/AAAAAAAQDl4/y811fT7gclgI9nl9lsP_igg8U1xw1_TXQCNcBGAsYHQ/s1600/coq_au_vin_francia.jpg",
+    "ingredients": [
+      "1 pollo entero de campo (aprox. 1,8 kg), troceado en 8 presas",
+      "1 botella (750 ml) de vino tinto seco con buen cuerpo (Pinot Noir o Malbec)",
+      "1 zanahoria grande, cortada en rodajas gruesas",
+      "1 cebolla grande, cortada en cuartos",
+      "2 dientes de ajo, aplastados",
+      "1 bouquet garni (tomillo fresco, laurel y perejil atados)",
+      "1 cucharadita de pimienta negra en grano",
+      "150 g de panceta ahumada, cortada en bastones gruesos (lardons)",
+      "2 cucharadas de harina de trigo (para enharinar el pollo)",
+      "1 cucharada colmada de concentrado de tomate",
+      "350 ml de caldo de pollo o fondo oscuro caliente",
+      "2 cucharadas de aceite de oliva o grasa neutra",
+      "1 cucharadita de sal entrefina",
+      "250 g de champiñones frescos chicos (París), limpios y al medio",
+      "15 cebollitas perla o chalotas pequeñas, peladas",
+      "30 g de manteca (para saltear la guarnición)",
+      "20 g de manteca pomada y 20 g de harina (beurre manié para la salsa)",
+      "2 cucharadas de perejil fresco picado fino",
+      "Pimienta negra recién molida al gusto"
+    ],
+    "steps": [
+      "En un recipiente profundo de vidrio o cerámica, disponé las presas de pollo junto con la cebolla en cuartos, las rodajas de zanahoria, los ajos aplastados, los granos de pimienta y el bouquet garni.",
+      "Verté la botella de vino tinto sobre el pollo asegurándote de que la carne quede sumergida. Tapá herméticamente y refrigerá entre 12 y 24 horas para infusionar aromas y ablandar fibras.",
+      "Retirá las presas de pollo de la marinada y secalas exhaustivamente con papel absorbente. Colá el vino de la maceración y reservalo junto con los vegetales y las hierbas.",
+      "En una cocotte o cacerola pesada a fuego medio, dorá la panceta en bastones hasta que suelte su grasa y quede crocante. Retirala con espumadera y reservala.",
+      "Salá apenas el pollo, pasalo ligeramente por harina y sacudí el sobrante.",
+      "Subí el fuego y dorá las presas por tandas en la grasa de la panceta durante 4 a 5 minutos por lado hasta que tomen un dorado oscuro parejo. Retiralas y reservalas.",
+      "En el mismo fondo de cocción, agregá la cebolla y la zanahoria de la marinada. Saltealas a fuego medio durante 5 minutos desglasando los jugos pegados.",
+      "Sumá el concentrado de tomate y cocinalo 1 minuto.",
+      "Verté el vino tinto colado de la maceración y dejalo hervir a borbotones durante 6 a 8 minutos a fuego fuerte para evaporar el alcohol y concentrar el color.",
+      "Reincorporá el pollo, la panceta crocante y el bouquet garni. Verté el caldo caliente hasta cubrir tres cuartas partes de la carne.",
+      "Bajá el fuego al mínimo, tapá y cociná a hervor muy suave durante 50 a 60 minutos hasta que la carne esté tiernísima.",
+      "Fundí la manteca en una sartén y dorá las cebollitas perla a fuego medio hasta que caramelicen de forma pareja (unos 10 a 12 minutos). En la misma sartén a fuego vivo, salteá los champiñones durante 4 minutos hasta dorar.",
+      "Retirá las presas de pollo a una fuente tibia y descartá el bouquet garni.",
+      "Incorporá el beurre manié (manteca y harina amasadas) a la salsa hirviendo a fuego suave, batiendo con batidor de alambre durante 2 a 3 minutos hasta obtener una textura aterciopelada que nape la cuchara.",
+      "Devolvé el pollo, las cebollitas caramelizadas y los champiñones a la cacerola caliente durante 3 minutos para unificar.",
+      "Serví caliente en cazuela, espolvoreá con perejil fresco y acompañá con papas al vapor o puré cremoso."
+    ]
   }
 ]

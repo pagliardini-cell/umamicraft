@@ -68,10 +68,15 @@ function makeStepName(pos, rawText) {
 
 module.exports = (req, res) => {
   const querySlug = req.query.receta || req.query.r;
+  const isEn = String(req.query.lang || '').toLowerCase() === 'en';
   const indexPath = path.join(process.cwd(), 'index.html');
   let html = fs.readFileSync(indexPath, 'utf8');
 
   if (!querySlug) {
+    if (isEn) {
+      html = html.replace(/<html\s+lang=["'][^"']*["']/i, '<html lang="en"');
+      html = html.replace(/<link\s+rel=["']canonical["']\s+href=["'][^"']*["']/i, '<link rel="canonical" href="https://umamicraft.vercel.app/?lang=en">');
+    }
     res.setHeader('Content-Type', 'text/html; charset=utf-8');
     return res.status(200).send(html);
   }
@@ -79,6 +84,18 @@ module.exports = (req, res) => {
   try {
     const recipesPath = path.join(process.cwd(), 'recetas_pro.json');
     const recipes = JSON.parse(fs.readFileSync(recipesPath, 'utf8'));
+
+    let enCache = {};
+    if (isEn) {
+      try {
+        const enCachePath = path.join(process.cwd(), 'pinterest_en_cache.json');
+        if (fs.existsSync(enCachePath)) {
+          enCache = JSON.parse(fs.readFileSync(enCachePath, 'utf8'));
+        }
+      } catch (e) {
+        console.warn('Could not load pinterest_en_cache.json:', e);
+      }
+    }
 
     let recipe = null;
     let foundSlug = querySlug;
@@ -99,26 +116,41 @@ module.exports = (req, res) => {
     }
 
     if (recipe) {
-      const title = `Receta de ${recipe.title} | UmamiCraft`;
-      const desc = recipe.story ? recipe.story.slice(0, 155).trim() + '...' : 'Receta tradicional curada paso a paso en UmamiCraft.';
-      const imgUrl = recipe.image.startsWith('http') ? recipe.image : `https://umamicraft.vercel.app/${recipe.image}`;
-      const pageUrl = `https://umamicraft.vercel.app/receta/${foundSlug}`;
+      const ridStr = String(recipe.id);
+      const enItem = isEn ? (enCache[ridStr] || null) : null;
 
-      const ingredients = [];
-      if (recipe.ingredient_groups && Array.isArray(recipe.ingredient_groups)) {
-        recipe.ingredient_groups.forEach(g => {
-          const list = g.items || g.ingredients || [];
-          list.forEach(i => {
+      let title, desc, pageUrl, ingredients;
+      const imgUrl = recipe.image.startsWith('http') ? recipe.image : `https://umamicraft.vercel.app/${recipe.image}`;
+
+      if (isEn && enItem) {
+        const rawTitle = enItem.title_en || recipe.title;
+        title = `${rawTitle} Recipe | UmamiCraft`;
+        desc = enItem.hook_en || (recipe.story ? recipe.story.slice(0, 155).trim() + '...' : 'Traditional recipe with step-by-step instructions at UmamiCraft.');
+        pageUrl = `https://umamicraft.vercel.app/receta/${foundSlug}?lang=en`;
+        ingredients = (Array.isArray(enItem.ingredients_en) && enItem.ingredients_en.length > 0) ? [...enItem.ingredients_en] : [];
+      } else {
+        title = `Receta de ${recipe.title} | UmamiCraft`;
+        desc = recipe.story ? recipe.story.slice(0, 155).trim() + '...' : 'Receta tradicional curada paso a paso en UmamiCraft.';
+        pageUrl = `https://umamicraft.vercel.app/receta/${foundSlug}`;
+        ingredients = [];
+      }
+
+      if (ingredients.length === 0) {
+        if (recipe.ingredient_groups && Array.isArray(recipe.ingredient_groups)) {
+          recipe.ingredient_groups.forEach(g => {
+            const list = g.items || g.ingredients || [];
+            list.forEach(i => {
+              const name = (typeof i === 'object' && i !== null) ? (i.name || i.item || '') : String(i || '');
+              if (name && name.trim()) ingredients.push(name.trim());
+            });
+          });
+        }
+        if (ingredients.length === 0 && Array.isArray(recipe.ingredients)) {
+          recipe.ingredients.forEach(i => {
             const name = (typeof i === 'object' && i !== null) ? (i.name || i.item || '') : String(i || '');
             if (name && name.trim()) ingredients.push(name.trim());
           });
-        });
-      }
-      if (ingredients.length === 0 && Array.isArray(recipe.ingredients)) {
-        recipe.ingredients.forEach(i => {
-          const name = (typeof i === 'object' && i !== null) ? (i.name || i.item || '') : String(i || '');
-          if (name && name.trim()) ingredients.push(name.trim());
-        });
+        }
       }
 
       const instructions = [];
@@ -161,7 +193,8 @@ module.exports = (req, res) => {
       const schema = {
         "@context": "https://schema.org",
         "@type": "Recipe",
-        "name": recipe.title,
+        "inLanguage": isEn ? "en" : "es",
+        "name": (isEn && enItem && enItem.title_en) ? enItem.title_en : recipe.title,
         "description": desc,
         "image": [imgUrl],
         "author": {
@@ -211,14 +244,31 @@ module.exports = (req, res) => {
 
       const schemaScript = `\n  <script type="application/ld+json">\n${JSON.stringify(schema, null, 2)}\n  </script>`;
 
+      if (isEn) {
+        html = html.replace(/<html\s+lang=["'][^"']*["']/i, '<html lang="en"');
+      } else {
+        html = html.replace(/<html\s+lang=["'][^"']*["']/i, '<html lang="es"');
+      }
+
       html = html.replace(/<title>[\s\S]*?<\/title>/i, `<title>${title}</title>`);
-      html = html.replace(/<meta property="og:type" content="[^"]*">/i, `<meta property="og:type" content="article">`);
-      html = html.replace(/<meta property="og:title" content="[^"]*">/i, `<meta property="og:title" content="${title}">`);
-      html = html.replace(/<meta property="og:description" content="[^"]*">/i, `<meta property="og:description" content="${desc.replace(/"/g, '&quot;')}">`);
-      html = html.replace(/<meta property="og:image" content="[^"]*">/i, `<meta property="og:image" content="${imgUrl}">`);
-      html = html.replace(/<meta name="twitter:image" content="[^"]*">/i, `<meta name="twitter:image" content="${imgUrl}">`);
-      html = html.replace(/<link rel="canonical" href="[^"]*">/i, `<link rel="canonical" href="${pageUrl}">`);
+      html = html.replace(/<meta\s+name=["']description["']\s+content=["'][^"']*["']/i, `<meta name="description" content="${desc.replace(/"/g, '&quot;')}">`);
+      html = html.replace(/<meta\s+property=["']og:type["']\s+content=["'][^"']*["']/i, `<meta property="og:type" content="article">`);
+      html = html.replace(/<meta\s+property=["']og:title["']\s+content=["'][^"']*["']/i, `<meta property="og:title" content="${title.replace(/"/g, '&quot;')}">`);
+      html = html.replace(/<meta\s+property=["']og:description["']\s+content=["'][^"']*["']/i, `<meta property="og:description" content="${desc.replace(/"/g, '&quot;')}">`);
+      html = html.replace(/<meta\s+property=["']og:image["']\s+content=["'][^"']*["']/i, `<meta property="og:image" content="${imgUrl}">`);
+      html = html.replace(/<meta\s+name=["']twitter:image["']\s+content=["'][^"']*["']/i, `<meta name="twitter:image" content="${imgUrl}">`);
+      html = html.replace(/<link\s+rel=["']canonical["']\s+href=["'][^"']*["']/i, `<link rel="canonical" href="${pageUrl}">`);
       html = html.replace('</head>', `${schemaScript}\n</head>`);
+
+      const crawlerBlock = `
+  <div id="crawler-recipe-preview" style="display:none;" itemscope itemtype="https://schema.org/Recipe">
+    <h1 itemprop="name">${(isEn && enItem && enItem.title_en) ? enItem.title_en : recipe.title}</h1>
+    <p itemprop="description">${desc}</p>
+    <ul>
+      ${ingredients.map(ing => `<li itemprop="recipeIngredient">${ing}</li>`).join('\n      ')}
+    </ul>
+  </div>`;
+      html = html.replace('</body>', `${crawlerBlock}\n</body>`);
     }
   } catch (err) {
     console.error('Error injecting recipe metadata:', err);

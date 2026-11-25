@@ -4,4 +4,3 @@ Allow: /
 Sitemap: https://umamicraft.vercel.app/sitemap.xml
 Sitemap: https://umamicraft.vercel.app/sitemap-es.xml
 Sitemap: https://umamicraft.vercel.app/sitemap-en.xml
-Sitemap: https://umamicraft.vercel.app/sitemap-pt.xml

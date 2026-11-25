@@ -471,7 +471,10 @@
         </div>
 
         <div style="background:var(--bg-card); border:1px solid var(--border); border-radius:var(--radius); padding:24px;">
-          <h3 style="font-family:'Playfair Display',serif; font-size:1.2rem; margin-bottom:14px;">Distribución por Categorías</h3>
+          <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:14px;">
+            <h3 style="font-family:'Playfair Display',serif; font-size:1.2rem; margin:0;">Distribución por Categorías</h3>
+            <span style="font-size:0.8rem; color:var(--text-muted); background:var(--bg-subtle); padding:4px 10px; border-radius:6px;">💡 Clic en cualquier categoría para filtrar sus recetas</span>
+          </div>
           <div id="categoryBreakdown" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(200px, 1fr)); gap:10px;"></div>
         </div>
 
@@ -479,7 +482,7 @@
         <div style="background:var(--bg-card); border:1px solid var(--border); border-radius:var(--radius); padding:24px; margin-top:20px;">
           <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:10px; margin-bottom:18px;">
             <h3 style="font-family:'Playfair Display',serif; font-size:1.25rem; margin:0;">🗺️ Presencia Global por Regiones y Continentes</h3>
-            <span style="font-size:0.8rem; color:var(--text-muted); background:var(--bg-subtle); padding:4px 10px; border-radius:6px;">💡 Clic en cualquier país para filtrar sus recetas</span>
+            <span style="font-size:0.8rem; color:var(--text-muted); background:var(--bg-subtle); padding:4px 10px; border-radius:6px;">💡 Clic en cualquier continente o país para filtrar sus recetas</span>
           </div>
           <div id="continentsBreakdown" style="display:grid; grid-template-columns:repeat(auto-fit, minmax(230px, 1fr)); gap:14px; margin-bottom:30px;"></div>
 
@@ -512,6 +515,11 @@
               <option value="id_asc">📑 Orden original (#1 en adelante)</option>
               <option value="title_asc">🔤 Título (A - Z)</option>
             </select>
+          </div>
+
+          <div id="activeRegionNotice" style="display:none; margin-bottom:12px; background:rgba(234,88,12,0.12); border:1px solid rgba(234,88,12,0.3); padding:8px 14px; border-radius:8px; font-size:0.88rem; align-items:center; justify-content:space-between;">
+            <span id="activeRegionText" style="color:var(--primary); font-weight:700;"></span>
+            <button type="button" class="btn btn-sec" style="padding:4px 12px; font-size:0.8rem; cursor:pointer;" onclick="clearRegionFilter()">✕ Quitar filtro de región</button>
           </div>
 
           <div style="overflow-x:auto;">
@@ -739,6 +747,50 @@
 
     let token = sessionStorage.getItem('umami_admin_token') || '';
     let recipes = [];
+    let currentRegionFilter = 'all';
+
+    const REGION_DEFS = [
+      { 
+        name: 'Europa', 
+        icon: '🌍', 
+        list: [
+          'Italia', 'España', 'Francia', 'Alemania', 'Reino Unido', 'Inglaterra', 'Escocia', 
+          'Portugal', 'Bélgica', 'Suecia', 'Irlanda', 'Grecia', 'Rusia', 'Hungría', 'Suiza', 
+          'Dinamarca', 'Lituania', 'República Checa', 'Balcanes', 'Inglaterra / Francia', 'Inglaterra / Italia'
+        ] 
+      },
+      { 
+        name: 'América', 
+        icon: '🌎', 
+        list: [
+          'Argentina', 'Receta de Autor (Argentina)', 'Estados Unidos', 'México', 'Perú', 'Brasil', 
+          'Chile', 'Uruguay', 'Cuba', 'Venezuela', 'Bolivia', 'Paraguay', 'Caribe', 'Puerto Rico', 
+          'Canadá / Internacional', 'Canadá'
+        ] 
+      },
+      { 
+        name: 'Asia & Oceanía', 
+        icon: '🌏', 
+        list: [
+          'Japón', 'China', 'India', 'Tailandia', 'Vietnam', 'Corea del Sur', 'Filipinas', 
+          'Singapur', 'Taiwán', 'Indonesia', 'Mongolia', 'Australia', 'Nueva Zelanda'
+        ] 
+      },
+      { 
+        name: 'Medio Oriente & África', 
+        icon: '🌍', 
+        list: [
+          'Medio Oriente', 'Turquía', 'Líbano', 'Líbano / Siria', 'Palestina', 'Marruecos', 
+          'Egipto', 'Túnez', 'Sudáfrica', 'Senegal', 'Ghana', 'Etiopía', 'Kenia', 'Nigeria', 
+          'Camerún', 'África', 'Armenia', 'Afganistán'
+        ] 
+      },
+      { 
+        name: 'Cocina Global & Fusión', 
+        icon: '🌐', 
+        list: ['Fusión', 'Fusión Internacional', 'Internacional'] 
+      }
+    ];
 
     async function init() {
       // Eliminar siempre caché residual para forzar las 303 recetas reales
@@ -888,9 +940,9 @@
       recipes.forEach(r => { counts[r.category] = (counts[r.category] || 0) + 1; });
       const breakdown = document.getElementById('categoryBreakdown');
       breakdown.innerHTML = Object.entries(counts).sort((a,b) => b[1] - a[1]).map(([cat, cnt]) => `
-        <div style="background:var(--bg-subtle); padding:10px 14px; border-radius:8px; display:flex; justify-content:space-between; font-size:0.86rem;">
-          <span>${cat}</span>
-          <strong style="color:var(--primary);">${cnt}</strong>
+        <div onclick="filterTableByCategory('${cat.replace(/'/g, "\\'")}')" style="background:var(--bg-subtle); border:1px solid var(--border); border-radius:8px; padding:10px 14px; display:flex; justify-content:space-between; align-items:center; font-size:0.86rem; cursor:pointer; transition:all 0.15s;" onmouseover="this.style.borderColor='var(--primary)'; this.style.transform='translateY(-2px)';" onmouseout="this.style.borderColor='var(--border)'; this.style.transform='none';" title="Clic para filtrar recetas de ${cat}">
+          <span style="font-weight:600;">${cat}</span>
+          <strong style="color:var(--primary); font-size:0.95rem;">${cnt}</strong>
         </div>
       `).join('');
 
@@ -904,50 +956,6 @@
       const spanCountries = document.getElementById('totalCountriesSpan');
       if (spanCountries) spanCountries.textContent = sortedCountries.length;
 
-      // 1. Continentes / Regiones (Cobertura 100% de los 63 países)
-      const REGION_DEFS = [
-        { 
-          name: 'Europa', 
-          icon: '🌍', 
-          list: [
-            'Italia', 'España', 'Francia', 'Alemania', 'Reino Unido', 'Inglaterra', 'Escocia', 
-            'Portugal', 'Bélgica', 'Suecia', 'Irlanda', 'Grecia', 'Rusia', 'Hungría', 'Suiza', 
-            'Dinamarca', 'Lituania', 'República Checa', 'Balcanes', 'Inglaterra / Francia', 'Inglaterra / Italia'
-          ] 
-        },
-        { 
-          name: 'América', 
-          icon: '🌎', 
-          list: [
-            'Argentina', 'Receta de Autor (Argentina)', 'Estados Unidos', 'México', 'Perú', 'Brasil', 
-            'Chile', 'Uruguay', 'Cuba', 'Venezuela', 'Bolivia', 'Paraguay', 'Caribe', 'Puerto Rico', 
-            'Canadá / Internacional', 'Canadá'
-          ] 
-        },
-        { 
-          name: 'Asia & Oceanía', 
-          icon: '🌏', 
-          list: [
-            'Japón', 'China', 'India', 'Tailandia', 'Vietnam', 'Corea del Sur', 'Filipinas', 
-            'Singapur', 'Taiwán', 'Indonesia', 'Mongolia', 'Australia', 'Nueva Zelanda'
-          ] 
-        },
-        { 
-          name: 'Medio Oriente & África', 
-          icon: '🌍', 
-          list: [
-            'Medio Oriente', 'Turquía', 'Líbano', 'Líbano / Siria', 'Palestina', 'Marruecos', 
-            'Egipto', 'Túnez', 'Sudáfrica', 'Senegal', 'Ghana', 'Etiopía', 'Kenia', 'Nigeria', 
-            'Camerún', 'África', 'Armenia', 'Afganistán'
-          ] 
-        },
-        { 
-          name: 'Cocina Global & Fusión', 
-          icon: '🌐', 
-          list: ['Fusión', 'Fusión Internacional', 'Internacional'] 
-        }
-      ];
-
       // Asignar automáticamente cualquier nuevo país no catalogado a Cocina Global & Fusión
       const assignedCountries = new Set();
       REGION_DEFS.forEach(r => r.list.forEach(c => assignedCountries.add(c)));
@@ -955,7 +963,9 @@
       if (unassigned.length > 0) {
         const fallbackReg = REGION_DEFS.find(r => r.name.includes('Global') || r.name.includes('Fusión'));
         if (fallbackReg) {
-          unassigned.forEach(c => fallbackReg.list.push(c));
+          unassigned.forEach(c => {
+            if (!fallbackReg.list.includes(c)) fallbackReg.list.push(c);
+          });
         }
       }
 
@@ -972,7 +982,7 @@
           });
           const pct = ((total / recipes.length) * 100).toFixed(1);
           return `
-            <div style="background:var(--bg-subtle); border:1px solid var(--border); border-radius:10px; padding:16px;">
+            <div onclick="filterTableByRegion('${reg.name}')" style="background:var(--bg-subtle); border:1px solid var(--border); border-radius:10px; padding:16px; cursor:pointer; transition:all 0.15s;" onmouseover="this.style.borderColor='var(--primary)'; this.style.transform='translateY(-2px)';" onmouseout="this.style.borderColor='var(--border)'; this.style.transform='none';" title="Clic para filtrar las ${total} recetas de ${reg.name}">
               <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:8px;">
                 <span style="font-weight:700; font-size:0.95rem;">${reg.icon} ${reg.name}</span>
                 <strong style="font-size:1.15rem; color:var(--primary);">${total} <span style="font-size:0.75rem; color:var(--text-muted); font-weight:normal;">platos</span></strong>
@@ -1028,7 +1038,34 @@
       }
     }
 
+    function filterTableByCategory(category) {
+      currentRegionFilter = 'all';
+      switchTab('recipes');
+      const catSelect = document.getElementById('tableCategoryFilter');
+      const countrySelect = document.getElementById('tableCountryFilter');
+      const searchInput = document.getElementById('tableSearch');
+      if (catSelect) catSelect.value = category;
+      if (countrySelect) countrySelect.value = 'all';
+      if (searchInput) searchInput.value = '';
+      updateActiveFilterNotice();
+      renderTable();
+    }
+
+    function filterTableByRegion(regionName) {
+      currentRegionFilter = regionName;
+      switchTab('recipes');
+      const catSelect = document.getElementById('tableCategoryFilter');
+      const countrySelect = document.getElementById('tableCountryFilter');
+      const searchInput = document.getElementById('tableSearch');
+      if (catSelect) catSelect.value = 'all';
+      if (countrySelect) countrySelect.value = 'all';
+      if (searchInput) searchInput.value = '';
+      updateActiveFilterNotice();
+      renderTable();
+    }
+
     function filterTableByCountry(country) {
+      currentRegionFilter = 'all';
       switchTab('recipes');
       const countrySelect = document.getElementById('tableCountryFilter');
       const searchInput = document.getElementById('tableSearch');
@@ -1038,7 +1075,28 @@
       if (searchInput) {
         searchInput.value = '';
       }
+      updateActiveFilterNotice();
       renderTable();
+    }
+
+    function clearRegionFilter() {
+      currentRegionFilter = 'all';
+      updateActiveFilterNotice();
+      renderTable();
+    }
+
+    function updateActiveFilterNotice() {
+      const notice = document.getElementById('activeRegionNotice');
+      const text = document.getElementById('activeRegionText');
+      if (!notice || !text) return;
+      if (currentRegionFilter !== 'all') {
+        const reg = REGION_DEFS.find(r => r.name === currentRegionFilter);
+        const icon = reg ? reg.icon : '🌐';
+        text.innerHTML = `${icon} Mostrando recetas de la región <strong>${currentRegionFilter}</strong>`;
+        notice.style.display = 'flex';
+      } else {
+        notice.style.display = 'none';
+      }
     }
 
     function populateFilters() {
@@ -1079,14 +1137,25 @@
       const sortOrder = document.getElementById('tableSortOrder') ? document.getElementById('tableSortOrder').value : 'id_desc';
       const tbody = document.getElementById('recipesTableBody');
 
+      // Si el usuario cambia manualmente el filtro de país, limpiar filtro de región
+      if (countryFilter !== 'all') {
+        currentRegionFilter = 'all';
+      }
+      updateActiveFilterNotice();
+
       let filtered = recipes.filter(r => {
         if (cat !== 'all' && r.category !== cat) return false;
         if (countryFilter !== 'all' && (r.country || '') !== countryFilter) return false;
+        if (currentRegionFilter !== 'all') {
+          const regDef = REGION_DEFS.find(reg => reg.name === currentRegionFilter);
+          if (regDef && !regDef.list.includes(r.country || 'Internacional')) return false;
+        }
         if (q) {
           const matchTitle = (r.title || '').toLowerCase().includes(q);
           const matchCountry = (r.country || '').toLowerCase().includes(q);
+          const matchCategory = (r.category || '').toLowerCase().includes(q);
           const matchId = String(r.id) === q;
-          if (!matchTitle && !matchCountry && !matchId) return false;
+          if (!matchTitle && !matchCountry && !matchCategory && !matchId) return false;
         }
         return true;
       });
