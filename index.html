@@ -5,10 +5,10 @@
   <base href="/">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Recetas del Mundo y Cocktails de Autor Paso a Paso | UmamiCraft</title>
-  <meta name="description" content="Descubre 880 recetas internacionales tradicionales y cocktails de autor explicados paso a paso con ingredientes exactos, fotos en alta definición, tiempos, porciones y calorías.">
+  <meta name="description" content="Descubre 881 recetas internacionales tradicionales y cocktails de autor explicados paso a paso con ingredientes exactos, fotos en alta definición, tiempos, porciones y calorías.">
   <meta property="og:type" content="website">
   <meta property="og:title" content="Recetas del Mundo y Cocktails de Autor Paso a Paso | UmamiCraft">
-  <meta property="og:description" content="Descubre 880 recetas internacionales tradicionales y cocktails de autor explicados paso a paso con ingredientes exactos, fotos en alta definición, tiempos, porciones y calorías.">
+  <meta property="og:description" content="Descubre 881 recetas internacionales tradicionales y cocktails de autor explicados paso a paso con ingredientes exactos, fotos en alta definición, tiempos, porciones y calorías.">
   <meta property="og:image" content="https://umamicraft.vercel.app/raviolo_uovo.jpg">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="800">
@@ -1854,18 +1854,6 @@
 
         <div class="specs-grid" id="modalSpecs"></div>
 
-        <!-- Bloque de Maridaje y Destino Recomendado (Abbinamento) -->
-        <div class="pairing-container notranslate" translate="no" id="modalPairingContainer" style="display:none; margin-bottom:24px; background:var(--bg); border:1px solid var(--border); border-radius:var(--radius-md); padding:16px 20px;">
-          <div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:12px; border-bottom:1px solid var(--border); padding-bottom:8px;">
-            <span style="font-size:0.78rem; font-weight:800; letter-spacing:0.8px; text-transform:uppercase; color:var(--primary); display:flex; align-items:center; gap:6px;">
-              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
-              Maridaje y Destino Recomendado (Abbinamento)
-            </span>
-            <span style="font-size:0.75rem; color:var(--text-muted); font-weight:600;">Formato Ideal</span>
-          </div>
-          <div id="modalPairingBadges" style="display:flex; flex-wrap:wrap; gap:12px;"></div>
-        </div>
-
         <div class="story-box" id="modalStoryBox">
           <div id="modalStory"></div>
         </div>
@@ -3520,9 +3508,6 @@
           <span class="spec-value">${s.val}</span>
         </div>
       `).join('');
-
-      // Renderizar bloque de Maridaje Recomendado con iconos vectoriales bicolores
-      renderModalPairing(r);
 
       // Inicializar escalador de porciones inteligente
       const servStr = String(r.servings || '');

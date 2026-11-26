@@ -8732,5 +8732,45 @@
       "1 heaped tablespoon classic Dijon mustard",
       "2 small French shallots, finely chopped in brunoise"
     ]
+  },
+  "878": {
+    "title_en": "Pesto di Pistacchi di Bronte (Italy)",
+    "hook_en": "Grown on the steep volcanic rock slopes of Mount Etna, green pistacchio di Bronte is revered throughout the Italian peninsula as green gold...",
+    "ingredients_en": [
+      "200 g unsalted raw peeled pistachios",
+      "20 g of fresh, well-dried young basil leaves",
+      "1/2 small clove of garlic without germ",
+      "50 g finely grated Pecorino Siciliano or Parmigiano cheese"
+    ]
+  },
+  "879": {
+    "title_en": "Pesto alla Calabrese (Italy)",
+    "hook_en": "Born in the wild geography of Calabria, in the extreme south of the Italian boot, this pesto embodies the passionate character of rural Mediterranean cuisine.",
+    "ingredients_en": [
+      "2 large meaty red bell peppers",
+      "1 small clove of garlic",
+      "1 Calabrian peperoncino pepper, chopped",
+      "15 fresh basil leaves"
+    ]
+  },
+  "880": {
+    "title_en": "Pesto Rosso of Dried Tomatoes and Hazelnuts (Italy)",
+    "hook_en": "Pesto rosso, known in the villages of Sicily as pesto alla trapanese or peasant rossa sauce, emerged from the mixing between Genoese sailors who...",
+    "ingredients_en": [
+      "150 g of dried tomatoes hydrated in oil",
+      "80 g peeled toasted hazelnuts",
+      "1 small clove of garlic without germ",
+      "15 g fresh basil leaves"
+    ]
+  },
+  "881": {
+    "title_en": "Arugula, Walnut and Gorgonzola Pesto (Italy)",
+    "hook_en": "Born in the trattorias of Lombardy and Piedmont as a lively, autumnal response to the summer Genoese pesto, this preparation fuses the bitter spiciness...",
+    "ingredients_en": [
+      "150 g fresh dried wild arugula leaves",
+      "80 g peeled walnuts, gently toasted",
+      "1/2 small clove of garlic without germ",
+      "1 pinch of coarse sea salt"
+    ]
   }
 }

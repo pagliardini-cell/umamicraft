@@ -92765,7 +92765,7 @@
     "cook_time": "5 min (tostado suave)",
     "servings": "4 porciones (aprox. 300 g de salsa)",
     "calories": "380 kcal por porción",
-    "image": "https://lh3.googleusercontent.com/-M0buYmth5mI/awhpBYJmvYI/AAAAAAAQDwc/hTyaF5B9Sxwf6Da6BZVr2K5AcasbgQCdACNcBGAsYHQ/s1600/pesto_pistacchi_bronte.jpg",
+    "image": "https://lh3.googleusercontent.com/-2evL_A9OfAA/awhquir1OTI/AAAAAAAQDxA/H5uZZqEfAU8-COOAhBpEOJVi6xFj5z_iQCNcBGAsYHQ/s1600/pesto_pistacchi_bronte.jpg",
     "diet_badges": [
       "Salsas",
       "Vegetariano",
@@ -92883,7 +92883,7 @@
     "cook_time": "25 min (asado de morrones)",
     "servings": "6 porciones (aprox. 450 g de salsa)",
     "calories": "310 kcal por porción",
-    "image": "https://lh3.googleusercontent.com/-hbQbpdJxq2E/awhpCuPrKsI/AAAAAAAQDwk/P_kDbWammAkVl5c2u7Hz5ngtypIxuKrQQCNcBGAsYHQ/s1600/pesto_alla_calabrese.jpg",
+    "image": "https://lh3.googleusercontent.com/-JAudo0ItU0Q/awhrspKwcWI/AAAAAAAQDxY/OYCxFnRd2T4Y7LsnMefnheOv4L00vUviQCNcBGAsYHQ/s1600/pesto_alla_calabrese.jpg",
     "diet_badges": [
       "Salsas",
       "Vegetariano",
@@ -93007,7 +93007,7 @@
     "cook_time": "5 min (tostado de avellanas)",
     "servings": "6 porciones (aprox. 350 g de salsa)",
     "calories": "395 kcal por porción",
-    "image": "https://lh3.googleusercontent.com/-MY8YqyTFowg/awhpDlHR3QI/AAAAAAAQDws/djxxjEYSIBkw9pJCOfBjkBg0hYVS0aFFQCNcBGAsYHQ/s1600/pesto_rosso_avellanas.jpg",
+    "image": "https://lh3.googleusercontent.com/-wfrIXDOVGLs/awhsYW_Vs9I/AAAAAAAQDxk/LTbc9Y_ul-Ym2Dq8hzd3H-YmK_zCRP6LQCNcBGAsYHQ/s1600/pesto_rosso_avellanas.jpg",
     "diet_badges": [
       "Salsas",
       "Vegetariano",
@@ -93102,5 +93102,120 @@
       "Añadir la pasta recién sacada de la olla, mantecar con movimientos envolventes y servir decorando con lascas finas de queso y hojas frescas de albahaca."
     ],
     "notes": "El secreto de la textura del pesto rosso consiste en reservar una porción de avellanas tostadas para agregarlas picadas a cuchillo al final: ese contraste crujiente rompe la untuosidad densa del tomate concentrado y el queso curado."
+  },
+  {
+    "id": 881,
+    "title": "Pesto de Rúcula, Nueces y Gorgonzola (Italia)",
+    "country": "Italia",
+    "category": "Salsas",
+    "tags": [
+      "Italia",
+      "Piamonte",
+      "Lombardía",
+      "Pesto",
+      "Rúcula",
+      "Nueces",
+      "Gorgonzola",
+      "Queso Azul",
+      "Pasta Larga",
+      "Fettuccine",
+      "Ñoquis"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "5 min (tostado de nueces)",
+    "servings": "4 porciones (aprox. 300 g de salsa)",
+    "calories": "360 kcal por porción",
+    "image": "https://lh3.googleusercontent.com/-WDXT32zXWFQ/awhrSGPZqCI/AAAAAAAQDxM/cyHs7kvpWEk8YVoG_OzHBYhRX5bViLQjgCNcBGAsYHQ/s1600/pesto_rucula_nueces_gorgonzola.jpg",
+    "diet_badges": [
+      "Salsas",
+      "Vegetariano",
+      "Sin Gluten",
+      "Origen Tradicional"
+    ],
+    "story": "Nacido en las trattorias de Lombardía y el Piamonte como una respuesta otoñal y vivaz al pesto genovés de verano, esta preparación fusiona el picante amargo de la rúcula silvestre con la untuosidad dulce del Gorgonzola DOP. Al ligarse en frío con nueces tostadas del Piamonte y aceite de oliva virgen extra, se obtiene una emulsión densa de color esmeralda profundo que abriga pastas campesinas al huevo y ñoquis de papa.",
+    "pairings": [
+      {
+        "type": "PASTA LARGA",
+        "name": "Fettuccine / Tagliatelle",
+        "icon": "tagliatelle",
+        "detail": "La cinta al huevo atrapa la cremosidad láctica del queso"
+      },
+      {
+        "type": "PASTA DE PAPA",
+        "name": "Ñoquis de Papa",
+        "icon": "cappelletti",
+        "detail": "Equilibrio entre la papa suave y el picor de la rúcula"
+      },
+      {
+        "type": "PASTA RELLENA",
+        "name": "Ravioles de Pera o Ricotta",
+        "icon": "ravioli",
+        "detail": "Maridaje clásico entre el dulce frutal y el queso azul"
+      }
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Rúcula Silvestre y Frutos Tostados",
+        "ingredients": [
+          "150 g de hojas frescas de rúcula silvestre lavadas y bien secas",
+          "80 g de nueces peladas tostadas suavemente",
+          "1/2 diente de ajo pequeño sin el germen central",
+          "1 pizca de sal marina gruesa"
+        ]
+      },
+      {
+        "name": "Quesos Italianos y Emulsión",
+        "ingredients": [
+          "100 g de queso Gorgonzola dulce DOP a temperatura ambiente",
+          "40 g de queso Parmigiano Reggiano recién rallado fino",
+          "100 ml de aceite de oliva virgen extra suave",
+          "Pimienta negra recién molida a gusto"
+        ]
+      }
+    ],
+    "ingredients": [
+      "150 g de hojas frescas de rúcula silvestre secas",
+      "80 g de nueces peladas tostadas suavemente",
+      "1/2 diente de ajo pequeño sin germen",
+      "1 pizca de sal marina gruesa",
+      "100 g de queso Gorgonzola dulce DOP",
+      "40 g de queso Parmigiano Reggiano rallado",
+      "100 ml de aceite de oliva virgen extra",
+      "Pimienta negra recién molida a gusto"
+    ],
+    "step_groups": [
+      {
+        "name": "1. Tostado de Nueces y Majado Inicial",
+        "steps": [
+          "Tostar las mariposas de nuez en una sartén seca a fuego muy suave durante 4 minutos hasta despertar sus aceites naturales sin quemarlas; dejar enfriar por completo y picar la mitad a cuchillo reservándola para el final.",
+          "En un mortero amplio o vaso procesador, machacar el medio diente de ajo con los granos de sal marina gruesa hasta formar una pasta translúcida."
+        ]
+      },
+      {
+        "name": "2. Incorporación de Rúcula y Quesos",
+        "steps": [
+          "Agregar las hojas de rúcula silvestre y triturar en pulsos cortos junto con la mitad entera de las nueces frías hasta lograr una pasta granulada verde oscuro.",
+          "Incorporar el Gorgonzola dulce desmenuzado y el Parmigiano Reggiano rallado, vertiendo el aceite de oliva virgen extra en hilo continuo mientras mezclás suavemente hasta lograr una crema untuosa y aterciopelada.",
+          "Integrar al final las nueces picadas a cuchillo para asegurar un bocado crocante inconfundible."
+        ]
+      },
+      {
+        "name": "3. Servicio y Mantecatura",
+        "steps": [
+          "Al momento de emplatar, diluir el pesto en un cuenco tibio con un cucharón del agua de cocción de la pasta rica en almidón.",
+          "Volcar la pasta recién escurrida (cocida al dente), mantecar durante 1 minuto fuera del fuego directo y servir con nueces tostadas partidas por encima."
+        ]
+      }
+    ],
+    "steps": [
+      "Tostar las mariposas de nuez en una sartén seca a fuego muy suave durante 4 minutos hasta despertar sus aceites naturales sin quemarlas; dejar enfriar por completo y picar la mitad a cuchillo reservándola para el final.",
+      "En un mortero amplio o vaso procesador, machacar el medio diente de ajo con los granos de sal marina gruesa hasta formar una pasta translúcida.",
+      "Agregar las hojas de rúcula silvestre y triturar en pulsos cortos junto con la mitad entera de las nueces frías hasta lograr una pasta granulada verde oscuro.",
+      "Incorporar el Gorgonzola dulce desmenuzado y el Parmigiano Reggiano rallado, vertiendo el aceite de oliva virgen extra en hilo continuo mientras mezclás suavemente hasta lograr una crema untuosa y aterciopelada.",
+      "Integrar al final las nueces picadas a cuchillo para asegurar un bocado crocante inconfundible.",
+      "Al momento de emplatar, diluir el pesto en un cuenco tibio con un cucharón del agua de cocción de la pasta rica en almidón.",
+      "Volcar la pasta recién escurrida (cocida al dente), mantecar durante 1 minuto fuera del fuego directo y servir con nueces tostadas partidas por encima."
+    ],
+    "notes": "El secreto para que la rúcula conserve su frescura y no desarrolle un amargor excesivo es secar completamente las hojas tras el lavado y procesar a baja temperatura con pulsos cortos, evitando que las cuchillas metálicas se calienten."
   }
 ]
