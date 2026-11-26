@@ -91666,92 +91666,124 @@
     "category": "Entradas",
     "country": "Egipto",
     "prep_time": "25 min",
-    "cook_time": "15 min",
-    "rest_time": "12 h",
-    "servings": "6 porciones (18 a 20 unidades)",
-    "calories": "290 kcal",
-    "image": "https://lh3.googleusercontent.com/-417qVM7ge_Q/awZRyrlVNeI/AAAAAAAQDqU/MWFOPct3bagp2w3nxc5EvBbL8sFrRpY4gCNcBGAsYHQ/s1600/falafel_egipto.jpg",
+    "cook_time": "25 min",
+    "rest_time": "24 h de remojo + 1 h de frío",
+    "servings": "8 porciones (35 a 40 medallones)",
+    "calories": "240 kcal por porción",
+    "image": "https://lh3.googleusercontent.com/-3cGueSKRdz4/awhG_8NCegI/AAAAAAAQDvk/RV-QvJKMq5kg7P7KYV69g-aThQjesZMgwCNcBGAsYHQ/s1600/falafel_egipto.jpg",
     "diet_badges": [
       "Vegano",
       "Sin Gluten",
       "Origen Ancestral"
     ],
     "tags": [
-      "falafel",
-      "taameya",
-      "egipto",
-      "habas",
-      "garbanzos",
-      "cilantro",
-      "comino",
-      "tahini",
-      "croqueta vegana"
+      "Falafel",
+      "Ta'ameya",
+      "Egipto",
+      "Habas Secas",
+      "Garbanzos",
+      "Cilantro",
+      "Verdeo",
+      "Perejil",
+      "Hummus",
+      "Pan Pita",
+      "Comida Callejera"
     ],
-    "story": "El falafel (conocido como ta'ameya en Egipto) tiene sus raíces históricas más antiguas en las comunidades cristianas coptas del valle del Nilo, quienes lo idearon como sustento proteico durante los prolongados ayunos de Cuaresma. Elaboradas tradicionalmente con habas secas y una gran cantidad de hierbas verdes frescas, estas croquetas aromáticas y crujientes se expandieron por todo el Levante mediterráneo.",
+    "story": "El falafel, conocido en Egipto como ta'ameya, tiene su origen en las antiguas comunidades cristianas coptas del valle del Nilo como sustento vegetal durante los extensos ayunos de Cuaresma. A diferencia de las versiones del Levante mediterráneo basadas exclusivamente en garbanzos, la auténtica receta egipcia combina habas secas y garbanzos con una profusión exuberante de hierbas frescas y cebollines verdes que le otorgan su interior verde esmeralda característico. Servido en panes baladi con hummus fresco, vegetales crocantes y tahini, es el desayuno y comida callejera por excelencia en las mañanas de El Cairo y Alejandría.",
     "ingredients": [
-      "400 g de garbanzos secos (o mezcla de garbanzos y habas secas peladas), en remojo de 12 horas (NUNCA de lata)",
-      "1 taza colmada de perejil fresco de hoja plana",
-      "1 taza colmada de cilantro fresco",
-      "1 cebolla mediana picada",
-      "4 dientes de ajo triturados",
-      "1 cucharada colmada de comino molido",
-      "1 cucharada de semillas de cilantro molidas",
-      "1 cucharadita de cardamomo molido (opcional)",
+      "350 g de habas secas peladas (fava beans o lima beans secas), en remojo de 24 horas",
+      "350 g de garbanzos secos crudos, en remojo de 24 horas (en recipiente separado)",
+      "1 cebolla amarilla pequeña cortada en cuartos",
+      "7 cebollines o tallos de cebolla de verdeo enteros troceados",
+      "2 tazas colmadas de perejil fresco de hoja plana bien compacto",
+      "2 tazas colmadas de cilantro fresco bien compacto",
+      "6 dientes de ajo pelados",
+      "2 cucharaditas de comino molido",
+      "2 cucharaditas de semillas de cilantro molidas",
+      "2 cucharaditas de sal marina fina (o sal de ajo casera)",
       "1/2 cucharadita de bicarbonato de sodio",
-      "1 cucharadita colmada de sal marina",
-      "Semillas de sésamo para rebozar la superficie",
-      "Aceite vegetal abundante para freír",
-      "Salsa tahini con limón y pan pita caliente para servir"
+      "Abundante aceite vegetal neutro (girasol o maíz) para freír",
+      "Pan pita o baladi caliente para rellenar",
+      "Hummus tradicional de garbanzos y tahini",
+      "1 pepino fresco cortado en rodajas delgadas",
+      "1 tomate maduro cortado en cubos pequeños",
+      "1 puñado de hojas de rúcula o lechuga fresca",
+      "Gajos de limón fresco para rociar"
     ],
     "ingredient_groups": [
       {
-        "name": "Masa de Falafel a las Hierbas",
+        "name": "Masa Verde Esmeralda de Legumbres y Hierbas",
         "ingredients": [
-          "400 g de garbanzos secos hidratados (crudos)",
-          "1 taza de perejil fresco y 1 de cilantro fresco",
-          "1 cebolla mediana y 4 dientes de ajo",
-          "1 cucharada de comino molido",
-          "1 cucharada de cilantro molido",
-          "1/2 cucharadita de bicarbonato de sodio",
-          "1 cucharadita de sal marina",
-          "Semillas de sésamo para rebozar"
+          "350 g de habas secas peladas (fava beans o lima beans secas), en remojo de 24 horas",
+          "350 g de garbanzos secos crudos, en remojo de 24 horas (en recipiente separado)",
+          "1 cebolla amarilla pequeña cortada en cuartos",
+          "7 cebollines o tallos de cebolla de verdeo enteros troceados",
+          "2 tazas colmadas de perejil fresco de hoja plana bien compacto",
+          "2 tazas colmadas de cilantro fresco bien compacto",
+          "6 dientes de ajo pelados",
+          "2 cucharaditas de comino molido",
+          "2 cucharaditas de semillas de cilantro molidas",
+          "2 cucharaditas de sal marina fina (o sal de ajo casera)",
+          "1/2 cucharadita de bicarbonato de sodio"
         ]
       },
       {
-        "name": "Fritura y Salsa de Acompañamiento",
+        "name": "Fritura y Armado del Sándwich Tradicional",
         "ingredients": [
-          "Aceite vegetal abundante para freír",
-          "Salsa tahini con limón y ajo",
-          "Pan pita caliente para servir"
+          "Abundante aceite vegetal neutro (girasol o maíz) para freír",
+          "Pan pita o baladi caliente para rellenar",
+          "Hummus tradicional de garbanzos y tahini",
+          "1 pepino fresco cortado en rodajas delgadas",
+          "1 tomate maduro cortado en cubos pequeños",
+          "1 puñado de hojas de rúcula o lechuga fresca",
+          "Gajos de limón fresco para rociar"
         ]
       }
     ],
     "step_groups": [
       {
-        "name": "Triturado Grueso, Reposo y Fritura Crujiente",
+        "name": "1. Remojo de Legumbres y Procesado a las Hierbas",
         "steps": [
-          "Escurrí y secá muy bien los garbanzos que estuvieron en remojo durante 12 a 24 horas.",
-          "Colocá los garbanzos crudos en el procesador de alimentos junto con la cebolla, el ajo, el perejil, el cilantro, el comino, el cilantro molido y la sal.",
-          "Procesá en pulsos cortos hasta obtener una textura granulada similar a la arena húmeda o cuscús grueso (nunca proceses hasta hacer puré papilla).",
-          "Llevá la mezcla a un bol, tapala y dejala reposar en la heladera durante 1 hora para asentar.",
-          "Justo antes de freír, incorporá el bicarbonato de sodio mezclando bien con una espátula.",
-          "Tomá porciones del tamaño de una nuez, compactalas con las manos o una cuchara moldeadora formando discos gruesos o bolitas aplastadas y presiona suavemente algunas semillas de sésamo en la superficie.",
-          "Freí en abundante aceite caliente a 175 °C durante 3 a 4 minutos, dándoles vuelta hasta que el exterior esté marrón tostado crujiente y el interior permanezca tierno y verde esmeralda.",
-          "Escurrí sobre papel absorbente y serví inmediatamente dentro de pan pita caliente con salsa tahini, tomate y pepino."
+          "Remojar las habas secas y los garbanzos secos en recipientes separados con abundante agua fría durante al menos 24 horas (el agua debe cubrir al menos 5 cm por encima de las legumbres, reponiendo agua si la absorben). Escurrir y secar meticulosamente con repasador limpio.",
+          "Colocar en el procesador de alimentos las habas, los garbanzos, la cebolla amarilla, los cebollines de verdeo, el perejil, el cilantro, los dientes de ajo, el comino, el cilantro molido y la sal.",
+          "Procesar en pulsos continuos hasta lograr una mezcla pastosa pero con textura granulada fina y un color verde brillante intenso (evitar licuar de más para no perder la textura crujiente).",
+          "Pasar la masa verde a un recipiente hermético y refrigerar durante 1 hora para que tome consistencia y resulte fácil de moldear."
+        ]
+      },
+      {
+        "name": "2. Moldeado y Fritura Dorada",
+        "steps": [
+          "Retirar la masa de la heladera e incorporar el bicarbonato de sodio mezclando enérgicamente con espátula.",
+          "Tomar porciones de 2 cucharadas soperas (unos 5 cm de diámetro), rodarlas entre las palmas de las manos y aplastar ligeramente la parte superior para darles forma de medallón o tortita redondeada.",
+          "Calentar abundante aceite en una sartén honda a 175 °C. Sumergir los medallones de falafel en tandas de 7 a 8 unidades sin que se toquen entre sí.",
+          "Freír a fuego medio durante 4 a 5 minutos por lado, volteándolos con espátula cuando adquieran un tono dorado oscuro y corteza crujiente, manteniendo el centro tierno y verde esmeralda.",
+          "Retirar con espumadera y escurrir sobre papel absorbente."
+        ]
+      },
+      {
+        "name": "3. Armado del Sándwich Egipcio",
+        "steps": [
+          "Abrir los panes pita o baladi calientes y untar una generosa capa de hummus cremoso en la base.",
+          "Acomodar una cama de hojas de rúcula y rodajas de pepino fresco.",
+          "Disponer los medallones de falafel recién fritos, coronar con cubos de tomate fresco y unas gotas de jugo de limón, y servir de inmediato mientras las tortitas conservan su máxima crocancia exterior."
         ]
       }
     ],
     "steps": [
-      "Escurrí y secá muy bien los garbanzos que estuvieron en remojo durante 12 a 24 horas.",
-      "Colocá los garbanzos crudos en el procesador de alimentos junto con la cebolla, el ajo, el perejil, el cilantro, el comino, el cilantro molido y la sal.",
-      "Procesá en pulsos cortos hasta obtener una textura granulada similar a la arena húmeda o cuscús grueso (nunca proceses hasta hacer puré papilla).",
-      "Llevá la mezcla a un bol, tapala y dejala reposar en la heladera durante 1 hora para asentar.",
-      "Justo antes de freír, incorporá el bicarbonato de sodio mezclando bien con una espátula.",
-      "Tomá porciones del tamaño de una nuez, compactalas con las manos o una cuchara moldeadora formando discos gruesos o bolitas aplastadas y presiona suavemente algunas semillas de sésamo en la superficie.",
-      "Freí en abundante aceite caliente a 175 °C durante 3 a 4 minutos, dándoles vuelta hasta que el exterior esté marrón tostado crujiente y el interior permanezca tierno y verde esmeralda.",
-      "Escurrí sobre papel absorbente y serví inmediatamente dentro de pan pita caliente con salsa tahini, tomate y pepino."
+      "Remojar las habas secas y los garbanzos secos en recipientes separados con abundante agua fría durante al menos 24 horas (el agua debe cubrir al menos 5 cm por encima de las legumbres, reponiendo agua si la absorben). Escurrir y secar meticulosamente con repasador limpio.",
+      "Colocar en el procesador de alimentos las habas, los garbanzos, la cebolla amarilla, los cebollines de verdeo, el perejil, el cilantro, los dientes de ajo, el comino, el cilantro molido y la sal.",
+      "Procesar en pulsos continuos hasta lograr una mezcla pastosa pero con textura granulada fina y un color verde brillante intenso (evitar licuar de más para no perder la textura crujiente).",
+      "Pasar la masa verde a un recipiente hermético y refrigerar durante 1 hora para que tome consistencia y resulte fácil de moldear.",
+      "Retirar la masa de la heladera e incorporar el bicarbonato de sodio mezclando enérgicamente con espátula.",
+      "Tomar porciones de 2 cucharadas soperas (unos 5 cm de diámetro), rodarlas entre las palmas de las manos y aplastar ligeramente la parte superior para darles forma de medallón o tortita redondeada.",
+      "Calentar abundante aceite en una sartén honda a 175 °C. Sumergir los medallones de falafel en tandas de 7 a 8 unidades sin que se toquen entre sí.",
+      "Freír a fuego medio durante 4 a 5 minutos por lado, volteándolos con espátula cuando adquieran un tono dorado oscuro y corteza crujiente, manteniendo el centro tierno y verde esmeralda.",
+      "Retirar con espumadera y escurrir sobre papel absorbente.",
+      "Abrir los panes pita o baladi calientes y untar una generosa capa de hummus cremoso en la base.",
+      "Acomodar una cama de hojas de rúcula y rodajas de pepino fresco.",
+      "Disponer los medallones de falafel recién fritos, coronar con cubos de tomate fresco y unas gotas de jugo de limón, y servir de inmediato mientras las tortitas conservan su máxima crocancia exterior."
     ],
-    "notes": "Regla de oro innegociable: jamás uses garbanzos cocidos ni de lata para hacer falafel, se desarmarían en el aceite. Se usan garbanzos secos crudos remojados 12 a 24 horas y triturados finamente en crudo."
+    "notes": "Secretos de la auténtica ta'ameya egipcia familiar: 1) Jamás uses legumbres cocidas ni de lata; las habas y garbanzos deben ser secos y remojados 24 horas en crudo para que el almidón retenga la estructura sin que el falafel se desarme en el aceite. 2) El color verde esmeralda brillante proviene de la generosa combinación de cebolla de verdeo, perejil y cilantro frescos triturados juntos. 3) El reposo previo de 1 hora en frío asienta la masa permitiendo moldear los medallones sin necesidad de harinas ni ligaduras artificiales."
   },
   {
     "id": 869,
