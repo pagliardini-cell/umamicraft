@@ -1179,6 +1179,18 @@
       "Colar los fideos, pasarlos de inmediato al baño de agua helada y frotarlos suavemente entre las manos para quitar el almidón superficial y darles brillo y firmeza. Escurrir bien.",
       "En una cacerola llevar a hervor suave el caldo dashi con la salsa de soja y el mirin.",
       "Servir los fideos udon en cuencos profundos, bañar con el caldo caliente y coronar con rodajas finas de cebolla de verdeo."
+    ],
+    "pairings": [
+      {
+        "type": "FIDEO JAPONÉS",
+        "name": "Sanuki Udon (Grueso)",
+        "icon": "udon"
+      },
+      {
+        "type": "TEXTURA",
+        "name": "Koshi (Firmeza Elástica)",
+        "icon": "udon"
+      }
     ]
   },
   {
@@ -13733,6 +13745,18 @@
       "En cada tazón hondo de ramen, colocar 1 a 2 cucharadas de la salsa de cocción del cerdo (tare).",
       "Aflojar los fideos ramen y hervirlos en abundante agua hirviendo de 1 a 2 minutos hasta que estén al dente. Escurrir bien.",
       "Verter en los cuencos el caldo tonkotsu hirviendo hasta el 75 % de su capacidad, incorporar los fideos y coronar con una montañita de brotes de soja, el verdeo picado, las rodajas de cerdo yakibuta, medio huevo y pimienta a gusto."
+    ],
+    "pairings": [
+      {
+        "type": "FIDEO RAMEN",
+        "name": "Hakata Hosomen (Recto y Fino)",
+        "icon": "ramen_straight"
+      },
+      {
+        "type": "PUNTO DE COCCIÓN",
+        "name": "Barikata (Extra Firme)",
+        "icon": "ramen_straight"
+      }
     ]
   },
   {
@@ -13837,6 +13861,18 @@
       "Bajar el fuego al mínimo y disolver la pasta de miso con ayuda de un cucharón y un colador (evitando que el caldo vuelva a hervir con fuerza para no perder el aroma del miso). Perfumar al final con el aceite de sésamo.",
       "Paralelamente, hervir los fideos ramen en una olla grande con agua hirviendo durante 2 a 3 minutos, escurrir bien y repartir en dos tazones hondos.",
       "Volcar la sopa caliente con el cerdo y los vegetales sobre los fideos y coronar con las rodajas de kamaboko."
+    ],
+    "pairings": [
+      {
+        "type": "FIDEO RAMEN",
+        "name": "Chijiremen (Ondulado)",
+        "icon": "ramen_wavy"
+      },
+      {
+        "type": "CALIBRE",
+        "name": "Calibre Medio Rizado",
+        "icon": "ramen_wavy"
+      }
     ]
   },
   {
@@ -13925,6 +13961,18 @@
       "Llevar a un hervor sumamente lento (o pasar a una olla de cocción lenta / barro) y cocinar durante 16 a 18 horas (hasta 20 horas), reponiendo agua cada 30 minutos durante las primeras 3 horas y vigilando el nivel ocasionalmente.",
       "Para colar el caldo: volcar todo el contenido sobre un colador grande y dejar escurrir por gravedad durante 30 minutos sin presionar jamás los sólidos con cuchara (aplastar la carne y las verduras enturbiaría el caldo con impurezas).",
       "Se obtendrán unas 6 tazas de caldo concentrado de ramen, ideal para usar de inmediato o congelar en porciones."
+    ],
+    "pairings": [
+      {
+        "type": "CALDO DENSO",
+        "name": "Chijiremen Ondulado",
+        "icon": "ramen_wavy"
+      },
+      {
+        "type": "CALDO LIGERO",
+        "name": "Hosomen Fino y Recto",
+        "icon": "ramen_straight"
+      }
     ]
   },
   {
@@ -14021,6 +14069,18 @@
       "Espolvorear abundante harina sobre la lámina de masa, plegarla en tres sobre sí misma para que no se pegue y cortarla con un cuchillo grande bien afilado (o el rodillo cortapastas) en tiras finas.",
       "Sacudir los fideos con los dedos enharinados para separarlos bien.",
       "Hervir los fideos en abundante agua hirviendo de 2 a 4 minutos (según el grosor) removiendo con palillos hasta que floten y estén al dente. Escurrir y servir de inmediato dentro del caldo de ramen caliente."
+    ],
+    "pairings": [
+      {
+        "type": "TIPO DE MASA",
+        "name": "Fideo con Kansui Alcalino",
+        "icon": "ramen_straight"
+      },
+      {
+        "type": "FORMATO",
+        "name": "Recto o Rizado Manual",
+        "icon": "ramen_wavy"
+      }
     ]
   },
   {
@@ -14482,6 +14542,18 @@
       "Escurrir inmediatamente los fideos en un colador bajo un chorro de agua bien fría, frotándolos suavemente con las manos para quitar el almidón superficial y darles brillo y firmeza. Escurrir muy bien.",
       "Repartir los fideos fríos en 4 esterillas de bambú (zaru) o platos y coronar con tiritas de alga nori.",
       "Servir junto con 4 cuencos pequeños de salsa mentsuyu fría y platitos con cebolla de verdeo picada, jengibre rallado y wasabi para que cada comensal los agregue a su salsa y sumerja los fideos al comer."
+    ],
+    "pairings": [
+      {
+        "type": "FIDEO JAPONÉS",
+        "name": "Ni-Hachi Soba (80% Sarraceno)",
+        "icon": "soba"
+      },
+      {
+        "type": "SERVICIO",
+        "name": "Zaru Frío con Alga Nori",
+        "icon": "soba"
+      }
     ]
   },
   {
@@ -19652,6 +19724,18 @@
       "Acomodar en sectores ordenados de la cazuela el akusay (repollo chino), las espinacas, las cebollas de verdeo, las arvejas o brotes, los hongos shiitake, los fideos shirataki y los cubos de tofu, bañando con más salsa warishita.",
       "Dejar cocinar a hervor suave durante unos 10 minutos mientras cada comensal bate con los palillos un huevo crudo en su cuenco individual.",
       "A medida que los ingredientes están tiernos, cada comensal se sirve directamente de la cazuela caliente pasando la carne y las verduras por su cuenco de huevo batido antes de comerlas, acompañando con arroz blanco."
+    ],
+    "pairings": [
+      {
+        "type": "FIDEO TRADICIONAL",
+        "name": "Shirataki (Fideos Konjac)",
+        "icon": "shirataki"
+      },
+      {
+        "type": "CIERRE DE OLLA",
+        "name": "Sanuki Udon Grueso",
+        "icon": "udon"
+      }
     ]
   },
   {
@@ -23359,6 +23443,18 @@
       "Para la salsa tsuyu: mezclar en una ollita el caldo dashi, la salsa tamari (o soja), el mirin y el azúcar, y calentar solo hasta que el azúcar se disuelva por completo. Repartir en cuencos o salseras individuales.",
       "Para el armado: mezclar las verduras con los fideos soba fríos y distribuir en los platos. Coronar con las tiritas de alga nori tostada y decorar cada porción con una cucharadita de wasabi y un poco de jengibre encurtido.",
       "Servir los fideos fríos con el cuenco de salsa al lado (fría o apenas templada, ¡nunca hirviendo!) para que cada comensal sumerja o aliñe los fideos a su gusto."
+    ],
+    "pairings": [
+      {
+        "type": "FIDEO JAPONÉS",
+        "name": "Soba de Trigo Sarraceno",
+        "icon": "soba"
+      },
+      {
+        "type": "SALSA",
+        "name": "Tsuyu y Wasabi",
+        "icon": "soba"
+      }
     ]
   },
   {
@@ -36220,6 +36316,18 @@
       "Agregar 350 ml de caldo Chintan hirviendo a cada tazón y mezclar suavemente con palillos para emulsionar el tare y el aceite.",
       "Hervir los fideos de ramen en abundante agua hirviendo sin sal durante 60 a 90 segundos (al dente firme). Escurrir enérgicamente en el colador sacudiéndolo en el aire dos o tres veces para desprender todo el almidón superficial.",
       "Deslizar los fideos en el centro del caldo doblándolos con los palillos para que queden peinados. Disponer armónicamente las láminas de Chashu tibio, medio huevo Ajitsuke con la yema cremosa hacia arriba, la hoja de pak choi, abundante cebollín fresco y los hilos de ito togarashi en el borde."
+    ],
+    "pairings": [
+      {
+        "type": "FIDEO RAMEN",
+        "name": "Tokyo Chijiremen (Ondulado)",
+        "icon": "ramen_wavy"
+      },
+      {
+        "type": "ESTILO",
+        "name": "Clásico Tradicional de Tokio",
+        "icon": "ramen_wavy"
+      }
     ]
   },
   {
@@ -36372,6 +36480,18 @@
       "Verter 350 ml del caldo marino hirviendo y mezclar suavemente.",
       "Cocer los fideos finos en agua hirviendo sin sal durante tan solo 45 a 60 segundos (deben conservar un nervio central elástico y firme). Escurrir enérgicamente en el colador.",
       "Colocar los fideos en el caldo. Coronar con las láminas de panceta Chashu, el medio huevo Ajitsuke, el montículo central de brotes tiernos, el negi feteado, una lluvia de sésamo tostado y el abanico triangular de alga Nori encajado en el borde del cuenco."
+    ],
+    "pairings": [
+      {
+        "type": "FIDEO RAMEN",
+        "name": "Hosomen Fino",
+        "icon": "ramen_straight"
+      },
+      {
+        "type": "CALDO",
+        "name": "Para Caldo Shio Cristalino",
+        "icon": "ramen_straight"
+      }
     ]
   },
   {
@@ -36667,6 +36787,18 @@
       "Añadir 350 ml de caldo blanco Tonkotsu hirviendo en cada cuenco y batir 3 segundos con palillos para lograr una mezcla espumosa y dorada.",
       "Depositar los fideos escurridos en el centro, estirándolos con los palillos para que queden alineados de lado a lado.",
       "Disponer encima dos lonchas de Chashu braseado, la mitad del huevo Ajitsuke con la yema líquida hacia arriba, una porción de setas Kikurage en juliana, el verdeo picado fino, una pizca de Beni Shōga rojo en el lateral y una hoja de nori encajada contra la pared del cuenco. Servir inmediatamente."
+    ],
+    "pairings": [
+      {
+        "type": "FIDEO RAMEN",
+        "name": "Hakata Straight (Ultra Fino)",
+        "icon": "ramen_straight"
+      },
+      {
+        "type": "HIDRATACIÓN",
+        "name": "Baja Hidratación (26-28%)",
+        "icon": "ramen_straight"
+      }
     ]
   },
   {
@@ -36814,6 +36946,18 @@
       "Servir de inmediato: el comensal toma un pequeño manojo de fideos fríos con los palillos, los sumerge durante 3 segundos en el caldo hirviendo para temperarlos y los sorbe ruidosamente absorbiendo la salsa concentrada.",
       "Una vez consumidos todos los fideos, verter 100 ml de caldo dashi ligero caliente directamente sobre el resto de sopa espesa que quedó en el tazón.",
       "Remover con la cuchara de ramen: esto aligera la concentración salina y transforma la salsa densa en una sopa reconfortante para beber con las dos manos."
+    ],
+    "pairings": [
+      {
+        "type": "FIDEO TSUKEMEN",
+        "name": "Futomen (Grueso Masticable)",
+        "icon": "ramen_thick"
+      },
+      {
+        "type": "SERVICIO",
+        "name": "Hiyumori (Enfriado en Hielo)",
+        "icon": "ramen_thick"
+      }
     ]
   },
   {
@@ -36971,6 +37115,18 @@
       "Verter la sopa hirviendo con toda la verdura salteada y la carne picada directamente sobre los fideos en el tazón.",
       "Acomodar encima las lonchas de chashu, 3 cucharadas colmadas de maíz dulce tierno en grano y el verdeo picado.",
       "Coronar en el centro con el cubo de manteca fría: al llegar a la mesa, la manteca empezará a fundirse lentamente sobre el caldo ardiente, aportando una cremosidad láctea que redondea las notas tostadas del miso."
+    ],
+    "pairings": [
+      {
+        "type": "FIDEO RAMEN",
+        "name": "Sapporo Chijiremen (Rizado)",
+        "icon": "ramen_wavy"
+      },
+      {
+        "type": "COLOR Y MASA",
+        "name": "Amarillo con Huevo",
+        "icon": "ramen_wavy"
+      }
     ]
   },
   {
@@ -37133,6 +37289,18 @@
       "Añadir 360 ml de caldo ámbar hirviendo; se formarán círculos dorados de grasa de ave flotando sobre la superficie.",
       "Colocar los fideos peinados en el centro.",
       "Disponer el chashu, el huevo Ajitsuke, los brotes de bambú Menma, dos rodajas de Narutomaki en el centro con su espiral visible, verdeo picado y la lámina de nori al borde. Servir de inmediato."
+    ],
+    "pairings": [
+      {
+        "type": "FIDEO RAMEN",
+        "name": "Chijiremen Medio",
+        "icon": "ramen_wavy"
+      },
+      {
+        "type": "OPCIÓN RECTA",
+        "name": "Hosomen Fino y Recto",
+        "icon": "ramen_straight"
+      }
     ]
   },
   {
@@ -37293,6 +37461,18 @@
       "Añadir 350 ml de caldo cristalino hirviendo.",
       "Acomodar los fideos bien peinados con palillos en el centro.",
       "Decorar con las láminas de chashu, el huevo abierto, menma suave, verdeo finísimo, lluvia de sésamo blanco tostado y la hoja de alga nori. Servir inmediatamente."
+    ],
+    "pairings": [
+      {
+        "type": "FIDEO RAMEN",
+        "name": "Hosomen Fino y Recto",
+        "icon": "ramen_straight"
+      },
+      {
+        "type": "PERFIL",
+        "name": "Suave para Caldo de Sal",
+        "icon": "ramen_straight"
+      }
     ]
   },
   {
@@ -37426,6 +37606,18 @@
       "En cuencos calientes, mezclar 30 ml de tare con 350 ml de caldo hirviendo.",
       "Incorporar los fideos, colocar las láminas finas de chashu, mucho verdeo, kikurage y beni shōga al lado.",
       "El comensal añade ajo fresco prensado al gusto en la mesa."
+    ],
+    "pairings": [
+      {
+        "type": "FIDEO RAMEN",
+        "name": "Hakata Hosomen Fino",
+        "icon": "ramen_straight"
+      },
+      {
+        "type": "TEXTURA",
+        "name": "Textura Firme y Elástica",
+        "icon": "ramen_straight"
+      }
     ]
   },
   {
@@ -38635,6 +38827,18 @@
       "Verter el caldo hirviendo sobre el wok en un estallido de vapor ahumado, dejando hervir 2 minutos para emulsionar la grasa con el miso.",
       "Verter la sopa y verduras sobre los fideos rizados cocidos al dente.",
       "Añadir el maíz dulce, chashu, verdeo y el bloque de manteca fría en el centro que se derrite sobre la marcha."
+    ],
+    "pairings": [
+      {
+        "type": "FIDEO RAMEN",
+        "name": "Sapporo Wavy (Ondulado)",
+        "icon": "ramen_wavy"
+      },
+      {
+        "type": "ADHERENCIA",
+        "name": "Atrapa la Grasa y el Miso",
+        "icon": "ramen_wavy"
+      }
     ]
   },
   {
@@ -59810,6 +60014,18 @@
       "Hervir los fideos udon según las instrucciones del fabricante hasta que estén elásticos y suaves; escurrir bien.",
       "Colocar los fideos en cuencos hondos calientes y verter el caldo dashi transparente.",
       "Disponer encima dos láminas de aburaage glaseado, las rodajitas de kamaboko, abundante cebolleta fresca y un toque de shichimi togarashi."
+    ],
+    "pairings": [
+      {
+        "type": "FIDEO JAPONÉS",
+        "name": "Udon Grueso Tradicional",
+        "icon": "udon"
+      },
+      {
+        "type": "COMPAÑERO",
+        "name": "Aburaage (Tofu Frito Dulce)",
+        "icon": "udon"
+      }
     ]
   },
   {
@@ -68315,7 +68531,19 @@
         ]
       }
     ],
-    "original_title": "Without Oil, Ramen Is Just Boring Soup... - Alex French Guy Cooking"
+    "original_title": "Without Oil, Ramen Is Just Boring Soup... - Alex French Guy Cooking",
+    "pairings": [
+      {
+        "type": "RAMEN BLANCO",
+        "name": "Mayu (Ajo Negro Tostado)",
+        "icon": "ramen_straight"
+      },
+      {
+        "type": "RAMEN PICANTE",
+        "name": "Rayu Aromático",
+        "icon": "ramen_wavy"
+      }
+    ]
   },
   {
     "id": 609,
@@ -68557,6 +68785,18 @@
       "Distribuye los fideos bien escurridos en dos tazones hondos (donburi), acomodándolos con palillos en un nido uniforme.",
       "Vierte el caldo dashi hirviendo sobre los fideos hasta cubrirlos generosamente.",
       "Corona en el centro con una buena cantidad de cebolleta negi picada bien fina y espolvorea shichimi togarashi al gusto. Servir inmediatamente bien caliente."
+    ],
+    "pairings": [
+      {
+        "type": "FIDEO JAPONÉS",
+        "name": "Kake Soba Fino",
+        "icon": "soba"
+      },
+      {
+        "type": "CALDO",
+        "name": "Dashi Caliente de Bonito Seco",
+        "icon": "soba"
+      }
     ]
   },
   {
@@ -70051,6 +70291,18 @@
       "Hierve abundante agua sin sal en una olla grande. Incorpora los fideos sanuki udon y cocina durante 15 minutos (o según el tiempo del fabricante), revolviendo suavemente.",
       "Vuelca los fideos en un colador y enjuágalos con abundante agua fría frotándolos con las manos para retirar el almidón superficial y fijar su elasticidad característica. Escurre bien.",
       "Coloca los fideos en dos tazones hondos (donburi), vierte el caldo sobre ellos y corona con los condimentos al gusto: una quenelle de daikon rallado, jengibre fresco, sésamo blanco tostado y cebolleta picada."
+    ],
+    "pairings": [
+      {
+        "type": "FIDEO JAPONÉS",
+        "name": "Sanuki Udon Amasado",
+        "icon": "udon"
+      },
+      {
+        "type": "CALDO",
+        "name": "Dashi de Iriko y Alga Kombu",
+        "icon": "udon"
+      }
     ]
   },
   {
@@ -73443,7 +73695,19 @@
       "oriental",
       "base"
     ],
-    "diet": []
+    "diet": [],
+    "pairings": [
+      {
+        "type": "FIDEO RAMEN",
+        "name": "Hakata Hosomen (Recto)",
+        "icon": "ramen_straight"
+      },
+      {
+        "type": "CARACTERÍSTICA",
+        "name": "Absorbe el Colágeno Rápido",
+        "icon": "ramen_straight"
+      }
+    ]
   },
   {
     "id": 679,
