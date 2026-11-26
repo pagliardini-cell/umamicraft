@@ -8702,5 +8702,35 @@
       "60 ml dry red wine or Madeira wine (optional for deglazing)",
       "2 sprigs of fresh thyme"
     ]
+  },
+  "875": {
+    "title_en": "Demi-Glace Molecular (United States)",
+    "hook_en": "Developed in Seattle in the early 2010s by the Modernist Cuisine research team led by Nathan Myhrvold and Chris Young, this...",
+    "ingredients_en": [
+      "500 ml concentrated hyperbaric beef broth (or dark bone stock)",
+      "12g Pure Unflavored Gelatin Powder (200–250 Bloom Strength)",
+      "0.6 g of culinary xanthan gum powder (approx. 0.12% in relation to the weight of the broth)",
+      "40 g cold unsalted field butter cut into small cubes"
+    ]
+  },
+  "876": {
+    "title_en": "Modernist French Fries (United States)",
+    "hook_en": "The result of Chris Young's rigorous research and his culinary collaboration with Australian chef Andy Cooks, this method revolutionized the understanding...",
+    "ingredients_en": [
+      "1 kg of high-starch potatoes (Russet or rough-skinned black)",
+      "2 liters of cold water",
+      "15 ml of distilled white vinegar (1 tablespoon)",
+      "20 g fine salt (1 heaped tablespoon)"
+    ]
+  },
+  "877": {
+    "title_en": "Beef Tartare with Bacon Fat (United States)",
+    "hook_en": "Born as a lucky accident in the kitchen of a rural American restaurant at the hands of the young chef Chef Tyler, this tartare redefined the steak...",
+    "ingredients_en": [
+      "300 g of maximum fresh beef tenderloin, clean of exterior fat and connective tissue",
+      "30 ml melted smoked bacon fat (warm bacon fat, approx. 35°C)",
+      "1 heaped tablespoon classic Dijon mustard",
+      "2 small French shallots, finely chopped in brunoise"
+    ]
   }
 }

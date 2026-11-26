@@ -92547,10 +92547,10 @@
       "Umami"
     ],
     "prep_time": "20 min",
-    "cook_time": "5 min",
+    "cook_time": "15 min",
     "servings": "2 porciones",
     "calories": "420 kcal por porción",
-    "image": "https://lh3.googleusercontent.com/-U8keannSLwo/aweivernQhI/AAAAAAAQDvA/q92OmWC6OOoSKt-a64NqigRF2WN-ETvpQCNcBGAsYHQ/s1600/tartar_ternera_grasa_panceta.jpg",
+    "image": "https://lh3.googleusercontent.com/-Yc7xZoHE_OU/awghLIdWdOI/AAAAAAAQDvY/jcYVl-i2Opk3sUHn5B9swYXD2rFjSZqEwCNcBGAsYHQ/s1600/tartar_ternera_grasa_panceta.jpg",
     "diet_badges": [
       "Carnes",
       "Keto",
@@ -92570,11 +92570,18 @@
         ]
       },
       {
+        "name": "Papas Chips Caseras Crujientes",
+        "ingredients": [
+          "2 papas medianas de piel firme (tipo Spunta o Russet), peladas",
+          "Abundante aceite neutro para freír",
+          "Sal fina para sazonar en caliente"
+        ]
+      },
+      {
         "name": "Corona y Servicio de Mesa",
         "ingredients": [
           "1 yema de huevo de campo fresca e intacta",
-          "Sal marina en escamas y abundante pimienta negra recién molida a gusto",
-          "4 tostadas finas de pan de campo o masa madre doradas a la plancha"
+          "Sal marina en escamas y abundante pimienta negra recién molida a gusto"
         ]
       }
     ],
@@ -92584,49 +92591,55 @@
       "1 cucharada colmada de mostaza Dijon clásica",
       "2 chalotas francesas pequeñas picadas en brunoise milimétrica",
       "2 cucharadas de ciboulette fresca picada finamente",
+      "2 papas medianas de piel firme (tipo Spunta o Russet), peladas",
+      "Abundante aceite neutro para freír",
+      "Sal fina para sazonar en caliente",
       "1 yema de huevo de campo fresca e intacta",
-      "Sal marina en escamas y abundante pimienta negra recién molida a gusto",
-      "4 tostadas finas de pan de campo o masa madre doradas a la plancha"
+      "Sal marina en escamas y abundante pimienta negra recién molida a gusto"
     ],
     "step_groups": [
       {
-        "name": "1. Picado a Cuchillo en Frío",
+        "name": "1. Papas Chips Caseras Crujientes",
         "steps": [
-          "Colocar el lomo de ternera en el congelador durante 15 minutos para que adquiera firmeza y permita cortes geométricos limpios.",
-          "Con un cuchillo de chef bien afilado, cortar el lomo en filetes delgados, luego en tiras finas y finalmente en cubos milimétricos de 3 mm de lado, evitando siempre procesadoras eléctricas para conservar intacta la fibra muscular de la carne."
+          "Cortar las papas peladas con mandolina en láminas muy delgadas de 1 mm de espesor.",
+          "Sumergir las láminas de papa en un bol con agua bien fría durante 10 minutos para retirar el exceso de almidón superficial; escurrir y secar meticulosamente sobre repasador limpio o papel absorbente.",
+          "Calentar abundante aceite neutro a 175 °C en una sartén profunda o cacerola. Freír las láminas de papa en tandas pequeñas durante 2 a 3 minutos, moviéndolas con espumadera para que no se peguen, hasta que dejen de burbujear y luzcan doradas y crocantes.",
+          "Escurrir sobre papel absorbente y espolvorear inmediatamente en caliente con sal fina."
         ]
       },
       {
-        "name": "2. Extracción de Grasa y Emulsión Sutil",
+        "name": "2. Picado a Cuchillo y Grasa de Panceta",
         "steps": [
-          "Dorar cubos de panceta ahumada en una sartén a fuego muy bajo para extraer su grasa limpia y filtrarla a través de un colador fino; dejar entibiar hasta que esté tibia al tacto (unos 35 °C).",
-          "En un bol de acero apoyado sobre un cuenco con hielo para mantener la cadena de frío, colocar la carne picada a cuchillo.",
-          "Agregar las chalotas finamente picadas, la ciboulette y la mostaza Dijon.",
-          "Verter la grasa tibia de panceta en un hilo continuo mientras mezclás enérgicamente con una espátula para lograr que los lípidos ahumados se emulsionen con la humedad natural de la ternera sin coagular las proteínas."
+          "Llevar el lomo de ternera al congelador durante 15 minutos para facilitar un corte geométrico nítido. Con un cuchillo de chef afilado, filetear finamente, cortar en tiras delgadas y picar en cubitos milimétricos de 3 mm sin aplastar la carne.",
+          "Dorar dados de panceta ahumada en una sartén a fuego muy suave para extraer su grasa limpia y filtrarla por colador fino; dejar entibiar hasta los 35 °C."
         ]
       },
       {
-        "name": "3. Sazonado y Emplatado",
+        "name": "3. Emulsión, Sazón y Emplatado con Corona de Chips",
         "steps": [
-          "Sazonar al final con una pizca generosa de sal en escamas y pimienta negra recién molida, mezclando con suavidad.",
-          "Apoyar un aro de repostería en el centro de un plato frío, rellenar con el tartar presionando apenas con el dorso de la cuchara para darle forma circular y retirar el aro con cuidado.",
-          "Hacer una leve hendidura en la cúspide y posar la yema cruda intacta en el centro.",
-          "Acompañar con las tostadas de pan de campo crujientes y servir de inmediato."
+          "En un bol colocado sobre otro con hielo para proteger la frescura de la carne, mezclar la ternera picada con las chalotas, ciboulette y mostaza Dijon.",
+          "Verter la grasa tibia de panceta en hilo continuo mientras mezclás enérgicamente con espátula para lograr una emulsión sedosa que recubra la carne sin cocinarla.",
+          "Sazonar con una pizca generosa de sal en escamas y pimienta negra recién molida.",
+          "Disponer un aro de repostería en el centro del plato, rellenar con el tartar presionando suavemente para darle forma circular y retirar el aro con cuidado.",
+          "Hacer una pequeña hendidura superior y posar la yema cruda intacta en el centro.",
+          "Acomodar las papas chips doradas y crujientes en abanico alrededor de todo el plato abrazando el tartar y servir de inmediato."
         ]
       }
     ],
     "steps": [
-      "Colocar el lomo de ternera en el congelador durante 15 minutos para que adquiera firmeza y permita cortes geométricos limpios.",
-      "Con un cuchillo de chef bien afilado, cortar el lomo en filetes delgados, luego en tiras finas y finalmente en cubos milimétricos de 3 mm de lado, evitando siempre procesadoras eléctricas para conservar intacta la fibra muscular de la carne.",
-      "Dorar cubos de panceta ahumada en una sartén a fuego muy bajo para extraer su grasa limpia y filtrarla a través de un colador fino; dejar entibiar hasta que esté tibia al tacto (unos 35 °C).",
-      "En un bol de acero apoyado sobre un cuenco con hielo para mantener la cadena de frío, colocar la carne picada a cuchillo.",
-      "Agregar las chalotas finamente picadas, la ciboulette y la mostaza Dijon.",
-      "Verter la grasa tibia de panceta en un hilo continuo mientras mezclás enérgicamente con una espátula para lograr que los lípidos ahumados se emulsionen con la humedad natural de la ternera sin coagular las proteínas.",
-      "Sazonar al final con una pizca generosa de sal en escamas y pimienta negra recién molida, mezclando con suavidad.",
-      "Apoyar un aro de repostería en el centro de un plato frío, rellenar con el tartar presionando apenas con el dorso de la cuchara para darle forma circular y retirar el aro con cuidado.",
-      "Hacer una leve hendidura en la cúspide y posar la yema cruda intacta en el centro.",
-      "Acompañar con las tostadas de pan de campo crujientes y servir de inmediato."
+      "Cortar las papas peladas con mandolina en láminas muy delgadas de 1 mm de espesor.",
+      "Sumergir las láminas de papa en un bol con agua bien fría durante 10 minutos para retirar el exceso de almidón superficial; escurrir y secar meticulosamente sobre repasador limpio o papel absorbente.",
+      "Calentar abundante aceite neutro a 175 °C en una sartén profunda o cacerola. Freír las láminas de papa en tandas pequeñas durante 2 a 3 minutos, moviéndolas con espumadera para que no se peguen, hasta que dejen de burbujear y luzcan doradas y crocantes.",
+      "Escurrir sobre papel absorbente y espolvorear inmediatamente en caliente con sal fina.",
+      "Llevar el lomo de ternera al congelador durante 15 minutos para facilitar un corte geométrico nítido. Con un cuchillo de chef afilado, filetear finamente, cortar en tiras delgadas y picar en cubitos milimétricos de 3 mm sin aplastar la carne.",
+      "Dorar dados de panceta ahumada en una sartén a fuego muy suave para extraer su grasa limpia y filtrarla por colador fino; dejar entibiar hasta los 35 °C.",
+      "En un bol colocado sobre otro con hielo para proteger la frescura de la carne, mezclar la ternera picada con las chalotas, ciboulette y mostaza Dijon.",
+      "Verter la grasa tibia de panceta en hilo continuo mientras mezclás enérgicamente con espátula para lograr una emulsión sedosa que recubra la carne sin cocinarla.",
+      "Sazonar con una pizca generosa de sal en escamas y pimienta negra recién molida.",
+      "Disponer un aro de repostería en el centro del plato, rellenar con el tartar presionando suavemente para darle forma circular y retirar el aro con cuidado.",
+      "Hacer una pequeña hendidura superior y posar la yema cruda intacta en el centro.",
+      "Acomodar las papas chips doradas y crujientes en abanico alrededor de todo el plato abrazando el tartar y servir de inmediato."
     ],
-    "notes": "La genialidad organoléptica de usar grasa de panceta fundida en lugar de aceite de oliva o mayonesa radica en el perfil lipídico del cerdo ahumado: a 35 °C se encuentra líquida pero densa, abrigando las partículas magras del lomo (que naturalmente carece de grasa intramuscular) y aportando un fondo ahumado profundo que resalta el dulzor cárnico de la ternera cruda. Para máxima seguridad bromatológica, utilizá siempre carne fresca de carnicería de confianza cortada el mismo día del servicio."
+    "notes": "La genialidad organoléptica de usar grasa de panceta fundida en lugar de aceite radica en el perfil lipídico del cerdo ahumado: a 35 °C está líquida pero con cuerpo, abrigando las partículas magras del lomo y aportando una profundidad ahumada exquisita. El acompañamiento de papas chips caseras aporta el contrapunto crujiente perfecto: actúan como cucharas naturales para levantar el tartar sedoso. El secreto de las chips reside en cortar bien fino (1 mm), lavar en agua fría para eliminar el almidón y secar completamente antes de sumergir en el aceite caliente."
   }
 ]
