@@ -380,7 +380,12 @@
       "Desglasar con el medio vaso de vino y dejar evaporar el alcohol por completo.",
       "Incorporar la salsa de tomate, diluir con el agua, sumar las hierbas aromáticas (romero, tomillo, laurel y mejorana) y cocinar tapado a fuego mínimo durante 40 a 50 minutos hasta que el ragù espese. (Si el tomate resultara ácido, equilibrar con la punta de una cucharadita de bicarbonato de sodio).",
       "Hervir la pasta en abundante agua con sal, colar al dente y saltearla un par de minutos dentro de la cacerola con el ragù. Retirar del fuego y servir con queso rallado."
-    ]
+    ],
+    "pairing": {
+      "type": "PASTA RECOMENDADA",
+      "name": "Tagliatelle al Huevo o Pappardelle",
+      "icon": "tagliatelle"
+    }
   },
   {
     "id": 5,
@@ -1923,7 +1928,12 @@
       "Pasar los chipirones a la salsa de tomate y cocinar todo junto 5 minutos hasta que estén tiernos.",
       "Mientras tanto, hervir los espaguetis negros en abundante agua con sal hasta que estén al dente y escurrirlos.",
       "Disponer la pasta en una fuente tibia, bañar con la salsa de chipirones y coronar por encima con los langostinos salteados."
-    ]
+    ],
+    "pairing": {
+      "type": "PASTA LARGA",
+      "name": "Spaghetti al Nero di Seppia",
+      "icon": "spaghetti"
+    }
   },
   {
     "id": 21,
@@ -3278,7 +3288,12 @@
       "Desglasar con el vino blanco, dejar evaporar el alcohol unos instantes y sumar los tomates perita. Cocinar a fuego suave durante 15 a 20 minutos revolviendo ocasionalmente hasta que la salsa espese.",
       "Mientras tanto, hervir los bucatini en una olla grande con abundante agua ligeramente salada hasta que estén al dente.",
       "Escurrir la pasta y volcarla directamente en la sartén con la salsa para que se impregne bien. Servir de inmediato espolvoreando generosamente con el queso recién rallado."
-    ]
+    ],
+    "pairing": {
+      "type": "PASTA LARGA CON AGUJERO",
+      "name": "Bucatini Romani",
+      "icon": "bucatini"
+    }
   },
   {
     "id": 35,
@@ -4295,7 +4310,12 @@
       "Incorporar los tomates machacados con sus jugos, la media taza de agua, sal y pimienta. Tapar, llevar a hervor suave y luego bajar el fuego al mínimo, cocinando durante unos 20 minutos hasta que la salsa espese. Al final de la cocción, trozar las hojas de albahaca con las manos e integrarlas a la salsa.",
       "Mientras tanto, hervir la pasta en una olla grande con abundante agua salada a fuego alto hasta que esté al dente.",
       "Escurrir la pasta y sartenearla con la mitad de la salsa de tomate. Servir en platos individuales, cubrir con el resto de la salsa caliente, coronar cada porción con ricota fresca y espolvorear con queso rallado."
-    ]
+    ],
+    "pairing": {
+      "type": "PASTA CORTA",
+      "name": "Penne Rigate",
+      "icon": "penne"
+    }
   },
   {
     "id": 46,
@@ -5075,7 +5095,12 @@
       "Desglasar con el medio vaso de vino blanco o Martini seco, incorporar el jugo de 2 de los limones y reducir a fuego medio durante 3 minutos.",
       "Verter la crema de leche y el jugo del tercer limón, llevar a hervor y bajar el fuego. Cuando la crema empiece a espesar, incorporar el atún desmenuzado, una parte del queso parmesano rallado, el perejil picado, sal y pimienta blanca, y cocinar apenas 1 minuto más.",
       "Volcar la salsa sobre la pasta recién hervida al dente, mezclar bien y servir terminando con el resto del queso parmesano rallado en la mesa."
-    ]
+    ],
+    "pairing": {
+      "type": "PASTA LARGA PLANA",
+      "name": "Linguine al Limone",
+      "icon": "linguine"
+    }
   },
   {
     "id": 55,
@@ -7041,7 +7066,12 @@
       "Retirar del fuego, incorporar los cubos de manteca y luego la crema de leche, salpimentar a gusto y volver al fuego suave unos minutos hasta que reduzca ligeramente.",
       "Cocinar los fettuccine hasta que estén al dente, escurrirlos reservando media taza del agua de cocción y volcarlos calientes directamente en la sartén con la salsa de limón.",
       "Llevar la sartén a fuego medio revolviendo para emulsionar, retirar del calor, espolvorear el queso Pecorino Romano rallado mezclando rápidamente y servir de inmediato en platos precalentados."
-    ]
+    ],
+    "pairing": {
+      "type": "PASTA AL HUEVO",
+      "name": "Fettuccine Frescas",
+      "icon": "fettuccine"
+    }
   },
   {
     "id": 74,
@@ -11069,7 +11099,12 @@
       "Cocinar los pappardelle en abundante agua hirviendo con sal (si son frescos tardan de 2 a 3 minutos; si son secos, el tiempo del paquete hasta estar al dente).",
       "Escurrir la pasta reservando una taza del agua de cocción e incorporarla a la sartén de los puerros, emulsionando con chorritos de agua de cocción hasta lograr una salsa cremosa y brillante.",
       "Servir de inmediato espolvoreando cada plato con abundante pangrattato de hongos, más parmesano y hojitas de tomillo fresco."
-    ]
+    ],
+    "pairing": {
+      "type": "PASTA LARGA ANCHA",
+      "name": "Pappardelle Caseras",
+      "icon": "pappardelle"
+    }
   },
   {
     "id": 117,
@@ -19891,7 +19926,12 @@
       "Untar una fuente para horno con un hilo de aceite de oliva y armar el plato en capas: una base de pasta mezclada con salsa, un poco más de salsa pura, rodajas de mozzarella y queso parmesano rallado.",
       "Repetir las capas hasta terminar con todos los ingredientes, coronando la superficie con una capa generosa de mozzarella y parmesano.",
       "Hornear a 200 °C durante unos 15 minutos hasta que la superficie esté dorada y burbujeante."
-    ]
+    ],
+    "pairing": {
+      "type": "PASTA PUGLIESE",
+      "name": "Orecchiette Caserecce",
+      "icon": "orecchiette"
+    }
   },
   {
     "id": 206,
@@ -22629,7 +22669,12 @@
       "Tomar porciones de masa y estirarlas con las palmas de las manos formando cilindros o cordones del grosor de un dedo.",
       "Cortar pequeños discos de masa de 1 cm y, con la punta redondeada de un cuchillo de mesa sin dientes, arrastrar cada trocito sobre la madera hacia uno mismo para combarlo y dejar una cara rugosa; luego invertir la cúpula sobre la yema del dedo pulgar para darle la forma de pequeña oreja.",
       "Acomodar las orecchiette sobre un lienzo enharinado con semolín y dejarlas orear antes de hervirlas en abundante agua con sal."
-    ]
+    ],
+    "pairing": {
+      "type": "PASTA PUGLIESE",
+      "name": "Orecchiette Tradizionali",
+      "icon": "orecchiette"
+    }
   },
   {
     "id": 234,
@@ -25068,7 +25113,12 @@
       "Retirar cada raviolo con espumadera con suma delicadeza, escurrir una fracción de segundo sobre un paño limpio y apoyar en el centro de un plato hondo precalentado.",
       "Espolvorear inmediatamente con abundante Parmigiano Reggiano rallado, bañar con la manteca avellanada hirviendo para que funda el queso y terminar con láminas finas de trufa negra.",
       "Comer con cuchara y tenedor: al cortar el raviolo en el centro, la yema dorada fluye creando una salsa sublime con la manteca y el queso."
-    ]
+    ],
+    "pairing": {
+      "type": "PASTA RELLENA NOBLE",
+      "name": "Raviolo Gigante con Yema",
+      "icon": "ravioli"
+    }
   },
   {
     "id": 259,
@@ -31347,7 +31397,12 @@
       "Hervir abundante agua con sal en una olla grande. Echar los gnocchis por tandas con cuidado: apenas suban flotando a la superficie (unos 90 segundos a 2 minutos), retirarlos con una espumadera.",
       "Transferir los gnocchis directamente a la cazuela con el ragù caliente y menear suavemente con cuchara de madera para que cada bocado quede cubierto por la salsa aterciopelada sin romper la pasta.",
       "Servir de inmediato en cuencos rústicos de cerámica, coronando con abundante queso Pecorino rallado, un toque de pimienta negra molida y unas hojas de romero fresco. ¡Buen provecho!"
-    ]
+    ],
+    "pairing": {
+      "type": "GNOCCHI ARTESANAL",
+      "name": "Gnocchi Rigati de Sompiano",
+      "icon": "gnocchi"
+    }
   },
   {
     "id": 309,
@@ -32672,7 +32727,12 @@
       "Volcar los corzetti directo en la sartén con los hongos calientes. Añadir la manteca fría restante y unas cucharadas del agua de cocción caliente.",
       "Saltear enérgicamente fuera del fuego en movimientos circulares para ligar la grasa con los almidones hasta crear una emulsión sedosa y brillante que cubra los relieves de la pasta.",
       "Emplatar en vajilla honda rústica, coronar con hojitas frescas de tomillo, pimienta negra molida al momento y espolvorear el queso parmesano rallado fino."
-    ]
+    ],
+    "pairing": {
+      "type": "PASTA MEDIEVAL LIGUR",
+      "name": "Corzetti Stampati al Legno",
+      "icon": "corzetti"
+    }
   },
   {
     "id": 318,
@@ -42203,7 +42263,12 @@
       "Añadir los cappellettis al dente directo del agua.",
       "Apagar la hornalla, espolvorear los 100 g de queso rallado duro y mantecar en vaivén fuera del fuego, hasta ligar la salsa por completo a la pasta.",
       "Servir en plato caliente, con pimienta negra recién molida y sin nada verde por encima."
-    ]
+    ],
+    "pairing": {
+      "type": "PASTA RELLENA",
+      "name": "Cappellettis Caseros",
+      "icon": "cappelletti"
+    }
   },
   {
     "id": 390,
@@ -62598,7 +62663,12 @@
       "1 cucharada de perejil fresco picado fino",
       "200 ml de fondo de cocción reducido (sugo d'arrosto)",
       "Agua de cocción de la pasta (según necesidad)"
-    ]
+    ],
+    "pairing": {
+      "type": "PASTA RELLENA PIEMONTESA",
+      "name": "Agnolotti del Plin al Sugo",
+      "icon": "agnolotti"
+    }
   },
   {
     "id": 557,
@@ -62759,7 +62829,12 @@
       "Retirar con una espumadera escurriendo rigurosamente cada gota de agua de cocción.",
       "Disponerlos de inmediato sobre un plato donde previamente se colocó una servilleta de lino blanco caliente y doblada en forma de nido, cerrando los extremos suavemente durante 30 segundos para que el vapor termine de secar la superficie de la pasta.",
       "Servir al centro de la mesa sin ningún condimento adicional: cada comensal toma los agnolotti calientes con los dedos, llevándoselos a la boca de un solo bocado junto a una copa de buen vino de las Langhe."
-    ]
+    ],
+    "pairing": {
+      "type": "PASTA RELLENA PIEMONTESA",
+      "name": "Agnolotti del Plin al Tovagliolo",
+      "icon": "agnolotti"
+    }
   },
   {
     "id": 558,
@@ -73418,7 +73493,12 @@
       "Escurrir los rigatoni al dente reservando media taza del agua de cocción. Volcar la pasta en la sartén caliente.",
       "Agregar un chorro del agua de cocción y dos cucharadas de aceite de oliva crudo. Saltear enérgicamente fuera del fuego incorporando el Pecorino Toscano rallado para crear una emulsión sedosa.",
       "Servir de inmediato con pimienta negra recién molida y más pecorino por encima."
-    ]
+    ],
+    "pairing": {
+      "type": "PASTA CORTA TUBULAR",
+      "name": "Rigatoni Trafilati al Bronzo",
+      "icon": "rigatoni"
+    }
   },
   {
     "id": 671,
@@ -73511,7 +73591,12 @@
       "Con una espumadera, traspasar los tortellini directamente a la sartén con la crema y las arvejas, sumando 2 cucharadas del agua de cocción almidonada.",
       "Saltear suavemente durante 1 minuto a fuego medio para que la pasta absorba la salsa.",
       "Apagar el fuego, incorporar el Parmigiano-Reggiano rallado y mezclar enérgicamente con movimientos envolventes hasta lograr una emulsión cremosa y brillante. Servir de inmediato en cuencos calientes."
-    ]
+    ],
+    "pairing": {
+      "type": "PASTA RELLENA EMILIANA",
+      "name": "Tortellini Tradizionali",
+      "icon": "cappelletti"
+    }
   },
   {
     "id": 673,
@@ -82751,7 +82836,12 @@
       "uszka",
       "caldo rubi",
       "receta tradicional polonia"
-    ]
+    ],
+    "pairing": {
+      "type": "GUARNICIÓN TRADICIONAL",
+      "name": "Uszka z Grzybami (Orejas con Hongos)",
+      "icon": "uszka"
+    }
   },
   {
     "id": 767,
@@ -82862,7 +82952,12 @@
       "porcini",
       "pastas caseras",
       "receta de uszka"
-    ]
+    ],
+    "pairing": {
+      "type": "DUMPLING POLACO",
+      "name": "Uszka z Grzybami (Orejas con Hongos)",
+      "icon": "uszka"
+    }
   },
   {
     "id": 768,
@@ -83066,7 +83161,12 @@
       "skwarki",
       "recetas de polonia",
       "plato nacional polaco"
-    ]
+    ],
+    "pairing": {
+      "type": "DUMPLING POLACO",
+      "name": "Pierogi Ruskie Caseros",
+      "icon": "pierogi"
+    }
   },
   {
     "id": 770,
@@ -87698,7 +87798,12 @@
       "6 granos de pimienta negra entera",
       "1 cucharada de sal gruesa",
       "4 litros de agua mineral fría"
-    ]
+    ],
+    "pairing": {
+      "type": "PASTA EN CALDO",
+      "name": "Tortellini in Brodo",
+      "icon": "cappelletti"
+    }
   },
   {
     "id": 819,
@@ -93521,9 +93626,9 @@
     ],
     "notes": "El secreto supremo de este pesto reside en no calentar jamás la salsa en sartén al fuego: el calor directo quema los aceites aromáticos del pistacho y corta el queso; la emulsión debe lograrse únicamente con el calor residual de la pasta y su agua de cocción rica en almidón.",
     "pairing": {
-      "type": "PASTA CORTA O LARGA",
+      "type": "PASTA LIGUR O LARGA",
       "name": "Trofie, Busiate o Spaghetti",
-      "icon": "spaghetti"
+      "icon": "trofie"
     }
   },
   {
