@@ -92339,5 +92339,294 @@
       "Dejá enfriar a temperatura ambiente: debido a la altísima concentración de colágeno, gelificará en un bloque sólido y tembloroso que podés racionar en cubos y congelar durante meses para enriquecer salsas, risottos y carnes."
     ],
     "notes": "El principio molecular de la demi-glace es la concentración por evaporación de agua sin desnaturalizar las proteínas de colágeno: a medida que el agua se evapora, la viscosidad cinemática aumenta exponencialmente y la gelatina forma una red polimérica que atrapa los compuestos aromáticos de Maillard. Al enfriarse por debajo de los 15 °C se transforma en un gel termorreversible que se funde instantáneamente al contacto con el calor."
+  },
+  {
+    "id": 875,
+    "title": "Demi-Glace Molecular (Estados Unidos)",
+    "country": "Estados Unidos",
+    "category": "Salsas",
+    "tags": [
+      "Estados Unidos",
+      "Modernist Cuisine",
+      "Nathan Myhrvold",
+      "Chris Young",
+      "Demi-Glace",
+      "Salsa Molecular",
+      "Hidrocoloides",
+      "Goma Xantana",
+      "Gelatina",
+      "Fondo Oscuro",
+      "Umami"
+    ],
+    "prep_time": "10 min",
+    "cook_time": "15 min",
+    "servings": "6 porciones (350 ml aprox.)",
+    "calories": "110 kcal por porción",
+    "image": "https://lh3.googleusercontent.com/-P72In7Bt208/aweittKZ7BI/AAAAAAAQDuw/aVfjDt2eHnkX9a1sH4ylJnTLNmvcfy0lgCNcBGAsYHQ/s1600/demi_glace_molecular.jpg",
+    "diet_badges": [
+      "Salsas",
+      "Cocina Molecular",
+      "Sin Gluten",
+      "Keto"
+    ],
+    "story": "Desarrollada en Seattle a comienzos de la década de 2010 por el equipo de investigación de Modernist Cuisine liderado por Nathan Myhrvold y Chris Young, esta preparación replanteó la salsa decimonónica de Auguste Escoffier desde la física de los coloides. Al prescindir de los roux de harina que enturbiaban los aromas de la ternera, la cocina de vanguardia recurrió a la hidrólisis de gelatina y a la goma xantana para lograr una textura perfecta y un brillo de espejo absoluto.",
+    "ingredient_groups": [
+      {
+        "name": "Base Coloidal Umami",
+        "ingredients": [
+          "500 ml de caldo hiperbárico concentrado de ternera (o fondo oscuro de huesos)",
+          "12 g de gelatina pura sin sabor en polvo (fuerza 200–250 Bloom)",
+          "0.6 g de goma xantana culinaria en polvo (aprox. 0.12% en relación al peso del caldo)"
+        ]
+      },
+      {
+        "name": "Montado y Ajuste Final",
+        "ingredients": [
+          "40 g de manteca fría de campo sin sal cortada en cubos pequeños",
+          "1 pizca de sal marina fina y pimienta blanca recién molida a gusto"
+        ]
+      }
+    ],
+    "ingredients": [
+      "500 ml de caldo hiperbárico concentrado de ternera (o fondo oscuro de huesos)",
+      "12 g de gelatina pura sin sabor en polvo (fuerza 200–250 Bloom)",
+      "0.6 g de goma xantana culinaria en polvo (aprox. 0.12% en relación al peso del caldo)",
+      "40 g de manteca fría de campo sin sal cortada en cubos pequeños",
+      "1 pizca de sal marina fina y pimienta blanca recién molida a gusto"
+    ],
+    "step_groups": [
+      {
+        "name": "1. Hidratación y Disolución Térmica",
+        "steps": [
+          "Separar 50 ml del caldo de ternera frío en un cuenco pequeño, espolvorear la gelatina en polvo en forma de lluvia y dejar reposar 5 minutos para que florezca e hidrate homogéneamente.",
+          "Calentar los 450 ml restantes de caldo en una cacerola pequeña a 80 °C sin dejar que hierva a borbotones.",
+          "Incorporar la gelatina hidratada a la cacerola caliente y disolver por completo removiendo suavemente con batidor de alambre."
+        ]
+      },
+      {
+        "name": "2. Dispersión Coloidal y Reducción",
+        "steps": [
+          "Espolvorear la goma xantana muy lentamente en lluvia fina sobre el caldo caliente mientras batís enérgicamente o pasás un mixer de inmersión para evitar la formación de grumos.",
+          "Mantener a fuego mínimo constante durante 8 minutos para estabilizar la red de hidrocoloides y concentrar sutilmente el caldo hasta obtener una densidad viscosa y translúcida."
+        ]
+      },
+      {
+        "name": "3. Emulsión a Alta Cizalla y Brillo de Espejo",
+        "steps": [
+          "Retirar la cacerola del fuego y dejar que descienda a 60 °C.",
+          "Incorporar los cubos de manteca fría y procesar de inmediato con la licuadora de inmersión a máxima velocidad para crear una emulsión micelar estable con brillo de espejo que no se corta.",
+          "Ajustar con sal marina fina y servir caliente napando la carne con una cuchara de metal."
+        ]
+      }
+    ],
+    "steps": [
+      "Separar 50 ml del caldo de ternera frío en un cuenco pequeño, espolvorear la gelatina en polvo en forma de lluvia y dejar reposar 5 minutos para que florezca e hidrate homogéneamente.",
+      "Calentar los 450 ml restantes de caldo en una cacerola pequeña a 80 °C sin dejar que hierva a borbotones.",
+      "Incorporar la gelatina hidratada a la cacerola caliente y disolver por completo removiendo suavemente con batidor de alambre.",
+      "Espolvorear la goma xantana muy lentamente en lluvia fina sobre el caldo caliente mientras batís enérgicamente o pasás un mixer de inmersión para evitar la formación de grumos.",
+      "Mantener a fuego mínimo constante durante 8 minutos para estabilizar la red de hidrocoloides y concentrar sutilmente el caldo hasta obtener una densidad viscosa y translúcida.",
+      "Retirar la cacerola del fuego y dejar que descienda a 60 °C.",
+      "Incorporar los cubos de manteca fría y procesar de inmediato con la licuadora de inmersión a máxima velocidad para crear una emulsión micelar estable con brillo de espejo que no se corta.",
+      "Ajustar con sal marina fina y servir caliente napando la carne con una cuchara de metal."
+    ],
+    "notes": "El secreto científico de la demi-glace molecular radica en la eliminación del almidón de trigo (roux clásico), que absorbe los compuestos volátiles aromáticos y apaga el impacto umami. La goma xantana al 0.12% aporta pseudoplasticidad (la salsa fluye con ligereza al verterla pero se sostiene adherida a la carne en el plato sin derramarse), mientras que la gelatina funde exactamente a 37 °C dentro de la boca liberando una sensación aterciopelada insuperable."
+  },
+  {
+    "id": 876,
+    "title": "Papas Fritas Modernistas (Estados Unidos)",
+    "country": "Estados Unidos",
+    "category": "Guarniciones",
+    "tags": [
+      "Estados Unidos",
+      "Chris Young",
+      "Andy Cooks",
+      "Modernist Cuisine",
+      "Papas Fritas",
+      "French Fries",
+      "Triple Cocción",
+      "Congelado",
+      "Crujiente",
+      "Ciencia Culinaria"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "30 min",
+    "servings": "4 porciones",
+    "calories": "340 kcal por porción",
+    "image": "https://lh3.googleusercontent.com/-GjQpMcnwGwg/aweiudez-4I/AAAAAAAQDu4/Ix-NwgfOAxUQZt0-8clEL5uML99VHmIWwCNcBGAsYHQ/s1600/papas_fritas_modernistas.jpg",
+    "diet_badges": [
+      "Guarniciones",
+      "Vegetariano",
+      "Sin Gluten",
+      "Ciencia Culinaria"
+    ],
+    "story": "Fruto de las rigurosas investigaciones de Chris Young y su colaboración culinaria con el chef australiano Andy Cooks, este método revolucionó la comprensión sobre las papas fritas caseras. La técnica demuestra mediante la física de materiales que el congelado previo a la fritura es el paso clave para superar a la papa fresca, rompiendo microscópicamente las paredes celulares para formar una corteza vidriada de crocancia inquebrantable.",
+    "ingredient_groups": [
+      {
+        "name": "Papas y Baño Ácido de Escaldado",
+        "ingredients": [
+          "1 kg de papas de alto almidón (Russet o negras de cáscara rugosa)",
+          "2 litros de agua fría",
+          "15 ml de vinagre blanco destilado (1 cucharada sopera)",
+          "20 g de sal fina (1 cucharada sopera colmada)"
+        ]
+      },
+      {
+        "name": "Fritura y Sazón Crujiente",
+        "ingredients": [
+          "1.5 litros de aceite de girasol, maíz o maní para freír",
+          "Sal marina entrefina o sal en escamas a gusto"
+        ]
+      }
+    ],
+    "ingredients": [
+      "1 kg de papas de alto almidón (Russet o negras de cáscara rugosa)",
+      "2 litros de agua fría",
+      "15 ml de vinagre blanco destilado (1 cucharada sopera)",
+      "20 g de sal fina (1 cucharada sopera colmada)",
+      "1.5 litros de aceite de girasol, maíz o maní para freír",
+      "Sal marina entrefina o sal en escamas a gusto"
+    ],
+    "step_groups": [
+      {
+        "name": "1. Corte, Lavado y Escaldado Ácido",
+        "steps": [
+          "Pelar las papas y cortar bastones uniformes de 1 cm de lado para garantizar una cocción homogénea en todo el lote.",
+          "Sumergir los bastones en un bol con abundante agua fría durante 10 minutos para lavar el exceso de almidón suelto de la superficie.",
+          "Poner a hervir los 2 litros de agua con la sal y el vinagre blanco. Cocinar los bastones de papa a hervor suave durante 8 a 10 minutos, hasta que estén tiernos al pincharlos con la punta de un cuchillo pero mantengan firme su estructura sin desmoronarse."
+        ]
+      },
+      {
+        "name": "2. Secado y Congelado Celular",
+        "steps": [
+          "Retirar los bastones de papa con espumadera con sumo cuidado para no quebrarlos y distribuirlos sobre una rejilla metálica en una sola capa sin encimar.",
+          "Dejar enfriar a temperatura ambiente durante 15 minutos para que el vapor residual escape y la superficie quede mate y seca.",
+          "Llevar la rejilla al congelador durante un mínimo de 2 horas (o hasta el día siguiente) hasta que los bastones estén completamente congelados y pétreos."
+        ]
+      },
+      {
+        "name": "3. Doble Fritura desde Congelado",
+        "steps": [
+          "Calentar abundante aceite en una cacerola honda o freidora a 190 °C.",
+          "Sumergir los bastones de papa directamente salidos del congelador (en tandas pequeñas para evitar que la temperatura del aceite descienda drásticamente) y freír durante 4 a 5 minutos hasta que la superficie se selle con un tono dorado suave.",
+          "Escurrir sobre una rejilla metálica y dejar reposar durante 5 minutos.",
+          "Elevar la temperatura del aceite a 200 °C y realizar la fritura final sumergiendo las papas durante 2 a 3 minutos hasta obtener un tono dorado ámbar y una corteza vidriada con microburbujas ultra crocantes.",
+          "Escurrir inmediatamente sobre rejilla, salar en caliente con sal marina entrefina y servir al instante."
+        ]
+      }
+    ],
+    "steps": [
+      "Pelar las papas y cortar bastones uniformes de 1 cm de lado para garantizar una cocción homogénea en todo el lote.",
+      "Sumergir los bastones en un bol con abundante agua fría durante 10 minutos para lavar el exceso de almidón suelto de la superficie.",
+      "Poner a hervir los 2 litros de agua con la sal y el vinagre blanco. Cocinar los bastones de papa a hervor suave durante 8 a 10 minutos, hasta que estén tiernos al pincharlos con la punta de un cuchillo pero mantengan firme su estructura sin desmoronarse.",
+      "Retirar los bastones de papa con espumadera con sumo cuidado para no quebrarlos y distribuirlos sobre una rejilla metálica en una sola capa sin encimar.",
+      "Dejar enfriar a temperatura ambiente durante 15 minutos para que el vapor residual escape y la superficie quede mate y seca.",
+      "Llevar la rejilla al congelador durante un mínimo de 2 horas (o hasta el día siguiente) hasta que los bastones estén completamente congelados y pétreos.",
+      "Calentar abundante aceite en una cacerola honda o freidora a 190 °C.",
+      "Sumergir los bastones de papa directamente salidos del congelador (en tandas pequeñas para evitar que la temperatura del aceite descienda drásticamente) y freír durante 4 a 5 minutos hasta que la superficie se selle con un tono dorado suave.",
+      "Escurrir sobre una rejilla metálica y dejar reposar durante 5 minutos.",
+      "Elevar la temperatura del aceite a 200 °C y realizar la fritura final sumergiendo las papas durante 2 a 3 minutos hasta obtener un tono dorado ámbar y una corteza vidriada con microburbujas ultra crocantes.",
+      "Escurrir inmediatamente sobre rejilla, salar en caliente con sal marina entrefina y servir al instante."
+    ],
+    "notes": "La ciencia detrás de congelar la papa antes de freír: al hervir con vinagre, el ácido inhibe la descomposición de la pectina, manteniendo firme el contorno del bastón mientras el interior gelatiniza. Al congelarse, el agua interna forma microcristales de hielo filosos que perforan las células vegetales, permitiendo que el almidón retrogradado migre a la superficie. Al freír desde congelado, el agua superficial se evapora instantáneamente en un choque térmico explosivo, creando una piel de microampollas crocantes que permanece rígida por más de 20 minutos sin ablandarse."
+  },
+  {
+    "id": 877,
+    "title": "Tartar de Ternera con Grasa de Panceta (Estados Unidos)",
+    "country": "Estados Unidos",
+    "category": "Carnes",
+    "tags": [
+      "Estados Unidos",
+      "Chef Tyler",
+      "Steak Tartare",
+      "Bacon Fat",
+      "Panceta",
+      "Lomo de Ternera",
+      "Cocina Rústica",
+      "Bistró Americano",
+      "Carne Cruda",
+      "Umami"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "5 min",
+    "servings": "2 porciones",
+    "calories": "420 kcal por porción",
+    "image": "https://lh3.googleusercontent.com/-U8keannSLwo/aweivernQhI/AAAAAAAQDvA/q92OmWC6OOoSKt-a64NqigRF2WN-ETvpQCNcBGAsYHQ/s1600/tartar_ternera_grasa_panceta.jpg",
+    "diet_badges": [
+      "Carnes",
+      "Keto",
+      "Sin Gluten",
+      "Entradas"
+    ],
+    "story": "Nacido como un afortunado accidente en la cocina de un restaurante rural estadounidense a manos del joven cocinero Chef Tyler, este tartar redefinió el bife crudo tradicional. Ante la presión del servicio y la ausencia de los aderezos convencionales, el cocinero ligó la carne magra recién picada con grasa tibia de panceta ahumada fundida en la sartén, logrando una untuosidad inesperada que fascinó a los comensales.",
+    "ingredient_groups": [
+      {
+        "name": "Carne y Aderezo de Grasa Ahumada",
+        "ingredients": [
+          "300 g de lomo de ternera de máxima frescura, limpio de grasa exterior y tejido conectivo",
+          "30 ml de grasa de panceta ahumada derretida (bacon fat tibia, aprox. 35 °C)",
+          "1 cucharada colmada de mostaza Dijon clásica",
+          "2 chalotas francesas pequeñas picadas en brunoise milimétrica",
+          "2 cucharadas de ciboulette fresca picada finamente"
+        ]
+      },
+      {
+        "name": "Corona y Servicio de Mesa",
+        "ingredients": [
+          "1 yema de huevo de campo fresca e intacta",
+          "Sal marina en escamas y abundante pimienta negra recién molida a gusto",
+          "4 tostadas finas de pan de campo o masa madre doradas a la plancha"
+        ]
+      }
+    ],
+    "ingredients": [
+      "300 g de lomo de ternera de máxima frescura, limpio de grasa exterior y tejido conectivo",
+      "30 ml de grasa de panceta ahumada derretida (bacon fat tibia, aprox. 35 °C)",
+      "1 cucharada colmada de mostaza Dijon clásica",
+      "2 chalotas francesas pequeñas picadas en brunoise milimétrica",
+      "2 cucharadas de ciboulette fresca picada finamente",
+      "1 yema de huevo de campo fresca e intacta",
+      "Sal marina en escamas y abundante pimienta negra recién molida a gusto",
+      "4 tostadas finas de pan de campo o masa madre doradas a la plancha"
+    ],
+    "step_groups": [
+      {
+        "name": "1. Picado a Cuchillo en Frío",
+        "steps": [
+          "Colocar el lomo de ternera en el congelador durante 15 minutos para que adquiera firmeza y permita cortes geométricos limpios.",
+          "Con un cuchillo de chef bien afilado, cortar el lomo en filetes delgados, luego en tiras finas y finalmente en cubos milimétricos de 3 mm de lado, evitando siempre procesadoras eléctricas para conservar intacta la fibra muscular de la carne."
+        ]
+      },
+      {
+        "name": "2. Extracción de Grasa y Emulsión Sutil",
+        "steps": [
+          "Dorar cubos de panceta ahumada en una sartén a fuego muy bajo para extraer su grasa limpia y filtrarla a través de un colador fino; dejar entibiar hasta que esté tibia al tacto (unos 35 °C).",
+          "En un bol de acero apoyado sobre un cuenco con hielo para mantener la cadena de frío, colocar la carne picada a cuchillo.",
+          "Agregar las chalotas finamente picadas, la ciboulette y la mostaza Dijon.",
+          "Verter la grasa tibia de panceta en un hilo continuo mientras mezclás enérgicamente con una espátula para lograr que los lípidos ahumados se emulsionen con la humedad natural de la ternera sin coagular las proteínas."
+        ]
+      },
+      {
+        "name": "3. Sazonado y Emplatado",
+        "steps": [
+          "Sazonar al final con una pizca generosa de sal en escamas y pimienta negra recién molida, mezclando con suavidad.",
+          "Apoyar un aro de repostería en el centro de un plato frío, rellenar con el tartar presionando apenas con el dorso de la cuchara para darle forma circular y retirar el aro con cuidado.",
+          "Hacer una leve hendidura en la cúspide y posar la yema cruda intacta en el centro.",
+          "Acompañar con las tostadas de pan de campo crujientes y servir de inmediato."
+        ]
+      }
+    ],
+    "steps": [
+      "Colocar el lomo de ternera en el congelador durante 15 minutos para que adquiera firmeza y permita cortes geométricos limpios.",
+      "Con un cuchillo de chef bien afilado, cortar el lomo en filetes delgados, luego en tiras finas y finalmente en cubos milimétricos de 3 mm de lado, evitando siempre procesadoras eléctricas para conservar intacta la fibra muscular de la carne.",
+      "Dorar cubos de panceta ahumada en una sartén a fuego muy bajo para extraer su grasa limpia y filtrarla a través de un colador fino; dejar entibiar hasta que esté tibia al tacto (unos 35 °C).",
+      "En un bol de acero apoyado sobre un cuenco con hielo para mantener la cadena de frío, colocar la carne picada a cuchillo.",
+      "Agregar las chalotas finamente picadas, la ciboulette y la mostaza Dijon.",
+      "Verter la grasa tibia de panceta en un hilo continuo mientras mezclás enérgicamente con una espátula para lograr que los lípidos ahumados se emulsionen con la humedad natural de la ternera sin coagular las proteínas.",
+      "Sazonar al final con una pizca generosa de sal en escamas y pimienta negra recién molida, mezclando con suavidad.",
+      "Apoyar un aro de repostería en el centro de un plato frío, rellenar con el tartar presionando apenas con el dorso de la cuchara para darle forma circular y retirar el aro con cuidado.",
+      "Hacer una leve hendidura en la cúspide y posar la yema cruda intacta en el centro.",
+      "Acompañar con las tostadas de pan de campo crujientes y servir de inmediato."
+    ],
+    "notes": "La genialidad organoléptica de usar grasa de panceta fundida en lugar de aceite de oliva o mayonesa radica en el perfil lipídico del cerdo ahumado: a 35 °C se encuentra líquida pero densa, abrigando las partículas magras del lomo (que naturalmente carece de grasa intramuscular) y aportando un fondo ahumado profundo que resalta el dulzor cárnico de la ternera cruda. Para máxima seguridad bromatológica, utilizá siempre carne fresca de carnicería de confianza cortada el mismo día del servicio."
   }
 ]
