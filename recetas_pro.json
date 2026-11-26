@@ -1191,7 +1191,12 @@
         "name": "Koshi (Firmeza Elástica)",
         "icon": "udon"
       }
-    ]
+    ],
+    "pairing": {
+      "type": "FIDEO JAPONÉS",
+      "name": "Udon Grueso y Elástico",
+      "icon": "udon"
+    }
   },
   {
     "id": 14,
@@ -6368,7 +6373,12 @@
       "Agregar el anís estrellado, los tallos de cebolla de verdeo y la agua. Llevar a hervor, tapar y bajar el fuego al mínimo.",
       "Cocinar a fuego muy lento durante al menos 2 horas (idealmente de 4 a 6 horas) hasta que el osobuco esté sumamente tierno y gelatinoso.",
       "Colocar en cuencos profundos una porción de fideos chinos recién hervidos y hojas de pak choi blanqueadas, y volcar por encima los trozos de carne y el caldo hirviendo."
-    ]
+    ],
+    "pairing": {
+      "type": "FIDEO DE TRIGO",
+      "name": "Fideos Cortados a Mano",
+      "icon": "chow_mein"
+    }
   },
   {
     "id": 67,
@@ -7328,7 +7338,12 @@
       "Para los encurtidos y la salsa: mezclar las láminas finas de zanahoria y repollo (o papaya verde) con sal, dejar reposar 5 minutos, enjuagar y escurrir.",
       "En una cacerolita calentar la taza de agua con el ajo picado, el chile, la salsa de pescado, el vinagre de arroz y el azúcar, revolviendo hasta disolver el azúcar. Retirar del fuego, sumar el jugo de limón y las verduras encurtidas.",
       "Servir en cuencos individuales la salsa tibia con las albóndigas de cerdo adentro, acompañando con los fideos de arroz y las hierbas frescas."
-    ]
+    ],
+    "pairing": {
+      "type": "FIDEO DE ARROZ",
+      "name": "Bún (Vermicelli Fino de Arroz)",
+      "icon": "rice_vermicelli"
+    }
   },
   {
     "id": 77,
@@ -10933,7 +10948,12 @@
       "Estirar la masa con palo de amasar en una lámina bien delgada, espolvorear generosamente con harina para que no se pegue, cortar en fajas de 3 a 4 cm de ancho, apilarlas y cortar transversalmente en fideos finos (tasalsan guril).",
       "Sacudir el exceso de harina de los fideos, echarlos en el caldo hirviendo y cocinar de 4 a 5 minutos hasta que suban a la superficie y estén tiernos.",
       "En el último minuto sumar la cebolla cortada en pluma fina y servir bien caliente (con pimienta negra opcional, aunque la versión clásica mongola solo lleva carne, sal, cebolla y masa)."
-    ]
+    ],
+    "pairing": {
+      "type": "FIDEO CASERO",
+      "name": "Fideos Caseros de Trigo",
+      "icon": "chow_mein"
+    }
   },
   {
     "id": 116,
@@ -13616,7 +13636,12 @@
       "Hidratar y hervir brevemente los fideos de arroz según las instrucciones del paquete y repartirlos en tazones hondos calientes.",
       "Acomodar sobre los fideos las láminas de pecho cocido y las láminas de lomo crudo. Volcar el caldo hirviendo a borbotones directamente sobre la carne cruda para que se cocine al instante en el cuenco.",
       "Servir de inmediato acompañado con la fuente de hierbas frescas, brotes de soja, gajos de lima, chiles, salsa Hoisin y Sriracha."
-    ]
+    ],
+    "pairing": {
+      "type": "FIDEO DE ARROZ",
+      "name": "Bánh Phở (Fideo Plano y Sedoso)",
+      "icon": "pho_noodles"
+    }
   },
   {
     "id": 143,
@@ -13757,7 +13782,12 @@
         "name": "Barikata (Extra Firme)",
         "icon": "ramen_straight"
       }
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Finos y Rectos (Hakata Hosomen)",
+      "icon": "ramen_straight"
+    }
   },
   {
     "id": 144,
@@ -13873,7 +13903,12 @@
         "name": "Calibre Medio Rizado",
         "icon": "ramen_wavy"
       }
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Ondulados Amarillos (Chijire-men)",
+      "icon": "ramen_wavy"
+    }
   },
   {
     "id": 145,
@@ -14081,7 +14116,12 @@
         "name": "Recto o Rizado Manual",
         "icon": "ramen_wavy"
       }
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Fideos con Kansui Artesanales",
+      "icon": "ramen_straight"
+    }
   },
   {
     "id": 147,
@@ -14554,7 +14594,12 @@
         "name": "Zaru Frío con Alga Nori",
         "icon": "soba"
       }
-    ]
+    ],
+    "pairing": {
+      "type": "FIDEO JAPONÉS",
+      "name": "Nihon Soba (Trigo Sarraceno)",
+      "icon": "soba"
+    }
   },
   {
     "id": 153,
@@ -18110,7 +18155,12 @@
       "Volcar el salteado de carne en la olla con el caldo hirviendo junto con los dos tercios restantes de fideos de arroz sin freír, la salsa de pescado y un toque de salsa de soja.",
       "Hervir a fuego suave durante 2 a 3 minutos hasta que los fideos estén tiernos.",
       "Servir la sopa bien caliente en cuencos profundos, coronada con el cilantro fresco picado y los fideos crujientes reservados."
-    ]
+    ],
+    "pairing": {
+      "type": "FIDEO DE ARROZ",
+      "name": "Sen Yai (Fideo Ancho de Arroz)",
+      "icon": "pho_noodles"
+    }
   },
   {
     "id": 188,
@@ -22411,7 +22461,12 @@
       "Incorporar las gambas y saltear sin dejar de remover durante 3 minutos. Añadir los ajos tiernos y los fideos escurridos, tapar el wok y cocinar durante 1 minuto.",
       "Agregar la salsa de pescado, el jugo de lima, el azúcar moreno y los huevos batidos. Remover bien con pinzas o dos cucharas de madera hasta que el huevo cuaje integrándose con los fideos y todo esté bien caliente.",
       "Esparcir por encima los brotes de mung, las hojas de cilantro fresco y el maní tostado troceado. Servir acompañado en cuencos aparte de cebolla frita, azúcar moreno y más maní picado para que cada comensal ajuste a su gusto."
-    ]
+    ],
+    "pairing": {
+      "type": "FIDEO DE ARROZ",
+      "name": "Fideo Plano Medio (Sen Lek)",
+      "icon": "pho_noodles"
+    }
   },
   {
     "id": 232,
@@ -23455,7 +23510,12 @@
         "name": "Tsuyu y Wasabi",
         "icon": "soba"
       }
-    ]
+    ],
+    "pairing": {
+      "type": "FIDEO JAPONÉS",
+      "name": "Ju-wari Soba (100% Sarraceno)",
+      "icon": "soba"
+    }
   },
   {
     "id": 244,
@@ -23630,7 +23690,12 @@
       "Calentar un poco de aceite en un wok o sartén grande de fondo grueso y saltear la carne marinada desgranándola bien hasta que esté dorada. Retirar la carne y reservar.",
       "En el mismo wok (agregando un hilo más de aceite si fuera necesario), saltear la cebolla y los pimientos verdes hasta que estén tiernos pero aún crujientes.",
       "Reincorporar la carne dorada al wok y sofreír unos minutos más. Añadir los fideos de soja hidratados y escurridos y verter el caldo de gallina caliente, cocinando y removiendo hasta que los fideos absorban todo el caldo sabroso y la carne quede adherida a las hebras."
-    ]
+    ],
+    "pairing": {
+      "type": "FIDEO DE VIDRIO",
+      "name": "Fensi (Fideos de Celofán de Mung)",
+      "icon": "glass_noodles"
+    }
   },
   {
     "id": 246,
@@ -36328,7 +36393,12 @@
         "name": "Clásico Tradicional de Tokio",
         "icon": "ramen_wavy"
       }
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Ondulados Medios (Tokyo Chugoku)",
+      "icon": "ramen_wavy"
+    }
   },
   {
     "id": 345,
@@ -36492,7 +36562,12 @@
         "name": "Para Caldo Shio Cristalino",
         "icon": "ramen_straight"
       }
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Medios Rectos (Hakodate Men)",
+      "icon": "ramen_straight"
+    }
   },
   {
     "id": 346,
@@ -36799,7 +36874,12 @@
         "name": "Baja Hidratación (26-28%)",
         "icon": "ramen_straight"
       }
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Finos y Firmes (Katakata)",
+      "icon": "ramen_straight"
+    }
   },
   {
     "id": 348,
@@ -36958,7 +37038,12 @@
         "name": "Hiyumori (Enfriado en Hielo)",
         "icon": "ramen_thick"
       }
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Extra Gruesos y Masticables (Futomen)",
+      "icon": "ramen_thick"
+    }
   },
   {
     "id": 349,
@@ -37127,7 +37212,12 @@
         "name": "Amarillo con Huevo",
         "icon": "ramen_wavy"
       }
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Gruesos y Ondulados (Miso Men)",
+      "icon": "ramen_wavy"
+    }
   },
   {
     "id": 350,
@@ -37301,7 +37391,12 @@
         "name": "Hosomen Fino y Recto",
         "icon": "ramen_straight"
       }
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Ondulados Clásicos (Chijire-men)",
+      "icon": "ramen_wavy"
+    }
   },
   {
     "id": 351,
@@ -37473,7 +37568,12 @@
         "name": "Suave para Caldo de Sal",
         "icon": "ramen_straight"
       }
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Finos y Rectos (Hosomen)",
+      "icon": "ramen_straight"
+    }
   },
   {
     "id": 352,
@@ -37618,7 +37718,12 @@
         "name": "Textura Firme y Elástica",
         "icon": "ramen_straight"
       }
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Ultrafinos y Rectos (Hakata)",
+      "icon": "ramen_straight"
+    }
   },
   {
     "id": 353,
@@ -37739,7 +37844,12 @@
       "Introducir los fideos gruesos de Champon directamente dentro de la sopa hirviendo en el wok.",
       "Cocinar durante 2 a 3 minutos para que los fideos absorban los jugos del marisco, la carne y el caldo por capilaridad.",
       "Servir todo en dos cuencos gigantes, asegurando que los mariscos y verduras queden coronando el plato de forma vistosa."
-    ]
+    ],
+    "pairing": {
+      "type": "FIDEO CHINESCO",
+      "name": "Fideos Gruesos para Champon",
+      "icon": "ramen_thick"
+    }
   },
   {
     "id": 354,
@@ -37863,7 +37973,12 @@
       "Añadir 380 ml de caldo caliente y mezclar.",
       "Incorporar los fideos anchos, colocar en el centro el montículo de espinacas blanqueadas y las lonchas de chashu.",
       "Clavar las 3 hojas grandes de nori erguidas contra la pared posterior del cuenco formando una corona."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Gruesos, Planos y Cortos (Iekei)",
+      "icon": "ramen_thick"
+    }
   },
   {
     "id": 355,
@@ -37993,7 +38108,12 @@
       "Disponer una base compacta de fideos fríos en dos platos hondos o fuentes llanas.",
       "Acomodar los ingredientes por encima en secciones radiales como rayos de una rueda de colores: pepino verde, tortilla de huevo amarilla, jamón rosado, tomate rojo y langostinos.",
       "Verter el aderezo frío sobre todo el plato, espolvorear con semillas de sésamo y colocar una nuez de mostaza Karashi en el borde del plato."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Ondulados Helados (Hiyashi)",
+      "icon": "ramen_wavy"
+    }
   },
   {
     "id": 356,
@@ -38114,7 +38234,12 @@
       "Depositar los fideos humeantes sobre la salsa en el tazón.",
       "Acomodar alrededor los dados de chashu, menma, verdeo y tiras de nori, colocando la yema de huevo cruda en el centro exacto.",
       "Servir de inmediato indicando el ritual: el comensal debe trazar dos círculos de vinagre y dos círculos de aceite Rayu por encima, y revolver enérgicamente durante 15 segundos con los palillos hasta que la yema y los aceites formen una salsa cremosa que embadurne cada fideo."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Gruesos y Elásticos (Abura Men)",
+      "icon": "ramen_thick"
+    }
   },
   {
     "id": 357,
@@ -38267,7 +38392,12 @@
       "Acomodar encima una porción generosa del sofrito de carne Nikumiso.",
       "Disponer las hojas verdes de Pak Choi a un costado, espolvorear con el verdeo picado y el maní tostado crujiente.",
       "Terminar con un chorrito final de aceite Rayu flotando en la superficie. Servir inmediatamente."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Medios y Rectos (Tantanmen)",
+      "icon": "ramen_straight"
+    }
   },
   {
     "id": 358,
@@ -38393,7 +38523,12 @@
       "Mezclar 35 ml de Shoyu Tare con 360 ml de caldo caliente en cada cuenco.",
       "Introducir los fideos arrugados.",
       "Colocar los brotes de menma y el verdeo en el centro, y acomodar de 5 a 6 láminas de Chashu en abanico concéntrico cubriendo por completo la superficie del cuenco sin dejar fideos a la vista. Servir humeante."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Aplanados y Muy Ondulados (Hirauchi)",
+      "icon": "ramen_wavy"
+    }
   },
   {
     "id": 359,
@@ -38500,7 +38635,12 @@
       "Disponer las espinacas tiernas bien escurridas en el centro y las lonchas de chashu al lado.",
       "Clavar las 3 hojas de nori en abanico erguidas en el borde del cuenco.",
       "Servir inmediatamente acompañado de un cuenco de arroz blanco con sésamo."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Gruesos y Cuadrados (Iekei Futomen)",
+      "icon": "ramen_thick"
+    }
   },
   {
     "id": 360,
@@ -38611,7 +38751,12 @@
       "Colocar el Shoyu tare y el aceite perfumado en los cuencos.",
       "Cocinar los fideos rizados durante 90 segundos y escurrir a conciencia.",
       "Verter el caldo ámbar en el tazón, colocar los fideos peinados y decorar con el chashu, menma, verdeo y dos rodajas de Narutomaki con su espiral rosada visible en el centro."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Medios y Ondulados Tradicionales",
+      "icon": "ramen_wavy"
+    }
   },
   {
     "id": 361,
@@ -38724,7 +38869,12 @@
       "Escurrir bien e introducir en el tazón con cuidado bajo la película de grasa.",
       "Acomodar el chashu, menma y una generosa porción de verdeo crudo.",
       "Servir de inmediato advirtiendo al comensal: parece tibio porque no humea, pero debajo de la capa grasa está a 95 °C."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Ondulados de Baja Hidratación",
+      "icon": "ramen_wavy"
+    }
   },
   {
     "id": 362,
@@ -38839,7 +38989,12 @@
         "name": "Atrapa la Grasa y el Miso",
         "icon": "ramen_wavy"
       }
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Amarillos Gruesos y Ondulados (Sapporo)",
+      "icon": "ramen_wavy"
+    }
   },
   {
     "id": 363,
@@ -38938,7 +39093,12 @@
       "Cortar grasa de cerdo en dados de 5 mm y freírlos en su propia manteca a fuego medio hasta que queden inflados, dorados y crujientes como chicharrones diminutos. Escurrir.",
       "Unir el tare con el caldo denso hirviendo en los tazones.",
       "Añadir los fideos rectos al dente y coronar con el chashu, mucho verdeo y espolvorear generosamente los cubitos crujientes Karikari por encima."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Finos y Firmes de Cerdo (Kurume)",
+      "icon": "ramen_straight"
+    }
   },
   {
     "id": 364,
@@ -39182,7 +39342,12 @@
       "Verter el caldo marino caliente sobre los fideos.",
       "Distribuir los langostinos, las almejas en su concha, los calamares y las vieiras de manera armónica en la superficie.",
       "Terminar con alga wakame fresca, verdeo picado y unas gotas de aceite aromático de langostino. Servir de inmediato."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Medios y Rectos de Marisco",
+      "icon": "ramen_straight"
+    }
   },
   {
     "id": 366,
@@ -39287,7 +39452,12 @@
       "Introducir los fideos finos al dente (50 segundos de hervor).",
       "Acomodar las lonchas finas de chashu y coronar en el centro con una pirámide generosa de cebollín Kujō Negi picado y un toque de chile Ichimi.",
       "Servir inmediatamente."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Medios y Rectos en Caldo Espeso",
+      "icon": "ramen_straight"
+    }
   },
   {
     "id": 367,
@@ -39400,7 +39570,12 @@
       "Escurrir enérgicamente sacudiendo el colador para retirar todo el líquido.",
       "Verter 35 ml de Shoyu tare en el tazón caliente, incorporar el caldo hirviendo y añadir los cubos de grasa tierna.",
       "Añadir los fideos planos y acomodar el chashu, menma crujiente y cebollín verde fresco. Servir humeante."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Planos y Ondulados de Onomichi",
+      "icon": "ramen_wavy"
+    }
   },
   {
     "id": 368,
@@ -39517,7 +39692,12 @@
       "Unir el caldo con el tare en el tazón caliente.",
       "Añadir los fideos y cubrir con el repollo blanqueado, brotes de soja y las lonchas tiernas de Kurobuta.",
       "Coronar con una lluvia de chips de ajo frito crujiente que aportará el aroma característico de Kagoshima."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Medios y Blancos de Kagoshima",
+      "icon": "ramen_straight"
+    }
   },
   {
     "id": 369,
@@ -39633,7 +39813,12 @@
       "Incorporar los fideos al tazón y disponer la panceta caramelizada alrededor.",
       "Añadir los brotes de soja y el verdeo, dejando un hueco central.",
       "Depositar con cuidado la yema de huevo cruda en el centro exacto. Servir de inmediato advirtiendo que el comensal rompa la yema sobre la carne para ligar la salsa."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Medios y Rectos para Yema",
+      "icon": "ramen_straight"
+    }
   },
   {
     "id": 370,
@@ -39731,7 +39916,12 @@
       "La soja tiñe la médula y la gelatina, logrando un caldo espeso de color café con leche y sabor profundo. Colar.",
       "Hervir los fideos finos durante 50 segundos y escurrir al vuelo.",
       "Verter el caldo caliente en el tazón, añadir los fideos y decorar con el chashu, verdeo y las rodajas de Kamaboko en forma de flor rosada en el centro. Servir inmediatamente."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Finos y Rectos de Wakayama",
+      "icon": "ramen_straight"
+    }
   },
   {
     "id": 371,
@@ -39832,7 +40022,12 @@
       "Cocinar los fideos finos rizados durante apenas 45 segundos en agua hirviendo y escurrir al instante.",
       "Servir el caldo aromático hirviendo directamente en los tazones.",
       "Introducir los fideos y decorar con chashu, menma y una generosa lluvia de verdeo fresco. Servir humeante."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Finos y Rizados de Takayama",
+      "icon": "ramen_wavy"
+    }
   },
   {
     "id": 372,
@@ -39950,7 +40145,12 @@
       "Cocinar los fideos durante 75 segundos, escurrir bien y colocarlos en el caldo.",
       "Colocar los brotes de soja y el ciboulette Nira fresco crudo sobre los fideos.",
       "Volcar encima toda la carne picada caliente con su aceite picante rojo: el calor de la carne cocinará ligeramente el ciboulette liberando su fragancia a cebollino. Servir inmediatamente."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Medios y Rectos Picantes",
+      "icon": "ramen_straight"
+    }
   },
   {
     "id": 373,
@@ -40049,7 +40249,12 @@
       "Hervir los fideos rectos durante 70 segundos, escurrir bien y acomodar en el centro.",
       "Rociar 1,5 cucharadas de aceite negro Mayu formando remolinos azabaches flotantes sobre la superficie blanca del caldo.",
       "Acomodar el chashu, el huevo Ajitsuke, las setas kikurage y espolvorear generosamente con las láminas crocantes de ajo frito dorado. Servir de inmediato."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Medios y Rectos con Ajo Negro",
+      "icon": "ramen_straight"
+    }
   },
   {
     "id": 374,
@@ -40148,7 +40353,12 @@
       "Escurrir sacudiendo con fuerza e introducir en los tazones.",
       "Verter el caldo sobre los fideos, acomodar las lonchas de chashu y volcar una montaña de 4 cucharadas de maíz dulce por tazón.",
       "Colocar el bloque de manteca fría justo encima del maíz; la manteca comenzará a fundirse lentamente impregnando cada bocado. Servir con cuchara perforada para el maíz."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Ondulados con Manteca y Choclo",
+      "icon": "ramen_wavy"
+    }
   },
   {
     "id": 375,
@@ -40261,7 +40471,12 @@
       "Colocar la tapa de barro sobre la cazuela y retirar del fuego con guantes térmicos.",
       "Llevar inmediatamente a la mesa apoyada sobre salvamanteles de madera mientras hierve con fuerza.",
       "El comensal retira la tapa descubriendo el vapor aromático; el huevo se habrá escalfado parcialmente. Se utiliza la tapa invertida como platillo para enfriar los fideos antes de comerlos."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Finos y Masticables en Cazuela",
+      "icon": "ramen_straight"
+    }
   },
   {
     "id": 376,
@@ -40362,7 +40577,12 @@
       "Escurrir y colocar en el caldo negro.",
       "Acomodar los trozos de chashu, el menma oscuro y el cebollín picado rústico.",
       "Cubrir toda la superficie con una lluvia generosa de pimienta negra recién molida: el picor aromático de la pimienta corta la salinidad de la soja creando una adicción culinaria única. Servir con arroz blanco."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Gruesos y Negros de Toyama",
+      "icon": "ramen_thick"
+    }
   },
   {
     "id": 377,
@@ -40473,7 +40693,12 @@
       "Cocinar los fideos durante 75 segundos, escurrir a conciencia y acomodarlos en el caldo.",
       "Acomodar el alga wakame, el verdeo picado y el kamaboko a un lado.",
       "Posar cuidadosamente dos piezas de tempura de langostino cruzando el tazón, apoyadas contra los bordes para que la mitad superior se mantenga crujiente y la inferior absorba el caldo. Servir inmediatamente."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Medios Ondulados para Tempura",
+      "icon": "ramen_wavy"
+    }
   },
   {
     "id": 378,
@@ -40688,7 +40913,12 @@
       "Cocinar los fideos durante 80 segundos, escurrir bien y acomodarlos en los cuencos.",
       "Verter la sopa caliente de kimchi y panceta sobre los fideos.",
       "Acomodar los dados de tofu sedoso fresco (que calman el ardor del picante), el huevo Ajitsuke y verdeo fresco picado. Servir de inmediato."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Medios Ondulados Picantes de Kimchi",
+      "icon": "ramen_wavy"
+    }
   },
   {
     "id": 380,
@@ -40789,7 +41019,12 @@
       "Hervir los fideos rectos medianos durante 65 segundos y escurrir al instante.",
       "Incorporar los fideos, decorar con chashu, kikurage y alga nori.",
       "Espolvorear con orgullo una generosa cucharada de las virutas crujientes de ajo frito sobre la superficie lechosa; al contacto con el caldo hirviendo, el ajo libera una nube de fragancia tostada envolvente. Servir inmediatamente."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Finos y Firmes de Tamana",
+      "icon": "ramen_straight"
+    }
   },
   {
     "id": 381,
@@ -40889,7 +41124,12 @@
       "Verter el caldo sobre el tare.",
       "Introducir los fideos y, con los palillos largos, peinarlos en un pliegue suave, continuo y armónico que cruce el cuenco de extremo a extremo sin fideos desordenados.",
       "Colocar únicamente los hilos de cebollín blanco si se desea y servir de inmediato para contemplar y degustar la esencia pura del ramen."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Medios Rectos para Caldo Dashi",
+      "icon": "ramen_straight"
+    }
   },
   {
     "id": 382,
@@ -40999,7 +41239,12 @@
       "Cocinar los fideos gruesos durante 2 minutos al dente y acomodar en los tazones.",
       "Verter la sopa negra hirviendo sobre los fideos.",
       "Añadir las hojas de repollo braseadas, el chashu sopleteado, el huevo Ajitsuke y verdeo fresco. Servir ardiendo."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Gruesos y Ondulados de Miso Quemado",
+      "icon": "ramen_wavy"
+    }
   },
   {
     "id": 383,
@@ -41108,7 +41353,12 @@
       "Verter la espesa sopa de curry hirviendo sobre los fideos cubriéndolos por completo.",
       "Acomodar el chashu, brotes de soja, alga wakame y verdeo picado.",
       "Servir inmediatamente con el cuenco de arroz blanco: al terminar los fideos, se vuelca el arroz dentro de la sopa sobrante para disfrutar de un arroz al curry celestial."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Ondulados Amarillos para Curry",
+      "icon": "ramen_wavy"
+    }
   },
   {
     "id": 384,
@@ -41215,7 +41465,12 @@
       "Cocinar los fideos durante 90 segundos y escurrir.",
       "Calentar los cubos de papa cocida dentro del caldo de curry para que absorban su sabor especiado.",
       "Disponer los fideos en los tazones, verter el caldo dorado con las papas tiernas y zanahorias, y decorar con el chashu, el huevo y verdeo fresco. Servir humeante."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Ondulados de Trigo de Hokkaido",
+      "icon": "ramen_wavy"
+    }
   },
   {
     "id": 385,
@@ -41332,7 +41587,12 @@
       "Cocinar los fideos de alta hidratación durante 2 minutos; escurrir con sacudidas suaves para no romper el nervio.",
       "En los tazones calientes, verter el tare ligero y el caldo hirviendo de Agodashi.",
       "Introducir los fideos peinados, colocar encima las láminas de chashu, menma, verdeo y depositar con suprema delicadeza 4 wontons etéreos por cuenco flotando sobre el caldo. Servir inmediatamente."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Medios Ondulados Caseros de Sakata",
+      "icon": "ramen_wavy"
+    }
   },
   {
     "id": 386,
@@ -41454,7 +41714,12 @@
       "Trasladar los fideos cocidos al centro del caldo cremoso con la ayuda de unas pinzas o palillos.",
       "Decorar encima con el verdeo picado fresco, espolvorear las semillas de sésamo blanco tostado y rociar un hilo de aceite de chile Rayu para contrastar la cremosidad láctea.",
       "Clavar la lámina de nori en el lateral del cuenco y disfrutar de inmediato bien caliente."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Ondulados Instantáneos Salteados",
+      "icon": "ramen_wavy"
+    }
   },
   {
     "id": 387,
@@ -41704,7 +41969,12 @@
       "Servir los fideos y el caldo brillante de manteca en un tazón hondo.",
       "Acomodar encima las mitades del huevo con yema cremosa, el maíz dulce y el verdeo fresco.",
       "Espolvorear con los chips de ajo crocante reservados y terminar con abundante pimienta negra recién molida. Servir bien caliente."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Ondulados con Ajo Tostado",
+      "icon": "ramen_wavy"
+    }
   },
   {
     "id": 389,
@@ -42222,7 +42492,12 @@
       "Reincorporar la carne y los bastones de verdeo.",
       "Con pinzas o palillos, levantar y voltear continuamente los fideos a fuego máximo durante 1 a 2 minutos hasta que absorban la salsa y se doren en la base del metal.",
       "Rociar con el aceite de sésamo tostado, dar un último golpe de salteado y servir de inmediato."
-    ]
+    ],
+    "pairing": {
+      "type": "FIDEO AL HUEVO",
+      "name": "Fideo Chino Salteado al Wok",
+      "icon": "chow_mein"
+    }
   },
   {
     "id": 392,
@@ -59122,7 +59397,12 @@
       "Verter 350 ml de caldo hirviendo y mezclar con palillos para emulsionar la base.",
       "Incorporar los fideos doblándolos cuidadosamente con los palillos en forma de trenza.",
       "Disponer encima dos láminas de panceta chashu tibia, un huevo ajitsuke cortado al medio revelando la yema dorada fundente, una porción de menma, abundante cebollín verde picado y clavar una lámina de alga nori contra el lateral del tazón. Servir de inmediato."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Finos y Masticables Caseros",
+      "icon": "ramen_straight"
+    }
   },
   {
     "id": 532,
@@ -59258,7 +59538,12 @@
       "Añadir el shoyu tare al fondo de cada tazón caliente.",
       "Hervir los fideos de ramen durante 90 segundos al dente, escurrir enérgicamente y verter en los tazones sobre el caldo hirviendo.",
       "Disponer encima el mondongo glaseado en su salsa oscura, las albóndigas tiernas, medio huevo marinado, cebollino fresco y un hilo de aceite rayu picante."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Gruesos y Masticables (Futomen)",
+      "icon": "ramen_thick"
+    }
   },
   {
     "id": 533,
@@ -59383,7 +59668,12 @@
       "Cocinar los fideos de ramen en agua hirviendo durante 1 minuto; escurrir con fuerza.",
       "En cada cuenco caliente colocar una cucharada de aceite aromatizado con jengibre y verter el caldo paitan lechoso bien caliente.",
       "Integrar los fideos, acomodar encima las rodajas de pollo, el chayote, las hojas verdes tiernas y finalizar con cebollino fresco y pimienta negra."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Medios y Ondulados de Pollo",
+      "icon": "ramen_wavy"
+    }
   },
   {
     "id": 534,
@@ -59506,7 +59796,12 @@
       "Freír en aceite a 175 °C durante 4 a 5 minutos hasta que la corteza esté dorada y ultra crujiente. Escurrir sobre rejilla metálica.",
       "Cocinar los fideos soba en abundante agua hirviendo sin sal durante 4 minutos; enfriar en agua con hielo para tensar el gluten y luego templar con un toque de agua tibia.",
       "Servir los fideos en los cuencos bañados en dashi tsuyu tibio, acomodar los bocados crujientes a los lados y coronar en el centro con la yema curada, sésamo, cebollino y nori."
-    ]
+    ],
+    "pairing": {
+      "type": "FIDEO JAPONÉS",
+      "name": "Soba Frío en Bowl",
+      "icon": "soba"
+    }
   },
   {
     "id": 535,
@@ -59632,7 +59927,12 @@
       "En la misma sartén dorar los hongos frescos con la manteca y sazonar con sal y pimienta.",
       "Añadir en cada tazón una cucharadita de reducción de soja con unas gotas de coñac y verter el consomé hirviendo.",
       "Incorporar los fideos cocidos al dente y acomodar armónicamente las lonchas de magret, las setas salteadas, el cebollino francés y unos berros frescos."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Medios y Rectos para Caldo de Pato",
+      "icon": "ramen_straight"
+    }
   },
   {
     "id": 536,
@@ -59765,7 +60065,12 @@
       "Cocinar los fideos de ramen durante 90 segundos; escurrir y distribuir en los cuencos.",
       "Bañar los fideos con el caldo Tom Yum colado y bien caliente.",
       "Disponer encima dos langostinos en tempura crujiente apoyados en el borde para que no se humedezcan de inmediato, acompañando con cilantro fresco y rodajas de chile."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Ondulados para Caldo Tom Yum",
+      "icon": "ramen_wavy"
+    }
   },
   {
     "id": 537,
@@ -59896,7 +60201,12 @@
       "Cocinar los fideos de ramen al dente y verterlos en tazones hondos precalentados.",
       "Bañar generosamente con la sopa svíčková aterciopelada y humeante.",
       "Disponer las rodajas de lomo mechado en el borde superior, las rebanadas de ambos tipos de knedlíky en los laterales y colocar en el centro exacto la 'diana': la rodaja de limón con una cucharada de arándanos rojos y crema batida."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Gruesos y Masticables para Svíčková",
+      "icon": "ramen_thick"
+    }
   },
   {
     "id": 538,
@@ -60026,7 +60336,12 @@
         "name": "Aburaage (Tofu Frito Dulce)",
         "icon": "udon"
       }
-    ]
+    ],
+    "pairing": {
+      "type": "FIDEO JAPONÉS",
+      "name": "Sanuki Udon Grueso",
+      "icon": "udon"
+    }
   },
   {
     "id": 539,
@@ -65256,7 +65571,12 @@
       "Verter por encima abundante consomé de birria hirviendo hasta cubrir los fideos.",
       "Distribuir en la superficie: una generosa porción de carne desmechada a un costado, dos rodajas de chashu de panceta caramelizada, dos mitades de huevo con yema cremosa en el centro, y coronar con cilantro fresco, cebollita picada, rodajas de rábano, jalapeño toreado y un gajo de lima en el borde.",
       "Servir de inmediato bien caliente, exprimiendo la lima sobre el caldo antes de comer con palillos y cuchara sopera."
-    ]
+    ],
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Ondulados de Trigo para Consomé",
+      "icon": "ramen_wavy"
+    }
   },
   {
     "id": 582,
@@ -66014,7 +66334,12 @@
       "Agregar por encima los cubos esponjosos de gluten cocido al vapor y abundante pepino fresco en juliana.",
       "Rociar generosamente con el agua de ajo, el vinagre negro de Chinkiang, la salsa de soja, el aceite de sésamo y una buena cucharada de aceite de chile rojo.",
       "Espolvorear con semillas de sésamo tostado y mezclar con palillos antes de degustar fríos."
-    ]
+    ],
+    "pairing": {
+      "type": "CINTAS AL VAPOR",
+      "name": "Liangpi (Cintas Elásticas de Trigo)",
+      "icon": "biang_biang"
+    }
   },
   {
     "id": 588,
@@ -66239,7 +66564,12 @@
       "Bañar los fideos calientes con la densa salsa de sésamo y el aceite de chile rojo.",
       "Coronar con los vegetales encurtidos picantes picados, abundante cebollita de verdeo fresca y semillas de sésamo.",
       "Mezclar enérgicamente con los palillos en la mesa durante 30 segundos hasta que cada hebra de fideo quede completamente recubierta por la crema de sésamo y disfrutar caliente."
-    ]
+    ],
+    "pairing": {
+      "type": "FIDEO AL ÁLCALI",
+      "name": "Fideo de Trigo con Sésamo",
+      "icon": "chow_mein"
+    }
   },
   {
     "id": 590,
@@ -66359,7 +66689,12 @@
       "Hervir los fideos de trigo en agua abundante durante 3 minutos hasta que estén al dente. Escurrir inmediatamente sin enjuagar en agua fría.",
       "Volcar los fideos calientes directamente en los tazones. Añadir 2 o 3 cucharadas del aceite de soja reducido por tazón y mezclar enérgicamente con palillos hasta que cada fideo quede oscuro y laqueado.",
       "Coronar con las hebras crujientes de cebolleta frita y servir de inmediato."
-    ]
+    ],
+    "pairing": {
+      "type": "FIDEO DE TRIGO",
+      "name": "Fideo Fino Chino para Aceite",
+      "icon": "chow_mein"
+    }
   },
   {
     "id": 591,
@@ -67312,7 +67647,12 @@
         ]
       }
     ],
-    "original_title": "Ramen Lord Taught Me How to Make Tokyo Shoyu Ramen - Alex French Guy Cooking"
+    "original_title": "Ramen Lord Taught Me How to Make Tokyo Shoyu Ramen - Alex French Guy Cooking",
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Medios de Alta Hidratación (Ramen Lord)",
+      "icon": "ramen_straight"
+    }
   },
   {
     "id": 599,
@@ -67435,7 +67775,12 @@
         ]
       }
     ],
-    "original_title": "Ivan Orkin Legendary Shio Ramen with Double Soup - Alex French Guy Cooking"
+    "original_title": "Ivan Orkin Legendary Shio Ramen with Double Soup - Alex French Guy Cooking",
+    "pairing": {
+      "type": "RAMEN NOODLE",
+      "name": "Finos con Centeno Tostado (Ivan Orkin)",
+      "icon": "ramen_straight"
+    }
   },
   {
     "id": 600,
@@ -68797,7 +69142,12 @@
         "name": "Dashi Caliente de Bonito Seco",
         "icon": "soba"
       }
-    ]
+    ],
+    "pairing": {
+      "type": "FIDEO JAPONÉS",
+      "name": "Kake Soba en Caldo Dashi",
+      "icon": "soba"
+    }
   },
   {
     "id": 611,
@@ -69662,7 +70012,12 @@
       "Añade las tiras de pechuga de pollo, el azúcar, la salsa de soja y la salsa de pescado. Vierte el caldo de pollo caliente al gusto para lograr la consistencia untuosa deseada. Deja cocinar a hervor suave durante 5 a 7 minutos hasta que el pollo esté tierno y bien cocido.",
       "Vierte el curry hirviendo con los trozos de pollo sobre los fideos en los tazones. Corona con la cebolla de verdeo, el cilantro fresco y un nido abundante de fideos fritos crujientes por encima.",
       "Sirve inmediatamente acompañado con el platillo de condimentos al lado (col encurtida, chalotas moradas, chile frito y jugo de lima recién exprimido)."
-    ]
+    ],
+    "pairing": {
+      "type": "FIDEO AL HUEVO",
+      "name": "Fideos de Huevo Frescos y Fritos",
+      "icon": "chow_mein"
+    }
   },
   {
     "id": 617,
@@ -69780,7 +70135,12 @@
       "Lleva a ebullición rápida y baja el fuego de inmediato a mínimo; deja cocinar a fuego lento durante 5 minutos para que los sabores se ensamblen armoniosamente.",
       "Incorpora los fideos udon cocidos en los últimos 2 minutos de cocción para que se calienten por completo en el caldo aromático.",
       "Para servir: distribuye la sopa humeante con los fideos y el pollo en cuatro tazones hondos. Rocía media cucharadita de aceite de sésamo sobre cada cuenco, reparte los dados de palta fresca por encima y acompaña con un cuarto de lima fresca para exprimir al momento de comer."
-    ]
+    ],
+    "pairing": {
+      "type": "FIDEO JAPONÉS",
+      "name": "Udon Grueso en Caldo Picante",
+      "icon": "udon"
+    }
   },
   {
     "id": 618,
@@ -70064,7 +70424,12 @@
       "Para el tempura: retira la cabeza de los langostinos, pela la cáscara dejando la colita, retira la vena negra y realiza pequeñas incisiones transversales en el vientre para que queden rectos al freír. Corta los vegetales en rodajas homogéneas.",
       "Enharina ligeramente los langostinos y vegetales. Pásalos por el rebozado de tempura frío (sin sobrebatir) y fríelos en aceite a 175-180 °C hasta que adquieran un dorado pálido y crocantez etérea (unos 2 minutos). Escurre sobre papel absorbente.",
       "Para servir en caliente: recalienta los fideos soba 15 segundos en agua caliente, colócalos en tazones hondos, vierte el caldo tsuyu hirviendo y acomoda el tempura crujiente por encima con negi picado. Para servir en frío: sirve los fideos sobre una bandeja de madera (seiro), el tempura al lado en un plato y el caldo tsuyu frío en vaso (choko) con daikon y jengibre rallado."
-    ]
+    ],
+    "pairing": {
+      "type": "FIDEO JAPONÉS",
+      "name": "Soba Caliente con Tempura",
+      "icon": "soba"
+    }
   },
   {
     "id": 620,
@@ -70179,7 +70544,12 @@
       "En un cuenco pequeño mezcla la salsa de ostras, la pasta de chile, el azúcar y la salsa de soja; vierte la salsa sobre los spaghetti en la sartén y saltea 30 segundos más para glasear cada fideo uniformemente.",
       "Apaga el fuego, incorpora inmediatamente las hojas frescas de albahaca tailandesa y revuelve para que se marchiten con el calor residual liberando todo su perfume anisado.",
       "Sirve caliente de inmediato en platos amplios, acompañado con las rebanadas de pan crujiente con ajo."
-    ]
+    ],
+    "pairing": {
+      "type": "FIDEO ANCHO DE ARROZ",
+      "name": "Sen Yai (Fideos Anchos de Arroz)",
+      "icon": "pho_noodles"
+    }
   },
   {
     "id": 621,
@@ -70303,7 +70673,12 @@
         "name": "Dashi de Iriko y Alga Kombu",
         "icon": "udon"
       }
-    ]
+    ],
+    "pairing": {
+      "type": "FIDEO JAPONÉS",
+      "name": "Sanuki Udon Grueso Artesanal",
+      "icon": "udon"
+    }
   },
   {
     "id": 622,
@@ -70419,7 +70794,12 @@
       "Añade la salsa de pescado y la salsa de ostras; mezcla suavemente para amalgamar los sabores.",
       "Incorpora las tiras finas de hojas de lima kaffir justo al apagar el fuego.",
       "Sirve caliente de inmediato en fuentes o cuencos amplios, decorando con hojas frescas de cilantro y albahaca."
-    ]
+    ],
+    "pairing": {
+      "type": "FIDEO DE VIDRIO",
+      "name": "Wun Sen (Fideo de Celofán)",
+      "icon": "glass_noodles"
+    }
   },
   {
     "id": 623,
@@ -73609,7 +73989,12 @@
       "1 pizca de pimienta blanca molida",
       "1 cucharadita de aceite de sésamo tostado",
       "1 cucharada de semillas de sésamo tostado"
-    ]
+    ],
+    "pairing": {
+      "type": "FIDEO DE TRIGO",
+      "name": "Fideo Fino Chino para Aceite",
+      "icon": "chow_mein"
+    }
   },
   {
     "id": 678,
@@ -91936,7 +92321,12 @@
       "Verté el caldo hirviendo a borbotones directamente sobre la carne para cocinarla al instante dejándola rosada y ultra tierna.",
       "Serví con un plato al centro con brotes de soja crujientes, albahaca tailandesa, menta fresca, rodajas de chile y cuartos de lima."
     ],
-    "notes": "Blanquear y lavar los huesos antes de iniciar el caldo es el paso técnico irremplazable: elimina sangre coagulada e impurezas garantizando un caldo transparente y fragante como en los puestos de Hanói."
+    "notes": "Blanquear y lavar los huesos antes de iniciar el caldo es el paso técnico irremplazable: elimina sangre coagulada e impurezas garantizando un caldo transparente y fragante como en los puestos de Hanói.",
+    "pairing": {
+      "type": "FIDEO DE ARROZ",
+      "name": "Bánh Phở (Fideo Plano de Arroz)",
+      "icon": "pho_noodles"
+    }
   },
   {
     "id": 868,
@@ -93124,7 +93514,12 @@
       "Agregar un cucharón del agua de cocción hirviendo rica en almidón y revolver enérgicamente para crear una emulsión sedosa que una el aceite y el queso.",
       "Volcar la pasta recién escurrida, mantecar durante 1 minuto hasta que cada fideo quede forrado en una capa verde brillante y servir decorando con pistachos picados crocantes."
     ],
-    "notes": "El secreto supremo de este pesto reside en no calentar jamás la salsa en sartén al fuego: el calor directo quema los aceites aromáticos del pistacho y corta el queso; la emulsión debe lograrse únicamente con el calor residual de la pasta y su agua de cocción rica en almidón."
+    "notes": "El secreto supremo de este pesto reside en no calentar jamás la salsa en sartén al fuego: el calor directo quema los aceites aromáticos del pistacho y corta el queso; la emulsión debe lograrse únicamente con el calor residual de la pasta y su agua de cocción rica en almidón.",
+    "pairing": {
+      "type": "PASTA CORTA O LARGA",
+      "name": "Trofie, Busiate o Spaghetti",
+      "icon": "spaghetti"
+    }
   },
   {
     "id": 879,
@@ -93248,7 +93643,12 @@
       "Colocar el pesto alla calabrese directamente en una fuente tibia amplia (sin cocinar en sartén).",
       "Verter la pasta recién escurrida junto a medio cucharón del agua caliente de la cocción y mezclar enérgicamente con cuchara de madera para que la ricotta se emulsione fundiéndose en los surcos de la pasta."
     ],
-    "notes": "El equilibrio auténtico de Calabria radica en escurrir meticulosamente tanto los pimientos asados como la ricotta antes de procesar: la salsa debe ser densa y con cuerpo untuoso, no aguada, permitiendo que el picante del peperoncino se perciba con calidez aterciopelada sin abrumar."
+    "notes": "El equilibrio auténtico de Calabria radica en escurrir meticulosamente tanto los pimientos asados como la ricotta antes de procesar: la salsa debe ser densa y con cuerpo untuoso, no aguada, permitiendo que el picante del peperoncino se perciba con calidez aterciopelada sin abrumar.",
+    "pairing": {
+      "type": "PASTA CORTA",
+      "name": "Penne Rigate o Fusilli",
+      "icon": "penne"
+    }
   },
   {
     "id": 880,
@@ -93365,7 +93765,12 @@
       "Para servir con pasta, diluir tres cucharadas de pesto rosso en un cuenco tibio con dos cucharadas de agua de cocción de la pasta.",
       "Añadir la pasta recién sacada de la olla, mantecar con movimientos envolventes y servir decorando con lascas finas de queso y hojas frescas de albahaca."
     ],
-    "notes": "El secreto de la textura del pesto rosso consiste en reservar una porción de avellanas tostadas para agregarlas picadas a cuchillo al final: ese contraste crujiente rompe la untuosidad densa del tomate concentrado y el queso curado."
+    "notes": "El secreto de la textura del pesto rosso consiste en reservar una porción de avellanas tostadas para agregarlas picadas a cuchillo al final: ese contraste crujiente rompe la untuosidad densa del tomate concentrado y el queso curado.",
+    "pairing": {
+      "type": "PASTA CORTA",
+      "name": "Casarecce, Penne o Fusilli",
+      "icon": "fusilli"
+    }
   },
   {
     "id": 881,
@@ -93480,6 +93885,11 @@
       "Al momento de emplatar, diluir el pesto en un cuenco tibio con un cucharón del agua de cocción de la pasta rica en almidón.",
       "Volcar la pasta recién escurrida (cocida al dente), mantecar durante 1 minuto fuera del fuego directo y servir con nueces tostadas partidas por encima."
     ],
-    "notes": "El secreto para que la rúcula conserve su frescura y no desarrolle un amargor excesivo es secar completamente las hojas tras el lavado y procesar a baja temperatura con pulsos cortos, evitando que las cuchillas metálicas se calienten."
+    "notes": "El secreto para que la rúcula conserve su frescura y no desarrolle un amargor excesivo es secar completamente las hojas tras el lavado y procesar a baja temperatura con pulsos cortos, evitando que las cuchillas metálicas se calienten.",
+    "pairing": {
+      "type": "PASTA CORTA",
+      "name": "Fusilli, Garganelli o Gnocchi",
+      "icon": "fusilli"
+    }
   }
 ]
