@@ -91218,7 +91218,21 @@
       "Hacé un corte horizontal con cuchilla afilada en la parte más gruesa del lazo y espolvoreá con sal gruesa.",
       "Horneá a 210 °C durante 14 a 16 minutos hasta que tomen un color marrón castaño brillante y corteza crocante."
     ],
-    "notes": "Enfriar los brezels modelados en frío antes de sumergirlos en el baño de bicarbonato evita que se deformen y permite que el corte central se abra de forma limpia durante el horneado."
+    "notes": "Enfriar los brezels modelados en frío antes de sumergirlos en el baño de bicarbonato evita que se deformen y permite que el corte central se abra de forma limpia durante el horneado.",
+    "pairings": [
+      {
+        "type": "PASTA LARGA",
+        "name": "Trenette / Linguine",
+        "icon": "linguine",
+        "detail": "El clásico maridaje genovés con aceite emulsionado"
+      },
+      {
+        "type": "PASTA CORTA",
+        "name": "Trofie Liguri",
+        "icon": "fusilli",
+        "detail": "Masa trenzada artesanal que atrapa el pesto"
+      }
+    ]
   },
   {
     "id": 863,
@@ -92174,7 +92188,21 @@
       "Fuera del fuego, sumá unas gotas de jugo de limón para equilibrar la grasa, un chorrito final de coñac crudo, sal y una pizca de MSG al gusto.",
       "Serví salseando sobre el corte de carne caliente y coroná con ciboulette fresco picado."
     ],
-    "notes": "El secreto molecular de esta salsa radica en el colágeno hidrolizado del demi-glace, que actúa como emulsionante proteico natural impidiendo que la crema se corte o separe al combinarse con los ácidos del coñac y el limón. El flameado rápido elimina el etanol áspero conservando intactas las notas de madera y uva del destilado."
+    "notes": "El secreto molecular de esta salsa radica en el colágeno hidrolizado del demi-glace, que actúa como emulsionante proteico natural impidiendo que la crema se corte o separe al combinarse con los ácidos del coñac y el limón. El flameado rápido elimina el etanol áspero conservando intactas las notas de madera y uva del destilado.",
+    "pairings": [
+      {
+        "type": "CARNES ROJAS",
+        "name": "Entrecot / Bife a la Pimienta",
+        "icon": "carne",
+        "detail": "Contraste picante del grano verde con la grasa"
+      },
+      {
+        "type": "HAMBURGUESA",
+        "name": "Hamburguesa a la Pimienta",
+        "icon": "burger",
+        "detail": "Emulsión sedosa flambeada al coñac"
+      }
+    ]
   },
   {
     "id": 873,
@@ -92272,7 +92300,21 @@
       "Llevá la salsa colada a fuego mínimo, sazoná con sal y una pizca de MSG, y apagá el fuego.",
       "Incorporá los cubos de manteca helada uno a uno batiendo en círculos constantes con un batidor de alambre hasta lograr una salsa oscura espejada, untuosa y brillante."
     ],
-    "notes": "El principio molecular del 'monter au beurre' requiere que la manteca esté helada y el fuego completamente apagado: la diferencia térmica y el movimiento continuo del batidor fuerzan a los glóbulos grasos a dispersarse en la base ácida reducida de vino y colágeno sin fundirse en aceite libre, creando una emulsión coloidal de brillo espejado insuperable."
+    "notes": "El principio molecular del 'monter au beurre' requiere que la manteca esté helada y el fuego completamente apagado: la diferencia térmica y el movimiento continuo del batidor fuerzan a los glóbulos grasos a dispersarse en la base ácida reducida de vino y colágeno sin fundirse en aceite libre, creando una emulsión coloidal de brillo espejado insuperable.",
+    "pairings": [
+      {
+        "type": "CARNES ROJAS",
+        "name": "Picaña / Bife Asado",
+        "icon": "carne",
+        "detail": "Notas licorosas y ácidas que cortan la grasa"
+      },
+      {
+        "type": "PASTA TUBULAR",
+        "name": "Bucatini / Rigatoni",
+        "icon": "bucatini",
+        "detail": "Reducción densa para pastas con cuerpo"
+      }
+    ]
   },
   {
     "id": 874,
@@ -92370,7 +92412,21 @@
       "Opcional para montaje inmediato: fuera del fuego, incorporá los cubitos de manteca helada batiendo vigorosamente para lograr un brillo lustroso espejado.",
       "Dejá enfriar a temperatura ambiente: debido a la altísima concentración de colágeno, gelificará en un bloque sólido y tembloroso que podés racionar en cubos y congelar durante meses para enriquecer salsas, risottos y carnes."
     ],
-    "notes": "El principio molecular de la demi-glace es la concentración por evaporación de agua sin desnaturalizar las proteínas de colágeno: a medida que el agua se evapora, la viscosidad cinemática aumenta exponencialmente y la gelatina forma una red polimérica que atrapa los compuestos aromáticos de Maillard. Al enfriarse por debajo de los 15 °C se transforma en un gel termorreversible que se funde instantáneamente al contacto con el calor."
+    "notes": "El principio molecular de la demi-glace es la concentración por evaporación de agua sin desnaturalizar las proteínas de colágeno: a medida que el agua se evapora, la viscosidad cinemática aumenta exponencialmente y la gelatina forma una red polimérica que atrapa los compuestos aromáticos de Maillard. Al enfriarse por debajo de los 15 °C se transforma en un gel termorreversible que se funde instantáneamente al contacto con el calor.",
+    "pairings": [
+      {
+        "type": "CARNES ROJAS",
+        "name": "Bife de Chorizo / Ojo de Bife",
+        "icon": "carne",
+        "detail": "Napado con brillo espejo sobre el corte sellado"
+      },
+      {
+        "type": "HAMBURGUESA",
+        "name": "Smash Burger Gourmet",
+        "icon": "burger",
+        "detail": "Glaseado profundo de umami cárnico"
+      }
+    ]
   },
   {
     "id": 875,
@@ -92461,7 +92517,21 @@
       "Incorporar los cubos de manteca fría y procesar de inmediato con la licuadora de inmersión a máxima velocidad para crear una emulsión micelar estable con brillo de espejo que no se corta.",
       "Ajustar con sal marina fina y servir caliente napando la carne con una cuchara de metal."
     ],
-    "notes": "El secreto científico de la demi-glace molecular radica en la eliminación del almidón de trigo (roux clásico), que absorbe los compuestos volátiles aromáticos y apaga el impacto umami. La goma xantana al 0.12% aporta pseudoplasticidad (la salsa fluye con ligereza al verterla pero se sostiene adherida a la carne en el plato sin derramarse), mientras que la gelatina funde exactamente a 37 °C dentro de la boca liberando una sensación aterciopelada insuperable."
+    "notes": "El secreto científico de la demi-glace molecular radica en la eliminación del almidón de trigo (roux clásico), que absorbe los compuestos volátiles aromáticos y apaga el impacto umami. La goma xantana al 0.12% aporta pseudoplasticidad (la salsa fluye con ligereza al verterla pero se sostiene adherida a la carne en el plato sin derramarse), mientras que la gelatina funde exactamente a 37 °C dentro de la boca liberando una sensación aterciopelada insuperable.",
+    "pairings": [
+      {
+        "type": "CARNES ROJAS",
+        "name": "Lomo / Medallones de Res",
+        "icon": "carne",
+        "detail": "Adherencia coloidal perfecta que no escurre"
+      },
+      {
+        "type": "HAMBURGUESA",
+        "name": "Brioche Burger de Autor",
+        "icon": "burger",
+        "detail": "Reducción micelar con brillo de espejo"
+      }
+    ]
   },
   {
     "id": 876,
@@ -92673,5 +92743,364 @@
       "Acomodar las papas chips doradas y crujientes en abanico alrededor de todo el plato abrazando el tartar y servir de inmediato."
     ],
     "notes": "La genialidad organoléptica de usar grasa de panceta fundida en lugar de aceite radica en el perfil lipídico del cerdo ahumado: a 35 °C está líquida pero con cuerpo, abrigando las partículas magras del lomo y aportando una profundidad ahumada exquisita. El acompañamiento de papas chips caseras aporta el contrapunto crujiente perfecto: actúan como cucharas naturales para levantar el tartar sedoso. El secreto de las chips reside en cortar bien fino (1 mm), lavar en agua fría para eliminar el almidón y secar completamente antes de sumergir en el aceite caliente."
+  },
+  {
+    "id": 878,
+    "title": "Pesto di Pistacchi di Bronte (Italia)",
+    "country": "Italia",
+    "category": "Salsas",
+    "tags": [
+      "Italia",
+      "Sicilia",
+      "Bronte",
+      "Pesto",
+      "Pistacho",
+      "Pecorino",
+      "Albahaca",
+      "Pasta Corta",
+      "Casarecce",
+      "Oro Verde"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "5 min (tostado suave)",
+    "servings": "4 porciones (aprox. 300 g de salsa)",
+    "calories": "380 kcal por porción",
+    "image": "https://lh3.googleusercontent.com/-M0buYmth5mI/awhpBYJmvYI/AAAAAAAQDwc/hTyaF5B9Sxwf6Da6BZVr2K5AcasbgQCdACNcBGAsYHQ/s1600/pesto_pistacchi_bronte.jpg",
+    "diet_badges": [
+      "Salsas",
+      "Vegetariano",
+      "Sin Gluten",
+      "Origen Tradicional"
+    ],
+    "story": "Cultivado en las empinadas laderas de roca volcánica del Monte Etna, el pistacchio verde di Bronte es venerado en toda la península itálica como el oro verde siciliano. Este pesto ancestral prescinde por completo de los piñones de Liguria para enaltecer la mineralidad y el dulzor resinoso del fruto seco molido en mortero de piedra con hojas frescas de albahaca y queso pecorino curado en las granjas insulares.",
+    "pairings": [
+      {
+        "type": "PASTA CORTA",
+        "name": "Casarecce / Trofie",
+        "icon": "fusilli",
+        "detail": "La hendidura de la pasta abraza la granilla de pistacho"
+      },
+      {
+        "type": "PASTA LARGA",
+        "name": "Linguine al Dente",
+        "icon": "linguine",
+        "detail": "La cinta elíptica se embadurna en el aceite emulsionado"
+      },
+      {
+        "type": "PASTA CON AGUJERO",
+        "name": "Bucatini",
+        "icon": "bucatini",
+        "detail": "La salsa untuosa recubre el exterior y el tubo"
+      }
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Base de Pistachos y Aromáticos Sicilianos",
+        "ingredients": [
+          "200 g de pistachos pelados crudos (preferentemente de Bronte o de calidad sin sal)",
+          "20 g de hojas frescas de albahaca tierna lavadas y bien secas",
+          "1/2 diente de ajo pequeño sin el germen central",
+          "50 g de queso Pecorino Siciliano (o Parmigiano Reggiano) recién rallado fino",
+          "100 ml de aceite de oliva virgen extra de perfil suave y afrutado",
+          "1 pizca de sal marina gruesa"
+        ]
+      },
+      {
+        "name": "Terminación y Emulsión en Sartén",
+        "ingredients": [
+          "1 cucharón del agua de cocción almidonada de la pasta (fundamental para la crema)",
+          "2 cucharadas de pistachos picados gruesos para coronar el plato"
+        ]
+      }
+    ],
+    "ingredients": [
+      "200 g de pistachos pelados crudos sin sal",
+      "20 g de hojas frescas de albahaca tierna bien secas",
+      "1/2 diente de ajo pequeño sin germen",
+      "50 g de queso Pecorino Siciliano o Parmigiano rallado fino",
+      "100 ml de aceite de oliva virgen extra suave",
+      "1 pizca de sal marina gruesa",
+      "1 cucharón de agua de cocción almidonada de la pasta",
+      "2 cucharadas de pistachos picados gruesos para coronar"
+    ],
+    "step_groups": [
+      {
+        "name": "1. Escaldado y Tostado Aromático",
+        "steps": [
+          "Sumergir los pistachos en agua hirviendo durante apenas 60 segundos y pasarlos inmediatamente a un cuenco con agua helada; frotarlos con un paño limpio para retirar con facilidad la piel violácea y resaltar su color verde esmeralda radiante.",
+          "Tostar los pistachos limpios en una sartén seca a fuego muy suave durante 3 minutos, moviéndolos constantemente para despertar sus aceites esenciales sin dorarlos ni quemarlos; dejar enfriar por completo."
+        ]
+      },
+      {
+        "name": "2. Majado al Mortero o Pulsado Frío",
+        "steps": [
+          "En un mortero grande de piedra (o procesador de alimentos con cuchillas frías), colocar el medio diente de ajo y los granos de sal marina gruesa, machacando hasta formar una pasta translúcida.",
+          "Incorporar las hojas de albahaca y machacar con movimientos circulares contra las paredes del mortero para liberar su clorofila sin oxidarla.",
+          "Agregar los pistachos tostados fríos y triturar enérgicamente hasta lograr una textura granulada rústica (tipo arenilla gruesa crujiente, jamás una papilla lisa).",
+          "Incorporar el queso Pecorino rallado y verter el aceite de oliva virgen extra en un hilo continuo mientras emulsionás suavemente con la mano de mortero."
+        ]
+      },
+      {
+        "name": "3. Mantecatura de la Pasta",
+        "steps": [
+          "Al momento de servir la pasta (cocida estrictamente al dente), colocar el pesto en un cuenco amplio o sartén tibia fuera del fuego directo.",
+          "Agregar un cucharón del agua de cocción hirviendo rica en almidón y revolver enérgicamente para crear una emulsión sedosa que una el aceite y el queso.",
+          "Volcar la pasta recién escurrida, mantecar durante 1 minuto hasta que cada fideo quede forrado en una capa verde brillante y servir decorando con pistachos picados crocantes."
+        ]
+      }
+    ],
+    "steps": [
+      "Sumergir los pistachos en agua hirviendo durante apenas 60 segundos y pasarlos inmediatamente a un cuenco con agua helada; frotarlos con un paño limpio para retirar con facilidad la piel violácea y resaltar su color verde esmeralda radiante.",
+      "Tostar los pistachos limpios en una sartén seca a fuego muy suave durante 3 minutos, moviéndolos constantemente para despertar sus aceites esenciales sin dorarlos ni quemarlos; dejar enfriar por completo.",
+      "En un mortero grande de piedra (o procesador de alimentos con cuchillas frías), colocar el medio diente de ajo y los granos de sal marina gruesa, machacando hasta formar una pasta translúcida.",
+      "Incorporar las hojas de albahaca y machacar con movimientos circulares contra las paredes del mortero para liberar su clorofila sin oxidarla.",
+      "Agregar los pistachos tostados fríos y triturar enérgicamente hasta lograr una textura granulada rústica (tipo arenilla gruesa crujiente, jamás una papilla lisa).",
+      "Incorporar el queso Pecorino rallado y verter el aceite de oliva virgen extra en un hilo continuo mientras emulsionás suavemente con la mano de mortero.",
+      "Al momento de servir la pasta (cocida estrictamente al dente), colocar el pesto en un cuenco amplio o sartén tibia fuera del fuego directo.",
+      "Agregar un cucharón del agua de cocción hirviendo rica en almidón y revolver enérgicamente para crear una emulsión sedosa que una el aceite y el queso.",
+      "Volcar la pasta recién escurrida, mantecar durante 1 minuto hasta que cada fideo quede forrado en una capa verde brillante y servir decorando con pistachos picados crocantes."
+    ],
+    "notes": "El secreto supremo de este pesto reside en no calentar jamás la salsa en sartén al fuego: el calor directo quema los aceites aromáticos del pistacho y corta el queso; la emulsión debe lograrse únicamente con el calor residual de la pasta y su agua de cocción rica en almidón."
+  },
+  {
+    "id": 879,
+    "title": "Pesto alla Calabrese (Italia)",
+    "country": "Italia",
+    "category": "Salsas",
+    "tags": [
+      "Italia",
+      "Calabria",
+      "Pesto",
+      "Morrones Asados",
+      "Ricotta",
+      "Peperoncino",
+      "Pecorino",
+      "Pasta Corta",
+      "Rigatoni",
+      "Picante"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "25 min (asado de morrones)",
+    "servings": "6 porciones (aprox. 450 g de salsa)",
+    "calories": "310 kcal por porción",
+    "image": "https://lh3.googleusercontent.com/-hbQbpdJxq2E/awhpCuPrKsI/AAAAAAAQDwk/P_kDbWammAkVl5c2u7Hz5ngtypIxuKrQQCNcBGAsYHQ/s1600/pesto_alla_calabrese.jpg",
+    "diet_badges": [
+      "Salsas",
+      "Vegetariano",
+      "Sin Gluten",
+      "Picante Medio"
+    ],
+    "story": "Nacido en la agreste geografía de Calabria, en el extremo sur de la bota italiana, este pesto encarna el carácter apasionado de la cocina mediterránea rural. A diferencia de las salsas norteñas de albahaca, aquí el alma del plato es el pimiento rojo asado lentamente sobre brasas o al horno, suavizado por la untuosidad láctica de la ricotta fresca de oveja y encendido por el picante estimulante del peperoncino calabrés.",
+    "pairings": [
+      {
+        "type": "PASTA CORTA",
+        "name": "Rigatoni / Penne Rigate",
+        "icon": "rigatoni",
+        "detail": "Las estrías exteriores retienen la densidad de la crema"
+      },
+      {
+        "type": "PASTA ESPIRAL",
+        "name": "Fusilli / Cavatappi",
+        "icon": "fusilli",
+        "detail": "El tirabuzón se impregna del sabor dulce y ahumado"
+      },
+      {
+        "type": "PASTA CON AGUJERO",
+        "name": "Bucatini al Dente",
+        "icon": "bucatini",
+        "detail": "La crema penetra en el interior del fideo"
+      }
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Pimientos Asados y Base Picante",
+        "ingredients": [
+          "2 morrones rojos grandes maduros y carnosos",
+          "1 diente de ajo pequeño pelado",
+          "1 ají peperoncino fresco o seco picado fino (o 1 cucharadita de pasta de peperoncino calabrés)",
+          "15 hojas de albahaca fresca",
+          "1 cucharada de concentrado de tomate dulce"
+        ]
+      },
+      {
+        "name": "Cremado y Quesos del Sur",
+        "ingredients": [
+          "200 g de queso ricotta fresca de vaca o cabra bien escurrida",
+          "60 g de queso Pecorino Romano recién rallado fino",
+          "40 g de Parmigiano Reggiano rallado",
+          "80 ml de aceite de oliva virgen extra frutado",
+          "Sal marina fina y pimienta negra recién molida a gusto"
+        ]
+      }
+    ],
+    "ingredients": [
+      "2 morrones rojos grandes carnosos",
+      "1 diente de ajo pequeño",
+      "1 ají peperoncino calabrés picado",
+      "15 hojas de albahaca fresca",
+      "1 cucharada de concentrado de tomate",
+      "200 g de ricotta fresca bien escurrida",
+      "60 g de queso Pecorino Romano rallado",
+      "40 g de Parmigiano Reggiano rallado",
+      "80 ml de aceite de oliva virgen extra",
+      "Sal marina fina y pimienta negra a gusto"
+    ],
+    "step_groups": [
+      {
+        "name": "1. Asado y Pelado de los Pimientos",
+        "steps": [
+          "Disponer los morrones enteros sobre una placa para horno a 220 °C (o directamente sobre la llama de la hornalla) y asar durante 25 a 30 minutos girándolos periódicamente hasta que la piel exterior esté completamente negra y ampollada.",
+          "Retirar los morrones y colocarlos de inmediato dentro de una bolsa o recipiente tapado durante 10 minutos para que el vapor afloje la piel.",
+          "Pelar los morrones con las manos retirando toda la piel quemada, las semillas y las nervaduras interiores blancas; escurrir el exceso de líquido con papel absorbente."
+        ]
+      },
+      {
+        "name": "2. Triturado y Emulsión Cremosa",
+        "steps": [
+          "Colocar en el vaso de la procesadora la pulpa limpia de los morrones asados, el ajo, el peperoncino calabrés, las hojas de albahaca y el concentrado de tomate.",
+          "Procesar en pulsos cortos hasta obtener una textura rústica semi-líquida.",
+          "Agregar la ricotta fresca escurrida, el Pecorino y el Parmigiano, vertiendo el aceite de oliva virgen extra en hilo continuo mientras procesás a baja velocidad hasta obtener una crema coral espesa, homogénea y aterciopelada.",
+          "Probar y ajustar con sal marina fina y pimienta negra molida al momento."
+        ]
+      },
+      {
+        "name": "3. Ligado con la Pasta",
+        "steps": [
+          "Hervir pasta corta estriada en abundante agua con sal.",
+          "Colocar el pesto alla calabrese directamente en una fuente tibia amplia (sin cocinar en sartén).",
+          "Verter la pasta recién escurrida junto a medio cucharón del agua caliente de la cocción y mezclar enérgicamente con cuchara de madera para que la ricotta se emulsione fundiéndose en los surcos de la pasta."
+        ]
+      }
+    ],
+    "steps": [
+      "Disponer los morrones enteros sobre una placa para horno a 220 °C (o directamente sobre la llama de la hornalla) y asar durante 25 a 30 minutos girándolos periódicamente hasta que la piel exterior esté completamente negra y ampollada.",
+      "Retirar los morrones y colocarlos de inmediato dentro de una bolsa o recipiente tapado durante 10 minutos para que el vapor afloje la piel.",
+      "Pelar los morrones con las manos retirando toda la piel quemada, las semillas y las nervaduras interiores blancas; escurrir el exceso de líquido con papel absorbente.",
+      "Colocar en el vaso de la procesadora la pulpa limpia de los morrones asados, el ajo, el peperoncino calabrés, las hojas de albahaca y el concentrado de tomate.",
+      "Procesar en pulsos cortos hasta obtener una textura rústica semi-líquida.",
+      "Agregar la ricotta fresca escurrida, el Pecorino y el Parmigiano, vertiendo el aceite de oliva virgen extra en hilo continuo mientras procesás a baja velocidad hasta obtener una crema coral espesa, homogénea y aterciopelada.",
+      "Probar y ajustar con sal marina fina y pimienta negra molida al momento.",
+      "Hervir pasta corta estriada en abundante agua con sal.",
+      "Colocar el pesto alla calabrese directamente en una fuente tibia amplia (sin cocinar en sartén).",
+      "Verter la pasta recién escurrida junto a medio cucharón del agua caliente de la cocción y mezclar enérgicamente con cuchara de madera para que la ricotta se emulsione fundiéndose en los surcos de la pasta."
+    ],
+    "notes": "El equilibrio auténtico de Calabria radica en escurrir meticulosamente tanto los pimientos asados como la ricotta antes de procesar: la salsa debe ser densa y con cuerpo untuoso, no aguada, permitiendo que el picante del peperoncino se perciba con calidez aterciopelada sin abrumar."
+  },
+  {
+    "id": 880,
+    "title": "Pesto Rosso de Tomates Secos y Avellanas (Italia)",
+    "country": "Italia",
+    "category": "Salsas",
+    "tags": [
+      "Italia",
+      "Sicilia",
+      "Pesto Rosso",
+      "Tomates Secos",
+      "Avellanas",
+      "Parmigiano",
+      "Albahaca",
+      "Pasta Larga",
+      "Tagliatelle",
+      "Ravioles"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "5 min (tostado de avellanas)",
+    "servings": "6 porciones (aprox. 350 g de salsa)",
+    "calories": "395 kcal por porción",
+    "image": "https://lh3.googleusercontent.com/-MY8YqyTFowg/awhpDlHR3QI/AAAAAAAQDws/djxxjEYSIBkw9pJCOfBjkBg0hYVS0aFFQCNcBGAsYHQ/s1600/pesto_rosso_avellanas.jpg",
+    "diet_badges": [
+      "Salsas",
+      "Vegetariano",
+      "Sin Gluten",
+      "Origen Tradicional"
+    ],
+    "story": "El pesto rosso, conocido en los pueblos de Sicilia como pesto alla trapanese o salsa rossa campesina, surgió del mestizaje entre los marineros genoveses que arribaban al puerto y la riqueza hortícola del sur italiano. Al reemplazar los caros piñones por las avellanas tostadas y la albahaca verde por la concentración dulce y ácida de los tomates secados al sol estival, nació esta salsa espesa y vivaz que aromatiza tanto pastas campesinas como panes rústicos recién horneados.",
+    "pairings": [
+      {
+        "type": "PASTA LARGA",
+        "name": "Tagliatelle / Fettuccine",
+        "icon": "tagliatelle",
+        "detail": "La cinta al huevo se impregna del aceite rojizo aromático"
+      },
+      {
+        "type": "PASTA RELLENA",
+        "name": "Ravioles de Ricotta / Cappelletti",
+        "icon": "ravioli",
+        "detail": "El tomate seco realza el dulzor láctico del relleno"
+      },
+      {
+        "type": "PASTA CORTA",
+        "name": "Penne Rigate",
+        "icon": "penne",
+        "detail": "Los tropezones de avellana se alojan en el interior"
+      }
+    ],
+    "ingredient_groups": [
+      {
+        "name": "Tomates Secos y Frutos Tostados",
+        "ingredients": [
+          "150 g de tomates secos hidratados en aceite de oliva (o rehidratados en agua tibia y escurridos)",
+          "80 g de avellanas tostadas peladas (tipo Piamonte)",
+          "1 diente de ajo pequeño confitado o sin germen",
+          "15 g de hojas tiernas de albahaca fresca"
+        ]
+      },
+      {
+        "name": "Ligado y Quesos Curados",
+        "ingredients": [
+          "60 g de queso Parmigiano Reggiano recién rallado",
+          "30 g de queso Pecorino Romano rallado",
+          "120 ml de aceite de oliva virgen extra de alta gama",
+          "1 pizca de pimentón dulce o peperoncino suave (opcional)",
+          "Sal marina gruesa a gusto"
+        ]
+      }
+    ],
+    "ingredients": [
+      "150 g de tomates secos hidratados en aceite",
+      "80 g de avellanas tostadas peladas",
+      "1 diente de ajo pequeño sin germen",
+      "15 g de hojas de albahaca fresca",
+      "60 g de Parmigiano Reggiano rallado",
+      "30 g de Pecorino Romano rallado",
+      "120 ml de aceite de oliva virgen extra",
+      "1 pizca de sal marina gruesa"
+    ],
+    "step_groups": [
+      {
+        "name": "1. Preparación de Ingredientes y Tostado",
+        "steps": [
+          "Tostar las avellanas en una sartén a fuego medio durante 4 minutos hasta que desprendan su fragancia tostada y la fina piel restante se desprenda con facilidad; frotar con un repasador y picar la mitad a cuchillo reservándola para el final.",
+          "Picar los tomates secos rehidratados en trozos medianos para facilitar un triturado parejo."
+        ]
+      },
+      {
+        "name": "2. Triturado Rústico a la Piedra",
+        "steps": [
+          "En el vaso del procesador o mortero, incorporar el ajo, las hojas de albahaca y la mitad entera de las avellanas tostadas junto con la pizca de sal marina, procesando en pulsos cortos.",
+          "Sumar los tomates secos picados y continuar pulsando hasta lograr una pasta espesa de color rojo terracota con tropezones visibles.",
+          "Incorporar los quesos Parmigiano y Pecorino rallados, vertiendo el aceite de oliva virgen extra en hilo lento mientras mezclás a velocidad baja para que emulsione sin recalentarse.",
+          "Integrar al final las avellanas picadas a cuchillo para garantizar un bocado crocante inconfundible."
+        ]
+      },
+      {
+        "name": "3. Servicio con Pastas o Bruschettas",
+        "steps": [
+          "Para servir con pasta, diluir tres cucharadas de pesto rosso en un cuenco tibio con dos cucharadas de agua de cocción de la pasta.",
+          "Añadir la pasta recién sacada de la olla, mantecar con movimientos envolventes y servir decorando con lascas finas de queso y hojas frescas de albahaca."
+        ]
+      }
+    ],
+    "steps": [
+      "Tostar las avellanas en una sartén a fuego medio durante 4 minutos hasta que desprendan su fragancia tostada y la fina piel restante se desprenda con facilidad; frotar con un repasador y picar la mitad a cuchillo reservándola para el final.",
+      "Picar los tomates secos rehidratados en trozos medianos para facilitar un triturado parejo.",
+      "En el vaso del procesador o mortero, incorporar el ajo, las hojas de albahaca y la mitad entera de las avellanas tostadas junto con la pizca de sal marina, procesando en pulsos cortos.",
+      "Sumar los tomates secos picados y continuar pulsando hasta lograr una pasta espesa de color rojo terracota con tropezones visibles.",
+      "Incorporar los quesos Parmigiano y Pecorino rallados, vertiendo el aceite de oliva virgen extra en hilo lento mientras mezclás a velocidad baja para que emulsione sin recalentarse.",
+      "Integrar al final las avellanas picadas a cuchillo para garantizar un bocado crocante inconfundible.",
+      "Para servir con pasta, diluir tres cucharadas de pesto rosso en un cuenco tibio con dos cucharadas de agua de cocción de la pasta.",
+      "Añadir la pasta recién sacada de la olla, mantecar con movimientos envolventes y servir decorando con lascas finas de queso y hojas frescas de albahaca."
+    ],
+    "notes": "El secreto de la textura del pesto rosso consiste en reservar una porción de avellanas tostadas para agregarlas picadas a cuchillo al final: ese contraste crujiente rompe la untuosidad densa del tomate concentrado y el queso curado."
   }
 ]
