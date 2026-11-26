@@ -94156,5 +94156,130 @@
       "name": "Fusilli, Garganelli o Gnocchi",
       "icon": "fusilli"
     }
+  },
+  {
+    "id": 882,
+    "title": "Cavatelli con Salsiccia e Cime di Rapa (Italia)",
+    "category": "Pastas",
+    "country": "Italia",
+    "difficulty": "Media",
+    "prep_time": "45 min",
+    "cook_time": "20 min",
+    "total_time": "1 h 5 min",
+    "servings": "4 porciones",
+    "calories": "540 kcal por porción",
+    "image": "https://lh3.googleusercontent.com/-AbRMXX291CQ/awikpxezL-I/AAAAAAAQDx0/UsqXO6iM5kUwTUcnKcoS7HW0vMHvY-N6wCNcBGAsYHQ/s1600/cavatelli_con_salsiccia_e_cime_di_rapa.jpg",
+    "diet_badges": [
+      "Pastas",
+      "Carne",
+      "Origen Tradicional",
+      "Cocina Campesina"
+    ],
+    "pairing": {
+      "type": "PASTA DE SÉMOLA ARTESANAL",
+      "name": "Cavatelli Molisani Ahuecados",
+      "icon": "cavatelli"
+    },
+    "story": "Nacido en las zonas rurales de Puglia y Molise, este plato representa el corazón de la cocina campesina del sur italiano, donde la escasez histórica agudizó el ingenio gastronómico popular. Los cavatelli, una de las pastas manuales más antiguas de la península, surgieron durante el reinado de Federico II en el siglo XIII como un alimento austero de sémola y agua. Su unión con las cime di rapa y la carne de cerdo responde a la tradición del otoño e invierno meridional, cuando la huerta invernal coincidía con los cortes frescos de la matanza rural.",
+    "ingredient_groups": [
+      {
+        "name": "Masa Artesanal de Cavatelli",
+        "ingredients": [
+          "400 g de sémola de trigo duro rimacinata (semola di grano duro)",
+          "200 ml de agua tibia",
+          "1 pizca de sal fina"
+        ]
+      },
+      {
+        "name": "Salchicha de Campo y Vegetales",
+        "ingredients": [
+          "350 g de salchicha de cerdo fresca de campo con semillas de hinojo (sin piel y desmenuzada)",
+          "500 g de cime di rapa frescas (grelos o brócoli rabe, limpios)",
+          "3 dientes de ajo pelados y cortados en láminas finas",
+          "1 peperoncino rojo fresco (o seco) picado fino",
+          "4 cucharadas de aceite de oliva virgen extra"
+        ]
+      },
+      {
+        "name": "Mantecado y Terminación",
+        "ingredients": [
+          "50 g de queso Pecorino de campo (o Canestrato Pugliese) rallado fino",
+          "Sal marina gruesa para el agua de cocción",
+          "Pimienta negra recién molida"
+        ]
+      }
+    ],
+    "ingredients": [
+      "400 g de sémola de trigo duro rimacinata (semola di grano duro)",
+      "200 ml de agua tibia",
+      "1 pizca de sal fina",
+      "350 g de salchicha de cerdo fresca de campo con semillas de hinojo (sin piel y desmenuzada)",
+      "500 g de cime di rapa frescas (grelos o brócoli rabe, limpios)",
+      "3 dientes de ajo pelados y cortados en láminas finas",
+      "1 peperoncino rojo fresco (o seco) picado fino",
+      "4 cucharadas de aceite de oliva virgen extra",
+      "50 g de queso Pecorino de campo (o Canestrato Pugliese) rallado fino",
+      "Sal marina gruesa para el agua de cocción",
+      "Pimienta negra recién molida"
+    ],
+    "step_groups": [
+      {
+        "name": "Formado de los Cavatelli",
+        "steps": [
+          "Colocá la sémola en forma de corona sobre la mesada de madera, agregá la pizca de sal y verté el agua tibia en el centro poco a poco.",
+          "Integrá la harina de adentro hacia afuera y amasá enérgicamente durante 10 minutos hasta lograr un bollo liso, homogéneo y firme. Envolvelo en film y dejalo reposar 30 minutos a temperatura ambiente.",
+          "Cortá porciones de masa y estiralas haciendo rodar cordones finos del grosor de un dedo (aprox. 8 mm). Cortá trocitos de 1,5 cm de largo.",
+          "Apoyá las yemas de dos o tres dedos (o la punta redondeada de un cuchillo) sobre cada trozo y arrastralo con presión firme hacia vos sobre la tabla, dejando que la masa se curve y forme una canoa alargada y ahuecada. Espolvorealos con sémola sobre una bandeja limpia."
+        ]
+      },
+      {
+        "name": "Blanqueado de Cime di Rapa y Dorado de Salchicha",
+        "steps": [
+          "Lavá las cime di rapa, descartá los tallos leñosos más duros y conservá las hojas tiernas y los cogollos florales.",
+          "Llevá a hervor una olla grande con abundante agua y sal marina gruesa. Sumergí las cime di rapa durante 3 a 4 minutos hasta que estén tiernas pero de un verde esmeralda brillante. Retiralas con espumadera y reservá el agua hirviendo en la olla para la pasta.",
+          "En una sartén grande y profunda, calentá el aceite de oliva a fuego medio-alto y salteá la salchicha desmenuzada en trozos rústicos durante 6 a 8 minutos, hasta que quede bien dorada y crocante.",
+          "Incorporá las láminas de ajo y el peperoncino picado. Cociná durante 1 minuto sin que el ajo se queme. Añadí las cime di rapa escurridas y troceadas groseramente, salteando todo junto durante 3 minutos para amalgamar los sabores."
+        ]
+      },
+      {
+        "name": "Cocción y Mantecado al Sartén",
+        "steps": [
+          "Echá los cavatelli frescos directamente en la olla con el agua hirviendo donde blanqueaste las verduras. Cocinalos durante 4 a 5 minutos (flotarán en la superficie cuando estén al dente).",
+          "Con una espumadera, pasá los cavatelli directamente a la sartén con la salchicha y las verduras, junto con un cucharón abundante del agua de cocción rica en almidón vegetal.",
+          "Salteá a fuego vivo durante 2 minutos haciendo movimientos envolventes para que el almidón y el aceite de oliva formen una emulsión cremosa que se meta dentro de la cavidad de cada cavatello.",
+          "Apagá el fuego, agregá un hilo extra de aceite de oliva crudo y la mitad del queso Pecorino rallado. Mezclá con vigor y serví de inmediato en platos hondos con el resto del Pecorino y pimienta negra recién molida."
+        ]
+      }
+    ],
+    "steps": [
+      "Colocá la sémola en forma de corona sobre la mesada de madera, agregá la pizca de sal y verté el agua tibia en el centro poco a poco.",
+      "Integrá la harina de adentro hacia afuera y amasá enérgicamente durante 10 minutos hasta lograr un bollo liso, homogéneo y firme. Envolvelo en film y dejalo reposar 30 minutos a temperatura ambiente.",
+      "Cortá porciones de masa y estiralas haciendo rodar cordones finos del grosor de un dedo (aprox. 8 mm). Cortá trocitos de 1,5 cm de largo.",
+      "Apoyá las yemas de dos o tres dedos (o la punta redondeada de un cuchillo) sobre cada trozo y arrastralo con presión firme hacia vos sobre la tabla, dejando que la masa se curve y forme una canoa alargada y ahuecada. Espolvorealos con sémola sobre una bandeja limpia.",
+      "Lavá las cime di rapa, descartá los tallos leñosos más duros y conservá las hojas tiernas y los cogollos florales.",
+      "Llevá a hervor una olla grande con abundante agua y sal marina gruesa. Sumergí las cime di rapa durante 3 a 4 minutos hasta que estén tiernas pero de un verde esmeralda brillante. Retiralas con espumadera y reservá el agua hirviendo en la olla para la pasta.",
+      "En una sartén grande y profunda, calentá el aceite de oliva a fuego medio-alto y salteá la salchicha desmenuzada en trozos rústicos durante 6 a 8 minutos, hasta que quede bien dorada y crocante.",
+      "Incorporá las láminas de ajo y el peperoncino picado. Cociná durante 1 minuto sin que el ajo se queme. Añadí las cime di rapa escurridas y troceadas groseramente, salteando todo junto durante 3 minutos para amalgamar los sabores.",
+      "Echá los cavatelli frescos directamente en la olla con el agua hirviendo donde blanqueaste las verduras. Cocinalos durante 4 a 5 minutos (flotarán en la superficie cuando estén al dente).",
+      "Con una espumadera, pasá los cavatelli directamente a la sartén con la salchicha y las verduras, junto con un cucharón abundante del agua de cocción rica en almidón vegetal.",
+      "Salteá a fuego vivo durante 2 minutos haciendo movimientos envolventes para que el almidón y el aceite de oliva formen una emulsión cremosa que se meta dentro de la cavidad de cada cavatello.",
+      "Apagá el fuego, agregá un hilo extra de aceite de oliva crudo y la mitad del queso Pecorino rallado. Mezclá con vigor y serví de inmediato en platos hondos con el resto del Pecorino y pimienta negra recién molida."
+    ],
+    "notes": "El secreto del sur: nunca tires el agua donde blanqueaste las cime di rapa; hervir los cavatelli en ese mismo caldo verde impregna la pasta de sémola con un sabor vegetal sutil y aporta el almidón perfecto para lograr la emulsión sedosa final en la sartén sin necesidad de crema ni manteca.",
+    "tags": [
+      "cavatelli",
+      "salsiccia",
+      "cime di rapa",
+      "grelos",
+      "brocoli rabe",
+      "pasta casera",
+      "cocina italiana",
+      "puglia",
+      "molise",
+      "pecorino",
+      "receta tradicional",
+      "paso a paso",
+      "pasta fresca"
+    ]
   }
 ]
