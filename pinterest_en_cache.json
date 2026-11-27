@@ -8782,5 +8782,105 @@
       "1 pinch of fine salt",
       "350 g fresh country pork sausage with fennel seeds (skinned and crumbled)"
     ]
+  },
+  "883": {
+    "title_en": "Ragù alla Bolognese (Italy)",
+    "hook_en": "Officially deposited on October 17, 1982 before the Chamber of Commerce of Bologna by the Emilian delegation of the Accademia Italiana della Cucina, the f...",
+    "ingredients_en": [
+      "400 g of coarsely chopped lean beef (skirt cut, chuck or roast beef)",
+      "150 g cured pork belly (pancetta arrotolata or tesa, chopped into tiny cubes)",
+      "60 g of golden onion chopped in very fine brunoise",
+      "60 g fresh carrot, peeled and chopped into very fine brunoise"
+    ]
+  },
+  "884": {
+    "title_en": "Salsa alla Gricia (Italy)",
+    "hook_en": "Considered the mother of Roman cuisine and the starting point from which Amatriciana and Carbonara were born centuries later, Gricia has its roots in the...",
+    "ingredients_en": [
+      "250 g of authentic cured pork guanciale (cut into 1 cm thick sticks)",
+      "1 tablespoon whole black peppercorns, toasted and crushed in a mortar",
+      "120 g of Pecorino Romano DOP cheese, very finely grated at the moment",
+      "Starchy pasta cooking water (approx. 150 ml)"
+    ]
+  },
+  "885": {
+    "title_en": "Salsa alla Norma (Italy)",
+    "hook_en": "Consecrated as the culinary standard of the city of Catania, at the foot of the Etna volcano, this sauce owes its illustrious name to the playwright Nino Martoglio, ...",
+    "ingredients_en": [
+      "2 medium black eggplants (cut into 2 cm cubes or batons)",
+      "Rich extra virgin olive oil for frying",
+      "Coarse salt to purge bitterness",
+      "800 g peeled San Marzano tomatoes, crushed by hand"
+    ]
+  },
+  "886": {
+    "title_en": "Salsa alla Genovese (Italy)",
+    "hook_en": "Despite its puzzling name, Genovese does not belong to Liguria but to the oldest alleys of Naples, where it has been documented since the 15th century.",
+    "ingredients_en": [
+      "800 g of beef to stew (turtle, shoulder or leg cut)",
+      "50 g of cured bacon or lard",
+      "1.5 kg copper onions, finely julienned",
+      "1 medium carrot in fine brunoise"
+    ]
+  },
+  "887": {
+    "title_en": "Salsa all'Arrabbiata (Italy)",
+    "hook_en": "Born in the popular trattorias of Rome in the first decades of the 20th century, this sauce owes its name to the intense blush and heat it provokes in those who...",
+    "ingredients_en": [
+      "4 cloves of fresh garlic, peeled and cut into thin slices",
+      "2 to 3 dried peperoncino peppers, chopped (or 2 fresh, cut into slices)",
+      "5 tablespoons of good quality extra virgin olive oil",
+      "600 g peeled San Marzano tomatoes, crushed by hand with their juices"
+    ]
+  },
+  "888": {
+    "title_en": "Salsa di Noci (Italy)",
+    "hook_en": "Documented in the Seafaring Republic of Genoa since the time of the Crusades, walnut sauce is the great white treasure of Ligurian cuisine along with pe...",
+    "ingredients_en": [
+      "200 g peeled walnuts (without bitter skin)",
+      "50 g of rustic white bread crumbs from the previous day",
+      "100 ml warm whole milk",
+      "1/2 small clove of garlic without the germ"
+    ]
+  },
+  "889": {
+    "title_en": "Salsa alle Vongole (Italy)",
+    "hook_en": "Universal symbol of seafront lunches on the Gulf of Naples and the Amalfi Coast, clam sauce embodies the marine purity of Campanian cuisine.",
+    "ingredients_en": [
+      "1 kg of fresh live clams in their shell (variety veraci or lupini)",
+      "Water with coarse salt (to purge sand)",
+      "3 large cloves of garlic, thinly sliced ​​",
+      "1 fresh peperoncino pepper, sliced"
+    ]
+  },
+  "890": {
+    "title_en": "Salsa ai Quattro Formaggi (Italy)",
+    "hook_en": "Born in the Alpine valleys of Piedmont, Lombardy and the Aosta Valley, this preparation represents the peasant ingenuity of mountain homemade products to unite...",
+    "ingredients_en": [
+      "80 g of DOP sweet Gorgonzola cheese, cubed",
+      "80 g of Fontina cheese from Aosta Valley DOP, diced",
+      "80 g Taleggio DOP cheese, diced",
+      "60 g finely grated Parmigiano Reggiano DOP cheese"
+    ]
+  },
+  "891": {
+    "title_en": "Salsa alla Vodka (Italy)",
+    "hook_en": "Gastronomic phenomenon of the 1970s with claims of shared paternity between the Dante restaurant in Bologna and the Manhattan trattorias frequented...",
+    "ingredients_en": [
+      "120 g cured pancetta in small cubes",
+      "1 shallot or small white onion in fine brunoise",
+      "2 whole cloves of garlic, crushed",
+      "1 pinch of dried red pepperoncino"
+    ]
+  },
+  "892": {
+    "title_en": "Slata Tounsiya (Tunisia)",
+    "hook_en": "Emblematic dish of North African summers and undisputed symbol of the everyday identity of Tunisia, Slata Tounsiya was born from horticultural abundance ...",
+    "ingredients_en": [
+      "4 ripe and firm plum or round tomatoes, seeded",
+      "2 medium cucumbers, peeled and seeded",
+      "2 green peppers (or sweet Tunisian chili peppers)",
+      "1 medium red or sweet onion"
+    ]
   }
 }

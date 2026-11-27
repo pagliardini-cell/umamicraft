@@ -95232,5 +95232,247 @@
       "receta tradicional",
       "paso a paso"
     ]
+  },
+  {
+    "id": 892,
+    "title": "Slata Tounsiya (Túnez)",
+    "country": "Túnez",
+    "category": "Ensaladas",
+    "tags": [
+      "Túnez",
+      "Slata Tounsiya",
+      "Ensalada Tunecina",
+      "Atún",
+      "Menta Seca",
+      "Ensaladas",
+      "Cocina Mediterránea",
+      "Magreb"
+    ],
+    "prep_time": "20 min",
+    "cook_time": "10 min",
+    "rest_time": "15 min de reposo en frío",
+    "total_time": "30 min",
+    "temperature": "Fresco o ambiente",
+    "servings": "4 porciones",
+    "calories": "260 kcal por porción",
+    "difficulty": "Baja",
+    "diet_badges": [
+      "Sin Gluten",
+      "Sin Lácteos",
+      "Mediterránea",
+      "Rico en Proteínas"
+    ],
+    "image": "https://lh3.googleusercontent.com/-RQOwDl5DLXA/awmPcm3B2oI/AAAAAAAQD0I/w1P-HnhwyPAlVHMjOjinGF4sTJ5LDVaQACNcBGAsYHQ/s1600/slata_tounsiya.jpg",
+    "story": "Plato emblemático de los veranos norteafricanos y símbolo indiscutido de la identidad cotidiana de Túnez, la Slata Tounsiya nació de la abundancia hortícola de los valles fértiles del norte y de la península de Cap Bon. Enraizada en los intercambios andalusíes y otomanos en el Magreb, esta ensalada combina la frescura de los vegetales de huerta finamente labrados con la tradición atunera milenaria de las almadrabas de Sidi Daoud y el aroma agreste de la menta silvestre. En mi mesa es la ensalada de referencia cuando el calor pide frescura pura, crocancia y carácter mediterráneo.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Vegetales Frescos",
+        "ingredients": [
+          "4 tomates perita o redondos maduros y firmes, despepitados",
+          "2 pepinos medianos, pelados y sin semillas",
+          "2 pimientos verdes (o ajíes dulces tunecinos)",
+          "1 cebolla morada o dulce mediana",
+          "1/2 manzana verde ácida (Granny Smith, opcional tradicional para sumar crocancia)"
+        ]
+      },
+      {
+        "name": "Aliño y Especias Tunecinas",
+        "ingredients": [
+          "4 cucharadas de aceite de oliva virgen extra de primera presión",
+          "Jugo recién exprimido de 1 limón grande",
+          "1 cucharada colmada de menta seca frotada (Nana)",
+          "1/2 cucharadita de alcaravea molida (opcional)",
+          "Sal marina fina y pimienta negra recién molida a gusto"
+        ]
+      },
+      {
+        "name": "Montaje y Coronación Tradicional",
+        "ingredients": [
+          "160 g de lomos de atún de calidad en aceite de oliva o al natural, escurridos",
+          "3 a 4 huevos duros de campo, cortados al medio",
+          "50 g de aceitunas negras y verdes carnosas",
+          "Hojas de menta fresca para perfumar",
+          "Baguette crujiente o pan casero para acompañar"
+        ]
+      }
+    ],
+    "ingredients": [
+      "4 tomates perita o redondos maduros y firmes, despepitados",
+      "2 pepinos medianos, pelados y sin semillas",
+      "2 pimientos verdes (o ajíes dulces tunecinos)",
+      "1 cebolla morada o dulce mediana",
+      "1/2 manzana verde ácida (Granny Smith, opcional tradicional para sumar crocancia)",
+      "4 cucharadas de aceite de oliva virgen extra de primera presión",
+      "Jugo recién exprimido de 1 limón grande",
+      "1 cucharada colmada de menta seca frotada (Nana)",
+      "1/2 cucharadita de alcaravea molida (opcional)",
+      "Sal marina fina y pimienta negra recién molida a gusto",
+      "160 g de lomos de atún de calidad en aceite de oliva o al natural, escurridos",
+      "3 a 4 huevos duros de campo, cortados al medio",
+      "50 g de aceitunas negras y verdes carnosas",
+      "Hojas de menta fresca para perfumar",
+      "Baguette crujiente o pan casero para acompañar"
+    ],
+    "step_groups": [
+      {
+        "name": "Picado y Preparación de Vegetales",
+        "steps": [
+          "Cortá los tomates limpios al medio, retirá toda el agua y las semillas con una cuchara, y secalos ligeramente con papel absorbente para que no desprendan líquido en exceso.",
+          "Picá los tomates, los pepinos pelados y sin semillas, los pimientos verdes, la cebolla morada y la media manzana verde en cubitos milimétricos y homogéneos (estilo brunoise pequeña de unos 5 a 6 milímetros).",
+          "Colocá todos los vegetales cortados en un bol amplio y mezclalos con suavidad utilizando dos cucharas para integrar los colores."
+        ]
+      },
+      {
+        "name": "Aliño Aromático",
+        "steps": [
+          "En un cuenco pequeño, batí enérgicamente el aceite de oliva virgen extra con el jugo de limón fresco, una generosa pizca de sal marina fina y pimienta negra recién molida.",
+          "Frotá la menta seca entre las palmas de tus manos para romperla finamente y activarla aromáticamente, sumala a la vinagreta junto con la pizca de alcaravea, y volcala sobre los vegetales.",
+          "Mezclá bien para que cada cubito quede perfumado con el aliño, y llevalo a la heladera entre 15 y 20 minutos para que los jugos se amalgamen y alcancen temperatura refrescante."
+        ]
+      },
+      {
+        "name": "Montaje y Presentación",
+        "steps": [
+          "Disponé la ensalada fresca en una fuente o cuenco artesanal hondo, nivelando la superficie con delicadeza.",
+          "Desmenuzá los lomos de atún en trozos generosos y acomodalos en el centro del plato formando una corona rústica.",
+          "Distribuí las mitades de huevo duro alrededor del atún mirando hacia arriba, decorá con las aceitunas negras y verdes, y coroná con unas hojas de menta fresca.",
+          "Serví de inmediato con gajos de limón fresco y rodajas de pan baguette crujiente para mojar en el fondo aromatizado."
+        ]
+      }
+    ],
+    "steps": [
+      "Cortá los tomates limpios al medio, retirá toda el agua y las semillas con una cuchara, y secalos ligeramente con papel absorbente para que no desprendan líquido en exceso.",
+      "Picá los tomates, los pepinos pelados y sin semillas, los pimientos verdes, la cebolla morada y la media manzana verde en cubitos milimétricos y homogéneos (estilo brunoise pequeña de unos 5 a 6 milímetros).",
+      "Colocá todos los vegetales cortados en un bol amplio y mezclalos con suavidad utilizando dos cucharas para integrar los colores.",
+      "En un cuenco pequeño, batí enérgicamente el aceite de oliva virgen extra con el jugo de limón fresco, una generosa pizca de sal marina fina y pimienta negra recién molida.",
+      "Frotá la menta seca entre las palmas de tus manos para romperla finamente y activarla aromáticamente, sumala a la vinagreta junto con la pizca de alcaravea, y volcala sobre los vegetales.",
+      "Mezclá bien para que cada cubito quede perfumado con el aliño, y llevalo a la heladera entre 15 y 20 minutos para que los jugos se amalgamen y alcancen temperatura refrescante.",
+      "Disponé la ensalada fresca en una fuente o cuenco artesanal hondo, nivelando la superficie con delicadeza.",
+      "Desmenuzá los lomos de atún en trozos generosos y acomodalos en el centro del plato formando una corona rústica.",
+      "Distribuí las mitades de huevo duro alrededor del atún mirando hacia arriba, decorá con las aceitunas negras y verdes, y coroná con unas hojas de menta fresca.",
+      "Serví de inmediato con gajos de limón fresco y rodajas de pan baguette crujiente para mojar en el fondo aromatizado."
+    ],
+    "notes": "El secreto de la textura reside en el corte: a diferencia de las ensaladas rústicas mediterráneas, en la Slata Tounsiya el corte debe ser pequeño y muy parejo para que cada bocado contenga todos los sabores y texturas en perfecto equilibrio. Retirar el corazón gelatinoso y semillas del tomate y del pepino es fundamental: evita que la ensalada largue agua de más y diluya la vinagreta de limón y oliva. La menta seca frotada entre las manos es el sello inconfundible de Túnez; aporta una fragancia profunda y anisada mucho más concentrada y dulce que la de la menta fresca, la cual se reserva como toque final decorativo."
+  },
+  {
+    "id": 893,
+    "title": "Spanakopita (Grecia)",
+    "country": "Grecia",
+    "category": "Tartas y Empanadas",
+    "tags": [
+      "Grecia",
+      "Spanakopita",
+      "Masa Filo",
+      "Espinacas",
+      "Queso Feta",
+      "Cocina Griega",
+      "Eneldo",
+      "Tarta Griega",
+      "Mediterránea"
+    ],
+    "prep_time": "30 min",
+    "cook_time": "45 min",
+    "rest_time": "15 min antes de cortar",
+    "total_time": "1 h 30 min",
+    "temperature": "Tibio o templado",
+    "servings": "8 porciones",
+    "calories": "320 kcal por porción",
+    "difficulty": "Media",
+    "diet_badges": [
+      "Vegetariano",
+      "Mediterránea",
+      "Horneado Tradicional"
+    ],
+    "image": "https://lh3.googleusercontent.com/-JZn5AcU0Ino/awmQV_GIyBI/AAAAAAAQD0U/qazS3tvI9vkToWKdM6LoWC9WCT38ij-tgCNcBGAsYHQ/s1600/spanakopita.jpg",
+    "story": "Nacida en las escarpadas laderas de Epiro y el Peloponeso como la cumbre del arte repostero salado helénico, la Spanakopita encarna el vínculo ancestral de los pastores griegos con las hierbas silvestres de montaña y el queso feta artesanal. Heredera directa de los pasteles campesinos de la Grecia clásica y refinada con las finísimas capas hojaldradas de tradición bizantina, representa el centro de las mesas festivas dominicales de todo el Egeo. En mi cocina es el horneado de cabecera cuando busco el contraste insuperable entre una masa filo crocante y dorada y un corazón tierno colmado de eneldo y hierbas frescas.",
+    "ingredient_groups": [
+      {
+        "name": "Hojaldre y Masa Filo",
+        "ingredients": [
+          "12 a 16 láminas de masa filo de buena calidad (descongeladas en heladera)",
+          "120 ml de aceite de oliva virgen extra griego (o manteca clarificada derretida)"
+        ]
+      },
+      {
+        "name": "Relleno Campesino de Espinacas y Hierbas",
+        "ingredients": [
+          "700 g de espinacas frescas tiernas, lavadas y escurridas a fondo",
+          "4 cebollas de verdeo (cebolletas), picadas finas",
+          "1 cebolla blanca mediana, finamente picada",
+          "1 atado abundante de eneldo fresco, picado sin tallos gruesos",
+          "1/2 atado de perejil fresco de hoja plana, picado fino",
+          "1 pizca generosa de nuez moscada recién rallada",
+          "Sal marina y pimienta negra recién molida"
+        ]
+      },
+      {
+        "name": "Ligado y Quesos Griegos",
+        "ingredients": [
+          "300 g de queso feta griego auténtico (de oveja y cabra), desmenuzado en trozos rústicos",
+          "150 g de queso ricotta fresca o mizithra, bien escurrido",
+          "3 huevos grandes de campo, ligeramente batidos",
+          "Ralladura fina de 1/2 limón"
+        ]
+      }
+    ],
+    "ingredients": [
+      "12 a 16 láminas de masa filo de buena calidad (descongeladas en heladera)",
+      "120 ml de aceite de oliva virgen extra griego (o manteca clarificada derretida)",
+      "700 g de espinacas frescas tiernas, lavadas y escurridas a fondo",
+      "4 cebollas de verdeo (cebolletas), picadas finas",
+      "1 cebolla blanca mediana, finamente picada",
+      "1 atado abundante de eneldo fresco, picado sin tallos gruesos",
+      "1/2 atado de perejil fresco de hoja plana, picado fino",
+      "1 pizca generosa de nuez moscada recién rallada",
+      "Sal marina y pimienta negra recién molida",
+      "300 g de queso feta griego auténtico (de oveja y cabra), desmenuzado en trozos rústicos",
+      "150 g de queso ricotta fresca o mizithra, bien escurrido",
+      "3 huevos grandes de campo, ligeramente batidos",
+      "Ralladura fina de 1/2 limón"
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación y Secado del Relleno",
+        "steps": [
+          "Picá las espinacas limpias de forma rústica, espolvorealas con una cucharadita de sal marina fina y dejalas reposar 15 minutos en un colador amplio.",
+          "Apretá las espinacas con fuerza entre las palmas de tus manos en tandas pequeñas para extraer absolutamente todo el líquido excedente hasta obtener una masa verde compacta y seca.",
+          "En una sartén con dos cucharadas de aceite de oliva, rehogá la cebolla blanca picada y las cebollas de verdeo a fuego medio durante 5 a 6 minutos hasta que queden transparentes y dulces; retirá del fuego y dejá enfriar por completo.",
+          "En un bol amplio, combiná las espinacas escurridas con las cebollas salteadas frías, el eneldo fresco picado, el perejil, la nuez moscada, la ralladura de limón, pimienta negra molida, los huevos batidos, el queso feta desmenuzado y la ricotta; integrá con movimientos envolventes sin deshacer del todo los trozos de feta."
+        ]
+      },
+      {
+        "name": "Montaje y Capas de Masa Filo",
+        "steps": [
+          "Precalentá el horno a 180 °C (fuego medio-fuerte) y aceitá generosamente una fuente rectangular para horno de unos 30x22 centímetros.",
+          "Extendé la primera lámina de masa filo en el fondo cubriendo la base y laterales, y pincelala con aceite de oliva virgen extra de manera suave y sin aplastar; repetí el proceso colocando 6 a 8 láminas en la base, pincelando cada una individualmente.",
+          "Volcá todo el relleno de espinacas y feta sobre la base hojaldrada, emparejando la superficie con una espátula sin presionar en exceso.",
+          "Cubrí el relleno con 6 a 8 láminas más de masa filo, pincelando cada capa con aceite de oliva; doblá los bordes excedentes hacia adentro formando un ribete rústico y crujiente."
+        ]
+      },
+      {
+        "name": "Marcado, Horneado y Reposo",
+        "steps": [
+          "Con un cuchillo muy afilado, marcá con suavidad las porciones cuadradas o triangulares sobre la superficie superior de la masa filo sin llegar a cortar el fondo; esto permitirá que el vapor escape y asegurará un corte limpio tras el horneado.",
+          "Salpicá la superficie con unas gotas de agua fría para evitar que la masa se curve al recibir el calor inicial del horno.",
+          "Llevá a horno medio (180 °C) durante 45 a 50 minutos hasta que la cubierta adquiera un tono dorado profundo y el hojaldre cruja al tacto.",
+          "Retirá la fuente del horno y dejala asentar durante 15 minutos antes de repasar el corte con cuchillo y servir templada, acompañada de gajos de limón, tomates frescos y aceitunas Kalamata."
+        ]
+      }
+    ],
+    "steps": [
+      "Picá las espinacas limpias de forma rústica, espolvorealas con una cucharadita de sal marina fina y dejalas reposar 15 minutos en un colador amplio.",
+      "Apretá las espinacas con fuerza entre las palmas de tus manos en tandas pequeñas para extraer absolutamente todo el líquido excedente hasta obtener una masa verde compacta y seca.",
+      "En una sartén con dos cucharadas de aceite de oliva, rehogá la cebolla blanca picada y las cebollas de verdeo a fuego medio durante 5 a 6 minutos hasta que queden transparentes y dulces; retirá del fuego y dejá enfriar por completo.",
+      "En un bol amplio, combiná las espinacas escurridas con las cebollas salteadas frías, el eneldo fresco picado, el perejil, la nuez moscada, la ralladura de limón, pimienta negra molida, los huevos batidos, el queso feta desmenuzado y la ricotta; integrá con movimientos envolventes sin deshacer del todo los trozos de feta.",
+      "Precalentá el horno a 180 °C (fuego medio-fuerte) y aceitá generosamente una fuente rectangular para horno de unos 30x22 centímetros.",
+      "Extendé la primera lámina de masa filo en el fondo cubriendo la base y laterales, y pincelala con aceite de oliva virgen extra de manera suave y sin aplastar; repetí el proceso colocando 6 a 8 láminas en la base, pincelando cada una individualmente.",
+      "Volcá todo el relleno de espinacas y feta sobre la base hojaldrada, emparejando la superficie con una espátula sin presionar en exceso.",
+      "Cubrí el relleno con 6 a 8 láminas más de masa filo, pincelando cada capa con aceite de oliva; doblá los bordes excedentes hacia adentro formando un ribete rústico y crujiente.",
+      "Con un cuchillo muy afilado, marcá con suavidad las porciones cuadradas o triangulares sobre la superficie superior de la masa filo sin llegar a cortar el fondo; esto permitirá que el vapor escape y asegurará un corte limpio tras el horneado.",
+      "Salpicá la superficie con unas gotas de agua fría para evitar que la masa se curve al recibir el calor inicial del horno.",
+      "Llevá a horno medio (180 °C) durante 45 a 50 minutos hasta que la cubierta adquiera un tono dorado profundo y el hojaldre cruja al tacto.",
+      "Retirá la fuente del horno y dejala asentar durante 15 minutos antes de repasar el corte con cuchillo y servir templada, acompañada de gajos de limón, tomates frescos y aceitunas Kalamata."
+    ],
+    "notes": "El enemigo jurado del hojaldre en la spanakopita es la humedad: apretar las espinacas saladas con las manos hasta drenar la última gota es la diferencia entre una masa crocante que cruje en cada bocado o una base húmeda y gomosa. Pincelar cada lámina de masa filo con paciencia genera bolsas de aire que se expanden con el calor, logrando ese milhojas ultraliviano característico de las panaderías de Atenas. El eneldo fresco no es un detalle optativo: es el alma verde que define el perfil aromático de la cocina tradicional griega en armonía con la salinidad del queso feta de pastoreo."
   }
 ]
