@@ -96463,5 +96463,1160 @@
       "Cociná linguine o penne rigate al dente, colocá el pesto crudo en una fuente amplia fuera del fuego y volcá la pasta caliente con un par de cucharadas del agua de hervor para que los almidones fundan la salsa, decorando con hojitas de albahaca y piñones o almendras crocantes."
     ],
     "notes": "El secreto de la textura: escurrir con fuerza el agua de vegetación del zucchini evita que la salsa quede acuosa y permite que el aceite de oliva y los quesos liguen en una crema tan aterciopelada como una mousse. El toque de menta fresca es esencial: en la cocina italiana tradicional, el zucchini siempre se acompaña con unas hojas de menta; su frescura balsámica corta la dulzura vegetal del calabacín y le da un aroma estival inconfundible."
+  },
+  {
+    "id": 902,
+    "title": "Salsa Bechamel (Francia)",
+    "country": "Francia",
+    "category": "Salsas & Condimentos",
+    "tags": [
+      "salsa bechamel",
+      "bechamel",
+      "salsas madre",
+      "francia",
+      "roux",
+      "gratinados",
+      "lasaña",
+      "cocina clasica"
+    ],
+    "prep_time": "10 min",
+    "cook_time": "15 min",
+    "total_time": "25 min",
+    "servings": "6 porciones (500 ml)",
+    "calories": "160 kcal por porción",
+    "difficulty": "Baja",
+    "diet_badges": [
+      "Vegetariano",
+      "Clásico Francés",
+      "Salsas Madre"
+    ],
+    "image": "https://lh3.googleusercontent.com/-9sdts4t0e88/awnTlxX9nfI/AAAAAAAQD2E/TZtw_-QzjFUPACGLy2jsiRB6g1Ekd1T2gCNcBGAsYHQ/s1600/salsa_bechamel.jpg",
+    "story": "Codificada por primera vez en el siglo XVII por François Pierre de La Varenne en su célebre tratado Le Cuisinier François y dedicada al marqués Louis de Béchameil, la bechamel es la reina indiscutida de las cinco salsas madre de la gastronomía francesa. Surgió en los banquetes reales de Versalles para transformar la leche campesina en un velo sedoso, brillante y perfumado con nuez moscada. En mi cocina es el pilar infaltable cuando busco gratinar pastas al horno, verduras tiernas o croquetas con una cremosidad untuosa y sin pesadez.",
+    "ingredient_groups": [
+      {
+        "name": "Roux Blanco Francés",
+        "ingredients": [
+          "50 g de manteca noble sin sal de buena calidad",
+          "50 g de harina de trigo común 000"
+        ]
+      },
+      {
+        "name": "Infusión Láctea y Aromas",
+        "ingredients": [
+          "500 ml de leche entera tibia",
+          "1 pizca generosa de nuez moscada recién rallada",
+          "Sal marina fina y pimienta blanca molida a gusto"
+        ]
+      }
+    ],
+    "ingredients": [
+      "50 g de manteca noble sin sal de buena calidad",
+      "50 g de harina de trigo común 000",
+      "500 ml de leche entera tibia",
+      "1 pizca generosa de nuez moscada recién rallada",
+      "Sal marina fina y pimienta blanca molida a gusto"
+    ],
+    "step_groups": [
+      {
+        "name": "Cocción del Roux",
+        "steps": [
+          "Fundí la manteca en una cacerola de fondo grueso a fuego medio-bajo sin que tome color dorado.",
+          "Agregá la harina de golpe y cociná batiendo constantemente con batidor de alambre durante 2 a 3 minutos para eliminar el sabor a cereal crudo, manteniendo un tono marfil claro (roux blanco)."
+        ]
+      },
+      {
+        "name": "Incorporación y Espesado",
+        "steps": [
+          "Verté la leche tibia gradualmente en tres tandas, batiendo con energía tras cada adición para disolver el roux y asegurar una emulsión sin grumos.",
+          "Cociná a fuego suave sin dejar de remover con cuchara de madera, rozando el fondo y bordes, hasta que rompa un hervor suave y espese alcanzando punto napado brillante (unos 8 minutos)."
+        ]
+      },
+      {
+        "name": "Condimentado Final",
+        "steps": [
+          "Retirá la cacerola del fuego y condimentá con sal marina fina, pimienta blanca recién molida y abundante nuez moscada recién rallada.",
+          "Utilizá de inmediato en caliente sobre lasañas o gratinados, o cubrí con film en contacto si deseás reservarla para que no forme película superficial."
+        ]
+      }
+    ],
+    "steps": [
+      "Fundí la manteca en una cacerola de fondo grueso a fuego medio-bajo sin que tome color dorado.",
+      "Agregá la harina de golpe y cociná batiendo constantemente con batidor de alambre durante 2 a 3 minutos para eliminar el sabor a cereal crudo, manteniendo un tono marfil claro.",
+      "Verté la leche tibia gradualmente en tres tandas, batiendo con energía tras cada adición para disolver el roux y asegurar una emulsión sin grumos.",
+      "Cociná a fuego suave sin dejar de remover con cuchara de madera, rozando el fondo y bordes, hasta que rompa un hervor suave y espese alcanzando punto napado brillante.",
+      "Retirá la cacerola del fuego y condimentá con sal marina fina, pimienta blanca recién molida y abundante nuez moscada recién rallada.",
+      "Utilizá de inmediato en caliente sobre lasañas o gratinados, o cubrí con film en contacto si deseás reservarla para que no forme película superficial."
+    ],
+    "notes": "La temperatura de la leche es clave: usar leche tibia (nunca helada de la heladera) al entrar en contacto con el roux caliente evita el choque térmico y disuelve la harina al instante, garantizando una bechamel lisa y sedosa sin necesidad de colador."
+  },
+  {
+    "id": 903,
+    "title": "Salsa Huancaína (Perú)",
+    "country": "Perú",
+    "category": "Salsas & Condimentos",
+    "tags": [
+      "salsa huancaina",
+      "peru",
+      "aji amarillo",
+      "queso fresco",
+      "papa a la huancaina",
+      "cocina criolla",
+      "salsas andinas"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "5 min",
+    "total_time": "20 min",
+    "servings": "6 porciones",
+    "calories": "210 kcal por porción",
+    "difficulty": "Baja",
+    "diet_badges": [
+      "Vegetariano",
+      "Cocina Peruana",
+      "Sin Horno"
+    ],
+    "image": "https://lh3.googleusercontent.com/-62dCzZ16TAE/awnTmt8Pn_I/AAAAAAAQD2M/e3zmS2So8RcF2Z_la4uJ20uvLCgCx2s0gCNcBGAsYHQ/s1600/salsa_huancaina.jpg",
+    "story": "Nacida a fines del siglo XIX durante las titánicas obras de construcción del Ferrocarril Central del Perú que unía Lima con Huancayo a través de los Andes, esta crema surgió de las manos de las cocineras huancaínas que alimentaban a los obreros en las estaciones de montaña. La combinación del ají amarillo costero con el queso fresco andino y la leche evaporada forjó uno de los estandartes criollos más amados del continente. En mi mesa es una salsa versátil insustituible para bañar papas cocidas, huevos duros o servir como dip junto a choclos tiernos.",
+    "ingredient_groups": [
+      {
+        "name": "Ajíes y Salteado Aromático",
+        "ingredients": [
+          "4 ajíes amarillos peruanos frescos (limpios, sin venas ni semillas)",
+          "1 diente de ajo pelado",
+          "1/2 cebolla morada pequeña en cubos",
+          "2 cucharadas de aceite vegetal neutro"
+        ]
+      },
+      {
+        "name": "Lácteos y Textura Criolla",
+        "ingredients": [
+          "250 g de queso fresco blanco tierno (tipo andino o ricota prensada salada)",
+          "120 ml de leche evaporada entera",
+          "4 a 6 galletas de soda clásicas (para dar consistencia sedosa)",
+          "Sal marina a gusto"
+        ]
+      }
+    ],
+    "ingredients": [
+      "4 ajíes amarillos peruanos frescos (sin venas ni semillas)",
+      "1 diente de ajo pelado",
+      "1/2 cebolla morada pequeña en cubos",
+      "2 cucharadas de aceite vegetal neutro",
+      "250 g de queso fresco blanco tierno",
+      "120 ml de leche evaporada entera",
+      "4 a 6 galletas de soda clásicas",
+      "Sal marina a gusto"
+    ],
+    "step_groups": [
+      {
+        "name": "Salteado de los Ajíes",
+        "steps": [
+          "Cortá los ajíes amarillos despepitados en trozos medianos.",
+          "En una sartén con dos cucharadas de aceite caliente, salteá los ajíes, la cebolla y el diente de ajo a fuego medio durante 4 minutos hasta que los vegetales estén tiernos y ligeramente caramelizados; retirá del fuego y dejá entibiar."
+        ]
+      },
+      {
+        "name": "Licuado y Emulsión",
+        "steps": [
+          "Colocá en la licuadora el salteado de ajíes tibio con sus jugos de cocción, el queso fresco troceado y la mitad de la leche evaporada.",
+          "Licuá a velocidad alta mientras sumás las galletas de soda troceadas y el resto de la leche evaporada en hilo hasta lograr una crema espesa, aterciopelada y de color amarillo brillante.",
+          "Probá el punto de sal y ajustá si fuera necesario teniendo en cuenta la salinidad del queso fresco."
+        ]
+      }
+    ],
+    "steps": [
+      "Cortá los ajíes amarillos despepitados en trozos medianos.",
+      "En una sartén con dos cucharadas de aceite caliente, salteá los ajíes, la cebolla y el diente de ajo a fuego medio durante 4 minutos hasta que los vegetales estén tiernos y ligeramente caramelizados; retirá del fuego y dejá entibiar.",
+      "Colocá en la licuadora el salteado de ajíes tibio con sus jugos de cocción, el queso fresco troceado y la mitad de la leche evaporada.",
+      "Licuá a velocidad alta mientras sumás las galletas de soda troceadas y el resto de la leche evaporada en hilo hasta lograr una crema espesa, aterciopelada y de color amarillo brillante.",
+      "Probá el punto de sal y ajustá si fuera necesario teniendo en cuenta la salinidad del queso fresco."
+    ],
+    "notes": "Saltear previamente los ajíes amarillos con la cebolla y el ajo marca una diferencia abismal: suaviza el picor áspero del ají crudo y despierta sus notas dulces y frutales, otorgando a la crema ese color dorado radiante característico de las mejores picanterías peruanas."
+  },
+  {
+    "id": 904,
+    "title": "Mayonesa Casera (Francia)",
+    "country": "Francia",
+    "category": "Salsas & Condimentos",
+    "tags": [
+      "mayonesa casera",
+      "mayonesa",
+      "emulsion fria",
+      "francia",
+      "salsas madre",
+      "mahonesa",
+      "cocina basica"
+    ],
+    "prep_time": "10 min",
+    "cook_time": "0 min",
+    "total_time": "10 min",
+    "servings": "8 porciones (250 ml)",
+    "calories": "190 kcal por porción",
+    "difficulty": "Media",
+    "diet_badges": [
+      "Vegetariano",
+      "Sin Gluten",
+      "Sin Lactosa",
+      "Emulsión en Frío"
+    ],
+    "image": "https://lh3.googleusercontent.com/-1AVDhIGBgt8/awnTnnB7fvI/AAAAAAAQD2U/6ZF6m48bqugmqLEZj9JcWUfD3TucRdFSwCNcBGAsYHQ/s1600/mayonesa_casera.jpg",
+    "story": "Documentada a mediados del siglo XVIII tras la toma francesa de Mahón en Menorca por las tropas del duque de Richelieu, la mayonesa fue consagrada en París por Marie-Antoine Carême como la gran emulsión fría de la cocina universal. El milagro de suspender millones de microgotas de aceite en el agua de las yemas revolucionó el servicio de carnes frías, mariscos y vegetales en todo Occidente. En mi cocina es una técnica básica de cabecera que preparo en minutos batiendo a mano para obtener una textura cremosa, brillante y fresca incomparable con cualquier versión comercial.",
+    "ingredient_groups": [
+      {
+        "name": "Emulsión y Base de Yema",
+        "ingredients": [
+          "2 yemas de huevo de campo a temperatura ambiente",
+          "1 cucharadita de mostaza de Dijon clásica",
+          "200 ml de aceite de girasol o maíz neutro (o blend con oliva suave)"
+        ]
+      },
+      {
+        "name": "Acidez y Condimento",
+        "ingredients": [
+          "1 cucharada de jugo de limón recién exprimido (o vinagre de vino blanco)",
+          "1/2 cucharadita de sal marina fina",
+          "1 pizca de pimienta blanca molida"
+        ]
+      }
+    ],
+    "ingredients": [
+      "2 yemas de huevo de campo a temperatura ambiente",
+      "1 cucharadita de mostaza de Dijon clásica",
+      "200 ml de aceite de girasol o maíz neutro",
+      "1 cucharada de jugo de limón recién exprimido",
+      "1/2 cucharadita de sal marina fina",
+      "1 pizca de pimienta blanca molida"
+    ],
+    "step_groups": [
+      {
+        "name": "Base de Emulsión",
+        "steps": [
+          "En un bol limpio apoyado sobre un paño húmedo para que no resbale, colocá las yemas de huevo a temperatura ambiente, la mostaza de Dijon y la sal marina.",
+          "Batí con batidor de alambre durante 1 minuto hasta que la mezcla se vuelva homogénea y ligeramente pálida."
+        ]
+      },
+      {
+        "name": "Montado en Hilo Continuo",
+        "steps": [
+          "Comenzá a incorporar el aceite gota a gota mientras batís con energía continua y rítmica sin detenerte; una vez que la emulsión ligue y tome cuerpo espeso, podés verter el aceite restante en un hilo muy fino y continuo.",
+          "Cuando hayas incorporado casi todo el aceite y la mayonesa presente una consistencia firme y satinada, sumá el jugo de limón colado y la pimienta blanca, batiendo medio minuto más para aclarar su color hacia un marfil brillante."
+        ]
+      }
+    ],
+    "steps": [
+      "En un bol limpio apoyado sobre un paño húmedo para que no resbale, colocá las yemas de huevo a temperatura ambiente, la mostaza de Dijon y la sal marina.",
+      "Batí con batidor de alambre durante 1 minuto hasta que la mezcla se vuelva homogénea y ligeramente pálida.",
+      "Comenzá a incorporar el aceite gota a gota mientras batís con energía continua y rítmica sin detenerte; una vez que la emulsión ligue y tome cuerpo espeso, podés verter el aceite restante en un hilo muy fino y continuo.",
+      "Cuando hayas incorporado casi todo el aceite y la mayonesa presente una consistencia firme y satinada, sumá el jugo de limón colado y la pimienta blanca, batiendo medio minuto más para aclarar su color hacia un marfil brillante."
+    ],
+    "notes": "La temperatura ambiente de las yemas es innegociable: si las yemas están heladas de la heladera, el aceite no emulsionará con la misma facilidad y aumentará el riesgo de que la salsa se corte. Si llega a cortarse, basta colocar una yema fresca a temperatura ambiente en otro bol y verter la mezcla cortada batiendo lentamente como si fuera aceite."
+  },
+  {
+    "id": 905,
+    "title": "Salsa Barbacoa (Estados Unidos)",
+    "country": "Estados Unidos",
+    "category": "Salsas & Condimentos",
+    "tags": [
+      "salsa barbacoa",
+      "bbq",
+      "barbacoa americana",
+      "kansas city",
+      "ahumados",
+      "ribs",
+      "costillas",
+      "salsa agridulce"
+    ],
+    "prep_time": "10 min",
+    "cook_time": "25 min",
+    "total_time": "35 min",
+    "servings": "8 porciones (400 ml)",
+    "calories": "95 kcal por porción",
+    "difficulty": "Baja",
+    "diet_badges": [
+      "Sin Gluten",
+      "Cocina Americana",
+      "Salsa Ahumada"
+    ],
+    "image": "https://lh3.googleusercontent.com/-Ls0Z0DH9sKs/awnTok75FwI/AAAAAAAQD2c/mqLsyB091LsKDdGYd150GnhGx2hz7wwAACNcBGAsYHQ/s1600/salsa_barbacoa.jpg",
+    "story": "Perfeccionada en los ahumaderos de carbón y madera de roble de Kansas City y el sur de los Estados Unidos a lo largo del siglo XX, la salsa barbacoa clásica representa el balance magistral entre la acidez cortante del vinagre de manzana, el dulzor caramelizado de la melaza y el humo del pimentón. Diseñada para glasear costillas y cortes de cocción lenta sin quemarse, es el condimento fetiche de la cultura parrillera norteamericana. En mi cocina la preparo en lote para pintar carnes a la parrilla y hamburguesas caseras.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Tomate y Dulzor",
+        "ingredients": [
+          "250 g de puré de tomate concentrado (o passata densa)",
+          "4 cucharadas de azúcar mascabo o morena",
+          "2 cucharadas de miel o melaza oscura",
+          "3 cucharadas de vinagre de manzana de calidad"
+        ]
+      },
+      {
+        "name": "Especias y Matices Ahumados",
+        "ingredients": [
+          "2 cucharadas de salsa inglesa (Worcestershire)",
+          "1 cucharada de mostaza de Dijon o amarilla",
+          "1 cucharadita de pimentón ahumado dulce (o pimentón de la Vera)",
+          "1/2 cucharadita de ajo en polvo y 1/2 de cebolla en polvo",
+          "1/4 cucharadita de pimienta de Jamaica molida y sal marina fina a gusto"
+        ]
+      }
+    ],
+    "ingredients": [
+      "250 g de puré de tomate concentrado",
+      "4 cucharadas de azúcar mascabo o morena",
+      "2 cucharadas de miel o melaza oscura",
+      "3 cucharadas de vinagre de manzana",
+      "2 cucharadas de salsa inglesa (Worcestershire)",
+      "1 cucharada de mostaza de Dijon o amarilla",
+      "1 cucharadita de pimentón ahumado dulce",
+      "1/2 cucharadita de ajo en polvo y 1/2 de cebolla en polvo",
+      "1/4 cucharadita de pimienta de Jamaica molida y sal marina fina a gusto"
+    ],
+    "step_groups": [
+      {
+        "name": "Integración de Ingredientes",
+        "steps": [
+          "En una cacerola mediana a fuego medio, combiná el puré de tomate concentrado con el vinagre de manzana, el azúcar mascabo y la miel o melaza, batiendo hasta disolver los azúcares.",
+          "Incorporá la salsa inglesa, la mostaza, el pimentón ahumado, el ajo en polvo, la cebolla en polvo, la pimienta de Jamaica y una pizca de sal marina."
+        ]
+      },
+      {
+        "name": "Reducción y Glaseado",
+        "steps": [
+          "Llevá la mezcla a ebullición suave y reducí el fuego al mínimo absoluto; cociná a fuego lento durante 20 a 25 minutos con la cacerola semitapada, revolviendo de vez en cuando para que no se pegue en el fondo.",
+          "Cuando adquiera un color caoba oscuro brillante y nape densamente la cuchara, retirá del fuego y dejá enfriar por completo antes de embotellar o aplicar sobre carnes asadas."
+        ]
+      }
+    ],
+    "steps": [
+      "En una cacerola mediana a fuego medio, combiná el puré de tomate concentrado con el vinagre de manzana, el azúcar mascabo y la miel o melaza, batiendo hasta disolver los azúcares.",
+      "Incorporá la salsa inglesa, la mostaza, el pimentón ahumado, el ajo en polvo, la cebolla en polvo, la pimienta de Jamaica y una pizca de sal marina.",
+      "Llevá la mezcla a ebullición suave y reducí el fuego al mínimo absoluto; cociná a fuego lento durante 20 a 25 minutos con la cacerola semitapada, revolviendo de vez en cuando para que no se pegue en el fondo.",
+      "Cuando adquiera un color caoba oscuro brillante y nape densamente la cuchara, retirá del fuego y dejá enfriar por completo antes de embotellar o aplicar sobre carnes asadas."
+    ],
+    "notes": "La melaza y el fuego bajo son el secreto de la textura: una cocción mansa y lenta permite caramelizar los azúcares y concentrar los ácidos del vinagre, produciendo esa capa laca brillante que se adhiere a las costillitas sin escurrirse."
+  },
+  {
+    "id": 906,
+    "title": "Salsa Tártara (Francia)",
+    "country": "Francia",
+    "category": "Salsas & Condimentos",
+    "tags": [
+      "salsa tartara",
+      "pescados",
+      "alcaparras",
+      "pepinillos",
+      "mayonesa",
+      "francia",
+      "salsas clasicas"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "0 min",
+    "total_time": "15 min",
+    "servings": "6 porciones (300 ml)",
+    "calories": "180 kcal por porción",
+    "difficulty": "Baja",
+    "diet_badges": [
+      "Vegetariano",
+      "Sin Gluten",
+      "Sin Horno",
+      "Clásico Francés"
+    ],
+    "image": "https://lh3.googleusercontent.com/-bKIb50VVSz4/awnTp2MJ7eI/AAAAAAAQD2k/ox89TxlmdMoypPywc9n89Shltrob7MfCQCNcBGAsYHQ/s1600/salsa_tartara.jpg",
+    "story": "Bautizada en honor a los pueblos tártaros de las estepas orientales y codificada por Auguste Escoffier en su Guide Culinaire de 1903, la salsa tártara francesa es el contrapunto refrescante y ácido por excelencia para pescados fritos, mariscos rebozados y carnes frías. Nacida de enriquecer una mayonesa casera densa con encurtidos en vinagre y hierbas vivas, aporta una textura crocante y salina que corta cualquier grasa frita. En mi casa es el acompañamiento obligatorio cada vez que preparo rabas, lenguado crocante o croquetas de pescado.",
+    "ingredient_groups": [
+      {
+        "name": "Base Cremosa",
+        "ingredients": [
+          "200 g de mayonesa casera densa y bien ligada",
+          "1 cucharadita de mostaza de Dijon suave"
+        ]
+      },
+      {
+        "name": "Encurtidos y Hierbas Aromáticas",
+        "ingredients": [
+          "2 cucharadas de alcaparras en vinagre picadas fino",
+          "3 pepinillos encurtidos agridulces cortados en brunoise milimétrica",
+          "1 chalota (echalote) pequeña o cebolla morada finamente picada",
+          "1 cucharada de perejil fresco picado",
+          "1 cucharadita de eneldo fresco (o estragón) picado",
+          "Jugo de 1/2 limón fresco y pimienta negra recién molida"
+        ]
+      }
+    ],
+    "ingredients": [
+      "200 g de mayonesa casera densa",
+      "1 cucharadita de mostaza de Dijon suave",
+      "2 cucharadas de alcaparras en vinagre picadas fino",
+      "3 pepinillos encurtidos agridulces en brunoise milimétrica",
+      "1 chalota pequeña finamente picada",
+      "1 cucharada de perejil fresco picado",
+      "1 cucharadita de eneldo fresco picado",
+      "Jugo de 1/2 limón fresco y pimienta negra recién molida"
+    ],
+    "step_groups": [
+      {
+        "name": "Picado y Secado de Encurtidos",
+        "steps": [
+          "Picá las alcaparras y los pepinillos en una brunoise muy fina y pareja.",
+          "Presionalos suavemente sobre papel absorbente para retirar el exceso de vinagre líquido y evitar que aflojen la consistencia de la mayonesa."
+        ]
+      },
+      {
+        "name": "Integración y Reposo en Frío",
+        "steps": [
+          "En un bol mediano, mezclá la mayonesa casera con la mostaza de Dijon, sumando los encurtidos picados, la chalota, el perejil y el eneldo fresco.",
+          "Añadí el jugo de limón fresco y pimienta negra recién molida, integrando con espátula con movimientos suaves.",
+          "Llevá a la heladera durante 20 minutos antes de servir para que los aromas de las hierbas y la acidez de los encurtidos se fundan en la crema."
+        ]
+      }
+    ],
+    "steps": [
+      "Picá las alcaparras y los pepinillos en una brunoise muy fina y pareja.",
+      "Presionalos suavemente sobre papel absorbente para retirar el exceso de vinagre líquido y evitar que aflojen la consistencia de la mayonesa.",
+      "En un bol mediano, mezclá la mayonesa casera con la mostaza de Dijon, sumando los encurtidos picados, la chalota, el perejil y el eneldo fresco.",
+      "Añadí el jugo de limón fresco y pimienta negra recién molida, integrando con espátula con movimientos suaves.",
+      "Llevá a la heladera durante 20 minutos antes de servir para que los aromas de las hierbas y la acidez de los encurtidos se fundan en la crema."
+    ],
+    "notes": "Secar los encurtidos es el secreto profesional: si volcás las alcaparras y pepinillos empapados en vinagre directamente sobre la mayonesa, la acidez líquida romperá la emulsión. Al secarlos con papel, conservás el bocado crocante intacto dentro de una salsa firme."
+  },
+  {
+    "id": 907,
+    "title": "Salsa Brava (España)",
+    "country": "España",
+    "category": "Salsas & Condimentos",
+    "tags": [
+      "salsa brava",
+      "patatas bravas",
+      "tapas",
+      "madrid",
+      "espana",
+      "pimenton de la vera",
+      "picante",
+      "cocina espanola"
+    ],
+    "prep_time": "10 min",
+    "cook_time": "15 min",
+    "total_time": "25 min",
+    "servings": "6 porciones (300 ml)",
+    "calories": "110 kcal por porción",
+    "difficulty": "Baja",
+    "diet_badges": [
+      "Vegano",
+      "Vegetariano",
+      "Sin Lactosa",
+      "Tapas Españolas"
+    ],
+    "image": "https://lh3.googleusercontent.com/-WWBfQcevlus/awnTqTGsdxI/AAAAAAAQD2s/TvA3MXMx4-YwQlJ6twFxrzIcGO9w1YNjACNcBGAsYHQ/s1600/salsa_brava.jpg",
+    "story": "Nacida en los bulliciosos bares de barrio madrileños en la década de 1950 —con templos históricos como Casa Pellico y Las Bravas disputándose su autoría—, la salsa brava es el corazón indomable del tapeo ibérico. Lejos de las versiones modernas que recurren al kétchup o al tomate frito, la receta castiza original no lleva tomate: su color rojo volcánico y su untuosidad nacen del pimentón de la Vera ligado con un velo de harina y buen caldo. En mi cocina es el condimento obligado para rociar papas fritas rústicas recién sacadas del aceite hirviendo.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Aceite y Sofrito",
+        "ingredients": [
+          "4 cucharadas de aceite de oliva virgen extra español",
+          "1 cebolla blanca pequeña cortada muy fina",
+          "2 dientes de ajo picados"
+        ]
+      },
+      {
+        "name": "Pimentón de la Vera y Ligado",
+        "ingredients": [
+          "1 cucharada colmada de pimentón dulce de la Vera",
+          "1 cucharadita colmada de pimentón picante de la Vera (o ají molido)",
+          "1 cucharada colmada de harina de trigo común",
+          "300 ml de caldo suave de ave, carne o verduras tibio",
+          "1 cucharadita de vinagre de Jerez y sal marina a gusto"
+        ]
+      }
+    ],
+    "ingredients": [
+      "4 cucharadas de aceite de oliva virgen extra español",
+      "1 cebolla blanca pequeña cortada muy fina",
+      "2 dientes de ajo picados",
+      "1 cucharada colmada de pimentón dulce de la Vera",
+      "1 cucharadita colmada de pimentón picante de la Vera",
+      "1 cucharada colmada de harina de trigo común",
+      "300 ml de caldo suave tibio",
+      "1 cucharadita de vinagre de Jerez y sal marina a gusto"
+    ],
+    "step_groups": [
+      {
+        "name": "Pochado y Tostado del Pimentón",
+        "steps": [
+          "En una cacerola con el aceite de oliva a fuego medio-bajo, pochá la cebolla y el ajo con una pizca de sal durante 8 minutos hasta que queden transparentes y muy tiernos.",
+          "Retirá la cacerola del fuego durante unos segundos e incorporá el pimentón dulce y el picante de la Vera junto con la harina, removiendo con cuchara de madera para tostar ligeramente la harina sin quemar el pimentón."
+        ]
+      },
+      {
+        "name": "Cocción y Triturado Fino",
+        "steps": [
+          "Regresá al fuego suave y verté el caldo tibio poco a poco mientras batís con batidor de alambre para ligar la salsa sin grumos.",
+          "Cociná durante 6 a 8 minutos hasta que adquiera una consistencia brillante y espesa de crema.",
+          "Añadí el vinagre de Jerez, triturá con licuadora de inmersión hasta lograr una emulsión roja sedosa y colá si deseás un acabado de restaurante."
+        ]
+      }
+    ],
+    "steps": [
+      "En una cacerola con el aceite de oliva a fuego medio-bajo, pochá la cebolla y el ajo con una pizca de sal durante 8 minutos hasta que queden transparentes y muy tiernos.",
+      "Retirá la cacerola del fuego durante unos segundos e incorporá el pimentón dulce y el picante de la Vera junto con la harina, removiendo con cuchara de madera para tostar ligeramente la harina sin quemar el pimentón.",
+      "Regresá al fuego suave y verté el caldo tibio poco a poco mientras batís con batidor de alambre para ligar la salsa sin grumos.",
+      "Cociná durante 6 a 8 minutos hasta que adquiera una consistencia brillante y espesa de crema.",
+      "Añadí el vinagre de Jerez, triturá con licuadora de inmersión hasta lograr una emulsión roja sedosa y colá si deseás un acabado de restaurante."
+    ],
+    "notes": "Cero tomate en la brava madrileña tradicional: la auténtica brava de Madrid no es una salsa de tomate picante. Su color y cuerpo nacen del pimentón de la Vera ahumado cocinado con el roux de aceite y harina, lo que produce ese brillo profundo y ese sabor tostado tan característico."
+  },
+  {
+    "id": 908,
+    "title": "Salsa Roja Taquera (México)",
+    "country": "México",
+    "category": "Salsas & Condimentos",
+    "tags": [
+      "salsa roja taquera",
+      "tatemada",
+      "mexico",
+      "molcajete",
+      "chiles",
+      "jitomate",
+      "tacos",
+      "cocina mexicana"
+    ],
+    "prep_time": "10 min",
+    "cook_time": "15 min",
+    "total_time": "25 min",
+    "servings": "6 porciones (350 ml)",
+    "calories": "45 kcal por porción",
+    "difficulty": "Baja",
+    "diet_badges": [
+      "Vegano",
+      "Vegetariano",
+      "Sin Gluten",
+      "Sin Grasa",
+      "Tatemado"
+    ],
+    "image": "https://lh3.googleusercontent.com/-jjme8lZV5qs/awnTrRmpsVI/AAAAAAAQD20/8sgm-Ag8vs8OPw7k00rLY0rsLlPOOaEaQCNcBGAsYHQ/s1600/salsa_roja_taquera.jpg",
+    "story": "Heredera directa de la sabiduría mesoamericana del comal de barro y el machacado en molcajete de piedra volcánica, la salsa roja tatemada es el alma indiscutible de las taquerías callejeras de México. Asar a fuego vivo los jitomates maduros y los chiles hasta quemar la piel concentra los azúcares naturales y libera notas ahumadas profundas que ningún hervor puede igualar. En mi cocina es el condimento rey que preparo para bañar tacos de carne, huevos rancheros o dipear con totopos crocantes.",
+    "ingredient_groups": [
+      {
+        "name": "Vegetales para Tatemar",
+        "ingredients": [
+          "4 jitomates (tomates redondos maduros y firmes)",
+          "2 chiles jalapeños o serranos frescos (o 4 chiles de árbol secos para más picor)",
+          "1/2 cebolla blanca mediana",
+          "2 dientes de ajo con cáscara"
+        ]
+      },
+      {
+        "name": "Terminación y Majado",
+        "ingredients": [
+          "1/4 taza de agua tibia (si hiciera falta aligerar)",
+          "2 cucharadas de cilantro fresco picado fino",
+          "1 cucharadita de sal marina gruesa o de grano"
+        ]
+      }
+    ],
+    "ingredients": [
+      "4 jitomates maduros y firmes",
+      "2 chiles jalapeños o serranos frescos",
+      "1/2 cebolla blanca mediana",
+      "2 dientes de ajo con cáscara",
+      "2 cucharadas de cilantro fresco picado fino",
+      "1 cucharadita de sal marina gruesa"
+    ],
+    "step_groups": [
+      {
+        "name": "Tatemado en Comal o Sartén de Hierro",
+        "steps": [
+          "Calentá un comal seco o sartén de hierro a fuego vivo sin nada de aceite.",
+          "Colocá los jitomates enteros, los chiles, la cebolla y los dientes de ajo con su piel; asá rotando las piezas con pinzas durante 10 a 12 minutos hasta que la piel de los jitomates esté ampollada y con manchas negras de quemado parejo."
+        ]
+      },
+      {
+        "name": "Machacado Rústico Taquero",
+        "steps": [
+          "Pelá los dientes de ajo asados retirando su piel reseca.",
+          "En molcajete o en licuadora a pulsos muy cortos, colocá primero el ajo asado con la sal de grano y machacá hasta formar pasta; sumá los chiles asados y la cebolla triturando de forma rústica.",
+          "Agregá los jitomates tatemados con parte de su piel quemada (que aporta el aroma ahumado) y procesá brevemente conservando tropezones visibles de pulpa.",
+          "Volcá en un cuenco hondo y coroná con el cilantro fresco picado antes de servir a temperatura ambiente."
+        ]
+      }
+    ],
+    "steps": [
+      "Calentá un comal seco o sartén de hierro a fuego vivo sin nada de aceite.",
+      "Colocá los jitomates enteros, los chiles, la cebolla y los dientes de ajo con su piel; asá rotando las piezas con pinzas durante 10 a 12 minutos hasta que la piel de los jitomates esté ampollada y con manchas negras de quemado parejo.",
+      "Pelá los dientes de ajo asados retirando su piel reseca.",
+      "En molcajete o en licuadora a pulsos muy cortos, colocá primero el ajo asado con la sal de grano y machacá hasta formar pasta; sumá los chiles asados y la cebolla triturando de forma rústica.",
+      "Agregá los jitomates tatemados con parte de su piel quemada y procesá brevemente conservando tropezones visibles de pulpa.",
+      "Volcá en un cuenco hondo y coroná con el cilantro fresco picado antes de servir a temperatura ambiente."
+    ],
+    "notes": "No quites toda la piel negra del tatemado: esas pequeñas quemaduras superficiales son el secreto del auténtico sabor taquero mexicano; liberan notas terrosas y ahumadas que equilibran la acidez del jitomate maduro."
+  },
+  {
+    "id": 909,
+    "title": "Salsa Beurre Blanc (Francia)",
+    "country": "Francia",
+    "category": "Salsas & Condimentos",
+    "tags": [
+      "beurre blanc",
+      "manteca francesa",
+      "valle del loira",
+      "francia",
+      "pescados",
+      "alta cocina",
+      "salsas emulsionadas"
+    ],
+    "prep_time": "10 min",
+    "cook_time": "15 min",
+    "total_time": "25 min",
+    "servings": "4 porciones (200 ml)",
+    "calories": "280 kcal por porción",
+    "difficulty": "Alta",
+    "diet_badges": [
+      "Vegetariano",
+      "Sin Gluten",
+      "Alta Cocina Francesa"
+    ],
+    "image": "https://lh3.googleusercontent.com/-y8lkVdYdfJ0/awnTsjbdgOI/AAAAAAAQD28/CfDlH3HtOfANSiseQGaMID0JcXZxnU6wQCNcBGAsYHQ/s1600/beurre_blanc.jpg",
+    "story": "Nacida hacia 1890 en Saint-Julien-de-Concelles, a orillas del río Loira, de la mano de la cocinera Clémence Lefeuvre, la beurre blanc surgió de un afortunado descuido al intentar preparar una salsa bearnesa para acompañar lucios del río y olvidar añadir las yemas de huevo. El resultado fue una emulsión tibia milagrosa: la manteca fría batida sobre una reducción ácida de chalotas y vino blanco Muscadet. En mi cocina es la salsa más noble que preparo para napar un filete de lenguado o salmón a la plancha.",
+    "ingredient_groups": [
+      {
+        "name": "Reducción Ácida de Chalotas",
+        "ingredients": [
+          "2 chalotas (echalotes) medianas picadas muy finamente (ciselé milimétrico)",
+          "100 ml de vino blanco seco de buena acidez (tipo Muscadet o Sauvignon Blanc)",
+          "2 cucharadas de vinagre de vino blanco",
+          "1 cucharada de crema de leche espesa (opcional, red de seguridad para estabilizar)"
+        ]
+      },
+      {
+        "name": "Montado y Terminación",
+        "ingredients": [
+          "180 g de manteca noble sin sal muy fría, cortada en cubitos regulares de 1 cm",
+          "Sal marina fina y pimienta blanca recién molida a gusto"
+        ]
+      }
+    ],
+    "ingredients": [
+      "2 chalotas medianas picadas muy finamente",
+      "100 ml de vino blanco seco de buena acidez",
+      "2 cucharadas de vinagre de vino blanco",
+      "1 cucharada de crema de leche espesa (opcional)",
+      "180 g de manteca noble sin sal muy fría cortada en cubitos",
+      "Sal marina fina y pimienta blanca recién molida a gusto"
+    ],
+    "step_groups": [
+      {
+        "name": "Reducción a Seco",
+        "steps": [
+          "En una cacerolita de fondo grueso a fuego medio, colocá las chalotas picadas, el vino blanco seco y el vinagre de vino blanco.",
+          "Reducí el líquido casi por completo (a sec) hasta que queden apenas dos cucharadas de reducción húmeda y las chalotas estén tiernas y transparentes.",
+          "Si utilizás la cucharada de crema de leche para estabilizar la emulsión, sumala ahora y dejá que rompa un hervor suave."
+        ]
+      },
+      {
+        "name": "Montado con Manteca Fría",
+        "steps": [
+          "Bajá el fuego al mínimo absoluto (o retirá del calor directo apoyando la base en un difusor).",
+          "Comenzá a incorporar los cubos de manteca fría de a dos por vez, batiendo enérgicamente con batidor de alambre hasta que cada adición se funda en una crema marfil aterciopelada antes de sumar la siguiente tanda.",
+          "Condimentá con sal marina fina y pimienta blanca molida, colá por colador chino si deseás una textura de seda pura sin chalotas, y serví tibia de inmediato sobre pescado fresco."
+        ]
+      }
+    ],
+    "steps": [
+      "En una cacerolita de fondo grueso a fuego medio, colocá las chalotas picadas, el vino blanco seco y el vinagre de vino blanco.",
+      "Reducí el líquido casi por completo hasta que queden apenas dos cucharadas de reducción húmeda y las chalotas estén tiernas y transparentes.",
+      "Bajá el fuego al mínimo absoluto o retirá del calor directo.",
+      "Comenzá a incorporar los cubos de manteca fría de a dos por vez, batiendo enérgicamente con batidor de alambre hasta que cada adición se funda en una crema marfil aterciopelada antes de sumar la siguiente tanda.",
+      "Condimentá con sal marina fina y pimienta blanca molida, colá por colador chino si deseás una textura de seda pura sin chalotas, y serví tibia de inmediato sobre pescado fresco."
+    ],
+    "notes": "La manteca debe estar casi congelada: cortar la manteca en cubitos y mantenerla en la heladera hasta el segundo exacto de incorporarla es el truco técnico fundamental. La manteca fría permite que los sólidos grasos y el suero se emulsionen con la reducción ácida sin fundirse en aceite transparente separado."
+  },
+  {
+    "id": 910,
+    "title": "Salsa Velouté (Francia)",
+    "country": "Francia",
+    "category": "Salsas & Condimentos",
+    "tags": [
+      "salsa veloute",
+      "veloute",
+      "salsas madre",
+      "francia",
+      "roux rubio",
+      "fondo blanco",
+      "alta cocina",
+      "cocina clasica"
+    ],
+    "prep_time": "10 min",
+    "cook_time": "20 min",
+    "total_time": "30 min",
+    "servings": "6 porciones (500 ml)",
+    "calories": "120 kcal por porción",
+    "difficulty": "Media",
+    "diet_badges": [
+      "Clásico Francés",
+      "Salsas Madre",
+      "Sin Lácteos"
+    ],
+    "image": "https://lh3.googleusercontent.com/-EMUDJMDSIKY/awnTtLig0FI/AAAAAAAQD3E/a42ZNBmfmtolEWJY8up_TXAstz4VEBvsgCNcBGAsYHQ/s1600/veloute.jpg",
+    "story": "Clasificada por Marie-Antoine Carême y perfeccionada por Auguste Escoffier como una de las cuatro columnas vertebrales de la alta cocina clásica francesa, la velouté debe su nombre a su textura aterciopelada insuperable. Nacida de ligar un fondo blanco de ave, ternera o pescado con un roux rubio cocinado con paciencia, es la base madre de salsas legendarias como la Suprême o la Allemande. En mi cocina es el recurso maestro para elevar pechugas de pollo asadas o pescados pochados con un brillo nacarado sutil.",
+    "ingredient_groups": [
+      {
+        "name": "Roux Rubio Francés",
+        "ingredients": [
+          "45 g de manteca clarificada o manteca sin sal",
+          "45 g de harina de trigo común 000"
+        ]
+      },
+      {
+        "name": "Fondo y Ligado Nacarado",
+        "ingredients": [
+          "600 ml de fondo blanco de ave o ternera hirviendo (desgrasado y aromático)",
+          "Sal marina fina y pimienta blanca molida a gusto"
+        ]
+      }
+    ],
+    "ingredients": [
+      "45 g de manteca clarificada o manteca sin sal",
+      "45 g de harina de trigo común 000",
+      "600 ml de fondo blanco de ave hirviendo",
+      "Sal marina fina y pimienta blanca molida a gusto"
+    ],
+    "step_groups": [
+      {
+        "name": "Elaboración del Roux Rubio",
+        "steps": [
+          "Fundí la manteca en una cacerola a fuego medio sin que se dore.",
+          "Añadí la harina de golpe y cociná con cuchara de madera durante 4 a 5 minutos a fuego suave hasta que adquiera un tono dorado pálido pajizo (roux blond) y desprenda un aroma tostado a avellanas."
+        ]
+      },
+      {
+        "name": "Cocción y Tamizado de Seda",
+        "steps": [
+          "Verté el fondo blanco de ave hirviendo poco a poco mientras batís con batidor de alambre para ligar la crema de manera uniforme.",
+          "Bajá el fuego al mínimo y dejá cocinar a fuego muy suave durante 15 minutos retirando con espumadera cualquier espuma que suba a la superficie.",
+          "Sazoná con sal marina y pimienta blanca, colá por un tamiz fino de tela o colador chino para obtener un velo satinado impecable, y serví bien caliente."
+        ]
+      }
+    ],
+    "steps": [
+      "Fundí la manteca en una cacerola a fuego medio sin que se dore.",
+      "Añadí la harina de golpe y cociná con cuchara de madera durante 4 a 5 minutos a fuego suave hasta que adquiera un tono dorado pálido pajizo y desprenda un aroma tostado a avellanas.",
+      "Verté el fondo blanco de ave hirviendo poco a poco mientras batís con batidor de alambre para ligar la crema de manera uniforme.",
+      "Bajá el fuego al mínimo y dejá cocinar a fuego muy suave durante 15 minutos retirando con espumadera cualquier espuma que suba a la superficie.",
+      "Sazoná con sal marina y pimienta blanca, colá por un tamiz fino de tela o colador chino para obtener un velo satinado impecable, y serví bien caliente."
+    ],
+    "notes": "Un fondo de calidad es el 90% del éxito: a diferencia de la bechamel donde predomina la leche, en la velouté el sabor proviene exclusivamente del caldo de ave o ternera. Usar un fondo casero bien reducido y colado es lo que separa una salsa de escuela de una preparación ordinaria."
+  },
+  {
+    "id": 911,
+    "title": "Salsa Raita (India)",
+    "country": "India",
+    "category": "Salsas & Condimentos",
+    "tags": [
+      "salsa raita",
+      "raita",
+      "pepino",
+      "yogur",
+      "india",
+      "comino tostado",
+      "curry",
+      "cocina hindu",
+      "salsa fresca"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "2 min",
+    "total_time": "17 min",
+    "servings": "4 porciones (300 ml)",
+    "calories": "65 kcal por porción",
+    "difficulty": "Baja",
+    "diet_badges": [
+      "Vegetariano",
+      "Sin Gluten",
+      "Sin Horno",
+      "Cocina India"
+    ],
+    "image": "https://lh3.googleusercontent.com/-_aiGQpjbgKc/awnTuVirtMI/AAAAAAAQD3M/ZIu_-uN6CMMtf_73JnNub9qgZV79UAM9QCNcBGAsYHQ/s1600/raita.jpg",
+    "story": "Mencionada en antiquísimos textos sánscritos y perfeccionada en los banquetes mogoles del norte de la India, la raita nació bajo los principios ayurvédicos como el remedio refrescante imprescindible para apaciguar el fuego interior provocado por los chiles y las mezclas de garam masala. Al combinar yogur natural espeso con pepino rallado y comino tostado al mortero, refresca el paladar entre bocado y bocado de biryani, tandoori o curry picante. En mi cocina es el condimento fresco obligatorio de cualquier banquete oriental.",
+    "ingredient_groups": [
+      {
+        "name": "Yogur y Vegetales Frescos",
+        "ingredients": [
+          "250 g de yogur natural entero sin azúcar (tipo dahi o yogur griego escurrido)",
+          "1 pepino mediano fresco (pelado, sin semillas y rallado fino)",
+          "2 cucharadas de hojas de menta fresca picada fina",
+          "1 cucharada de cilantro fresco picado"
+        ]
+      },
+      {
+        "name": "Especias Tostadas y Condimento",
+        "ingredients": [
+          "1 cucharadita de semillas de comino enteras",
+          "1/2 cucharadita de sal marina fina (o sal negra india kala namak)",
+          "1 pizca de pimienta de cayena o chile verde picado fino (opcional)",
+          "1 pizca de garam masala para espolvorear"
+        ]
+      }
+    ],
+    "ingredients": [
+      "250 g de yogur natural entero sin azúcar",
+      "1 pepino mediano fresco rallado fino",
+      "2 cucharadas de menta fresca picada",
+      "1 cucharada de cilantro fresco picado",
+      "1 cucharadita de semillas de comino enteras",
+      "1/2 cucharadita de sal marina fina",
+      "1 pizca de pimienta de cayena",
+      "1 pizca de garam masala para espolvorear"
+    ],
+    "step_groups": [
+      {
+        "name": "Drenado del Pepino y Tostado",
+        "steps": [
+          "Rallá el pepino, espolvorealo con una pizca de sal en un colador y dejalo reposar 10 minutos; estrujalo con las manos para retirar todo el exceso de líquido amargo.",
+          "En una sartén seca a fuego medio, tostá las semillas de comino durante 1 minuto hasta que crepiten y desprendan un aroma tostado terroso; machacalas al mortero de manera gruesa."
+        ]
+      },
+      {
+        "name": "Integración y Enfriado",
+        "steps": [
+          "En un bol hondo, batí el yogur natural con la sal hasta que quede cremoso y homogéneo.",
+          "Sumá el pepino escurrido, la menta, el cilantro picado y el comino tostado molido, integrando con suavidad.",
+          "Llevá a la heladera durante 15 minutos y serví bien fría espolvoreada con un toque de comino molido extra y hojas de menta fresca."
+        ]
+      }
+    ],
+    "steps": [
+      "Rallá el pepino, espolvorealo con una pizca de sal en un colador y dejalo reposar 10 minutos; estrujalo con las manos para retirar todo el exceso de líquido amargo.",
+      "En una sartén seca a fuego medio, tostá las semillas de comino durante 1 minuto hasta que crepiten y desprendan un aroma tostado terroso; machacalas al mortero de manera gruesa.",
+      "En un bol hondo, batí el yogur natural con la sal hasta que quede cremoso y homogéneo.",
+      "Sumá el pepino escurrido, la menta, el cilantro picado y el comino tostado molido, integrando con suavidad.",
+      "Llevá a la heladera durante 15 minutos y serví bien fría espolvoreada con un toque de comino molido extra y hojas de menta fresca."
+    ],
+    "notes": "Tostar el comino al momento: nunca uses comino en polvo crudo de frasco; tostar las semillas enteras al momento y majarlas en caliente en el mortero es lo que otorga ese aroma ahumado dulce que contrasta mágicamente con la frescura ácida del yogur."
+  },
+  {
+    "id": 912,
+    "title": "Ají Colombiano (Colombia)",
+    "country": "Colombia",
+    "category": "Salsas & Condimentos",
+    "tags": [
+      "aji colombiano",
+      "empanadas colombianas",
+      "colombia",
+      "cilantro",
+      "cebolla de verdeo",
+      "picante",
+      "cocina colombiana"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "0 min",
+    "total_time": "15 min",
+    "servings": "6 porciones (300 ml)",
+    "calories": "30 kcal por porción",
+    "difficulty": "Baja",
+    "diet_badges": [
+      "Vegano",
+      "Vegetariano",
+      "Sin Gluten",
+      "Sin Grasa",
+      "Sin Horno"
+    ],
+    "image": "https://lh3.googleusercontent.com/-7aOjzt9j5Yo/awnTvGn6KoI/AAAAAAAQD3U/mfdyM8d31_YLN6kFV_GN5sJpKu3tF-5mACNcBGAsYHQ/s1600/aji_colombiano.jpg",
+    "story": "Eje central de la mesa campesina y callejera de Colombia, el ají picado —o ají casero— es el compañero inseparable de las empanadas de maíz amarillo recién fritas, los sancochos y las carnes asadas de los llanos y la cordillera. A diferencia de las salsas licuadas de otros países andinos, la tradición colombiana exige un corte manual milimétrico a cuchillo para que los tropezones de tomate maduro, cebolla de verdeo y cilantro crujan en cada bocado. En mi mesa lo preparo en frasco de vidrio para acompañar empanadas y asados.",
+    "ingredient_groups": [
+      {
+        "name": "Vegetales Frescos Picados a Cuchillo",
+        "ingredients": [
+          "2 tomates rojos maduros y firmes (despepitados y cortados en brunoise milimétrica)",
+          "3 tallos de cebolla de verdeo (cebolla junca colombiana), finamente picados",
+          "1 ají picante rojo o verde (habanero o ají chivato), finamente picado sin semillas",
+          "1 atado abundante de cilantro fresco picado fino (hojas y tallos tiernos)"
+        ]
+      },
+      {
+        "name": "Aliño y Vinagreta Criolla",
+        "ingredients": [
+          "60 ml de vinagre blanco de caña",
+          "Jugo recién exprimido de 2 limones criollos",
+          "60 ml de agua fresca o caldo frío",
+          "1 cucharadita de sal marina fina y pizca de pimienta negra recién molida"
+        ]
+      }
+    ],
+    "ingredients": [
+      "2 tomates rojos maduros y firmes en brunoise fina",
+      "3 tallos de cebolla de verdeo picados",
+      "1 ají picante rojo o verde finamente picado",
+      "1 atado abundante de cilantro fresco picado",
+      "60 ml de vinagre blanco de caña",
+      "Jugo recién exprimido de 2 limones criollos",
+      "60 ml de agua fresca",
+      "1 cucharadita de sal marina fina y pimienta negra molida"
+    ],
+    "step_groups": [
+      {
+        "name": "Picado a Cuchillo",
+        "steps": [
+          "Picá a mano con cuchillo bien afilado los tomates sin semillas, la cebolla de verdeo con su parte blanca y verde, el ají picante sin venas y el cilantro fresco.",
+          "Colocá todos los vegetales cortados en un cuenco de cerámica o frasco de vidrio amplio."
+        ]
+      },
+      {
+        "name": "Aliño y Macerado",
+        "steps": [
+          "Sumá el vinagre blanco, el jugo de limón fresco, el agua y la sal marina, mezclando con cuchara de madera.",
+          "Dejá reposar a temperatura ambiente durante al menos 20 minutos antes de servir; la maceración amortigua la fuerza de la cebolla y perfuma el líquido con el cilantro para cucharear sobre empanadas calientes."
+        ]
+      }
+    ],
+    "steps": [
+      "Picá a mano con cuchillo bien afilado los tomates sin semillas, la cebolla de verdeo con su parte blanca y verde, el ají picante sin venas y el cilantro fresco.",
+      "Colocá todos los vegetales cortados en un cuenco de cerámica o frasco de vidrio amplio.",
+      "Sumá el vinagre blanco, el jugo de limón fresco, el agua y la sal marina, mezclando con cuchara de madera.",
+      "Dejá reposar a temperatura ambiente durante al menos 20 minutos antes de servir para amalgamar los sabores."
+    ],
+    "notes": "Corte a cuchillo, nunca licuadora: licuar el ají colombiano lo oxida y le quita la textura crujiente de huerta fresca; el placer de este condimento es sentir la frescura crocante de la cebolla y el tomate con el ardor del ají."
+  },
+  {
+    "id": 913,
+    "title": "Salsa Golf (Argentina)",
+    "country": "Argentina",
+    "category": "Salsas & Condimentos",
+    "tags": [
+      "salsa golf",
+      "salsa cocktail",
+      "argentina",
+      "leloir",
+      "mar del plata",
+      "langostinos",
+      "bodegon porteno",
+      "mayonesa"
+    ],
+    "prep_time": "10 min",
+    "cook_time": "0 min",
+    "total_time": "10 min",
+    "servings": "6 porciones (250 ml)",
+    "calories": "170 kcal por porción",
+    "difficulty": "Baja",
+    "diet_badges": [
+      "Vegetariano",
+      "Sin Gluten",
+      "Bodegón Porteño",
+      "Clásico Argentino"
+    ],
+    "image": "https://lh3.googleusercontent.com/-ey81yfkF3Hg/awnTv3IJL0I/AAAAAAAQD3c/97vkIgp9ke4IAfUa55FJK02ulno-2EHXACNcBGAsYHQ/s1600/salsa_golf.jpg",
+    "story": "Nacida en la década de 1920 en el restaurante del Golf Club de Mar del Plata de la mano del ilustre científico argentino Luis Federico Leloir —quien años más tarde recibiría el Premio Nobel de Química—, la salsa golf surgió de la curiosidad de experimentar con condimentos de mesa para acompañar langostinos fríos. Su tono rosado pastel y su armonía entre la untuosidad de la mayonesa y el dulzor ácido del tomate la convirtieron en el icono definitivo de los copetines y bodegones porteños. En mi cocina es el aderezo fetiche para servir un clásico cóctel de camarones o huevos rellenos.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Emulsión Rosada",
+        "ingredients": [
+          "200 g de mayonesa casera firme de buena calidad",
+          "3 cucharadas colmadas de ketchup de tomate clásico"
+        ]
+      },
+      {
+        "name": "El Toque Maestro de Bodegón",
+        "ingredients": [
+          "1 cucharadita de salsa inglesa (Worcestershire)",
+          "1 cucharadita de coñac o whisky (el secreto noble del creador)",
+          "1 cucharadita de jugo de limón recién exprimido",
+          "1 pizca de pimentón dulce y sal marina fina a gusto"
+        ]
+      }
+    ],
+    "ingredients": [
+      "200 g de mayonesa casera firme",
+      "3 cucharadas colmadas de ketchup de tomate clásico",
+      "1 cucharadita de salsa inglesa (Worcestershire)",
+      "1 cucharadita de coñac o whisky",
+      "1 cucharadita de jugo de limón recién exprimido",
+      "1 pizca de pimentón dulce y sal marina fina a gusto"
+    ],
+    "step_groups": [
+      {
+        "name": "Integración y Batido",
+        "steps": [
+          "En un bol mediano, colocá la mayonesa firme y agregá el ketchup, batiendo con cuchara o espátula hasta obtener un tono rosado parejo y sedoso.",
+          "Sumá las gotas de salsa inglesa, el jugo de limón colado, la cucharadita de coñac y la pizca de pimentón dulce.",
+          "Mezclá con suavidad hasta integrar por completo, cubrí y enfriá en heladera durante 15 minutos antes de salsear mariscos o palmitos."
+        ]
+      }
+    ],
+    "steps": [
+      "En un bol mediano, colocá la mayonesa firme y agregá el ketchup, batiendo con cuchara o espátula hasta obtener un tono rosado parejo y sedoso.",
+      "Sumá las gotas de salsa inglesa, el jugo de limón colado, la cucharadita de coñac y la pizca de pimentón dulce.",
+      "Mezclá con suavidad hasta integrar por completo, cubrí y enfriá en heladera durante 15 minutos antes de salsear mariscos o palmitos."
+    ],
+    "notes": "El coñac es el verdadero secreto de Leloir: unas gotas de buen destilado y salsa inglesa transforman lo que sería una mezcla infantil de aderezos en una salsa compleja, aromática y aterciopelada de alta cocina de bodegón."
+  },
+  {
+    "id": 914,
+    "title": "Ketchup Casero (Estados Unidos)",
+    "country": "Estados Unidos",
+    "category": "Salsas & Condimentos",
+    "tags": [
+      "ketchup casero",
+      "ketchup",
+      "tomate",
+      "artesanal",
+      "estados unidos",
+      "hamburguesas",
+      "papas fritas",
+      "condimento"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "45 min",
+    "total_time": "1 h",
+    "servings": "8 porciones (400 ml)",
+    "calories": "55 kcal por porción",
+    "difficulty": "Baja",
+    "diet_badges": [
+      "Vegano",
+      "Vegetariano",
+      "Sin Gluten",
+      "Sin Conservantes"
+    ],
+    "image": "https://lh3.googleusercontent.com/-Yv3rz2fG4Bc/awnTwiCV5tI/AAAAAAAQD3k/i14eeb7g7esV9_FWAZfgrMXDwCadcimSwCNcBGAsYHQ/s1600/ketchup.jpg",
+    "story": "Evolucionado a partir de antiguas salsas fermentadas del sudeste asiático y adaptado en la costa este de los Estados Unidos a lo largo del siglo XIX, el ketchup casero alcanzó su estatus legendario cuando los horticultores de Pensilvania y Nueva Inglaterra combinaron tomates maduros cocinados a fuego lento con vinagre de sidra y especias dulces. Lejos de las versiones industriales ultraprocesadas con jarabe de maíz, la receta artesanal ofrece un sabor profundo a tomate real con notas de clavo y canela. En mi cocina es el condimento preferido para acompañar hamburguesas caseras y papas rústicas.",
+    "ingredient_groups": [
+      {
+        "name": "Tomates y Base Vegetal",
+        "ingredients": [
+          "800 g de tomates perita maduros carnosos (o passata pura concentrada)",
+          "1 cebolla blanca mediana picada",
+          "1 diente de ajo machacado",
+          "1 cucharada de aceite de oliva neutro"
+        ]
+      },
+      {
+        "name": "Especias Dulces y Vinagre",
+        "ingredients": [
+          "80 ml de vinagre de manzana de calidad",
+          "50 g de azúcar rubia o mascabo",
+          "1 ramita de canela pequeña y 2 clavos de olor enteros",
+          "1/2 cucharadita de mostaza en polvo o semillas machacadas",
+          "1/2 cucharadita de sal marina fina y pimienta negra molida"
+        ]
+      }
+    ],
+    "ingredients": [
+      "800 g de tomates perita maduros carnosos",
+      "1 cebolla blanca mediana picada",
+      "1 diente de ajo machacado",
+      "1 cucharada de aceite de oliva",
+      "80 ml de vinagre de manzana",
+      "50 g de azúcar rubia o mascabo",
+      "1 ramita de canela pequeña y 2 clavos de olor",
+      "1/2 cucharadita de mostaza en polvo",
+      "1/2 cucharadita de sal marina fina y pimienta negra molida"
+    ],
+    "step_groups": [
+      {
+        "name": "Sofrito y Cocción Lenta",
+        "steps": [
+          "En una cacerola con el aceite a fuego medio, rehogá la cebolla y el ajo durante 5 minutos hasta que estén tiernos.",
+          "Agregá los tomates troceados con sus jugos, el vinagre de manzana, el azúcar rubia, la canela, los clavos de olor, la mostaza en polvo y la sal marina.",
+          "Llevá a ebullición suave, bajá el fuego al mínimo y dejá reducir durante 40 a 45 minutos destapado, removiendo con frecuencia para que la pulpa espese naturalmente sin quemarse."
+        ]
+      },
+      {
+        "name": "Triturado y Embotellado",
+        "steps": [
+          "Retirá la ramita de canela y los clavos de olor.",
+          "Licuá la salsa a máxima potencia hasta lograr una textura completamente lisa y de color rojo rubí intenso; pasala por un colador fino si deseás un acabado ultra terso.",
+          "Dejá enfriar y embotellá en frasco de vidrio esterilizado; se conserva fresco en heladera durante semanas."
+        ]
+      }
+    ],
+    "steps": [
+      "En una cacerola con el aceite a fuego medio, rehogá la cebolla y el ajo durante 5 minutos hasta que estén tiernos.",
+      "Agregá los tomates troceados con sus jugos, el vinagre de manzana, el azúcar rubia, la canela, los clavos de olor, la mostaza en polvo y la sal marina.",
+      "Llevá a ebullición suave, bajá el fuego al mínimo y dejá reducir durante 40 a 45 minutos destapado, removiendo con frecuencia para que la pulpa espese naturalmente.",
+      "Retirá la ramita de canela y los clavos de olor.",
+      "Licuá la salsa a máxima potencia hasta lograr una textura completamente lisa y de color rojo rubí intenso; pasala por un colador fino para un acabado sedoso.",
+      "Dejá enfriar y embotellá en frasco de vidrio esterilizado."
+    ],
+    "notes": "Reducción mansa sin almidones: el verdadero ketchup artesanal no necesita almidón de maíz ni espesantes; la pectina natural del tomate maduro cocinada lentamente con azúcar y vinagre genera una consistencia gelatinosa y brillante insuperable."
+  },
+  {
+    "id": 915,
+    "title": "Salsa Agridulce (China)",
+    "country": "China",
+    "category": "Salsas & Condimentos",
+    "tags": [
+      "salsa agridulce",
+      "tangcu",
+      "china",
+      "canton",
+      "arrolladitos primavera",
+      "wontons",
+      "dim sum",
+      "cocina cantonesa"
+    ],
+    "prep_time": "5 min",
+    "cook_time": "8 min",
+    "total_time": "13 min",
+    "servings": "6 porciones (300 ml)",
+    "calories": "70 kcal por porción",
+    "difficulty": "Baja",
+    "diet_badges": [
+      "Vegano",
+      "Vegetariano",
+      "Sin Gluten",
+      "Cocina China"
+    ],
+    "image": "https://lh3.googleusercontent.com/-XUPDeK49pu0/awnTx5pxQSI/AAAAAAAQD3s/lRv8OsmSRCQykuCfskMCq12RZZhBOKfbQCNcBGAsYHQ/s1600/agridulce.jpg",
+    "story": "Originaria de la gastronomía cantonesa de la provincia de Cantón (Guangdong) bajo el nombre milenario de Tangcu (literalmente 'azúcar y vinagre'), esta salsa translúcida y brillante nació a orillas del delta del río de las Perlas para acompañar pescados de río fritos y bocadillos de dim sum. Su textura almibarada y su balance adictivo entre el ácido del vinagre de arroz y el dulzor frutal conquistaron los restaurantes chinos de todo el mundo. En mi cocina es la salsa estelar para mojar arrolladitos primavera crocantes y wantanes recién fritos.",
+    "ingredient_groups": [
+      {
+        "name": "Base Líquida Agridulce",
+        "ingredients": [
+          "120 ml de vinagre de arroz blanco suave (o vinagre de manzana)",
+          "4 cucharadas de azúcar blanca o rubia",
+          "2 cucharadas de salsa de tomate o ketchup suave (para el color rojo brillante)",
+          "1 cucharada de salsa de soja clara",
+          "120 ml de agua fresca"
+        ]
+      },
+      {
+        "name": "Ligado Brillante",
+        "ingredients": [
+          "1 cucharada colmada de almidón de maíz (fécula de maíz)",
+          "2 cucharadas de agua fría (para disolver la fécula)",
+          "1 pizca de sal marina"
+        ]
+      }
+    ],
+    "ingredients": [
+      "120 ml de vinagre de arroz blanco suave",
+      "4 cucharadas de azúcar blanca o rubia",
+      "2 cucharadas de salsa de tomate o ketchup suave",
+      "1 cucharada de salsa de soja clara",
+      "120 ml de agua fresca",
+      "1 cucharada colmada de almidón de maíz",
+      "2 cucharadas de agua fría para disolver la fécula",
+      "1 pizca de sal marina"
+    ],
+    "step_groups": [
+      {
+        "name": "Disolución y Hervor",
+        "steps": [
+          "En una cacerolita a fuego medio, combiná el vinagre de arroz, el agua, el azúcar, la salsa de tomate y la salsa de soja, revolviendo hasta que el azúcar se disuelva por completo y rompa un hervor suave.",
+          "En un cuenco pequeño, disolvé la cucharada de almidón de maíz en las dos cucharadas de agua fría hasta obtener un líquido blanco lechoso sin grumos."
+        ]
+      },
+      {
+        "name": "Espesado y Lustre",
+        "steps": [
+          "Verté la fécula disuelta en hilo sobre la salsa hirviendo mientras batís continuamente con batidor de alambre.",
+          "Cociná durante 1 a 2 minutos sin dejar de revolver hasta que la salsa espese de golpe, transformándose en una crema roja, brillante y translúcida.",
+          "Retirá del fuego y dejá entibiar antes de servir como dip para arrolladitos primavera o verter sobre carnes salteadas."
+        ]
+      }
+    ],
+    "steps": [
+      "En una cacerolita a fuego medio, combiná el vinagre de arroz, el agua, el azúcar, la salsa de tomate y la salsa de soja, revolviendo hasta que el azúcar se disuelva por completo y rompa un hervor suave.",
+      "En un cuenco pequeño, disolvé la cucharada de almidón de maíz en las dos cucharadas de agua fría hasta obtener un líquido blanco lechoso sin grumos.",
+      "Verté la fécula disuelta en hilo sobre la salsa hirviendo mientras batís continuamente con batidor de alambre.",
+      "Cociná durante 1 a 2 minutos sin dejar de revolver hasta que la salsa espese de golpe, transformándose en una crema roja, brillante y translúcida.",
+      "Retirá del fuego y dejá entibiar antes de servir como dip para arrolladitos primavera o verter sobre carnes salteadas."
+    ],
+    "notes": "Fécula disuelta siempre en frío: verter el almidón de maíz directamente en polvo sobre líquido caliente generará grumos gelatinosos insalvables. Disolverlo previamente en agua fría asegura esa consistencia de laca vidriada transparente clásica de la cocina cantonesa."
   }
 ]
