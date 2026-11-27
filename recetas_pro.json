@@ -97618,5 +97618,175 @@
       "Retirá del fuego y dejá entibiar antes de servir como dip para arrolladitos primavera o verter sobre carnes salteadas."
     ],
     "notes": "Fécula disuelta siempre en frío: verter el almidón de maíz directamente en polvo sobre líquido caliente generará grumos gelatinosos insalvables. Disolverlo previamente en agua fría asegura esa consistencia de laca vidriada transparente clásica de la cocina cantonesa."
+  },
+  {
+    "id": 916,
+    "title": "Chicken Tenders con Hot Honey (Reino Unido)",
+    "country": "Reino Unido",
+    "category": "Pollo & Aves",
+    "tags": [
+      "chicken tenders con hot honey",
+      "chicken tenders",
+      "pollo frito",
+      "hot honey",
+      "fallow london",
+      "fowl",
+      "blue cheese ranch",
+      "pollo crujiente",
+      "comida británica",
+      "receta fácil",
+      "paso a paso",
+      "finger food",
+      "street food",
+      "comfort food"
+    ],
+    "image": "https://lh3.googleusercontent.com/-UGKH8hsH7CA/awng7qq_OfI/AAAAAAAQD4s/72O5w8BE9TEgh5o-b_z74pju6nWQfUMMgCNcBGAsYHQ/s1600/chicken_tenders_hot_honey.jpg",
+    "story": "Nacida en el epicentro gastronómico de St. James’s en Londres por los chefs Jack Croft y Will Murray, esta preparación representa la cumbre de la evolución británica del pollo frito de taberna contemporánea. Inspirada en los locales populares de aves de corral de la capital británica, la fórmula fue perfeccionada en el restaurante FOWL para redefinir el tender moderno combinando técnicas de alta cocina con la cultura urbana del pollo crujiente.",
+    "ingredient_groups": [
+      {
+        "name": "Pollo y Salmuera",
+        "ingredients": [
+          "800 g de pata-muslo de pollo deshuesada y sin piel",
+          "300 ml de agua fría",
+          "1 cucharada de sal fina",
+          "2 cucharadas de salsa Sriracha"
+        ]
+      },
+      {
+        "name": "Rebozado Seco (Dry Dredge)",
+        "ingredients": [
+          "250 g de harina de trigo común 000",
+          "100 g de almidón de maíz (maicena)",
+          "1 cucharada colmada de polvo de hornear (baking powder)",
+          "1 cucharadita de ajo en polvo",
+          "1 cucharadita de cebolla en polvo",
+          "1 cucharadita de pimentón dulce (paprika)",
+          "1 cucharadita de pimienta negra recién molida",
+          "1 cucharadita de sal fina"
+        ]
+      },
+      {
+        "name": "Mezcla Húmeda",
+        "ingredients": [
+          "200 ml de buttermilk (o leche entera con 1 cucharada de jugo de limón reposada 10 minutos)",
+          "1 cucharada de almidón de maíz"
+        ]
+      },
+      {
+        "name": "Hot Honey de Fallow (Glaseado Picante)",
+        "ingredients": [
+          "150 g de miel pura de abeja",
+          "1 cucharadita de semillas de hinojo tostadas",
+          "1 cucharadita de pimienta de Sichuan (o pimienta negra en grano)",
+          "1 cucharadita de copos de chile seco (chili flakes)",
+          "2 dientes de ajo rallados finos en microplane"
+        ]
+      },
+      {
+        "name": "Blue Cheese Ranch Dip",
+        "ingredients": [
+          "100 g de queso azul desgranado",
+          "80 g de mayonesa japonesa Kewpie (o mayonesa casera)",
+          "60 ml de buttermilk",
+          "1 cucharada de jugo de limón fresco",
+          "1 cucharadita de vinagre de vino blanco",
+          "2 cucharadas de ciboulette fresco picado fino",
+          "Pimienta negra molida a gusto"
+        ]
+      },
+      {
+        "name": "Fritura",
+        "ingredients": [
+          "1 litro de aceite de girasol o maíz para freír"
+        ]
+      }
+    ],
+    "ingredients": [
+      "800 g de pata-muslo de pollo deshuesada y sin piel",
+      "300 ml de agua fría",
+      "1 cucharada de sal fina",
+      "2 cucharadas de salsa Sriracha",
+      "250 g de harina de trigo común 000",
+      "100 g de almidón de maíz (maicena)",
+      "1 cucharada colmada de polvo de hornear",
+      "1 cucharadita de ajo en polvo",
+      "1 cucharadita de cebolla en polvo",
+      "1 cucharadita de pimentón dulce",
+      "1 cucharadita de pimienta negra molida",
+      "1 cucharadita de sal fina",
+      "200 ml de buttermilk",
+      "1 cucharada extra de almidón de maíz",
+      "150 g de miel pura de abeja",
+      "1 cucharadita de semillas de hinojo",
+      "1 cucharadita de pimienta de Sichuan",
+      "1 cucharadita de copos de chile seco",
+      "2 dientes de ajo rallados finos",
+      "100 g de queso azul desgranado",
+      "80 g de mayonesa Kewpie",
+      "60 ml de buttermilk para el dip",
+      "1 cucharada de jugo de limón",
+      "1 cucharadita de vinagre de vino blanco",
+      "2 cucharadas de ciboulette picado",
+      "1 litro de aceite para freír"
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación y Salmuera del Pollo",
+        "steps": [
+          "Cortá las patas-muslo deshuesadas en tiras anchas parecidas a tenders, de unos 3 a 4 centímetros de ancho.",
+          "Con la punta bien afilada del cuchillo, realizá incisiones superficiales en cuadrícula (scoring) de 2 milímetros de profundidad sobre una de las caras de cada tira.",
+          "En un bol hondo, disolvé la sal y la Sriracha en el agua fría. Sumergí las tiras de pollo y dejalas marinar en la heladera durante al menos 30 a 60 minutos."
+        ]
+      },
+      {
+        "name": "Elaboración del Hot Honey y Blue Cheese Ranch",
+        "steps": [
+          "En una cacerolita a fuego bajo, colocá la miel junto con las semillas de hinojo, la pimienta de Sichuan y los copos de chile. Calentá a fuego muy suave durante 3 minutos sin que hierva a borbotones.",
+          "Sumá el ajo rallado finamente en microplane, cociná 2 minutos más para retirar el ardor crudo, apagá el fuego y dejá enfriar a temperatura ambiente para que infusione.",
+          "Para el aderezo ranch, desgraná el queso azul en un cuenco con una cuchara. Agregá la mayonesa Kewpie, el buttermilk, el jugo de limón, el vinagre de vino blanco y abundante pimienta negra. Batí con batidor de alambre hasta integrar y terminá con el ciboulette picado fresco."
+        ]
+      },
+      {
+        "name": "Rebozado con Técnica de Estalactitas (Crags)",
+        "steps": [
+          "En una fuente amplia, combiná la harina con el almidón de maíz, el polvo de hornear, el ajo en polvo, la cebolla en polvo, el pimentón, la pimienta y la sal.",
+          "En un cuenco separado, batí el buttermilk con la cucharada de almidón de maíz.",
+          "Escurrí 5 o 6 tiras de pollo de la salmuera y pasalas primero por la mezcla seca de harina, cubriéndolas por completo.",
+          "Sumergilas rápidamente en el buttermilk y devolvelas de inmediato a la harina seca.",
+          "Apretá suavemente el pollo para que la harina se adhiera a las ranuras del scoring y luego sacudí cada tira enérgicamente en el aire contra el borde del bol para que caiga el exceso y se formen las crestas y estalactitas rugosas."
+        ]
+      },
+      {
+        "name": "Fritura de Precisión y Emplatado",
+        "steps": [
+          "Calentá abundante aceite neutro en una olla profunda o sartén de hierro hasta alcanzar entre 185 °C y 190 °C.",
+          "Freí las tiras de pollo en tandas pequeñas de 4 a 6 piezas durante unos 4 a 5 minutos, dándolas vuelta a mitad de cocción, hasta que adquieran un color dorado intenso y costra crujiente de vidrio.",
+          "Retiralas inmediatamente con pinzas y apoyalas sobre una rejilla metálica para evitar que la condensación ablande la base.",
+          "Bañá los tenders calientes con un hilo generoso del Hot Honey infusionado y servilos al instante acompañados con el dip de Blue Cheese Ranch."
+        ]
+      }
+    ],
+    "steps": [
+      "Cortá las patas-muslo deshuesadas en tiras anchas parecidas a tenders, de unos 3 a 4 centímetros de ancho.",
+      "Con la punta bien afilada del cuchillo, realizá incisiones superficiales en cuadrícula (scoring) de 2 milímetros de profundidad sobre una de las caras de cada tira.",
+      "En un bol hondo, disolvé la sal y la Sriracha en el agua fría. Sumergí las tiras de pollo y dejalas marinar en la heladera durante al menos 30 a 60 minutos.",
+      "En una cacerolita a fuego bajo, colocá la miel junto con las semillas de hinojo, la pimienta de Sichuan y los copos de chile. Calentá a fuego muy suave durante 3 minutos sin que hierva a borbotones.",
+      "Sumá el ajo rallado finamente en microplane, cociná 2 minutos más para retirar el ardor crudo, apagá el fuego y dejá enfriar a temperatura ambiente para que infusione.",
+      "Para el aderezo ranch, desgraná el queso azul en un cuenco con una cuchara. Agregá la mayonesa Kewpie, el buttermilk, el jugo de limón, el vinagre de vino blanco y abundante pimienta negra. Batí con batidor de alambre hasta integrar y terminá con el ciboulette picado fresco.",
+      "En una fuente amplia, combiná la harina con el almidón de maíz, el polvo de hornear, el ajo en polvo, la cebolla en polvo, el pimentón, la pimienta y la sal.",
+      "En un cuenco separado, batí el buttermilk con la cucharada de almidón de maíz.",
+      "Escurrí 5 o 6 tiras de pollo de la salmuera y pasalas primero por la mezcla seca de harina, cubriéndolas por completo.",
+      "Sumergilas rápidamente en el buttermilk y devolvelas de inmediato a la harina seca.",
+      "Apretá suavemente el pollo para que la harina se adhiera a las ranuras del scoring y luego sacudí cada tira enérgicamente en el aire contra el borde del bol para que caiga el exceso y se formen las crestas y estalactitas rugosas.",
+      "Calentá abundante aceite neutro en una olla profunda o sartén de hierro hasta alcanzar entre 185 °C y 190 °C.",
+      "Freí las tiras de pollo en tandas pequeñas de 4 a 6 piezas durante unos 4 a 5 minutos, dándolas vuelta a mitad de cocción, hasta que adquieran un color dorado intenso y costra crujiente de vidrio.",
+      "Retiralas inmediatamente con pinzas y apoyalas sobre una rejilla metálica para evitar que la condensación ablande la base.",
+      "Bañá los tenders calientes con un hilo generoso del Hot Honey infusionado y servilos al instante acompañados con el dip de Blue Cheese Ranch."
+    ],
+    "notes": "Mi secreto para este plato: El cuadriculado superficial (scoring) no es un adorno visual; crea un anclaje mecánico que impide que el rebozado se desprenda al morder y permite que la salmuera penetre en minutos sin ablandar en exceso la carne. El polvo de hornear en la mezcla seca se activa térmicamente con el choque de 190 °C liberando microburbujas de CO2 que ahuecan la costra, dándole ese crujido etéreo y quebradizo de Popeyes. Apoyá siempre el pollo frito sobre una rejilla elevada, jamás sobre papel absorbente: el vapor atrapado debajo del papel ablanda la costra en segundos.",
+    "prep_time": "30 min",
+    "cook_time": "15 min",
+    "servings": "4 porciones",
+    "difficulty": "Media"
   }
 ]
