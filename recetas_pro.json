@@ -23154,6 +23154,18 @@
       "Añadir la mitad del aceite de oliva (60 ml) y batir para darle a la pasta una consistencia cremosa.",
       "Incorporar el resto del aceite de oliva poco a poco, en forma de hilo fino, sin dejar de batir para lograr una emulsión perfecta.",
       "Retirar del procesador, añadir los quesos recién rallados y mezclar a mano con una cuchara de madera. Probar y rectificar con sal y pimienta si fuera necesario."
+    ],
+    "pairing": [
+      {
+        "type": "PASTA CORTA TORSIONADA",
+        "name": "Trofie Liguri",
+        "icon": "trofie"
+      },
+      {
+        "type": "PASTA LARGA PLANA",
+        "name": "Linguine di Gragnano",
+        "icon": "linguine"
+      }
     ]
   },
   {
