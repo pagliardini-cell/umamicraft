@@ -5,10 +5,10 @@
   <base href="/">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Recetas del Mundo y Cocktails de Autor Paso a Paso | UmamiCraft</title>
-  <meta name="description" content="Descubre 898 recetas internacionales tradicionales y cocktails de autor explicados paso a paso con ingredientes exactos, fotos en alta definición, tiempos, porciones y calorías.">
+  <meta name="description" content="Descubre 900 recetas internacionales tradicionales y cocktails de autor explicados paso a paso con ingredientes exactos, fotos en alta definición, tiempos, porciones y calorías.">
   <meta property="og:type" content="website">
   <meta property="og:title" content="Recetas del Mundo y Cocktails de Autor Paso a Paso | UmamiCraft">
-  <meta property="og:description" content="Descubre 898 recetas internacionales tradicionales y cocktails de autor explicados paso a paso con ingredientes exactos, fotos en alta definición, tiempos, porciones y calorías.">
+  <meta property="og:description" content="Descubre 900 recetas internacionales tradicionales y cocktails de autor explicados paso a paso con ingredientes exactos, fotos en alta definición, tiempos, porciones y calorías.">
   <meta property="og:image" content="https://umamicraft.vercel.app/raviolo_uovo.jpg">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="800">
@@ -1784,6 +1784,7 @@
         <button class="chip" data-tag="Hamburguesas" onclick="setQuickTag('Hamburguesas')">🍔 Hamburguesas</button>
         <button class="chip" data-tag="Sándwiches" onclick="setQuickTag('Sándwiches')">🥪 Sándwiches</button>
         <button class="chip" data-tag="Pastas" onclick="setQuickTag('Pastas')">🍝 Pastas</button>
+        <button class="chip" data-tag="Pestos" onclick="setQuickTag('Pestos')">🌿 Pestos</button>
         <button class="chip" data-tag="Carnes" onclick="setQuickTag('Carnes')">🥩 Carnes</button>
         <button class="chip" data-tag="Pollo & Aves" onclick="setQuickTag('Pollo & Aves')">🍗 Pollo y Aves</button>
         <button class="chip" data-tag="Postres & Dulces" onclick="setQuickTag('Postres & Dulces')">🍰 Postres</button>
@@ -2156,6 +2157,9 @@
         }
         if (tagNorm === 'ramen') {
           return cat.includes('ramen') || title.includes('ramen') || inTags;
+        }
+        if (tagNorm === 'pestos' || tagNorm === 'pesto') {
+          return title.includes('pesto') || inTags || cat.includes('pesto') || r.id === 888;
         }
 
         return cat === tagNorm || cat.includes(tagNorm) || country.includes(tagNorm) || inTags;
@@ -2689,6 +2693,11 @@
                             (r.country || '').toLowerCase().includes('autor') ||
                             [11, 16, 22, 61, 65, 87, 112, 129, 185, 202, 211, 223, 227, 228, 240, 252, 346, 389, 393, 454].includes(r.id);
             if (!isAutor) return false;
+          } else if (currentQuickTag === 'Pestos' || currentQuickTag === 'Pesto' || currentQuickTag === 'pesto') {
+            const isPesto = (r.title || '').toLowerCase().includes('pesto') ||
+                            (r.tags || []).some(t => String(t).toLowerCase().includes('pesto')) ||
+                            r.id === 888;
+            if (!isPesto) return false;
           } else {
             const matchCat = category.toLowerCase() === currentQuickTag.toLowerCase();
             const matchCountry = country.toLowerCase().includes(currentQuickTag.toLowerCase());

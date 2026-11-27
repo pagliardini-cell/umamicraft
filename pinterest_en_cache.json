@@ -8892,5 +8892,55 @@
       "700 g fresh baby spinach, washed and drained thoroughly",
       "4 green onions (scallions), finely chopped"
     ]
+  },
+  "894": {
+    "title_en": "Amalfi Pesto (Italy)",
+    "hook_en": "Born in the terraced lemon groves that crown the cliffs of the Amalfi Coast and the Sorrento Peninsula, lemon pesto is the ultimate expression of...",
+    "ingredients_en": [
+      "Fine zest of 2 fresh ripe lemons (only the outer yellow layer)",
+      "60 ml freshly squeezed and strained lemon juice",
+      "1 bunch of fresh basil (clean and dry leaves)",
+      "8 fresh mint leaves"
+    ]
+  },
+  "895": {
+    "title_en": "Pesto agli Agrumi (Italy)",
+    "hook_en": "Originating in the coastal orchards of eastern Sicily, between Catania and Syracuse, this pesto combines the richness of Sicilian citrus fruits with the famous a...",
+    "ingredients_en": [
+      "1 juicy sweet orange (finely zest and the segments peeled sharply, without skins or seeds)",
+      "1 ripe lemon (fine zest and 2 tablespoons juice)",
+      "1 bunch of fresh broadleaf basil",
+      "6 fresh mint leaves"
+    ]
+  },
+  "896": {
+    "title_en": "Pesto di Radicchio e Noci (Italy)",
+    "hook_en": "Born in the winter fields of Treviso and Veneto, this pesto celebrates the famous radicchio rosso, the red chicory that local farmers perfect...",
+    "ingredients_en": [
+      "250 g radicchio rosso (fresh red radicchio), washed and cut into fine juliennes",
+      "2 tablespoons extra virgin olive oil (for sautéing)",
+      "1 small clove of garlic crushed",
+      "1 pinch of fine sea salt"
+    ]
+  },
+  "897": {
+    "title_en": "Pesto di Capperi e Pomodori Secchi (Italy)",
+    "hook_en": "Coming from the volcanic island of Pantelleria and the southern coast of Sicily, this pesto is born from the ancient methods of preservation under the Mediterranean sun...",
+    "ingredients_en": [
+      "100 g of dried tomatoes hydrated in warm water for 20 minutes and well drained",
+      "50 g capers in salt or brine (rinsed and desalted in fresh water for 15 minutes)",
+      "1 heaped tablespoon dried wild oregano",
+      "1 small clove of garlic without germ"
+    ]
+  },
+  "898": {
+    "title_en": "Pesto alla Romana (Italy)",
+    "hook_en": "Inspired by the herbaceous aromas of the Lazio countryside and traditional Roman orchards, this pesto brings out the prominence of Roman mint, historically...",
+    "ingredients_en": [
+      "1 abundant bunch of fresh tender mint (clean and dry leaves only)",
+      "1/2 bunch of fresh flat leaf parsley",
+      "1 small clove of garlic without the internal sprout",
+      "60 g toasted peeled almonds (or pine nuts)"
+    ]
   }
 }

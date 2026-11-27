@@ -381,11 +381,18 @@
       "Incorporar la salsa de tomate, diluir con el agua, sumar las hierbas aromáticas (romero, tomillo, laurel y mejorana) y cocinar tapado a fuego mínimo durante 40 a 50 minutos hasta que el ragù espese. (Si el tomate resultara ácido, equilibrar con la punta de una cucharadita de bicarbonato de sodio).",
       "Hervir la pasta en abundante agua con sal, colar al dente y saltearla un par de minutos dentro de la cacerola con el ragù. Retirar del fuego y servir con queso rallado."
     ],
-    "pairing": {
-      "type": "PASTA RECOMENDADA",
-      "name": "Tagliatelle al Huevo o Pappardelle",
-      "icon": "tagliatelle"
-    }
+    "pairing": [
+      {
+        "type": "PASTA CINTA AL HUEVO",
+        "name": "Tagliatelle al Huevo",
+        "icon": "tagliatelle"
+      },
+      {
+        "type": "PASTA CINTA ANCHA",
+        "name": "Pappardelle al Huevo",
+        "icon": "pappardelle"
+      }
+    ]
   },
   {
     "id": 5,
@@ -18925,11 +18932,18 @@
       "Escurrir la pasta al dente reservando unas cucharadas del agua de cocción, volcarla directamente en la sartén con la salsa de zucchini y sartenear todo junto.",
       "Servir de inmediato coronando con abundante queso parmesano recién rallado y una vuelta más de pimienta negra."
     ],
-    "pairing": {
-      "type": "PASTA CORTA",
-      "name": "Penne Rigate o Rigatoni",
-      "icon": "penne"
-    }
+    "pairing": [
+      {
+        "type": "PASTA CORTA BISELADA",
+        "name": "Penne Rigate",
+        "icon": "penne_rigate"
+      },
+      {
+        "type": "PASTA CORTA TUBULAR",
+        "name": "Rigatoni al Bronzo",
+        "icon": "rigatoni"
+      }
+    ]
   },
   {
     "id": 195,
@@ -21610,7 +21624,9 @@
       "Pesto Trapanese",
       "Jamie Oliver",
       "Almendras",
-      "Cocina"
+      "Cocina",
+      "Pestos",
+      "pesto"
     ],
     "prep_time": "15 min",
     "cook_time": "10 min",
@@ -21681,11 +21697,18 @@
       "Añadir los tomates cortados al medio estrujándolos directamente con las manos dentro del bol para que suelten su jugo y pulpa, e integrarlos con las almendras y un hilo adicional de aceite de oliva.",
       "Escurrir la pasta caliente reservando un chorrito de su agua de cocción, volcarla sobre el pesto crudo de tomate y almendras, mezclar bien, rectificar la sazón y servir en 4 platos coronando con toda la salsa del fondo."
     ],
-    "pairing": {
-      "type": "PASTA SICILIANA",
-      "name": "Busiate Trapanesi o Spaghetti",
-      "icon": "spaghetti"
-    }
+    "pairing": [
+      {
+        "type": "PASTA LARGA",
+        "name": "Spaghetti al Bronzo",
+        "icon": "spaghetti"
+      },
+      {
+        "type": "PASTA ESPIRALADA",
+        "name": "Busiate Trapanesi",
+        "icon": "fusilli"
+      }
+    ]
   },
   {
     "id": 223,
@@ -23066,7 +23089,8 @@
       "receta",
       "Albahaca",
       "Salsa",
-      "Liguria"
+      "Liguria",
+      "Pestos"
     ],
     "prep_time": "10 min",
     "cook_time": "0 min",
@@ -23287,11 +23311,18 @@
       "Colocar la pulpa de la palta madura y la crema espesa con una pizca de sal en una multiprocesadora o licuadora y procesar hasta obtener una salsa lisa y cremosa.",
       "Hervir los tallarines en abundante agua con sal hasta que estén al dente, escurrirlos y mezclarlos de inmediato con la salsa de palta y los cubitos de pollo calientes."
     ],
-    "pairing": {
-      "type": "PASTA CORTA",
-      "name": "Fusilli o Penne Rigate",
-      "icon": "fusilli"
-    }
+    "pairing": [
+      {
+        "type": "PASTA ESPIRALADA",
+        "name": "Fusilli al Huevo",
+        "icon": "fusilli"
+      },
+      {
+        "type": "PASTA CORTA",
+        "name": "Penne Rigate",
+        "icon": "penne_rigate"
+      }
+    ]
   },
   {
     "id": 241,
@@ -25549,11 +25580,18 @@
       "Verter la crema de Pecorino sobre la pasta y saltear con movimientos enérgicos de muñeca mientras se incorpora aire, logrando una emulsión cremosa, sedosa y aterciopelada que cubre cada fideo.",
       "Servir de inmediato en platos calientes con una lluvia extra de pimienta tostada y un toque final de Pecorino."
     ],
-    "pairing": {
-      "type": "PASTA ROMANA",
-      "name": "Tonnarelli o Spaghetti al Bronzo",
-      "icon": "spaghetti"
-    }
+    "pairing": [
+      {
+        "type": "PASTA LARGA ROMANA",
+        "name": "Tonnarelli al Huevo",
+        "icon": "spaghetti"
+      },
+      {
+        "type": "PASTA LARGA",
+        "name": "Spaghetti al Bronzo",
+        "icon": "spaghetti"
+      }
+    ]
   },
   {
     "id": 262,
@@ -30428,11 +30466,18 @@
       "Revolver de manera continua y envolvente durante 1 a 2 minutos hasta que la salsa tome temperatura, se integre con la pasta y cree una película cremosa adherida a cada pieza (si notas que espesa demasiado, sumar otro chorrito de agua de cocción).",
       "Retirar del fuego de inmediato (evitar que hierva con fuerza para preservar la textura sedosa). Servir de inmediato con albahaca fresca picada o en hojas enteras, parmesano extra y un toque final de pimienta recién molida."
     ],
-    "pairing": {
-      "type": "PASTA CORTA",
-      "name": "Fusilli o Penne Rigate",
-      "icon": "fusilli"
-    }
+    "pairing": [
+      {
+        "type": "PASTA ESPIRALADA",
+        "name": "Fusilli al Bronzo",
+        "icon": "fusilli"
+      },
+      {
+        "type": "PASTA CORTA",
+        "name": "Penne Rigate",
+        "icon": "penne_rigate"
+      }
+    ]
   },
   {
     "id": 302,
@@ -80616,11 +80661,18 @@
       "Pimienta negra recién molida a gusto",
       "1/2 cucharadita de azúcar (opcional, para equilibrar acidez)"
     ],
-    "pairing": {
-      "type": "PASTA RECOMENDADA",
-      "name": "Spaghetti o Penne Rigate",
-      "icon": "spaghetti"
-    }
+    "pairing": [
+      {
+        "type": "PASTA LARGA",
+        "name": "Spaghetti al Bronzo",
+        "icon": "spaghetti"
+      },
+      {
+        "type": "PASTA CORTA",
+        "name": "Penne Rigate",
+        "icon": "penne_rigate"
+      }
+    ]
   },
   {
     "id": 742,
@@ -89671,7 +89723,8 @@
       "Fazzoletti",
       "Pesto",
       "Génova",
-      "Pasta Casera"
+      "Pasta Casera",
+      "Pestos"
     ],
     "prep_time": "40 min",
     "cook_time": "3 min",
@@ -93678,7 +93731,8 @@
       "Albahaca",
       "Pasta Corta",
       "Casarecce",
-      "Oro Verde"
+      "Oro Verde",
+      "Pestos"
     ],
     "prep_time": "15 min",
     "cook_time": "5 min (tostado suave)",
@@ -93780,11 +93834,18 @@
       "Volcar la pasta recién escurrida, mantecar durante 1 minuto hasta que cada fideo quede forrado en una capa verde brillante y servir decorando con pistachos picados crocantes."
     ],
     "notes": "El secreto supremo de este pesto reside en no calentar jamás la salsa en sartén al fuego: el calor directo quema los aceites aromáticos del pistacho y corta el queso; la emulsión debe lograrse únicamente con el calor residual de la pasta y su agua de cocción rica en almidón.",
-    "pairing": {
-      "type": "PASTA LIGUR O LARGA",
-      "name": "Trofie, Busiate o Spaghetti",
-      "icon": "trofie"
-    }
+    "pairing": [
+      {
+        "type": "PASTA CORTA TORSIONADA",
+        "name": "Trofie Liguri",
+        "icon": "trofie"
+      },
+      {
+        "type": "PASTA LARGA",
+        "name": "Spaghetti al Bronzo",
+        "icon": "spaghetti"
+      }
+    ]
   },
   {
     "id": 879,
@@ -93801,7 +93862,8 @@
       "Pecorino",
       "Pasta Corta",
       "Rigatoni",
-      "Picante"
+      "Picante",
+      "Pestos"
     ],
     "prep_time": "20 min",
     "cook_time": "25 min (asado de morrones)",
@@ -93909,11 +93971,18 @@
       "Verter la pasta recién escurrida junto a medio cucharón del agua caliente de la cocción y mezclar enérgicamente con cuchara de madera para que la ricotta se emulsione fundiéndose en los surcos de la pasta."
     ],
     "notes": "El equilibrio auténtico de Calabria radica en escurrir meticulosamente tanto los pimientos asados como la ricotta antes de procesar: la salsa debe ser densa y con cuerpo untuoso, no aguada, permitiendo que el picante del peperoncino se perciba con calidez aterciopelada sin abrumar.",
-    "pairing": {
-      "type": "PASTA CORTA",
-      "name": "Penne Rigate o Fusilli",
-      "icon": "penne"
-    }
+    "pairing": [
+      {
+        "type": "PASTA CORTA BISELADA",
+        "name": "Penne Rigate",
+        "icon": "penne_rigate"
+      },
+      {
+        "type": "PASTA ESPIRALADA",
+        "name": "Fusilli al Bronzo",
+        "icon": "fusilli"
+      }
+    ]
   },
   {
     "id": 880,
@@ -93930,7 +93999,9 @@
       "Albahaca",
       "Pasta Larga",
       "Tagliatelle",
-      "Ravioles"
+      "Ravioles",
+      "Pestos",
+      "pesto"
     ],
     "prep_time": "15 min",
     "cook_time": "5 min (tostado de avellanas)",
@@ -94031,11 +94102,18 @@
       "Añadir la pasta recién sacada de la olla, mantecar con movimientos envolventes y servir decorando con lascas finas de queso y hojas frescas de albahaca."
     ],
     "notes": "El secreto de la textura del pesto rosso consiste en reservar una porción de avellanas tostadas para agregarlas picadas a cuchillo al final: ese contraste crujiente rompe la untuosidad densa del tomate concentrado y el queso curado.",
-    "pairing": {
-      "type": "PASTA CORTA",
-      "name": "Casarecce, Penne o Fusilli",
-      "icon": "fusilli"
-    }
+    "pairing": [
+      {
+        "type": "PASTA ESPIRALADA",
+        "name": "Fusilli al Bronzo",
+        "icon": "fusilli"
+      },
+      {
+        "type": "PASTA CORTA BISELADA",
+        "name": "Penne Rigate",
+        "icon": "penne_rigate"
+      }
+    ]
   },
   {
     "id": 881,
@@ -94053,7 +94131,8 @@
       "Queso Azul",
       "Pasta Larga",
       "Fettuccine",
-      "Ñoquis"
+      "Ñoquis",
+      "Pestos"
     ],
     "prep_time": "15 min",
     "cook_time": "5 min (tostado de nueces)",
@@ -94151,11 +94230,18 @@
       "Volcar la pasta recién escurrida (cocida al dente), mantecar durante 1 minuto fuera del fuego directo y servir con nueces tostadas partidas por encima."
     ],
     "notes": "El secreto para que la rúcula conserve su frescura y no desarrolle un amargor excesivo es secar completamente las hojas tras el lavado y procesar a baja temperatura con pulsos cortos, evitando que las cuchillas metálicas se calienten.",
-    "pairing": {
-      "type": "PASTA CORTA",
-      "name": "Fusilli, Garganelli o Gnocchi",
-      "icon": "fusilli"
-    }
+    "pairing": [
+      {
+        "type": "PASTA ESPIRALADA",
+        "name": "Fusilli al Bronzo",
+        "icon": "fusilli"
+      },
+      {
+        "type": "GNOCCHI DI PATATE",
+        "name": "Gnocchi de Papa",
+        "icon": "gnocchi"
+      }
+    ]
   },
   {
     "id": 882,
@@ -94415,11 +94501,18 @@
       "Origen Tradicional",
       "Cocina Romana"
     ],
-    "pairing": {
-      "type": "PASTA ROMANA AL BRONZO",
-      "name": "Rigatoni o Spaghetti al Bronzo",
-      "icon": "rigatoni"
-    },
+    "pairing": [
+      {
+        "type": "PASTA CORTA ROMANA",
+        "name": "Rigatoni al Bronzo",
+        "icon": "rigatoni"
+      },
+      {
+        "type": "PASTA LARGA ROMANA",
+        "name": "Spaghetti al Bronzo",
+        "icon": "spaghetti"
+      }
+    ],
     "story": "Considerada la madre de la cocina romana y el punto de partida del que nacieron siglos después la Amatriciana y la Carbonara, la Gricia tiene su raíz en los pastores transhumantes de los montes de Amatrice y Rieti. En sus largos viajes hacia las colinas de Roma, los pastores llevaban únicamente ingredientes no perecederos: guanciale curado con sal y pimienta, queso de oveja y sémola seca. Su magia reside en la alquimia entre la grasa fundida del cerdo y el almidón de la pasta, que al emulsionar en la sartén crean una crema blanca y sedosa sin necesidad de crema ni tomate.",
     "ingredient_groups": [
       {
@@ -94509,11 +94602,18 @@
       "Origen Tradicional",
       "Cocina Siciliana"
     ],
-    "pairing": {
-      "type": "PASTA SICILIANA",
-      "name": "Rigatoni o Penne Rigate",
-      "icon": "penne"
-    },
+    "pairing": [
+      {
+        "type": "PASTA CORTA ESTRIADA",
+        "name": "Rigatoni al Bronzo",
+        "icon": "rigatoni"
+      },
+      {
+        "type": "PASTA CORTA BISELADA",
+        "name": "Penne Rigate",
+        "icon": "penne_rigate"
+      }
+    ],
     "story": "Consagrada como el estandarte culinario de la ciudad de Catania, a los pies del volcán Etna, esta salsa debe su ilustre nombre al dramaturgo Nino Martoglio, quien al probarla en una cena a principios del siglo XX exclamó conmovido: '¡Chista è 'na vera Norma!', comparando su perfección con la célebre ópera lírica de su coterráneo Vincenzo Bellini. Es la síntesis magistral de los cuatro pilares de la huerta siciliana: la dulzura del tomate maduro, la textura carnosa de la berenjena frita en aceite de oliva, el perfume de la albahaca recién cortada y la salinidad láctea de la Ricotta Salata de oveja.",
     "ingredient_groups": [
       {
@@ -94617,11 +94717,18 @@
       "Origen Tradicional",
       "Cocción Lenta"
     ],
-    "pairing": {
-      "type": "PASTA NAPOLITANA",
-      "name": "Ziti Spezzati o Paccheri",
-      "icon": "rigatoni"
-    },
+    "pairing": [
+      {
+        "type": "PASTA NAPOLITANA",
+        "name": "Ziti Spezzati a Mano",
+        "icon": "rigatoni"
+      },
+      {
+        "type": "PASTA CORTA ANCHA",
+        "name": "Paccheri di Gragnano",
+        "icon": "rigatoni"
+      }
+    ],
     "story": "A pesar de su nombre desconcertante, la Genovese no pertenece a Liguria sino a los callejones más antiguos de Nápoles, donde se documenta desde el siglo XV. Surgió cuando cocineros y marineros genoveses recalaban en el puerto de Nápoles para aprovisionarse, dejando en las tabernas del puerto la costumbre de estofar carne con abundante cebolla. Las amas de casa napolitanas transformaron la receta en un rito dominical sagrado: una cocción de 6 a 8 horas donde kilos de cebollas cobrizas de Montoro se deshacen hasta caramelizar en una mermelada dorada, aterciopelada y dulce sin una sola gota de tomate, abrazando los tradicionales Ziti partidos a mano.",
     "ingredient_groups": [
       {
@@ -94909,7 +95016,9 @@
       "mortero",
       "cocina ligur",
       "receta tradicional",
-      "paso a paso"
+      "paso a paso",
+      "Pestos",
+      "pesto"
     ]
   },
   {
@@ -95032,11 +95141,18 @@
       "Origen Tradicional",
       "Cocina Alpina"
     ],
-    "pairing": {
-      "type": "PASTA DE MONTAÑA",
-      "name": "Gnocchi di Patate o Rigatoni",
-      "icon": "gnocchi"
-    },
+    "pairing": [
+      {
+        "type": "GNOCCHI DI PATATE",
+        "name": "Gnocchi de Papa",
+        "icon": "gnocchi"
+      },
+      {
+        "type": "PASTA CORTA ESTRIADA",
+        "name": "Rigatoni al Bronzo",
+        "icon": "rigatoni"
+      }
+    ],
     "story": "Nacida en los valles alpinos del Piamonte, Lombardía y el Valle de Aosta, esta preparación representa el ingenio campesino de los caseros de montaña para unificar los excedentes lácteos al final del invierno. Los cuatro quesos canónicos combinan cuatro texturas y perfiles sensoriales precisos: el picor dulce del Gorgonzola, la elasticidad aromática de la Fontina alpina, la untuosidad cremosa del Taleggio y la estructura salina del Parmigiano Reggiano añejo.",
     "ingredient_groups": [
       {
@@ -95489,7 +95605,9 @@
       "albahaca",
       "spaghetti",
       "pastas",
-      "pesto de limon"
+      "pesto de limon",
+      "Pestos",
+      "pesto"
     ],
     "prep_time": "15 min",
     "cook_time": "0 min",
@@ -95503,11 +95621,18 @@
       "Mediterránea",
       "Origen Tradicional"
     ],
-    "pairing": {
-      "type": "PASTA LARGA COSTERA",
-      "name": "Spaghetti o Linguine di Gragnano",
-      "icon": "spaghetti"
-    },
+    "pairing": [
+      {
+        "type": "PASTA LARGA",
+        "name": "Spaghetti al Bronzo",
+        "icon": "spaghetti"
+      },
+      {
+        "type": "PASTA LARGA PLANA",
+        "name": "Linguine di Gragnano",
+        "icon": "linguine"
+      }
+    ],
     "image": "https://lh3.googleusercontent.com/-U-vA46hPhIc/awmhu4QlV8I/AAAAAAAQD0g/99Blj-XLzWUrNmZxWjkl7GU3QrVxxRFiACNcBGAsYHQ/s1600/pesto_amalfitano.jpg",
     "story": "Nacido en los limoneros en terrazas que coronan los acantilados de la Costa Amalfitana y la península Sorrentina, el pesto de limón es la máxima expresión del verano en Campania. Surgido para aprovechar la pulpa jugosa y la cáscara gruesa y perfumada del célebre limón sfusato amalfitano, los pescadores y campesinos combinaron su jugo con almendras molidas, albahaca fresca y aceite de oliva virgen extra. En mi cocina es la salsa cruda predilecta para los días cálidos, cuando busco frescura marina, cremosidad y perfume cítrico en su estado más puro.",
     "ingredient_groups": [
@@ -95591,7 +95716,9 @@
       "almendras",
       "casarecce",
       "pastas",
-      "cocina siciliana"
+      "cocina siciliana",
+      "Pestos",
+      "pesto"
     ],
     "prep_time": "15 min",
     "cook_time": "0 min",
@@ -95605,11 +95732,18 @@
       "Mediterránea",
       "Origen Tradicional"
     ],
-    "pairing": {
-      "type": "PASTA CORTA TORSIONADA",
-      "name": "Casarecce o Busiate Trapanesi",
-      "icon": "trofie"
-    },
+    "pairing": [
+      {
+        "type": "PASTA CORTA TORSIONADA",
+        "name": "Casarecce Siciliane",
+        "icon": "trofie"
+      },
+      {
+        "type": "PASTA ESPIRALADA",
+        "name": "Busiate Trapanesi",
+        "icon": "fusilli"
+      }
+    ],
     "image": "https://lh3.googleusercontent.com/-Ms7RZw8MvrU/awmhv1rFTTI/AAAAAAAQD0o/qpmyqJmKrE4NhUSW0vBbGNFvSoK8x0SMgCNcBGAsYHQ/s1600/pesto_agli_agrumi.jpg",
     "story": "Originario de los huertos costeros del este de Sicilia, entre Catania y Siracusa, este pesto combina la riqueza de los cítricos sicilianos con las afamadas almendras de Avola. Heredero de la impronta árabe en la agricultura de la isla, reúne el jugo y la pulpa de naranja dulce con el perfume del limón y las hierbas mediterráneas majadas al mortero. En mi casa es una de las preparaciones estivales más celebradas por su equilibrio brillante entre dulzor, acidez y crocancia.",
     "ingredient_groups": [
@@ -95690,7 +95824,9 @@
       "treviso",
       "tagliatelle",
       "pastas",
-      "cocina del norte"
+      "cocina del norte",
+      "Pestos",
+      "pesto"
     ],
     "prep_time": "15 min",
     "cook_time": "5 min",
@@ -95704,11 +95840,18 @@
       "Origen Tradicional",
       "Cocina del Norte"
     ],
-    "pairing": {
-      "type": "PASTA CINTA O GNOCCHI",
-      "name": "Tagliatelle o Gnocchi de Papa",
-      "icon": "gnocchi"
-    },
+    "pairing": [
+      {
+        "type": "PASTA CINTA AL HUEVO",
+        "name": "Tagliatelle al Huevo",
+        "icon": "tagliatelle"
+      },
+      {
+        "type": "GNOCCHI DI PATATE",
+        "name": "Gnocchi de Papa",
+        "icon": "gnocchi"
+      }
+    ],
     "image": "https://lh3.googleusercontent.com/-UIFLuC8m3ro/awmiCKQ7jZI/AAAAAAAQD1U/1fo6h19BM_8HMa-xFfRZFdMJuODlLwlDgCNcBGAsYHQ/s1600/pesto_di_radicchio_e_noci.jpg",
     "story": "Nacido en los campos invernales de Treviso y el Véneto, este pesto celebra el célebre radicchio rosso, la achicoria roja que los agricultores locales perfeccionaron a finales del siglo XIX. Su amargor elegante y aterciopelado encuentra en las nueces de los valles del norte y en el queso maduro el contrapunto graso ideal. En mi cocina lo preparo con frecuencia en otoño e invierno para vestir pastas largas al huevo o gnocchi recién hervidos.",
     "ingredient_groups": [
@@ -95785,7 +95928,9 @@
       "sicilia",
       "penne rigate",
       "pastas",
-      "cocina mediterranea"
+      "cocina mediterranea",
+      "Pestos",
+      "pesto"
     ],
     "prep_time": "15 min",
     "cook_time": "0 min",
@@ -95799,11 +95944,18 @@
       "Mediterránea",
       "Rico en Antioxidantes"
     ],
-    "pairing": {
-      "type": "PASTA CORTA ESTRIADA",
-      "name": "Penne Rigate o Rigatoni",
-      "icon": "penne_rigate"
-    },
+    "pairing": [
+      {
+        "type": "PASTA CORTA BISELADA",
+        "name": "Penne Rigate",
+        "icon": "penne_rigate"
+      },
+      {
+        "type": "PASTA CORTA TUBULAR",
+        "name": "Rigatoni al Bronzo",
+        "icon": "rigatoni"
+      }
+    ],
     "image": "https://lh3.googleusercontent.com/-ToC9_RIjySI/awmhyia_JaI/AAAAAAAQD04/QdoXf2OUKi4wokm30mbxe-cnqtIwfDSTwCNcBGAsYHQ/s1600/pesto_di_capperi_e_pomodori_secchi.jpg",
     "story": "Proveniente de la isla volcánica de Pantelleria y del litoral sur de Sicilia, este pesto nace de los métodos ancestrales de conservación bajo el sol del Mediterráneo. Las alcaparras curadas en sal marina se combinan con los tomates secos rehidratados, las almendras locales y el orégano silvestre en una pasta rústica de intenso sabor umami. Es mi salsa de referencia cuando busco un sabor marino, mineral y concentrado que viste tanto una pasta caliente como una tostada de pan campesino.",
     "ingredient_groups": [
@@ -95884,7 +96036,9 @@
       "lazio",
       "mezze maniche",
       "pastas",
-      "cocina romana"
+      "cocina romana",
+      "Pestos",
+      "pesto"
     ],
     "prep_time": "15 min",
     "cook_time": "0 min",
@@ -95898,11 +96052,18 @@
       "Mediterránea",
       "Origen Tradicional"
     ],
-    "pairing": {
-      "type": "PASTA CORTA ROMANA",
-      "name": "Mezze Maniche o Rigatoni",
-      "icon": "rigatoni"
-    },
+    "pairing": [
+      {
+        "type": "PASTA CORTA ROMANA",
+        "name": "Mezze Maniche Rigate",
+        "icon": "rigatoni"
+      },
+      {
+        "type": "PASTA CORTA TUBULAR",
+        "name": "Rigatoni al Bronzo",
+        "icon": "rigatoni"
+      }
+    ],
     "image": "https://lh3.googleusercontent.com/-8BZgM8Yi34w/awmhztdMyYI/AAAAAAAQD1A/uq6-hfWnhMwg04HVeOEFI3qUzCyG3Jm1QCNcBGAsYHQ/s1600/pesto_alla_romana.jpg",
     "story": "Inspirado en los aromas herbáceos de la campiña del Lacio y en las huertas romanas tradicionales, este pesto rescata el protagonismo de la menta romana, históricamente ligada a la cocina de la capital. La frescura punzante de la menta y el perejil se equilibra con la salinidad robusta del Pecorino Romano y el picor de la pimienta negra tostada machacada. En mi mesa es una versión refrescante y vibrante que renueva el repertorio clásico de las pastas romanas.",
     "ingredient_groups": [
@@ -95967,5 +96128,218 @@
       "Mezclá el pesto con mezze maniche o rigatoni al dente calientes fuera del fuego, agregando un poco de agua caliente de la cocción para generar una salsa cremosa y aterciopelada."
     ],
     "notes": "Menta romana y pimienta tostada: tostar los granos de pimienta antes de machacarlos despierta los aceites piperinos esenciales que contrastan con la frescura balsámica de la menta, rindiendo tributo al espíritu indómito de la cocina del Tíber."
+  },
+  {
+    "id": 899,
+    "title": "Pesto di Olive Nere (Italia)",
+    "country": "Italia",
+    "category": "Pastas",
+    "tags": [
+      "pesto di olive nere",
+      "pesto",
+      "pestos",
+      "aceitunas negras",
+      "calabria",
+      "puglia",
+      "liguria",
+      "pastas",
+      "tapenade italiana",
+      "receta tradicional",
+      "cocina mediterranea",
+      "Pestos"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "0 min",
+    "total_time": "15 min",
+    "servings": "4 porciones",
+    "calories": "360 kcal por porción",
+    "difficulty": "Baja",
+    "diet_badges": [
+      "Pastas",
+      "Vegano",
+      "Vegetariano",
+      "Mediterránea"
+    ],
+    "pairing": [
+      {
+        "type": "PASTA CORTA BISELADA",
+        "name": "Penne Rigate",
+        "icon": "penne_rigate"
+      },
+      {
+        "type": "PASTA LARGA",
+        "name": "Spaghetti al Bronzo",
+        "icon": "spaghetti"
+      }
+    ],
+    "image": "https://lh3.googleusercontent.com/-Xu6gJRqfnmI/awmlfnaVFQI/AAAAAAAQD1g/0uojZ1yptKQV4wLoT7NunazEl94KMNN2ACNcBGAsYHQ/s1600/pesto_di_olive_nere.jpg",
+    "story": "Arraigado en los olivares centenarios de Calabria, Puglia y la Riviera de Liguria, el pesto de aceitunas negras (a veces llamado históricamente 'el caviar de los pobres') nació de la necesidad campesina de concentrar los frutos del olivo para las faenas del campo. A diferencia de la tapenade provenzal que lleva anchoas, la tradición del sur italiano preserva el protagonismo absoluto de las aceitunas negras carnosas majadas con almendras tostadas, alcaparras desaladas, tomillo silvestre y ajo. En mi mesa es una salsa rústica insustituible para vestir pastas al dente o enriquecer rebanadas de pan casero a la leña.",
+    "ingredient_groups": [
+      {
+        "name": "Aceitunas y Aromas de la Huerta",
+        "ingredients": [
+          "250 g de aceitunas negras carnosas (tipo Taggiasche o de Calabria), descarozadas",
+          "1 cucharada colmada de alcaparras en sal o salmuera (enjuagadas y desaladas)",
+          "1 diente de ajo pequeño sin el germen verde",
+          "1 cucharadita de hojas de tomillo fresco (o albahaca tierna)"
+        ]
+      },
+      {
+        "name": "Frutos Secos y Aceite de Oliva",
+        "ingredients": [
+          "40 g de almendras tostadas (o piñones)",
+          "80 ml de aceite de oliva virgen extra de primera presión",
+          "Pimienta negra recién molida a gusto (no requiere sal añadida por la curación de la aceituna)"
+        ]
+      }
+    ],
+    "ingredients": [
+      "250 g de aceitunas negras carnosas (tipo Taggiasche o de Calabria), descarozadas",
+      "1 cucharada colmada de alcaparras en sal o salmuera (enjuagadas y desaladas)",
+      "1 diente de ajo pequeño sin el germen verde",
+      "1 cucharadita de hojas de tomillo fresco (o albahaca tierna)",
+      "40 g de almendras tostadas (o piñones)",
+      "80 ml de aceite de oliva virgen extra de primera presión",
+      "Pimienta negra recién molida a gusto (no requiere sal añadida por la curación de la aceituna)"
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación de Ingredientes",
+        "steps": [
+          "Enjuagá las alcaparras bajo agua fría y dejalas en remojo durante 10 minutos para equilibrar la sal marina; escurrilas y secalas.",
+          "Revisá que ninguna aceituna negra conserve restos de carozo y picalas de forma rústica con cuchillo."
+        ]
+      },
+      {
+        "name": "Molienda en Mortero o Procesado",
+        "steps": [
+          "En un mortero o vaso procesador, majá el diente de ajo junto con las almendras tostadas hasta lograr una textura granulada y crocante.",
+          "Agregá las aceitunas negras, las alcaparras desaladas y las hojitas de tomillo fresco, pulsando de manera breve para conservar una textura de picado artesanal visible."
+        ]
+      },
+      {
+        "name": "Emulsión y Servido",
+        "steps": [
+          "Verté el aceite de oliva virgen extra en hilo continuo mientras integrás con una cuchara de madera, aromatizando con pimienta negra recién molida.",
+          "Al momento de servir sobre penne rigate o spaghetti al dente, aligerá la pasta con un par de cucharadas del agua de cocción para que el aceite napa y perfume cada bocado."
+        ]
+      }
+    ],
+    "steps": [
+      "Enjuagá las alcaparras bajo agua fría y dejalas en remojo durante 10 minutos para equilibrar la sal marina; escurrilas y secalas.",
+      "Revisá que ninguna aceituna negra conserve restos de carozo y picalas de forma rústica con cuchillo.",
+      "En un mortero o vaso procesador, majá el diente de ajo junto con las almendras tostadas hasta lograr una textura granulada y crocante.",
+      "Agregá las aceitunas negras, las alcaparras desaladas y las hojitas de tomillo fresco, pulsando de manera breve para conservar una textura de picado artesanal visible.",
+      "Verté el aceite de oliva virgen extra en hilo continuo mientras integrás con una cuchara de madera, aromatizando con pimienta negra recién molida.",
+      "Al momento de servir sobre penne rigate o spaghetti al dente, aligerá la pasta con un par de cucharadas del agua de cocción para que el aceite napa y perfume cada bocado."
+    ],
+    "notes": "Textura rústica obligatoria: no lo proceses en exceso hasta convertirlo en una pasta líquida lisa; la gracia del pesto di olive nere es sentir los tropezones de aceituna brillante y la crocancia de la almendra tostada."
+  },
+  {
+    "id": 900,
+    "title": "Pesto alla Siciliana (Italia)",
+    "country": "Italia",
+    "category": "Pastas",
+    "tags": [
+      "pesto alla siciliana",
+      "pesto",
+      "pestos",
+      "sicilia",
+      "ricotta",
+      "tomates frescos",
+      "almendras",
+      "albahaca",
+      "pastas",
+      "cocina siciliana",
+      "Pestos"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "0 min",
+    "total_time": "15 min",
+    "servings": "4 porciones",
+    "calories": "410 kcal por porción",
+    "difficulty": "Baja",
+    "diet_badges": [
+      "Pastas",
+      "Vegetariano",
+      "Mediterránea",
+      "Origen Tradicional"
+    ],
+    "pairing": [
+      {
+        "type": "PASTA CORTA TORSIONADA",
+        "name": "Casarecce Siciliane",
+        "icon": "trofie"
+      },
+      {
+        "type": "PASTA CORTA TUBULAR",
+        "name": "Rigatoni al Bronzo",
+        "icon": "rigatoni"
+      }
+    ],
+    "image": "https://lh3.googleusercontent.com/-mBs2dC0Nov0/awmlg9Rkl5I/AAAAAAAQD1o/k8TwZ70ciQcnSZE6RAM3WbSz6IYEfnjZwCNcBGAsYHQ/s1600/pesto_alla_siciliana.jpg",
+    "story": "Considerado el gran pesto cremoso de la campiña de Sicilia, el pesto alla siciliana sintetiza en crudo los cuatro pilares de la huerta insular: tomates rojos maduros, albahaca fresca, almendras tostadas y la inconfundible ricotta fresca campesina. A diferencia del pesto trapanese que no lleva lácteos, esta versión nació en las granjas del interior siciliano donde la ricotta de oveja recién elaborada suavizaba la acidez del tomate estival bajo el calor del sol. En mi cocina es la salsa cruda más reconfortante y aterciopelada para vestir pastas cortas con cuerpo y carácter.",
+    "ingredient_groups": [
+      {
+        "name": "Tomates Maduros y Hierbas",
+        "ingredients": [
+          "4 tomates perita o redondos maduros y carnosos (pelados, sin semillas ni exceso de agua)",
+          "1 atado abundante de albahaca fresca de hoja ancha (hojas limpias y secas)",
+          "1 diente de ajo pequeño sin germen"
+        ]
+      },
+      {
+        "name": "Ricotta, Almendras y Emulsión",
+        "ingredients": [
+          "200 g de ricotta fresca de buena calidad (bien escurrida)",
+          "60 g de almendras tostadas peladas (de Avola o variedad local)",
+          "50 g de queso Parmigiano Reggiano o Pecorino Siciliano rallado fino",
+          "70 ml de aceite de oliva virgen extra siciliano",
+          "Sal marina fina y pimienta negra recién molida a gusto"
+        ]
+      }
+    ],
+    "ingredients": [
+      "4 tomates perita o redondos maduros y carnosos (pelados, sin semillas ni exceso de agua)",
+      "1 atado abundante de albahaca fresca de hoja ancha (hojas limpias y secas)",
+      "1 diente de ajo pequeño sin germen",
+      "200 g de ricotta fresca de buena calidad (bien escurrida)",
+      "60 g de almendras tostadas peladas (de Avola o variedad local)",
+      "50 g de queso Parmigiano Reggiano o Pecorino Siciliano rallado fino",
+      "70 ml de aceite de oliva virgen extra siciliano",
+      "Sal marina fina y pimienta negra recién molida a gusto"
+    ],
+    "step_groups": [
+      {
+        "name": "Preparación de Tomates y Almendras",
+        "steps": [
+          "Pelá los tomates maduros, cortalos al medio, retirá toda el agua y las semillas, y secalos ligeramente con papel absorbente para evitar que diluyan la salsa.",
+          "Tostá las almendras peladas en sartén seca durante 3 minutos y dejalas enfriar por completo."
+        ]
+      },
+      {
+        "name": "Machacado y Formación del Pesto",
+        "steps": [
+          "En procesadora o mortero, machacá el diente de ajo con una pizca de sal, sumá las almendras tostadas y procesá hasta obtener una molienda fina.",
+          "Agregá la pulpa de los tomates y las hojas de albahaca fresca, triturando en pulsos cortos para que se integren sin oxidarse."
+        ]
+      },
+      {
+        "name": "Incorporación de Ricotta y Mantecado",
+        "steps": [
+          "Añadí la ricotta fresca escurrida, el queso rallado y el aceite de oliva virgen extra en hilo, batiendo suavemente hasta formar una crema homogénea de color rosado suave y consistencia densa.",
+          "Mezclá el pesto crudo directamente con casarecce o rigatoni calientes recién hervidos, sumando una cucharada de agua de cocción para darle un brillo sedoso impecable."
+        ]
+      }
+    ],
+    "steps": [
+      "Pelá los tomates maduros, cortalos al medio, retirá toda el agua y las semillas, y secalos ligeramente con papel absorbente para evitar que diluyan la salsa.",
+      "Tostá las almendras peladas en sartén seca durante 3 minutos y dejalas enfriar por completo.",
+      "En procesadora o mortero, machacá el diente de ajo con una pizca de sal, sumá las almendras tostadas y procesá hasta obtener una molienda fina.",
+      "Agregá la pulpa de los tomates y las hojas de albahaca fresca, triturando en pulsos cortos para que se integren sin oxidarse.",
+      "Añadí la ricotta fresca escurrida, el queso rallado y el aceite de oliva virgen extra en hilo, batiendo suavemente hasta formar una crema homogénea de color rosado suave y consistencia densa.",
+      "Mezclá el pesto crudo directamente con casarecce o rigatoni calientes recién hervidos, sumando una cucharada de agua de cocción para darle un brillo sedoso impecable."
+    ],
+    "notes": "Escurrir la ricotta y despepitar los tomates: este doble paso es la clave para que el pesto mantenga una textura untuosa y aterciopelada como una mousse, sin soltar líquido en el fondo del plato."
   }
 ]
