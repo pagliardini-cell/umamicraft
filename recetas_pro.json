@@ -42133,7 +42133,7 @@
   },
   {
     "id": 389,
-    "title": "Cappellettis a la Fiamma (Argentina)",
+    "title": "Capeletis a la Fiamma (Argentina)",
     "original_title": "Cappellettis a la Fiamma (Argentina)",
     "country": "Receta de Autor (Argentina)",
     "category": "Pastas",
@@ -42167,7 +42167,7 @@
     "story": "Esta es mi representación del plato emblemático de la cantina El Tiburón, en la Av. Don Pedro de Mendoza 1555, frente a la ribera del Riachuelo, en el barrio de La Boca, Ciudad de Buenos Aires, en la década de 1970. Es mi primer amor culinario y la inspiración de mi amor por la cocina. De chico me llevaba mi mamá a comer a ese restaurante, y el dueño, Karam, llegaba hasta la mesa con un carrito rodante (gueridón) con calentador, como se usaba en las cantinas de La Boca, y preparaba el plato al lado del comensal. Fue una experiencia mágica.",
     "ingredient_groups": [
       {
-        "name": "Masa de los Cappellettis",
+        "name": "Masa de los Capeletis",
         "items": [
           "200 g de harina 0000",
           "2 huevos",
@@ -42355,8 +42355,8 @@
       "Servir en plato caliente, con pimienta negra recién molida y sin nada verde por encima."
     ],
     "pairing": {
-      "type": "PASTA RELLENA",
-      "name": "Cappellettis Caseros",
+      "type": "PASTA RELLENA TRADICIONAL",
+      "name": "Capeletis Caseros a la Fiamma",
       "icon": "cappelletti"
     }
   },
@@ -94280,6 +94280,957 @@
       "receta tradicional",
       "paso a paso",
       "pasta fresca"
+    ]
+  },
+  {
+    "id": 883,
+    "title": "Ragù alla Bolognese (Italia)",
+    "category": "Pastas",
+    "country": "Italia",
+    "difficulty": "Media",
+    "prep_time": "30 min",
+    "cook_time": "3 h 30 min",
+    "total_time": "4 h",
+    "servings": "6 porciones",
+    "calories": "420 kcal por porción",
+    "image": "https://lh3.googleusercontent.com/-sdBHH960Gx0/awjxTDumscI/AAAAAAAQDyk/TQJPmi-50SoodgV0bb5oBGtpoCfKLeJywCNcBGAsYHQ/s1600/ragu_alla_bolognese.jpg",
+    "diet_badges": [
+      "Pastas",
+      "Carne",
+      "Origen Tradicional",
+      "Cocción Lenta"
+    ],
+    "pairing": {
+      "type": "PASTA AL HUEVO EMILIANA",
+      "name": "Tagliatelle al Huevo Frescas",
+      "icon": "tagliatelle"
+    },
+    "story": "Depositada oficialmente el 17 de octubre de 1982 ante la Cámara de Comercio de Bolonia por la delegación emiliana de la Accademia Italiana della Cucina, la fórmula original del ragù codifica siglos de tradición gastronómica burguesa y campesina. Nacido en el siglo XVIII como una evolución del ragoût francés traído por las tropas napoleónicas, los cocineros de las familias nobles boloñesas lo adaptaron como un condimento opulento para las tagliatelle al huevo de los días festivos. Su identidad radica en la lenta cocción prolongada donde los lácteos amortiguan la acidez del concentrado y afinan las fibras cárnicas.",
+    "ingredient_groups": [
+      {
+        "name": "Carnes y Panceta",
+        "ingredients": [
+          "400 g de carne vacuna magra picada gruesa (corte falda, aguja o roast beef)",
+          "150 g de panceta curada de cerdo (pancetta arrotolata o tesa, picada en cubitos diminutos)"
+        ]
+      },
+      {
+        "name": "Sofrito Aromático Tradicional",
+        "ingredients": [
+          "60 g de cebolla dorada picada en brunoise finísima",
+          "60 g de zanahoria fresca pelada y picada en brunoise finísima",
+          "60 g de apio crocante picado en brunoise finísima",
+          "2 cucharadas de aceite de oliva virgen extra",
+          "20 g de manteca vacuna"
+        ]
+      },
+      {
+        "name": "Líquidos de Reducción y Tomate",
+        "ingredients": [
+          "100 ml de vino blanco seco (o tinto de colinas boloñesas)",
+          "1 cucharada sopera colmada de concentrado doble de tomate (doppio concentrato)",
+          "200 ml de leche entera fresca",
+          "250 ml de caldo de carne suave (o agua caliente)",
+          "Sal marina fina y pimienta negra recién molida"
+        ]
+      }
+    ],
+    "ingredients": [
+      "400 g de carne vacuna magra picada gruesa (corte falda, aguja o roast beef)",
+      "150 g de panceta curada de cerdo (pancetta arrotolata o tesa, picada en cubitos diminutos)",
+      "60 g de cebolla dorada picada en brunoise finísima",
+      "60 g de zanahoria fresca pelada y picada en brunoise finísima",
+      "60 g de apio crocante picado en brunoise finísima",
+      "2 cucharadas de aceite de oliva virgen extra",
+      "20 g de manteca vacuna",
+      "100 ml de vino blanco seco (o tinto de colinas boloñesas)",
+      "1 cucharada sopera colmada de concentrado doble de tomate (doppio concentrato)",
+      "200 ml de leche entera fresca",
+      "250 ml de caldo de carne suave (o agua caliente)",
+      "Sal marina fina y pimienta negra recién molida"
+    ],
+    "step_groups": [
+      {
+        "name": "Dorado de la Panceta y Sofrito de Verduras",
+        "steps": [
+          "En una cacerola gruesa de fondo pesado (idealmente de hierro fundido o terracota esmaltada), colocá los cubitos de panceta a fuego bajo y dejalos sudar durante 8 a 10 minutos hasta que suelten su grasa y comiencen a dorarse suavemente.",
+          "Añadí el aceite de oliva, la manteca y la brunoise fina de cebolla, zanahoria y apio. Rehogá a fuego medio-bajo durante 10 minutos, revolviendo con cuchara de madera, hasta que los vegetales estén tiernos y translúcidos sin llegar a tostarse."
+        ]
+      },
+      {
+        "name": "Sellado de la Carne y Desglasado",
+        "steps": [
+          "Subí el fuego a medio-alto e incorporá la carne vacuna picada gruesa. Desgranala con la cuchara de madera y cocinala durante 6 a 8 minutos, revolviendo constantemente hasta que cambie de color y empiece a chisporrotear en su propio jugo.",
+          "Verté el vino blanco y dejalo evaporar por completo a fuego vivo durante 3 minutos, raspando el fondo de la olla para disolver los azúcares caramelizados."
+        ]
+      },
+      {
+        "name": "Cocción Lenta, Leche y Reducción",
+        "steps": [
+          "Disolvé el concentrado de tomate en medio cucharón de caldo caliente y sumalo a la olla. Mezclá bien.",
+          "Bajá el fuego al mínimo absoluto ('pippiare', apenas un murmullo de burbujas en la superficie), tapá la cacerola dejando una mínima rendija y cociná durante 2 horas, agregando un poco de caldo tibio a medida que sea necesario para mantener la humedad.",
+          "Cumplidas las 2 horas, incorporá la mitad de la leche entera caliente y continuá la cocción suave durante 30 minutos hasta que se absorba. Añadí el resto de la leche, salpimentá con moderación y cociná 30 minutos más hasta obtener una salsa untuosa, espesa, de color caoba reluciente y textura mantecosa."
+        ]
+      }
+    ],
+    "steps": [
+      "En una cacerola gruesa de fondo pesado (idealmente de hierro fundido o terracota esmaltada), colocá los cubitos de panceta a fuego bajo y dejalos sudar durante 8 a 10 minutos hasta que suelten su grasa y comiencen a dorarse suavemente.",
+      "Añadí el aceite de oliva, la manteca y la brunoise fina de cebolla, zanahoria y apio. Rehogá a fuego medio-bajo durante 10 minutos, revolviendo con cuchara de madera, hasta que los vegetales estén tiernos y translúcidos sin llegar a tostarse.",
+      "Subí el fuego a medio-alto e incorporá la carne vacuna picada gruesa. Desgranala con la cuchara de madera y cocinala durante 6 a 8 minutos, revolviendo constantemente hasta que cambie de color y empiece a chisporrotear en su propio jugo.",
+      "Verté el vino blanco y dejalo evaporar por completo a fuego vivo durante 3 minutos, raspando el fondo de la olla para disolver los azúcares caramelizados.",
+      "Disolvé el concentrado de tomate en medio cucharón de caldo caliente y sumalo a la olla. Mezclá bien.",
+      "Bajá el fuego al mínimo absoluto ('pippiare', apenas un murmullo de burbujas en la superficie), tapá la cacerola dejando una mínima rendija y cociná durante 2 horas, agregando un poco de caldo tibio a medida que sea necesario para mantener la humedad.",
+      "Cumplidas las 2 horas, incorporá la mitad de la leche entera caliente y continuá la cocción suave durante 30 minutos hasta que se absorba. Añadí el resto de la leche, salpimentá con moderación y cociná 30 minutos más hasta obtener una salsa untuosa, espesa, de color caoba reluciente y textura mantecosa."
+    ],
+    "notes": "El secreto de la leche en el ragù boloñés: lejos de ser un capricho, la leche entera cumple una función química esencial: sus grasas y proteínas neutralizan la acidez del concentrado de tomate y ablandan las fibras musculares de la carne durante las 3 horas de cocción, logrando esa textura sedosa que abraza las tagliatelle al huevo sin separarse en agua y aceite.",
+    "tags": [
+      "ragu",
+      "bolognese",
+      "boloñesa",
+      "salsa bolognesa",
+      "tagliatelle",
+      "emilia romaña",
+      "cocina italiana",
+      "coccion lenta",
+      "panceta",
+      "receta tradicional",
+      "paso a paso"
+    ]
+  },
+  {
+    "id": 884,
+    "title": "Salsa alla Gricia (Italia)",
+    "category": "Pastas",
+    "country": "Italia",
+    "difficulty": "Baja",
+    "prep_time": "10 min",
+    "cook_time": "15 min",
+    "total_time": "25 min",
+    "servings": "4 porciones",
+    "calories": "510 kcal por porción",
+    "image": "https://lh3.googleusercontent.com/-tzGS8viz2q0/awjxUL0YcTI/AAAAAAAQDys/Ajj2-uJ2HAIPu-XhEalicF7ZB3KsUMNfwCNcBGAsYHQ/s1600/salsa_alla_gricia.jpg",
+    "diet_badges": [
+      "Pastas",
+      "Carne",
+      "Origen Tradicional",
+      "Cocina Romana"
+    ],
+    "pairing": {
+      "type": "PASTA ROMANA AL BRONZO",
+      "name": "Rigatoni o Spaghetti al Bronzo",
+      "icon": "rigatoni"
+    },
+    "story": "Considerada la madre de la cocina romana y el punto de partida del que nacieron siglos después la Amatriciana y la Carbonara, la Gricia tiene su raíz en los pastores transhumantes de los montes de Amatrice y Rieti. En sus largos viajes hacia las colinas de Roma, los pastores llevaban únicamente ingredientes no perecederos: guanciale curado con sal y pimienta, queso de oveja y sémola seca. Su magia reside en la alquimia entre la grasa fundida del cerdo y el almidón de la pasta, que al emulsionar en la sartén crean una crema blanca y sedosa sin necesidad de crema ni tomate.",
+    "ingredient_groups": [
+      {
+        "name": "Guanciale y Especias",
+        "ingredients": [
+          "250 g de auténtico guanciale curado de cerdo (cortado en bastones de 1 cm de espesor)",
+          "1 cucharada sopera de granos de pimienta negra entera tostada y machacada al mortero"
+        ]
+      },
+      {
+        "name": "Queso y Emulsión Romana",
+        "ingredients": [
+          "120 g de queso Pecorino Romano DOP rallado muy fino al momento",
+          "Agua de cocción de la pasta rica en almidón (aprox. 150 ml)",
+          "Sal gruesa para el agua (usar con moderación por la salinidad del queso)"
+        ]
+      }
+    ],
+    "ingredients": [
+      "250 g de auténtico guanciale curado de cerdo (cortado en bastones de 1 cm de espesor)",
+      "1 cucharada sopera de granos de pimienta negra entera tostada y machacada al mortero",
+      "120 g de queso Pecorino Romano DOP rallado muy fino al momento",
+      "Agua de cocción de la pasta rica en almidón (aprox. 150 ml)",
+      "Sal gruesa para el agua (usar con moderación por la salinidad del queso)"
+    ],
+    "step_groups": [
+      {
+        "name": "Crocantado del Guanciale",
+        "steps": [
+          "En una sartén de hierro o acero amplia sin nada de aceite, colocá los bastones de guanciale a fuego medio-bajo.",
+          "Dejalos cocinar lentamente durante 8 a 10 minutos mientras la grasa blanca se vuelve translúcida y líquida, hasta que los bastones queden dorados y crocantes por fuera pero tiernos por dentro. Retirá los bastones crocantes con una espumadera y reservalos en un plato templado, dejando la grasa líquida en la sartén."
+        ]
+      },
+      {
+        "name": "Tostado de Pimienta y Emulsión Base",
+        "steps": [
+          "Tostá los granos de pimienta machacada en una sartén seca durante 1 minuto a fuego medio hasta que liberen sus aceites esenciales aromáticos.",
+          "Verté la mitad de la grasa caliente del guanciale sobre la pimienta y agregá medio cucharón del agua hirviendo de la pasta, batiendo enérgicamente con batidor o cuchara de madera para que el aceite y el agua formen una emulsión opalescente inicial."
+        ]
+      },
+      {
+        "name": "Mantecado y Formación de la Crema",
+        "steps": [
+          "Escurrí la pasta (Rigatoni o Spaghetti) 2 minutos antes del punto al dente y pasala directamente a la sartén con la grasa y la pimienta.",
+          "Salteá a fuego vivo agregando chorritos de agua de pasta caliente mientras removés enérgicamente para que el almidón ligue con la grasa del cerdo.",
+          "Retirá la sartén COMPLETAMENTE del fuego y dejá enfriar 30 segundos (a unos 65 °C). Incorporá el Pecorino Romano rallado en lluvia mientras salteás con movimientos continuos hasta que el queso se funda en una crema blanca, lisa y brillante. Reincorporá los bastones de guanciale crujiente y serví de inmediato con más Pecorino y pimienta molida."
+        ]
+      }
+    ],
+    "steps": [
+      "En una sartén de hierro o acero amplia sin nada de aceite, colocá los bastones de guanciale a fuego medio-bajo.",
+      "Dejalos cocinar lentamente durante 8 a 10 minutos mientras la grasa blanca se vuelve translúcida y líquida, hasta que los bastones queden dorados y crocantes por fuera pero tiernos por dentro. Retirá los bastones crocantes con una espumadera y reservalos en un plato templado, dejando la grasa líquida en la sartén.",
+      "Tostá los granos de pimienta machacada en una sartén seca durante 1 minuto a fuego medio hasta que liberen sus aceites esenciales aromáticos.",
+      "Verté la mitad de la grasa caliente del guanciale sobre la pimienta y agregá medio cucharón del agua hirviendo de la pasta, batiendo enérgicamente con batidor o cuchara de madera para que el aceite y el agua formen una emulsión opalescente inicial.",
+      "Escurrí la pasta (Rigatoni o Spaghetti) 2 minutos antes del punto al dente y pasala directamente a la sartén con la grasa y la pimienta.",
+      "Salteá a fuego vivo agregando chorritos de agua de pasta caliente mientras removés enérgicamente para que el almidón ligue con la grasa del cerdo.",
+      "Retirá la sartén COMPLETAMENTE del fuego y dejá enfriar 30 segundos (a unos 65 °C). Incorporá el Pecorino Romano rallado en lluvia mientras salteás con movimientos continuos hasta que el queso se funda en una crema blanca, lisa y brillante. Reincorporá los bastones de guanciale crujiente y serví de inmediato con más Pecorino y pimienta molida."
+    ],
+    "notes": "El control de temperatura para que el Pecorino no se corte: nunca agregues el Pecorino Romano con la sartén sobre el fuego directo; las proteínas del queso de oveja coagulan a los 70 °C y se convierten en grumos gomosos. Fuera del fuego, la temperatura residual y el almidón del agua logran la crema perfecta.",
+    "tags": [
+      "gricia",
+      "salsa alla gricia",
+      "roma",
+      "guanciale",
+      "pecorino romano",
+      "rigatoni",
+      "cocina romana",
+      "receta tradicional",
+      "paso a paso"
+    ]
+  },
+  {
+    "id": 885,
+    "title": "Salsa alla Norma (Italia)",
+    "category": "Pastas",
+    "country": "Italia",
+    "difficulty": "Baja",
+    "prep_time": "20 min",
+    "cook_time": "25 min",
+    "total_time": "45 min",
+    "servings": "4 porciones",
+    "calories": "390 kcal por porción",
+    "image": "https://lh3.googleusercontent.com/-_CuByNTkeFA/awjxVQ8LGFI/AAAAAAAQDy0/NipFZNGleFYgnjs-_rl5YTBdcNoAb7OGgCNcBGAsYHQ/s1600/salsa_alla_norma.jpg",
+    "diet_badges": [
+      "Pastas",
+      "Vegetariano",
+      "Origen Tradicional",
+      "Cocina Siciliana"
+    ],
+    "pairing": {
+      "type": "PASTA SICILIANA",
+      "name": "Rigatoni o Penne Rigate",
+      "icon": "penne"
+    },
+    "story": "Consagrada como el estandarte culinario de la ciudad de Catania, a los pies del volcán Etna, esta salsa debe su ilustre nombre al dramaturgo Nino Martoglio, quien al probarla en una cena a principios del siglo XX exclamó conmovido: '¡Chista è 'na vera Norma!', comparando su perfección con la célebre ópera lírica de su coterráneo Vincenzo Bellini. Es la síntesis magistral de los cuatro pilares de la huerta siciliana: la dulzura del tomate maduro, la textura carnosa de la berenjena frita en aceite de oliva, el perfume de la albahaca recién cortada y la salinidad láctea de la Ricotta Salata de oveja.",
+    "ingredient_groups": [
+      {
+        "name": "Berenjenas Sicilianas",
+        "ingredients": [
+          "2 berenjenas negras medianas (variedad violeta siciliana o común, cortadas en cubos de 2 cm o bastones)",
+          "Aceite de oliva virgen extra abundante para freír",
+          "Sal gruesa para purgar el amargor"
+        ]
+      },
+      {
+        "name": "Salsa de Tomate San Marzano y Aromas",
+        "ingredients": [
+          "800 g de tomates pelados San Marzano triturados a mano",
+          "2 dientes de ajo pelados y machacados enteros",
+          "1 ramillete abundante de hojas de albahaca fresca de huerta",
+          "3 cucharadas de aceite de oliva virgen extra",
+          "Sal marina fina y pimienta negra molida"
+        ]
+      },
+      {
+        "name": "Queso de Terminación",
+        "ingredients": [
+          "100 g de auténtica Ricotta Salata siciliana de oveja (para rallar grueso sobre el plato)"
+        ]
+      }
+    ],
+    "ingredients": [
+      "2 berenjenas negras medianas (cortadas en cubos de 2 cm o bastones)",
+      "Aceite de oliva virgen extra abundante para freír",
+      "Sal gruesa para purgar el amargor",
+      "800 g de tomates pelados San Marzano triturados a mano",
+      "2 dientes de ajo pelados y machacados enteros",
+      "1 ramillete abundante de hojas de albahaca fresca de huerta",
+      "3 cucharadas de aceite de oliva virgen extra",
+      "Sal marina fina y pimienta negra molida",
+      "100 g de auténtica Ricotta Salata siciliana de oveja (para rallar grueso sobre el plato)"
+    ],
+    "step_groups": [
+      {
+        "name": "Tratamiento y Fritura de las Berenjenas",
+        "steps": [
+          "Cortá las berenjenas en cubos de 2 cm, colocalas en un colador espolvoreadas con sal gruesa y dejalas reposar 30 minutos para que suden el agua amarga. Enjuagalas rápidamente y secalas a la perfección con papel de cocina.",
+          "Calentá abundante aceite de oliva virgen extra en una sartén profunda a 175 °C. Freí las berenjenas en tandas pequeñas durante 4 a 5 minutos hasta que queden doradas, con la piel crujiente y el corazón suave como manteca. Escurrilas sobre papel absorbente y salalas ligeramente."
+        ]
+      },
+      {
+        "name": "Elaboración de la Salsa de Tomate",
+        "steps": [
+          "En una cacerola, calentá 3 cucharadas de aceite de oliva con los dientes de ajo enteros machacados a fuego suave hasta que doren y aromaticen el aceite. Retirá el ajo si preferís un perfil sutil.",
+          "Añadí los tomates San Marzano triturados a mano junto con la mitad de la albahaca fresca desgarrada. Cociná a fuego medio-bajo durante 20 minutos hasta lograr una salsa brillante, espesa y fragante. Rectificá con sal marina y pimienta."
+        ]
+      },
+      {
+        "name": "Unión y Montaje Tradicional",
+        "steps": [
+          "Incorporá dos tercios de las berenjenas fritas dentro de la salsa de tomate caliente para que absorban el jugo sin perder su textura.",
+          "Cociná los Rigatoni o Penne al dente, escurrilos y volcálos en la sartén con la salsa, salteando durante 1 minuto a fuego vivo.",
+          "Serví en platos hondos de terracota, coroná con el resto de las berenjenas fritas crocantes, hojas frescas de albahaca y una generosa lluvia de Ricotta Salata rallada gruesa."
+        ]
+      }
+    ],
+    "steps": [
+      "Cortá las berenjenas en cubos de 2 cm, colocalas en un colador espolvoreadas con sal gruesa y dejalas reposar 30 minutos para que suden el agua amarga. Enjuagalas rápidamente y secalas a la perfección con papel de cocina.",
+      "Calentá abundante aceite de oliva virgen extra en una sartén profunda a 175 °C. Freí las berenjenas en tandas pequeñas durante 4 a 5 minutos hasta que queden doradas, con la piel crujiente y el corazón suave como manteca. Escurrilas sobre papel absorbente y salalas ligeramente.",
+      "En una cacerola, calentá 3 cucharadas de aceite de oliva con los dientes de ajo enteros machacados a fuego suave hasta que doren y aromaticen el aceite. Retirá el ajo si preferís un perfil sutil.",
+      "Añadí los tomates San Marzano triturados a mano junto con la mitad de la albahaca fresca desgarrada. Cociná a fuego medio-bajo durante 20 minutos hasta lograr una salsa brillante, espesa y fragante. Rectificá con sal marina y pimienta.",
+      "Incorporá dos tercios de las berenjenas fritas dentro de la salsa de tomate caliente para que absorban el jugo sin perder su textura.",
+      "Cociná los Rigatoni o Penne al dente, escurrilos y volcálos en la sartén con la salsa, salteando durante 1 minuto a fuego vivo.",
+      "Serví en platos hondos de terracota, coroná con el resto de las berenjenas fritas crocantes, hojas frescas de albahaca y una generosa lluvia de Ricotta Salata rallada gruesa."
+    ],
+    "notes": "La diferencia insustituible de la Ricotta Salata: nunca uses queso ricotta fresco ni mozzarella; la Ricotta Salata es un queso de oveja prensado, salado en salmuera y curado durante meses, de textura firme y salinidad punzante que funde sutilmente sobre el calor del tomate.",
+    "tags": [
+      "norma",
+      "salsa alla norma",
+      "catania",
+      "sicilia",
+      "berenjenas",
+      "ricotta salata",
+      "san marzano",
+      "cocina siciliana",
+      "receta tradicional",
+      "paso a paso"
+    ]
+  },
+  {
+    "id": 886,
+    "title": "Salsa alla Genovese (Italia)",
+    "category": "Pastas",
+    "country": "Italia",
+    "difficulty": "Media",
+    "prep_time": "30 min",
+    "cook_time": "6 h",
+    "total_time": "6 h 30 min",
+    "servings": "6 porciones",
+    "calories": "480 kcal por porción",
+    "image": "https://lh3.googleusercontent.com/-8PUfGHfCGDI/awjxWgwCavI/AAAAAAAQDy8/3Z1_G-GckUMEIXzjcGGFomJwDWzm100jACNcBGAsYHQ/s1600/salsa_alla_genovese_napolitana.jpg",
+    "diet_badges": [
+      "Pastas",
+      "Carne",
+      "Origen Tradicional",
+      "Cocción Lenta"
+    ],
+    "pairing": {
+      "type": "PASTA NAPOLITANA",
+      "name": "Ziti Spezzati o Paccheri",
+      "icon": "rigatoni"
+    },
+    "story": "A pesar de su nombre desconcertante, la Genovese no pertenece a Liguria sino a los callejones más antiguos de Nápoles, donde se documenta desde el siglo XV. Surgió cuando cocineros y marineros genoveses recalaban en el puerto de Nápoles para aprovisionarse, dejando en las tabernas del puerto la costumbre de estofar carne con abundante cebolla. Las amas de casa napolitanas transformaron la receta en un rito dominical sagrado: una cocción de 6 a 8 horas donde kilos de cebollas cobrizas de Montoro se deshacen hasta caramelizar en una mermelada dorada, aterciopelada y dulce sin una sola gota de tomate, abrazando los tradicionales Ziti partidos a mano.",
+    "ingredient_groups": [
+      {
+        "name": "Carne de Ternera",
+        "ingredients": [
+          "800 g de carne vacuna para estofar (corte tortuguita, paleta o garrón / lacerto)",
+          "50 g de panceta curada o manteca de cerdo"
+        ]
+      },
+      {
+        "name": "La Montaña de Cebollas y Aromáticos",
+        "ingredients": [
+          "1,5 kg de cebollas cobrizas (idealmente variedad Ramata di Montoro o amarillas dulces, en juliana fina)",
+          "1 zanahoria mediana rallada o en brunoise fina",
+          "1 tallo de apio tierno picado finísimo",
+          "4 cucharadas de aceite de oliva virgen extra",
+          "1 ramita de romero y 2 hojas de laurel atadas"
+        ]
+      },
+      {
+        "name": "Desglasado y Sazón",
+        "ingredients": [
+          "200 ml de vino blanco seco campesino (Greco di Tufo o Fiano)",
+          "Sal marina gruesa y pimienta negra recién molida",
+          "Queso Parmigiano Reggiano o Pecorino rallado para el servicio"
+        ]
+      }
+    ],
+    "ingredients": [
+      "800 g de carne vacuna para estofar (corte tortuguita, paleta o garrón)",
+      "50 g de panceta curada o manteca de cerdo",
+      "1,5 kg de cebollas cobrizas en juliana fina",
+      "1 zanahoria mediana en brunoise fina",
+      "1 tallo de apio tierno picado finísimo",
+      "4 cucharadas de aceite de oliva virgen extra",
+      "1 ramita de romero y 2 hojas de laurel atadas",
+      "200 ml de vino blanco seco campesino",
+      "Sal marina gruesa y pimienta negra recién molida",
+      "Queso Parmigiano Reggiano o Pecorino rallado para el servicio"
+    ],
+    "step_groups": [
+      {
+        "name": "Sellado de la Carne y Base",
+        "steps": [
+          "Cortá la carne en trozos grandes de unos 150 g cada uno. En una cacerola grande de fondo grueso (terracota o hierro fundido), calentá el aceite de oliva con la panceta.",
+          "Dorá los trozos de carne a fuego medio-alto por todos sus lados durante 8 a 10 minutos hasta lograr una corteza tostada uniforme. Retirá la carne temporalmente."
+        ]
+      },
+      {
+        "name": "La Lenta Fusión de las Cebollas",
+        "steps": [
+          "En la misma grasa de la cacerola, agregá la zanahoria y el apio picados, cocinando 3 minutos. Añadí toda la montaña de cebollas cortadas en juliana fina con una pizca de sal marina gruesa.",
+          "Acomodá los trozos de carne sobre el colchón de cebollas e introducí el atado de laurel y romero.",
+          "Tapá la cacerola a fuego bajísimo. Durante las primeras 2 horas, las cebollas soltarán toda su agua natural sumergiendo la carne en un baño dulce de humedad sin necesidad de agregar caldo."
+        ]
+      },
+      {
+        "name": "Caramelización y Reducción Magistral",
+        "steps": [
+          "Pasadas 2 horas, destapá parcialmente la olla, subí ligeramente el fuego y verté el vino blanco en dos partes, dejando evaporar el alcohol.",
+          "Cociná durante 3 a 4 horas más a fuego lentísimo, revolviendo periódicamente con cuchara de madera para que la cebolla no se pegue al fondo, hasta que el agua se evapore y las cebollas tomen un color caoba oscuro y brillante.",
+          "Cuando la carne se deshaga con solo rozarla con un tenedor y la salsa sea una crema espesa y uniforme, rectificá de sal y abundante pimienta negra. Salseá los Ziti partidos a mano y coroná con Parmigiano."
+        ]
+      }
+    ],
+    "steps": [
+      "Cortá la carne en trozos grandes de unos 150 g cada uno. En una cacerola grande de fondo grueso (terracota o hierro fundido), calentá el aceite de oliva con la panceta.",
+      "Dorá los trozos de carne a fuego medio-alto por todos sus lados durante 8 a 10 minutos hasta lograr una corteza tostada uniforme. Retirá la carne temporalmente.",
+      "En la misma grasa de la cacerola, agregá la zanahoria y el apio picados, cocinando 3 minutos. Añadí toda la montaña de cebollas cortadas en juliana fina con una pizca de sal marina gruesa.",
+      "Acomodá los trozos de carne sobre el colchón de cebollas e introducí el atado de laurel y romero.",
+      "Tapá la cacerola a fuego bajísimo. Durante las primeras 2 horas, las cebollas soltarán toda su agua natural sumergiendo la carne en un baño dulce de humedad sin necesidad de agregar caldo.",
+      "Pasadas 2 horas, destapá parcialmente la olla, subí ligeramente el fuego y verté el vino blanco en dos partes, dejando evaporar el alcohol.",
+      "Cociná durante 3 a 4 horas más a fuego lentísimo, revolviendo periódicamente con cuchara de madera para que la cebolla no se pegue al fondo, hasta que el agua se evapore y las cebollas tomen un color caoba oscuro y brillante.",
+      "Cuando la carne se deshaga con solo rozarla con un tenedor y la salsa sea una crema espesa y uniforme, rectificá de sal y abundante pimienta negra. Salseá los Ziti partidos a mano y coroná con Parmigiano."
+    ],
+    "notes": "La elección de la cebolla: la variedad Montoro o cebollas cobrizas dulces son indispensables porque poseen una alta concentración de azúcares naturales y menos azufre que las blancas, lo que permite que caramelicen lentamente durante 6 horas sin volverse amargas ni ácidas.",
+    "tags": [
+      "genovese",
+      "salsa alla genovese",
+      "napoles",
+      "campania",
+      "cebollas",
+      "ziti",
+      "coccion lenta",
+      "cocina napolitana",
+      "receta tradicional",
+      "paso a paso"
+    ]
+  },
+  {
+    "id": 887,
+    "title": "Salsa all'Arrabbiata (Italia)",
+    "category": "Pastas",
+    "country": "Italia",
+    "difficulty": "Baja",
+    "prep_time": "10 min",
+    "cook_time": "15 min",
+    "total_time": "25 min",
+    "servings": "4 porciones",
+    "calories": "310 kcal por porción",
+    "image": "https://lh3.googleusercontent.com/-NLgDL-dPTCg/awjxXybz2dI/AAAAAAAQDzE/CZFtD8nCxtgtdI3Pm8RRakIyRZ3EdO6qQCNcBGAsYHQ/s1600/salsa_all_arrabbiata.jpg",
+    "diet_badges": [
+      "Pastas",
+      "Vegetariano",
+      "Vegano",
+      "Picante",
+      "Cocina Romana"
+    ],
+    "pairing": {
+      "type": "PASTA CORTA ROMANA",
+      "name": "Penne Rigate al Bronzo",
+      "icon": "penne"
+    },
+    "story": "Nacida en las trattorias populares de Roma en las primeras décadas del siglo XX, esta salsa debe su nombre al rubor intenso y al calor que provoca en quien la come ('arrabbiato', enfadado o enojado por el picor). Convertida en símbolo de la gastronomía romana junto a la Carbonara y la Amatriciana, su éxito radica en la sencillez campesina de dorar láminas de ajo en aceite de oliva con generoso peperoncino, volcando tomates San Marzano bien maduros que se reducen rápidamente para preservar su frescura viva.",
+    "ingredient_groups": [
+      {
+        "name": "Aceite Aromático y Picante",
+        "ingredients": [
+          "4 dientes de ajo frescos pelados y cortados en láminas finas",
+          "2 a 3 ajíes peperoncino secos picados (o 2 frescos cortados en rodajitas)",
+          "5 cucharadas de aceite de oliva virgen extra de buena calidad"
+        ]
+      },
+      {
+        "name": "Tomates y Frescura",
+        "ingredients": [
+          "600 g de tomates pelados San Marzano aplastados a mano con sus jugos",
+          "1 manojo pequeño de perejil fresco de hoja plana picado muy fino",
+          "Sal marina fina al gusto",
+          "Queso Pecorino Romano rallado (opcional según el comensal)"
+        ]
+      }
+    ],
+    "ingredients": [
+      "4 dientes de ajo frescos pelados y cortados en láminas finas",
+      "2 a 3 ajíes peperoncino secos picados (o 2 frescos cortados en rodajitas)",
+      "5 cucharadas de aceite de oliva virgen extra de buena calidad",
+      "600 g de tomates pelados San Marzano aplastados a mano con sus jugos",
+      "1 manojo pequeño de perejil fresco de hoja plana picado muy fino",
+      "Sal marina fina al gusto",
+      "Queso Pecorino Romano rallado (opcional)"
+    ],
+    "step_groups": [
+      {
+        "name": "Infusión de Ajo y Peperoncino",
+        "steps": [
+          "En una sartén amplia a fuego medio-bajo, verté las 5 cucharadas de aceite de oliva virgen extra.",
+          "Agregá las láminas de ajo y el peperoncino picado. Dejalos dorar suavemente durante 2 a 3 minutos para que liberen su capsicina y perfume en el aceite sin quemarse (el ajo quemado arruina el plato)."
+        ]
+      },
+      {
+        "name": "Cocción Rápida del Tomate",
+        "steps": [
+          "Subí el fuego a medio-alto e incorporá de golpe los tomates pelados San Marzano estrujados con las manos.",
+          "Cociná a fuego vivo durante 12 a 15 minutos, revolviendo de vez en cuando, hasta que el tomate reduzca, espese y el aceite suba a los bordes con un color rojo rubí intenso. Salá al gusto."
+        ]
+      },
+      {
+        "name": "Salteado y Terminación",
+        "steps": [
+          "Herví los Penne Rigate al dente en abundante agua con sal marina. Escurrilos reservando un cuarto de taza del agua.",
+          "Volcá los penne en la sartén con la salsa caliente y el chorrito de agua, salteando con energía a fuego fuerte durante 1 minuto para que la salsa se introduzca en las estrías de la pasta.",
+          "Apagá el fuego, espolvoreá con el perejil fresco picado y un hilo de aceite crudo. Serví de inmediato."
+        ]
+      }
+    ],
+    "steps": [
+      "En una sartén amplia a fuego medio-bajo, verté las 5 cucharadas de aceite de oliva virgen extra.",
+      "Agregá las láminas de ajo y el peperoncino picado. Dejalos dorar suavemente durante 2 a 3 minutos para que liberen su capsicina y perfume en el aceite sin quemarse.",
+      "Subí el fuego a medio-alto e incorporá de golpe los tomates pelados San Marzano estrujados con las manos.",
+      "Cociná a fuego vivo durante 12 a 15 minutos, revolviendo de vez en cuando, hasta que el tomate reduzca, espese y el aceite suba a los bordes con un color rojo rubí intenso. Salá al gusto.",
+      "Herví los Penne Rigate al dente en abundante agua con sal marina. Escurrilos reservando un cuarto de taza del agua.",
+      "Volcá los penne en la sartén con la salsa caliente y el chorrito de agua, salteando con energía a fuego fuerte durante 1 minuto para que la salsa se introduzca en las estrías de la pasta.",
+      "Apagá el fuego, espolvoreá con el perejil fresco picado y un hilo de aceite crudo. Serví de inmediato."
+    ],
+    "notes": "El fuego vivo en el tomate: a diferencia de los ragús que requieren horas, la salsa all'Arrabbiata debe conservar la frescura y acidez viva del tomate San Marzano; una cocción rápida a fuego fuerte emulsiona el aceite picante con la pulpa sin perder su sabor herbáceo.",
+    "tags": [
+      "arrabbiata",
+      "salsa all arrabbiata",
+      "penne arrabbiata",
+      "roma",
+      "picante",
+      "peperoncino",
+      "san marzano",
+      "cocina romana",
+      "receta tradicional",
+      "paso a paso"
+    ]
+  },
+  {
+    "id": 888,
+    "title": "Salsa di Noci (Italia)",
+    "category": "Pastas",
+    "country": "Italia",
+    "difficulty": "Baja",
+    "prep_time": "20 min",
+    "cook_time": "5 min",
+    "total_time": "25 min",
+    "servings": "4 porciones",
+    "calories": "410 kcal por porción",
+    "image": "https://lh3.googleusercontent.com/-K_XgJtM5VpQ/awjxY3T7DyI/AAAAAAAQDzM/6pBPDUmToSMa3xx5IVhLRgoN63XJScnnACNcBGAsYHQ/s1600/salsa_di_noci_ligure.jpg",
+    "diet_badges": [
+      "Pastas",
+      "Vegetariano",
+      "Origen Tradicional",
+      "Cocina Ligur"
+    ],
+    "pairing": {
+      "type": "PASTA RELLENA LIGUR",
+      "name": "Pansotti con Preboggion",
+      "icon": "ravioli"
+    },
+    "story": "Documentada en la República Marinera de Génova desde la época de las Cruzadas, la salsa de nueces es el gran tesoro blanco de la cocina ligur junto con el pesto genovés. Los mercaderes ligures adoptaron las preparaciones orientales con frutos secos machacados al mortero y las adaptaron a los nogales silvestres de los valles de los Apeninos. Tradicionalmente preparada en mortero de mármol de Carrara con nueces blanqueadas y peladas a mano, es el acompañamiento obligatorio e inseparable de los pansotti rellenos de hierbas silvestres.",
+    "ingredient_groups": [
+      {
+        "name": "Nueces y Miga de Pan",
+        "ingredients": [
+          "200 g de nueces peladas (mariposas sin piel amarga)",
+          "50 g de miga de pan blanco rústico del día anterior",
+          "100 ml de leche entera tibia (para remojar la miga)"
+        ]
+      },
+      {
+        "name": "Aromas y Emulsión al Mortero",
+        "ingredients": [
+          "1/2 diente de ajo pequeño sin el germen verde central",
+          "40 g de queso Parmigiano Reggiano DOP (o Grana Padano) rallado fino",
+          "4 cucharadas de aceite de oliva virgen extra de la Riviera Ligure (variedad Taggiasca, dulce y frutal)",
+          "3 ramitas de mejorana fresca (solo las hojitas)",
+          "1 pizca de sal marina fina y pimienta blanca molida"
+        ]
+      }
+    ],
+    "ingredients": [
+      "200 g de nueces peladas (sin piel amarga)",
+      "50 g de miga de pan blanco rústico del día anterior",
+      "100 ml de leche entera tibia",
+      "1/2 diente de ajo pequeño sin el germen",
+      "40 g de queso Parmigiano Reggiano DOP rallado fino",
+      "4 cucharadas de aceite de oliva virgen extra Taggiasco",
+      "3 ramitas de mejorana fresca (hojitas)",
+      "1 pizca de sal marina fina y pimienta blanca molida"
+    ],
+    "step_groups": [
+      {
+        "name": "Pelado de las Nueces y Remojo",
+        "steps": [
+          "Herví agua en una ollita y sumergí las nueces peladas durante 2 minutos. Escurrilas y frotalas dentro de un repasador limpio para retirar la piel marrón amarga (la piel clara asegura un color marfil impecable y sabor dulce).",
+          "En un cuenco, remojá la miga de pan blanco con la leche tibia durante 5 minutos y luego estrujala suavemente con las manos."
+        ]
+      },
+      {
+        "name": "Machacado al Mortero o Procesado Frío",
+        "steps": [
+          "En un mortero de mármol (o en procesadora pulsando brevemente sin calentar la masa), machacá el medio diente de ajo con una pizca de sal marina hasta formar una pasta translúcida.",
+          "Agregá las nueces peladas y las hojas de mejorana fresca, moliendo con movimientos rotatorios continuos hasta obtener una textura granulada fina.",
+          "Incorporá la miga de pan remojada y el Parmigiano Reggiano rallado, continuando el majado con paciencia."
+        ]
+      },
+      {
+        "name": "Emulsión Cruda y Mantecado",
+        "steps": [
+          "Verté el aceite de oliva virgen extra en un hilo constante mientras emulsionás hasta lograr una crema marfil espesa y untuosa.",
+          "Al momento de servir sobre los Pansotti, diluí la salsa con dos cucharadas del agua caliente de la cocción de la pasta para que adquiera una consistencia sedosa y nape la pasta sin grumos."
+        ]
+      }
+    ],
+    "steps": [
+      "Herví agua en una ollita y sumergí las nueces peladas durante 2 minutos. Escurrilas y frotalas dentro de un repasador limpio para retirar la piel marrón amarga.",
+      "En un cuenco, remojá la miga de pan blanco con la leche tibia durante 5 minutos y luego estrujala suavemente con las manos.",
+      "En un mortero de mármol, machacá el medio diente de ajo con una pizca de sal marina hasta formar una pasta translúcida.",
+      "Agregá las nueces peladas y las hojas de mejorana fresca, moliendo con movimientos rotatorios continuos hasta obtener una textura granulada fina.",
+      "Incorporá la miga de pan remojada y el Parmigiano Reggiano rallado, continuando el majado con paciencia.",
+      "Verté el aceite de oliva virgen extra en un hilo constante mientras emulsionás hasta lograr una crema marfil espesa y untuosa.",
+      "Al momento de servir sobre los Pansotti, diluí la salsa con dos cucharadas del agua caliente de la cocción de la pasta para que adquiera una consistencia sedosa y nape la pasta sin grumos."
+    ],
+    "notes": "El toque distintivo de la mejorana: la cocina ligur se define por la mejorana fresca (*persa* en dialecto genovés); su aroma balsámico y floral corta la riqueza grasa de la nuez y aporta ese fondo fresco inconfundible de la Liguria medieval.",
+    "tags": [
+      "salsa di noci",
+      "noci",
+      "liguria",
+      "genova",
+      "pansotti",
+      "nueces",
+      "mortero",
+      "cocina ligur",
+      "receta tradicional",
+      "paso a paso"
+    ]
+  },
+  {
+    "id": 889,
+    "title": "Salsa alle Vongole (Italia)",
+    "category": "Pastas",
+    "country": "Italia",
+    "difficulty": "Baja",
+    "prep_time": "30 min",
+    "cook_time": "10 min",
+    "total_time": "40 min",
+    "servings": "4 porciones",
+    "calories": "380 kcal por porción",
+    "image": "https://lh3.googleusercontent.com/-eohItVjLFA4/awjxZ2LvX9I/AAAAAAAQDzU/jabCQ-cAimIHY9dOJ2YUraRleKeQEDO8wCNcBGAsYHQ/s1600/salsa_alle_vongole.jpg",
+    "diet_badges": [
+      "Pastas",
+      "Pescados y Mariscos",
+      "Origen Tradicional",
+      "Cocina Napolitana"
+    ],
+    "pairing": {
+      "type": "PASTA LARGA MARINERA",
+      "name": "Spaghetti al Bronzo",
+      "icon": "spaghetti"
+    },
+    "story": "Símbolo universal de los almuerzos frente al mar en el golfo de Nápoles y la costa amalfitana, la salsa de almejas encarna la pureza marina de la cocina campana. Surgida entre los pescadores de Santa Lucía y Mergellina que abrían los moluscos frescos con el vapor de sus calderos, su receta histórica prescinde de aditamentos pesados para ensalzar el néctar salino que encierran las conchas, emulsionado a fuego vivo con aceite virgen extra, vino blanco seco y perejil picado.",
+    "ingredient_groups": [
+      {
+        "name": "Almejas Frescas",
+        "ingredients": [
+          "1 kg de almejas frescas vivas en su concha (variedad veraci o lupini)",
+          "Agua con sal gruesa (para purgar arena durante 2 horas)"
+        ]
+      },
+      {
+        "name": "Emulsión Marina al Vino Blanco",
+        "ingredients": [
+          "3 dientes de ajo grandes pelados y cortados en láminas finas",
+          "1 ají peperoncino fresco cortado en rodajitas (o seco desmenuzado)",
+          "100 ml de vino blanco seco (Falanghina o Greco di Tufo)",
+          "5 cucharadas de aceite de oliva virgen extra de primer prensado",
+          "1 manojo abundante de perejil fresco picado fino",
+          "Pimienta negra recién molida"
+        ]
+      }
+    ],
+    "ingredients": [
+      "1 kg de almejas frescas vivas en su concha (variedad veraci o lupini)",
+      "Agua con sal gruesa (para purgar arena)",
+      "3 dientes de ajo grandes en láminas finas",
+      "1 ají peperoncino fresco en rodajitas",
+      "100 ml de vino blanco seco",
+      "5 cucharadas de aceite de oliva virgen extra",
+      "1 manojo abundante de perejil fresco picado fino",
+      "Pimienta negra recién molida"
+    ],
+    "step_groups": [
+      {
+        "name": "Purgado y Limpieza de Almejas",
+        "steps": [
+          "Sumergí las almejas en un bol grande con agua fría y sal gruesa (35 g de sal por litro) durante 2 horas para que filtren y expulsen cualquier grano de arena interior. Escurrilas y descartá cualquier pieza abierta o rota que no cierre al tacto."
+        ]
+      },
+      {
+        "name": "Apertura al Vapor y Caldo Marino",
+        "steps": [
+          "En una sartén muy amplia a fuego vivo, calentá 2 cucharadas de aceite de oliva, volcá las almejas bien escurridas y verté el vino blanco. Tapá de inmediato.",
+          "Cociná durante 2 a 3 minutos sacudiendo la sartén con frecuencia hasta que las almejas se abran con el vapor. Retirá las almejas de inmediato con espumadera para que no se sobrecocinen (descartá las que no hayan abierto).",
+          "Filtrá el líquido de cocción del fondo de la sartén con un colador de malla ultrafina forrado con papel de cocina para eliminar cualquier impureza o residuo de arena marina."
+        ]
+      },
+      {
+        "name": "La Emulsión Brillante Final",
+        "steps": [
+          "En la sartén limpia, dorá las láminas de ajo y el peperoncino con las 3 cucharadas restantes de aceite de oliva virgen extra a fuego medio hasta que tomen color dorado claro.",
+          "Verté el caldo filtrado de las almejas y dejalo hervir a fuego vivo 1 minuto.",
+          "Escurrí los Spaghetti muy al dente (3 minutos antes) y volcalos en la sartén. Salteá enérgicamente para que los fideos absorban el jugo marino y el almidón cree una crema brillante que recubra la pasta.",
+          "Sumá las almejas en sus conchas y abundante perejil fresco picado, salteá 30 segundos más y serví inmediatamente en platos hondos con un hilo de aceite crudo."
+        ]
+      }
+    ],
+    "steps": [
+      "Sumergí las almejas en un bol grande con agua fría y sal gruesa durante 2 horas para que filtren la arena interior. Escurrilas y descartá las rotas.",
+      "En una sartén muy amplia a fuego vivo con 2 cucharadas de aceite, volcá las almejas y el vino blanco. Tapá y cociná 2 a 3 minutos hasta que se abran.",
+      "Retirá las almejas de inmediato y filtrá el líquido del fondo con colador fino y papel para retirar cualquier residuo de arena.",
+      "En la sartén limpia, dorá el ajo y el peperoncino con las 3 cucharadas de aceite virgen extra a fuego medio.",
+      "Verté el caldo de almejas filtrado y dejalo hervir 1 minuto a fuego vivo.",
+      "Volcá los Spaghetti al dente y salteá enérgicamente para que el almidón y el caldo marino formen una emulsión sedosa.",
+      "Añadí las almejas abiertas y abundante perejil picado, salteá 30 segundos y serví al instante."
+    ],
+    "notes": "El filtrado del caldo marino: jamás omitas colar el líquido de las almejas con papel absorbente o tela fina; ese caldo concentrado encierra toda la sal y el sabor del mar, pero un solo grano de arena arruina por completo la experiencia en boca.",
+    "tags": [
+      "vongole",
+      "salsa alle vongole",
+      "spaghetti vongole",
+      "almejas",
+      "napoles",
+      "mariscos",
+      "vino blanco",
+      "cocina napolitana",
+      "receta tradicional",
+      "paso a paso"
+    ]
+  },
+  {
+    "id": 890,
+    "title": "Salsa ai Quattro Formaggi (Italia)",
+    "category": "Pastas",
+    "country": "Italia",
+    "difficulty": "Baja",
+    "prep_time": "15 min",
+    "cook_time": "10 min",
+    "total_time": "25 min",
+    "servings": "4 porciones",
+    "calories": "520 kcal por porción",
+    "image": "https://lh3.googleusercontent.com/-ncIDDPRiwX8/awjxbATtR0I/AAAAAAAQDzc/guM1jxzxaW8mg8UdyQ4bRM5eb7zpg7IHwCNcBGAsYHQ/s1600/salsa_ai_quattro_formaggi.jpg",
+    "diet_badges": [
+      "Pastas",
+      "Vegetariano",
+      "Origen Tradicional",
+      "Cocina Alpina"
+    ],
+    "pairing": {
+      "type": "PASTA DE MONTAÑA",
+      "name": "Gnocchi di Patate o Rigatoni",
+      "icon": "gnocchi"
+    },
+    "story": "Nacida en los valles alpinos del Piamonte, Lombardía y el Valle de Aosta, esta preparación representa el ingenio campesino de los caseros de montaña para unificar los excedentes lácteos al final del invierno. Los cuatro quesos canónicos combinan cuatro texturas y perfiles sensoriales precisos: el picor dulce del Gorgonzola, la elasticidad aromática de la Fontina alpina, la untuosidad cremosa del Taleggio y la estructura salina del Parmigiano Reggiano añejo.",
+    "ingredient_groups": [
+      {
+        "name": "Los Cuatro Quesos Canónicos",
+        "ingredients": [
+          "80 g de queso Gorgonzola dulce DOP (o azul cremoso, sin corteza y en cubos)",
+          "80 g de queso Fontina del Valle de Aosta DOP (cortado en dados pequeños)",
+          "80 g de queso Taleggio DOP (sin corteza y en dados)",
+          "60 g de queso Parmigiano Reggiano DOP (rallado muy fino)"
+        ]
+      },
+      {
+        "name": "Base de Emulsión Láctea y Especias",
+        "ingredients": [
+          "100 ml de leche entera fresca",
+          "80 ml de crema de leche fresca (nata)",
+          "20 g de manteca vacuna de buena calidad",
+          "1 pizca generosa de nuez moscada recién rallada",
+          "Pimienta negra recién molida al gusto"
+        ]
+      }
+    ],
+    "ingredients": [
+      "80 g de queso Gorgonzola dulce DOP en cubos",
+      "80 g de queso Fontina del Valle de Aosta DOP en dados",
+      "80 g de queso Taleggio DOP en dados",
+      "60 g de queso Parmigiano Reggiano DOP rallado fino",
+      "100 ml de leche entera fresca",
+      "80 ml de crema de leche fresca",
+      "20 g de manteca vacuna",
+      "1 pizca de nuez moscada recién rallada",
+      "Pimienta negra recién molida"
+    ],
+    "step_groups": [
+      {
+        "name": "Fundición Suave a Baño María o Fuego Bajo",
+        "steps": [
+          "En una cacerola pequeña de fondo grueso (o a baño María suave para máxima seguridad), colocá la manteca, la leche entera y la crema de leche a fuego bajísimo.",
+          "Añadí primero los quesos de mayor consistencia: los dados de Fontina y Taleggio. Revolvé continuamente con cuchara de madera o espátula de silicona en círculos suaves mientras los quesos se ablandan y comienzan a fundir lentamente sin superar nunca los 65 °C."
+        ]
+      },
+      {
+        "name": "Integración del Gorgonzola y Parmigiano",
+        "steps": [
+          "Una vez disuelta la Fontina, sumá el Gorgonzola dulce en cubos y dejalo fundir hasta que sus vetas azules se integren uniformemente en la crema marfil.",
+          "Apagá el fuego e incorporá el Parmigiano Reggiano rallado fino, batiendo con energía para lograr una emulsión perfectamente homogénea, densa y aterciopelada.",
+          "Condimentá con la nuez moscada recién rallada y pimienta negra molida (no agregues sal, los cuatro quesos aportan salinidad suficiente)."
+        ]
+      },
+      {
+        "name": "Mantecado con Gnocchi o Rigatoni",
+        "steps": [
+          "Herví los Gnocchi de papa (o Rigatoni al dente) y escurrilos cuidadosamente.",
+          "Volcálos en la cacerola tibia con la crema de quesos, envolviendo suavemente durante 30 segundos para que la salsa los recubra con un velo brillante y elástico.",
+          "Serví en platos hondos precalentados con nueces tostadas troceadas por encima o unas hojitas de salvia crujiente."
+        ]
+      }
+    ],
+    "steps": [
+      "En una cacerola a fuego bajísimo (o a baño María), calentá la manteca, la leche y la crema fresca.",
+      "Añadí los dados de Fontina y Taleggio, revolviendo con cuchara de madera a baja temperatura hasta que comiencen a fundir de forma pareja.",
+      "Incorporá el Gorgonzola dulce y dejalo fundir hasta lograr una crema marfil suave y homogénea.",
+      "Retirá del fuego, sumá el Parmigiano Reggiano rallado fino y batí vigorosamente para ligar la emulsión.",
+      "Condimentá con nuez moscada recién rallada y pimienta negra molida.",
+      "Volcá los Gnocchi de papa o Rigatoni recién escurridos y envolvé con delicadeza para que la salsa nape la pasta.",
+      "Serví de inmediato en platos hondos con pimienta negra molida o nueces tostadas."
+    ],
+    "notes": "El control térmico para evitar que el queso se separe: el secreto de los cuatro quesos es jamás dejar hervir la salsa; a más de 70 °C la caseína se desnaturaliza expulsando el suero y la grasa líquida. El fuego ultra bajo o baño María garantiza una emulsión sedosa sin gomas ni grumos.",
+    "tags": [
+      "quattro formaggi",
+      "cuatro quesos",
+      "gnocchi",
+      "gorgonzola",
+      "fontina",
+      "taleggio",
+      "parmigiano",
+      "alpes",
+      "cocina italiana",
+      "receta tradicional",
+      "paso a paso"
+    ]
+  },
+  {
+    "id": 891,
+    "title": "Salsa alla Vodka (Italia)",
+    "category": "Pastas",
+    "country": "Italia",
+    "difficulty": "Baja",
+    "prep_time": "10 min",
+    "cook_time": "20 min",
+    "total_time": "30 min",
+    "servings": "4 porciones",
+    "calories": "470 kcal por porción",
+    "image": "https://lh3.googleusercontent.com/-aTXGeT2c9Cw/awjxcGg7G-I/AAAAAAAQDzk/KbRSDuFqmHIorO7HkRpTj3w7oUdnVKl3wCNcBGAsYHQ/s1600/salsa_alla_vodka.jpg",
+    "diet_badges": [
+      "Pastas",
+      "Carne",
+      "Origen Tradicional",
+      "Fusión Años 70"
+    ],
+    "pairing": {
+      "type": "PASTA CORTA CREMOSA",
+      "name": "Penne Rigate al Bronzo",
+      "icon": "penne"
+    },
+    "story": "Fenómeno gastronómico de la década de 1970 con reclamos de paternidad compartidos entre el restaurante Dante de Bolonia y las trattorias de Manhattan frecuentadas por importadores italianos, la salsa alla Vodka representa el glamour de la cocina moderna. Su razón de ser no es un capricho alcohólico, sino pura química culinaria: el etanol del destilado actúa como solvente de compuestos aromáticos del tomate que no son solubles ni en agua ni en grasa pura, al tiempo que emulsiona de forma estable la acidez del tomate con la untuosidad de la crema láctea.",
+    "ingredient_groups": [
+      {
+        "name": "Base de Panceta y Aromas",
+        "ingredients": [
+          "120 g de panceta curada (o guanciale, cortada en cubitos pequeños)",
+          "1 chalota o cebolla blanca pequeña picada en brunoise finísima",
+          "2 dientes de ajo pelados y machacados enteros",
+          "1 pizca de copos de peperoncino rojo seco",
+          "2 cucharadas de aceite de oliva virgen extra y 20 g de manteca"
+        ]
+      },
+      {
+        "name": "Desglasado con Vodka y Tomate",
+        "ingredients": [
+          "60 ml de vodka puro sin aromatizar",
+          "500 g de passata de tomate San Marzano (o tomates pelados licuados)",
+          "2 cucharadas de concentrado doble de tomate"
+        ]
+      },
+      {
+        "name": "Cremado y Queso",
+        "ingredients": [
+          "150 ml de crema de leche fresca espesa (35% materia grasa)",
+          "60 g de queso Parmigiano Reggiano rallado al momento",
+          "Hojas de albahaca fresca cortadas en chiffonade",
+          "Sal marina y pimienta negra recién molida"
+        ]
+      }
+    ],
+    "ingredients": [
+      "120 g de panceta curada en cubitos pequeños",
+      "1 chalota o cebolla blanca pequeña en brunoise fina",
+      "2 dientes de ajo enteros machacados",
+      "1 pizca de peperoncino rojo seco",
+      "2 cucharadas de aceite de oliva y 20 g de manteca",
+      "60 ml de vodka puro",
+      "500 g de passata de tomate San Marzano",
+      "2 cucharadas de concentrado doble de tomate",
+      "150 ml de crema de leche fresca espesa",
+      "60 g de queso Parmigiano Reggiano rallado",
+      "Hojas de albahaca fresca en chiffonade",
+      "Sal marina y pimienta negra recién molida"
+    ],
+    "step_groups": [
+      {
+        "name": "Dorado de Panceta y Sofrito",
+        "steps": [
+          "En una sartén grande y profunda, colocá los cubitos de panceta con el aceite de oliva a fuego medio durante 6 a 8 minutos hasta que doren y queden crocantes. Retirá la mitad de los cubitos crujientes para decorar.",
+          "Añadí la manteca, la chalota picada, el ajo y la pizca de peperoncino. Rehogá a fuego medio-bajo durante 5 minutos hasta que la chalota esté translúcida y tierna sin tomar color oscuro."
+        ]
+      },
+      {
+        "name": "Desglasado con Vodka y Reducción del Tomate",
+        "steps": [
+          "Subí el fuego a medio-alto, verté el vodka y dejalo hervir a borbotones durante 2 a 3 minutos para evaporar el alcohol punzante y concentrar los azúcares y ésteres aromáticos.",
+          "Agregá el concentrado de tomate y la passata de tomate San Marzano. Mezclá con cuchara de madera, bajá a fuego medio-bajo y dejá reducir durante 12 a 15 minutos hasta lograr una salsa espesa y brillante. Salpimentá al gusto."
+        ]
+      },
+      {
+        "name": "Emulsión Rosada y Mantecado con Penne",
+        "steps": [
+          "Bajá el fuego al mínimo y verté la crema de leche fresca en hilo constante, revolviendo para transformar la salsa roja en una emulsión rosada homogénea, sedosa y aterciopelada.",
+          "Cociná los Penne Rigate al dente en abundante agua con sal marina. Escurrilos y pasalos directamente a la sartén con la salsa caliente y 2 cucharadas del agua de cocción.",
+          "Salteá a fuego vivo durante 1 minuto, apagá el fuego y añadí el Parmigiano Reggiano rallado y la albahaca fresca en chiffonade. Serví en platos hondos decorando con los cubitos de panceta crocante reservados."
+        ]
+      }
+    ],
+    "steps": [
+      "En una sartén grande a fuego medio, dorá la panceta en cubos durante 6 a 8 minutos. Reservá la mitad para decorar.",
+      "Agregá la manteca, la chalota picada, el ajo y el peperoncino, rehogando 5 minutos hasta transparentar.",
+      "Verté el vodka a fuego vivo y dejalo hervir 2 a 3 minutos para evaporar el alcohol y desglasar el fondo.",
+      "Incorporá el concentrado y la passata de tomate San Marzano. Cociná a fuego medio-bajo durante 12 a 15 minutos hasta espesar.",
+      "Bajá el fuego e incorporá la crema de leche fresca en hilo, mezclando hasta lograr una salsa rosada sedosa y brillante.",
+      "Sumá los Penne Rigate al dente con un chorrito de agua de pasta y salteá 1 minuto a fuego fuerte.",
+      "Retirá del fuego, integrá el Parmigiano Reggiano rallado, albahaca fresca y serví con la panceta crocante por encima."
+    ],
+    "notes": "La ciencia del vodka en la salsa de tomate: el alcohol neutro del vodka es un puente químico bifásico; permite liberar aromas liposolubles del tomate que el agua no puede extraer, mientras sus moléculas estabilizan la emulsión entre la grasa de la crema y los ácidos del tomate, impidiendo que la salsa se corte.",
+    "tags": [
+      "vodka",
+      "salsa alla vodka",
+      "penne alla vodka",
+      "crema",
+      "panceta",
+      "emilia",
+      "bistró",
+      "cocina italiana",
+      "receta tradicional",
+      "paso a paso"
     ]
   }
 ]
