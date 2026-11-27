@@ -96341,5 +96341,115 @@
       "Mezclá el pesto crudo directamente con casarecce o rigatoni calientes recién hervidos, sumando una cucharada de agua de cocción para darle un brillo sedoso impecable."
     ],
     "notes": "Escurrir la ricotta y despepitar los tomates: este doble paso es la clave para que el pesto mantenga una textura untuosa y aterciopelada como una mousse, sin soltar líquido en el fondo del plato."
+  },
+  {
+    "id": 901,
+    "title": "Pesto di Zucchine (Italia)",
+    "country": "Italia",
+    "category": "Pastas",
+    "tags": [
+      "pesto di zucchine",
+      "pesto",
+      "pestos",
+      "zucchini",
+      "calabacin",
+      "albahaca",
+      "menta",
+      "almendras",
+      "pastas",
+      "linguine",
+      "cocina italiana",
+      "receta de verano"
+    ],
+    "prep_time": "15 min",
+    "cook_time": "0 min",
+    "total_time": "15 min",
+    "servings": "4 porciones",
+    "calories": "340 kcal por porción",
+    "difficulty": "Baja",
+    "diet_badges": [
+      "Pastas",
+      "Vegetariano",
+      "Mediterránea",
+      "Origen Tradicional"
+    ],
+    "pairing": [
+      {
+        "type": "PASTA LARGA PLANA",
+        "name": "Linguine di Gragnano",
+        "icon": "linguine"
+      },
+      {
+        "type": "PASTA CORTA BISELADA",
+        "name": "Penne Rigate al Bronzo",
+        "icon": "penne_rigate"
+      }
+    ],
+    "image": "https://lh3.googleusercontent.com/-6IAT9l5cxFs/awmsKClkQCI/AAAAAAAQD14/5IYFWJAFPk8CCGa6W0YX-uAPpdu_i_0KwCNcBGAsYHQ/s1600/pesto_di_zucchine.jpg",
+    "story": "Nacido en los huertos de verano del centro y norte de Italia como el rey de los pestos de cosecha campesina, esta salsa celebra los calabacines más tiernos recogidos al alba en el calor de agosto. Surgió en las cocinas familiares para crear un condimento crudo, ligero y refrescante que no requiriera prender hornos ni fogones prolongados en plena canícula estival. En mi cocina es la salsa veraniega predilecta cuando busco un vestido verde sedoso, aterciopelado y suave para pastas largas, sin pesadez alguna.",
+    "ingredient_groups": [
+      {
+        "name": "Zucchinis y Hierbas Frescas",
+        "ingredients": [
+          "2 zucchinis medianos frescos y firmes (unos 350 g en total)",
+          "1 atado de albahaca fresca (hojas limpias y secas)",
+          "8 a 10 hojas de menta fresca (el secreto italiano para levantar el zucchini)",
+          "1/2 diente de ajo pequeño sin el germen verde"
+        ]
+      },
+      {
+        "name": "Frutos Secos, Quesos y Emulsión",
+        "ingredients": [
+          "50 g de almendras tostadas peladas (o piñones)",
+          "50 g de queso Parmigiano Reggiano rallado fino",
+          "25 g de queso Pecorino Romano rallado (para aportar carácter salino)",
+          "80 ml de aceite de oliva virgen extra de primera presión",
+          "Sal marina fina y pimienta blanca molida a gusto"
+        ]
+      }
+    ],
+    "ingredients": [
+      "2 zucchinis medianos frescos y firmes (unos 350 g en total)",
+      "1 atado de albahaca fresca (hojas limpias y secas)",
+      "8 a 10 hojas de menta fresca (el secreto italiano para levantar el zucchini)",
+      "1/2 diente de ajo pequeño sin el germen verde",
+      "50 g de almendras tostadas peladas (o piñones)",
+      "50 g de queso Parmigiano Reggiano rallado fino",
+      "25 g de queso Pecorino Romano rallado (para aportar carácter salino)",
+      "80 ml de aceite de oliva virgen extra de primera presión",
+      "Sal marina fina y pimienta blanca molida a gusto"
+    ],
+    "step_groups": [
+      {
+        "name": "Rallado y Drenado del Zucchini",
+        "steps": [
+          "Lavá bien los zucchinis, despuntalos y rallalos finamente con un rallador de verduras.",
+          "Colocá el zucchini rallado en un colador fino con una pizca de sal marina durante 10 minutos para que suelte el exceso de agua amarga; luego estrujalo firmemente entre tus manos o dentro de un paño limpio hasta que quede seco y liviano."
+        ]
+      },
+      {
+        "name": "Molienda en Frío y Majado",
+        "steps": [
+          "En el vaso de la procesadora o en mortero, machacá el medio diente de ajo con las almendras tostadas hasta formar una textura arenosa fina.",
+          "Sumá el zucchini escurrido, las hojas de albahaca, la menta fresca y los quesos rallados, pulsando en toques breves para conservar el color verde brillante natural."
+        ]
+      },
+      {
+        "name": "Emulsión y Servido con la Pasta",
+        "steps": [
+          "Verté el aceite de oliva virgen extra en un hilo constante mientras emulsionás suavemente hasta lograr una crema untuosa y ligera de color verde manzana.",
+          "Cociná linguine o penne rigate al dente, colocá el pesto crudo en una fuente amplia fuera del fuego y volcá la pasta caliente con un par de cucharadas del agua de hervor para que los almidones fundan la salsa, decorando con hojitas de albahaca y piñones o almendras crocantes."
+        ]
+      }
+    ],
+    "steps": [
+      "Lavá bien los zucchinis, despuntalos y rallalos finamente con un rallador de verduras.",
+      "Colocá el zucchini rallado en un colador fino con una pizca de sal marina durante 10 minutos para que suelte el exceso de agua amarga; luego estrujalo firmemente entre tus manos o dentro de un paño limpio hasta que quede seco y liviano.",
+      "En el vaso de la procesadora o en mortero, machacá el medio diente de ajo con las almendras tostadas hasta formar una textura arenosa fina.",
+      "Sumá el zucchini escurrido, las hojas de albahaca, la menta fresca y los quesos rallados, pulsando en toques breves para conservar el color verde brillante natural.",
+      "Verté el aceite de oliva virgen extra en un hilo constante mientras emulsionás suavemente hasta lograr una crema untuosa y ligera de color verde manzana.",
+      "Cociná linguine o penne rigate al dente, colocá el pesto crudo en una fuente amplia fuera del fuego y volcá la pasta caliente con un par de cucharadas del agua de hervor para que los almidones fundan la salsa, decorando con hojitas de albahaca y piñones o almendras crocantes."
+    ],
+    "notes": "El secreto de la textura: escurrir con fuerza el agua de vegetación del zucchini evita que la salsa quede acuosa y permite que el aceite de oliva y los quesos liguen en una crema tan aterciopelada como una mousse. El toque de menta fresca es esencial: en la cocina italiana tradicional, el zucchini siempre se acompaña con unas hojas de menta; su frescura balsámica corta la dulzura vegetal del calabacín y le da un aroma estival inconfundible."
   }
 ]

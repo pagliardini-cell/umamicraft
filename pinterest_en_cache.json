@@ -8942,5 +8942,35 @@
       "1 small clove of garlic without the internal sprout",
       "60 g toasted peeled almonds (or pine nuts)"
     ]
+  },
+  "899": {
+    "title_en": "Pesto di Olive Nere (Italy)",
+    "hook_en": "Rooted in the centuries-old olive groves of Calabria, Puglia and the Ligurian Riviera, black olive pesto (sometimes historically called 'the caviar of...",
+    "ingredients_en": [
+      "250 g fleshy black olives (type Taggiasche or Calabria), pitted",
+      "1 heaped tablespoon capers in salt or brine (rinsed and desalted)",
+      "1 small clove of garlic without the green germ",
+      "1 teaspoon of fresh thyme leaves (or young basil)"
+    ]
+  },
+  "900": {
+    "title_en": "Pesto alla Siciliana (Italy)",
+    "hook_en": "Considered the great creamy pesto of the Sicilian countryside, pesto alla siciliana synthesizes raw the four pillars of the island's garden: red tomatoes...",
+    "ingredients_en": [
+      "4 ripe, fleshy plum or round tomatoes (peeled, without seeds or excess water)",
+      "1 generous bunch of fresh broadleaf basil (clean, dry leaves)",
+      "1 small clove of garlic without germ",
+      "200 g good quality fresh ricotta (well drained)"
+    ]
+  },
+  "901": {
+    "title_en": "Pesto di Zucchine (Italy)",
+    "hook_en": "Born in the summer gardens of central and northern Italy as the king of peasant-harvested pestos, this sauce celebrates the tenderest zucchini r...",
+    "ingredients_en": [
+      "2 fresh, firm medium zucchini (about 350 g total)",
+      "1 bunch of fresh basil (clean and dry leaves)",
+      "8 to 10 fresh mint leaves (the Italian secret to lifting zucchini)",
+      "1/2 small clove of garlic without the green germ"
+    ]
   }
 }
