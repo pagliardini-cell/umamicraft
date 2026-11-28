@@ -1193,11 +1193,12 @@
       const countrySelect = document.getElementById('countrySelect');
       const countries = [...new Set(allRecipes.map(r => r.country).filter(Boolean))].sort();
       countries.forEach(c => {
+        const count = allRecipes.filter(r => r.country === c).length;
         const opt = document.createElement('option');
         opt.value = c;
-        opt.textContent = `${getFlagEmoji(c)} ${c}`;
+        opt.textContent = 📍  ();
         countrySelect.appendChild(opt);
-      });
+      });      });
     }
 
         // Hero Selección del Chef (Adaptado a filtros y colecciones activas)
@@ -2364,8 +2365,12 @@
       setTimeout(() => t.classList.remove('show'), 2800);
     }
 
-    // Arrancar la aplicación al cargar DOM
-    document.addEventListener('DOMContentLoaded', initApp);
+    // Arrancar la aplicación inmediatamente y al cargar DOM
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initApp);
+    } else {
+      initApp();
+    }
   </script>
 </body>
 </html>
