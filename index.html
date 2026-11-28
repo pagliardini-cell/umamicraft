@@ -251,7 +251,7 @@
           <!-- Columna Izquierda: Información -->
           <div class="lg:col-span-7 flex flex-col justify-center space-y-5">
             <div class="flex items-center gap-2">
-              <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-semibold tracking-wider uppercase bg-orange-500/15 text-orange-400 border border-orange-500/30">
+              <span id="heroKickerBadge" class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-semibold tracking-wider uppercase bg-orange-500/15 text-orange-400 border border-orange-500/30">
                 <i class="fa-solid fa-star text-[10px]"></i>
                 SELECCIÓN DEL CHEF
               </span>
@@ -935,6 +935,177 @@
 
 
     // Carga inicial
+    
+    let slugToRecipeMap = {};
+    let idToSlugMap = {};
+
+    function makeSlug(title) {
+      const charmap = {'ı':'i','İ':'i','ø':'o','Ø':'o','æ':'ae','Æ':'ae','œ':'oe','Œ':'oe','ß':'ss','ð':'d','þ':'th'};
+      let t = String(title || '');
+      for (const [k, v] of Object.entries(charmap)) t = t.replaceAll(k, v);
+      return t.normalize('NFKD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+    }
+
+    function buildSlugDictionary(list) {
+      slugToRecipeMap = {};
+      idToSlugMap = {};
+      const seen = {};
+      for (const r of list) {
+        const base = makeSlug(r.title);
+        let slug = base;
+        if (seen[base]) {
+          seen[base]++;
+          slug = `${base}-${seen[base]}`;
+        } else {
+          seen[base] = 1;
+        }
+        slugToRecipeMap[slug] = r;
+        idToSlugMap[r.id] = slug;
+      }
+    }
+
+    function parseDurationISO(str) {
+      if (!str) return null;
+      let totalMinutes = 0;
+      const hMatch = str.match(/(\d+)\s*(?:hora|hr|h)/i);
+      const mMatch = str.match(/(\d+)\s*(?:min|m)/i);
+      if (hMatch) totalMinutes += parseInt(hMatch[1], 10) * 60;
+      if (mMatch) totalMinutes += parseInt(mMatch[1], 10);
+      if (!hMatch && !mMatch) {
+        const num = str.match(/\d+/);
+        if (num) totalMinutes = parseInt(num[0], 10);
+      }
+      if (totalMinutes <= 0) return null;
+      const hours = Math.floor(totalMinutes / 60);
+      const mins = totalMinutes % 60;
+      let iso = 'PT';
+      if (hours > 0) iso += `${hours}H`;
+      if (mins > 0) iso += `${mins}M`;
+      return iso !== 'PT' ? iso : null;
+    }
+
+    function makeStepName(pos, rawText) {
+      let text = '';
+      if (typeof rawText === 'string') {
+        text = rawText;
+      } else if (rawText && typeof rawText === 'object') {
+        text = rawText.instruction || rawText.text || rawText.step || rawText.name || '';
+        if (!text && Array.isArray(rawText.items)) text = rawText.items.join('. ');
+        if (!text) text = JSON.stringify(rawText);
+      } else {
+        text = String(rawText || '');
+      }
+      const clean = text.replace(/^(\d+[\.\-\)]|\-|\*)\s*/, '').trim();
+      const firstDot = clean.split(/[\.\n]/)[0].trim();
+      let firstSentence = firstDot;
+      if (firstDot.includes(':') && firstDot.split(':')[0].trim().length <= 35) {
+        firstSentence = firstDot.split(':')[0].trim();
+      } else if (!firstSentence || firstSentence.length > 55) {
+        const words = clean.split(/\s+/);
+        let summary = '';
+        for (const w of words) {
+          if ((summary ? summary + ' ' + w : w).length <= 50) {
+            summary = summary ? summary + ' ' + w : w;
+          } else {
+            break;
+          }
+        }
+        firstSentence = summary.replace(/[,;:.\-]+$/, '').trim();
+      }
+      return firstSentence ? `Paso ${pos}: ${firstSentence}` : `Paso ${pos}`;
+    }
+
+    function injectRecipeSchema(r) {
+      const old = document.getElementById('schema-recipe-ld');
+      if (old) old.remove();
+
+      const country = r.country || 'Internacional';
+      const category = r.category || 'Plato Principal';
+      const imgUrl = (r.image || '').startsWith('http') ? r.image : new URL(r.image || '', window.location.href).href;
+      const ingredients = (r.ingredient_groups || []).flatMap(g => g.ingredients || g.items || []);
+      const rawSteps = (r.step_groups || []).flatMap(g => g.steps || g.items || []);
+      const finalSteps = rawSteps.length > 0 ? rawSteps : (r.steps || r.instructions || []);
+
+      const slug = (typeof idToSlugMap !== 'undefined' && idToSlugMap[r.id]) ? idToSlugMap[r.id] : makeSlug(r.title);
+      const pageUrl = `https://umamicraft.vercel.app/receta/${slug}`;
+
+      const _st = '@' + 'type';
+      const schema = {
+        "@context": "https://schema.org",
+        [_st]: "Recipe",
+        "name": r.title,
+        "description": r.story || `${r.title} — Receta de autor en UmamiCraft`,
+        "image": [imgUrl],
+        "author": {
+          [_st]: "Person",
+          "name": "Walter Pagliardini",
+          "url": "https://umamicraft.vercel.app"
+        },
+        "publisher": {
+          [_st]: "Organization",
+          "name": "UmamiCraft",
+          "url": "https://umamicraft.vercel.app",
+          "logo": {
+            [_st]: "ImageObject",
+            "url": "https://umamicraft.vercel.app/favicon.png"
+          }
+        },
+        "datePublished": "2024-02-01",
+        "recipeYield": r.servings || "4 porciones",
+        "recipeCategory": category,
+        "recipeCuisine": country,
+        "keywords": (r.tags || []).join(', '),
+        "recipeIngredient": ingredients.length > 0 ? ingredients : (r.ingredients || []),
+        "recipeInstructions": finalSteps.flatMap((st, idx) => {
+          if (typeof st === 'object' && st !== null && Array.isArray(st.items)) {
+            return st.items.map((sub, sidx) => ({
+              [_st]: "HowToStep",
+              "position": idx + sidx + 1,
+              "name": makeStepName(idx + sidx + 1, sub),
+              "text": String(sub),
+              "url": `${pageUrl}#paso-${idx + sidx + 1}`
+            }));
+          }
+          const textStr = (typeof st === 'object' && st !== null) ? (st.instruction || st.text || JSON.stringify(st)) : String(st || '');
+          return [{
+            [_st]: "HowToStep",
+            "position": idx + 1,
+            "name": makeStepName(idx + 1, textStr),
+            "text": textStr,
+            "url": `${pageUrl}#paso-${idx + 1}`
+          }];
+        })
+      };
+
+      const prepISO = parseDurationISO(r.prep_time);
+      if (prepISO) schema.prepTime = prepISO;
+
+      const cookISO = parseDurationISO(r.cook_time);
+      if (cookISO) schema.cookTime = cookISO;
+
+      if (r.calories) {
+        const calNum = parseInt(String(r.calories).match(/\d+/)?.[0] || '0', 10);
+        if (calNum > 0 && calNum < 9000) {
+          schema.nutrition = {
+            [_st]: "NutritionInformation",
+            "calories": `${calNum} calories`
+          };
+        }
+      }
+
+      const script = document.createElement('script');
+      script.type = 'application/ld+json';
+      script.id = 'schema-recipe-ld';
+      script.textContent = JSON.stringify(schema, null, 2);
+      document.head.appendChild(script);
+    }
+
+    function removeRecipeSchema() {
+      const s = document.getElementById('schema-recipe-ld');
+      if (s) s.remove();
+    }
+
+
     async function initApp() {
       try {
         const res = await fetch('/recetas_pro.json?v=' + Date.now());
@@ -952,11 +1123,46 @@
         return;
       }
 
+      buildSlugDictionary(allRecipes);
       populateFilterSelects();
-      renderRandomHero();
       applyFilters();
+      renderRandomHero();
       updateShoppingBadges();
       updateFavBadge();
+
+      // Despacho de URL inicial del servidor (/receta/slug o ?receta=id o #receta-id)
+      const urlParams = new URLSearchParams(window.location.search);
+      let querySlug = urlParams.get('receta') || urlParams.get('r');
+      if (!querySlug && window.location.pathname.includes('/receta/')) {
+        querySlug = window.location.pathname.split('/receta/')[1];
+      } else if (!querySlug && window.location.pathname.includes('/recetas/')) {
+        querySlug = window.location.pathname.split('/recetas/')[1];
+      } else if (!querySlug && window.location.pathname.includes('/r/')) {
+        querySlug = window.location.pathname.split('/r/')[1];
+      }
+      if (querySlug) {
+        querySlug = querySlug.split('#')[0].split('?')[0].replace(/\/$/, '');
+        try { querySlug = decodeURIComponent(querySlug).trim(); } catch(e) {}
+        const targetRecipe = slugToRecipeMap[querySlug] ||
+                             allRecipes.find(x => String(x.id) === querySlug) ||
+                             allRecipes.find(x => makeSlug(x.title) === querySlug);
+        if (targetRecipe) {
+          openModal(targetRecipe.id, false);
+        }
+      } else {
+        const hash = window.location.hash;
+        if (hash && hash.startsWith('#receta-')) {
+          const targetId = parseInt(hash.replace('#receta-', ''), 10);
+          if (targetId) openModal(targetId, false);
+        }
+      }
+
+      // Enlaces directos a coleccion (?coleccion=ramen o ?c=pastas)
+      const collectionParam = urlParams.get('coleccion') || urlParams.get('tag') || urlParams.get('c');
+      if (collectionParam && !querySlug) {
+        const chip = document.querySelector(`.collection-chip[data-col="${collectionParam.toLowerCase()}"]`);
+        if (chip) setCollection(collectionParam.toLowerCase(), chip);
+      }
 
       // Atajo de teclado ⌘K / Ctrl+K
       window.addEventListener('keydown', (e) => {
@@ -994,12 +1200,45 @@
       });
     }
 
-    // Hero Selección del Chef
-    function renderRandomHero() {
+        // Hero Selección del Chef (Adaptado a filtros y colecciones activas)
+    let currentHeroRecipeId = null;
+
+    function renderRandomHero(targetRecipe = null) {
       if (!allRecipes.length) return;
-      // Elegir receta destacada (preferir recetas con buena foto e historia)
-      const candidates = allRecipes.filter(r => r.image && r.story && r.story.length > 50);
-      const chosen = candidates[Math.floor(Math.random() * candidates.length)] || allRecipes[0];
+      
+      // Si hay recetas filtradas activas, el plato del dia se elige dentro del filtro actual
+      const activePool = (filteredRecipes && filteredRecipes.length > 0) ? filteredRecipes : allRecipes;
+      
+      let chosen = targetRecipe;
+      if (!chosen) {
+        // Preferir recetas del pool con buena foto e historia
+        const candidates = activePool.filter(r => r.image && r.story && r.story.length > 30);
+        const poolToUse = candidates.length > 0 ? candidates : activePool;
+        chosen = poolToUse[Math.floor(Math.random() * poolToUse.length)] || activePool[0];
+      }
+
+      if (!chosen) return;
+      currentHeroRecipeId = chosen.id;
+
+      // Kicker dinamico segun la coleccion o filtro activo
+      let kicker = 'SELECCIÓN DEL CHEF';
+      if (currentCollection && currentCollection !== 'all') {
+        const collLabels = {
+          'autor': 'DE AUTOR', 'ramen': 'RAMEN', 'empanadas': 'EMPANADAS',
+          'hamburguesas': 'HAMBURGUESAS', 'sandwiches': 'SÁNDWICHES', 'pastas': 'PASTAS',
+          'pestos': 'PESTOS', 'carnes': 'CARNES', 'salsas': 'SALSAS', 'cocktails': 'COCKTAILS'
+        };
+        kicker = `PLATO DESTACADO • ${collLabels[currentCollection] || currentCollection.toUpperCase()}`;
+      } else if (currentCountry) {
+        kicker = `PLATO DESTACADO • ${currentCountry.toUpperCase()}`;
+      } else if (currentCategory) {
+        kicker = `PLATO DESTACADO • ${currentCategory.toUpperCase()}`;
+      }
+
+      const kickerEl = document.getElementById('heroKickerBadge');
+      if (kickerEl) {
+        kickerEl.innerHTML = `<i class="fa-solid fa-star text-[10px]"></i> ${kicker}`;
+      }
       
       document.getElementById('heroCountryBadge').innerHTML = `<span>${getFlagEmoji(chosen.country)}</span> ${chosen.country.toUpperCase()}`;
       document.getElementById('heroTitle').textContent = chosen.title;
@@ -1019,6 +1258,7 @@
       const imgBox = document.getElementById('heroImgContainer');
       imgBox.onclick = () => openModal(chosen.id);
     }
+
 
     // Filtros combinados
     function handleSearch(val) {
@@ -1150,8 +1390,16 @@
         filteredRecipes.sort((a, b) => b.id - a.id);
       }
 
-      displayedCount = PAGE_CHUNK;
+            displayedCount = PAGE_CHUNK;
       renderGrid();
+
+      // Sincronizar el Plato del Día con el filtro activo (ej. Ramen, Pastas, País)
+      if (filteredRecipes.length > 0) {
+        if (!currentHeroRecipeId || !filteredRecipes.some(x => x.id === currentHeroRecipeId)) {
+          renderRandomHero();
+        }
+      }
+
     }
 
     function renderGrid() {
@@ -1491,7 +1739,27 @@
 
   
 
-    function openModal(recipeId) {
+    const defaultDocTitle = document.title;
+    let currentModalRecipeId = null;
+
+    function openModal(recipeId, updateHistory = true) {
+      const r = allRecipes.find(x => x.id === recipeId);
+      if (!r) return;
+      currentModalRecipeId = recipeId;
+
+      // Actualizar dinámicamente el título del navegador para SEO y pestaña
+      document.title = `Receta de ${r.title} | UmamiCraft`;
+
+      // Sincronizar URL amigable de servidor (/receta/slug)
+      if (updateHistory) {
+        const slug = (typeof idToSlugMap !== 'undefined' && idToSlugMap[r.id]) ? idToSlugMap[r.id] : makeSlug(r.title);
+        const cleanPath = slug ? `/receta/${slug}` : `/?receta=${r.id}`;
+        history.pushState({ modalRecipeId: r.id }, '', cleanPath);
+      }
+
+      // Inyectar Schema.org JSON-LD para motores de busqueda y crawlers
+      injectRecipeSchema(r);
+
       const r = allRecipes.find(x => x.id === recipeId);
       if (!r) return;
       currentModalRecipeId = recipeId;
@@ -1575,12 +1843,35 @@
       updateShoppingBadges();
     }
 
-    function closeModal() {
+    function closeModal(updateHistory = true) {
       document.getElementById('recipeModal').classList.remove('open');
-      if (!document.getElementById('shoppingListModal').classList.contains('open')) {
+      if (!document.getElementById('shoppingListModal') || !document.getElementById('shoppingListModal').classList.contains('open')) {
         document.body.style.overflow = '';
       }
+      document.title = defaultDocTitle;
+      currentModalRecipeId = null;
+
+      if (updateHistory) {
+        history.pushState(null, '', '/');
+      }
+      removeRecipeSchema();
     }
+
+    // Navegación nativa con historial del navegador (Atrás / Adelante del server)
+    window.addEventListener('popstate', (e) => {
+      const urlParams = new URLSearchParams(window.location.search);
+      let querySlug = urlParams.get('receta') || urlParams.get('r');
+      if (!querySlug && window.location.pathname.includes('/receta/')) {
+        querySlug = window.location.pathname.split('/receta/')[1].replace(/\/$/, '');
+      } else if (!querySlug && window.location.pathname.includes('/r/')) {
+        querySlug = window.location.pathname.split('/r/')[1].replace(/\/$/, '');
+      }
+      if (querySlug && slugToRecipeMap[querySlug]) {
+        openModal(slugToRecipeMap[querySlug].id, false);
+      } else if (document.getElementById('recipeModal').classList.contains('open')) {
+        closeModal(false);
+      }
+    });
 
     function changeServings(delta) {
       if (currentServings + delta >= 1 && currentServings + delta <= 24) {
