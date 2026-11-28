@@ -1494,6 +1494,7 @@
       padding: 0 4px;
       border: 2px solid var(--bg-elevated);
     }
+    #shoppingListModal { z-index: 1100; }
     .shopping-modal-card {
       max-width: 580px;
       width: 100%;
@@ -2430,7 +2431,7 @@
     function getAllIngredientsFlat(r) {
       const extractName = i => (typeof i === 'object' && i !== null) ? (i.name || '') : String(i || '');
       if (Array.isArray(r.ingredient_groups)) {
-        return r.ingredient_groups.flatMap(g => (g.items || []).map(extractName));
+        return r.ingredient_groups.flatMap(g => (g.ingredients || g.items || []).map(extractName));
       }
       return (r.ingredients || []).map(extractName);
     }
@@ -3069,7 +3070,7 @@
               <li class="ingredient-item ${isChecked ? 'checked' : ''}" id="ing-item-${idx}" onclick="toggleIngCheck(${idx})">
                 <div class="ing-check">✓</div>
                 <span style="flex-grow:1;">${displayText}</span>
-                <button type="button" class="ing-add-cart-btn" onclick="event.stopPropagation(); addSingleIngredientToShoppingList('${safeScaled}', '${safeTitle}')" title="Agregar solo este ingrediente a mi lista de compras">🛒+</button>
+                <button type="button" class="ing-add-cart-btn" data-ing="${encodeURIComponent(displayText)}" data-title="${encodeURIComponent(r.title || '')}" onclick="event.stopPropagation(); addSingleIngredientFromBtn(this)" title="Agregar solo este ingrediente a mi lista de compras">🛒+</button>
               </li>
             `;
           }).join('')}
@@ -3256,7 +3257,7 @@
       const country = getCountry(r);
       const category = getCategory(r);
       const imgUrl = (r.image || '').startsWith('http') ? r.image : new URL(r.image || '', window.location.href).href;
-      const ingredients = (r.ingredient_groups || []).flatMap(g => g.items || []);
+      const ingredients = (r.ingredient_groups || []).flatMap(g => g.ingredients || g.items || []);
       const rawSteps = (r.step_groups || []).flatMap(g => g.steps || g.items || []);
       const finalSteps = rawSteps.length > 0 ? rawSteps : (r.steps || r.instructions || []);
 
@@ -4014,13 +4015,14 @@
       const multiplier = baseServings > 0 ? currentServings / baseServings : 1;
       const groups = Array.isArray(r.ingredient_groups) && r.ingredient_groups.length > 0
         ? r.ingredient_groups
-        : [{ name: 'Ingredientes', items: r.ingredients || [] }];
+        : [{ name: 'Ingredientes', ingredients: r.ingredients || [] }];
 
       const currentList = getShoppingList();
       let addedCount = 0;
 
       groups.forEach(g => {
-        (g.items || []).forEach(item => {
+        const rawItems = g.ingredients || g.items || [];
+        rawItems.forEach(item => {
           let itemText = item;
           if (typeof item === 'object' && item !== null) {
             const amt = item.amount ? String(item.amount).trim() : '';
@@ -4046,8 +4048,38 @@
         });
       });
 
+      if (addedCount === 0 && Array.isArray(r.ingredients) && r.ingredients.length > 0) {
+        r.ingredients.forEach(item => {
+          const itemText = typeof item === 'string' ? item : (item.name || '');
+          const scaledText = scaleIngredientText(itemText, multiplier).trim();
+          if (!scaledText) return;
+          const exists = currentList.some(x => x.recipeId === r.id && x.text.toLowerCase() === scaledText.toLowerCase());
+          if (!exists) {
+            currentList.push({
+              id: 'shop_' + Date.now() + '_' + Math.random().toString(36).substr(2, 6),
+              recipeId: r.id,
+              recipeTitle: r.title,
+              text: scaledText,
+              bought: false
+            });
+            addedCount++;
+          }
+        });
+      }
+
       saveShoppingList(currentList);
-      showToast(`🛒 Se agregaron ${addedCount} ingredientes a tu Lista de Compras.`);
+      if (addedCount > 0) {
+        showToast(`🛒 Se agregaron ${addedCount} ingredientes a tu Lista de Compras.`);
+      } else {
+        showToast(`ℹ️ Los ingredientes de esta receta ya están en tu Lista de Compras.`);
+      }
+    }
+
+    function addSingleIngredientFromBtn(btn) {
+      if (!btn) return;
+      const text = decodeURIComponent(btn.getAttribute('data-ing') || '');
+      const title = decodeURIComponent(btn.getAttribute('data-title') || '');
+      addSingleIngredientToShoppingList(text, title);
     }
 
     function addSingleIngredientToShoppingList(text, recipeTitle) {
@@ -4155,7 +4187,7 @@
           <div class="shopping-recipe-group">
             <div class="shopping-recipe-title">
               <span>🍽️ ${recipeTitle}</span>
-              <button type="button" class="btn-subtle-danger" style="font-size:0.75rem; padding:2px 6px;" onclick="removeRecipeFromShoppingList('${recipeTitle.replace(/'/g, "\\'")}')" title="Quitar todos los ingredientes de esta receta">Quitar</button>
+              <button type="button" class="btn-subtle-danger" style="font-size:0.75rem; padding:2px 6px;" data-title="${encodeURIComponent(recipeTitle)}" onclick="removeRecipeFromShoppingList(decodeURIComponent(this.getAttribute('data-title')))" title="Quitar todos los ingredientes de esta receta">Quitar</button>
             </div>
             ${items.map(it => `
               <div class="shopping-item-row ${it.bought ? 'bought' : ''}">
@@ -4311,7 +4343,7 @@
         const iGroups = Array.isArray(recipeObj.ingredient_groups) && recipeObj.ingredient_groups.length
           ? recipeObj.ingredient_groups
           : [{ name: 'Ingredientes', items: [] }];
-        iGroups.forEach(g => addIngredientGroupField(g.name, (g.items || []).join('\n')));
+        iGroups.forEach(g => addIngredientGroupField(g.name, (g.ingredients || g.items || []).join('\n')));
 
         const sGroups = Array.isArray(recipeObj.step_groups) && recipeObj.step_groups.length
           ? recipeObj.step_groups
